@@ -37,7 +37,12 @@ window.HYPERS_EDITIONS = {
           "Reakcje w sieci są mocno podzielone. Według analizy Res Futura, którą przytacza Rzeczpospolita, w pierwszej dobie około 70% opinii było krytycznych. Jednocześnie ponad 60% interakcji pochodziło z czterech dużych kont, a chęć bojkotu zadeklarowało mniej niż 3% komentujących. Internauci najczęściej narzekają na cenę w stosunku do wielkości i na skład.",
           "Eksperci od marek oceniają ruch różnie. Jacek Sadowski z DEMO Power Brands nazywa go ryzykownym, ale biznesowo racjonalnym. Wiola Łada-Szewczenko z IQS zwraca uwagę, że zagrożona jest wiarygodność, którą Książulo budował latami jako recenzent jedzenia, a prawdziwym testem będzie to, czy klienci wrócą po kolejną pizzę za kilka miesięcy.",
           "Jastrząb Post opisał też szacunki twórcy internetowego Marcina Dzikowskiego, według których Książulo może zarabiać około złotówki brutto na każdej sprzedanej pizzy. To jednak wyliczenia oparte na założeniach, a nie oficjalne dane."
-        ]
+        ],
+        "embed": "https://www.youtube.com/watch?v=RNZ2lfL5Q04",
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Film Książula o kulisach pizzy „Muala”, opublikowany kilka dni przed premierą. To w nim twórca pokazuje fabrykę na Słowacji i test smaku z widzami. Ten materiał to punkt odniesienia dla dyskusji o cenie i składzie, którą opisujemy w artykule."
+        }
       }
     ],
     "drop": [
@@ -107,7 +112,11 @@ window.HYPERS_EDITIONS = {
           "Blendusiak zmierzy się z Kasprem „Klepsydrą” Gutkowskim. Walka odbędzie się w formule K-1 z 15-sekundowym parterem, a limit wagowy to 85 kg.",
           "Ogłoszenie opisały m.in. Zawód Typer i BOOP.PL."
         ],
-        "embed": "https://www.youtube.com/watch?v=VihVkl1KakA"
+        "embed": "https://www.youtube.com/watch?v=VihVkl1KakA",
+        "caption": {
+          "credit": "FAME MMA / YouTube",
+          "text": "Face2Face opublikowany przez FAME MMA na YouTube przed galą FAME 33. Osadzamy go, bo to potwierdzenie zestawienia Blendusiak – Klepsydra bezpośrednio u organizatora, a nie tylko na grafikach krążących po sieci."
+        }
       },
       {
         "category": "Wiral",
@@ -146,6 +155,11 @@ window.HYPERS_EDITIONS = {
         "region": "pl",
         "sources": [
           {
+            "name": "TikTok Szamka Kebab",
+            "origin": true,
+            "url": "https://www.tiktok.com/@szamka_kebabwrz/video/7693525118521298208"
+          },
+          {
             "name": "WP Wiadomości",
             "url": "https://informacje.wp.pl/wiadomosci/kebab-zerwal-naklejke-muala-po-premierze-pizzy-ksiazula-w-zabce-7337410812754336a"
           },
@@ -163,9 +177,14 @@ window.HYPERS_EDITIONS = {
         "who": "Kebab",
         "body": [
           "Naklejka „Muala” to znak, który Książulo przyznaje lokalom, w których najbardziej smakowało mu jedzenie. Dla wielu restauracji była ważną reklamą, bo przyciągała fanów jego recenzji.",
-          "Po premierze pizzy Książula w Żabce lokal Szamka Kebab zdjął ją ze swojej szyby. Na nagraniu udostępnionym w sieci właściciele mówią, że wyróżnienie kiedyś wiele dla nich znaczyło, dziękują za trzy lata i zdejmują naklejkę.",
+          "Po premierze pizzy Książula w Żabce lokal Szamka Kebab z Wrześni zdjął ją ze swojej szyby. Na nagraniu opublikowanym na swoim TikToku właściciele mówią, że dostali „Muala” w 2023 roku i byli z tego dumni, ale teraz, gdy ta sama nazwa jest na mrożonej pizzy w tysiącach sklepów, znak stracił dla nich dawne znaczenie. Dziękują za trzy lata i zdejmują naklejkę.",
           "Sprawę opisały m.in. WP, Pudelek i Jastrząb Post. To kolejny głos krytyki wobec Książula po premierze jego pizzy w Żabce."
-        ]
+        ],
+        "embed": "https://www.tiktok.com/@szamka_kebabwrz/video/7693525118521298208",
+        "caption": {
+          "credit": "Szamka Kebab (@szamka_kebabwrz) / TikTok",
+          "text": "Nagranie opublikowane przez sam lokal. Widać w nim moment zdejmowania naklejki „Muala”, a właściciele tłumaczą, dlaczego to robią. To na podstawie tego filmu sprawę opisały portale wymienione w źródłach."
+        }
       },
       {
         "category": "Kampania",
@@ -201,7 +220,11 @@ window.HYPERS_EDITIONS = {
           "Spot kampanii miał premierę 7 października na kanałach Samsung Polska na YouTube i Instagramie. Dwa dni wcześniej Quebonafide zapowiedział go teaserem na swoim Instagramie.",
           "W centrum kampanii jest składany Galaxy Z Fold8, a w materiałach pojawia się też Galaxy S26 Ultra. Do akcji dołączyło około 40 twórców i influencerów, a kampania potrwa do połowy grudnia."
         ],
-        "embed": "https://www.youtube.com/watch?v=Xb4W5zKQ-Rs"
+        "embed": "https://www.youtube.com/watch?v=Xb4W5zKQ-Rs",
+        "caption": {
+          "credit": "Samsung Polska / YouTube",
+          "text": "Spot kampanii z kanału Samsung Polska, który miał premierę 7 października. To w nim Quebonafide występuje jako mentor „funmaxxingu”, a w centrum uwagi jest składany Galaxy Z Fold8. Pokazujemy go, bo to właśnie ten materiał omawiamy: hasło o robieniu rzeczy dla przyjemności zamiast ciągłej optymalizacji."
+        }
       }
     ]
   }

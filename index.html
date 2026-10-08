@@ -132,6 +132,13 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .embed-tt{height:740px;max-width:340px}
 .embed .instagram-media,.embed .twitter-tweet{margin:0!important}
 .emb{color:var(--blue)}
+/* podpis-komentarz pod osadzonym materiałem (prawo cytatu: komentarz + autor + źródło) */
+.fig{margin:18px 0 22px;max-width:560px}
+.fig .embed{margin:0}
+.fig figcaption{border-left:4px solid var(--blue);padding:8px 0 2px 12px;margin-top:10px;font-size:.88rem;line-height:1.45}
+.fig figcaption .cr,.credit{display:block;margin-top:4px;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.credit{margin:-6px 0 10px;position:relative;z-index:2}
+.fig figcaption a,.credit a{color:inherit;text-decoration-color:var(--blue)}
 /* layout: fluid grids, no fixed single column */
 .wrap{max-width:1240px;padding-inline:clamp(16px,3vw,40px)}
 .story{display:grid;grid-template-columns:minmax(0,1fr);gap:0 16px;align-content:start}
@@ -286,15 +293,24 @@ function showConsent(){
   $('c-yes').onclick=()=>setConsent('all');
   $('c-no').onclick=()=>setConsent('necessary');
 }
+function creditHtml(n,e){
+  const c=n.caption||{}; const who=c.credit||e.name;
+  return `${c.credit?'':'Źródło: '}${esc(who)} · <a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">oryginał ↗</a>`;
+}
+function credit(n){
+  const e=embedOf(n); if(!e||!embedsAllowed()) return '';
+  return `<span class="credit">Materiał: ${creditHtml(n,e)}</span>`;
+}
 function embedBlock(n){
   const e=embedOf(n); if(!e) return '';
-  return `<div class="embed" id="embed" data-p="${e.p}">
+  const cap=n.caption&&n.caption.text?`<figcaption>${esc(n.caption.text)}<span class="cr">Materiał: ${creditHtml(n,e)}</span></figcaption>`:`<figcaption><span class="cr">Materiał: ${creditHtml(n,e)}</span></figcaption>`;
+  return `<figure class="fig"><div class="embed" id="embed" data-p="${e.p}">
     <div class="embed-gate">
       <span class="plat">${e.label}</span>
       <p>Odrzuciłeś cookies, więc nie ładujemy treści z serwisu ${e.name}. Możesz wyświetlić ten jeden post albo zmienić zgodę (<a href="polityka-prywatnosci.html">więcej</a>).</p>
       <div class="acts"><button class="btn" data-load>Pokaż</button><button class="ghost" data-always>Zawsze pokazuj posty</button>
       <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w ${e.name} ↗</a></div>
-    </div></div>`;
+    </div></div>${cap}</figure>`;
 }
 const SEC_LABEL={drama:'Drama',luz:'Na luzie',drop:'Dropy'};
 function poster(n,sec){
@@ -361,10 +377,10 @@ function meta(n){
 }
 const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
 function story(n,sec,i){
-  return `<article class="story card" data-card="${sec}:${i}">${media(n,sec)}${meta(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
+  return `<article class="story card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}${meta(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
 }
 function tile(n,sec,i){
-  return `<article class="tile card" data-card="${sec}:${i}">${media(n,sec)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
+  return `<article class="tile card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
 }
 function sectionHtml(sec,list,skipFirst){
   const idx=list.map((n,i)=>i).slice(skipFirst?1:0);
@@ -447,7 +463,7 @@ function renderView(){
   const total=lists.reduce((t,x)=>t+x.list.length,0);
   v.innerHTML=(lead?`<section class="cover card" data-card="${leadSec.sec.key}:0">
       <span class="kicker">${leadSec.sec.title} · temat dnia · ${nyNewsy(total)} w wydaniu</span>
-      <h2 class="hl"><a class="card-link" href="#${aid(leadSec.sec.key,0)}">${markHead(lead.title)}</a></h2>${media(lead,leadSec.sec.key)}
+      <h2 class="hl"><a class="card-link" href="#${aid(leadSec.sec.key,0)}">${markHead(lead.title)}</a></h2>${media(lead,leadSec.sec.key)}${credit(lead)}
       ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p><span class="more">Czytaj dalej →</span>
     </section>`:'')+
     '<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec)).join('')+'</div>';
