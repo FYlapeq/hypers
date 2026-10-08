@@ -92,6 +92,11 @@ window.HYPERS_EDITIONS = {
             "name": "Instagram FAME MMA",
             "origin": true,
             "url": "https://www.instagram.com/famemmatv/"
+          },
+          {
+            "name": "YouTube FAME MMA (Face2Face)",
+            "url": "https://www.youtube.com/watch?v=VihVkl1KakA",
+            "origin": true
           }
         ],
         "summary": "FAME MMA ogłosiło, że Marcin „Blendusiak” Jędrusiak zadebiutuje na gali FAME 33. Jego rywalem będzie Kasper „Klepsydra” Gutkowski.",
@@ -101,7 +106,8 @@ window.HYPERS_EDITIONS = {
           "Federacja FAME MMA opublikowała na Instagramie zestawienie kolejnych walk gali FAME 33. Wśród nowych nazwisk znalazł się Marcin „Blendusiak” Jędrusiak, dla którego będzie to debiut we freak fightach.",
           "Blendusiak zmierzy się z Kasprem „Klepsydrą” Gutkowskim. Walka odbędzie się w formule K-1 z 15-sekundowym parterem, a limit wagowy to 85 kg.",
           "Ogłoszenie opisały m.in. Zawód Typer i BOOP.PL."
-        ]
+        ],
+        "embed": "https://www.youtube.com/watch?v=VihVkl1KakA"
       },
       {
         "category": "Wiral",
@@ -180,6 +186,11 @@ window.HYPERS_EDITIONS = {
           {
             "name": "aboutmarketing",
             "url": "https://aboutmarketing.pl/quebonafide-uczy-funmaxxingu-w-nowej-kampanii-samsung/"
+          },
+          {
+            "name": "YouTube Samsung Polska",
+            "url": "https://www.youtube.com/watch?v=Xb4W5zKQ-Rs",
+            "origin": true
           }
         ],
         "summary": "Quebonafide jest twarzą nowej kampanii Samsunga „Wyciągnij maksimum z tego, co lubisz”. Zamiast ciągłej optymalizacji kampania namawia do „funmaxxingu”, czyli robienia rzeczy dla czystej przyjemności.",
@@ -189,7 +200,8 @@ window.HYPERS_EDITIONS = {
           "Samsung Polska wystartował z kampanią „Wyciągnij maksimum z tego, co lubisz”. Jej główną twarzą jest Quebonafide, który występuje jako mentor „funmaxxingu”. Hasło ma być odpowiedzią na modę na ciągłą samooptymalizację: chodzi o to, żeby znaleźć czas na rzeczy, które się po prostu lubi.",
           "Spot kampanii miał premierę 7 października na kanałach Samsung Polska na YouTube i Instagramie. Dwa dni wcześniej Quebonafide zapowiedział go teaserem na swoim Instagramie.",
           "W centrum kampanii jest składany Galaxy Z Fold8, a w materiałach pojawia się też Galaxy S26 Ultra. Do akcji dołączyło około 40 twórców i influencerów, a kampania potrwa do połowy grudnia."
-        ]
+        ],
+        "embed": "https://www.youtube.com/watch?v=Xb4W5zKQ-Rs"
       }
     ]
   }
