@@ -62,32 +62,6 @@ window.HYPERS_EDITIONS = {
         "who": "Vans",
         "img": "img/vans.jpg",
         "imgCredit": "Vans via Design Scene"
-      },
-      {
-        "category": "Buty",
-        "hype": 4,
-        "initials": "BD",
-        "published": "2026-10-08",
-        "region": "world",
-        "sources": [
-          {
-            "name": "Sole Retriever",
-            "url": "https://www.soleretriever.com/sneaker-release-dates/adidas/samba/adidas-samba-bowling-brain-dead-cheetah-kh8143"
-          },
-          {
-            "name": "Sneakerjagers",
-            "url": "https://www.sneakerjagers.com/en/releases"
-          },
-          {
-            "name": "Highsnobiety",
-            "url": "https://www.highsnobiety.com/l/drop-calendar/"
-          }
-        ],
-        "summary": "Od dziś w sprzedaży Samba Bowling w dwóch wersjach: „Cheetah” w cętki i „Snakeskin”. Cena według Sole Retriever to 250 dolarów.",
-        "title": "Brain Dead x adidas: bowlingowe Samby w panterkę i węża",
-        "who": "Brain Dead",
-        "img": "img/braindead.jpg",
-        "imgCredit": "Sole Retriever"
       }
     ],
     "luz": [
