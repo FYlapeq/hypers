@@ -67,8 +67,8 @@ window.HYPERS_EDITIONS = {
         "summary": "Fotograf deskorolkowy Atiba Jefferson i Vans wypuścili od dziś drugą kolekcję „United Through Skateboarding”. W kampanii wystąpił m.in. Flea z Red Hot Chili Peppers.",
         "title": "Atiba Jefferson x Vans: druga kolekcja od dziś w sklepach",
         "who": "Vans",
-        "img": "img/vans.jpg",
-        "imgCredit": "Vans via Design Scene",
+        "img": "img/2026-10-08-vans.jpg",
+        "imgCredit": "Design Scene",
         "body": [
           "Vans i legendarny fotograf deskorolkowy Atiba Jefferson wracają z drugą odsłoną kolekcji „United Through Skateboarding”. Od czwartku, 8 października, jest ona dostępna na całym świecie na Vans.com, w wybranych sklepach Vans i skateshopach.",
           "W kolekcji są m.in. AVE Rapid w złotym kolorze „Atiba Gold”, różowe Authentic 44 oraz Sk8-Hi z nadrukiem zdjęcia skatera Geoffa Rowleya. Rowan Z3 ma portret Rowana Zorilli na pudełku. Do tego dochodzą bluzy, kurtka, spodnie cargo i dresy.",
