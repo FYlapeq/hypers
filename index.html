@@ -147,12 +147,45 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
   .sec-sub{flex-basis:100%;order:3}
 }
 
-/* clickable cards + article */
-.card-link{display:block;color:inherit;text-decoration:none;cursor:pointer}
-a.story.card-link{display:grid}
-a.tile.card-link{display:flex}
-.card-link:hover .hl{text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:4px}
-.card-link:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+/* clickable cards: the title link stretches over the whole card; media sits above it so embeds stay interactive */
+.card{position:relative}
+.card-link{color:inherit;text-decoration:none}
+.card-link::after{content:"";position:absolute;inset:0;z-index:1}
+.card:hover .hl{text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:4px}
+.card-link:focus-visible{outline:none}
+.card:has(.card-link:focus-visible){outline:3px solid var(--blue);outline-offset:4px}
+.card .media.live{position:relative;z-index:2}
+
+/* media slot: embedded post, or our own typographic poster */
+.media{margin:4px 0 12px;min-width:0}
+.cover .media{margin:14px 0 6px}
+.tile .media{margin:-14px -14px 4px}
+.poster{position:relative;aspect-ratio:16/10;background:var(--blue);color:var(--on-blue);overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px 16px;border:2px solid var(--rule)}
+.tile .poster{border:0;aspect-ratio:auto;height:clamp(170px,24vw,260px)}
+.poster.p-luz{background:var(--peach);color:var(--on-peach)}
+.poster.p-drop{background:var(--ink);color:var(--paper)}
+.poster .ini{position:absolute;right:-.06em;bottom:-.22em;font-family:var(--display);font-size:clamp(7rem,30vw,11rem);line-height:1;opacity:.18;letter-spacing:-.02em}
+.poster .tag{font-weight:800;font-size:.66rem;text-transform:uppercase;letter-spacing:.16em;opacity:.85}
+.poster .who{font-family:var(--display);font-size:clamp(1.8rem,6vw,2.6rem);line-height:1;text-transform:uppercase;max-width:80%}
+.poster .via{align-self:flex-start;background:var(--paper);color:var(--ink);font-weight:800;font-size:.66rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 7px}
+.media .embed{margin:0}
+.media .instagram-media{min-width:0!important;width:100%!important}
+.media .embed-tt{height:600px;max-width:325px}
+
+/* consent banner */
+.consent{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--paper);color:var(--ink);border-top:4px solid var(--rule);box-shadow:0 -6px 24px rgba(0,0,0,.18)}
+.consent .wrap{padding-block:16px 18px;display:grid;gap:10px;max-width:760px}
+.consent strong{font-family:var(--display);font-weight:400;text-transform:uppercase;font-size:1.4rem;line-height:1.1}
+.consent p{margin:0;font-size:.9rem}
+.consent .acts{display:flex;flex-wrap:wrap;gap:8px}
+.consent .btn{flex:1 1 140px}
+.btn.alt{background:var(--ink);color:var(--paper)}
+.linkbtn{background:none;border:0;padding:0;font-weight:600;text-decoration:underline;text-decoration-color:var(--blue);cursor:pointer;color:var(--ink);font-size:inherit}
+@media (min-width:640px){
+  .cover:has(.media){grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
+  .cover:has(.media) > :not(.media){grid-column:1}
+  .cover .media{grid-column:2;grid-row:1/span 6;margin:8px 0 0}
+}
 .more{display:inline-block;margin-top:8px;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blue)}
 .tile .more{color:inherit}
 .article{max-width:760px;margin:0 auto;padding-block:20px 10px}
@@ -198,8 +231,16 @@ a.tile.card-link{display:flex}
 
 <footer class="wrap site-foot">
   <p><strong>Hypers</strong> · codzienne wydanie o 7:00 · każdy news z min. 3 źródeł</p>
-  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a> · <a href="kontakt.html">Kontakt</a> · <a href="polityka-prywatnosci.html">Polityka prywatności</a></nav>
+  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a> · <a href="kontakt.html">Kontakt</a> · <a href="polityka-prywatnosci.html">Polityka prywatności</a> · <button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
 </footer>
+
+<div class="consent" id="consent" role="dialog" aria-labelledby="c-title" hidden>
+  <div class="wrap">
+    <strong id="c-title">Zdjęcia i filmy w Hypers</strong>
+    <p>Pokazujemy oryginalne posty i filmy twórców z Instagrama, TikToka, X i YouTube'a. Te serwisy zapisują pliki cookies i mogą używać ich także do reklam. Jeśli się zgodzisz, posty wyświetlą się od razu. Bez zgody zobaczysz tylko teksty i nasze grafiki. Zgodę zmienisz w każdej chwili w stopce. <a href="polityka-prywatnosci.html">Polityka prywatności</a></p>
+    <div class="acts"><button class="btn" id="c-yes">Akceptuję</button><button class="btn alt" id="c-no">Odrzuć</button></div>
+  </div>
+</div>
 
 <script>
 const WD=['nd','pn','wt','śr','cz','pt','sb'];
@@ -236,42 +277,73 @@ function embedOf(n){
   for(const u of cands){const e=parseEmbed(u); if(e) return e}
   return null;
 }
-const EMB_KEY='hypers-embeds';
-const embedsAllowed=()=>{try{return localStorage.getItem(EMB_KEY)==='1'}catch(e){return false}};
+const CONSENT_KEY='hypers-consent';
+const getConsent=()=>{try{return localStorage.getItem(CONSENT_KEY)}catch(e){return null}};
+function setConsent(v){try{localStorage.setItem(CONSENT_KEY,v)}catch(e){} window.__consent=v; $('consent').hidden=true; route()}
+const embedsAllowed=()=>(window.__consent||getConsent())==='all';
+function showConsent(){
+  const c=$('consent'); c.hidden=false;
+  $('c-yes').onclick=()=>setConsent('all');
+  $('c-no').onclick=()=>setConsent('necessary');
+}
 function embedBlock(n){
   const e=embedOf(n); if(!e) return '';
   return `<div class="embed" id="embed" data-p="${e.p}">
     <div class="embed-gate">
       <span class="plat">${e.label}</span>
-      <p>Ten materiał pochodzi z serwisu ${e.name}. Po wyświetleniu ${e.name} może zapisać na Twoim urządzeniu pliki cookies (<a href="polityka-prywatnosci.html">więcej</a>).</p>
-      <div class="acts"><button class="btn" data-load>Pokaż</button><button class="ghost" data-always>Zawsze pokazuj osadzone posty</button>
+      <p>Odrzuciłeś cookies, więc nie ładujemy treści z serwisu ${e.name}. Możesz wyświetlić ten jeden post albo zmienić zgodę (<a href="polityka-prywatnosci.html">więcej</a>).</p>
+      <div class="acts"><button class="btn" data-load>Pokaż</button><button class="ghost" data-always>Zawsze pokazuj posty</button>
       <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w ${e.name} ↗</a></div>
     </div></div>`;
+}
+const SEC_LABEL={drama:'Drama',luz:'Na luzie',drop:'Dropy'};
+function poster(n,sec){
+  const e=embedOf(n);
+  return `<div class="poster p-${sec}" aria-hidden="true"><span class="tag">Hypers · ${SEC_LABEL[sec]||''} · ${esc(n.category||'')}</span><span class="who">${esc(n.who||'')}</span>${e?`<span class="via">▶ ${e.label}</span>`:''}<span class="ini">${esc(n.initials||'')}</span></div>`;
+}
+let mediaSeq=0;
+function media(n,sec){
+  const e=embedOf(n);
+  if(e&&embedsAllowed()) return `<div class="media live" data-emb="${++mediaSeq}">${poster(n,sec)}</div>`;
+  return `<div class="media">${poster(n,sec)}</div>`;
 }
 function loadScript(src,id){
   return new Promise(res=>{const old=document.getElementById(id); if(old){res();return}
     const sc=document.createElement('script'); sc.src=src; sc.async=true; sc.id=id; sc.onload=res; sc.onerror=res; document.body.appendChild(sc)});
 }
-async function mountEmbed(n){
-  const box=$('embed'); const e=embedOf(n); if(!box||!e) return;
-  if(e.p==='yt') box.innerHTML=`<iframe class="embed-frame embed-yt" src="https://www.youtube-nocookie.com/embed/${e.id}" title="${esc(n.title)} – film na YouTube" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>`;
-  if(e.p==='tt') box.innerHTML=`<iframe class="embed-frame embed-tt" src="https://www.tiktok.com/embed/v2/${e.id}" title="${esc(n.title)} – film na TikToku" allow="encrypted-media; fullscreen" allowfullscreen loading="lazy"></iframe>`;
+async function mountInto(box,e,title,full){
+  if(!box||!e) return;
+  if(e.p==='yt') box.innerHTML=`<iframe class="embed-frame embed-yt" src="https://www.youtube-nocookie.com/embed/${e.id}" title="${esc(title)} – film na YouTube" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>`;
+  if(e.p==='tt') box.innerHTML=`<iframe class="embed-frame embed-tt" src="https://www.tiktok.com/embed/v2/${e.id}" title="${esc(title)} – film na TikToku" allow="encrypted-media; fullscreen" allowfullscreen loading="lazy"></iframe>`;
   if(e.p==='ig'){
-    box.innerHTML=`<blockquote class="instagram-media" data-instgrm-permalink="${esc(e.url)}" data-instgrm-version="14" data-instgrm-captioned><a href="${esc(e.url)}" target="_blank" rel="noopener">Zobacz post na Instagramie</a></blockquote>`;
+    box.innerHTML=`<blockquote class="instagram-media" data-instgrm-permalink="${esc(e.url)}" data-instgrm-version="14"${full?' data-instgrm-captioned':''}><a href="${esc(e.url)}" target="_blank" rel="noopener">Zobacz post na Instagramie</a></blockquote>`;
     await loadScript('https://www.instagram.com/embed.js','ig-embed');
     if(window.instgrm) window.instgrm.Embeds.process();
   }
   if(e.p==='x'){
-    box.innerHTML=`<blockquote class="twitter-tweet" data-dnt="true" data-lang="pl"><a href="${esc(e.url)}">Zobacz wpis na X</a></blockquote>`;
+    box.innerHTML=`<blockquote class="twitter-tweet" data-dnt="true" data-lang="pl"${full?'':' data-conversation="none" data-cards="visible"'}><a href="${esc(e.url)}">Zobacz wpis na X</a></blockquote>`;
     await loadScript('https://platform.twitter.com/widgets.js','x-embed');
     if(window.twttr&&twttr.widgets) twttr.widgets.load(box);
   }
+}
+function mountEmbed(n){ return mountInto($('embed'),embedOf(n),n.title,true) }
+let io=null;
+function wireCards(ed){
+  if(io) io.disconnect();
+  if(!embedsAllowed()) return;
+  const boxes=[...document.querySelectorAll('.media.live')];
+  io=new IntersectionObserver(ents=>ents.forEach(en=>{
+    if(!en.isIntersecting) return; io.unobserve(en.target);
+    const card=en.target.closest('[data-card]'); const [sec,i]=card.dataset.card.split(':');
+    const n=ed[sec][+i]; mountInto(en.target,embedOf(n),n.title,false);
+  }),{rootMargin:'400px 0px'});
+  boxes.forEach(b=>io.observe(b));
 }
 function wireEmbed(n){
   const box=$('embed'); if(!box) return;
   if(embedsAllowed()){mountEmbed(n);return}
   box.querySelector('[data-load]').onclick=()=>mountEmbed(n);
-  box.querySelector('[data-always]').onclick=()=>{try{localStorage.setItem(EMB_KEY,'1')}catch(e){} mountEmbed(n)};
+  box.querySelector('[data-always]').onclick=()=>setConsent('all');
 }
 function nyNewsy(n){return n===1?'1 news':(n%10>=2&&n%10<=4&&(n%100<10||n%100>=20))?n+' newsy':n+' newsów'}
 function when(p){
@@ -289,10 +361,10 @@ function meta(n){
 }
 const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
 function story(n,sec,i){
-  return `<a class="story card-link" href="#${aid(sec,i)}">${meta(n)}<h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></a>`;
+  return `<article class="story card" data-card="${sec}:${i}">${media(n,sec)}${meta(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
 }
 function tile(n,sec,i){
-  return `<a class="tile card-link" href="#${aid(sec,i)}"><span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></a>`;
+  return `<article class="tile card" data-card="${sec}:${i}">${media(n,sec)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
 }
 function sectionHtml(sec,list,skipFirst){
   const idx=list.map((n,i)=>i).slice(skipFirst?1:0);
@@ -373,12 +445,13 @@ function renderView(){
   const leadSec=lists.find(x=>x.list.length);
   const lead=leadSec?leadSec.list[0]:null;
   const total=lists.reduce((t,x)=>t+x.list.length,0);
-  v.innerHTML=(lead?`<a class="cover card-link" href="#${aid(leadSec.sec.key,0)}">
+  v.innerHTML=(lead?`<section class="cover card" data-card="${leadSec.sec.key}:0">
       <span class="kicker">${leadSec.sec.title} · temat dnia · ${nyNewsy(total)} w wydaniu</span>
-      <h2 class="hl">${markHead(lead.title)}</h2>
+      <h2 class="hl"><a class="card-link" href="#${aid(leadSec.sec.key,0)}">${markHead(lead.title)}</a></h2>${media(lead,leadSec.sec.key)}
       ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p><span class="more">Czytaj dalej →</span>
-    </a>`:'')+
+    </section>`:'')+
     '<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec)).join('')+'</div>';
+  wireCards(ed);
 }
 function renderArticle(date,sec,i){
   const ed=editions[date]; const n=ed&&ed[sec]&&ed[sec][i-1];
@@ -416,6 +489,8 @@ $('next').onclick=()=>{calMonth.setMonth(calMonth.getMonth()+1);renderCal()};
 window.addEventListener('hashchange',route);
 
 editions=window.HYPERS_EDITIONS||{}; loaded=true;
+$('c-open').onclick=showConsent;
+if(!getConsent()) showConsent();
 {const k=Object.keys(editions).sort(); if(!editions[selected]&&k.length) selected=k[k.length-1];}
 route();
 </script>
