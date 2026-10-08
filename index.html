@@ -146,6 +146,28 @@ footer strong{color:var(--ink)}
   .sec-head{flex-wrap:wrap}
   .sec-sub{flex-basis:100%;order:3}
 }
+
+/* clickable cards + article */
+.card-link{display:block;color:inherit;text-decoration:none;cursor:pointer}
+a.story.card-link{display:grid}
+a.tile.card-link{display:flex}
+.card-link:hover .hl{text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:4px}
+.card-link:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
+.more{display:inline-block;margin-top:8px;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blue)}
+.tile .more{color:inherit}
+.article{max-width:760px;margin:0 auto;padding-block:20px 10px}
+.article .hl{font-size:clamp(2rem,6vw,3.2rem);margin:.25em 0 .3em}
+.article .art{margin:16px 0}
+.article .lede{font-size:1.15rem;font-weight:600;line-height:1.55;margin:0 0 14px}
+.article .body p{font-size:1.06rem;line-height:1.7;margin:0 0 14px;max-width:68ch}
+.article-src{margin-top:24px;border-top:4px solid var(--rule);padding-top:10px}
+.article-src h2{font-family:var(--display);font-weight:400;text-transform:uppercase;font-size:1.4rem;margin:0 0 6px}
+.article-src ul{margin:0;padding-left:18px}
+.article-src li{margin:4px 0}
+.article-src a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
+.article-src .orig{color:var(--blue);font-weight:800;font-size:.8rem}
+.back{display:table;font-weight:800;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blue);text-decoration:none;margin:6px 0 12px}
+.back:hover{text-decoration:underline}
 </style>
 
 <header class="mast">
@@ -211,23 +233,19 @@ function meta(n){
   const ok=(n.sources||[]).some(x=>x.origin);
   return `<div class="meta"><span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}</div>`;
 }
-function story(n,id){
-  return `<article class="story" id="${id}">${art(n)}${meta(n)}<h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p>${sources(n)}</article>`;
+const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
+function story(n,sec,i){
+  return `<a class="story card-link" href="#${aid(sec,i)}">${art(n)}${meta(n)}<h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></a>`;
 }
-function tile(n,id){
-  return `<article class="tile" id="${id}">${art(n)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p>${sources(n)}</article>`;
-}
-function gapNote(sec,len){
-  const m=sec.target-len;
-  if(m<=0) return '';
-  return `<p class="gap">${len?`Wolne miejsca: ${m}.`:'Dziś pusto.'} Nie znaleźliśmy więcej newsów, które spełniają nasze zasady.</p>`;
+function tile(n,sec,i){
+  return `<a class="tile card-link" href="#${aid(sec,i)}">${art(n)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></a>`;
 }
 function sectionHtml(sec,list,skipFirst){
-  const items=skipFirst?list.slice(1):list;
+  const idx=list.map((n,i)=>i).slice(skipFirst?1:0);
+  if(!idx.length) return '';
   const body=sec.key==='drop'
-    ? `<div class="tiles">${items.map((n,i)=>tile(n,sec.key+(i+1))).join('')}</div>`
-    : `<div class="feedgrid">${items.map((n,i)=>story(n,sec.key+(i+1+(skipFirst?1:0)))).join('')}</div>`;
-  if(!items.length) return '';
+    ? `<div class="tiles">${idx.map(i=>tile(list[i],sec.key,i)).join('')}</div>`
+    : `<div class="feedgrid">${idx.map(i=>story(list[i],sec.key,i)).join('')}</div>`;
   return `<section class="sec sec-${sec.key}" id="${sec.key}">
     <div class="sec-head"><h2 class="sticker">${sec.title}</h2><span class="sec-sub">${sec.sub}</span><span class="count">${list.length}</span></div>
     ${body}</section>`;
@@ -280,11 +298,15 @@ function renderTicker(ed){
   const items=SECTIONS.flatMap(s=>(ed[s.key]||[]).map(n=>`<span><i>●</i> ${esc(n.title)}</span>`));
   el.innerHTML=items.join('')+items.join('');
 }
+function renderHeader(){
+  const d=parse(selected), ed=editions[selected], keys=Object.keys(editions).sort();
+  $('issue').innerHTML=`${DAYS[d.getDay()]} ${d.getDate()}.${pad(d.getMonth()+1)}<span>${ed?'Wydanie nr '+(keys.indexOf(selected)+1)+' · 7:00':'Brak wydania'}</span>`;
+  renderTicker(ed);
+}
 function renderView(){
   const v=$('view'), d=parse(selected), ed=editions[selected];
   const keys=Object.keys(editions).sort();
-  $('issue').innerHTML=`${DAYS[d.getDay()]} ${d.getDate()}.${pad(d.getMonth()+1)}<span>${ed?'Wydanie nr '+(keys.indexOf(selected)+1)+' · 7:00':'Brak wydania'}</span>`;
-  renderTicker(ed);
+  renderHeader();
   if(!ed){
     v.innerHTML=`<section class="empty"><span class="kicker">${d.getDate()} ${MONTHS[d.getMonth()]}</span>
       <h2 class="hl">${loaded?'Tego dnia nie było wydania':'Wczytuję'}</h2>
@@ -297,32 +319,50 @@ function renderView(){
   const leadSec=lists.find(x=>x.list.length);
   const lead=leadSec?leadSec.list[0]:null;
   const total=lists.reduce((t,x)=>t+x.list.length,0);
-  v.innerHTML=(lead?`<section class="cover" id="${leadSec.sec.key}1">
+  v.innerHTML=(lead?`<a class="cover card-link" href="#${aid(leadSec.sec.key,0)}">
       <span class="kicker">${leadSec.sec.title} · temat dnia · ${nyNewsy(total)} w wydaniu</span>
       <h2 class="hl">${markHead(lead.title)}</h2>${art(lead)}
-      ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p>${sources(lead)}
-    </section>`:'')+
+      ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p><span class="more">Czytaj dalej →</span>
+    </a>`:'')+
     '<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec)).join('')+'</div>';
 }
-function select(k){selected=k;renderDays();renderView();if(!$('cal').hidden)renderCal();window.scrollTo({top:0})}
+function renderArticle(date,sec,i){
+  const ed=editions[date]; const n=ed&&ed[sec]&&ed[sec][i-1];
+  if(!n){location.hash='';return}
+  selected=date; renderDays(); renderHeader();
+  const secDef=SECTIONS.find(s=>s.key===sec);
+  const body=(n.body&&n.body.length?n.body:[n.summary]).map(p=>`<p>${esc(p)}</p>`).join('');
+  $('view').innerHTML=`<article class="article">
+    <a class="back" href="#">← Wróć do wydania</a>
+    <span class="kicker">${secDef?secDef.title:''}</span>
+    <h1 class="hl">${esc(n.title)}</h1>
+    ${meta(n)}
+    ${art(n)}
+    <p class="lede">${esc(n.summary)}</p>
+    <div class="body">${body}</div>
+    <div class="article-src"><h2>Źródła</h2><ul>${(n.sources||[]).map(x=>`<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}</li>`).join('')}</ul></div>
+    <a class="back" href="#">← Wróć do wydania</a>
+  </article>`;
+  window.scrollTo({top:0});
+}
+let lastScroll=0;
+function route(){
+  const m=location.hash.match(/^#a-(\d{4}-\d{2}-\d{2})-(drama|luz|drop)-(\d+)$/);
+  if(m){ if(!document.querySelector('.article')) lastScroll=window.scrollY; renderArticle(m[1],m[2],+m[3]); return }
+  const wasArticle=!!document.querySelector('.article');
+  renderDays(); renderView();
+  if(wasArticle) window.scrollTo({top:lastScroll});
+}
+function select(k){selected=k; if(location.hash) history.replaceState(null,'',location.pathname); renderDays();renderView();if(!$('cal').hidden)renderCal();window.scrollTo({top:0})}
 
 $('calbtn').onclick=()=>toggleCal($('cal').hidden);
 $('prev').onclick=()=>{calMonth.setMonth(calMonth.getMonth()-1);renderCal()};
 $('next').onclick=()=>{calMonth.setMonth(calMonth.getMonth()+1);renderCal()};
-renderDays(); renderView();
+window.addEventListener('hashchange',route);
 
-(async()=>{
-  const db=await window.claude?.use?.('db');
-  if(!db&&window.HYPERS_EDITIONS){editions=window.HYPERS_EDITIONS;loaded=true;const k=Object.keys(editions).sort();if(!editions[selected]&&k.length)selected=k[k.length-1];renderDays();renderView();return}
-  if(!db){loaded=true;$('view').innerHTML='<section class="empty"><span class="kicker">Ups</span><h2 class="hl">Nie udało się wczytać wydań</h2><p>Archiwum jest dostępne po zalogowaniu do Claude. Odśwież stronę, jeśli jesteś zalogowany.</p></section>';return}
-  let first=true;
-  db.collection('editions').onSnapshot(snap=>{
-    editions={}; snap.docs.forEach(d=>{if(d.exists) editions[d.id]=d.data()});
-    loaded=true;
-    if(first){first=false; const k=Object.keys(editions).sort(); if(!editions[selected]&&k.length) selected=k[k.length-1];}
-    renderDays(); renderView(); if(!$('cal').hidden) renderCal();
-  },()=>{loaded=true;renderView()});
-})();
+editions=window.HYPERS_EDITIONS||{}; loaded=true;
+{const k=Object.keys(editions).sort(); if(!editions[selected]&&k.length) selected=k[k.length-1];}
+route();
 </script>
 
 </body>
