@@ -138,6 +138,12 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .fig figcaption{border-left:4px solid var(--blue);padding:8px 0 2px 12px;margin-top:10px;font-size:.88rem;line-height:1.45}
 .fig figcaption .cr,.credit{display:block;margin-top:4px;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 .credit{margin:-6px 0 10px;position:relative;z-index:2}
+/* zdjęcia: kadr z filmu (prawo cytatu) albo zdjęcie ilustracyjne na wolnej licencji; wczytywane ze źródła, nie hostowane */
+.photo{position:relative;aspect-ratio:16/9;overflow:hidden;border:2px solid var(--rule);background:var(--soft)}
+.tile .photo{border:0;aspect-ratio:auto;height:clamp(170px,24vw,260px)}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.photo .badge{position:absolute;left:8px;top:8px;background:var(--paper);color:var(--ink);font-weight:800;font-size:.62rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 7px}
+.fig .photo{max-width:560px}
 .fig figcaption a,.credit a{color:inherit;text-decoration-color:var(--blue)}
 /* layout: fluid grids, no fixed single column */
 .wrap{max-width:1240px;padding-inline:clamp(16px,3vw,40px)}
@@ -293,11 +299,27 @@ function showConsent(){
   $('c-yes').onclick=()=>setConsent('all');
   $('c-no').onclick=()=>setConsent('necessary');
 }
+const KIND={kadr:'Kadr z filmu',ilustracja:'Zdjęcie ilustracyjne',prasowe:'Materiał prasowy'};
+function imgTag(im){
+  const fb=im.fallback?` onerror="this.onerror=null;this.src='${esc(safeUrl(im.fallback))}'"`:'';
+  return `<img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt||'')}" loading="lazy" referrerpolicy="no-referrer"${fb}>`;
+}
+function imgCredit(im){
+  return `${KIND[im.kind]||'Zdjęcie'}: ${esc(im.credit||'')}${im.href?` · <a href="${esc(safeUrl(im.href))}" target="_blank" rel="noopener">źródło ↗</a>`:''}`;
+}
+function photoCard(n,sec){
+  const im=n.image; return `<div class="media"><div class="photo">${imgTag(im)}<span class="badge">${KIND[im.kind]||''}</span></div></div><span class="credit">${imgCredit(im)}</span>`;
+}
+function photoFigure(n){
+  const im=n.image; if(!im) return '';
+  return `<figure class="fig"><div class="photo">${imgTag(im)}</div><figcaption>${im.caption?esc(im.caption):''}<span class="cr">${imgCredit(im)}</span></figcaption></figure>`;
+}
 function creditHtml(n,e){
   const c=n.caption||{}; const who=c.credit||e.name;
   return `${c.credit?'':'Źródło: '}${esc(who)} · <a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">oryginał ↗</a>`;
 }
 function credit(n){
+  if(n.image) return '';
   const e=embedOf(n); if(!e||!embedsAllowed()) return '';
   return `<span class="credit">Materiał: ${creditHtml(n,e)}</span>`;
 }
@@ -319,6 +341,7 @@ function poster(n,sec){
 }
 let mediaSeq=0;
 function media(n,sec){
+  if(n.image) return photoCard(n,sec);
   const e=embedOf(n);
   if(e&&embedsAllowed()) return `<div class="media live" data-emb="${++mediaSeq}">${poster(n,sec)}</div>`;
   return `<div class="media">${poster(n,sec)}</div>`;
@@ -481,6 +504,7 @@ function renderArticle(date,sec,i){
     <h1 class="hl">${esc(n.title)}</h1>
     ${meta(n)}
     <p class="lede">${esc(n.summary)}</p>
+    ${photoFigure(n)}
     ${embedBlock(n)}
     <div class="body">${body}</div>
     <div class="article-src"><h2>Źródła</h2><ul>${(n.sources||[]).map(x=>`<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}</li>`).join('')}</ul></div>

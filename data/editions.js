@@ -42,6 +42,15 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Książulo / YouTube",
           "text": "Film Książula o kulisach pizzy „Muala”, opublikowany kilka dni przed premierą. To w nim twórca pokazuje fabrykę na Słowacji i test smaku z widzami. Ten materiał to punkt odniesienia dla dyskusji o cenie i składzie, którą opisujemy w artykule."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RNZ2lfL5Q04/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RNZ2lfL5Q04/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=RNZ2lfL5Q04",
+          "alt": "Kadr z filmu Książula o pizzy Muala",
+          "caption": "Kadr z filmu Książula o kulisach pizzy „Muala”, opublikowanego kilka dni przed premierą w Żabce. W tym materiale twórca sam przedstawił projekt, pokazał produkcję na Słowacji i test smaku z widzami, dlatego to do niego odnoszą się dziś zarówno krytycy, jak i obrońcy pizzy."
         }
       }
     ],
@@ -74,7 +83,15 @@ window.HYPERS_EDITIONS = {
           "Vans i legendarny fotograf deskorolkowy Atiba Jefferson wracają z drugą odsłoną kolekcji „United Through Skateboarding”. Od czwartku, 8 października, jest ona dostępna na całym świecie na Vans.com, w wybranych sklepach Vans i skateshopach.",
           "W kolekcji są m.in. AVE Rapid w złotym kolorze „Atiba Gold”, różowe Authentic 44 oraz Sk8-Hi z nadrukiem zdjęcia skatera Geoffa Rowleya. Rowan Z3 ma portret Rowana Zorilli na pudełku. Do tego dochodzą bluzy, kurtka, spodnie cargo i dresy.",
           "Atiba Jefferson sam wyreżyserował kampanię i zrobił do niej zdjęcia. Logo kolekcji zaprojektowała artystka z Los Angeles Lauren Halsey, a w kampanii pojawili się m.in. Flea z Red Hot Chili Peppers i skater Rowan Zorilla."
-        ]
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1612194228259-d240452a64b9?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Jenna E. / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/c__UeXtoPpM",
+          "alt": "Osoba stojąca na deskorolce (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia kolekcji Atiba Jefferson x Vans, zdjęcia kampanii są na Vans.com (link w źródłach)."
+        }
       }
     ],
     "luz": [
@@ -116,6 +133,15 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "FAME MMA / YouTube",
           "text": "Face2Face opublikowany przez FAME MMA na YouTube przed galą FAME 33. Osadzamy go, bo to potwierdzenie zestawienia Blendusiak – Klepsydra bezpośrednio u organizatora, a nie tylko na grafikach krążących po sieci."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/VihVkl1KakA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/VihVkl1KakA/hqdefault.jpg",
+          "credit": "FAME MMA / YouTube",
+          "href": "https://www.youtube.com/watch?v=VihVkl1KakA",
+          "alt": "Kadr z Face2Face FAME MMA przed galą FAME 33",
+          "caption": "Kadr z Face2Face opublikowanego przez FAME MMA przed galą FAME 33. Przywołujemy go, bo to oficjalny materiał organizatora, który potwierdza zestawienie Blendusiak – Klepsydra opisane w artykule."
         }
       },
       {
@@ -145,7 +171,15 @@ window.HYPERS_EDITIONS = {
           "Premiera pizzy Książula w Żabce szybko przeniosła się na platformy z ogłoszeniami. Jak opisują Super Express i Jastrząb Post, na Vinted pojawiły się oferty sprzedaży samych kartonów po pizzy „Muala”.",
           "Ceny są zaskakujące. Używane pudełko po mrożonce wystawiono za 24,99 zł, czyli dokładnie tyle, ile kosztuje cała pizza. Niezłożony karton kosztował niecałe 50 zł, a jeden ze sprzedających zaproponował zestaw 30 pudełek za 490 zł.",
           "Artykuły nie podają, czy którąś z ofert ktoś faktycznie kupił."
-        ]
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1630466913899-31fb06c6110e?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Girl with red hat / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/eIFtVhr75vs",
+          "alt": "Pizza na kartonowym pudełku (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia pizzy „Muala” ani ogłoszeń z Vinted."
+        }
       },
       {
         "category": "Wiral",
@@ -184,6 +218,14 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Szamka Kebab (@szamka_kebabwrz) / TikTok",
           "text": "Nagranie opublikowane przez sam lokal. Widać w nim moment zdejmowania naklejki „Muala”, a właściciele tłumaczą, dlaczego to robią. To na podstawie tego filmu sprawę opisały portale wymienione w źródłach."
+        },
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1761207299561-05887fac97b1?w=1200&q=70&auto=format&fit=crop",
+          "credit": "T / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/TqHB72uCKCs",
+          "alt": "Szyld kebabu z obracającym się mięsem (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia lokalu Szamka Kebab, jego oryginalne nagranie jest poniżej."
         }
       },
       {
@@ -224,6 +266,15 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Samsung Polska / YouTube",
           "text": "Spot kampanii z kanału Samsung Polska, który miał premierę 7 października. To w nim Quebonafide występuje jako mentor „funmaxxingu”, a w centrum uwagi jest składany Galaxy Z Fold8. Pokazujemy go, bo to właśnie ten materiał omawiamy: hasło o robieniu rzeczy dla przyjemności zamiast ciągłej optymalizacji."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Xb4W5zKQ-Rs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Xb4W5zKQ-Rs/hqdefault.jpg",
+          "credit": "Samsung Polska / YouTube",
+          "href": "https://www.youtube.com/watch?v=Xb4W5zKQ-Rs",
+          "alt": "Kadr ze spotu Samsunga z Quebonafide",
+          "caption": "Kadr ze spotu „Wyciągnij maksimum z tego, co lubisz” z kanału Samsung Polska. To właśnie ten spot omawiamy: Quebonafide gra w nim mentora „funmaxxingu”, a kampania promuje składanego Galaxy Z Fold8."
         }
       }
     ]
