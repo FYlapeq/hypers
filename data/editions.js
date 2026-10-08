@@ -31,8 +31,6 @@ window.HYPERS_EDITIONS = {
         "summary": "Mrożona pizza „Muala” jest od wczoraj w ponad 13 tys. Żabek po 24,99 zł. Według analizy przytaczanej przez Rzeczpospolitą większość opinii w pierwszej dobie była krytyczna, ale bojkot zapowiedziała tylko garstka komentujących.",
         "title": "Pierwsza doba pizzy Książula w Żabce: internet podzielony",
         "who": "Książulo",
-        "img": "img/ksiazulo.jpg",
-        "imgCredit": "Horeca Trends",
         "body": [
           "Pizza sygnowana marką „Muala” trafiła do sprzedaży w środę, 7 października, w ponad 13 tysiącach sklepów Żabki w całej Polsce. To amerykański styl na grubym cieście, dostępny w dwóch wersjach, a jedna pizza kosztuje 24,99 zł. Sam Książulo przyznał, że to prawdopodobnie najdroższa mrożona pizza na rynku.",
           "Kilka dni przed premierą Książulo opublikował na swoim kanale YouTube długi film o kulisach projektu. Pokazał w nim m.in. fabrykę na Słowacji, w której produkowana jest pizza, oraz test smaku z udziałem widzów.",
@@ -67,8 +65,6 @@ window.HYPERS_EDITIONS = {
         "summary": "Fotograf deskorolkowy Atiba Jefferson i Vans wypuścili od dziś drugą kolekcję „United Through Skateboarding”. W kampanii wystąpił m.in. Flea z Red Hot Chili Peppers.",
         "title": "Atiba Jefferson x Vans: druga kolekcja od dziś w sklepach",
         "who": "Vans",
-        "img": "img/2026-10-08-vans.jpg",
-        "imgCredit": "Design Scene",
         "body": [
           "Vans i legendarny fotograf deskorolkowy Atiba Jefferson wracają z drugą odsłoną kolekcji „United Through Skateboarding”. Od czwartku, 8 października, jest ona dostępna na całym świecie na Vans.com, w wybranych sklepach Vans i skateshopach.",
           "W kolekcji są m.in. AVE Rapid w złotym kolorze „Atiba Gold”, różowe Authentic 44 oraz Sk8-Hi z nadrukiem zdjęcia skatera Geoffa Rowleya. Rowan Z3 ma portret Rowana Zorilli na pudełku. Do tego dochodzą bluzy, kurtka, spodnie cargo i dresy.",
@@ -101,8 +97,6 @@ window.HYPERS_EDITIONS = {
         "summary": "FAME MMA ogłosiło, że Marcin „Blendusiak” Jędrusiak zadebiutuje na gali FAME 33. Jego rywalem będzie Kasper „Klepsydra” Gutkowski.",
         "title": "Blendusiak debiutuje we FAME. Rywalem Klepsydra",
         "who": "Blendusiak",
-        "img": "img/blendusiak.jpg",
-        "imgCredit": "BOOP.PL / FAME MMA",
         "body": [
           "Federacja FAME MMA opublikowała na Instagramie zestawienie kolejnych walk gali FAME 33. Wśród nowych nazwisk znalazł się Marcin „Blendusiak” Jędrusiak, dla którego będzie to debiut we freak fightach.",
           "Blendusiak zmierzy się z Kasprem „Klepsydrą” Gutkowskim. Walka odbędzie się w formule K-1 z 15-sekundowym parterem, a limit wagowy to 85 kg.",
@@ -132,8 +126,6 @@ window.HYPERS_EDITIONS = {
         "summary": "Na Vinted pojawiły się ogłoszenia z pustymi kartonami po pizzy „Muala”. Używane pudełko kosztuje tyle co sama pizza, a ktoś wystawił 30 sztuk za 490 zł.",
         "title": "Ludzie sprzedają pudełka po pizzy Książula",
         "who": "Vinted",
-        "img": "img/vinted.jpg",
-        "imgCredit": "Super Express",
         "body": [
           "Premiera pizzy Książula w Żabce szybko przeniosła się na platformy z ogłoszeniami. Jak opisują Super Express i Jastrząb Post, na Vinted pojawiły się oferty sprzedaży samych kartonów po pizzy „Muala”.",
           "Ceny są zaskakujące. Używane pudełko po mrożonce wystawiono za 24,99 zł, czyli dokładnie tyle, ile kosztuje cała pizza. Niezłożony karton kosztował niecałe 50 zł, a jeden ze sprzedających zaproponował zestaw 30 pudełek za 490 zł.",
@@ -163,8 +155,6 @@ window.HYPERS_EDITIONS = {
         "summary": "Szamka Kebab zdjęła z witryny słynną naklejkę „Muala”. Właściciele podziękowali Książulowi za trzy lata i uznali, że po premierze jego pizzy wyróżnienie straciło dla nich znaczenie.",
         "title": "Kebab zrywa „Muala” od Książula",
         "who": "Kebab",
-        "img": "img/kebab.jpg",
-        "imgCredit": "WP / Pudelek",
         "body": [
           "Naklejka „Muala” to znak, który Książulo przyznaje lokalom, w których najbardziej smakowało mu jedzenie. Dla wielu restauracji była ważną reklamą, bo przyciągała fanów jego recenzji.",
           "Po premierze pizzy Książula w Żabce lokal Szamka Kebab zdjął ją ze swojej szyby. Na nagraniu udostępnionym w sieci właściciele mówią, że wyróżnienie kiedyś wiele dla nich znaczyło, dziękują za trzy lata i zdejmują naklejkę.",
@@ -195,8 +185,6 @@ window.HYPERS_EDITIONS = {
         "summary": "Quebonafide jest twarzą nowej kampanii Samsunga „Wyciągnij maksimum z tego, co lubisz”. Zamiast ciągłej optymalizacji kampania namawia do „funmaxxingu”, czyli robienia rzeczy dla czystej przyjemności.",
         "title": "Quebonafide został senseiem „funmaxxingu”",
         "who": "Quebo",
-        "img": "img/quebo.jpg",
-        "imgCredit": "Samsung Polska",
         "body": [
           "Samsung Polska wystartował z kampanią „Wyciągnij maksimum z tego, co lubisz”. Jej główną twarzą jest Quebonafide, który występuje jako mentor „funmaxxingu”. Hasło ma być odpowiedzią na modę na ciągłą samooptymalizację: chodzi o to, żeby znaleźć czas na rzeczy, które się po prostu lubi.",
           "Spot kampanii miał premierę 7 października na kanałach Samsung Polska na YouTube i Instagramie. Dwa dni wcześniej Quebonafide zapowiedział go teaserem na swoim Instagramie.",
