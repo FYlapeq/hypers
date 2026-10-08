@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+</head>
+<body>
+<script src="data/editions.js"></script>
+<title>Hypers Daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:ital,wght@0,400;0,600;0,800;1,400&display=swap">
+<style>
+/* Layout: tabloid poster. Blue masthead band, peach ticker, date strip, cover story, ruled story lists, Dropy as a grid of IG-style tiles. */
+:root{
+  --paper:#ffffff; --ink:#0b1620; --muted:#4f6474; --rule:#0b1620;
+  --blue:#276787; --on-blue:#ffffff; --peach:#ffc9b0; --on-peach:#0b1620; --soft:#eef4f8;
+  --display:"Anton","Impact","Arial Narrow Bold",sans-serif;
+  --body:"Work Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --rule:#f1f6f9;
+  --blue:#2f7aa0; --soft:#13283a; color-scheme:dark; } }
+:root[data-theme="dark"]{
+  --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --rule:#f1f6f9;
+  --blue:#2f7aa0; --soft:#13283a; color-scheme:dark; }
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;margin:0}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--peach);outline-offset:2px}
+.wrap{max-width:760px;margin:0 auto;padding-inline:16px}
+
+/* masthead */
+.mast{background:var(--blue);color:var(--on-blue)}
+.mast .wrap{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding-block:14px 10px}
+.logo{font-family:var(--display);font-size:clamp(3rem,14vw,6rem);line-height:.9;letter-spacing:.01em;text-transform:uppercase;margin:0}
+.issue{text-align:right;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;line-height:1.35;padding-bottom:6px}
+.issue span{display:block;font-weight:400;opacity:.85}
+
+/* ticker */
+.ticker{background:var(--peach);color:var(--on-peach);overflow:hidden;border-block:2px solid var(--ink);white-space:nowrap}
+.ticker .run{display:inline-flex;gap:28px;padding-block:7px;font-weight:800;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em;animation:run 40s linear infinite;padding-left:16px}
+.ticker .run b{font-weight:800}
+.ticker .run i{font-style:normal;color:var(--blue)}
+@keyframes run{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.ticker .run{animation:none}}
+
+/* dates */
+.dates{display:flex;align-items:stretch;gap:0;border-bottom:2px solid var(--rule);margin-top:14px}
+.days{display:flex;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
+.days::-webkit-scrollbar{display:none}
+.day{flex:0 0 auto;background:none;border:0;border-bottom:5px solid transparent;margin-bottom:-2px;padding:6px 10px 4px;cursor:pointer;text-align:center;color:var(--muted)}
+.day small{display:block;font-size:.66rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+.day b{font-family:var(--display);font-weight:400;font-size:1.5rem;line-height:1.1}
+.day.has{color:var(--ink)}
+.day.has b{text-decoration:underline;text-decoration-color:var(--peach);text-decoration-thickness:4px;text-underline-offset:2px}
+.day.sel{border-bottom-color:var(--blue);color:var(--blue)}
+.archbtn{flex:0 0 auto;background:var(--ink);color:var(--paper);border:0;font-weight:800;font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;padding:0 12px;cursor:pointer}
+.cal{border:2px solid var(--rule);border-top:0;padding:12px}
+.cal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
+.cal-head strong{font-family:var(--display);font-weight:400;font-size:1.4rem;text-transform:uppercase;letter-spacing:.02em}
+.cal-head button{background:none;border:2px solid var(--rule);width:36px;height:36px;cursor:pointer;font-weight:800}
+.grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
+.grid .wd{font-size:.66rem;font-weight:800;text-transform:uppercase;text-align:center;color:var(--muted);padding-block:4px}
+.grid button{aspect-ratio:1;max-width:100%;border:0;background:var(--soft);cursor:pointer;font-weight:600;color:var(--muted)}
+.grid button.has{background:var(--peach);color:var(--on-peach)}
+.grid button.sel{background:var(--blue);color:var(--on-blue)}
+.grid button.today{box-shadow:inset 0 0 0 2px var(--ink)}
+.grid button:disabled{opacity:.35;cursor:default}
+.cal-note{font-size:.78rem;color:var(--muted);margin-top:8px}
+
+/* cover */
+.cover{padding-block:22px 6px}
+.kicker{display:inline-block;background:var(--ink);color:var(--paper);font-weight:800;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 8px}
+.hl{font-family:var(--display);font-weight:400;text-transform:uppercase;line-height:1.14;letter-spacing:.012em;margin:.3em 0 .4em;text-wrap:balance}
+.hl mark{background:linear-gradient(transparent 52%,var(--peach) 52%,var(--peach) 92%,transparent 92%);color:inherit;padding:0 .06em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.cover .hl{font-size:clamp(2.1rem,8vw,3.6rem)}
+.cover p{font-size:1.06rem;max-width:62ch;margin:0}
+
+/* sections */
+.sec{margin-top:34px;scroll-margin-top:12px}
+.sec-head{display:flex;align-items:center;gap:12px;border-bottom:4px solid var(--rule);padding-bottom:8px}
+.sticker{font-family:var(--display);font-weight:400;font-size:1.6rem;line-height:1.25;text-transform:uppercase;letter-spacing:.02em;background:var(--blue);color:var(--on-blue);padding:2px 12px;transform:rotate(-1.5deg);margin:0 0 4px;white-space:nowrap}
+.sec-drop .sticker{background:var(--peach);color:var(--on-peach)}
+.sec-sub{font-size:.85rem;color:var(--muted);flex:1;min-width:0}
+.count{font-family:var(--display);font-size:1.3rem}
+
+.story{padding-block:16px;border-bottom:1px solid var(--rule)}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
+.meta .ok{color:var(--blue)}
+.story .hl{font-size:clamp(1.5rem,5.4vw,2rem)}
+.story p{margin:0 0 10px;max-width:64ch}
+.srcs{font-size:.82rem;color:var(--muted);margin:0}
+.srcs a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue);text-underline-offset:2px}
+.srcs .orig{color:var(--blue);font-weight:800}
+
+/* dropy tiles */
+.tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}
+
+.tile{display:flex;flex-direction:column;gap:10px;padding:14px;background:var(--blue);color:var(--on-blue);scroll-margin-top:12px}
+.tile:nth-child(3n+2){background:var(--peach);color:var(--on-peach)}
+.tile:nth-child(3n+3){background:var(--ink);color:var(--paper)}
+.tile .brand{font-weight:800;font-size:.66rem;letter-spacing:.18em;text-transform:uppercase;opacity:.8}
+.tile .hl{font-size:1.45rem;margin:0}
+.tile:nth-child(3n+1) .hl,.tile:nth-child(3n+3) .hl{color:var(--peach)}
+.tile p{margin:0;font-size:.9rem;flex:1}
+.tile .srcs{color:inherit;opacity:.85;font-size:.74rem}
+.tile .srcs a{color:inherit}
+.tile .srcs .orig{color:inherit}
+
+.gap{margin-top:12px;font-style:italic;color:var(--muted);font-size:.9rem}
+.empty{padding-block:30px}
+.empty .hl{font-size:2rem}
+.empty p{color:var(--muted);margin:0 0 14px}
+.btn{background:var(--blue);color:var(--on-blue);border:0;font-weight:800;text-transform:uppercase;letter-spacing:.06em;font-size:.8rem;padding:10px 14px;cursor:pointer}
+footer{margin-top:40px;padding-block:18px 40px;border-top:4px solid var(--rule);font-size:.84rem;color:var(--muted)}
+footer strong{color:var(--ink)}
+
+/* illustrations */
+.art{position:relative;display:block;width:100%;max-width:100%;aspect-ratio:16/10;margin:0;background:var(--soft);overflow:hidden;border:2px solid var(--rule)}
+.art img{display:block;width:100%;height:100%;object-fit:cover}
+.art figcaption{position:absolute;right:0;bottom:0;background:var(--ink);color:var(--paper);font-size:.62rem;font-weight:600;letter-spacing:.04em;padding:2px 6px}
+.tile .art{border:0;aspect-ratio:16/9;margin:-14px -14px 4px;width:calc(100% + 28px);max-width:none}
+.cover .art{aspect-ratio:16/10}
+/* layout: fluid grids, no fixed single column */
+.wrap{max-width:1240px;padding-inline:clamp(16px,3vw,40px)}
+.story{display:grid;grid-template-columns:minmax(0,1fr);gap:0 16px;align-content:start}
+.story .art{margin:4px 0 12px}
+.secs{display:block}
+.sec-drama .story,.sec-luz .story{border-bottom:1px solid var(--rule)}
+.tiles{grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr))}
+.feedgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:0 clamp(18px,2.5vw,32px)}
+.cover{display:grid;grid-template-columns:minmax(0,1fr);gap:0 clamp(20px,3vw,40px);align-items:start}
+.cover .art{margin:14px 0 6px}
+
+@media (min-width:640px){
+  .cover{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
+  .cover > :not(.art){grid-column:1}
+  .cover .art{grid-column:2;grid-row:1/span 6;margin:8px 0 0}
+}
+@media (max-width:520px){
+  .issue{font-size:.7rem}
+  .sec-head{flex-wrap:wrap}
+  .sec-sub{flex-basis:100%;order:3}
+}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <h1 class="logo">Hypers</h1>
+    <div class="issue" id="issue">Wydanie poranne<span>7:00</span></div>
+  </div>
+</header>
+<div class="ticker" aria-hidden="true"><div class="run" id="ticker"><span>Wczytuję dzisiejsze newsy</span></div></div>
+
+<main class="wrap">
+  <div class="dates">
+    <div class="days" id="days" aria-label="Ostatnie dni"></div>
+    <button class="archbtn" id="calbtn" aria-expanded="false" aria-controls="cal">Archiwum</button>
+  </div>
+  <div class="cal" id="cal" hidden>
+    <div class="cal-head"><button id="prev" aria-label="Poprzedni miesiąc">‹</button><strong id="mlabel"></strong><button id="next" aria-label="Następny miesiąc">›</button></div>
+    <div class="grid" id="grid"></div>
+    <div class="cal-note">Brzoskwiniowe dni mają wydanie.</div>
+  </div>
+
+  <div id="view"><section class="cover"><span class="kicker">Chwila</span><h2 class="hl">Wczytuję wydanie</h2></section></div>
+
+</main>
+
+<script>
+const WD=['nd','pn','wt','śr','cz','pt','sb'];
+const MONTHS=['stycznia','lutego','marca','kwietnia','maja','czerwca','lipca','sierpnia','września','października','listopada','grudnia'];
+const MNOM=['styczeń','luty','marzec','kwiecień','maj','czerwiec','lipiec','sierpień','wrzesień','październik','listopad','grudzień'];
+const DAYS=['niedziela','poniedziałek','wtorek','środa','czwartek','piątek','sobota'];
+const pad=n=>String(n).padStart(2,'0');
+const iso=d=>d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate());
+const parse=s=>{const[y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d)};
+const todayIso=iso(new Date());
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
+const $=id=>document.getElementById(id);
+let editions={}, selected=todayIso, calMonth=null, loaded=false;
+
+const SECTIONS=[
+  {key:'drama',title:'Drama',target:2,sub:'Konflikty, afery, kontrowersje'},
+  {key:'luz',title:'Na luzie',target:5,sub:'Wirale, ogłoszenia, walki, kampanie'},
+  {key:'drop',title:'Dropy',target:3,sub:'Ciuchy, buty i kolaboracje'}
+];
+
+function art(n){
+  if(!n.img) return '';
+  const src=/^https?:/.test(n.img)?'':esc(n.img);
+  if(!src) return '';
+  return `<figure class="art"><img src="${src}" alt="${esc(n.imgAlt||n.title)}" decoding="async"><figcaption>fot. ${esc(n.imgCredit||'')}</figcaption></figure>`;
+}
+function nyNewsy(n){return n===1?'1 news':(n%10>=2&&n%10<=4&&(n%100<10||n%100>=20))?n+' newsy':n+' newsów'}
+function when(p){
+  if(!p) return '';
+  const diff=Math.round((parse(selected)-parse(p))/864e5);
+  return diff<=0?'z dziś':diff===1?'z wczoraj':diff+' dni temu';
+}
+function sources(n){
+  const s=(n.sources||[]).map(x=>`<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}`);
+  return `<p class="srcs">Źródła (${s.length}): ${s.join(' · ')}</p>`;
+}
+function meta(n){
+  const ok=(n.sources||[]).some(x=>x.origin);
+  return `<div class="meta"><span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}</div>`;
+}
+function story(n,id){
+  return `<article class="story" id="${id}">${art(n)}${meta(n)}<h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p>${sources(n)}</article>`;
+}
+function tile(n,id){
+  return `<article class="tile" id="${id}">${art(n)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl">${esc(n.title)}</h3><p>${esc(n.summary)}</p>${sources(n)}</article>`;
+}
+function gapNote(sec,len){
+  const m=sec.target-len;
+  if(m<=0) return '';
+  return `<p class="gap">${len?`Wolne miejsca: ${m}.`:'Dziś pusto.'} Nie znaleźliśmy więcej newsów, które spełniają nasze zasady.</p>`;
+}
+function sectionHtml(sec,list,skipFirst){
+  const items=skipFirst?list.slice(1):list;
+  const body=sec.key==='drop'
+    ? `<div class="tiles">${items.map((n,i)=>tile(n,sec.key+(i+1))).join('')}</div>`
+    : `<div class="feedgrid">${items.map((n,i)=>story(n,sec.key+(i+1+(skipFirst?1:0)))).join('')}</div>`;
+  if(!items.length) return '';
+  return `<section class="sec sec-${sec.key}" id="${sec.key}">
+    <div class="sec-head"><h2 class="sticker">${sec.title}</h2><span class="sec-sub">${sec.sub}</span><span class="count">${list.length}</span></div>
+    ${body}</section>`;
+}
+function markHead(t){
+  const w=esc(t).split(' ');
+  if(w.length<4) return `<mark>${w.join(' ')}</mark>`;
+  const k=Math.ceil(w.length/2);
+  return w.slice(0,k).join(' ')+' <mark>'+w.slice(k).join(' ')+'</mark>';
+}
+
+function renderDays(){
+  const box=$('days'); box.innerHTML='';
+  const now=new Date();
+  for(let i=13;i>=0;i--){
+    const d=new Date(now); d.setDate(now.getDate()-i); const k=iso(d);
+    const b=document.createElement('button');
+    b.className='day'+(editions[k]?' has':'')+(k===selected?' sel':'');
+    b.innerHTML=`<small>${i===0?'dziś':WD[d.getDay()]}</small><b>${d.getDate()}</b>`;
+    b.setAttribute('aria-label',`${DAYS[d.getDay()]} ${d.getDate()} ${MONTHS[d.getMonth()]}${editions[k]?'':', brak wydania'}`);
+    if(k===selected) b.setAttribute('aria-current','date');
+    b.onclick=()=>select(k);
+    box.appendChild(b);
+  }
+  const s=box.querySelector('.sel'); if(s) s.scrollIntoView({inline:'center',block:'nearest'});
+}
+function renderCal(){
+  const g=$('grid'); g.innerHTML='';
+  const y=calMonth.getFullYear(), m=calMonth.getMonth();
+  $('mlabel').textContent=MNOM[m]+' '+y;
+  ['pn','wt','śr','cz','pt','sb','nd'].forEach(w=>{const e=document.createElement('div');e.className='wd';e.textContent=w;g.appendChild(e)});
+  const first=(new Date(y,m,1).getDay()+6)%7, n=new Date(y,m+1,0).getDate();
+  for(let i=0;i<first;i++) g.appendChild(document.createElement('span'));
+  for(let d=1;d<=n;d++){
+    const k=y+'-'+pad(m+1)+'-'+pad(d), b=document.createElement('button');
+    b.textContent=d;
+    b.className=(editions[k]?'has ':'')+(k===selected?'sel ':'')+(k===todayIso?'today':'');
+    b.disabled=k>todayIso;
+    b.onclick=()=>{select(k);toggleCal(false)};
+    g.appendChild(b);
+  }
+}
+function toggleCal(open){
+  $('cal').hidden=!open; $('calbtn').setAttribute('aria-expanded',open);
+  if(open){calMonth=parse(selected);calMonth.setDate(1);renderCal()}
+}
+function renderTicker(ed){
+  const el=$('ticker');
+  if(!ed){el.innerHTML='<span>Brak wydania z tego dnia</span>';return}
+  const items=SECTIONS.flatMap(s=>(ed[s.key]||[]).map(n=>`<span><i>●</i> ${esc(n.title)}</span>`));
+  el.innerHTML=items.join('')+items.join('');
+}
+function renderView(){
+  const v=$('view'), d=parse(selected), ed=editions[selected];
+  const keys=Object.keys(editions).sort();
+  $('issue').innerHTML=`${DAYS[d.getDay()]} ${d.getDate()}.${pad(d.getMonth()+1)}<span>${ed?'Wydanie nr '+(keys.indexOf(selected)+1)+' · 7:00':'Brak wydania'}</span>`;
+  renderTicker(ed);
+  if(!ed){
+    v.innerHTML=`<section class="empty"><span class="kicker">${d.getDate()} ${MONTHS[d.getMonth()]}</span>
+      <h2 class="hl">${loaded?'Tego dnia nie było wydania':'Wczytuję'}</h2>
+      <p>${loaded?'Wybierz dzień z brzoskwiniowym podkreśleniem.':'Za chwilę pojawią się newsy.'}</p>
+      ${loaded&&keys.length?'<button class="btn" id="golatest">Pokaż najnowsze wydanie</button>':''}</section>`;
+    const g=$('golatest'); if(g) g.onclick=()=>select(keys[keys.length-1]);
+    return;
+  }
+  const lists=SECTIONS.map(sec=>({sec,list:ed[sec.key]||[]}));
+  const leadSec=lists.find(x=>x.list.length);
+  const lead=leadSec?leadSec.list[0]:null;
+  const total=lists.reduce((t,x)=>t+x.list.length,0);
+  v.innerHTML=(lead?`<section class="cover" id="${leadSec.sec.key}1">
+      <span class="kicker">${leadSec.sec.title} · temat dnia · ${nyNewsy(total)} w wydaniu</span>
+      <h2 class="hl">${markHead(lead.title)}</h2>${art(lead)}
+      ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p>${sources(lead)}
+    </section>`:'')+
+    '<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec)).join('')+'</div>';
+}
+function select(k){selected=k;renderDays();renderView();if(!$('cal').hidden)renderCal();window.scrollTo({top:0})}
+
+$('calbtn').onclick=()=>toggleCal($('cal').hidden);
+$('prev').onclick=()=>{calMonth.setMonth(calMonth.getMonth()-1);renderCal()};
+$('next').onclick=()=>{calMonth.setMonth(calMonth.getMonth()+1);renderCal()};
+renderDays(); renderView();
+
+(async()=>{
+  const db=await window.claude?.use?.('db');
+  if(!db&&window.HYPERS_EDITIONS){editions=window.HYPERS_EDITIONS;loaded=true;const k=Object.keys(editions).sort();if(!editions[selected]&&k.length)selected=k[k.length-1];renderDays();renderView();return}
+  if(!db){loaded=true;$('view').innerHTML='<section class="empty"><span class="kicker">Ups</span><h2 class="hl">Nie udało się wczytać wydań</h2><p>Archiwum jest dostępne po zalogowaniu do Claude. Odśwież stronę, jeśli jesteś zalogowany.</p></section>';return}
+  let first=true;
+  db.collection('editions').onSnapshot(snap=>{
+    editions={}; snap.docs.forEach(d=>{if(d.exists) editions[d.id]=d.data()});
+    loaded=true;
+    if(first){first=false; const k=Object.keys(editions).sort(); if(!editions[selected]&&k.length) selected=k[k.length-1];}
+    renderDays(); renderView(); if(!$('cal').hidden) renderCal();
+  },()=>{loaded=true;renderView()});
+})();
+</script>
+
+</body>
+</html>
