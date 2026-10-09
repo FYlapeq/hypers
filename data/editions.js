@@ -1,5 +1,231 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-09": {
+    "date": "2026-10-09",
+    "drama": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-07",
+        "who": "Michał Wrzosek",
+        "initials": "MW",
+        "category": "Kampania",
+        "hype": 4,
+        "title": "Dietetyk Michał Wrzosek ma swoją grahamkę w Żabce",
+        "summary": "Kilka dni po pizzy Książula Żabka wprowadziła kolejny produkt od twórcy internetowego. Dietetyk Michał Wrzosek współtworzył grahamkę z 70 proc. mąki graham i bez dodatku cukru.",
+        "body": [
+          "Żabka postawiła na kolejną współpracę z popularnym twórcą. Od środy, 7 października, w sklepach sieci jest grahamka, nad której składem pracował dietetyk i youtuber dr Michał Wrzosek. Na YouTube obserwuje go blisko 900 tys. osób, a na Instagramie ponad 760 tys.",
+          "Według informacji przekazanych przez Wrzoska i sieć udział mąki graham w pieczywie wzrósł z 41 do 70 proc. Z receptury zniknął cukier, zmniejszono ilość soli, a produkt ma więcej białka i błonnika.",
+          "Wrzosek przez lata krytykował Żabkę, m.in. za promowanie w aplikacji używek i niezdrowego jedzenia. W swoich wpisach na Instagramie podkreśla, że nie ma wpływu na to, czy sklep sprzedaje alkohol, ale może poprawić skład produktów, przy których pracuje. Dodaje, że odrzucił wcześniej propozycje innych firm, m.in. dotyczące wody witaminowej i batonów proteinowych.",
+          "Kampania obejmuje kanały Żabki i media społecznościowe dietetyka. Po Warszawie jeździł też „Grahamkowóz”, pojazd w kształcie bułki, z którego Wrzosek częstował przechodniów kanapkami. Dietetyk zapowiada, że grahamka może być dopiero początkiem szerszej współpracy przy kolejnych produktach sieci."
+        ],
+        "sources": [
+          {
+            "name": "RMF FM",
+            "url": "https://www.rmf.fm/rozrywka/show-biznes/news,n1020809,nie-tylko-pizza-ksiazula-dzis-do-zabki-trafila-tez-nowosc-od-innego-influencera.html"
+          },
+          {
+            "name": "Wirtualnemedia.pl",
+            "url": "https://www.wirtualnemedia.pl/po-ksiazulu-zabka-stawia-na-kolejnego-influencera,7337466495494592a"
+          },
+          {
+            "name": "o2.pl",
+            "url": "https://www.o2.pl/zdrowie/najpierw-ksiazulo-teraz-wrzosek-dietetyk-tlumaczy-sie-z-grahamki-w-zabce-7337438014560704a"
+          },
+          {
+            "name": "Wiadomości Spożywcze",
+            "url": "https://wiadomoscispozywcze.pl/artykuly/16680/zabka-i-micha-wrzosek-acza-siy-pierwsza-nowosc-juz-w-ofercie-cena-niewygorowana/"
+          },
+          {
+            "name": "Instagram Michał Wrzosek",
+            "url": "https://www.instagram.com/p/DeLu74LoobG/",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.instagram.com/p/DeLu74LoobG/",
+        "caption": {
+          "credit": "Michał Wrzosek / Instagram",
+          "text": "Wpis, w którym Michał Wrzosek ogłosił swoją grahamkę w Żabce. To jego własne potwierdzenie współpracy: opisuje w nim nowy skład pieczywa, w tym 70 proc. mąki graham i brak dodatku cukru."
+        },
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1700124164657-327fe4ce79c3?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Jhunelle Francis Sardido / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-bread-rolls-omqRjn_WZtE",
+          "alt": "Bułki z bliska (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia grahamki z Żabki ani Michała Wrzoska."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-08",
+        "who": "The Floor VIP",
+        "initials": "TF",
+        "category": "Wiral",
+        "hype": 3,
+        "title": "Influencerzy w „The Floor”: Leśnior poległ na kwiatach",
+        "summary": "W październikowej edycji „The Floor. VIP Challenge” w TVN wystąpiło 20 gwiazd i twórców internetowych. Najgłośniej było o pojedynku Leśniora z Agnes w kategorii „polskie kwiaty”, a całość wygrał Mateusz Hładki.",
+        "body": [
+          "Od poniedziałku do czwartku TVN emitował nową serię „The Floor. VIP Challenge”, w której na planszy stanęło 20 znanych osób. Wśród nich byli m.in. Kickster, PigOut, Agnieszka Ratajczak (Agnes), Leśnior, Nezz, Kolorek, Kontrabas, Colorowy, Przemek Kucyk i raper Kubańczyk.",
+          "Najwięcej komentarzy wywołał pojedynek Leśniora z Agnes w kategorii „polskie kwiaty”. Influencer nie rozpoznał m.in. krokusa, żonkila i koniczyny, a przy lilii ograniczył się do stwierdzenia, że jest „bardzo ładna, pomarańczowa”, i spasował. Jego czas skończył się, gdy rywalce zostało jeszcze 40 sekund. Pojedynkowi z boku przyglądał się Mikołaj Roznerski.",
+          "W czwartek wieczorem poznaliśmy zwycięzcę całej edycji. Został nim dziennikarz i prezenter Mateusz Hładki, który w finale pokonał m.in. Agnieszkę Ratajczak, Paulinę Neznal, Małgorzatę Tomaszewską i Sebastiana Kraszewskiego. Nagroda, 50 tys. zł, trafi na wybrany przez niego cel charytatywny."
+        ],
+        "sources": [
+          {
+            "name": "Pudelek",
+            "url": "https://www.pudelek.pl/kwiat-polskiego-influencerstwa-polegl-w-the-floor-z-kategoria-polskie-kwiaty-przerosly-go-nawet-koniczyna-czy-zonkil-wideo-7337721905699264a"
+          },
+          {
+            "name": "naEKRANIE.pl",
+            "url": "https://naekranie.pl/lekkie/the-floor-vip-challenge-kto-wygral-3-edycje-1791456100"
+          },
+          {
+            "name": "TVN",
+            "url": "https://tvn.pl/programy/the-floor/kto-wygral-pazdziernik-2026-st9211654",
+            "origin": true
+          },
+          {
+            "name": "TVN (lista uczestników)",
+            "url": "https://tvn.pl/programy/the-floor/the-floor-vip-challenge-pazdziernik-2026-st9264112",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1751820705325-3d53acec2cf5?w=1200&q=70&auto=format&fit=crop",
+          "credit": "insung yoon / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/a-vintage-camera-sits-between-two-studio-lights-j64t-NoVCFw",
+          "alt": "Kamera między dwiema lampami studyjnymi (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia studia „The Floor” ani uczestników programu."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-07",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Spotkanie z fanami",
+        "hype": 4,
+        "title": "MrBeast dziś w Taszkencie. Pierwsza wizyta w Azji Środkowej",
+        "summary": "MrBeast ma dziś odwiedzić Taszkent, to jego pierwsza podróż do Azji Środkowej. Na darmowe spotkanie z quizem i nagrodami wylosowano 200 fanów.",
+        "body": [
+          "Jimmy Donaldson, czyli MrBeast, ma w piątek, 9 października, odwiedzić stolicę Uzbekistanu. Według organizatorów to jego pierwsza wizyta w Azji Środkowej. Wydarzenie przygotowała uzbecka Fundacja Rozwoju Sztuki i Kultury razem z państwowym Komitetem Turystyki.",
+          "Na spotkanie zaplanowano interaktywne gry i quiz z nagrodami dla zwycięzców. Wstęp był darmowy, ale miejsc było niewiele: według lokalnych mediów chodzi o 200 osób, wylosowanych spośród zgłoszeń. Udział mogły wziąć wyłącznie osoby pełnoletnie, a rejestracja trwała od 6 do 8 października.",
+          "Fundacja ostrzegała przed fałszywymi linkami i kontami podszywającymi się pod MrBeasta. Podkreślała, że jest jedynym oficjalnym źródłem informacji o wydarzeniu i nigdy nie prosi o płatności, dane kart ani hasła. Sam twórca, który ma ponad 500 mln subskrypcji na swoich kanałach, według dostępnych źródeł nie skomentował jeszcze wizyty."
+        ],
+        "sources": [
+          {
+            "name": "The Times of Central Asia",
+            "url": "https://timesca.com/mrbeast-tashkent-young-fans/"
+          },
+          {
+            "name": "Spot.uz",
+            "url": "https://www.spot.uz/en/2026/10/06/mrbeast/"
+          },
+          {
+            "name": "Kun.uz",
+            "url": "https://kun.uz/en/news/2026/10/06/mrbeast-to-visit-tashkent-during-first-trip-to-central-asia"
+          },
+          {
+            "name": "UzDaily",
+            "url": "https://www.uzdaily.uz/en/mrbeast-to-hold-public-event-in-tashkent-during-visit/"
+          },
+          {
+            "name": "Zamin.uz",
+            "url": "https://zamin.uz/en/uzbekistan/223804-mrbeast-to-visit-tashkent-200-fans-can-meet-him.html"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1507333465466-4ee47adfde78?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Sardorbek Usmonov / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/H_jJdAJxLZM",
+          "alt": "Meczet i pomnik w Taszkencie (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Pokazuje Taszkent, ale nie przedstawia MrBeasta ani miejsca spotkania z fanami."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-08",
+        "who": "Kids' Choice Awards",
+        "initials": "KC",
+        "category": "Nagrody",
+        "hype": 3,
+        "title": "Kids' Choice Awards 2026: MrBeast, Speed i Kai Cenat nominowani",
+        "summary": "Nickelodeon ogłosił nominacje do Kids' Choice Awards 2026. W kategoriach dla twórców internetowych są m.in. MrBeast, IShowSpeed, Kai Cenat, Pokimane i Charli D'Amelio, a galę poprowadzi Alex Warren.",
+        "body": [
+          "W czwartek, 8 października, Nickelodeon ogłosił nominacje do tegorocznych Kids' Choice Awards i otworzył głosowanie w 36 kategoriach. Gala odbędzie się w sobotę, 14 listopada, na żywo z Television City w Los Angeles. Pokażą ją CBS i Nickelodeon, a później będzie dostępna w Paramount+ także poza USA. Prowadzącym będzie Alex Warren.",
+          "W kategorii Ulubiony Twórca nominowani są: Airrack, Dude Perfect, IShowSpeed, Jesser, Kai Cenat, MrBeast, SeanDoesMagic i Unspeakable. Wśród twórczyń są Brooke Monk, Charli D'Amelio, Haley Kalil, Lexi Rivera, Pokimane, Salish Matter, Sofie Dossi i Taylen Biggs.",
+          "Osobna kategoria dotyczy rodzin tworzących treści. Nominowano w niej m.in. Vlad and Niki, The Bucket List Family i Ninja Kidz TV. W całym zestawieniu najwięcej nominacji ma Taylor Swift (6), a za nią są Ariana Grande i Sabrina Carpenter (po 5). Głosować można na stronie kidschoiceawards.com."
+        ],
+        "sources": [
+          {
+            "name": "Just Jared",
+            "url": "https://justjared.com/2026/10/08/kids-choice-awards-2026-nominations-full-list-how-to-vote"
+          },
+          {
+            "name": "Extra",
+            "url": "https://extratv.com/2026/10/08/nickelodeon-kids-choice-awards-2026-nominations-announced/"
+          },
+          {
+            "name": "NickALive!",
+            "url": "https://www.nickalive.net/2026/10/nickelodeon-kids-choice-awards-2026.html"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Rob Laughter / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/red-theater-curtain-WW1jsInXgwM",
+          "alt": "Czerwona kurtyna teatralna (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia gali Kids' Choice Awards ani nominowanych twórców."
+        }
+      }
+    ],
+    "drop": [
+      {
+        "region": "world",
+        "published": "2026-10-08",
+        "who": "PUMA x ROSÉ",
+        "initials": "PR",
+        "category": "Kolaboracja",
+        "hype": 4,
+        "title": "PUMA x ROSÉ: Speedcat w jesiennych kolorach już w sprzedaży",
+        "summary": "Rosé z BLACKPINK i PUMA wypuściły w czwartek dwie nowe wersje Speedcata: brązową i burgundową. W USA para kosztuje 120 dolarów.",
+        "body": [
+          "PUMA i Rosé, wokalistka BLACKPINK, kontynuują współpracę przy modelu Speedcat. W czwartek, 8 października, do sprzedaży trafiły dwie jesienne wersje: burgundowa (Burgundy/Aubergine) i brązowa (Haute Coffee/Espresso).",
+          "Obie mają cholewki z nubuku, owijane sznurówki i indywidualne oznaczenia na języku. Buty są dostępne w rozmiarach damskich.",
+          "Według Sole Retriever para kosztuje w USA 120 dolarów. Kolekcja trafiła na PUMA.com, do sklepów firmowych marki i wybranych sklepów partnerskich. Źródła nie podają, kiedy i w jakiej liczbie modele będą dostępne w Polsce."
+        ],
+        "sources": [
+          {
+            "name": "Sole Retriever",
+            "url": "https://www.soleretriever.com/news/articles/rose-x-puma-speedcat-vintage-collection-release-date-october-2026"
+          },
+          {
+            "name": "Design Scene",
+            "url": "https://www.designscene.net/2026/10/puma-x-rose-speedcat-brown-burgundy.html"
+          },
+          {
+            "name": "City Nomads",
+            "url": "https://citynomads.com/puma-x-rose-returns-with-two-autumn-toned-speedcat-editions-this-october/"
+          },
+          {
+            "name": "GOKPOP",
+            "url": "https://www.gokpop.co/2026/10/pumarose26.html"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Ryan Plomp / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/pastel-sneakers-on-geometric-surface-jvoZ-Aux9aw",
+          "alt": "Pastelowe sneakersy na geometrycznym tle (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia modeli PUMA x ROSÉ Speedcat ani Rosé."
+        }
+      }
+    ]
+  },
   "2026-10-08": {
     "date": "2026-10-08",
     "drama": [
