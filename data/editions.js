@@ -1,5 +1,194 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-10": {
+    "date": "2026-10-10",
+    "drama": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-10-08",
+        "who": "David Kushner",
+        "initials": "DK",
+        "category": "Wiral",
+        "hype": 4,
+        "title": "David Kushner śpiewa „Temperaturę” Skolima w Nowym Jorku",
+        "summary": "Amerykański wokalista znany z „Daylight” wrzucił nagranie, na którym podczas nocnej jazdy tuk-tukiem po Nowym Jorku śpiewa fragment hitu Skolima. Dodał, że woli Polskę od Nowego Jorku i musi tu wrócić.",
+        "body": [
+          "David Kushner, autor przeboju „Daylight” z 2023 roku, opublikował w środę na TikToku i Instagramie krótkie nagranie z nocnej przejażdżki tuk-tukiem po Nowym Jorku. W tle leci „Temperatura” Skolima, a wokalista śpiewa jej fragment.",
+          "Na filmie Kushner mówi, że musi wrócić do Polski, bo nie lubi Nowego Jorku i woli Polskę. W opisie żartobliwie zastanawia się, czy nie ogłosić światowej trasy koncertowej z kilkoma przystankami w naszym kraju. Konkretnych dat ani miast nie podał.",
+          "Polscy internauci szybko podchwycili nagranie. W komentarzach pojawiły się żarty o nadaniu piosenkarzowi polskiego obywatelstwa i prośby o wspólny występ ze Skolimem. Wpis skomentował też Krzysztof Ibisz, pisząc „Czy ja śnię?”.",
+          "Kushner ma z Polską związki: jak sam mówił, jego prapradziadkowie wyemigrowali z Polski do Chicago. Występował już u nas, m.in. na Open'er Festival w 2023 roku, a wcześniej z pomocą Zalii uczył się śpiewać po polsku. Do czasu publikacji media nie odnotowały reakcji samego Skolima."
+        ],
+        "sources": [
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/david-kushner-spiewa-hit-skolima-i-zachwyca-sie-naszym-krajem-wole-polske-od-nowego-jorku/"
+          },
+          {
+            "name": "Party.pl",
+            "url": "https://party.pl/newsy/amerykanski-gwiazdor-zaspiewal-piosenke-skolima-czy-ja-snie/"
+          },
+          {
+            "name": "ESKA.pl",
+            "url": "https://www.eska.pl/rozrywka/gwiazdy/amerykanski-piosenkarz-david-kushner-zaspiewal-utwor-skolima-no-i-sie-zaczelo-wole-polske-aa-uMWY-sAK8-1dfZ.html"
+          },
+          {
+            "name": "TVN",
+            "url": "https://tvn.pl/gwiazdy/david-kushner-zaspiewal-przeboj-skolima-st9275544"
+          },
+          {
+            "name": "Interia Muzyka",
+            "url": "https://muzyka.interia.pl/disco-polo/news-david-kushner-spiewa-przeboj-skolima-w-nowym-jorku-obywatels,nId,23555147"
+          },
+          {
+            "name": "Instagram David Kushner",
+            "url": "https://www.instagram.com/reel/DeNGshuuEpi/",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.instagram.com/reel/DeNGshuuEpi/",
+        "caption": {
+          "credit": "David Kushner / Instagram",
+          "text": "Oryginalne nagranie Davida Kushnera z nocnej jazdy po Nowym Jorku, z „Temperaturą” Skolima w tle. To w nim pada zdanie o tym, że woli Polskę od Nowego Jorku, które rozgrzało polskie komentarze."
+        },
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1439392803233-3c1427203528?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Nicolai Berntsen / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/vM97bob4ZGk",
+          "alt": "Ulica w centrum Nowego Jorku nocą (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Pokazuje nocny Nowy Jork, ale nie przedstawia Davida Kushnera ani miejsca nagrania; jego oryginalny film jest poniżej."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Zapowiedź",
+        "hype": 3,
+        "title": "Kai Cenat chce streamować z kosmosu. Celuje w 2027 rok",
+        "summary": "Jeden z najpopularniejszych streamerów świata powiedział na żywo, że kompletuje zespół astronautów i badaczy kosmosu. Chce zostać pierwszym twórcą, który nada transmisję z orbity, choć sam przyznaje, że w 2027 roku może się to nie udać.",
+        "body": [
+          "Kai Cenat podczas czwartkowej transmisji na Twitchu, 8 października, opowiedział o planie, który wraca u niego od lat: chce prowadzić stream z kosmosu. Jak mówił, kompletuje zespół astronautów i osób zajmujących się badaniem kosmosu, a część przygotowań ma pokazywać widzom na streamach.",
+          "Jako cel wskazał 2027 rok, ale od razu zastrzegł, że termin może się przesunąć. Nie podał nazwy żadnego partnera ani statku, którym miałby polecieć. Zapowiedział też serię transmisji poświęconych w dużej mierze tematyce kosmicznej.",
+          "To nie pierwszy raz, gdy streamer mówi o takim locie. W listopadzie 2024 roku, w trakcie subathonu, prosił na X o pomoc Elona Muska i SpaceX, a we wrześniu 2025 roku w programie „The Jennifer Hudson Show” przyznał, że zaplanowana wcześniej wyprawa nie doszła do skutku.",
+          "Na tym samym streamie Cenat zapowiedział też powrót do Japonii razem z Rayem po trzech latach. Tym razem wyjazd ma objąć kilka transmisji, ale szczegółów i dat na razie nie zdradził."
+        ],
+        "sources": [
+          {
+            "name": "Rolling Out",
+            "url": "https://rollingout.com/2026/10/09/kai-cenat-space-stream-2027-plan/"
+          },
+          {
+            "name": "HypeFresh",
+            "url": "https://www.hypefresh.com/kai-cenat-sets-ambitious-2027-goal-to-become-first-streamer-to-livestream-from-space/"
+          },
+          {
+            "name": "WIN.gg",
+            "url": "https://win.gg/kai-cenat-reveals-japan-irl-tour-talks-space/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1541185934-01b600ea069c?w=1200&q=70&auto=format&fit=crop",
+          "credit": "SpaceX / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/rocket-launch-trail-in-night-sky-6SbFGnQTE8s",
+          "alt": "Smuga po starcie rakiety na nocnym niebie (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia Kaia Cenata ani żadnej zaplanowanej przez niego misji; streamer nie ogłosił partnera ani rakiety."
+        }
+      }
+    ],
+    "drop": [
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "Aminé x New Balance",
+        "initials": "AN",
+        "category": "Premiera",
+        "hype": 3,
+        "title": "Aminé x New Balance 992 „Outdoor School” w ogólnej sprzedaży",
+        "summary": "Raper Aminé i New Balance wypuścili wspólną wersję modelu 992 Made in USA. Po przedpremierze w sklepie artysty buty trafiły w piątek do ogólnej sprzedaży u New Balance, w cenie 220 dolarów.",
+        "body": [
+          "W piątek, 9 października, do ogólnej sprzedaży na stronie New Balance trafił model 992 Made in USA zaprojektowany z raperem Aminé. Tydzień wcześniej, 2 października, para była dostępna przedpremierowo w sklepie internetowym artysty. Cena wynosi 220 dolarów.",
+          "Kolaboracja nosi nazwę „Outdoor School” i nawiązuje do programu edukacji przyrodniczej w Oregonie, w którym Aminé uczestniczył jako dziecko. Program od lat 60. uczy dzieci przyrody w terenie, a kolorystyka butów ma przywoływać drewno, kamienie i liście.",
+          "Cholewka łączy ciemnobrązowy zamsz z siatką i lakierowaną skórą w odcieniach bordo i spalonego pomarańczu. Podeszwa jest dwukolorowa, biała z przodu i kremowa z tyłu, z czarnym spodem. Na pięcie widnieje podpis Aminé, a do pary dołączono zawieszkę w kształcie drewnianego krążka, wzorowaną na naszyjnikach, które dostają uczestnicy Outdoor School.",
+          "Technicznie to klasyczny 992 z amortyzacją ABZORB i podeszwą NDurance, czyli model, który New Balance produkuje w USA."
+        ],
+        "sources": [
+          {
+            "name": "Gear Patrol",
+            "url": "https://www.gearpatrol.com/footwear/amine-new-balance-made-in-usa-992-brown/"
+          },
+          {
+            "name": "Sole Retriever",
+            "url": "https://www.soleretriever.com/sneaker-release-dates/new-balance/992/new-balance-992-made-in-usa-amine-u992ne"
+          },
+          {
+            "name": "Sneaker News",
+            "url": "https://sneakernews.com/2026/10/04/sneaker-releases-october-4-october-10-2026/"
+          },
+          {
+            "name": "Just Fresh Kicks",
+            "url": "https://justfreshkicks.com/new-balance-992-amine-outdoor-school/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1719523677291-a395426c1a87?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Andrey Matveev / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/a-pair-of-gray-sneakers-with-white-laces-wggDZ5mCF8w",
+          "alt": "Para szarych sneakersów z białymi sznurówkami (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia modelu Aminé x New Balance 992 ani butów New Balance."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "Vans x Los Angeles Dodgers",
+        "initials": "VD",
+        "category": "Kolaboracja",
+        "hype": 2,
+        "title": "Vans x Los Angeles Dodgers: Sk8-Hi i Era w barwach klubu",
+        "summary": "Vans wypuścił dwa modele w barwach baseballowej drużyny Los Angeles Dodgers. Sk8-Hi kosztuje 140 dolarów, a niski Skate Era 120 dolarów.",
+        "body": [
+          "W piątek, 9 października, Vans wprowadził do sprzedaży parę modeli przygotowanych z drużyną Los Angeles Dodgers z ligi MLB. To wysokie Sk8-Hi za 140 dolarów i niskie Skate Era za 120 dolarów, oba w kolorystyce Dodgers Classic Blue/White.",
+          "Buty utrzymano w niebiesko-białych barwach klubu. Mają panele w szachownicę, napis Dodgers, logo z przeplecionymi literami LA, kontrastowe podeszwy, wkładki z gradientem, przetarcia i czerwone przeszycia przypominające szwy piłki baseballowej.",
+          "Sprzedaż ruszyła na Vans.com i u wybranych partnerów handlowych. Według zapowiedzi start zaplanowano na 11:00 czasu wschodnioamerykańskiego, czyli 17:00 w Polsce."
+        ],
+        "sources": [
+          {
+            "name": "Dodgers Beat",
+            "url": "https://dodgersbeat.com/dodgers-vans-sneaker-collaboration-release-date-price/"
+          },
+          {
+            "name": "Kicks Under Cost",
+            "url": "https://kicksundercost.com/news/vans-los-angeles-dodgers-pack-releases-october-9"
+          },
+          {
+            "name": "Sneaker Bar Detroit",
+            "url": "https://sneakerbardetroit.com/vans-los-angeles-dodgers-pack-release-date/"
+          },
+          {
+            "name": "Just Fresh Kicks",
+            "url": "https://justfreshkicks.com/vans-sk8-hi-los-angeles-dodgers-vn0014yq45k/"
+          },
+          {
+            "name": "Sneaker News",
+            "url": "https://sneakernews.com/2026/09/29/vans-sk8-hi-skate-era-los-angeles-dodgers/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1534375754046-291eefbbeff7?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Chris Chow / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/baseball-stadium-rHERhrnGSsQ",
+          "alt": "Kibice na stadionie baseballowym (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Przedstawia stadion w Cleveland, nie stadion Dodgers, i nie pokazuje butów Vans x Dodgers."
+        }
+      }
+    ]
+  },
   "2026-10-09": {
     "date": "2026-10-09",
     "drama": [],
