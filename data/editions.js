@@ -1,5 +1,284 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-11": {
+    "date": "2026-10-11",
+    "drama": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-09",
+        "who": "Grzegorz Krychowiak",
+        "initials": "GK",
+        "category": "Wiral",
+        "hype": 4,
+        "title": "Krychowiak rapuje. Singiel „Druga połowa” zrobił z Quebonafide",
+        "summary": "Były reprezentant Polski wydał swój pierwszy rapowy numer, nagrany pod okiem Quebonafide w ramach nowego programu CANAL+. W sobotę zaśpiewał go na żywo na PGE Narodowym.",
+        "body": [
+          "Grzegorz Krychowiak, były pomocnik reprezentacji Polski, opublikował singiel „Druga połowa”. Utwór jest dostępny na YouTube i w serwisach streamingowych, a w humorystyczny sposób opowiada o końcu jego piłkarskiej kariery.",
+          "Numer powstał w pierwszym odcinku programu „Druga połowa”, który 9 października zadebiutował w CANAL+. W każdym odcinku Krychowiak sprawdza się w innym zawodzie. Na start wybrał rap: przez cały odcinek pracuje nad utworem z Quebonafide i producentami, a finałem jest występ przed publicznością. Program produkuje Papaya Films, pierwszy odcinek wyreżyserował Jan Dybus, a producentem jest Kacper Sawicki.",
+          "Według opisów utworu muzykę skomponowali Filip „Favst” Pacholczyk, Kuba Grabowski (Quebonafide) i sam Krychowiak, a tekst napisali Grabowski, Kornel „Koro” Regel i Krychowiak.",
+          "W sobotę 10 października piłkarz wykonał „Drugą połowę” na żywo podczas 10. edycji Roztańczonego PGE Narodowego, transmitowanego przez Polsat. Przed występem mówił, że rapowanie okazało się trudniejsze, niż się spodziewał, i przypomniał, że ostatnio na tym stadionie pojawił się podczas pożegnania z reprezentacją."
+        ],
+        "sources": [
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/czy-to-mozliwe-zeby-grzegorz-krychowiak-rapowal-jak-quebo-do-sieci-trafil-numer-nagrany-przez-pilkarza/"
+          },
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/tak-rapuje-grzegorz-krychowiak-nauczyl-go-quebonafide/"
+          },
+          {
+            "name": "4FUN.TV",
+            "url": "https://4fun.tv/news/grzegorz-krychowiak-piosenka-druga-polowa-teledysk"
+          },
+          {
+            "name": "Halo tu Polsat",
+            "url": "https://halotu.polsat.pl/gwiazdy/news-wyjde-na-te-scene-i-bedziemy-sie-bawic-grzegorz-krychowiak-z,nId,23556291"
+          },
+          {
+            "name": "Interia Sport",
+            "url": "https://sport.interia.pl/sportowe-zycie/news-grzegorz-krychowiak-na-pge-narodowym-zrobil-to-na-oczach-cal,nId,23556447"
+          },
+          {
+            "name": "YouTube: „Druga połowa”",
+            "url": "https://www.youtube.com/watch?v=rSS_-njmWVU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=rSS_-njmWVU",
+        "caption": {
+          "credit": "Grzegorz Krychowiak / YouTube",
+          "text": "To singiel „Druga połowa”, czyli efekt pierwszego odcinka programu CANAL+, w którym Krychowiak uczy się rapu od Quebonafide. Tekst żartuje z końca jego piłkarskiej kariery, a ten sam numer piłkarz zaśpiewał w sobotę na PGE Narodowym."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/rSS_-njmWVU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/rSS_-njmWVU/hqdefault.jpg",
+          "credit": "Grzegorz Krychowiak / YouTube",
+          "href": "https://www.youtube.com/watch?v=rSS_-njmWVU",
+          "alt": "Kadr z materiału „Druga połowa” Grzegorza Krychowiaka",
+          "caption": "Kadr z materiału do singla „Druga połowa”, omawianego w artykule. Utwór powstał z pomocą Quebonafide w pierwszym odcinku programu Krychowiaka w CANAL+."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-09",
+        "who": "Żabson",
+        "initials": "ŻA",
+        "category": "Kampania",
+        "hype": 3,
+        "title": "Żabson twarzą kampanii Allegro dla pokolenia Z",
+        "summary": "Allegro wystartowało z kampanią „all vibes welcome” skierowaną do najmłodszych klientów. Główną rolę gra Żabson, który w krótkich spotach szuka nowych pasji poza sceną.",
+        "body": [
+          "Allegro ruszyło z kampanią w mediach społecznościowych skierowaną do pokolenia Z. Jej twarzą został raper Żabson, a hasło brzmi „all vibes welcome”. W serii krótkich spotów muzyk spędza czas wolny z dala od sceny, próbuje nowych zajęć i szuka tego, co go naprawdę kręci.",
+          "Platforma opiera kampanię na własnym raporcie „Allegro: młode fenomeny”, przygotowanym z Y&LOVERS wśród osób w wieku 13–24 lat. Według niego blisko 80 proc. badanych uważa, że rzeczy, które posiadają, wiele o nich mówią.",
+          "W aplikacji Allegro powstała specjalna strefa kampanii z interaktywną „maszyną losującą”, która podsuwa pomysły na nowe aktywności, oraz z polecajkami produktów od twórców internetowych. Spoty trafią na Instagram, TikTok, Facebook i YouTube, a kampanię wspierają też influencerzy.",
+          "Za kreację odpowiada agencja Polot, za produkcję MOON Films, a spoty wyreżyserowała Julia Rogowska. Współpracą z influencerami, w tym z Żabsonem, zajmuje się LiquidThread. GlamRap przypomina, że raper ma już za sobą kampanie m.in. z Fortnite, Monster Energy i Samsungiem."
+        ],
+        "sources": [
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/allegro-zatrudnilo-zabsona-raper-staje-sie-slupem-ogloszeniowym-jak-sokol/"
+          },
+          {
+            "name": "Allegro (biuro prasowe)",
+            "url": "https://media.allegro.pl/473914-zabson-w-nowej-kampanii-allegro-mlodzi-i-ich-pasje-w-centrum-uwagi",
+            "origin": true
+          },
+          {
+            "name": "NowyMarketing",
+            "url": "https://nowymarketing.pl/zabson-twarza-kampanii-allegro-skierowanej-do-gen-z/"
+          },
+          {
+            "name": "dlahandlu.pl",
+            "url": "https://www.dlahandlu.pl/detal-hurt/kampanie-reklamowe/popularny-raper-w-kampanii-allegro-ma-trafiac-do-pokolenia-z,176292.html"
+          },
+          {
+            "name": "Instagram Żabson",
+            "url": "https://www.instagram.com/reel/DeRjKA4IZE2/",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.instagram.com/reel/DeRjKA4IZE2/",
+        "caption": {
+          "credit": "Żabson / Instagram",
+          "text": "Rolka z profilu Żabsona promująca kampanię Allegro „all vibes welcome”. To jeden z krótkich materiałów, w których raper pokazuje się poza sceną, przy nowych zajęciach, co jest osią całej kampanii."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/LRi8xkS38z8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/LRi8xkS38z8/hqdefault.jpg",
+          "credit": "Allegro / YouTube",
+          "href": "https://www.youtube.com/watch?v=LRi8xkS38z8",
+          "alt": "Kadr ze spotu kampanii Allegro „all vibes welcome” z Żabsonem",
+          "caption": "Kadr ze spotu kampanii „all vibes welcome”, omawianego w artykule. Spot pokazuje Żabsona w roli, w jakiej obsadziło go Allegro: twórcy szukającego nowych pasji poza muzyką."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-09",
+        "who": "Skolim",
+        "initials": "SK",
+        "category": "Wywiad",
+        "hype": 3,
+        "title": "Skolim na 30. urodzinach: „Mógłbym kupić wszystkich warszawskich pozerów”",
+        "summary": "Król disco polo świętował 30. urodziny w rodzinnych Siemiatyczach. Zapytany o zarobki stwierdził, że finansowo żaden raper ani popowy wokalista nie może się z nim równać.",
+        "body": [
+          "Skolim, czyli Konrad Skolimowski, skończył 30 lat 9 października. Urodziny świętował dzień wcześniej w amfiteatrze w Siemiatyczach: ulice pomalowano na różowo, gwiazdor przyjechał różową limuzyną, a na scenę wniesiono wielki różowy tort, przy którym publiczność odśpiewała „Sto lat”. Według Kozaczka wśród gości byli m.in. Zenek Martyniuk, Cleo, Donatan, Raider i Dance 2 Disco.",
+          "W rozmowie z Kozaczkiem, nagranej podczas imprezy, Skolim został zapytany o swoje zarobki. Odpowiedział, że może kupić wszystko, a „warszawskich pozerów” mógłby kupić wszystkich naraz.",
+          "Muzyk wbił też szpilę raperom, którzy do teledysków wynajmują drogie samochody, i stwierdził, że pod względem pieniędzy nie dorównuje mu żaden raper, popowiec ani rockman. Dodał jednak, że szanuje ich twórczość i że pieniądze to nie wszystko. Nie wymienił nikogo z nazwiska.",
+          "Wypowiedź szybko podchwyciły portale muzyczne i plotkarskie, m.in. CGM, GlamRap i Party.pl. Do czasu publikacji nie odnotowano odpowiedzi żadnego z wywołanych do tablicy artystów."
+        ],
+        "sources": [
+          {
+            "name": "Kozaczek.pl",
+            "url": "https://www.kozaczek.pl/tylko-u-nas-skolim-uderzyl-w-warszawskich-raperow-moglbym-ich-wszystkich-kupic-naraz/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/skolim-zapytany-o-swoje-zarobki-twierdzi-ze-moglby-kupic-wszystkich-warszawskich-pozerow-i-raperow-wynajmujacych-fury-do-klipow-na-raz/"
+          },
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/skolim-o-warszawskich-raperach-moglbym-ich-wszystkich-kupic-naraz/"
+          },
+          {
+            "name": "Party.pl",
+            "url": "https://party.pl/newsy/skolim-uderzyl-w-inne-gwiazdy-na-swoich-urodzinach-padly-mocne-slowa/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1768053921689-1bc09db904c9?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Nicolás Flor / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/silhouetted-crowd-enjoys-a-concert-with-bright-stage-lights-gKgL1WlE5KM",
+          "alt": "Sylwetki publiczności na koncercie w świetle reflektorów (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia Skolima, jego urodzinowego koncertu ani amfiteatru w Siemiatyczach."
+        }
+      }
+    ],
+    "drop": [
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "LaMelo Ball x PUMA",
+        "initials": "LB",
+        "category": "Kolaboracja",
+        "hype": 4,
+        "title": "LaMelo Ball x „Stranger Things” x PUMA: trzy buty z Demogorgonem",
+        "summary": "PUMA szykuje kolekcję sygnowaną przez LaMelo Balla i inspirowaną serialem Netflixa. W paczce są MB.06, LaFrance i LaFrance RNR, a premiera ma wypaść w listopadzie.",
+        "body": [
+          "Sneakerowe media pokazały kolekcję LaMelo Ball x „Stranger Things” x PUMA. Składa się z trzech modeli: koszykarskiego MB.06 oraz lifestyle'owych LaFrance i LaFrance RNR. Wszystkie nawiązują do serialu Netflixa.",
+          "MB.06 (313625-01) ma przygaszoną fioletową bazę z czerwonymi akcentami, a jego krawędzie przypominają ostre zęby Demogorgona, którego paszcza pojawia się też na wspólnym logo. LaFrance RNR (313928-01) powtarza fioletowo-czerwoną kolorystykę i dorzuca grafiki pękniętego „Upside Down”, a klasyczne LaFrance (314660-01) jest czerwone z królewsko niebieskimi detalami i komiksowym deseniem przypominającym żyły.",
+          "Pudełka mają motyw Demogorgona i napis „Not From Here”. Ceny nie podano.",
+          "Data premiery nie jest jasna. Sole Retriever i Sneaker Bar Detroit podają 6 listopada (PUMA i wybrane sklepy), Sneaker News pisze o 11 listopada, a House of Heat o sezonie świątecznym bez konkretnego dnia. PUMA nie wydała w tej sprawie oficjalnego komunikatu."
+        ],
+        "sources": [
+          {
+            "name": "Sneaker News",
+            "url": "https://sneakernews.com/2026/10/09/stranger-things-lamelo-ball-puma-release-date/"
+          },
+          {
+            "name": "Sole Retriever",
+            "url": "https://www.soleretriever.com/news/articles/puma-lamelo-ball-stranger-things-collection-release-date-november-2026"
+          },
+          {
+            "name": "Sneaker Bar Detroit",
+            "url": "https://sneakerbardetroit.com/stranger-things-puma-lamelo-ball-pack-release-date/"
+          },
+          {
+            "name": "House of Heat",
+            "url": "https://houseofheat.co/puma/stranger-things-puma-basketball-collection-2026"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1594768928363-26cbe4cc86af?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Tim Mossholder / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/woman-in-blue-and-white-shorts-playing-basketball-during-daytime-q_QklBK8FSo",
+          "alt": "Gra w koszykówkę na boisku (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia LaMelo Balla ani butów z kolekcji PUMA x „Stranger Things”."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "Victor Kan x Timberland",
+        "initials": "VK",
+        "category": "Kolaboracja",
+        "hype": 3,
+        "title": "Victor Kan x Timberland Euro Hiker: znamy datę i cenę",
+        "summary": "Były projektant Kith przerobił klasyczne Euro Hikery Timberlanda w wersji Gore-Tex. Buty wyjdą 17 października za 195 dolarów, wyłącznie w jego nowojorskim sklepie Third of June.",
+        "body": [
+          "Victor Kan, były projektant Kith, a dziś właściciel nowojorskiego sklepu Third of June, ma pierwszą solową kolaborację z Timberlandem. Wziął na warsztat model Euro Hiker w wersji Gore-Tex, a teraz poznaliśmy szczegóły premiery.",
+          "But ma cholewkę z zamszu w kolorze taupe, bordowy język, srebrną siateczkę po bokach i przy kostce oraz czarny kołnierz i podeszwę. W środku są czerwone wkładki, a w zestawie dwie pary sznurówek: czarno-biała i jasnoszara.",
+          "Premiera zaplanowana jest na 17 października. Para kosztuje 195 dolarów, rozmiarówka jest unisex, a buty trafią wyłącznie do Third of June, zarówno online, jak i do sklepu stacjonarnego.",
+          "Pierwsze zapowiedzi współpracy pojawiły się we wrześniu, ale datę i cenę media podały dopiero teraz."
+        ],
+        "sources": [
+          {
+            "name": "Sole Retriever",
+            "url": "https://www.soleretriever.com/news/articles/victor-kan-x-timberland-euro-hiker-release-date-october-2026"
+          },
+          {
+            "name": "Sneaker Bar Detroit",
+            "url": "https://sneakerbardetroit.com/victor-kan-timberland-euro-hiker-release-date/"
+          },
+          {
+            "name": "Selecta Bisso",
+            "url": "https://selectabisso.com/victor-kan-x-timberland-euro-hiker-gore-tex-sortie-prevue-le-17-octobre-2026/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1606036525923-525fa3b35465?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Glenn Carstens-Peters / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/brown-leather-lace-up-boots-s8TQiOfGlz0",
+          "alt": "Brązowe sznurowane buty za kostkę (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia modelu Victor Kan x Timberland Euro Hiker ani butów Timberlanda."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-09",
+        "who": "atmos x ASICS",
+        "initials": "AA",
+        "category": "Premiera",
+        "hype": 3,
+        "title": "atmos Indonesia x ASICS GEL-KAYANO 12.1 „Archipelago” w sprzedaży",
+        "summary": "Pierwsza wspólna para indonezyjskiego atmosa i ASICS-a nawiązuje do ponad 17 tysięcy wysp Indonezji. Główny kolor to zieleń pandanu, a buty trafiły do sprzedaży w kilku krajach Azji.",
+        "body": [
+          "Indonezyjski oddział sklepu atmos i ASICS SportStyle wypuściły pierwszą wspólną parę: GEL-KAYANO 12.1 „Archipelago”. Projekt nawiązuje do Indonezji i jej ponad 17 tysięcy wysp.",
+          "Dominuje zieleń inspirowana liśćmi pandanu, uzupełniona złamaną bielą, beżem i czerwonymi akcentami, na brązowej podeszwie. Czerwone wkładki mają nadruki atmos x ASICS. But stoi na podeszwie z GEL-NIMBUS 17 z pianką FF BLAST, a jego kod to 1203B092-100.",
+          "Sprzedaż ruszyła 9 października w Indonezji, Japonii, Malezji i na Filipinach, w sklepach atmos i kanałach ASICS Indonesia. W Japonii atmos prowadzi losowanie do 14 października, a ogólna sprzedaż startuje 15 października w cenie 28 600 jenów.",
+          "W Dżakarcie w centrum Plaza Senayan do 12 października działa pop-up kolekcji. Kampanię nakręcono z indonezyjskim reżyserem Edwinem."
+        ],
+        "sources": [
+          {
+            "name": "Sneaker News",
+            "url": "https://sneakernews.com/2026/10/10/atmos-asics-gel-kayano-12-1-archipelago-1203b092-100/"
+          },
+          {
+            "name": "Liputan6",
+            "url": "https://www.liputan6.com/lifestyle/read/8309205/dari-harum-pandan-ke-gaya-urban-kisah-indonesia-dalam-desain-sneaker"
+          },
+          {
+            "name": "Selecta Bisso",
+            "url": "https://selectabisso.com/asics-sportstyle-x-atmos-indonesia-gel-kayano-12-1-archipelago-lindonesie-et-ses-17-000-iles-inspirent-une-premiere-collaboration/"
+          }
+        ],
+        "image": {
+          "kind": "ilustracja",
+          "src": "https://images.unsplash.com/photo-1551647027-b58ad8d4c86e?w=1200&q=70&auto=format&fit=crop",
+          "credit": "Maksim Samsonov / Unsplash (licencja Unsplash)",
+          "href": "https://unsplash.com/photos/person-wearing-green-low-top-sneakers-IxXJjPV0yZs",
+          "alt": "Zielone niskie sneakersy na nogach (zdjęcie ilustracyjne)",
+          "caption": "Zdjęcie ilustracyjne. Nie przedstawia modelu atmos x ASICS GEL-KAYANO 12.1 „Archipelago” ani butów ASICS."
+        }
+      }
+    ]
+  },
   "2026-10-10": {
     "date": "2026-10-10",
     "drama": [],
