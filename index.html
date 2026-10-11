@@ -12,17 +12,18 @@
 /* Layout: tabloid poster. Blue masthead band, peach ticker, date strip, cover story, ruled story lists, Dropy as a grid of IG-style tiles. */
 :root{
   --paper:#ffffff; --ink:#0b1620; --muted:#4f6474; --rule:#0b1620;
-  --blue:#276787; --on-blue:#ffffff; --peach:#ffc9b0; --on-peach:#0b1620; --soft:#eef4f8;
+  --blue:#276787; --on-blue:#ffffff; --peach:#ffc9b0; --on-peach:#0b1620; --soft:#eef4f8; --link:#276787;
+  --s1:8px; --s2:16px; --s3:24px; --s4:40px; --s5:64px;
   --display:"Anton","Impact","Arial Narrow Bold",sans-serif;
   --body:"Work Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   color-scheme:light;
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --rule:#f1f6f9;
-  --blue:#2f7aa0; --soft:#13283a; color-scheme:dark; } }
+  --blue:#2f7aa0; --soft:#13283a; --link:#8fcbe8; color-scheme:dark; } }
 :root[data-theme="dark"]{
   --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --rule:#f1f6f9;
-  --blue:#2f7aa0; --soft:#13283a; color-scheme:dark; }
+  --blue:#2f7aa0; --soft:#13283a; --link:#8fcbe8; color-scheme:dark; }
 
 *{box-sizing:border-box}
 body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.5;margin:0}
@@ -35,34 +36,38 @@ button{font:inherit;color:inherit}
 .mast{background:var(--blue);color:var(--on-blue)}
 .mast .wrap{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding-block:14px 10px}
 .logo{font-family:var(--display);font-size:clamp(3rem,14vw,6rem);line-height:.9;letter-spacing:.01em;text-transform:uppercase;margin:0}
-.issue{text-align:right;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;line-height:1.35;padding-bottom:6px}
+.issue{text-align:right;font-weight:800;font-size:.9rem;line-height:1.35;padding-bottom:6px}
+.issue::first-letter{text-transform:uppercase}
 .issue span{display:block;font-weight:400;opacity:.85}
 
 /* ticker */
 .ticker{background:var(--peach);color:var(--on-peach);overflow:hidden;border-block:2px solid var(--ink);white-space:nowrap}
 .ticker .run{display:inline-flex;gap:28px;padding-block:7px;font-weight:800;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em;animation:run 40s linear infinite;padding-left:16px}
 .ticker .run b{font-weight:800}
-.ticker .run i{font-style:normal;color:var(--blue)}
+.ticker .run i{font-style:normal;font-weight:400;color:var(--blue)}
 @keyframes run{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media (prefers-reduced-motion:reduce){.ticker .run{animation:none}}
+/* ciemny motyw: marker na całą wysokość linii, żeby ciemny tekst nie wychodził na ciemne tło */
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .hl mark{background:var(--peach)} }
+:root[data-theme="dark"] .hl mark{background:var(--peach)}
 
 /* dates */
 .dates{display:flex;align-items:stretch;gap:0;border-bottom:2px solid var(--rule);margin-top:14px}
 .days{display:flex;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
 .days::-webkit-scrollbar{display:none}
 .day{flex:0 0 auto;background:none;border:0;border-bottom:5px solid transparent;margin-bottom:-2px;padding:6px 10px 4px;cursor:pointer;text-align:center;color:var(--muted)}
-.day small{display:block;font-size:.66rem;font-weight:600;text-transform:uppercase;letter-spacing:.06em}
+.day small{display:block;font-size:.78rem;font-weight:600}
 .day b{font-family:var(--display);font-weight:400;font-size:1.5rem;line-height:1.1}
 .day.has{color:var(--ink)}
 .day.has b{text-decoration:underline;text-decoration-color:var(--peach);text-decoration-thickness:4px;text-underline-offset:2px}
 .day.sel{border-bottom-color:var(--blue);color:var(--blue)}
-.archbtn{flex:0 0 auto;background:var(--ink);color:var(--paper);border:0;font-weight:800;font-size:.74rem;text-transform:uppercase;letter-spacing:.06em;padding:0 12px;cursor:pointer}
+.archbtn{flex:0 0 auto;background:var(--ink);color:var(--paper);border:0;font-weight:800;font-size:.88rem;padding:0 14px;min-height:44px;cursor:pointer}
 .cal{border:2px solid var(--rule);border-top:0;padding:12px}
 .cal-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
 .cal-head strong{font-family:var(--display);font-weight:400;font-size:1.4rem;text-transform:uppercase;letter-spacing:.02em}
 .cal-head button{background:none;border:2px solid var(--rule);width:36px;height:36px;cursor:pointer;font-weight:800}
 .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
-.grid .wd{font-size:.66rem;font-weight:800;text-transform:uppercase;text-align:center;color:var(--muted);padding-block:4px}
+.grid .wd{font-size:.78rem;font-weight:800;text-align:center;color:var(--muted);padding-block:4px}
 .grid button{aspect-ratio:1;max-width:100%;border:0;background:var(--soft);cursor:pointer;font-weight:600;color:var(--muted)}
 .grid button.has{background:var(--peach);color:var(--on-peach)}
 .grid button.sel{background:var(--blue);color:var(--on-blue)}
@@ -71,29 +76,30 @@ button{font:inherit;color:inherit}
 .cal-note{font-size:.78rem;color:var(--muted);margin-top:8px}
 
 /* cover */
-.cover{padding-block:22px 6px}
-.kicker{display:inline-block;background:var(--ink);color:var(--paper);font-weight:800;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 8px}
+.cover{padding-block:var(--s3) 0}
+.cover-media{position:relative;min-width:0}
+.stamp{position:absolute;z-index:3;left:-6px;top:-10px;font-family:var(--display);font-weight:400;font-size:1.35rem;line-height:1.2;text-transform:uppercase;letter-spacing:.02em;background:var(--peach);color:var(--on-peach);border:2px solid var(--ink);padding:2px 10px 1px;transform:rotate(-4deg);pointer-events:none}
 .hl{font-family:var(--display);font-weight:400;text-transform:uppercase;line-height:1.14;letter-spacing:.012em;margin:.3em 0 .4em;text-wrap:balance}
-.hl mark{background:linear-gradient(transparent 52%,var(--peach) 52%,var(--peach) 92%,transparent 92%);color:inherit;padding:0 .06em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+.hl mark{background:linear-gradient(transparent 52%,var(--peach) 52%,var(--peach) 92%,transparent 92%);color:var(--on-peach);padding:0 .06em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
 .cover .hl{font-size:clamp(2.1rem,8vw,3.6rem)}
 .cover p{font-size:1.06rem;max-width:62ch;margin:0}
 
 /* sections */
-.sec{margin-top:34px;scroll-margin-top:12px}
+.sec{margin-top:var(--s4);scroll-margin-top:12px}
 .sec-head{display:flex;align-items:center;gap:12px;border-bottom:4px solid var(--rule);padding-bottom:8px}
 .sticker{font-family:var(--display);font-weight:400;font-size:1.6rem;line-height:1.25;text-transform:uppercase;letter-spacing:.02em;background:var(--blue);color:var(--on-blue);padding:2px 12px;transform:rotate(-1.5deg);margin:0 0 4px;white-space:nowrap}
 .sec-drop .sticker{background:var(--peach);color:var(--on-peach)}
 .sec-sub{font-size:.85rem;color:var(--muted);flex:1;min-width:0}
 .count{font-family:var(--display);font-size:1.3rem}
 
-.story{padding-block:16px;border-bottom:1px solid var(--rule)}
-.meta{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:.7rem;font-weight:800;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}
-.meta .ok{color:var(--blue)}
+.story{padding-block:var(--s2);border-bottom:1px solid var(--rule)}
+.meta{display:flex;flex-wrap:wrap;gap:2px 14px;font-size:.84rem;font-weight:600;color:var(--muted);margin:0 0 var(--s1)}
+.meta .ok{color:var(--link)}
 .story .hl{font-size:clamp(1.5rem,5.4vw,2rem)}
 .story p{margin:0 0 10px;max-width:64ch}
 .srcs{font-size:.82rem;color:var(--muted);margin:0}
 .srcs a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue);text-underline-offset:2px}
-.srcs .orig{color:var(--blue);font-weight:800}
+.srcs .orig{color:var(--link);font-weight:800}
 
 /* dropy tiles */
 .tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}
@@ -101,7 +107,7 @@ button{font:inherit;color:inherit}
 .tile{display:flex;flex-direction:column;gap:10px;padding:14px;background:var(--blue);color:var(--on-blue);scroll-margin-top:12px}
 .tile:nth-child(3n+2){background:var(--peach);color:var(--on-peach)}
 .tile:nth-child(3n+3){background:var(--ink);color:var(--paper)}
-.tile .brand{font-weight:800;font-size:.66rem;letter-spacing:.18em;text-transform:uppercase;opacity:.8}
+.tile .tmeta{font-weight:600;font-size:.84rem}
 .tile .hl{font-size:1.45rem;margin:0}
 .tile:nth-child(3n+1) .hl,.tile:nth-child(3n+3) .hl{color:var(--peach)}
 .tile p{margin:0;font-size:.9rem;flex:1}
@@ -113,8 +119,8 @@ button{font:inherit;color:inherit}
 .empty{padding-block:30px}
 .empty .hl{font-size:2rem}
 .empty p{color:var(--muted);margin:0 0 14px}
-.btn{background:var(--blue);color:var(--on-blue);border:0;font-weight:800;text-transform:uppercase;letter-spacing:.06em;font-size:.8rem;padding:10px 14px;cursor:pointer}
-footer{margin-top:40px;padding-block:18px 40px;border-top:4px solid var(--rule);font-size:.84rem;color:var(--muted)}
+.btn{background:var(--blue);color:var(--on-blue);border:0;font-weight:800;font-size:.95rem;padding:10px 16px;min-height:44px;cursor:pointer}
+footer{margin-top:var(--s5);padding-block:var(--s2) var(--s4);border-top:4px solid var(--rule);font-size:.84rem;color:var(--muted)}
 footer strong{color:var(--ink)}
 footer p{margin:0 0 6px}
 footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
@@ -131,18 +137,18 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .embed-yt{aspect-ratio:16/9;height:auto}
 .embed-tt{height:740px;max-width:340px}
 .embed .instagram-media,.embed .twitter-tweet{margin:0!important}
-.emb{color:var(--blue)}
+.emb{color:var(--link)}
 /* podpis-komentarz pod osadzonym materiałem (prawo cytatu: komentarz + autor + źródło) */
 .fig{margin:18px 0 22px;max-width:560px}
 .fig .embed{margin:0}
-.fig figcaption{border-left:4px solid var(--blue);padding:8px 0 2px 12px;margin-top:10px;font-size:.88rem;line-height:1.45}
-.fig figcaption .cr,.credit{display:block;margin-top:4px;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.fig figcaption{margin-top:var(--s1);font-size:.92rem;line-height:1.5;max-width:60ch}
+.fig figcaption .cr,.credit{display:block;margin-top:4px;font-size:.82rem;font-weight:600;color:var(--muted)}
 .credit{margin:-6px 0 10px;position:relative;z-index:2}
 /* zdjęcia: kadr z filmu (prawo cytatu) albo zdjęcie ilustracyjne na wolnej licencji; wczytywane ze źródła, nie hostowane */
 .photo{position:relative;aspect-ratio:16/9;overflow:hidden;border:2px solid var(--rule);background:var(--soft)}
 .tile .photo{border:0;aspect-ratio:auto;height:clamp(170px,24vw,260px)}
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
-.photo .badge{position:absolute;left:8px;top:8px;background:var(--paper);color:var(--ink);font-weight:800;font-size:.62rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 7px}
+.photo .badge{position:absolute;left:8px;bottom:8px;background:var(--paper);color:var(--ink);font-weight:700;font-size:.76rem;padding:2px 7px}
 .fig .photo{max-width:560px}
 .fig figcaption a,.credit a{color:inherit;text-decoration-color:var(--blue)}
 /* layout: fluid grids, no fixed single column */
@@ -178,15 +184,15 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .poster.p-luz{background:var(--peach);color:var(--on-peach)}
 .poster.p-drop{background:var(--ink);color:var(--paper)}
 .poster .ini{position:absolute;right:-.06em;bottom:-.22em;font-family:var(--display);font-size:clamp(7rem,30vw,11rem);line-height:1;opacity:.18;letter-spacing:-.02em}
-.poster .tag{font-weight:800;font-size:.66rem;text-transform:uppercase;letter-spacing:.16em;opacity:.85}
+.poster .tag{font-weight:700;font-size:.86rem}
 .poster .who{font-family:var(--display);font-size:clamp(1.8rem,6vw,2.6rem);line-height:1;text-transform:uppercase;max-width:80%}
-.poster .via{align-self:flex-start;background:var(--paper);color:var(--ink);font-weight:800;font-size:.66rem;text-transform:uppercase;letter-spacing:.08em;padding:3px 7px}
+.poster .via{align-self:flex-start;background:var(--paper);color:var(--ink);font-weight:700;font-size:.8rem;padding:2px 7px}
 .media .embed{margin:0}
 .media .instagram-media{min-width:0!important;width:100%!important}
 .media .embed-tt{height:600px;max-width:325px}
 
 /* consent banner */
-.consent{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--paper);color:var(--ink);border-top:4px solid var(--rule);box-shadow:0 -6px 24px rgba(0,0,0,.18)}
+.consent{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--paper);color:var(--ink);border-top:4px solid var(--rule)}
 .consent .wrap{padding-block:16px 18px;display:grid;gap:10px;max-width:760px}
 .consent strong{font-family:var(--display);font-weight:400;text-transform:uppercase;font-size:1.4rem;line-height:1.1}
 .consent p{margin:0;font-size:.9rem}
@@ -196,11 +202,12 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .linkbtn{background:none;border:0;padding:0;font-weight:600;text-decoration:underline;text-decoration-color:var(--blue);cursor:pointer;color:var(--ink);font-size:inherit}
 @media (min-width:640px){
   .cover:has(.media){grid-template-columns:minmax(0,1.2fr) minmax(0,1fr)}
-  .cover:has(.media) > :not(.media){grid-column:1}
-  .cover .media{grid-column:2;grid-row:1/span 6;margin:8px 0 0}
+  .cover:has(.media) > :not(.cover-media){grid-column:1}
+  .cover .cover-media{grid-column:2;grid-row:1/span 6;margin:8px 0 0}
 }
-.more{display:inline-block;margin-top:8px;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blue)}
-.tile .more{color:inherit}
+.more{display:inline-block;margin-top:var(--s1);font-weight:800;font-size:.95rem;color:var(--ink);text-decoration:underline;text-decoration-color:var(--peach);text-decoration-thickness:4px;text-underline-offset:3px}
+.card:hover .more{text-decoration-color:var(--blue)}
+.tile .more{color:inherit;text-decoration-color:currentColor;text-decoration-thickness:2px}
 .article{max-width:760px;margin:0 auto;padding-block:20px 10px}
 .article .hl{font-size:clamp(2rem,6vw,3.2rem);margin:.25em 0 .3em}
 .article .lede{font-size:1.15rem;font-weight:600;line-height:1.55;margin:0 0 14px}
@@ -210,9 +217,10 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .article-src ul{margin:0;padding-left:18px}
 .article-src li{margin:4px 0}
 .article-src a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
-.article-src .orig{color:var(--blue);font-weight:800;font-size:.8rem}
-.back{display:table;font-weight:800;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--blue);text-decoration:none;margin:6px 0 12px}
-.back:hover{text-decoration:underline}
+.article-src .orig{color:var(--link);font-weight:800;font-size:.86rem}
+.back{display:inline-flex;align-items:center;min-height:44px;font-weight:800;font-size:.95rem;color:var(--link);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;margin:0 0 var(--s1)}
+.back:hover{text-decoration-thickness:4px}
+.site-foot nav{display:flex;flex-wrap:wrap;gap:var(--s1) var(--s3)}
 </style>
 </head>
 <body>
@@ -238,13 +246,13 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
     <div class="cal-note">Brzoskwiniowe dni mają wydanie.</div>
   </div>
 
-  <div id="view"><section class="cover"><span class="kicker">Chwila</span><h2 class="hl">Wczytuję wydanie</h2></section></div>
+  <div id="view"><section class="cover"><h2 class="hl">Wczytuję wydanie</h2></section></div>
 
 </main>
 
 <footer class="wrap site-foot">
-  <p><strong>Hypers</strong> · codzienne wydanie o 7:00 · każdy news z min. 3 źródeł</p>
-  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a> · <a href="kontakt.html">Kontakt</a> · <a href="polityka-prywatnosci.html">Polityka prywatności</a> · <button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
+  <p><strong>Hypers</strong> wychodzi codziennie o 7:00. Każdy news sprawdzamy w co najmniej 3 źródłach.</p>
+  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a><a href="kontakt.html">Kontakt</a><a href="polityka-prywatnosci.html">Polityka prywatności</a><button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
 </footer>
 
 <div class="consent" id="consent" role="dialog" aria-labelledby="c-title" hidden>
@@ -305,7 +313,7 @@ function imgTag(im){
   return `<img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt||'')}" loading="lazy" referrerpolicy="no-referrer"${fb}>`;
 }
 function imgCredit(im){
-  return `${KIND[im.kind]||'Zdjęcie'}: ${esc(im.credit||'')}${im.href?` · <a href="${esc(safeUrl(im.href))}" target="_blank" rel="noopener">źródło ↗</a>`:''}`;
+  return `${KIND[im.kind]||'Zdjęcie'}: ${esc(im.credit||'')}${im.href?`, <a href="${esc(safeUrl(im.href))}" target="_blank" rel="noopener">źródło</a>`:''}`;
 }
 function photoCard(n,sec){
   const im=n.image; return `<div class="media"><div class="photo">${imgTag(im)}<span class="badge">${KIND[im.kind]||''}</span></div></div><span class="credit">${imgCredit(im)}</span>`;
@@ -316,7 +324,7 @@ function photoFigure(n){
 }
 function creditHtml(n,e){
   const c=n.caption||{}; const who=c.credit||e.name;
-  return `${c.credit?'':'Źródło: '}${esc(who)} · <a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">oryginał ↗</a>`;
+  return `${c.credit?'':'Źródło: '}${esc(who)}, <a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">oryginał</a>`;
 }
 function credit(n){
   if(n.image) return '';
@@ -331,13 +339,13 @@ function embedBlock(n){
       <span class="plat">${e.label}</span>
       <p>Odrzuciłeś cookies, więc nie ładujemy treści z serwisu ${e.name}. Możesz wyświetlić ten jeden post albo zmienić zgodę (<a href="polityka-prywatnosci.html">więcej</a>).</p>
       <div class="acts"><button class="btn" data-load>Pokaż</button><button class="ghost" data-always>Zawsze pokazuj posty</button>
-      <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w ${e.name} ↗</a></div>
+      <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w serwisie ${e.name}</a></div>
     </div></div>${cap}</figure>`;
 }
 const SEC_LABEL={drama:'Drama',luz:'Na luzie',drop:'Dropy'};
 function poster(n,sec){
   const e=embedOf(n);
-  return `<div class="poster p-${sec}" aria-hidden="true"><span class="tag">Hypers · ${SEC_LABEL[sec]||''} · ${esc(n.category||'')}</span><span class="who">${esc(n.who||'')}</span>${e?`<span class="via">▶ ${e.label}</span>`:''}<span class="ini">${esc(n.initials||'')}</span></div>`;
+  return `<div class="poster p-${sec}" aria-hidden="true"><span class="tag">${esc(n.category||SEC_LABEL[sec]||'')}</span><span class="who">${esc(n.who||'')}</span>${e?`<span class="via">▶ ${e.label}</span>`:''}<span class="ini">${esc(n.initials||'')}</span></div>`;
 }
 let mediaSeq=0;
 function media(n,sec){
@@ -392,18 +400,18 @@ function when(p){
 }
 function sources(n){
   const s=(n.sources||[]).map(x=>`<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}`);
-  return `<p class="srcs">Źródła (${s.length}): ${s.join(' · ')}</p>`;
+  return `<p class="srcs">Źródła (${s.length}): ${s.join(', ')}</p>`;
 }
-function meta(n){
+function meta(n,lead){
   const ok=(n.sources||[]).some(x=>x.origin);
-  return `<div class="meta"><span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}${embedOf(n)?`<span class="emb">▶ ${embedOf(n).name}</span>`:''}</div>`;
+  return `<div class="meta">${lead?`<span>${esc(lead)}</span>`:''}<span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}${embedOf(n)?`<span class="emb">▶ ${embedOf(n).name}</span>`:''}</div>`;
 }
 const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
 function story(n,sec,i){
-  return `<article class="story card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}${meta(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
+  return `<article class="story card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3>${meta(n)}<p>${esc(n.summary)}</p><span class="more">Czytaj dalej</span></article>`;
 }
 function tile(n,sec,i){
-  return `<article class="tile card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}<span class="brand">Hypers · ${n.region==='world'?'Świat':'Polska'} · ${when(n.published)}</span><h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><p>${esc(n.summary)}</p><span class="more">Czytaj dalej →</span></article>`;
+  return `<article class="tile card" data-card="${sec}:${i}">${media(n,sec)}${credit(n)}<h3 class="hl"><a class="card-link" href="#${aid(sec,i)}">${esc(n.title)}</a></h3><span class="tmeta">${n.region==='world'?'Świat':'Polska'}, ${when(n.published)}</span><p>${esc(n.summary)}</p><span class="more">Czytaj dalej</span></article>`;
 }
 function sectionHtml(sec,list,skipFirst){
   const idx=list.map((n,i)=>i).slice(skipFirst?1:0);
@@ -415,12 +423,7 @@ function sectionHtml(sec,list,skipFirst){
     <div class="sec-head"><h2 class="sticker">${sec.title}</h2><span class="sec-sub">${sec.sub}</span><span class="count">${list.length}</span></div>
     ${body}</section>`;
 }
-function markHead(t){
-  const w=esc(t).split(' ');
-  if(w.length<4) return `<mark>${w.join(' ')}</mark>`;
-  const k=Math.ceil(w.length/2);
-  return w.slice(0,k).join(' ')+' <mark>'+w.slice(k).join(' ')+'</mark>';
-}
+function markHead(t){ return `<mark>${esc(t)}</mark>` }
 
 function renderDays(){
   const box=$('days'); box.innerHTML='';
@@ -460,12 +463,12 @@ function toggleCal(open){
 function renderTicker(ed){
   const el=$('ticker');
   if(!ed){el.innerHTML='<span>Brak wydania z tego dnia</span>';return}
-  const items=SECTIONS.flatMap(s=>(ed[s.key]||[]).map(n=>`<span><i>●</i> ${esc(n.title)}</span>`));
+  const items=SECTIONS.flatMap(s=>(ed[s.key]||[]).map(n=>`<span>${esc(n.title)} <i>/</i></span>`));
   el.innerHTML=items.join('')+items.join('');
 }
 function renderHeader(){
   const d=parse(selected), ed=editions[selected], keys=Object.keys(editions).sort();
-  $('issue').innerHTML=`${DAYS[d.getDay()]} ${d.getDate()}.${pad(d.getMonth()+1)}<span>${ed?'Wydanie nr '+(keys.indexOf(selected)+1)+' · 7:00':'Brak wydania'}</span>`;
+  $('issue').innerHTML=`${DAYS[d.getDay()]} ${d.getDate()}.${pad(d.getMonth()+1)}<span>${ed?'wydanie nr '+(keys.indexOf(selected)+1)+', 7:00':'Brak wydania'}</span>`;
   renderTicker(ed);
 }
 function renderView(){
@@ -473,8 +476,8 @@ function renderView(){
   const keys=Object.keys(editions).sort();
   renderHeader();
   if(!ed){
-    v.innerHTML=`<section class="empty"><span class="kicker">${d.getDate()} ${MONTHS[d.getMonth()]}</span>
-      <h2 class="hl">${loaded?'Tego dnia nie było wydania':'Wczytuję'}</h2>
+    v.innerHTML=`<section class="empty">
+      <h2 class="hl">${loaded?`${d.getDate()} ${MONTHS[d.getMonth()]} nie było wydania`:'Wczytuję'}</h2>
       <p>${loaded?'Wybierz dzień z brzoskwiniowym podkreśleniem.':'Za chwilę pojawią się newsy.'}</p>
       ${loaded&&keys.length?'<button class="btn" id="golatest">Pokaż najnowsze wydanie</button>':''}</section>`;
     const g=$('golatest'); if(g) g.onclick=()=>select(keys[keys.length-1]);
@@ -485,9 +488,8 @@ function renderView(){
   const lead=leadSec?leadSec.list[0]:null;
   const total=lists.reduce((t,x)=>t+x.list.length,0);
   v.innerHTML=(lead?`<section class="cover card" data-card="${leadSec.sec.key}:0">
-      <span class="kicker">${leadSec.sec.title} · temat dnia · ${nyNewsy(total)} w wydaniu</span>
-      <h2 class="hl"><a class="card-link" href="#${aid(leadSec.sec.key,0)}">${markHead(lead.title)}</a></h2>${media(lead,leadSec.sec.key)}${credit(lead)}
-      ${meta(lead)}<p style="margin-top:10px">${esc(lead.summary)}</p><span class="more">Czytaj dalej →</span>
+      <h2 class="hl"><a class="card-link" href="#${aid(leadSec.sec.key,0)}">${markHead(lead.title)}</a></h2><div class="cover-media">${media(lead,leadSec.sec.key)}<span class="stamp">Temat dnia</span></div>${credit(lead)}
+      ${meta(lead,leadSec.sec.title+`, ${nyNewsy(total)} w wydaniu`)}<p>${esc(lead.summary)}</p><span class="more">Czytaj dalej</span>
     </section>`:'')+
     '<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec)).join('')+'</div>';
   wireCards(ed);
@@ -499,16 +501,15 @@ function renderArticle(date,sec,i){
   const secDef=SECTIONS.find(s=>s.key===sec);
   const body=(n.body&&n.body.length?n.body:[n.summary]).map(p=>`<p>${esc(p)}</p>`).join('');
   $('view').innerHTML=`<article class="article">
-    <a class="back" href="#">← Wróć do wydania</a>
-    <span class="kicker">${secDef?secDef.title:''}</span>
+    <a class="back" href="#">Wróć do wydania</a>
     <h1 class="hl">${esc(n.title)}</h1>
-    ${meta(n)}
+    ${meta(n,secDef?secDef.title:'')}
     <p class="lede">${esc(n.summary)}</p>
     ${photoFigure(n)}
     ${embedBlock(n)}
     <div class="body">${body}</div>
     <div class="article-src"><h2>Źródła</h2><ul>${(n.sources||[]).map(x=>`<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}</li>`).join('')}</ul></div>
-    <a class="back" href="#">← Wróć do wydania</a>
+    <a class="back" href="#">Wróć do wydania</a>
   </article>`;
   wireEmbed(n);
   window.scrollTo({top:0});
