@@ -1,0 +1,30 @@
+# Po każdym nowym wydaniu buduje statyczne strony artykułów, archiwum i sitemap.
+# Zabezpieczenie, gdyby ktoś wypchnął editions.js bez uruchomienia `node scripts/build.mjs`.
+name: Strony artykułów
+on:
+  push:
+    branches: [main]
+    paths: ['data/editions.js', 'scripts/build.mjs']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: build-articles
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build.mjs
+      - name: Zapisz zmiany
+        run: |
+          git add -A artykuly archiwum.html sitemap.xml data/urls.js
+          if git diff --cached --quiet; then echo "Bez zmian"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Strony artykułów: przebudowa"
+          git push

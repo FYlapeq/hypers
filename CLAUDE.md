@@ -51,4 +51,9 @@ Pierwszy news z pierwszej niepustej sekcji (ryby → drama → luz → czapy →
 - Nigdy: zdjęcia z portali, agencji, Google Grafika, repostów z IG; obrazy generowane AI przedstawiające prawdziwe osoby; ilustracje sugerujące, że pokazują prawdziwy produkt/osobę/lokal z newsa. Nie pobieraj plików do repo.
 
 ## Publikacja
-Dopisz nowe wydanie na początku obiektu w `data/editions.js` (nie usuwaj starych), commit `Wydanie RRRR-MM-DD`, push na `main`.
+Dopisz nowe wydanie na początku obiektu w `data/editions.js` (nie usuwaj starych), potem uruchom `node scripts/build.mjs`, commit `Wydanie RRRR-MM-DD` (razem z wygenerowanymi plikami), push na `main`.
+
+## Strony artykułów (od 2026-10-12)
+- Każdy news ma własną stronę `artykuly/RRRR-MM-DD/<slug>.html` z pełną treścią w HTML (dla Google i AdSense). Generuje je `scripts/build.mjs` razem z `archiwum.html`, `sitemap.xml` i `data/urls.js`. Tych plików nie edytuj ręcznie.
+- Slug powstaje z tytułu. Po publikacji NIE zmieniaj adresu: jeśli poprawiasz tytuł opublikowanego newsa, dodaj mu pole `slug` ze starym tytułem (albo starym slugiem), żeby link się nie zmienił.
+- Workflow `.github/workflows/build-articles.yml` przebudowuje strony po każdym pushu zmieniającym `data/editions.js`. Przed kolejną pracą zrób `git pull`, bo bot mógł dopisać commit.
