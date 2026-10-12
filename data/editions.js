@@ -6,6 +6,98 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-10-11",
+        "slot": "15:00",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 5,
+        "title": "Książulo wraca z recenzją po aferze z pizzą. Prawie milion wyświetleń w dobę",
+        "summary": "Po tygodniu krytyki za mrożoną pizzę MUALA w Żabce Książulo wrzucił klasyczny odcinek z oceną restauracji. Film zebrał ok. 935 tys. wyświetleń i ponad 7 tys. komentarzy, a widzowie wciąż wracają w nich do pizzy.",
+        "body": [
+          "W niedzielę 11 października Książulo opublikował na swoim kanale film „było przepyszne, ale czy PRZYJMĄ MUALA?”. To jego standardowy format: ocena lokalu i decyzja, czy dostaje znak jakości MUALA. Tego samego dnia na kanale pojawił się też krótki Short z pytaniem, czy restauracja przyjmie MUALA.",
+          "Do poniedziałkowego popołudnia główny film miał ok. 935 tys. wyświetleń, 37 tys. polubień i ponad 7 tys. komentarzy. Short zebrał ok. 200 tys. wyświetleń.",
+          "To pierwszy duży odcinek po zamieszaniu wokół pizzy MUALA, którą twórca wprowadził na początku października do sieci Żabka. Część widzów zarzucała mu wtedy, że mrożony produkt w sieciówce kłóci się z jego wcześniejszym wizerunkiem recenzenta, który nie bierze pieniędzy od lokali. Książulo odpowiadał, że to jego własny produkt, a nie reklama cudzego.",
+          "W najwyżej ocenianych komentarzach pod nowym filmem dominują żarty z pizzy z Żabki, ale są też głosy wsparcia, że krytyka była zawsze, a kanał od początku działał z przymrużeniem oka."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Książulo: „było przepyszne, ale czy PRZYJMĄ MUALA?”",
+            "url": "https://www.youtube.com/watch?v=scPdQ0nXq9g",
+            "origin": true
+          },
+          {
+            "name": "YouTube Książulo: Short „Czy restauracja przyjmie MUALA?”",
+            "url": "https://www.youtube.com/watch?v=v8T9DEUERxQ",
+            "origin": true
+          },
+          {
+            "name": "Benchmark: pizza Książula wywołała burzę",
+            "url": "https://www.benchmark.pl/pizza-ksiazula-wywolala-burze-stracil-cala-wiarygodnosc-7336692930627872a"
+          },
+          {
+            "name": "WP Finanse: Książulo będzie miał swoją pizzę w Żabce",
+            "url": "https://finanse.wp.pl/ksiazulo-bedzie-mial-swoja-pizze-w-zabce-lawina-komentarzy-7336511812467008a"
+          },
+          {
+            "name": "Wprost: pizza Książula w Żabce budzi krytykę",
+            "url": "https://www.wprost.pl/kraj/12464376/pizza-ksiazula-w-zabce-budzi-krytyke-juz-czas-by-ktos-stanal-w-obronie-tworcy.html"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=scPdQ0nXq9g",
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Nowy odcinek z oceną restauracji, opublikowany 11 października. To o tym filmie piszemy: pierwszy duży materiał Książula po krytyce za pizzę MUALA w Żabce."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/scPdQ0nXq9g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/scPdQ0nXq9g/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=scPdQ0nXq9g",
+          "alt": "Miniatura filmu Książula „było przepyszne, ale czy PRZYJMĄ MUALA?”",
+          "caption": "Kadr z miniatury omawianego odcinka."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-11",
+        "slot": "15:00",
+        "who": "EKIPA WK",
+        "initials": "WK",
+        "category": "Rozrywka",
+        "hype": 4,
+        "title": "„Kłamczuch Influencerów 3” na kanale EKIPA WK. 800 tys. wyświetleń w półtorej doby",
+        "summary": "EKIPA WK wrzuciła trzecią część serii „Kłamczuch Influencerów”, prawie godzinny odcinek z udziałem twórców internetowych. W niecałe dwie doby film zebrał ok. 810 tys. wyświetleń.",
+        "body": [
+          "W niedzielę rano na kanale EKIPA WK pojawił się odcinek „KŁAMCZUCH INFLUENCEROW 3”. To trzecia odsłona serii z udziałem influencerów. Odcinek trwa ok. 55 minut.",
+          "Do poniedziałkowego popołudnia film miał ok. 810 tys. wyświetleń, prawie 20 tys. polubień i ok. 500 komentarzy. W opisie kanał informuje, że materiał zawiera autopromocję jego marki DZIK.",
+          "W najpopularniejszych komentarzach widzowie chwalą gości odcinka i proszą, żeby część z nich częściej pojawiała się na kanale."
+        ],
+        "sources": [
+          {
+            "name": "YouTube EKIPA WK: „KŁAMCZUCH INFLUENCEROW 3”",
+            "url": "https://www.youtube.com/watch?v=XM5YG2_lgqg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=XM5YG2_lgqg",
+        "caption": {
+          "credit": "EKIPA WK / YouTube",
+          "text": "Trzecia część serii „Kłamczuch Influencerów”, opublikowana 11 października. Piszemy o tym odcinku i o tym, jak szybko zbiera wyświetlenia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/XM5YG2_lgqg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/XM5YG2_lgqg/hqdefault.jpg",
+          "credit": "EKIPA WK / YouTube",
+          "href": "https://www.youtube.com/watch?v=XM5YG2_lgqg",
+          "alt": "Miniatura odcinka „Kłamczuch Influencerów 3”",
+          "caption": "Kadr z miniatury omawianego odcinka."
+        }
+      },
+      {
+        "region": "pl",
         "published": "2026-10-09",
         "who": "Wersow i Friz",
         "initials": "WF",
@@ -49,7 +141,152 @@ window.HYPERS_EDITIONS = {
         }
       }
     ],
-    "czapy": []
+    "czapy": [
+      {
+        "region": "world",
+        "published": "2026-10-11",
+        "slot": "15:00",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Stream",
+        "hype": 4,
+        "title": "IShowSpeed zmierzył się z Kwaracchelią na niedzielnym streamie",
+        "summary": "Niedzielny stream IShowSpeeda miał w tytule pojedynek z gruzińskim piłkarzem Chwiczą Kwaracchelią. Ponad 2,5-godzinne nagranie ma już ok. 3,4 mln wyświetleń.",
+        "body": [
+          "IShowSpeed opublikował zapis niedzielnego streamu zatytułowanego „Sunday Stream + Speed Vs. Kvaratskhelia”. Nagranie trwa prawie trzy godziny i do poniedziałkowego popołudnia zebrało ok. 3,4 mln wyświetleń.",
+          "W komentarzach widzowie dyskutują głównie o tym, jak zmienia się styl streamów Speeda: jedni chwalą, że dojrzewa, inni tęsknią za dłuższymi, spontanicznymi transmisjami."
+        ],
+        "sources": [
+          {
+            "name": "YouTube IShowSpeed: Sunday Stream + Speed Vs. Kvaratskhelia",
+            "url": "https://www.youtube.com/watch?v=MBod0tK46Js",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=MBod0tK46Js",
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Zapis niedzielnego streamu z pojedynkiem z Kwaracchelią w tytule. To o tym nagraniu jest news."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/MBod0tK46Js/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/MBod0tK46Js/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=MBod0tK46Js",
+          "alt": "Miniatura streamu IShowSpeeda",
+          "caption": "Kadr z miniatury omawianego streamu."
+        }
+      },
+      {
+        "region": "world",
+        "published": "2026-10-11",
+        "slot": "15:00",
+        "who": "Sidemen",
+        "initials": "SM",
+        "category": "Wyzwanie",
+        "hype": 3,
+        "title": "Sidemen w wyzwaniu z autami za 2000 funtów",
+        "summary": "Nowy odcinek Sidemen to wyzwanie z samochodami za 2000 funtów, w którym ekipa rywalizuje kreatywnością i umiejętnościami za kierownicą. W dobę: ok. 2,6 mln wyświetleń.",
+        "body": [
+          "Sidemen opublikowali w niedzielę „SIDEMEN £2,000 CAR CHALLENGE”, ponad półtoragodzinny odcinek, w którym członkowie grupy rywalizują samochodami kupionymi za 2000 funtów. Według opisu chodzi o sprawdzenie kreatywności i umiejętności jazdy.",
+          "Film ma ok. 2,6 mln wyświetleń i 66 tys. polubień. Najwyżej oceniane komentarze dotyczą przede wszystkim stylu jazdy uczestników."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Sidemen: SIDEMEN £2,000 CAR CHALLENGE",
+            "url": "https://www.youtube.com/watch?v=BhTqWKNO-aA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=BhTqWKNO-aA",
+        "caption": {
+          "credit": "Sidemen / YouTube",
+          "text": "Odcinek z wyzwaniem samochodowym za 2000 funtów, o którym piszemy."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BhTqWKNO-aA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BhTqWKNO-aA/hqdefault.jpg",
+          "credit": "Sidemen / YouTube",
+          "href": "https://www.youtube.com/watch?v=BhTqWKNO-aA",
+          "alt": "Miniatura odcinka Sidemen z wyzwaniem samochodowym",
+          "caption": "Kadr z miniatury omawianego odcinka."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-11",
+        "slot": "15:00",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Wideo",
+        "hype": 3,
+        "title": "Blowek znowu testuje lifehacki wymyślone przez AI",
+        "summary": "Blowek wraca do formatu z testowaniem lifehacków, tym razem znowu wygenerowanych przez sztuczną inteligencję. Kolejną część obiecuje po 15 tys. polubień.",
+        "body": [
+          "W niedzielę Blowek opublikował film „Testuję WSZYSTKIE Life Hacki AI (znowu)”. W opisie wyjaśnia, że tym razem sprawdza pomysły wymyślone nie przez ludzi, a przez AI, i pyta, czy maszyny potrafią wymyślić coś naprawdę przydatnego.",
+          "Pod filmem stawia warunek: 15 tys. polubień to kolejny odcinek z lifehackami AI. Na razie materiał ma ok. 117 tys. wyświetleń i ponad 3 tys. polubień, a widzowie w komentarzach najbardziej cieszą się z powrotu znanej postaci z jego filmów."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Blowek: Testuję WSZYSTKIE Life Hacki AI (znowu)",
+            "url": "https://www.youtube.com/watch?v=QicsbXIUEag",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=QicsbXIUEag",
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Film z testami lifehacków wygenerowanych przez AI, opublikowany 11 października. To o tym materiale piszemy."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/QicsbXIUEag/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/QicsbXIUEag/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/watch?v=QicsbXIUEag",
+          "alt": "Miniatura filmu Blowka z lifehackami AI",
+          "caption": "Kadr z miniatury omawianego filmu."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-10",
+        "slot": "15:00",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Short",
+        "hype": 2,
+        "title": "ReZigiusz urządził walkę gruchotów",
+        "summary": "W nowym Shorcie ReZigiusz sprawdza, który stary samochód przepchnie drugiego. Widzowie już proszą o wyścig gruchotami dookoła Polski.",
+        "body": [
+          "ReZigiusz wrzucił Shorta „Który gruchot wygra przepychankę?!”, w którym dwa stare samochody próbują się nawzajem przepchnąć. W opisie nawiązuje do wcześniejszego materiału, w którym gruchotami grano w chowanego.",
+          "Short ma ok. 76 tys. wyświetleń. W komentarzach widzowie podsuwają kolejne pomysły, m.in. wyścig gruchotami dookoła Polski."
+        ],
+        "sources": [
+          {
+            "name": "YouTube ReZigiusz: Który gruchot wygra przepychankę?!",
+            "url": "https://www.youtube.com/watch?v=K6315zmoPV8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/K6315zmoPV8",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Short z przepychanką starych samochodów, o którym jest ten news."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/K6315zmoPV8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/K6315zmoPV8/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=K6315zmoPV8",
+          "alt": "Miniatura Shorta ReZigiusza",
+          "caption": "Kadr z miniatury omawianego Shorta."
+        }
+      }
+    ]
   },
   "2026-10-11": {
     "date": "2026-10-11",

@@ -11,7 +11,7 @@ Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w pliku `CN
   "czapy": [ news ]    // Z czapy: krótkie, nieoczywiste ciekawostki ze świata twórców (styl dropsy.news)
 }
 // Od 2026-10-12 nowe wydania używają ryby/luz/czapy. Klucze "drama" i "drop" zostają tylko w starych wydaniach (archiwum).
-news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category, hype (1-5),
+news = { region: "pl"|"world", published: "RRRR-MM-DD", slot?: "7:00"|"15:00", who, initials, category, hype (1-5),
          title, summary, body: ["akapit", ...], sources: [{name, url, origin?: true}], embed?,
          caption?: {credit: "Autor / Platforma", text: "komentarz"},
          image?: {kind: "kadr"|"ilustracja"|"prasowe", src, fallback?, credit, href, alt, caption} }
@@ -22,8 +22,13 @@ Pierwszy news z pierwszej niepustej sekcji (ryby → drama → luz → czapy →
 
 ## Zasady od 2026-10-12 (mają pierwszeństwo przed starszymi punktami niżej)
 - Profil: nie plotkarski portal, tylko rzetelne newsy i analizy w duchu kanałów komentatorskich. Bez shitpostów poza sekcją Z czapy.
-- Obserwowani twórcy: Friz, Wersow, Ekipa (wszystkie kanały członków), Budda, Książulo, Blowek, ReZigiusz, Sylwester Wardęga, Krzysztof Gonciarz, Konopskyy, Gimper oraz top 50 polskiego YouTube'a. Tematy spoza listy tylko wyjątkowo.
-- Na luzie: 2 newsy dziennie z ostatnich 48 godzin. Z czapy: krótkie newsy, ile się da potwierdzić.
+- Obserwowani twórcy: lista w prywatnym repo FYlapeq/hypers-data (`sources/creators.yml`): grupy lista, top100 (PL), streamer, zagranica (top 50 prawdziwych twórców świata). Tematy spoza listy tylko wyjątkowo.
+- Dane: zbieracz (GitHub Actions w hypers-data) o 5:45 i 13:45 zapisuje `runs/RRRR-MM-DD-<rano|popoludnie>.json` z nowymi filmami (tytuł, opis, statystyki, top komentarze bez nicków, opcjonalnie napisy) i streamami. Redakcja startuje od najnowszego pliku; `status` mówi, czy brak danych to awaria. Przebieg można wymusić commitem pliku `trigger/force_slot` (treść: rano|popoludnie).
+- Cel ok. 15 newsów dziennie: 7 w porcji porannej (7:00), 8 w popołudniowej (15:00). Cel, nie przymus: bez dopychania słabych tematów. Zagranica (region "world") maks. 3 dziennie.
+- Popołudniowe newsy dopisujemy NA POCZĄTEK list sekcji wydania danego dnia z polem `slot: "15:00"` (poranne: `slot: "7:00"` lub bez pola).
+- Źródła: w Na luzie i Z czapy wystarczy oryginał twórcy z API (`origin: true`), gdy news dotyczy tego, co twórca sam pokazał lub powiedział. Wszystko o innych osobach (zarzuty, konflikty) i Grube ryby: min. 3 niezależne źródła.
+- Bez napisów nie opisujemy, co pada w filmie: tylko tytuł, opis, statystyki i reakcje widzów (parafrazowane, bez nicków). Statystyki podajemy z godziną odczytu.
+- Na luzie i Z czapy: z ostatnich 48 godzin.
 - Grube ryby: analiza tego, co publicznie wiadomo, z oddzieleniem faktów, cudzych zarzutów i komentarza. Szkic trafia najpierw do Filipa; publikacja dopiero po jego akceptacji.
 - Zdjęcia: konkretne, nie ilustracyjne. Każde musi mieć podstawę: `prasowe` (newsroom zezwala mediom), zgoda twórcy, albo `kadr` jako cytat (tekst i `caption` faktycznie omawiają materiał, pełne oznaczenie autora). Gdy żadna podstawa nie wchodzi w grę: bez `image`, tylko `embed` oryginalnego posta. Nie używamy już `ilustracja`.
 - Nie używamy kadrów pokazujących dzieci; w takich newsach tylko `embed`.

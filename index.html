@@ -185,6 +185,7 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .tile .media{margin:-14px -14px 4px}
 .poster{position:relative;aspect-ratio:16/10;background:var(--blue);color:var(--on-blue);overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px 16px;border:2px solid var(--rule)}
 .tile .poster{border:0;aspect-ratio:auto;height:clamp(170px,24vw,260px)}
+.meta .slot{background:var(--peach);color:var(--on-peach);padding:0 .35em;border-radius:3px;font-weight:700}
 .poster.p-luz{background:var(--peach);color:var(--on-peach)}
 .poster.p-drop,.poster.p-czapy{background:var(--ink);color:var(--paper)}
 .poster .ini{position:absolute;right:-.06em;bottom:-.22em;font-family:var(--display);font-size:clamp(7rem,30vw,11rem);line-height:1;opacity:.18;letter-spacing:-.02em}
@@ -417,7 +418,7 @@ function sources(n){
 }
 function meta(n,lead){
   const ok=(n.sources||[]).some(x=>x.origin);
-  return `<div class="meta">${lead?`<span>${esc(lead)}</span>`:''}<span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}${embedOf(n)?`<span class="emb">▶ ${embedOf(n).name}</span>`:''}</div>`;
+  return `<div class="meta">${n.slot?`<span class="slot">${esc(n.slot)}</span>`:''}${lead?`<span>${esc(lead)}</span>`:''}<span>${n.region==='world'?'Świat':'Polska'}</span><span>${esc(n.category)}</span><span>${when(n.published)}</span>${ok?'<span class="ok">Potwierdzone u źródła</span>':''}${embedOf(n)?`<span class="emb">▶ ${embedOf(n).name}</span>`:''}</div>`;
 }
 const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
 function story(n,sec,i){
