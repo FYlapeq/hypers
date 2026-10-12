@@ -5,9 +5,20 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Hypers – codzienne poranne wydanie newsów o influencerach i twórcach. Każdy news potwierdzony w min. 3 źródłach.">
 <title>Hypers Daily</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:ital,wght@0,400;0,600;0,800;1,400&display=swap">
+<link rel="canonical" href="https://hypers.tech/">
+<link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#276787">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Hypers">
+<meta property="og:locale" content="pl_PL">
+<meta property="og:url" content="https://hypers.tech/">
+<meta property="og:title" content="Hypers: codzienne wydanie o 7:00">
+<meta property="og:description" content="Newsy o influencerach i twórcach: drama, wirale i dropy. Każdy news potwierdzony w min. 3 źródłach.">
+<meta property="og:image" content="https://hypers.tech/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preload" href="fonts/anton-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="fonts/fonts.css">
 <style>
 /* Layout: tabloid poster. Blue masthead band, peach ticker, date strip, cover story, ruled story lists, Dropy as a grid of IG-style tiles. */
 :root{
@@ -30,7 +41,7 @@ body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:
 a{color:inherit}
 button{font:inherit;color:inherit}
 :focus-visible{outline:3px solid var(--peach);outline-offset:2px}
-.wrap{max-width:760px;margin:0 auto;padding-inline:16px}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:clamp(16px,3vw,40px)}
 
 /* masthead */
 .mast{background:var(--blue);color:var(--on-blue)}
@@ -76,7 +87,7 @@ button{font:inherit;color:inherit}
 .cal-note{font-size:.78rem;color:var(--muted);margin-top:8px}
 
 /* cover */
-.cover{padding-block:var(--s3) 0}
+.cover{padding-block:var(--s3) 0;display:grid;grid-template-columns:minmax(0,1fr);gap:0 clamp(20px,3vw,40px);align-items:start}
 .cover-media{position:relative;min-width:0}
 .stamp{position:absolute;z-index:3;left:-6px;top:-10px;font-family:var(--display);font-weight:400;font-size:1.35rem;line-height:1.2;text-transform:uppercase;letter-spacing:.02em;background:var(--peach);color:var(--on-peach);border:2px solid var(--ink);padding:2px 10px 1px;transform:rotate(-4deg);pointer-events:none}
 .hl{font-family:var(--display);font-weight:400;text-transform:uppercase;line-height:1.14;letter-spacing:.012em;margin:.3em 0 .4em;text-wrap:balance}
@@ -92,7 +103,7 @@ button{font:inherit;color:inherit}
 .sec-sub{font-size:.85rem;color:var(--muted);flex:1;min-width:0}
 .count{font-family:var(--display);font-size:1.3rem}
 
-.story{padding-block:var(--s2);border-bottom:1px solid var(--rule)}
+.story{padding-block:var(--s2);border-bottom:1px solid var(--rule);display:grid;grid-template-columns:minmax(0,1fr);gap:0 16px;align-content:start}
 .meta{display:flex;flex-wrap:wrap;gap:2px 14px;font-size:.84rem;font-weight:600;color:var(--muted);margin:0 0 var(--s1)}
 .meta .ok{color:var(--link)}
 .story .hl{font-size:clamp(1.5rem,5.4vw,2rem)}
@@ -102,7 +113,7 @@ button{font:inherit;color:inherit}
 .srcs .orig{color:var(--link);font-weight:800}
 
 /* dropy tiles */
-.tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:14px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));gap:10px;margin-top:14px}
 
 .tile{display:flex;flex-direction:column;gap:10px;padding:14px;background:var(--blue);color:var(--on-blue);scroll-margin-top:12px}
 .tile:nth-child(3n+2){background:var(--peach);color:var(--on-peach)}
@@ -151,14 +162,7 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .photo .badge{position:absolute;left:8px;bottom:8px;background:var(--paper);color:var(--ink);font-weight:700;font-size:.76rem;padding:2px 7px}
 .fig .photo{max-width:560px}
 .fig figcaption a,.credit a{color:inherit;text-decoration-color:var(--blue)}
-/* layout: fluid grids, no fixed single column */
-.wrap{max-width:1240px;padding-inline:clamp(16px,3vw,40px)}
-.story{display:grid;grid-template-columns:minmax(0,1fr);gap:0 16px;align-content:start}
-.secs{display:block}
-.sec-drama .story,.sec-luz .story{border-bottom:1px solid var(--rule)}
-.tiles{grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr))}
 .feedgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:0 clamp(18px,2.5vw,32px)}
-.cover{display:grid;grid-template-columns:minmax(0,1fr);gap:0 clamp(20px,3vw,40px);align-items:start}
 
 @media (max-width:520px){
   .issue{font-size:.7rem}
@@ -217,6 +221,8 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .article-src ul{margin:0;padding-left:18px}
 .article-src li{margin:4px 0}
 .article-src a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
+.ai-note{margin:16px 0 0;font-size:.82rem;color:var(--muted);max-width:68ch}
+.ai-note a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .article-src .orig{color:var(--link);font-weight:800;font-size:.86rem}
 .back{display:inline-flex;align-items:center;min-height:44px;font-weight:800;font-size:.95rem;color:var(--link);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px;margin:0 0 var(--s1)}
 .back:hover{text-decoration-thickness:4px}
@@ -252,7 +258,7 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 
 <footer class="wrap site-foot">
   <p><strong>Hypers</strong> wychodzi codziennie o 7:00. Każdy news sprawdzamy w co najmniej 3 źródłach.</p>
-  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a><a href="kontakt.html">Kontakt</a><a href="polityka-prywatnosci.html">Polityka prywatności</a><button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
+  <nav aria-label="Informacje"><a href="o-nas.html">O nas</a><a href="kontakt.html">Kontakt</a><a href="polityka-prywatnosci.html">Polityka prywatności</a><a href="regulamin.html">Regulamin</a><button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
 </footer>
 
 <div class="consent" id="consent" role="dialog" aria-labelledby="c-title" hidden>
@@ -271,7 +277,8 @@ const DAYS=['niedziela','poniedziałek','wtorek','środa','czwartek','piątek','
 const pad=n=>String(n).padStart(2,'0');
 const iso=d=>d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate());
 const parse=s=>{const[y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d)};
-const todayIso=iso(new Date());
+/* "dziś" liczymy w czasie polskim (wydania mają daty Europe/Warsaw), niezależnie od strefy czytelnika */
+const todayIso=(()=>{try{return new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Warsaw'}).format(new Date())}catch(e){return iso(new Date())}})();
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
 const $=id=>document.getElementById(id);
@@ -298,9 +305,13 @@ function embedOf(n){
   for(const u of cands){const e=parseEmbed(u); if(e) return e}
   return null;
 }
-const CONSENT_KEY='hypers-consent';
-const getConsent=()=>{try{return localStorage.getItem(CONSENT_KEY)}catch(e){return null}};
-function setConsent(v){try{localStorage.setItem(CONSENT_KEY,v)}catch(e){} window.__consent=v; $('consent').hidden=true; route()}
+/* Zgoda zapisana z datą; po 12 miesiącach pytamy ponownie */
+const CONSENT_KEY='hypers-consent', CONSENT_TTL=365*864e5;
+const getConsent=()=>{try{
+  const c=JSON.parse(localStorage.getItem(CONSENT_KEY));
+  return c&&c.v&&Date.now()-c.t<CONSENT_TTL?c.v:null;
+}catch(e){return null}};
+function setConsent(v){try{localStorage.setItem(CONSENT_KEY,JSON.stringify({v,t:Date.now()}))}catch(e){} window.__consent=v; $('consent').hidden=true; route()}
 const embedsAllowed=()=>(window.__consent||getConsent())==='all';
 function showConsent(){
   const c=$('consent'); c.hidden=false;
@@ -337,7 +348,7 @@ function embedBlock(n){
   return `<figure class="fig"><div class="embed" id="embed" data-p="${e.p}">
     <div class="embed-gate">
       <span class="plat">${e.label}</span>
-      <p>Odrzuciłeś cookies, więc nie ładujemy treści z serwisu ${e.name}. Możesz wyświetlić ten jeden post albo zmienić zgodę (<a href="polityka-prywatnosci.html">więcej</a>).</p>
+      <p>Ten materiał ładuje się z serwisu ${e.name}, który może zapisać pliki cookies. Bez Twojej zgody go nie wczytujemy. Możesz wyświetlić tylko ten jeden post albo włączyć posty na stałe (<a href="polityka-prywatnosci.html">więcej</a>).</p>
       <div class="acts"><button class="btn" data-load>Pokaż</button><button class="ghost" data-always>Zawsze pokazuj posty</button>
       <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w serwisie ${e.name}</a></div>
     </div></div>${cap}</figure>`;
@@ -427,7 +438,7 @@ function markHead(t){ return `<mark>${esc(t)}</mark>` }
 
 function renderDays(){
   const box=$('days'); box.innerHTML='';
-  const now=new Date();
+  const now=parse(todayIso);
   for(let i=13;i>=0;i--){
     const d=new Date(now); d.setDate(now.getDate()-i); const k=iso(d);
     const b=document.createElement('button');
@@ -509,6 +520,7 @@ function renderArticle(date,sec,i){
     ${embedBlock(n)}
     <div class="body">${body}</div>
     <div class="article-src"><h2>Źródła</h2><ul>${(n.sources||[]).map(x=>`<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}</li>`).join('')}</ul></div>
+    <p class="ai-note">Przy szukaniu źródeł i szkicu tekstu korzystaliśmy z narzędzi AI. Fakty sprawdziła i za treść odpowiada redakcja. <a href="o-nas.html">Jak pracujemy</a> · <a href="kontakt.html">Zgłoś błąd</a></p>
     <a class="back" href="#">Wróć do wydania</a>
   </article>`;
   wireEmbed(n);

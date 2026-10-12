@@ -1,6 +1,6 @@
 # Hypers: codzienne wydanie
 
-Strona statyczna (Netlify, auto-deploy z gałęzi `main`). Newsy w `data/editions.js` (`window.HYPERS_EDITIONS`, klucz = data `RRRR-MM-DD`, czas Europe/Warsaw). Strona nie hostuje cudzych zdjęć na swoim serwerze: obrazy są wczytywane bezpośrednio ze źródła (hotlink), a w artykule osadzany jest oryginalny post twórcy (Instagram, TikTok, X, YouTube).
+Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w pliku `CNAME`). Newsy w `data/editions.js` (`window.HYPERS_EDITIONS`, klucz = data `RRRR-MM-DD`, czas Europe/Warsaw). Strona nie hostuje cudzych zdjęć na swoim serwerze: obrazy są wczytywane bezpośrednio ze źródła (hotlink), a w artykule osadzany jest oryginalny post twórcy (Instagram, TikTok, X, YouTube).
 
 ## Format wydania
 ```
@@ -32,6 +32,7 @@ Pierwszy news z pierwszej niepustej sekcji (drama → luz → drop) jest tematem
   1. `kadr`: miniatura filmu YouTube omawianego w artykule (prawo cytatu, art. 29). `src` = `https://i.ytimg.com/vi/ID/maxresdefault.jpg`, `fallback` = `.../hqdefault.jpg`. Pisz newsa tak, żeby tekst faktycznie omawiał ten film, a `caption` = 2–3 zdania komentarza, czym jest ten materiał i jak łączy się z tematem. `credit` = „Twórca / YouTube”.
   2. `prasowe`: zdjęcie z newsroomu/press kitu marki, tylko gdy strona wprost pozwala mediom go używać.
   3. `ilustracja`: luźno powiązane darmowe zdjęcie z Unsplash (tylko darmowe images.unsplash.com, nie Unsplash+), `credit` = „Autor / Unsplash (licencja Unsplash)”, `href` = strona zdjęcia. `caption` MUSI zaczynać się od „Zdjęcie ilustracyjne.” i mówić, czego NIE przedstawia, żeby nie wprowadzać w błąd.
+- Obrazy wczytujemy tylko z i.ytimg.com, images.unsplash.com i newsroomów marek (tak opisuje to punkt 4 polityki prywatności). Nowy rodzaj źródła obrazów = najpierw dopisz go do polityki.
 - Nigdy: zdjęcia z portali, agencji, Google Grafika, repostów z IG; obrazy generowane AI przedstawiające prawdziwe osoby; ilustracje sugerujące, że pokazują prawdziwy produkt/osobę/lokal z newsa. Nie pobieraj plików do repo.
 
 ## Publikacja
