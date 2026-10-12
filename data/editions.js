@@ -2,304 +2,54 @@
 window.HYPERS_EDITIONS = {
   "2026-10-12": {
     "date": "2026-10-12",
-    "drama": [],
+    "ryby": [],
     "luz": [
       {
         "region": "pl",
-        "published": "2026-10-10",
-        "who": "Skolim",
-        "initials": "SK",
-        "category": "Wiral",
-        "hype": 5,
-        "title": "Skolim wjechał różowym maybachem na scenę PGE Narodowego",
-        "summary": "Na 10. Roztańczonym PGE Narodowym Skolim zaczął swój set od wjazdu różowym autem prosto na scenę, przy „Wyglądasz idealnie”. Nagranie krąży po sieci, a komentujący nazywają to występem wieczoru.",
+        "published": "2026-10-09",
+        "who": "Wersow i Friz",
+        "initials": "WF",
+        "category": "Rodzina",
+        "hype": 4,
+        "title": "Wersow i Friz pierwszy raz pokazali twarz synka",
+        "summary": "W nowym odcinku serii Q&A na kanale Wersow cała rodzina usiadła razem na kanapie, a widzowie po raz pierwszy zobaczyli w pełni twarz syna pary, który urodził się pod koniec lipca. Imienia chłopca wciąż nie zdradzili.",
         "body": [
-          "W sobotę 10 października na PGE Narodowym w Warszawie odbyła się 10. edycja Roztańczonego PGE Narodowego, transmitowana na żywo przez Polsat. Scena stała na środku płyty i była widoczna z każdej strony stadionu.",
-          "Skolim otworzył swój występ efektownym wjazdem: różowy samochód, który portale opisują jako maybacha, wjechał na scenę przy przeboju „Wyglądasz idealnie”. Wokalista wychylał się przez dach, a w otwartych oknach auta stały tancerki. Całości dopełniło konfetti.",
-          "Później Skolim zaśpiewał „Dziewczyno piękna” w duecie z Cleo, a na koniec „Daj mi jedno słowo”. Prowadzący przypomnieli, że artysta świętuje 10 lat na scenie, i wręczyli mu koronę „króla muzyki latino”.",
-          "Fragmenty występu szybko trafiły do sieci. W komentarzach przeważają zachwyty, a internauci piszą m.in., że to był najlepszy występ wieczoru i że Skolim „ma rozmach”."
+          "Weronika „Wersow” Wiśniewska opublikowała na swoim kanale YouTube kolejny odcinek serii Q&A. Tym razem razem z Frizem wróciła do pytań, na które odpowiadali cztery lata temu, i porównała, co się od tamtej pory zmieniło w ich życiu.",
+          "W nagraniu wystąpiła cała rodzina: Wersow, Friz, ich trzyletnia córka Maja i syn, który przyszedł na świat pod koniec lipca. Chłopiec leży w ramionach mamy i to pierwszy raz, kiedy para pokazała jego twarz w całości. Wcześniej para nie pokazywała jego twarzy.",
+          "Imienia syna para nadal nie podała. Wcześniej w rozmowach z fanami padały różne propozycje, ale ostatecznego wyboru nie ogłosili.",
+          "Materiał szybko podchwyciły portale plotkarskie i rozrywkowe, które w kolejnych dniach opisywały rodzinny odcinek."
         ],
         "sources": [
           {
             "name": "Pudelek",
-            "url": "https://www.pudelek.pl/skolim-wjechal-na-scene-rozowa-fura-i-skradl-serca-widzow-masz-rozmach-skurczybyku-wideo-7338645243042272a"
-          },
-          {
-            "name": "disco-polo.info",
-            "url": "https://disco-polo.info/skolim-wjechal-maybachem-na-scene-roztanczonego-pge-narodowego-2026-zobacz-jego-wystep"
-          },
-          {
-            "name": "Muzotakt",
-            "url": "https://muzotakt.pl/154839/skolim-rozowym-maybachem-na-narodowym-wjechal/"
-          },
-          {
-            "name": "przeAmbitni",
-            "url": "https://przeambitni.pl/skolim-wjechal-rozowa-fura-na-scene-ma-chlopak-rozmach/"
-          },
-          {
-            "name": "Party.pl",
-            "url": "https://party.pl/newsy/szok-co-skolim-zrobil-na-roztanczonym-narodowym-widzowie-nie-dowierzaja/"
-          },
-          {
-            "name": "Polsat (organizator transmisji)",
-            "url": "https://www.polsat.pl/news/2026-10-10/roztanczony-pge-narodowy-2026/",
-            "origin": true
-          },
-          {
-            "name": "YouTube Polsat: Skolim „Wyglądasz idealnie”",
-            "url": "https://www.youtube.com/watch?v=C1lmatZb5yY",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=C1lmatZb5yY",
-        "caption": {
-          "credit": "Polsat / YouTube",
-          "text": "Nagranie Polsatu z występu Skolima na Roztańczonym PGE Narodowym, z piosenką „Wyglądasz idealnie”. To właśnie ten fragment z wjazdem różowym autem na scenę rozniósł się po sieci."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/C1lmatZb5yY/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/C1lmatZb5yY/hqdefault.jpg",
-          "credit": "Polsat / YouTube",
-          "href": "https://www.youtube.com/watch?v=C1lmatZb5yY",
-          "alt": "Kadr z nagrania występu Skolima na Roztańczonym PGE Narodowym",
-          "caption": "Kadr z nagrania Polsatu z występu Skolima, omawianego w artykule. Wokalista zaczął set od „Wyglądasz idealnie” i wjazdu różowym autem na scenę."
-        }
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-10",
-        "who": "Bagi",
-        "initials": "BA",
-        "category": "Ogłoszenie",
-        "hype": 4,
-        "title": "Bagi zagrał z boysbandem na Narodowym i zapowiedział numer z Blanką",
-        "summary": "Bagi wystąpił na Roztańczonym PGE Narodowym ze swoim pięcioosobowym boysbandem. Zaraz po zejściu ze sceny ogłosił, że 22 października, w swoje 25. urodziny, wyda nowy utwór z Blanką.",
-        "body": [
-          "Mikołaj „Bagi” Bagiński wystąpił w sobotę 10 października na Roztańczonym PGE Narodowym razem ze swoim boysbandem. Pięcioosobowy zespół, wyłoniony w castingu, zaśpiewał debiutancki numer „I Am From Poland”, wydany 21 sierpnia.",
-          "Tuż po występie Bagi opublikował na Instagramie nagranie z podpisem, w którym zwraca się do rodziców, że zagrał na Narodowym. W tym samym poście ogłosił, że 22 października, w dniu swoich 25. urodzin, wyda nowy numer z Blanką.",
-          "Tytułu ani szczegółów utworu na razie nie zdradził. Blanka reprezentowała Polskę na Eurowizji 2023 z piosenką „Solo”.",
-          "Bagi, twórca internetowy, w 2025 roku wygrał 17. edycję „Tańca z Gwiazdami” w parze z Magdaleną Tarnowską."
-        ],
-        "sources": [
-          {
-            "name": "Kozaczek",
-            "url": "https://www.kozaczek.pl/bagi-po-wystepie-na-roztanczonym-narodowym-przekazal-wazna-wiadomosc-chodzi-o-blanke/"
-          },
-          {
-            "name": "Świat Gwiazd",
-            "url": "https://swiatgwiazd.pl/bagi-przekazal-szczesliwa-nowine-tuz-po-koncercie-roztanczony-narodowy-podal-date-ap-wkw-111026"
-          },
-          {
-            "name": "disco-polo.info",
-            "url": "https://disco-polo.info/bagi-zagral-na-pge-narodowym-i-od-razu-oglosil-duet-z-blanka"
-          },
-          {
-            "name": "Muzotakt",
-            "url": "https://muzotakt.pl/154988/bagi-zaspiewal-narodowym-oglosil-nowine-blanka/"
-          },
-          {
-            "name": "Party.pl",
-            "url": "https://party.pl/newsy/bagi-zaspiewal-na-roztanczonym-narodowym-nagranie-z-wystepu-trafilo-juz-do-sieci/"
-          },
-          {
-            "name": "Instagram Bagi",
-            "url": "https://www.instagram.com/reel/DeUjGf2OOuC/",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.instagram.com/reel/DeUjGf2OOuC/",
-        "caption": {
-          "credit": "Bagi / Instagram",
-          "text": "Rolka, którą Bagi wrzucił zaraz po zejściu ze sceny PGE Narodowego. W podpisie ogłosił premierę nowego numeru z Blanką na 22 października, swoje 25. urodziny."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/SIcSTMTXQBA/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/SIcSTMTXQBA/hqdefault.jpg",
-          "credit": "Bagi / YouTube",
-          "href": "https://www.youtube.com/watch?v=SIcSTMTXQBA",
-          "alt": "Kadr z teledysku „I Am From Poland” boysbandu Bagiego",
-          "caption": "Kadr z teledysku „I Am From Poland”, debiutanckiego numeru boysbandu Bagiego. To ten utwór zespół zaśpiewał w sobotę na PGE Narodowym."
-        }
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-10",
-        "who": "Sentino",
-        "initials": "SE",
-        "category": "Wiral",
-        "hype": 3,
-        "title": "Sentino: pół miliona złotych za 10 minut na Narodowym",
-        "summary": "Przed Roztańczonym PGE Narodowym Sentino powiedział na streamie, że za około 10 minut na scenie zarobi 500 tys. zł. Organizatorzy tej kwoty nie potwierdzili, a internet już przelicza stawkę na minuty.",
-        "body": [
-          "Raper i streamer Sentino przed sobotnim Roztańczonym PGE Narodowym pochwalił się na streamie, ile ma zarobić. Według jego słów za około 10 minut występu dostanie pół miliona złotych, a na stadion zabiera rodzinę, w tym mamę.",
-          "Portale szybko policzyły, że to około 50 tys. zł za minutę. To jednak wyłącznie deklaracja samego artysty: organizatorzy kwoty nie potwierdzili, a część mediów przypomina, że Sentino lubi efektowne wypowiedzi.",
-          "Raper odniósł się też do krytyków. Mówił, że nie jest z nimi „na tym samym poziomie” i że swoją karierę zawdzięcza nie hejterom, lecz 25 latom zajmowania się wyłącznie muzyką.",
-          "Wypowiedź skomentowała m.in. Maffashion, która ironicznie podsumowała nagranie na Instagramie."
-        ],
-        "sources": [
-          {
-            "name": "CGM.pl",
-            "url": "https://cgm.pl/news/sentino-twierdzi-ze-za-10-minutowy-wystep-na-narodowym-dostanie-pol-miliona-zlotych/"
-          },
-          {
-            "name": "GlamRap.pl",
-            "url": "https://glamrap.pl/sentino-ujawnil-swoja-stawke-za-10-minutowy-koncert-na-narodowym/"
+            "url": "https://www.pudelek.pl/wersow-i-friz-pierwszy-raz-pokazali-twarz-synka-foto-7338187202599360a"
           },
           {
             "name": "Kozaczek",
-            "url": "https://www.kozaczek.pl/znany-raper-ujawnil-kosmiczna-stawke-za-wystep-na-roztanczonym-narodowym-chwile-potem-komentarz-maffashion-wszystko-pozamiatal/"
+            "url": "https://www.kozaczek.pl/wersow-i-friz-dlugo-tego-unikali-teraz-pokazali-cos-czego-fani-wczesniej-nie-widzieli/"
           },
           {
-            "name": "ZawódTyper",
-            "url": "https://zawodtyper.pl/sentino-podal-stawke-za-wystep-na-narodowym-kwota-zwala-z-nog/"
-          }
-        ],
-        "image": {
-          "kind": "ilustracja",
-          "src": "https://images.unsplash.com/photo-1741810977205-9fc28e5416da?w=1200&q=70&auto=format&fit=crop",
-          "credit": "Thomas Lamars / Unsplash (licencja Unsplash)",
-          "href": "https://unsplash.com/photos/concert-crowd-holding-up-lights-in-stadium-m00QXptqTFE",
-          "alt": "Publiczność ze światłami na koncercie stadionowym (zdjęcie ilustracyjne)",
-          "caption": "Zdjęcie ilustracyjne. Nie przedstawia Sentino, PGE Narodowego ani Roztańczonego PGE Narodowego."
-        }
-      },
-      {
-        "region": "world",
-        "published": "2026-10-10",
-        "who": "KSI / Misfits Boxing",
-        "initials": "KS",
-        "category": "Walka",
-        "hype": 4,
-        "title": "Misfits KSI-a podpisuje Michaela „Venom” Page’a po odejściu z UFC",
-        "summary": "Na gali Misfits Boxing w Londynie KSI ogłosił, że jego federacja podpisała wieloletni kontrakt z Michaelem „Venom” Page’em. UFC nie przedłużyło umowy z 39-latkiem.",
-        "body": [
-          "W sobotę 10 października podczas gali Misfits Boxing w Copper Box Arena w Londynie KSI, który wrócił do federacji jako szef, a nie zawodnik, ogłosił głośny transfer. Do Misfits dołączył Michael „Venom” Page.",
-          "Według mediów to wieloletni kontrakt na kilka walk. Page pojawił się w ringu i mówił, że czuje się wolny. Rywala ani daty debiutu na razie nie podano, a MMA.pl pisze, że pierwszy występ jest spodziewany w 2027 roku.",
-          "39-letni zawodnik odszedł z UFC, bo organizacja nie przedłużyła z nim umowy. Ostatnią walkę w UFC wygrał 5 września w Paryżu jednogłośną decyzją z Nursultonem Ruziboevem. W boksie ma bilans 2-0, oba zwycięstwa przez nokaut.",
-          "Na tej samej gali KSI potwierdził, że zakończył bokserską karierę i będzie działał w Misfits wyłącznie po stronie organizacyjnej."
-        ],
-        "sources": [
-          {
-            "name": "MMA.pl",
-            "url": "https://mma.pl/ufc-go-nie-chcialo-teraz-zakontraktowal-go-popularny-youtuber/"
+            "name": "Muzotakt",
+            "url": "https://muzotakt.pl/154780/wersow-i-friz-wrocili-do-pytan-sprzed-czterech/"
           },
           {
-            "name": "Sports Illustrated",
-            "url": "https://www.si.com/fannation/boxing/ksi-returns-to-misfits-boxing-and-announces-massive-signing"
+            "name": "4FUN.TV",
+            "url": "https://4fun.tv/news/wersow-friz-dziecko-syn-twarz-zdjecie"
           },
           {
-            "name": "Athlon Sports",
-            "url": "https://athlonsports.com/mma/michael-venom-page-ksi-misfits-boxing"
-          },
-          {
-            "name": "MMA Sucka",
-            "url": "https://mmasucka.com/news/michael-venom-page-signs-with-misfits-boxing-after-ufc-exit/"
-          },
-          {
-            "name": "X Misfits Boxing",
-            "url": "https://x.com/MisfitsBoxing/status/2109024641859863016",
+            "name": "YouTube Wersow: odcinek Q&A",
+            "url": "https://www.youtube.com/watch?v=IXyofZv0NWk",
             "origin": true
           }
         ],
-        "embed": "https://x.com/MisfitsBoxing/status/2109024641859863016",
+        "embed": "https://www.youtube.com/watch?v=IXyofZv0NWk",
         "caption": {
-          "credit": "Misfits Boxing / X",
-          "text": "Wpis federacji Misfits Boxing z gali w Londynie, w którym organizacja ogłasza podpisanie kontraktu z Michaelem „Venom” Page’em. To oficjalne potwierdzenie transferu opisanego w artykule."
-        },
-        "image": {
-          "kind": "ilustracja",
-          "src": "https://images.unsplash.com/photo-1575747515871-2e323827539e?w=1200&q=70&auto=format&fit=crop",
-          "credit": "David Guliciuc / Unsplash (licencja Unsplash)",
-          "href": "https://unsplash.com/photos/brown-and-gray-boxing-stage-o2zrjlM5s5o",
-          "alt": "Ring bokserski w hali (zdjęcie ilustracyjne)",
-          "caption": "Zdjęcie ilustracyjne. Nie przedstawia gali Misfits Boxing, KSI-a ani Michaela „Venom” Page’a."
+          "credit": "Wersow / YouTube",
+          "text": "Odcinek Q&A z kanału Wersow, w którym para wraca do pytań sprzed czterech lat. To w tym nagraniu po raz pierwszy w całości widać twarz ich syna, dlatego pokazujemy oryginalny film zamiast kadru."
         }
       }
     ],
-    "drop": [
-      {
-        "region": "world",
-        "published": "2026-10-11",
-        "who": "Jackson Wang x Edison Chen",
-        "initials": "JW",
-        "category": "Kolaboracja",
-        "hype": 3,
-        "title": "TEAM WANG design x CLOT: kolekcja „TEAM CLOT” w sprzedaży",
-        "summary": "Marka Jacksona Wanga i CLOT Edisona Chena wypuściły pierwszą wspólną kapsułę. Motywem są akta osobowe z numerem 852, czyli kierunkowym Hongkongu.",
-        "body": [
-          "TEAM WANG design, marka współtworzona przez Jacksona Wanga, i CLOT, założony w 2003 roku przez Edisona Chena, połączyły siły po raz pierwszy. Kolekcja nazywa się „TEAM CLOT”, projekt nosi nazwę „CASE NO.852”, a kampania hasło „ON MY WAY”.",
-          "Motywem przewodnim są stare akta i kartoteki: portrety, nazwiska i numery spraw obu założycieli. Liczba 852 to międzynarodowy numer kierunkowy Hongkongu, z którym związani są obaj artyści.",
-          "W limitowanej kapsule są m.in. T-shirt z czarno-białymi portretami Wanga i Chena, koszulka z logo, kurtka w tradycyjnym chińskim kroju, maska z twarzą założyciela i kubek. W kampanii skaterzy, tancerze i DJ-e noszą maski z twarzami obu artystów.",
-          "Przed premierą fani przez kilka dni brali udział w akcji online, która miała „odblokować” kolekcję. Sprzedaż ruszyła 11 października w kanałach TEAM WANG design, CLOT i sklepach JUICE w Azji. Cen źródła nie podają."
-        ],
-        "sources": [
-          {
-            "name": "Hypebeast HK (Yahoo News HK)",
-            "url": "https://hk.news.yahoo.com/%E5%85%A9%E5%A4%A7%E9%A6%99%E6%B8%AF%E6%A8%99%E8%AA%8C%E6%80%A7%E4%BA%BA%E7%89%A9-%E4%BB%BD%E5%B0%88%E5%B1%AC%E6%AA%94%E6%A1%88-team-wang-design-065316478.html"
-          },
-          {
-            "name": "KIKS",
-            "url": "https://kiks.com.tw/post/team-wang-design-%E6%94%9C%E6%89%8B-clot-%E7%99%BC%E4%BD%88%E5%85%A8%E6%96%B0%E8%81%AF%E5%90%8D%E7%B3%BB%E5%88%97-%E3%80%8Cteam-clot%E3%80%8D"
-          },
-          {
-            "name": "ZEEK",
-            "url": "https://zeekmagazine.com/archives/264574"
-          },
-          {
-            "name": "Selecta Bisso",
-            "url": "https://selectabisso.com/team-wang-design-x-clot-deux-icones-de-hong-kong-reunies-dans-une-collaboration-streetwear-exclusive/"
-          }
-        ],
-        "image": {
-          "kind": "ilustracja",
-          "src": "https://images.unsplash.com/photo-1632194978058-4f2f48bc68c2?w=1200&q=70&auto=format&fit=crop",
-          "credit": "Greg Rosenke / Unsplash (licencja Unsplash)",
-          "href": "https://unsplash.com/photos/a-rack-of-shirts-hanging-on-a-rack-in-a-store-hWdzH8YY8kk",
-          "alt": "Kolorowe koszulki na wieszaku w sklepie (zdjęcie ilustracyjne)",
-          "caption": "Zdjęcie ilustracyjne. Nie przedstawia ubrań z kolekcji TEAM WANG design x CLOT ani Jacksona Wanga czy Edisona Chena."
-        }
-      },
-      {
-        "region": "world",
-        "published": "2026-10-11",
-        "who": "Wasted Paris x Clarks Originals",
-        "initials": "WP",
-        "category": "Buty",
-        "hype": 3,
-        "title": "Wasted Paris x Clarks Wallabee Lite: całe czarne, z przypinkami",
-        "summary": "Wasted Paris przerobił Clarks Wallabee Lite na całkowicie czarny model inspirowany britpopem lat 90. W zestawie są wymienne przypinki, kostka gitarowa i niebieskie sznurówki.",
-        "body": [
-          "Francuska marka Wasted Paris i Clarks Originals pokazały wspólną wersję modelu Wallabee Lite. But jest w całości czarny, z zamszową cholewką i grafiką lwa w tym samym kolorze z przodu.",
-          "Projekt nawiązuje do britpopu połowy i końca lat 90., kiedy Wallabee nosiło się na koncertach indie, w pubach i na trybunach. Na sznurówkach wisi wspólny brelok obu marek.",
-          "But można personalizować: w zestawie są wymienne przypinki do rozmieszczenia na cholewce, kostka do gitary i zapasowe kontrastowe niebieskie sznurówki. Kwadratowe pudełko zdobi zdjęcie fotografa Kevina Cumminsa, kojarzonego z manchesterską sceną muzyczną.",
-          "Premiera jest zapowiadana na 15 października w sklepie Wasted Paris. Ceny marki jeszcze nie podały."
-        ],
-        "sources": [
-          {
-            "name": "Hypebeast",
-            "url": "https://hypebeast.com/2026/10/wasted-paris-clarks-wallabee-lite-release-info"
-          },
-          {
-            "name": "JustFreshKicks",
-            "url": "https://justfreshkicks.com/clarks-wallabee-lite-wasted-paris-black/"
-          },
-          {
-            "name": "Selecta Bisso",
-            "url": "https://selectabisso.com/wasted-paris-x-clarks-originals-wallabee-lite-le-britpop-des-annees-90-sinvite-sur-une-paire-entierement-personnalisable/"
-          }
-        ],
-        "image": {
-          "kind": "ilustracja",
-          "src": "https://images.unsplash.com/photo-1653868248894-fd2882c61524?w=1200&q=70&auto=format&fit=crop",
-          "credit": "Amr Taha™ / Unsplash (licencja Unsplash)",
-          "href": "https://unsplash.com/photos/a-pair-of-black-shoes-on-a-white-background-044uX1R-CTs",
-          "alt": "Para czarnych butów na białym tle (zdjęcie ilustracyjne)",
-          "caption": "Zdjęcie ilustracyjne. Nie przedstawia modelu Wasted Paris x Clarks Wallabee Lite ani butów marki Clarks."
-        }
-      }
-    ]
+    "czapy": []
   },
   "2026-10-11": {
     "date": "2026-10-11",

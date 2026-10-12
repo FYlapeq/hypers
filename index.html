@@ -12,7 +12,7 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:url" content="https://hypers.tech/">
 <meta property="og:title" content="Hypers: codzienne wydanie o 7:00">
-<meta property="og:description" content="Newsy o influencerach i twórcach: drama, wirale i dropy. Każdy news potwierdzony w min. 3 źródłach.">
+<meta property="og:description" content="Newsy o twórcach internetowych: duże tematy, lżejsze newsy i ciekawostki z czapy. Każdy news potwierdzony w min. 3 źródłach.">
 <meta property="og:image" content="https://hypers.tech/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -99,7 +99,7 @@ button{font:inherit;color:inherit}
 .sec{margin-top:var(--s4);scroll-margin-top:12px}
 .sec-head{display:flex;align-items:center;gap:12px;border-bottom:4px solid var(--rule);padding-bottom:8px}
 .sticker{font-family:var(--display);font-weight:400;font-size:1.6rem;line-height:1.25;text-transform:uppercase;letter-spacing:.02em;background:var(--blue);color:var(--on-blue);padding:2px 12px;transform:rotate(-1.5deg);margin:0 0 4px;white-space:nowrap}
-.sec-drop .sticker{background:var(--peach);color:var(--on-peach)}
+.sec-drop .sticker,.sec-czapy .sticker{background:var(--peach);color:var(--on-peach)}
 .sec-sub{font-size:.85rem;color:var(--muted);flex:1;min-width:0}
 .count{font-family:var(--display);font-size:1.3rem}
 
@@ -186,7 +186,7 @@ footer nav a{color:var(--ink);font-weight:600;text-decoration-color:var(--blue)}
 .poster{position:relative;aspect-ratio:16/10;background:var(--blue);color:var(--on-blue);overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;padding:14px 16px;border:2px solid var(--rule)}
 .tile .poster{border:0;aspect-ratio:auto;height:clamp(170px,24vw,260px)}
 .poster.p-luz{background:var(--peach);color:var(--on-peach)}
-.poster.p-drop{background:var(--ink);color:var(--paper)}
+.poster.p-drop,.poster.p-czapy{background:var(--ink);color:var(--paper)}
 .poster .ini{position:absolute;right:-.06em;bottom:-.22em;font-family:var(--display);font-size:clamp(7rem,30vw,11rem);line-height:1;opacity:.18;letter-spacing:-.02em}
 .poster .tag{font-weight:700;font-size:.86rem}
 .poster .who{font-family:var(--display);font-size:clamp(1.8rem,6vw,2.6rem);line-height:1;text-transform:uppercase;max-width:80%}
@@ -285,8 +285,10 @@ const $=id=>document.getElementById(id);
 let editions={}, selected=todayIso, calMonth=null, loaded=false;
 
 const SECTIONS=[
+  {key:'ryby',title:'Grube ryby',target:1,sub:'Duże tematy: analiza i kontekst'},
   {key:'drama',title:'Drama',target:2,sub:'Konflikty, afery, kontrowersje'},
-  {key:'luz',title:'Na luzie',target:5,sub:'Wirale, ogłoszenia, walki, kampanie'},
+  {key:'luz',title:'Na luzie',target:2,sub:'Lżejsze newsy o twórcach'},
+  {key:'czapy',title:'Z czapy',target:3,sub:'Krótkie ciekawostki ze świata twórców'},
   {key:'drop',title:'Dropy',target:3,sub:'Ciuchy, buty i kolaboracje'}
 ];
 
@@ -353,7 +355,7 @@ function embedBlock(n){
       <a class="orig-link" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">Otwórz w serwisie ${e.name}</a></div>
     </div></div>${cap}</figure>`;
 }
-const SEC_LABEL={drama:'Drama',luz:'Na luzie',drop:'Dropy'};
+const SEC_LABEL={ryby:'Grube ryby',drama:'Drama',luz:'Na luzie',czapy:'Z czapy',drop:'Dropy'};
 function poster(n,sec){
   const e=embedOf(n);
   return `<div class="poster p-${sec}" aria-hidden="true"><span class="tag">${esc(n.category||SEC_LABEL[sec]||'')}</span><span class="who">${esc(n.who||'')}</span>${e?`<span class="via">▶ ${e.label}</span>`:''}<span class="ini">${esc(n.initials||'')}</span></div>`;
@@ -528,7 +530,7 @@ function renderArticle(date,sec,i){
 }
 let lastScroll=0;
 function route(){
-  const m=location.hash.match(/^#a-(\d{4}-\d{2}-\d{2})-(drama|luz|drop)-(\d+)$/);
+  const m=location.hash.match(/^#a-(\d{4}-\d{2}-\d{2})-(ryby|drama|luz|czapy|drop)-(\d+)$/);
   if(m){ if(!document.querySelector('.article')) lastScroll=window.scrollY; renderArticle(m[1],m[2],+m[3]); return }
   const wasArticle=!!document.querySelector('.article');
   renderDays(); renderView();

@@ -6,10 +6,11 @@ Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w pliku `CN
 ```
 "RRRR-MM-DD": {
   "date": "RRRR-MM-DD",
-  "drama": [ news ],   // cel 2: konflikty, afery, kontrowersje twórców
-  "luz":   [ news ],   // cel 5: wirale, ogłoszenia, walki, kampanie (styl dropsy.news)
-  "drop":  [ news ]    // cel 3: ciuchy, buty, kolaboracje modowe
+  "ryby":  [ news ],   // Grube ryby: duży temat (analiza, kontekst), raz na kilka dni, TYLKO po akceptacji Filipa
+  "luz":   [ news ],   // Na luzie: 2 lżejsze newsy o twórcach z listy
+  "czapy": [ news ]    // Z czapy: krótkie, nieoczywiste ciekawostki ze świata twórców (styl dropsy.news)
 }
+// Od 2026-10-12 nowe wydania używają ryby/luz/czapy. Klucze "drama" i "drop" zostają tylko w starych wydaniach (archiwum).
 news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category, hype (1-5),
          title, summary, body: ["akapit", ...], sources: [{name, url, origin?: true}], embed?,
          caption?: {credit: "Autor / Platforma", text: "komentarz"},
@@ -17,7 +18,16 @@ news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category,
 ```
 `summary` = 2–3 zdania na karcie. `body` = pełny artykuł (3–5 akapitów) widoczny po kliknięciu karty, tylko z faktów potwierdzonych w źródłach, bez spekulacji.
 `embed` = link do KONKRETNEGO posta/filmu twórcy (instagram.com/p/… lub /reel/…, tiktok.com/@konto/video/…, x.com/konto/status/…, youtube.com/watch?v=… lub /shorts/…). Profil (np. instagram.com/konto/) się nie osadzi. Bez `embed` strona sama osadzi pierwszy taki link ze źródeł (najpierw `origin: true`).
-Pierwszy news z pierwszej niepustej sekcji (drama → luz → drop) jest tematem dnia na górze strony.
+Pierwszy news z pierwszej niepustej sekcji (ryby → drama → luz → czapy → drop) jest tematem dnia na górze strony.
+
+## Zasady od 2026-10-12 (mają pierwszeństwo przed starszymi punktami niżej)
+- Profil: nie plotkarski portal, tylko rzetelne newsy i analizy w duchu kanałów komentatorskich. Bez shitpostów poza sekcją Z czapy.
+- Obserwowani twórcy: Friz, Wersow, Ekipa (wszystkie kanały członków), Budda, Książulo, Blowek, ReZigiusz, Sylwester Wardęga, Krzysztof Gonciarz, Konopskyy, Gimper oraz top 50 polskiego YouTube'a. Tematy spoza listy tylko wyjątkowo.
+- Na luzie: 2 newsy dziennie z ostatnich 48 godzin. Z czapy: krótkie newsy, ile się da potwierdzić.
+- Grube ryby: analiza tego, co publicznie wiadomo, z oddzieleniem faktów, cudzych zarzutów i komentarza. Szkic trafia najpierw do Filipa; publikacja dopiero po jego akceptacji.
+- Zdjęcia: konkretne, nie ilustracyjne. Każde musi mieć podstawę: `prasowe` (newsroom zezwala mediom), zgoda twórcy, albo `kadr` jako cytat (tekst i `caption` faktycznie omawiają materiał, pełne oznaczenie autora). Gdy żadna podstawa nie wchodzi w grę: bez `image`, tylko `embed` oryginalnego posta. Nie używamy już `ilustracja`.
+- Nie używamy kadrów pokazujących dzieci; w takich newsach tylko `embed`.
+- Nie ma minimum 5 newsów dziennie: lepiej krótsze wydanie niż obniżona poprzeczka.
 
 ## Zasady redakcyjne (obowiązkowe)
 - Drama: tylko newsy opublikowane w dniu wydania. Na luzie i Dropy: z ostatnich 48 godzin.
