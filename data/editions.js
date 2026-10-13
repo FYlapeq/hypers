@@ -6,6 +6,82 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-10-12",
+        "who": "Kizo",
+        "initials": "KI",
+        "category": "Wywiad",
+        "hype": 3,
+        "title": "Kizo odpowiada Peji po odmowie wspólnego numeru: „Trochę mi się zrobiło przykro”",
+        "summary": "Peja wyjaśnił, że nie nagrał zwrotki na album Kizo, bo nie pasuje mu jego radiowy repertuar. Kizo w rozmowie z Żurnalistą mówi, że nie ma żalu, ale odmowę od artysty, na którym się wychował, odczuł, i wytyka Peji współpracę z Malikiem Montaną.",
+        "body": [
+          "Kilka dni temu Peja w rozmowie z Cyprianem Majcherem opowiedział, że odrzucił zaproszenie Kizo do wspólnego utworu na jego nowy, bardziej rapowy album. Jako powód podał popowe i radiowe numery Kizo, które określił mianem „potupajek”. Zaznaczył, że nie chodzi o nic osobistego, a samego Kizo nazwał w porządku gościem. Dodał też, że Kizo po odmowie przestał go obserwować w mediach społecznościowych.",
+          "Kizo odniósł się do tego w wywiadzie u Żurnalisty, o którym 12 października napisały Popkiller, GlamRap i CGM. Przyznał, że zrobiło mu się przykro, bo Peja to raper, na którym się wychował, a album „Szacunek Ludzi Ulicy” miał na niego duży wpływ. Podkreślił, że rozumie jego stanowisko i nie ma między nimi złej krwi.",
+          "Jednocześnie nazwał decyzję Peji „lekką hipokryzją”. Przypomniał, że Peja nagrywał później z Malikiem Montaną, który również ma na koncie radiowe przeboje. Potwierdził, że przestał obserwować Peję na Instagramie, ale według niego stało się to dużo później i nie miało związku z odmową, tylko z treściami, które Peja publikuje.",
+          "Wymiana zdań zbiega się z promocją albumu „Prezesura”. Według 4FUN.TV płyta ukaże się 12 lutego 2027 roku, a wśród gości są m.in. Bedoes, Paluch, Pezet, Kabe, Szczyl i Julia Wieniawa. Do chwili publikacji opisane źródła nie odnotowały nowej odpowiedzi Peji."
+        ],
+        "sources": [
+          {
+            "name": "Popkiller",
+            "url": "https://www.popkiller.pl/2026-10-12,kizo-odpowiada-peji-troche-mi-sie-zrobilo-przykro"
+          },
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/kizo-odpowiada-peji-i-zarzuca-mu-hipokryzje-troche-mi-sie-zrobilo-przykro/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/kizo-reaguje-na-slowa-peji-nie-ma-miedzy-nami-zlej-krwi-ale-zrobilo-mi-sie-przykro/"
+          },
+          {
+            "name": "4FUN.TV",
+            "url": "https://4fun.tv/news/kizo-nowy-album-prezesura-tracklista-goscie-premiera-data"
+          }
+        ],
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-12",
+        "who": "Małolat K2 i Popek",
+        "initials": "MP",
+        "category": "Kolaboracja",
+        "hype": 2,
+        "title": "Popek i Małolat K2 kończą dziesięcioletni konflikt wspólnym numerem „Ulicy krzyk”",
+        "summary": "Raperzy, którzy przez około dekadę byli skłóceni, nagrali razem utwór z udziałem DemonArcziego. Małolat K2 napisał w opisie klipu, że przeprosiny zostały złożone i przyjęte, a rozdział jest oficjalnie zamknięty.",
+        "body": [
+          "Na kanale Małolata K2 ukazał się teledysk „Ulicy krzyk”, w którym obok niego występują Popek i DemonArczi. Za produkcję odpowiadają Flezbeats i Beats2hard. O premierze 12 października napisały GlamRap, CGM i Odsłuch.",
+          "Utwór zamyka konflikt, który według tych serwisów trwał około dziesięciu lat i toczył się głównie w internecie. Małolat K2 tłumaczy, że spór zaczął się od nieporozumienia i nieprawdziwych informacji, a on sam czuje, że został celowo wprowadzony w błąd. Dodał, że z dzisiejszej perspektywy zachowałby się inaczej.",
+          "W opisie klipu napisał, że przeprosiny zostały złożone i przyjęte, a oba obozy „oficjalnie zamykają ten rozdział”. Według CGM raperzy spędzili ze sobą ostatnie dni. W opisanych materiałach nie ma osobnej wypowiedzi Popka, jest tylko jego udział w numerze.",
+          "Serwisy muzyczne zwracają uwagę, że brzmienie nawiązuje do surowego, ulicznego stylu dawnej Firmy, z którą kojarzony jest Popek. Odsłuch odnotował, że w chwili publikacji utworu nie było jeszcze w serwisach streamingowych."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Małolat K2: „MAŁOLAT K2 x POPEK x DemonArczi - ULICY KRZYK”",
+            "url": "https://www.youtube.com/watch?v=JA4_oJbxwHc",
+            "origin": true
+          },
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/malolat-k2-obudzil-starego-popka-z-firmy-nienawisc-do-policji/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/popek-i-malolat-k2-pogodzili-sie-po-10-latach-wspolnym-numerem-wracaja-do-klimatu-starej-firmy-jestem-alkoholikiem-jestem-narkomanem-kocham-prostytki-bo-jestem-kurwrzem/"
+          },
+          {
+            "name": "Odsłuch",
+            "url": "https://odsluch.com.pl/malolat-k2-popek-ulicy-krzyk/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=JA4_oJbxwHc",
+        "caption": {
+          "credit": "Małolat K2 / YouTube",
+          "text": "Oficjalny teledysk „Ulicy krzyk” opublikowany na kanale Małolata K2, z gościnnym udziałem Popka i DemonArcziego. To właśnie w opisie tego klipu raper ogłosił, że przeprosiny zostały złożone i przyjęte, a konflikt jest zamknięty."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-10-13",
         "who": "Książulo",
         "initials": "KS",

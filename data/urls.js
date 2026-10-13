@@ -2,6 +2,8 @@
 window.HYPERS_URLS = {
  "2026-10-13": {
   "luz": [
+   "artykuly/2026-10-13/kizo-odpowiada-peji-po-odmowie-wspolnego-numeru-troche-mi-sie-zrobilo.html",
+   "artykuly/2026-10-13/popek-i-malolat-k2-koncza-dziesiecioletni-konflikt-wspolnym-numerem.html",
    "artykuly/2026-10-13/ksiazulo-po-premierze-mrozonej-pizzy-muala-kanal-traci-subskrybentow.html",
    "artykuly/2026-10-13/young-multi-znowu-nasladuje-polskie-memy-druga-czesc-mimic-party.html",
    "artykuly/2026-10-13/dominik-rupinski-z-39-punktami-za-salse-w-tancu-z-gwiazdami.html",
