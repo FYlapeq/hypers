@@ -58,6 +58,11 @@ window.HYPERS_EDITIONS = {
         ],
         "sources": [
           {
+            "name": "YouTube Żurnalista: „PEJA? TO JEGO HIPOKRYZJA | KIZO W PODKAŚCIE ŻURNALISTY”",
+            "url": "https://www.youtube.com/watch?v=dbvo0RvVYFA",
+            "origin": true
+          },
+          {
             "name": "Popkiller",
             "url": "https://www.popkiller.pl/2026-10-12,kizo-odpowiada-peji-troche-mi-sie-zrobilo-przykro"
           },
@@ -74,7 +79,21 @@ window.HYPERS_EDITIONS = {
             "url": "https://4fun.tv/news/kizo-nowy-album-prezesura-tracklista-goscie-premiera-data"
           }
         ],
-        "slot": "15:00"
+        "slot": "15:00",
+        "embed": "https://www.youtube.com/watch?v=dbvo0RvVYFA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dbvo0RvVYFA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dbvo0RvVYFA/hqdefault.jpg",
+          "credit": "Żurnalista / YouTube",
+          "href": "https://www.youtube.com/watch?v=dbvo0RvVYFA",
+          "alt": "Miniatura podcastu Żurnalisty z Kizo",
+          "caption": "Miniatura omawianego podcastu Żurnalisty, w którym Kizo odpowiada na słowa Peji."
+        },
+        "caption": {
+          "credit": "Żurnalista / YouTube",
+          "text": "Omawiany odcinek podcastu Żurnalisty z Kizo. To w tej rozmowie raper odnosi się do odmowy Peji."
+        }
       },
       {
         "region": "pl",
@@ -256,7 +275,8 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Taniec z Gwiazdami / Instagram",
           "text": "Oficjalna rolka programu „Taniec z Gwiazdami” z występu Dominika Rupińskiego. To ten taniec jury oceniło na 39 punktów."
-        }
+        },
+        "noImage": "brak filmu na YouTube; osadzona oficjalna rolka programu"
       },
       {
         "region": "pl",
@@ -297,7 +317,8 @@ window.HYPERS_EDITIONS = {
           "credit": "Bagi / Instagram",
           "text": "Post Bagiego z występu na PGE Narodowym. To w jego podpisie twórca podał datę premiery utworu z Blanką: 22 października, dzień swoich 25. urodzin."
         },
-        "slot": "7:00"
+        "slot": "7:00",
+        "noImage": "teledysk boysbandu: nie wiadomo, czy wszyscy członkowie są pełnoletni; osadzona rolka Bagiego"
       }
     ],
     "czapy": [
@@ -480,9 +501,19 @@ window.HYPERS_EDITIONS = {
           {
             "name": "CNN",
             "url": "https://www.cnn.com/2026/10/12/world/video/massive-crowds-gather-in-uzbekistan-to-see-mrbeast-vrtc"
+          },
+          {
+            "name": "Instagram @gazetauzb: relacja z Taszkentu",
+            "url": "https://www.instagram.com/reel/DeYzxnKiV8R/"
           }
         ],
-        "slot": "7:00"
+        "slot": "7:00",
+        "embed": "https://www.instagram.com/reel/DeYzxnKiV8R/",
+        "caption": {
+          "credit": "Gazeta.uz / Instagram",
+          "text": "Rolka uzbeckiego serwisu Gazeta.uz z wizyty MrBeasta w Taszkencie. Pokazuje tłumy fanów, o których piszemy w tekście."
+        },
+        "noImage": "brak filmu MrBeasta i legalnego zdjęcia; tylko osadzona relacja Gazeta.uz"
       }
     ]
   },
