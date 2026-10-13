@@ -46,6 +46,7 @@ news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category,
   2. `prasowe`: zdjęcie z newsroomu marki, tylko gdy newsroom wprost zezwala mediom (np. news.adidas.com). Nigdy ze sklepu marki ani od sklepów/portali. `credit` = „materiały prasowe Marka”, `href` = strona w newsroomie. Nowy newsroom: najpierw sprawdź warunki.
   3. Zgoda twórcy.
 - Bez kadrów pokazujących dzieci; w takich newsach tylko `embed`.
+- `edition.mjs add` odrzuca news bez `image`. Gdy legalnego zdjęcia naprawdę nie ma (dziecko w kadrze, brak filmu/newsroomu), dodaj `embed` oryginalnego posta i pole `noImage` z krótkim powodem. Najpierw szukaj: film twórcy na YouTube (kadr), oficjalny post programu/marki (embed).
 - Obrazy tylko z i.ytimg.com i newsroomów marek (punkt 4 polityki prywatności). Nowe źródło obrazów = najpierw dopisz je do polityki.
 - Nigdy: zdjęcia z portali, agencji, Google Grafika, repostów; obrazy AI z prawdziwymi osobami. Nie pobieraj plików do repo.
 

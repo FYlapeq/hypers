@@ -115,6 +115,12 @@ function validate(n, where, date) {
     for (const k of ['src', 'credit', 'href', 'alt', 'caption']) if (!n.image[k]) err.push(`image.${k} wymagane`);
   }
   if ((n.image || n.embed) && !n.caption) err.push('brak caption przy materiale');
+  // zdjęcie jest priorytetem: film z YouTube w źródłach = obowiązkowy kadr, chyba że podano powód w noImage
+  const ytId = [n.embed, ...(n.sources || []).map(x => x.url)].filter(Boolean)
+    .map(u => (u.match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|live\/)|youtu\.be\/)([\w-]{11})/) || [])[1]).find(Boolean);
+  if (!n.image && !n.noImage) err.push(ytId
+    ? `brak image: dodaj kadr z filmu ${ytId} (i.ytimg.com/vi/${ytId}/maxresdefault.jpg) albo pole noImage z powodem`
+    : 'brak image: znajdź film/post twórcy lub zdjęcie prasowe; jeśli nie ma legalnego, dodaj embed i pole noImage z powodem');
   return err.map(e => `${where} „${short(n.title, 50)}”: ${e}`);
 }
 function add(file, build = true) {

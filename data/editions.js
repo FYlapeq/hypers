@@ -30,7 +30,16 @@ window.HYPERS_EDITIONS = {
           "credit": "Wojan Games / YouTube",
           "text": "Omawiany film z kanału Wojan Games. W jego opisie twórca ogłasza halloweenowe Wojanki w Żabce i oznacza materiał jako reklamę."
         },
-        "slot": "15:00"
+        "slot": "15:00",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/YSTDGNXL8ag/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/YSTDGNXL8ag/hqdefault.jpg",
+          "credit": "Wojan Games / YouTube",
+          "href": "https://www.youtube.com/watch?v=YSTDGNXL8ag",
+          "alt": "Miniatura filmu Wojan Games „Tsunami STRASZNEGO WOJANKA vs TAJNY BUNKIER”",
+          "caption": "Miniatura omawianego odcinka z Minecrafta. To pod tym filmem Wojan ogłosił halloweenowe Wojanki w Żabce."
+        }
       },
       {
         "region": "pl",
@@ -106,7 +115,16 @@ window.HYPERS_EDITIONS = {
           "credit": "Małolat K2 / YouTube",
           "text": "Oficjalny teledysk „Ulicy krzyk” opublikowany na kanale Małolata K2, z gościnnym udziałem Popka i DemonArcziego. To właśnie w opisie tego klipu raper ogłosił, że przeprosiny zostały złożone i przyjęte, a konflikt jest zamknięty."
         },
-        "slot": "15:00"
+        "slot": "15:00",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/JA4_oJbxwHc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/JA4_oJbxwHc/hqdefault.jpg",
+          "credit": "Małolat K2 / YouTube",
+          "href": "https://www.youtube.com/watch?v=JA4_oJbxwHc",
+          "alt": "Miniatura teledysku „Ulicy krzyk” Małolata K2, Popka i DemonArcziego",
+          "caption": "Miniatura omawianego teledysku „Ulicy krzyk”, którym Małolat K2 i Popek kończą wieloletni konflikt."
+        }
       },
       {
         "region": "pl",
@@ -226,9 +244,19 @@ window.HYPERS_EDITIONS = {
           {
             "name": "Pomponik",
             "url": "https://www.pomponik.pl/plotki/news-dominik-rupinski-ciagle-jest-porownywany-do-bagiego-wie-co-z,nId,23556692"
+          },
+          {
+            "name": "Instagram @tanieczgwiazdami",
+            "url": "https://www.instagram.com/reel/DeXaUZRAfov/",
+            "origin": true
           }
         ],
-        "slot": "7:00"
+        "slot": "7:00",
+        "embed": "https://www.instagram.com/reel/DeXaUZRAfov/",
+        "caption": {
+          "credit": "Taniec z Gwiazdami / Instagram",
+          "text": "Oficjalna rolka programu „Taniec z Gwiazdami” z występu Dominika Rupińskiego. To ten taniec jury oceniło na 39 punktów."
+        }
       },
       {
         "region": "pl",
