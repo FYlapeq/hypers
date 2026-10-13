@@ -1,5 +1,43 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-13": {
+    "date": "2026-10-13",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "Książulo po premierze mrożonej pizzy „Muala”: kanał traci subskrybentów, twórca odpowiada",
+        "summary": "Mrożona pizza „Muala” z Żabki za 24,99 zł wywołała w sieci spór o wiarygodność Książula. Według serwisu Styl.fm kanał stracił po premierze ok. 20 tys. subskrybentów, a twórca przyznał, że odpływ jest faktem.",
+        "body": [
+          "Szymon Nyczke, czyli Książulo, wprowadził do ogólnopolskiej sprzedaży w sieci Żabka mrożoną pizzę „Muala”. Produkt kosztuje 24,99 zł i występuje w dwóch wariantach: Fat Peppa z pepperoni oraz Fat Cheese z serem i jalapeño. Według Styl.fm pizza ma 25 cm średnicy i waży 546 g.",
+          "Najwięcej krytyki wywołało użycie nazwy „Muala”, która wcześniej oznaczała wyróżnienie dla lokali polecanych przez twórcę. Ekspertka z Digitree Group, cytowana przez Superbiz.se.pl, zarzuciła mu niespójność: jego marka opierała się na niezależnych recenzjach jedzenia, a teraz wchodzi w segment masowej żywności.",
+          "Z analizy Res Futura, o której pisze serwis Wiadomości Handlowe, wynika, że wśród komentarzy oceniających smak 47 proc. było pozytywnych, a 45 proc. negatywnych. Krytyka samego twórcy nadal przeważa, choć zarzuty o hipokryzję słabną. Aż 53 proc. interakcji wokół produktu przypadało na TikToka.",
+          "Styl.fm podaje, że po ogłoszeniu premiery kanał stracił ok. 20 tys. subskrybentów i spadł do 2,42 mln (dane z artykułu z 13 października; nie weryfikowaliśmy ich samodzielnie). Według tego samego źródła cały nakład się wyprzedał, a Książulo przyznał, że spadek jest faktem, i zapowiedział odbudowę zaufania. Tę wypowiedź podajemy za Styl.fm, bo nie mieliśmy dostępu do oryginalnego materiału twórcy."
+        ],
+        "sources": [
+          {
+            "name": "Styl.fm",
+            "url": "https://styl.fm/newsy/940761.ksiazulo-stracil-tysiace-widzow-po-premierze-mrozonki-a-teraz-sam-przerywa-milczenie-wideo"
+          },
+          {
+            "name": "Wiadomości Handlowe",
+            "url": "https://www.wiadomoscihandlowe.pl/najwieksze-sieci-handlowe/zabka/pizza-ksiazula-w-zabce-dzieli-internautow-47-chwali-smak-2538552"
+          },
+          {
+            "name": "Superbiz.se.pl",
+            "url": "https://superbiz.se.pl/wiadomosci/pizza-ksiazula-z-zabki-wystartowala-moze-sie-na-niej-bardzo-wzbogacic-albo-poslizgnac-aa-yZRs-QgnG-fSEV.html"
+          }
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "czapy": []
+  },
   "2026-10-12": {
     "date": "2026-10-12",
     "ryby": [],

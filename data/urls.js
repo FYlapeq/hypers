@@ -1,5 +1,10 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-13": {
+  "luz": [
+   "artykuly/2026-10-13/ksiazulo-po-premierze-mrozonej-pizzy-muala-kanal-traci-subskrybentow.html"
+  ]
+ },
  "2026-10-12": {
   "luz": [
    "artykuly/2026-10-12/ksiazulo-wraca-z-recenzja-po-aferze-z-pizza-prawie-milion-wyswietlen.html",
