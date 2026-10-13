@@ -6,6 +6,34 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-10-13",
+        "who": "Wojan",
+        "initials": "WJ",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "Wojan ma w Żabce halloweenowe Wojanki. Ogłosił je pod nowym odcinkiem z Minecrafta",
+        "summary": "Pod wtorkowym filmem na kanale Wojan Games twórca informuje, że w Żabce są już nowe, halloweenowe Wojanki, a obok nich musy Wojanek. Film jest oznaczony jako reklama.",
+        "body": [
+          "We wtorek w południe na kanale Wojan Games pojawił się film „Tsunami STRASZNEGO WOJANKA vs TAJNY BUNKIER w Minecraft!”. To typowy dla kanału odcinek z Minecrafta, ale najważniejsza informacja jest w opisie.",
+          "Wojan pisze tam, że w sieci Żabka są już dostępne nowe, halloweenowe Wojanki, a także musy Wojanek. Opis odsyła do strony marki z listą sklepów, w których można je kupić. Film jest oznaczony hasztagiem #reklama.",
+          "Do wtorku, 15:16, nagranie miało ok. 24 tys. wyświetleń i ok. 950 polubień. W komentarzach widzowie dopytują o kolejne smaki, a część z nich prosi twórcę o serduszko pod swoim wpisem."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Wojan Games: „Tsunami STRASZNEGO WOJANKA vs TAJNY BUNKIER w Minecraft!”",
+            "url": "https://www.youtube.com/watch?v=YSTDGNXL8ag",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=YSTDGNXL8ag",
+        "caption": {
+          "credit": "Wojan Games / YouTube",
+          "text": "Omawiany film z kanału Wojan Games. W jego opisie twórca ogłasza halloweenowe Wojanki w Żabce i oznacza materiał jako reklamę."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-10-12",
         "who": "Kizo",
         "initials": "KI",
@@ -245,6 +273,43 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "czapy": [
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Jacob",
+        "initials": "JC",
+        "category": "Gry",
+        "hype": 2,
+        "title": "Jacob wystawił 4 youtuberów przeciw 2 najlepszym polskim graczom Fortnite",
+        "summary": "W nowym filmie Jacob sprawdza, czy czterech youtuberów pokona dwóch najlepszych graczy Fortnite w Polsce. Odcinek w dwie godziny zebrał ponad 300 komentarzy.",
+        "body": [
+          "We wtorek po południu Jacob opublikował film „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”. Według opisu to test, w którym czterech twórców mierzy się z dwoma najlepszymi polskimi zawodnikami Fortnite, zarówno w Battle Royale, jak i w trybie Fortnite OG.",
+          "Nagranie trwa ok. 23 minut. Do 15:16, czyli po niecałych trzech godzinach od premiery, miało ok. 9,5 tys. wyświetleń, ponad 1,1 tys. polubień i ponad 300 komentarzy.",
+          "W najwyżej ocenianych komentarzach widzowie chwalą odcinek. Jeden z nich zauważa, że rekwizyt z gry pokazany w filmie przygotowano według przepisu, który wcześniej pokazywał inny twórca."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Jacob: „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”",
+            "url": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Gmt4cejZmbs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Gmt4cejZmbs/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+          "alt": "Miniatura filmu Jacoba „4 YouTuberów vs 2 najlepszych graczy w Polsce”",
+          "caption": "Miniatura omawianego filmu, w którym Jacob sprawdza, czy youtuberzy pokonają dwóch najlepszych polskich graczy Fortnite."
+        },
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Omawiany film z kanału Jacoba. Według opisu youtuberzy grają z zawodowcami w Battle Royale i Fortnite OG."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-10-12",

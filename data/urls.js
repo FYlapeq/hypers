@@ -2,6 +2,7 @@
 window.HYPERS_URLS = {
  "2026-10-13": {
   "luz": [
+   "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",
    "artykuly/2026-10-13/kizo-odpowiada-peji-po-odmowie-wspolnego-numeru-troche-mi-sie-zrobilo.html",
    "artykuly/2026-10-13/popek-i-malolat-k2-koncza-dziesiecioletni-konflikt-wspolnym-numerem.html",
    "artykuly/2026-10-13/ksiazulo-po-premierze-mrozonej-pizzy-muala-kanal-traci-subskrybentow.html",
@@ -10,6 +11,7 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-13/bagi-zagral-na-narodowym-z-boysbandem-i-zapowiedzial-numer-z-blanka.html"
   ],
   "czapy": [
+   "artykuly/2026-10-13/jacob-wystawil-4-youtuberow-przeciw-2-najlepszym-polskim-graczom.html",
    "artykuly/2026-10-13/gothamchess-kazal-zagrac-w-szachy-dwom-modelom-ai-film-ma-ponad-600.html",
    "artykuly/2026-10-13/ksi-placi-1000-dolarow-za-rozsmieszenie-go-tym-razem-w-wersji.html",
    "artykuly/2026-10-13/gta-5-na-pieciu-generacjach-konsol-moreletv-i-zmaslo-sprawdzaja-jak.html",
