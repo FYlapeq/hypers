@@ -17,9 +17,14 @@ window.HYPERS_EDITIONS = {
           "Szymon Nyczke, czyli Książulo, wprowadził do ogólnopolskiej sprzedaży w sieci Żabka mrożoną pizzę „Muala”. Produkt kosztuje 24,99 zł i występuje w dwóch wariantach: Fat Peppa z pepperoni oraz Fat Cheese z serem i jalapeño. Według Styl.fm pizza ma 25 cm średnicy i waży 546 g.",
           "Najwięcej krytyki wywołało użycie nazwy „Muala”, która wcześniej oznaczała wyróżnienie dla lokali polecanych przez twórcę. Ekspertka z Digitree Group, cytowana przez Superbiz.se.pl, zarzuciła mu niespójność: jego marka opierała się na niezależnych recenzjach jedzenia, a teraz wchodzi w segment masowej żywności.",
           "Z analizy Res Futura, o której pisze serwis Wiadomości Handlowe, wynika, że wśród komentarzy oceniających smak 47 proc. było pozytywnych, a 45 proc. negatywnych. Krytyka samego twórcy nadal przeważa, choć zarzuty o hipokryzję słabną. Aż 53 proc. interakcji wokół produktu przypadało na TikToka.",
-          "Styl.fm podaje, że po ogłoszeniu premiery kanał stracił ok. 20 tys. subskrybentów i spadł do 2,42 mln (dane z artykułu z 13 października; nie weryfikowaliśmy ich samodzielnie). Według tego samego źródła cały nakład się wyprzedał, a Książulo przyznał, że spadek jest faktem, i zapowiedział odbudowę zaufania. Tę wypowiedź podajemy za Styl.fm, bo nie mieliśmy dostępu do oryginalnego materiału twórcy."
+          "Twórca odniósł się do sprawy w filmie opublikowanym 11 października („było przepyszne, ale czy PRZYJMĄ MUALA?”), w którym testował lokale ze smash burgerami, m.in. warszawski Messy Jesse. Jak opisuje Jastrząb Post, Książulo podziękował widzom za wykupienie całego pierwszego nakładu, uprzedził, że przez kilka dni pizzy może brakować w Żabkach, i przyznał, że stracił ponad 19 tys. subskrybentów. Styl.fm podaje, że licznik kanału spadł do ok. 2,42 mln."
         ],
         "sources": [
+          {
+            "name": "YouTube Książulo: „było przepyszne, ale czy PRZYJMĄ MUALA?”",
+            "url": "https://www.youtube.com/watch?v=scPdQ0nXq9g",
+            "origin": true
+          },
           {
             "name": "Styl.fm",
             "url": "https://styl.fm/newsy/940761.ksiazulo-stracil-tysiace-widzow-po-premierze-mrozonki-a-teraz-sam-przerywa-milczenie-wideo"
@@ -31,9 +36,27 @@ window.HYPERS_EDITIONS = {
           {
             "name": "Superbiz.se.pl",
             "url": "https://superbiz.se.pl/wiadomosci/pizza-ksiazula-z-zabki-wystartowala-moze-sie-na-niej-bardzo-wzbogacic-albo-poslizgnac-aa-yZRs-QgnG-fSEV.html"
+          },
+          {
+            "name": "Jastrząb Post",
+            "url": "https://jastrzabpost.pl/ksiazulo-wyprzedal-caly-naklad-pizzy-ale-traci-widzow-zabral-glos-nie-ma-co-zamiatac-sprawy-pod-dywan,7338959563377120a"
           }
         ],
-        "slot": "7:00"
+        "slot": "7:00",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/scPdQ0nXq9g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/scPdQ0nXq9g/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=scPdQ0nXq9g",
+          "alt": "Miniatura filmu Książula „było przepyszne, ale czy PRZYJMĄ MUALA?”",
+          "caption": "Miniatura filmu z 11 października, w którym Książulo skomentował odpływ subskrybentów po premierze pizzy."
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "To pierwszy film Książula po premierze pizzy w Żabce. Oprócz recenzji lokali twórca dziękuje w nim za wyprzedany nakład i przyznaje, że kanał stracił ponad 19 tys. subskrybentów."
+        },
+        "embed": "https://www.youtube.com/watch?v=scPdQ0nXq9g"
       },
       {
         "region": "pl",
@@ -69,6 +92,78 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Young Multi / YouTube",
           "text": "Omawiany odcinek z kanału YOUNG MULTI LIVE. W opisie twórca wymienia gości: Łukaszka, MuzykęTV i QTJaninę."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-12",
+        "who": "Dominik Rupiński",
+        "initials": "DR",
+        "category": "Rozrywka",
+        "hype": 3,
+        "title": "Dominik Rupiński z 39 punktami za salsę w „Tańcu z Gwiazdami”",
+        "summary": "W niedzielnym odcinku „Tańca z Gwiazdami” w stylu latino influencer zatańczył z Estelle François salsę i dostał 39 na 40 punktów. Do kompletu zabrakło jednej noty od Iwony Pavlović.",
+        "body": [
+          "W 6. odcinku 19. edycji „Tańca z Gwiazdami”, wyemitowanym 11 października, Dominik Rupiński i Estelle François zatańczyli salsę do utworu „NUEVAYoL” Bad Bunny'ego. Polsat opisuje Rupińskiego jako influencera, który dostał w tym tańcu zadanie zagrania zadziornej postaci.",
+          "Julia Wieniawa, Rafał Maserak i Tomasz Wygoda dali po 10 punktów, a Iwona Pavlović 9, co dało parze 39 punktów. Maserak chwalił poczucie rytmu, energię i prowadzenie partnerki, a Wieniawa podsumowała występ słowami o „macho z klasą”.",
+          "Komplet 40 punktów zdobyły w tym odcinku dwie pary: Krzysztof Kwiatkowski z Sarą Janicką oraz Izabela Kuna z Michałem Bartkiewiczem. Z programem pożegnali się Joanna Jędrzejczyk i Kamil Kuroczko.",
+          "Według Viva.pl część widzów uznała salsę Rupińskiego za najlepszy występ wieczoru i pisała, że należało się 40 punktów. W rozmowie z Pomponikiem Rupiński mówił, że niższe noty traktuje jako motywację i szanuje decyzje jury."
+        ],
+        "sources": [
+          {
+            "name": "Polsat.pl",
+            "url": "https://www.polsat.pl/news/2026-10-11/taniec-z-gwiazdami-19-edycja-odcinek-6/"
+          },
+          {
+            "name": "Viva.pl",
+            "url": "https://viva.pl/ludzie/newsy/dominik-rupinski-zatanczyl-jak-zawodowiec-a-tu-taki-numer-widzowie-tzg-rozczarowani-ocena-jury-powinno-byc-40/"
+          },
+          {
+            "name": "Pomponik",
+            "url": "https://www.pomponik.pl/plotki/news-dominik-rupinski-ciagle-jest-porownywany-do-bagiego-wie-co-z,nId,23556692"
+          }
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-11",
+        "who": "Bagi",
+        "initials": "BG",
+        "category": "Zapowiedź",
+        "hype": 3,
+        "title": "Bagi zagrał na Narodowym z boysbandem i zapowiedział numer z Blanką na 22 października",
+        "summary": "Na jubileuszowym Roztańczonym PGE Narodowym Bagi wystąpił z nowym boysbandem. Zaraz po koncercie ogłosił, że 22 października, w dniu swoich 25. urodzin, wyda utwór z Blanką.",
+        "body": [
+          "W sobotę 10 października na PGE Narodowym w Warszawie odbyła się 10., jubileuszowa edycja Roztańczonego Narodowego. Mikołaj „Bagi” Bagiński wystąpił tam z nowym boysbandem, w którego skład według Świata Gwiazd i disco-polo.info wchodzą Feszczi, Szymek, Rudy i Jaś.",
+          "Grupa zaśpiewała „I Am From Poland”. Według Muzotaktu to jej pierwszy singiel, wydany 21 sierpnia 2026 roku.",
+          "Po zejściu ze sceny Bagi opublikował na Instagramie nagranie z występu. W podpisie zwrócił się do rodziców, że zagrał na Narodowym, i zapowiedział, że 22 października, w dniu swoich 25. urodzin, wyjdzie jego nowy utwór z Blanką.",
+          "Tytułu piosenki ani jej twórców na razie nie podano."
+        ],
+        "sources": [
+          {
+            "name": "Instagram @bginsky",
+            "url": "https://www.instagram.com/reel/DeUjGf2OOuC/",
+            "origin": true
+          },
+          {
+            "name": "Świat Gwiazd",
+            "url": "https://swiatgwiazd.pl/bagi-przekazal-szczesliwa-nowine-tuz-po-koncercie-roztanczony-narodowy-podal-date-ap-wkw-111026"
+          },
+          {
+            "name": "disco-polo.info",
+            "url": "https://disco-polo.info/bagi-zagral-na-pge-narodowym-i-od-razu-oglosil-duet-z-blanka"
+          },
+          {
+            "name": "Muzotakt",
+            "url": "https://muzotakt.pl/154988/bagi-zaspiewal-narodowym-oglosil-nowine-blanka/"
+          }
+        ],
+        "embed": "https://www.instagram.com/reel/DeUjGf2OOuC/",
+        "caption": {
+          "credit": "Bagi / Instagram",
+          "text": "Post Bagiego z występu na PGE Narodowym. To w jego podpisie twórca podał datę premiery utworu z Blanką: 22 października, dzień swoich 25. urodzin."
         },
         "slot": "7:00"
       }
@@ -183,6 +278,41 @@ window.HYPERS_EDITIONS = {
           "credit": "moreleTV / YouTube",
           "text": "Omawiany film z kanału moreleTV. Według opisu odcinek porównuje GTA 5 na pięciu generacjach konsol."
         },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Spotkanie z fanami",
+        "hype": 3,
+        "title": "MrBeast pierwszy raz w Azji Środkowej. Tłumy fanów w Taszkencie i Samarkandzie",
+        "summary": "MrBeast odwiedził Uzbekistan na zaproszenie tamtejszego Funduszu Rozwoju Kultury i Sztuki. Na spotkanie w Taszkencie zgłosiło się ponad 232 tys. chętnych, a ekipa kręciła potem materiał w kolejnych miastach.",
+        "body": [
+          "Jimmy Donaldson, czyli MrBeast, przyjechał do Uzbekistanu w pierwszą podróż do Azji Środkowej. 9 października spotkał się z fanami w Taszkencie przy Centrum Sztuki Współczesnej, a 10 października odwiedził Samarkandę. Wizytę zorganizował uzbecki Fundusz Rozwoju Kultury i Sztuki razem z komitetem turystyki.",
+          "Według Gazeta.uz na samo wydarzenie zaproszono 200 osób, wylosowanych spośród 232 tys. zgłoszeń. Przed budynkiem czekały tysiące fanów, ulicę zamknięto, a pobliskie uczelnie odwołały zajęcia. AnewZ podaje, że trzej uczestnicy, którzy wykonali wyzwania, dostali po 100 mln sumów.",
+          "Podczas wizyty MrBeast odsłonił mural z sobą i uczestnikami programu „Beast Games”. W relacjach na Instagramie napisał, że nie zdawał sobie sprawy, jak wiele osób w Uzbekistanie ogląda jego filmy.",
+          "Według Gazeta.uz ekipa kontynuowała zdjęcia w Bucharze i Chorezmie. Zamin.uz pisze, że materiał z podróży ma trafić do filmu na głównym kanale."
+        ],
+        "sources": [
+          {
+            "name": "Gazeta.uz",
+            "url": "https://gazeta.uz/ru/2026/10/13/mrbeast-in-uzbekistan"
+          },
+          {
+            "name": "AnewZ",
+            "url": "https://anewz.tv/region/central-asia/25364/mrbeast-visits-tashkent-for-first-central-asia-trip/news"
+          },
+          {
+            "name": "Zamin.uz",
+            "url": "https://zamin.uz/en/uzbekistan/224081-worlds-no-1-youtuber-mrbeast-awed-by-uzbekistans-love-and-affection-video.html"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/10/12/world/video/massive-crowds-gather-in-uzbekistan-to-see-mrbeast-vrtc"
+          }
+        ],
         "slot": "7:00"
       }
     ]
