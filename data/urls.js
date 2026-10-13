@@ -1,5 +1,16 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-13": {
+  "luz": [
+   "artykuly/2026-10-13/ksiazulo-po-premierze-mrozonej-pizzy-muala-kanal-traci-subskrybentow.html",
+   "artykuly/2026-10-13/young-multi-znowu-nasladuje-polskie-memy-druga-czesc-mimic-party.html"
+  ],
+  "czapy": [
+   "artykuly/2026-10-13/gothamchess-kazal-zagrac-w-szachy-dwom-modelom-ai-film-ma-ponad-600.html",
+   "artykuly/2026-10-13/ksi-placi-1000-dolarow-za-rozsmieszenie-go-tym-razem-w-wersji.html",
+   "artykuly/2026-10-13/gta-5-na-pieciu-generacjach-konsol-moreletv-i-zmaslo-sprawdzaja-jak.html"
+  ]
+ },
  "2026-10-12": {
   "luz": [
    "artykuly/2026-10-12/ksiazulo-wraca-z-recenzja-po-aferze-z-pizza-prawie-milion-wyswietlen.html",
