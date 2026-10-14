@@ -1,5 +1,18 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-14": {
+  "luz": [
+   "artykuly/2026-10-14/valor-mortis-od-tworcow-ghostrunnera-juz-w-sprzedazy-tivolt-i-tamae.html",
+   "artykuly/2026-10-14/kaluch-jedzie-przez-cala-mape-gta-v-ale-nikt-nie-moze-sie-zasmiac.html",
+   "artykuly/2026-10-14/skrimi-wraca-do-the-long-drive-tym-razem-przy-minus-50-stopniach.html",
+   "artykuly/2026-10-14/rafciusa-sklada-w-fc27-druzyne-z-samych-reprezentantow-polski-u21.html"
+  ],
+  "czapy": [
+   "artykuly/2026-10-14/blowek-ostrzega-przed-winogronami-w-mikrofalowce.html",
+   "artykuly/2026-10-14/nowa-castlevania-u-theradbrada-ponad-300-tys-wyswietlen-w-dobe.html",
+   "artykuly/2026-10-14/kreekcraft-o-nowej-opcji-w-robloksie-tworcy-gier-moga-zamknac-funkcje.html"
+  ]
+ },
  "2026-10-13": {
   "luz": [
    "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",

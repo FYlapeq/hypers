@@ -1,5 +1,288 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-14": {
+    "date": "2026-10-14",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Tivolt i Tamae",
+        "initials": "VM",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "Valor Mortis od twórców Ghostrunnera już w sprzedaży. Tivolt i Tamae zaczęli granie",
+        "summary": "13 października zadebiutowała Valor Mortis, soulslike krakowskiego studia One More Level. Pierwsze odcinki wrzucili już Tamae i Tivolt, a grę omawia też LootBox.",
+        "body": [
+          "Valor Mortis, nowa gra krakowskiego One More Level (studia odpowiedzialnego za Ghostrunnera), trafiła do sprzedaży 13 października na PC, PlayStation 5 i Xbox Series X|S. Podstawowa edycja kosztuje 149,99 zł, a Deluxe 199,99 zł; ta druga obejmuje fabularny dodatek zapowiedziany na przyszły rok.",
+          "To pierwszoosobowa gra akcji z mechaniką soulslike. Gracz wciela się w Williama, żołnierza armii Napoleona, który powstaje z grobu w alternatywnym XIX wieku, w świecie zniszczonym przez nadprzyrodzoną zarazę.",
+          "Polscy twórcy szybko wzięli grę na warsztat. Tamae opublikował w środę rano film „Valor Mortis Mnie ZASKOCZYŁ..”, a kilka godzin później Tivolt wrzucił pierwszy odcinek serii „Ku chwale NAPOLEONA!”. Grę omówił też kanał LootBox w środowym przeglądzie newsów.",
+          "Pod filmem Tivolta widzowie cieszą się z powrotu soulslike'a na kanał po raz pierwszy od czasów Elden Ringa i porównują walkę do Sekiro oraz Dishonored. Część zwraca uwagę na epokę napoleońską jako rzadko wykorzystywane tło dla gier."
+        ],
+        "sources": [
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=siQcSwJmAcE",
+            "origin": true
+          },
+          {
+            "name": "Tamae / YouTube",
+            "url": "https://www.youtube.com/watch?v=25jy3e-uukA",
+            "origin": true
+          },
+          {
+            "name": "PPE.pl",
+            "url": "https://www.ppe.pl/news/429518/valor-mortis-ze-zwiastunem-premierowym-polacy-pokazuja-najmocniejsze-nowosci.html"
+          },
+          {
+            "name": "GRY-OnLine",
+            "url": "https://www.gry-online.pl/newsroom/mroczny-soulslike-z-polski-pozytywnie-zaskakuje-cena-tworcy-valor/"
+          }
+        ],
+        "caption": {
+          "credit": "Tivolt / YouTube",
+          "text": "Kadr z pierwszego odcinka serii Tivolta z Valor Mortis. Film pokazuje początek gry dzień po premierze i jest jednym z pierwszych polskich gameplayów tego tytułu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/siQcSwJmAcE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/siQcSwJmAcE/hqdefault.jpg",
+          "credit": "Tivolt / YouTube",
+          "href": "https://www.youtube.com/watch?v=siQcSwJmAcE",
+          "alt": "Miniatura filmu Tivolta „Ku chwale NAPOLEONA! | Valor Mortis PL [#1]”",
+          "caption": "Tivolt zaczyna serię z Valor Mortis"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Kaluch jedzie przez całą mapę GTA V, ale nikt nie może się zaśmiać",
+        "summary": "Kaluch wrócił do formatu przejazdu przez całą mapę GTA V, tym razem z zakazem śmiechu. W odcinku grają z nim Dzikk, Kaciejos i Olimpek.",
+        "body": [
+          "Na kanale Kalucha we wtorek o 18:00 ukazał się film „GTA V – PRZEZ CAŁĄ MAPĘ, ale NIE MOGĘ SIĘ ZAŚMIAĆ!”. To ponad 40 minut przejazdu przez mapę gry z dodatkową zasadą: śmiech jest zakazany.",
+          "W opisie Kaluch oznacza współuczestników: Dzikka, Kaciejosa i Olimpka. Prosi też o łapki w górę, jeśli widzowie chcą kolejnych odcinków tej serii.",
+          "Do środy do godz. 17:00 film miał ok. 139 tys. wyświetleń i ponad 6,5 tys. polubień. W komentarzach widzowie piszą, że brakowało im wspólnych nagrań z Dzikkiem i Kaciejosem, i proponują kolejne warianty, np. przejazd samolotem."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=vNm_e6NLiNU",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura omawianego odcinka. To nowa część serii z przejazdem przez mapę GTA V, w której Kaluch i goście muszą powstrzymać się od śmiechu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vNm_e6NLiNU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vNm_e6NLiNU/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=vNm_e6NLiNU",
+          "alt": "Miniatura filmu Kalucha „GTA V – przez całą mapę, ale nie mogę się zaśmiać”",
+          "caption": "Kaluch i goście w GTA V"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Skrimi",
+        "initials": "SK",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Skrimi wraca do The Long Drive, tym razem przy minus 50 stopniach",
+        "summary": "Skrimi odświeżył jedną ze swoich znanych serii: w nowym filmie jedzie przez The Long Drive w zimowej wersji. Przy okazji prosi widzów o pomoc w dobiciu do miliona subskrypcji.",
+        "body": [
+          "We wtorek o 19:00 Skrimi opublikował film „THE LONG DRIVE ALE JEST -50 C°”. To powrót do gry o samotnej podróży samochodem przez pustynię, tym razem w mroźnym wariancie.",
+          "W pierwszej linijce opisu twórca prosi widzów o pomoc w osiągnięciu 1 000 000 subskrypcji kanału.",
+          "Do środy do godz. 17:00 film miał ok. 79 tys. wyświetleń. Komentujący nazywają serię legendarną, część pisze, że wróciła na kanał po kilku latach przerwy, i żartuje z wożenia beczek na bagażniku."
+        ],
+        "sources": [
+          {
+            "name": "Skrimi / YouTube",
+            "url": "https://www.youtube.com/watch?v=aXIM-x5FEPk",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Skrimi / YouTube",
+          "text": "Miniatura nowego odcinka z The Long Drive. Widać na niej zimową wersję gry, do której nawiązuje tytuł filmu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/aXIM-x5FEPk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/aXIM-x5FEPk/hqdefault.jpg",
+          "credit": "Skrimi / YouTube",
+          "href": "https://www.youtube.com/watch?v=aXIM-x5FEPk",
+          "alt": "Miniatura filmu Skrimiego „The Long Drive ale jest -50 C°”",
+          "caption": "Skrimi w zimowym The Long Drive"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "RafciuSA",
+        "initials": "RS",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "RafciuSA składa w FC27 drużynę z samych reprezentantów Polski U21",
+        "summary": "Po awansie młodzieżówki na Euro 2027 RafciuSA sprawdził w FC27, jak poradziłaby sobie drużyna złożona wyłącznie z polskich zawodników do lat 21, m.in. w Lidze Mistrzów.",
+        "body": [
+          "Reprezentacja Polski U21 zapewniła sobie we wtorek bezpośredni awans na mistrzostwa Europy 2027 w Serbii i Albanii. Mimo porażki z Włochami w Pescarze Biało-Czerwoni awansowali jako najlepsza drużyna z drugich miejsc w grupach.",
+          "Tego samego dnia RafciuSA opublikował film „STWORZYŁEM SKŁAD POLSKI U21 w FC27!”. W opisie zapowiada sprawdzenie, jak klub złożony tylko z młodych reprezentantów poradzi sobie w rozgrywkach, w tym w Lidze Mistrzów.",
+          "Do środy do godz. 17:00 film miał ok. 44 tys. wyświetleń. Widzowie w komentarzach podsuwają pomysły na kolejne kariery, w tym żartobliwy „reset kariery Maryli Rodowicz”."
+        ],
+        "sources": [
+          {
+            "name": "RafciuSA / YouTube",
+            "url": "https://www.youtube.com/watch?v=Lyf-yJHuT7M",
+            "origin": true
+          },
+          {
+            "name": "Flashscore",
+            "url": "https://www.flashscore.pl/wiadomosci/kadra-u21-jedzie-na-euro-grekom-brak-o-jednej-bramki-by-stracic-nas-do-barazy/4nvAjWdk/"
+          }
+        ],
+        "caption": {
+          "credit": "RafciuSA / YouTube",
+          "text": "Miniatura filmu, w którym RafciuSA tworzy w FC27 skład z polskich zawodników do lat 21. Film ukazał się w dniu awansu młodzieżówki na Euro 2027."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Lyf-yJHuT7M/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Lyf-yJHuT7M/hqdefault.jpg",
+          "credit": "RafciuSA / YouTube",
+          "href": "https://www.youtube.com/watch?v=Lyf-yJHuT7M",
+          "alt": "Miniatura filmu RafciuSA „Stworzyłem skład Polski U21 w FC27”",
+          "caption": "Polska U21 w FC27 u RafciuSA"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "czapy": [
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Ciekawostki",
+        "hype": 2,
+        "title": "Blowek ostrzega przed winogronami w mikrofalówce",
+        "summary": "W 31-sekundowym shorcie Blowek pokazuje, dlaczego winogron nie wkłada się do mikrofalówki. Widzowie w komentarzach dorzucają fizyczne wyjaśnienie zjawiska.",
+        "body": [
+          "Blowek opublikował we wtorek krótki film „NIGDY nie wkładaj WINOGRON do MIKROFALI!”. To 31-sekundowy short bez opisu.",
+          "Do środy do godz. 17:00 nagranie miało ok. 41 tys. wyświetleń. Najwyżej oceniany komentarz tłumaczy, że winogrono iskrzy, bo jego rozmiar jest zbliżony do długości fali mikrofal.",
+          "To kolejny krótki eksperyment na kanale Blowka po niedawnych testach lifehacków wymyślonych przez AI."
+        ],
+        "sources": [
+          {
+            "name": "Blowek / YouTube",
+            "url": "https://www.youtube.com/shorts/qYkDr9eRgEQ",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Kadr z shorta Blowka o winogronach w mikrofalówce. Cały film to krótki eksperyment, o którym jest ten news."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qYkDr9eRgEQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qYkDr9eRgEQ/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/shorts/qYkDr9eRgEQ",
+          "alt": "Kadr z shorta Blowka o winogronach w mikrofalówce",
+          "caption": "Blowek i winogrona w mikrofali"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "theRadBrad",
+        "initials": "RB",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Nowa Castlevania u theRadBrada: ponad 300 tys. wyświetleń w dobę",
+        "summary": "theRadBrad zaczął przechodzenie Castlevania: Belmont's Curse. Pierwszy, ponad dwuipółgodzinny odcinek w dobę zebrał ponad 300 tys. wyświetleń.",
+        "body": [
+          "theRadBrad, kanał znany z pełnych przejść gier, opublikował we wtorek pierwszą część gameplayu Castlevania: Belmont's Curse. Film trwa ponad dwie i pół godziny.",
+          "W opisie twórca dziękuje Konami za udostępnienie wersji Midnight Edition. Grę nagrywał na PlayStation 5 Pro i PC; w opisie wymienia też postacie, m.in. Rose Belmont, Trevora Belmonta, Syphę i Draculę.",
+          "Do środy do godz. 17:00 film miał ok. 303 tys. wyświetleń. W komentarzu pod filmem theRadBrad pisze, że granie w nową Castlevanię jest dla niego „surrealistyczne”, a w kolejnym, że druga część jest już nagrana i trafi na kanał wkrótce."
+        ],
+        "sources": [
+          {
+            "name": "theRadBrad / YouTube",
+            "url": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "theRadBrad / YouTube",
+          "text": "Miniatura pierwszego odcinka przejścia Castlevania: Belmont's Curse. Ten film jest punktem wyjścia newsa."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ow8qfTq8ALs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ow8qfTq8ALs/hqdefault.jpg",
+          "credit": "theRadBrad / YouTube",
+          "href": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
+          "alt": "Miniatura filmu theRadBrada z gameplayem Castlevania: Belmont's Curse",
+          "caption": "theRadBrad w Castlevania: Belmont's Curse"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "KreekCraft",
+        "initials": "KC",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "KreekCraft o nowej opcji w Robloksie: twórcy gier mogą zamknąć funkcje za weryfikacją wieku",
+        "summary": "Według KreekCrafta gry na Robloksie mogą teraz blokować część funkcji i treści za weryfikacją wieku. Jego krótki film zebrał w dobę blisko 650 tys. wyświetleń.",
+        "body": [
+          "KreekCraft, youtuber komentujący wydarzenia z Robloksa, opublikował we wtorek 19-sekundowy short „welp.. this isn't good”. W opisie pisze, że gry na platformie mogą teraz zamykać funkcje i treści za weryfikacją wieku.",
+          "Tego samego dnia wrzucił dłuższy film „Uhh Roblox..”, w którym według opisu omawia m.in. zaostrzenie weryfikacji wieku i nową możliwość usuwania grup.",
+          "Do środy do godz. 17:00 short miał ok. 648 tys. wyświetleń i ponad 1,6 tys. komentarzy. Widzowie w większości krytykują zmianę; część zauważa, że to opcja dla twórców gier, a nie obowiązek, inni obawiają się, że zachęci młodszych graczy do podawania fałszywego wieku."
+        ],
+        "sources": [
+          {
+            "name": "KreekCraft / YouTube",
+            "url": "https://www.youtube.com/shorts/RL5d9j_P2VA",
+            "origin": true
+          },
+          {
+            "name": "KreekCraft / YouTube",
+            "url": "https://www.youtube.com/watch?v=CjZC2lQtAqw",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "KreekCraft / YouTube",
+          "text": "Kadr z shorta, w którym KreekCraft komentuje nową opcję weryfikacji wieku w grach na Robloksie. To o tej zmianie i reakcjach widzów jest news."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RL5d9j_P2VA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RL5d9j_P2VA/hqdefault.jpg",
+          "credit": "KreekCraft / YouTube",
+          "href": "https://www.youtube.com/shorts/RL5d9j_P2VA",
+          "alt": "Kadr z shorta KreekCrafta o weryfikacji wieku w Robloksie",
+          "caption": "KreekCraft o zmianach w Robloksie"
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-13": {
     "date": "2026-10-13",
     "ryby": [],
