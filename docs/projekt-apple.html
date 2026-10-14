@@ -1,0 +1,293 @@
+<title>Hypers w stylu Apple</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Work+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap">
+<style>
+/* Układ: niebieski masthead marki, pod nim szklany pasek sekcji przyklejony do góry; newsy przewijają się pod szkłem, news otwiera się jako arkusz od dołu. */
+:root{
+  --paper:#ffffff; --ink:#0b1620; --muted:#4f6474; --blue:#276787; --on-blue:#ffffff;
+  --peach:#ffc9b0; --on-peach:#0b1620; --soft:#eef4f8; --line:rgba(11,22,32,.12);
+  --glass:rgba(255,255,255,.62); --glass-edge:rgba(255,255,255,.55); --scrim:rgba(11,22,32,.38);
+  --sheet:#ffffff; --shadow:0 1px 2px rgba(11,22,32,.06),0 8px 24px rgba(11,22,32,.08);
+  --shadow-lg:0 -2px 10px rgba(11,22,32,.08),0 -24px 60px rgba(11,22,32,.18);
+  --display:"Anton","Impact","Arial Narrow Bold",sans-serif;
+  --body:"Work Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:18px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --blue:#2f7aa0; --soft:#13283a; --line:rgba(241,246,249,.12);
+  --glass:rgba(11,22,32,.58); --glass-edge:rgba(255,255,255,.10); --scrim:rgba(0,0,0,.55);
+  --sheet:#11222f; --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+  --shadow-lg:0 -24px 60px rgba(0,0,0,.5); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0b1620; --ink:#f1f6f9; --muted:#9fb3c1; --blue:#2f7aa0; --soft:#13283a; --line:rgba(241,246,249,.12);
+  --glass:rgba(11,22,32,.58); --glass-edge:rgba(255,255,255,.10); --scrim:rgba(0,0,0,.55);
+  --sheet:#11222f; --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+  --shadow-lg:0 -24px 60px rgba(0,0,0,.5); color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:400 1rem/1.55 var(--body);-webkit-tap-highlight-color:transparent}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+:focus-visible{outline:3px solid var(--peach);outline-offset:3px;border-radius:6px}
+
+/* masthead */
+.mast{background:var(--blue);color:var(--on-blue)}
+.mast .wrap{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;padding-block:22px 16px}
+.logo{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:0;
+  font-size:clamp(3.2rem,13vw,6.2rem);line-height:.86;letter-spacing:-.01em}
+.issue{text-align:right;font-size:.9rem;line-height:1.35;font-weight:700;padding-bottom:6px}
+.issue span{display:block;font-weight:400;opacity:.85}
+
+/* szklany pasek sekcji */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--glass);
+  -webkit-backdrop-filter:blur(20px) saturate(180%);backdrop-filter:blur(20px) saturate(180%);
+  border-top:1px solid var(--glass-edge)}
+.bar::after{content:"";position:absolute;left:0;right:0;top:100%;height:18px;pointer-events:none;
+  background:linear-gradient(var(--glass),transparent);opacity:0;transition:opacity .2s ease}
+.bar.scrolled::after{opacity:1}
+.bar .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:10px}
+.mini{font-family:var(--display);text-transform:uppercase;font-size:1.35rem;letter-spacing:-.005em;line-height:1;
+  opacity:0;transform:translateY(6px);transition:opacity .25s ease,transform .25s ease}
+.bar.scrolled .mini{opacity:1;transform:none}
+.seg{position:relative;display:inline-flex;background:var(--soft);border-radius:999px;padding:3px;flex:0 1 auto;min-width:0}
+.seg button{position:relative;z-index:1;border:0;background:none;color:var(--muted);font:600 .88rem/1 var(--body);
+  padding:9px 14px;border-radius:999px;cursor:pointer;white-space:nowrap;letter-spacing:.005em;transition:color .2s ease}
+.seg button[aria-pressed="true"]{color:var(--ink)}
+.seg button small{font-weight:500;opacity:.7;margin-left:4px;font-variant-numeric:tabular-nums}
+.pill{position:absolute;z-index:0;top:3px;bottom:3px;left:0;border-radius:999px;background:var(--paper);
+  box-shadow:0 1px 3px rgba(11,22,32,.12),0 1px 1px rgba(11,22,32,.06);will-change:transform,width}
+
+/* treść */
+main{padding-block:28px 40px}
+.sec-h{display:flex;align-items:baseline;gap:12px;margin:8px 0 14px}
+.sec-h h2{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:0;font-size:1.6rem;line-height:1;letter-spacing:.005em}
+.sec-h p{margin:0;color:var(--muted);font-size:.9rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px}
+.group{display:flex;flex-direction:column;gap:6px;margin-bottom:34px}
+.group[hidden]{display:none}
+
+.card{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:var(--r);
+  overflow:hidden;text-align:left;padding:0;cursor:pointer;color:inherit;font:inherit;width:100%;
+  box-shadow:var(--shadow);transition:transform 160ms cubic-bezier(.2,.8,.2,1),box-shadow .2s ease;touch-action:manipulation}
+.card.pressed{transform:scale(.97);transition-duration:90ms}
+@media (hover:hover){.card:hover{box-shadow:0 2px 4px rgba(11,22,32,.08),0 14px 34px rgba(11,22,32,.12)}}
+.frame{position:relative;aspect-ratio:16/9;max-width:100%;display:grid;place-items:center;overflow:hidden}
+.frame .ini{font-family:var(--display);font-size:clamp(3rem,9vw,4.6rem);line-height:1;letter-spacing:-.02em;color:rgba(255,255,255,.92);
+  text-shadow:0 2px 18px rgba(0,0,0,.18)}
+.frame .cr{position:absolute;left:10px;bottom:10px;font-size:.72rem;font-weight:600;letter-spacing:.02em;color:#fff;
+  background:rgba(11,22,32,.45);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);padding:4px 9px;border-radius:999px}
+.frame .play{position:absolute;right:10px;bottom:10px;width:30px;height:30px;border-radius:50%;background:rgba(255,255,255,.85);
+  display:grid;place-items:center}
+.frame .play::before{content:"";border-left:9px solid #0b1620;border-block:6px solid transparent;margin-left:2px}
+.body{display:flex;flex-direction:column;gap:8px;padding:14px 16px 16px;min-width:0}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.74rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.tag{background:var(--peach);color:var(--on-peach);border-radius:999px;padding:3px 9px;letter-spacing:.05em}
+.tag.world{background:var(--soft);color:var(--ink)}
+.hl{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:0;font-size:1.32rem;line-height:1.08;letter-spacing:.004em;text-wrap:balance}
+.sum{margin:0;color:var(--muted);font-size:.93rem;line-height:1.5}
+
+/* główny news */
+.lead{display:grid;grid-template-columns:1.25fr 1fr;align-items:stretch;margin-bottom:34px}
+.lead .frame{aspect-ratio:auto;min-height:280px}
+.lead .body{padding:22px 24px;justify-content:center;gap:12px}
+.lead .hl{font-size:clamp(1.7rem,3.6vw,2.6rem);line-height:1.02;letter-spacing:-.008em}
+.lead .sum{font-size:1rem;color:var(--ink);opacity:.82}
+@media (max-width:720px){.lead{grid-template-columns:1fr}.lead .frame{min-height:0;aspect-ratio:16/9}}
+
+.note{color:var(--muted);font-size:.82rem;border-top:1px solid var(--line);padding-top:14px;margin-top:6px;max-width:68ch}
+
+/* arkusz */
+.scrim{position:fixed;inset:0;z-index:40;background:var(--scrim);opacity:0;pointer-events:none}
+.sheet{position:fixed;z-index:41;left:0;right:0;bottom:0;margin:0 auto;max-width:720px;max-height:min(88vh,860px);
+  background:var(--sheet);border-radius:24px 24px 0 0;box-shadow:var(--shadow-lg);display:flex;flex-direction:column;
+  transform:translateY(110%);will-change:transform;visibility:hidden;touch-action:none}
+.sheet.open{visibility:visible}
+.grab{flex:0 0 auto;padding:10px 0 6px;display:grid;place-items:center;cursor:grab}
+.grab span{width:40px;height:5px;border-radius:3px;background:var(--line)}
+.sheet .scroll{overflow-y:auto;overscroll-behavior:contain;touch-action:pan-y;
+  padding-left:max(22px,env(safe-area-inset-left,0px));padding-right:max(22px,env(safe-area-inset-right,0px));
+  padding-block:4px calc(28px + env(safe-area-inset-bottom,0px))}
+.sheet .frame{border-radius:14px;margin-bottom:16px}
+.sheet h3{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:6px 0 10px;font-size:clamp(1.6rem,5vw,2.2rem);line-height:1.04;letter-spacing:-.006em;text-wrap:balance}
+.sheet .lede{font-weight:500;font-size:1.04rem;margin:0 0 14px;max-width:62ch}
+.sheet p{margin:0 0 12px;max-width:62ch}
+.row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-top:18px;padding-top:14px;border-top:1px solid var(--line)}
+.row small{color:var(--muted);font-size:.84rem}
+.btn{display:inline-flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:11px 18px;font:700 .92rem/1 var(--body);
+  background:var(--blue);color:var(--on-blue);text-decoration:none;cursor:pointer;transition:transform 100ms ease-out}
+.btn:active{transform:scale(.97)}
+.btn.ghost{background:var(--soft);color:var(--ink)}
+.close{position:absolute;top:10px;right:max(12px,env(safe-area-inset-right,0px));width:34px;height:34px;border-radius:50%;border:0;
+  background:var(--soft);color:var(--ink);font-size:1.2rem;line-height:1;cursor:pointer}
+
+/* dostępność */
+@media (prefers-reduced-transparency: reduce){.bar{background:var(--paper);-webkit-backdrop-filter:none;backdrop-filter:none;border-bottom:1px solid var(--line)}
+  .frame .cr{background:#0b1620;-webkit-backdrop-filter:none;backdrop-filter:none}}
+@media (prefers-contrast: more){.bar{background:var(--paper);border-bottom:2px solid var(--ink)}.card{border:2px solid var(--ink)}}
+@media (prefers-reduced-motion: reduce){.card,.card.pressed{transition:none;transform:none}.mini{transition:opacity .2s ease;transform:none}}
+@media (max-width:520px){.mast .wrap{flex-direction:column;align-items:flex-start}.issue{text-align:left}
+  .bar .wrap{gap:8px}.mini{display:none}.seg{width:100%}.seg button{flex:1;padding-inline:8px}}
+</style>
+
+<header class="mast">
+  <div class="wrap">
+    <h1 class="logo">Hypers</h1>
+    <div class="issue">Środa, 14 października 2026<span>Wydanie poranne · 7:00 · 7 newsów</span></div>
+  </div>
+</header>
+
+<nav class="bar" id="bar" aria-label="Sekcje">
+  <div class="wrap">
+    <div class="mini" aria-hidden="true">Hypers</div>
+    <div class="seg" id="seg">
+      <span class="pill" id="pill"></span>
+      <button type="button" data-f="all" aria-pressed="true">Wszystko<small>7</small></button>
+      <button type="button" data-f="luz" aria-pressed="false">Na luzie<small>4</small></button>
+      <button type="button" data-f="czapy" aria-pressed="false">Z czapy<small>3</small></button>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap" id="main"></main>
+
+<div class="scrim" id="scrim"></div>
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sh-title">
+  <div class="grab" id="grab"><span></span></div>
+  <button class="close" id="close" type="button" aria-label="Zamknij">×</button>
+  <div class="scroll" id="sh-scroll"></div>
+</section>
+
+<script>
+const DATA = {"luz":[{"who":"Tivolt i Tamae","initials":"VM","category":"Gaming","region":"pl","title":"Valor Mortis od twórców Ghostrunnera już w sprzedaży. Tivolt i Tamae zaczęli granie","summary":"13 października zadebiutowała Valor Mortis, soulslike krakowskiego studia One More Level. Pierwsze odcinki wrzucili już Tamae i Tivolt, a grę omawia też LootBox.","body":["Valor Mortis, nowa gra krakowskiego One More Level (studia odpowiedzialnego za Ghostrunnera), trafiła do sprzedaży 13 października na PC, PlayStation 5 i Xbox Series X|S. Podstawowa edycja kosztuje 149,99 zł, a Deluxe 199,99 zł; ta druga obejmuje fabularny dodatek zapowiedziany na przyszły rok.","To pierwszoosobowa gra akcji z mechaniką soulslike. Gracz wciela się w Williama, żołnierza armii Napoleona, który powstaje z grobu w alternatywnym XIX wieku, w świecie zniszczonym przez nadprzyrodzoną zarazę."],"credit":"Tivolt / YouTube","src":4},{"who":"Kaluch","initials":"KA","category":"Gaming","region":"pl","title":"Kaluch jedzie przez całą mapę GTA V, ale nikt nie może się zaśmiać","summary":"Kaluch wrócił do formatu przejazdu przez całą mapę GTA V, tym razem z zakazem śmiechu. W odcinku grają z nim Dzikk, Kaciejos i Olimpek.","body":["Na kanale Kalucha we wtorek o 18:00 ukazał się film „GTA V – PRZEZ CAŁĄ MAPĘ, ale NIE MOGĘ SIĘ ZAŚMIAĆ!”. To ponad 40 minut przejazdu przez mapę gry z dodatkową zasadą: śmiech jest zakazany.","W opisie Kaluch oznacza współuczestników: Dzikka, Kaciejosa i Olimpka. Prosi też o łapki w górę, jeśli widzowie chcą kolejnych odcinków tej serii."],"credit":"Kaluch / YouTube","src":1},{"who":"Skrimi","initials":"SK","category":"Gaming","region":"pl","title":"Skrimi wraca do The Long Drive, tym razem przy minus 50 stopniach","summary":"Skrimi odświeżył jedną ze swoich znanych serii: w nowym filmie jedzie przez The Long Drive w zimowej wersji. Przy okazji prosi widzów o pomoc w dobiciu do miliona subskrypcji.","body":["We wtorek o 19:00 Skrimi opublikował film „THE LONG DRIVE ALE JEST -50 C°”. To powrót do gry o samotnej podróży samochodem przez pustynię, tym razem w mroźnym wariancie.","W pierwszej linijce opisu twórca prosi widzów o pomoc w osiągnięciu 1 000 000 subskrypcji kanału."],"credit":"Skrimi / YouTube","src":1},{"who":"RafciuSA","initials":"RS","category":"Gaming","region":"pl","title":"RafciuSA składa w FC27 drużynę z samych reprezentantów Polski U21","summary":"Po awansie młodzieżówki na Euro 2027 RafciuSA sprawdził w FC27, jak poradziłaby sobie drużyna złożona wyłącznie z polskich zawodników do lat 21, m.in. w Lidze Mistrzów.","body":["Reprezentacja Polski U21 zapewniła sobie we wtorek bezpośredni awans na mistrzostwa Europy 2027 w Serbii i Albanii. Mimo porażki z Włochami w Pescarze Biało-Czerwoni awansowali jako najlepsza drużyna z drugich miejsc w grupach.","Tego samego dnia RafciuSA opublikował film „STWORZYŁEM SKŁAD POLSKI U21 w FC27!”. W opisie zapowiada sprawdzenie, jak klub złożony tylko z młodych reprezentantów poradzi sobie w rozgrywkach, w tym w Lidze Mistrzów."],"credit":"RafciuSA / YouTube","src":2}],"czapy":[{"who":"Blowek","initials":"BL","category":"Ciekawostki","region":"pl","title":"Blowek ostrzega przed winogronami w mikrofalówce","summary":"W 31-sekundowym shorcie Blowek pokazuje, dlaczego winogron nie wkłada się do mikrofalówki. Widzowie w komentarzach dorzucają fizyczne wyjaśnienie zjawiska.","body":["Blowek opublikował we wtorek krótki film „NIGDY nie wkładaj WINOGRON do MIKROFALI!”. To 31-sekundowy short bez opisu.","Do środy do godz. 17:00 nagranie miało ok. 41 tys. wyświetleń. Najwyżej oceniany komentarz tłumaczy, że winogrono iskrzy, bo jego rozmiar jest zbliżony do długości fali mikrofal."],"credit":"Blowek / YouTube","src":1},{"who":"theRadBrad","initials":"RB","category":"Gaming","region":"world","title":"Nowa Castlevania u theRadBrada: ponad 300 tys. wyświetleń w dobę","summary":"theRadBrad zaczął przechodzenie Castlevania: Belmont's Curse. Pierwszy, ponad dwuipółgodzinny odcinek w dobę zebrał ponad 300 tys. wyświetleń.","body":["theRadBrad, kanał znany z pełnych przejść gier, opublikował we wtorek pierwszą część gameplayu Castlevania: Belmont's Curse. Film trwa ponad dwie i pół godziny.","W opisie twórca dziękuje Konami za udostępnienie wersji Midnight Edition. Grę nagrywał na PlayStation 5 Pro i PC; w opisie wymienia też postacie, m.in. Rose Belmont, Trevora Belmonta, Syphę i Draculę."],"credit":"theRadBrad / YouTube","src":1},{"who":"KreekCraft","initials":"KC","category":"Gaming","region":"world","title":"KreekCraft o nowej opcji w Robloksie: twórcy gier mogą zamknąć funkcje za weryfikacją wieku","summary":"Według KreekCrafta gry na Robloksie mogą teraz blokować część funkcji i treści za weryfikacją wieku. Jego krótki film zebrał w dobę blisko 650 tys. wyświetleń.","body":["KreekCraft, youtuber komentujący wydarzenia z Robloksa, opublikował we wtorek 19-sekundowy short „welp.. this isn't good”. W opisie pisze, że gry na platformie mogą teraz zamykać funkcje i treści za weryfikacją wieku.","Tego samego dnia wrzucił dłuższy film „Uhh Roblox..”, w którym według opisu omawia m.in. zaostrzenie weryfikacji wieku i nową możliwość usuwania grup."],"credit":"KreekCraft / YouTube","src":2}]};
+
+/* plansze w miejscu kadrów: kolory z palety marki, odcień zależny od twórcy */
+const TINTS=[["#276787","#5aa3c4"],["#1e4f69","#276787"],["#c9714f","#ffc9b0"],["#276787","#ffc9b0"],["#34536b","#8fcbe8"],["#a8573a","#e89a78"],["#1b3a4f","#4f8fb0"]];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const all=[...DATA.luz.map(n=>({...n,sec:"luz"})),...DATA.czapy.map(n=>({...n,sec:"czapy"}))];
+all.forEach((n,i)=>n.tint=TINTS[i%TINTS.length]);
+const frame=n=>`<div class="frame" style="background:linear-gradient(135deg,${n.tint[0]},${n.tint[1]})"><span class="ini">${esc(n.initials)}</span><span class="play"></span><span class="cr">${esc(n.credit)}</span></div>`;
+const meta=n=>`<div class="meta"><span class="tag${n.region==="world"?" world":""}">${n.region==="world"?"Świat":esc(n.category)}</span><span>${esc(n.who)}</span></div>`;
+const card=(n,i,cls="")=>`<button class="card ${cls}" data-i="${i}" type="button">${frame(n)}<div class="body">${meta(n)}<h3 class="hl">${esc(n.title)}</h3><p class="sum">${esc(n.summary)}</p></div></button>`;
+
+const main=document.getElementById("main");
+const luz=all.filter(n=>n.sec==="luz"), cz=all.filter(n=>n.sec==="czapy");
+main.innerHTML=`
+<section class="group" data-sec="luz">
+  <div class="sec-h"><h2>Na luzie</h2><p>Lżejsze newsy o twórcach z listy</p></div>
+  ${card(luz[0],0,"lead")}
+  <div class="grid">${luz.slice(1).map((n)=>card(n,all.indexOf(n))).join("")}</div>
+</section>
+<section class="group" data-sec="czapy">
+  <div class="sec-h"><h2>Z czapy</h2><p>Krótko i nieoczywiście</p></div>
+  <div class="grid">${cz.map(n=>card(n,all.indexOf(n))).join("")}</div>
+</section>
+<p class="note">Podgląd koncepcji z dzisiejszymi newsami. Plansze z inicjałami zastępują tu kadry z YouTube, które na prawdziwej stronie ładują się normalnie.</p>`;
+
+const reduce=matchMedia("(prefers-reduced-motion: reduce)");
+
+/* sprężyna Apple: damping + response (s), startuje z bieżącej wartości i prędkości */
+function spring({from,to,v=0,damping=1,response=.35,onUpdate,onDone}){
+  const k=Math.pow(2*Math.PI/response,2), c=4*Math.PI*damping/response;
+  let x=from,vel=v,last=performance.now(),id,stopped=false;
+  function step(t){
+    if(stopped)return;
+    let dt=Math.min((t-last)/1000,1/30); last=t;
+    const sub=4; for(let s=0;s<sub;s++){const h=dt/sub; const a=-k*(x-to)-c*vel; vel+=a*h; x+=vel*h;}
+    onUpdate(x,vel);
+    if(Math.abs(vel)<8&&Math.abs(x-to)<.4){onUpdate(to,0);onDone&&onDone();return;}
+    id=requestAnimationFrame(step);
+  }
+  if(reduce.matches){onUpdate(to,0);onDone&&onDone();return{stop(){},get x(){return to},get v(){return 0}};}
+  id=requestAnimationFrame(step);
+  return{stop(){stopped=true;cancelAnimationFrame(id)},get x(){return x},get v(){return vel}};
+}
+
+/* reakcja na naciśnięcie: od razu przy pointerdown */
+document.addEventListener("pointerdown",e=>{const c=e.target.closest(".card");if(c)c.classList.add("pressed")});
+["pointerup","pointercancel","pointerleave"].forEach(t=>document.addEventListener(t,()=>document.querySelectorAll(".card.pressed").forEach(c=>c.classList.remove("pressed")),true));
+
+/* segmenty z przesuwaną pigułką */
+const seg=document.getElementById("seg"),pill=document.getElementById("pill");
+let pillX=0,pillW=0,pillAnim=null,pillWAnim=null;
+function placePill(btn,instant){
+  const r=btn.getBoundingClientRect(),s=seg.getBoundingClientRect();const tx=r.left-s.left,tw=r.width;
+  if(instant||!pillW){pillX=tx;pillW=tw;pill.style.transform=`translateX(${tx}px)`;pill.style.width=tw+"px";return;}
+  const v=pillAnim?pillAnim.v:0; pillAnim&&pillAnim.stop(); pillWAnim&&pillWAnim.stop();
+  pillAnim=spring({from:pillX,to:tx,v,damping:1,response:.32,onUpdate:x=>{pillX=x;pill.style.transform=`translateX(${x}px)`}});
+  pillWAnim=spring({from:pillW,to:tw,damping:1,response:.32,onUpdate:w=>{pillW=w;pill.style.width=w+"px"}});
+}
+function setFilter(btn){
+  seg.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",b===btn));
+  placePill(btn);
+  const f=btn.dataset.f;
+  document.querySelectorAll(".group").forEach(g=>{
+    const show=f==="all"||g.dataset.sec===f;
+    if(show&&g.hidden){g.hidden=false;if(!reduce.matches)g.animate([{opacity:0,transform:"translateY(8px)"},{opacity:1,transform:"none"}],{duration:260,easing:"cubic-bezier(.2,.8,.2,1)"});}
+    else if(!show)g.hidden=true;
+  });
+}
+seg.addEventListener("pointerdown",e=>{const b=e.target.closest("button");if(b)setFilter(b)});
+seg.addEventListener("keydown",e=>{const b=e.target.closest("button");if(b&&(e.key==="Enter"||e.key===" ")){e.preventDefault();setFilter(b)}});
+addEventListener("resize",()=>placePill(seg.querySelector('[aria-pressed="true"]'),true));
+document.fonts.ready.then(()=>placePill(seg.querySelector('[aria-pressed="true"]'),true));
+placePill(seg.querySelector('[aria-pressed="true"]'),true);
+
+/* krawędź szkła pojawia się dopiero, gdy treść wjeżdża pod pasek */
+const bar=document.getElementById("bar"),mast=document.querySelector(".mast");
+new IntersectionObserver(([e])=>bar.classList.toggle("scrolled",!e.isIntersecting),{threshold:0}).observe(mast);
+
+/* arkusz: przeciąganie 1:1, gumka u góry, rzut pędu, przekazanie prędkości */
+const sheet=document.getElementById("sheet"),scrim=document.getElementById("scrim"),scroll=document.getElementById("sh-scroll");
+let y=0,H=0,anim=null,openFrom=null,isOpen=false;
+const setY=v=>{y=v;sheet.style.transform=`translateY(${v}px)`;const p=Math.max(0,Math.min(1,1-v/H));scrim.style.opacity=p;};
+function openSheet(i,srcEl){
+  const n=all[i];
+  scroll.innerHTML=`${frame(n)}${meta(n)}<h3 id="sh-title">${esc(n.title)}</h3><p class="lede">${esc(n.summary)}</p>${n.body.map(p=>`<p>${esc(p)}</p>`).join("")}
+  <div class="row"><small>Źródła: ${n.src} · ${esc(n.credit)}</small><a class="btn" href="https://hypers.tech" target="_blank" rel="noopener">Czytaj na hypers.tech</a></div>`;
+  scroll.scrollTop=0; openFrom=srcEl; sheet.classList.add("open"); H=sheet.offsetHeight+40;
+  scrim.style.pointerEvents="auto"; isOpen=true;
+  const r=srcEl.getBoundingClientRect(); sheet.style.transformOrigin=`${r.left+r.width/2}px 100%`;
+  anim&&anim.stop(); anim=spring({from:anim?y:H,to:0,damping:1,response:.38,onUpdate:setY});
+  document.getElementById("close").focus({preventScroll:true});
+}
+function closeSheet(v=0){
+  if(!isOpen)return; isOpen=false; scrim.style.pointerEvents="none";
+  anim&&anim.stop(); anim=spring({from:y,to:H,v,damping:1,response:.32,onUpdate:setY,onDone:()=>{if(!isOpen)sheet.classList.remove("open")}});
+  openFrom&&openFrom.focus({preventScroll:true});
+}
+main.addEventListener("click",e=>{const c=e.target.closest(".card");if(c)openSheet(+c.dataset.i,c)});
+scrim.addEventListener("click",()=>closeSheet());
+document.getElementById("close").addEventListener("click",()=>closeSheet());
+addEventListener("keydown",e=>{if(e.key==="Escape")closeSheet()});
+
+const project=(v,d=.998)=>(v/1000)*d/(1-d);
+const rubber=(o,dim,c=.55)=>(o*dim*c)/(dim+c*Math.abs(o));
+let drag=null;
+sheet.addEventListener("pointerdown",e=>{
+  if(e.target.closest("a,button"))return;
+  const inScroll=e.target.closest(".scroll");
+  if(inScroll&&scroll.scrollTop>0)return;            // treść przewijana: najpierw przewijanie
+  anim&&anim.stop();                                   // złapanie w locie: start z bieżącej pozycji
+  drag={id:e.pointerId,startY:e.clientY,base:y,hist:[{t:e.timeStamp,y:e.clientY}],armed:!inScroll};
+});
+sheet.addEventListener("pointermove",e=>{
+  if(!drag||e.pointerId!==drag.id)return;
+  const dy=e.clientY-drag.startY;
+  if(!drag.armed){ if(dy>10){drag.armed=true;drag.startY=e.clientY;sheet.setPointerCapture(e.pointerId);} else if(dy<-4){drag=null;} return; }
+  if(!sheet.hasPointerCapture(e.pointerId))sheet.setPointerCapture(e.pointerId);
+  let ny=drag.base+(e.clientY-drag.startY);
+  if(ny<0)ny=rubber(ny,H);                              // gumka przy górnej granicy
+  setY(ny);
+  drag.hist.push({t:e.timeStamp,y:e.clientY}); if(drag.hist.length>6)drag.hist.shift();
+});
+function endDrag(e){
+  if(!drag||e.pointerId!==drag.id)return;
+  const h=drag.hist,a=h[0],b=h[h.length-1];const dt=(b.t-a.t)/1000;const v=dt>0?(b.y-a.y)/dt:0;
+  const wasArmed=drag.armed; drag=null; if(!wasArmed)return;
+  const landing=y+project(v);
+  if(landing>H*.45)closeSheet(v);
+  else{anim=spring({from:y,to:0,v,damping:v>600?.8:1,response:.34,onUpdate:setY});}
+}
+sheet.addEventListener("pointerup",endDrag);sheet.addEventListener("pointercancel",endDrag);
+</script>
