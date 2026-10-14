@@ -1,0 +1,31 @@
+# Uruchamia zbieracza w prywatnym repo FYlapeq/hypers-data. Odpala go sesja Claude przed wydaniem
+# (`gh api -X POST repos/FYlapeq/hypers/actions/workflows/uruchom-zbieracza.yml/dispatches ...`),
+# bo harmonogram GitHuba bywa spóźniony o kilka godzin. Gotowe dane lądują na gałęzi `zbieracz`.
+name: Uruchom zbieracza
+on:
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot do zebrania"
+        type: choice
+        options: ["rano", "popoludnie"]
+        required: true
+permissions: {}
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start zbieracza w hypers-data
+        env:
+          TOKEN: ${{ secrets.ZBIERACZ_TOKEN }}
+          SLOT: ${{ inputs.slot }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error title=Brak ZBIERACZ_TOKEN::Dodaj sekret ZBIERACZ_TOKEN w ustawieniach repo hypers."
+            exit 1
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/FYlapeq/hypers-data/actions/workflows/zbieracz.yml/dispatches \
+            -d "{\"ref\":\"main\",\"inputs\":{\"force_slot\":\"$SLOT\"}}"
+          echo "Uruchomiono zbieracza (slot $SLOT). Dane pojawią się na gałęzi zbieracz za kilka minut." >> "$GITHUB_STEP_SUMMARY"
