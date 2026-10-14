@@ -36,6 +36,14 @@
       if(l) l.onclick=mount; if(a) a.onclick=function(){setConsent('all')};
     }
   }
+  /* szklany pasek: krawędź dopiero, gdy treść wjeżdża pod niego */
+  var bar=$('bar'), sen=$('bar-sentinel');
+  if(bar&&sen&&window.IntersectionObserver) new IntersectionObserver(function(en){
+    bar.classList.toggle('scrolled',!en[0].isIntersecting&&en[0].boundingClientRect.top<0)},{threshold:0}).observe(sen);
+  /* karty: wciśnięcie od razu przy pointerdown */
+  document.addEventListener('pointerdown',function(e){var c=e.target.closest&&e.target.closest('.card');if(c)c.classList.add('pressed')});
+  ['pointerup','pointercancel','dragstart'].forEach(function(t){document.addEventListener(t,function(){
+    document.querySelectorAll('.card.pressed').forEach(function(c){c.classList.remove('pressed')})},true)});
   /* miniatura maxresdefault nie zawsze istnieje: wtedy hqdefault */
   document.querySelectorAll('img[data-fallback]').forEach(function(img){
     function fb(){img.onerror=null;img.src=img.dataset.fallback}

@@ -88,7 +88,7 @@ function collect(editions) {
 }
 
 // ---------- szablony ----------
-function head({ title, desc, canonical, image, prefix, extra = '' }) {
+function head({ title, desc, canonical, image, prefix, extra = '', current = '' }) {
   return `<!doctype html>
 <html lang="pl">
 <head>
@@ -111,6 +111,8 @@ ${extra}<link rel="preload" href="${prefix}fonts/anton-latin.woff2" as="font" ty
 </head>
 <body>
 <header class="mast"><div class="wrap"><a class="logo" href="${prefix}">Hypers</a><div class="issue">Newsy o twórcach<span>codziennie o 7:00</span></div></div></header>
+<div class="bar-sentinel" id="bar-sentinel"></div>
+<nav class="bar" id="bar" aria-label="Nawigacja"><div class="wrap"><a class="mini" href="${prefix}" tabindex="-1" aria-hidden="true">Hypers</a><div class="seg"><a href="${prefix}">Najnowsze wydanie</a><a href="${prefix}archiwum.html"${current === 'arch' ? ' aria-current="page"' : ''}>Archiwum</a></div></div></nav>
 `;
 }
 function foot(prefix) {
@@ -137,7 +139,7 @@ function imgCredit(im) {
 function photoFigure(n) {
   const im = n.image; if (!im) return '';
   const fb = im.fallback ? ` data-fallback="${esc(safeUrl(im.fallback))}"` : '';
-  return `<figure class="fig"><div class="photo"><img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt || '')}" referrerpolicy="no-referrer"${fb}></div><figcaption>${im.caption ? esc(im.caption) : ''}<span class="cr">${imgCredit(im)}</span></figcaption></figure>`;
+  return `<figure class="fig"><div class="photo"><img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt || '')}" referrerpolicy="no-referrer"${fb}><span class="cr-pill">${esc((KIND[im.kind] || 'Zdjęcie') + ': ' + (im.credit || ''))}</span></div><figcaption>${im.caption ? esc(im.caption) : ''}<span class="cr">${imgCredit(im)}</span></figcaption></figure>`;
 }
 function embedBlock(n, prefix) {
   const e = embedOf(n); if (!e) return '';
@@ -153,7 +155,7 @@ function embedBlock(n, prefix) {
 }
 function metaLine(it) {
   const n = it.n; const ok = (n.sources || []).some(x => x.origin); const e = embedOf(n);
-  return `<div class="meta">${n.slot ? `<span class="slot">${esc(n.slot)}</span>` : ''}<span>${esc(it.sec.title)}</span><span>${n.region === 'world' ? 'Świat' : 'Polska'}</span><span>${esc(n.category)}</span><span>Wydanie z ${plDate(it.date)}</span>${ok ? '<span class="ok">Potwierdzone u źródła</span>' : ''}${e ? `<span class="emb">▶ ${e.name}</span>` : ''}</div>`;
+  return `<div class="meta">${n.slot ? `<span class="slot">${esc(n.slot)}</span>` : ''}<span class="tag">${esc(it.sec.title)}</span>${n.region === 'world' ? '<span class="tag world">Świat</span>' : ''}<span>${esc(n.who || '')}</span><span>${esc(n.category)}</span><span>Wydanie z ${plDate(it.date)}</span>${ok ? '<span class="ok">Potwierdzone u źródła</span>' : ''}${e ? `<span class="emb">▶ ${e.name}</span>` : ''}</div>`;
 }
 
 function articlePage(it, siblings) {
@@ -169,8 +171,12 @@ function articlePage(it, siblings) {
   };
   const body = (n.body && n.body.length ? n.body : [n.summary]).map(p => `<p>${esc(p)}</p>`).join('\n    ');
   const srcs = (n.sources || []).map(x => `<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin ? ' <span class="orig">✓ u twórcy</span>' : ''}</li>`).join('');
-  const more = siblings.filter(s => s !== it).slice(0, 6)
-    .map(s => `<li><a href="${prefix}${s.rel}">${esc(s.n.title)}</a></li>`).join('');
+  const more = siblings.filter(s => s !== it).slice(0, 6).map(s => {
+    const im = s.n.image && /^https:\/\/i\.ytimg\.com\//.test(s.n.image.src || '') ? s.n.image : null;
+    const fb = im && im.fallback ? ` data-fallback="${esc(safeUrl(im.fallback))}"` : '';
+    const thumb = im ? `<div class="media"><div class="photo"><img src="${esc(safeUrl(im.src))}" alt="" loading="lazy" referrerpolicy="no-referrer"${fb}><span class="cr-pill">${esc((im.kind === 'kadr' ? 'Kadr: ' : '') + (im.credit || ''))}</span></div></div>` : '';
+    return `<li><article class="card">${thumb}<div class="body"><div class="meta"><span class="tag">${esc(s.sec.title)}</span><span>${esc(s.n.who || '')}</span></div><h3 class="hl"><a class="card-link" href="${prefix}${s.rel}">${esc(s.n.title)}</a></h3></div></article></li>`;
+  }).join('');
   return head({
     title: `${n.title} | Hypers`, desc: n.summary, canonical, image: img, prefix,
     extra: `<meta property="og:type" content="article">\n<meta property="article:published_time" content="${ld.datePublished}">\n<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, '\\u003c')}</script>\n`,
@@ -198,7 +204,7 @@ function archivePage(items) {
   const byDate = new Map();
   for (const it of items) { if (!byDate.has(it.date)) byDate.set(it.date, []); byDate.get(it.date).push(it); }
   const days = [...byDate].map(([d, list]) => `<h2 id="d-${d}">${plDate(d)}</h2><ul>${list.map(it => `<li><a href="${it.rel}">${esc(it.n.title)}</a><small>${esc(it.sec.title)} · ${esc(it.n.category || '')}${it.n.slot ? ' · ' + esc(it.n.slot) : ''}</small></li>`).join('')}</ul>`).join('\n  ');
-  return head({ title: 'Archiwum | Hypers', desc: 'Wszystkie artykuły Hypers ułożone według dni wydania.', canonical: `${SITE}/archiwum.html`, image: `${SITE}/og.png`, prefix: '', extra: '<meta property="og:type" content="website">\n' })
+  return head({ title: 'Archiwum | Hypers', desc: 'Wszystkie artykuły Hypers ułożone według dni wydania.', canonical: `${SITE}/archiwum.html`, image: `${SITE}/og.png`, prefix: '', current: 'arch', extra: '<meta property="og:type" content="website">\n' })
     + `<main class="wrap"><div class="arch">
   <h1>Archiwum</h1>
   <p>Wszystkie artykuły z wcześniejszych wydań. Najnowsze wydanie znajdziesz na <a href="./">stronie głównej</a>.</p>
