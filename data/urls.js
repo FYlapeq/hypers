@@ -1,18 +1,5 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
- "2026-10-14": {
-  "luz": [
-   "artykuly/2026-10-14/valor-mortis-od-tworcow-ghostrunnera-juz-w-sprzedazy-tivolt-i-tamae.html",
-   "artykuly/2026-10-14/kaluch-przejechal-cala-mape-gta-v-z-zakazem-smiechu-135-tys.html",
-   "artykuly/2026-10-14/hyper-na-pasha-gaming-camp-pierwszy-vlog-to-gra-terenowa-wzieta.html",
-   "artykuly/2026-10-14/kreekcraft-gry-na-robloxie-moga-teraz-blokowac-funkcje-za-weryfikacja.html"
-  ],
-  "czapy": [
-   "artykuly/2026-10-14/theradbrad-gra-w-nowe-castlevanie-przed-premiera-prawie-300-tys.html",
-   "artykuly/2026-10-14/blowek-ostrzega-nie-wkladaj-winogron-do-mikrofali.html",
-   "artykuly/2026-10-14/starszy-pan-nie-wiedzial-z-kim-rozmawia-short-ekipy-wk-ma-56-tys.html"
-  ]
- },
  "2026-10-13": {
   "luz": [
    "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",
