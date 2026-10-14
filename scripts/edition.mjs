@@ -8,6 +8,7 @@
 //                                                   pełne dane jednego filmu (opis, komentarze, napisy) do napisania newsa
 //   node scripts/edition.mjs add <nowe.json> [--no-build]
 //                                                   waliduje i dopisuje newsy do wydania, potem uruchamia build.mjs
+//   node scripts/edition.mjs remove <RRRR-MM-DD>   usuwa całe wydanie dnia (np. żeby wydać je od nowa), potem build.mjs
 //
 // Format <nowe.json>: { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [], "luz": [], "czapy": [] }
 // Rano tworzy wydanie dnia. Po południu dopisuje newsy NA POCZĄTEK sekcji (zgodnie z CLAUDE.md).
@@ -171,9 +172,21 @@ function add(file, build = true) {
   if (build) execFileSync(process.execPath, [path.join(ROOT, 'scripts/build.mjs')], { stdio: 'inherit' });
 }
 
+function remove(date) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date || '')) die('użycie: remove RRRR-MM-DD');
+  const ed = load();
+  if (!ed[date]) die(`Brak wydania ${date}, nic do usunięcia.`);
+  const n = Object.values(ed[date]).reduce((s, v) => s + (Array.isArray(v) ? v.length : 0), 0);
+  delete ed[date];
+  save(ed);
+  console.log(`OK: usunięto wydanie ${date} (${n} newsów).`);
+  execFileSync(process.execPath, [path.join(ROOT, 'scripts/build.mjs')], { stdio: 'inherit' });
+}
+
 const [cmd, a, b] = process.argv.slice(2);
 if (cmd === 'recent') recent(Number(a) || 7);
 else if (cmd === 'digest') digest(a, Number(b) || 40);
 else if (cmd === 'video') video(a, b);
 else if (cmd === 'add') add(a, !process.argv.includes('--no-build'));
-else die('użycie: recent | digest <run.json> | video <run.json> <id> | add <nowe.json>');
+else if (cmd === 'remove') remove(a);
+else die('użycie: recent | digest <run.json> | video <run.json> <id> | add <nowe.json> | remove <data>');

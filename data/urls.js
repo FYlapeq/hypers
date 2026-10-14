@@ -1,17 +1,5 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
- "2026-10-14": {
-  "luz": [
-   "artykuly/2026-10-14/young-leosia-o-relacji-z-bambi-pisza-do-siebie-rzadko-ale-wciaz-sie.html",
-   "artykuly/2026-10-14/taco-hemingway-odpowiada-inspektorowi-farmaceutycznemu-w-numerze.html",
-   "artykuly/2026-10-14/gimper-oswiadczyl-sie-na-broadwayu-po-musicalu-hamilton.html"
-  ],
-  "czapy": [
-   "artykuly/2026-10-14/skolim-ma-juz-druga-stacje-paliw-ceny-pokazal-w-rolce-z-babcia.html",
-   "artykuly/2026-10-14/druski-ma-poprowadzic-saturday-night-live-bylby-pierwszym-tworca.html",
-   "artykuly/2026-10-14/ironmouse-zaprojektowala-halloweenowy-stroj-dla-hatsune-miku.html"
-  ]
- },
  "2026-10-13": {
   "luz": [
    "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",
