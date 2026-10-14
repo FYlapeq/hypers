@@ -1,5 +1,296 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-14": {
+    "date": "2026-10-14",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Tivolt i Tamae",
+        "initials": "VM",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Valor Mortis od twórców Ghostrunnera już w sprzedaży. Tivolt i Tamae zaczęli serie",
+        "summary": "Polskie studio One More Level wydało 13 października soulslike'a Valor Mortis. Dzień później pierwsze odcinki z gry wrzucili Tivolt i Tamae.",
+        "body": [
+          "Valor Mortis, nowa gra krakowskiego One More Level, czyli twórców Ghostrunnera, zadebiutowała 13 października na PC, PlayStation 5 i Xbox Series X|S. To pierwszoosobowa gra akcji z mechanikami soulslike, osadzona w alternatywnym XIX wieku.",
+          "Tivolt opublikował 14 października pierwszy odcinek serii „Ku chwale NAPOLEONA! | Valor Mortis PL [#1]”. W opisie streszcza fabułę: gracz wciela się w Williama, żołnierza Napoleona powstałego z grobu, a wojny cesarza wywołały nadprzyrodzoną plagę zmieniającą żołnierzy w potwory.",
+          "Tego samego dnia rano Tamae wrzucił ponad dwugodzinny gameplay zatytułowany „Valor Mortis Mnie ZASKOCZYŁ..”, oznaczony jako pierwsza część.",
+          "Według odczytu z 14 października, ok. 16:30, film Tivolta miał ok. 3,3 tys. wyświetleń i blisko 500 polubień, a materiał Tamae ok. 8 tys. wyświetleń. Widzowie Tivolta cieszą się z powrotu soulslike'a na kanał i porównują walkę do Sekiro, część pisze też, że epoka napoleońska to rzadko wykorzystywane tło w grach."
+        ],
+        "sources": [
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=siQcSwJmAcE",
+            "origin": true
+          },
+          {
+            "name": "Tamae / YouTube",
+            "url": "https://www.youtube.com/watch?v=25jy3e-uukA",
+            "origin": true
+          },
+          {
+            "name": "PPE.pl",
+            "url": "https://www.ppe.pl/news/429518/valor-mortis-ze-zwiastunem-premierowym-polacy-pokazuja-najmocniejsze-nowosci.html"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=siQcSwJmAcE",
+        "caption": {
+          "credit": "Tivolt / YouTube",
+          "text": "Pierwszy odcinek serii Tivolta z Valor Mortis. To jeden z pierwszych polskich gameplayów z gry One More Level, opublikowany dzień po premierze."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/siQcSwJmAcE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/siQcSwJmAcE/hqdefault.jpg",
+          "credit": "Tivolt / YouTube",
+          "href": "https://www.youtube.com/watch?v=siQcSwJmAcE",
+          "alt": "Miniatura filmu Tivolta „Ku chwale NAPOLEONA! | Valor Mortis PL [#1]”",
+          "caption": "Miniatura pierwszego odcinka serii Tivolta z Valor Mortis."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "YouTube",
+        "hype": 3,
+        "title": "Kaluch przejechał całą mapę GTA V z zakazem śmiechu. 135 tys. wyświetleń w dobę",
+        "summary": "Kaluch wrócił do serii przejazdów przez mapę GTA V, tym razem z zasadą, że nie wolno się zaśmiać. W odcinku grają też Dzik, Kaciejos i Olimpek.",
+        "body": [
+          "Kaluch opublikował 13 października film „GTA V - PRZEZ CAŁĄ MAPĘ, ale NIE MOGĘ SIĘ ZAŚMIAĆ!”. To kolejny odcinek jego serii przejazdów przez całą mapę GTA V, tym razem z dodatkową zasadą: nie wolno się śmiać.",
+          "W opisie twórca oznacza współgrających: Dzika, Kaciejosa i Olimpka, i prosi o polubienia, jeśli widzowie chcą więcej odcinków tej serii. Film trwa ok. 42 minut.",
+          "Według odczytu z 14 października, ok. 16:30, materiał miał ok. 135 tys. wyświetleń i ponad 6,4 tys. polubień. Najwyżej oceniany komentarz mówi, że widzom brakowało Dzika i Kaciejosa na kanale, a inni proponują kolejne wersje wyzwania, np. przejazd samolotem albo w GTA VI."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=vNm_e6NLiNU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vNm_e6NLiNU",
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Omawiany odcinek serii przejazdów przez mapę GTA V. Zasada zakazu śmiechu jest w tytule, a w opisie Kaluch oznacza Dzika, Kaciejosa i Olimpka."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vNm_e6NLiNU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vNm_e6NLiNU/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=vNm_e6NLiNU",
+          "alt": "Miniatura filmu Kalucha „GTA V - PRZEZ CAŁĄ MAPĘ, ale NIE MOGĘ SIĘ ZAŚMIAĆ!”",
+          "caption": "Miniatura odcinka Kalucha z wyzwaniem w GTA V."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Officialhyper",
+        "initials": "HY",
+        "category": "Vlog",
+        "hype": 2,
+        "title": "Hyper na Pasha Gaming Camp. Pierwszy vlog to gra terenowa wzięta z „Sabotażysty”",
+        "summary": "Streamer Officialhyper pokazał pierwszy film z Pasha Gaming Camp. Uczestnicy zagrali w grę terenową z programu „Sabotażysta”.",
+        "body": [
+          "Officialhyper, streamer związany z CS2 i esportem, opublikował 13 października vloga „GRA TERENOWA z SABOTAŻYSTY na PASHA GAMING CAMP!”. Według opisu to pierwszy film z tego wyjazdu.",
+          "W opisie Hyper pisze, że na obozie zagrali w grę terenową z programu „Sabotażysta”. Kilkuminutowy wycinek z vloga trafił też na kanał jako short.",
+          "Według odczytu z 14 października, ok. 16:30, vlog miał ok. 9,3 tys. wyświetleń. Widzowie piszą, że czekali na ten odcinek, a sam Hyper w komentarzu przyznaje się do „lekkiej wtopy” w trakcie gry."
+        ],
+        "sources": [
+          {
+            "name": "Officialhyper / YouTube",
+            "url": "https://www.youtube.com/watch?v=XM5riHP3Fyc",
+            "origin": true
+          },
+          {
+            "name": "Officialhyper / YouTube (short)",
+            "url": "https://www.youtube.com/shorts/Z0Oc-VlXM1A",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=XM5riHP3Fyc",
+        "caption": {
+          "credit": "Officialhyper / YouTube",
+          "text": "Pierwszy vlog Hypera z Pasha Gaming Camp. Tytuł i opis mówią o grze terenowej przeniesionej z programu „Sabotażysta”."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/XM5riHP3Fyc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/XM5riHP3Fyc/hqdefault.jpg",
+          "credit": "Officialhyper / YouTube",
+          "href": "https://www.youtube.com/watch?v=XM5riHP3Fyc",
+          "alt": "Miniatura vloga Hypera z Pasha Gaming Camp",
+          "caption": "Miniatura vloga Hypera z Pasha Gaming Camp."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "KreekCraft",
+        "initials": "KC",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "KreekCraft: gry na Robloxie mogą teraz blokować funkcje za weryfikacją wieku",
+        "summary": "KreekCraft opisał nową zmianę na Robloxie: twórcy gier mogą zamykać część funkcji i treści za weryfikacją wieku. Short ma ponad 600 tys. wyświetleń.",
+        "body": [
+          "KreekCraft, jeden z najpopularniejszych komentatorów Robloxa, wrzucił 13 października short „welp.. this isn't good”. W opisie pisze, że gry na Robloxie mogą od teraz blokować funkcje i treści za weryfikacją wieku.",
+          "Dzień później temat wrócił w jego dłuższym przeglądzie nowości „Uhh Roblox..”, gdzie jeden z rozdziałów nazywa się „Roblox age checks got worse”. W tym samym filmie omawia też m.in. usuwanie grup i pakietów animacji.",
+          "Według odczytu z 14 października, ok. 16:30, short miał ok. 640 tys. wyświetleń i ponad 1,6 tys. komentarzy. Widzowie w większości krytykują zmianę: piszą, że codzienna weryfikacja zniechęca graczy i że wymóg może skłaniać młodszych do kłamania co do wieku."
+        ],
+        "sources": [
+          {
+            "name": "KreekCraft / YouTube",
+            "url": "https://www.youtube.com/shorts/RL5d9j_P2VA",
+            "origin": true
+          },
+          {
+            "name": "KreekCraft / YouTube",
+            "url": "https://www.youtube.com/watch?v=CjZC2lQtAqw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/RL5d9j_P2VA",
+        "caption": {
+          "credit": "KreekCraft / YouTube",
+          "text": "Short KreekCrafta o weryfikacji wieku w grach na Robloxie. Opis filmu streszcza zmianę, a komentarze pokazują reakcję społeczności."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RL5d9j_P2VA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RL5d9j_P2VA/hqdefault.jpg",
+          "credit": "KreekCraft / YouTube",
+          "href": "https://www.youtube.com/watch?v=RL5d9j_P2VA",
+          "alt": "Miniatura shorta KreekCrafta o weryfikacji wieku na Robloxie",
+          "caption": "Miniatura shorta KreekCrafta „welp.. this isn't good”."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "czapy": [
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "theRadBrad",
+        "initials": "RB",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "theRadBrad gra w nowe Castlevanię przed premierą. Prawie 300 tys. wyświetleń",
+        "summary": "Castlevania: Belmont's Curse wychodzi 15 października, ale theRadBrad już wrzucił ponad 2,5-godzinny pierwszy odcinek. Kopię dostał od Konami.",
+        "body": [
+          "Castlevania: Belmont's Curse, nowa odsłona serii od Konami, tworzona przez Evil Empire i Motion Twin, ma premierę 15 października na PC, PlayStation 5 i Xbox Series X|S.",
+          "theRadBrad opublikował 13 października pierwszą część przejścia gry, trwającą ponad dwie i pół godziny. W opisie dziękuje Konami za udostępnienie edycji Midnight Edition i zapowiada, że seria obejmie całą fabułę aż do zakończenia.",
+          "Według odczytu z 14 października, ok. 16:30, film miał prawie 300 tys. wyświetleń. W komentarzu twórca pisze, że granie w nową Castlevanię jest dla niego surrealistyczne i że druga część jest już nagrana."
+        ],
+        "sources": [
+          {
+            "name": "theRadBrad / YouTube",
+            "url": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
+            "origin": true
+          },
+          {
+            "name": "RPG Site",
+            "url": "https://www.rpgsite.net/news/20591-castlevania-belmonts-curse-release-date-confirmed-on-october-15"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
+        "caption": {
+          "credit": "theRadBrad / YouTube",
+          "text": "Pierwsza część przejścia Castlevania: Belmont's Curse, opublikowana dwa dni przed premierą gry."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ow8qfTq8ALs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ow8qfTq8ALs/hqdefault.jpg",
+          "credit": "theRadBrad / YouTube",
+          "href": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
+          "alt": "Miniatura filmu theRadBrada z Castlevania: Belmont's Curse",
+          "caption": "Miniatura pierwszej części przejścia Castlevania: Belmont's Curse."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Shorts",
+        "hype": 1,
+        "title": "Blowek ostrzega: nie wkładaj winogron do mikrofali",
+        "summary": "Blowek wrzucił półminutowy short o winogronach w mikrofalówce. W komentarzach widzowie tłumaczą fizykę zjawiska.",
+        "body": [
+          "Blowek opublikował 13 października short „NIGDY nie wkładaj WINOGRON do MIKROFALI!”, trwający nieco ponad pół minuty.",
+          "Według odczytu z 14 października, ok. 16:30, film miał ok. 41 tys. wyświetleń. Najwyżej oceniany komentarz wyjaśnia, że winogrono zaczyna świecić, bo jego rozmiar jest zbliżony do długości mikrofali.",
+          "To kolejny w ostatnich dniach eksperyment na kanale Blowka, który regularnie testuje domowe triki i ciekawostki."
+        ],
+        "sources": [
+          {
+            "name": "Blowek / YouTube",
+            "url": "https://www.youtube.com/shorts/qYkDr9eRgEQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/qYkDr9eRgEQ",
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Short Blowka z ostrzeżeniem przed podgrzewaniem winogron w mikrofalówce."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qYkDr9eRgEQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qYkDr9eRgEQ/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/watch?v=qYkDr9eRgEQ",
+          "alt": "Miniatura shorta Blowka o winogronach w mikrofali",
+          "caption": "Miniatura shorta Blowka „NIGDY nie wkładaj WINOGRON do MIKROFALI!”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "EKIPA WK",
+        "initials": "WK",
+        "category": "Shorts",
+        "hype": 1,
+        "title": "Starszy pan nie wiedział, z kim rozmawia. Short EKIPY WK ma 56 tys. wyświetleń w kilka godzin",
+        "summary": "EKIPA WK wrzuciła krótki film z rozmowy ze starszym panem, który nie rozpoznał twórców. Widzowie żartują, co będzie, gdy ktoś z rodziny mu go pokaże.",
+        "body": [
+          "EKIPA WK opublikowała 14 października przed południem 17-sekundowy short „Starszy Pan NIE WIEDZIAŁ z kim rozmawia”.",
+          "Według odczytu z 14 października, ok. 16:30, film miał ok. 56 tys. wyświetleń i ponad 2,1 tys. polubień.",
+          "Najpopularniejszy komentarz żartuje, że rozmówca zorientuje się dopiero, gdy ktoś z rodziny pokaże mu nagranie. Inni widzowie cytują w komentarzach Dzikiego z ekipy."
+        ],
+        "sources": [
+          {
+            "name": "EKIPA WK / YouTube",
+            "url": "https://www.youtube.com/shorts/1ya0FA5svns",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/1ya0FA5svns",
+        "caption": {
+          "credit": "EKIPA WK / YouTube",
+          "text": "Short EKIPY WK z rozmowy ze starszym panem, który nie rozpoznał twórców."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/1ya0FA5svns/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/1ya0FA5svns/hqdefault.jpg",
+          "credit": "EKIPA WK / YouTube",
+          "href": "https://www.youtube.com/watch?v=1ya0FA5svns",
+          "alt": "Miniatura shorta EKIPY WK „Starszy Pan NIE WIEDZIAŁ z kim rozmawia”",
+          "caption": "Miniatura shorta EKIPY WK."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-13": {
     "date": "2026-10-13",
     "ryby": [],
