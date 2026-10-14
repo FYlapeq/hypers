@@ -7,6 +7,42 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-10-13",
+        "who": "Young Leosia",
+        "initials": "YL",
+        "category": "Wywiad",
+        "hype": 3,
+        "title": "Young Leosia o relacji z Bambi: piszą do siebie rzadko, ale wciąż się wspierają",
+        "summary": "W rozmowie z Dropsy Young Leosia przyznała, że z Bambi nie widują się już tak często jak kiedyś. Tłumaczy to natłokiem pracy i prywatnym życiem obu raperek, a nie konfliktem.",
+        "body": [
+          "Young Leosia opowiedziała w wywiadzie dla Dropsy, jak dziś wygląda jej znajomość z Bambi. Według relacji CGM, Pudelka i GlamRapu raperka przyznała, że ich relacja nie przypomina już tej sprzed lat: spotykają się rzadko, a wiadomości wymieniają tylko od czasu do czasu.",
+          "Leosia wyjaśniła, że obie są bardzo zapracowane i każda ma własne życie prywatne. Podkreśliła, że nadal wspiera Bambi, życzy jej dobrze i uważa, że koleżanka robi dobrą muzykę. Nie wskazała żadnego konkretnego zdarzenia, które miałoby je od siebie oddalić.",
+          "To nie pierwszy raz, gdy temat wraca. Jak przypominają Muzotakt i Pudelek, w listopadzie 2025 roku w Kanale Zero Leosia potwierdziła, że ich zawodowa współpraca się skończyła, i zaprzeczyła, że się pokłóciły. GlamRap przypomina, że Bambi wcześniej odeszła z wytwórni Leosi, Baila Ella.",
+          "Duet przez lata był jednym z najbliższych na młodej polskiej scenie. Ich wspólny numer „BFF” z EP-ki „PG$” z 2024 roku, według Muzotaktu, przez ponad cztery miesiące był na pierwszym miejscu Spotify Top 50 w Polsce."
+        ],
+        "sources": [
+          {
+            "name": "CGM",
+            "url": "https://cgm.pl/news/young-leosia-o-relacji-z-bambi-nie-widujemy-sie-jakos-super-duzo/"
+          },
+          {
+            "name": "Pudelek",
+            "url": "https://www.pudelek.pl/young-leosia-chlodno-o-kontaktach-z-bambi-nie-widujemy-sie-super-duzo-7339554735270336a"
+          },
+          {
+            "name": "GlamRap",
+            "url": "https://glamrap.pl/czy-young-leosia-nadal-wspiera-bambi-raperka-o-relacjach-z-byla-podopieczna/"
+          },
+          {
+            "name": "Muzotakt",
+            "url": "https://muzotakt.pl/155258/young-leosia-i-bambi-nagraly-hit-bff-dzis-konta/"
+          }
+        ],
+        "noImage": "Żadne ze źródeł nie podaje linku do wywiadu Dropsy ani posta raperki; brak legalnego kadru lub zdjęcia prasowego.",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
         "who": "Taco Hemingway",
         "initials": "TH",
         "category": "Kolaboracja",
@@ -93,7 +129,120 @@ window.HYPERS_EDITIONS = {
         "slot": "7:00"
       }
     ],
-    "czapy": []
+    "czapy": [
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Skolim",
+        "initials": "SK",
+        "category": "Biznes",
+        "hype": 2,
+        "title": "Skolim ma już drugą stację paliw. Ceny pokazał w rolce z babcią",
+        "summary": "Skolim otworzył w Olecku swoją drugą stację paliw, po różowej stacji w Czeremsze. We wtorek pokazał na Instagramie ceny, a w nagraniu wystąpiła jego babcia.",
+        "body": [
+          "Piosenkarz Skolim rozwija biznes paliwowy. Według Pudelka i Świata Gwiazd 8 października otworzył w Olecku swoją drugą stację paliw. Pierwsza, utrzymana w różowych kolorach, działa w Czeremsze.",
+          "We wtorek 13 października opublikował na Instagramie rolkę, w której razem z babcią prezentuje cennik nowej stacji. Hasło, którym promuje stację, mówi o paliwie najwyższej jakości w najniższych cenach.",
+          "Na tablicy widać ceny: 6,59 zł za litr benzyny 95, 7,35 zł za 98, 7,40 zł za diesla i 7,59 zł za olej rolniczy. Portale zestawiają je z cenami maksymalnymi obowiązującymi do 13 października: 7,06 zł za benzynę 95 i 8,02 zł za diesla.",
+          "Od 14 października limity cen według portali wynoszą 7,11 zł za benzynę 95, 8,01 zł za 98 i 7,98 zł za olej napędowy."
+        ],
+        "sources": [
+          {
+            "name": "Skolim / Instagram",
+            "url": "https://www.instagram.com/reel/DecM_ARuJy6/",
+            "origin": true
+          },
+          {
+            "name": "Pudelek",
+            "url": "https://www.pudelek.pl/paliwowy-baron-skolim-z-babcia-u-boku-chwali-sie-cenami-na-swojej-nowej-stacji-foto-7339671894026720a"
+          },
+          {
+            "name": "Świat Gwiazd",
+            "url": "https://swiatgwiazd.pl/skolim-szaleje-z-cenami-paliw-wlasnie-otworzyl-kolejna-stacje-ms-wmk-131026"
+          }
+        ],
+        "embed": "https://www.instagram.com/reel/DecM_ARuJy6/",
+        "caption": {
+          "credit": "Skolim / Instagram",
+          "text": "Rolka z konta Skolima, osadzona w relacji Świata Gwiazd o stacji w Olecku. To z niej pochodzi cennik, który portale porównują z limitami cen paliw."
+        },
+        "noImage": "Brak filmu na YouTube i newsroomu; osadzamy oryginalną rolkę twórcy.",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-13",
+        "who": "Druski",
+        "initials": "DR",
+        "category": "Komedia",
+        "hype": 3,
+        "title": "Druski ma poprowadzić „Saturday Night Live”. Byłby pierwszym twórcą internetowym w tej roli",
+        "summary": "Według serwisu Puck komik Druski poprowadzi odcinek „SNL” 7 listopada. NBC jeszcze tego nie ogłosiło, ale doniesienie powtarzają amerykańskie media rozrywkowe.",
+        "body": [
+          "Matthew Belloni z serwisu Puck podał 12 października, że Druski, czyli Drew Desbordes, poprowadzi odcinek „Saturday Night Live” zaplanowany na 7 listopada. TheWrap, Complex i Hot97 piszą, że byłby pierwszym twórcą internetowym w roli gospodarza programu.",
+          "To na razie doniesienie, nie oficjalny komunikat. Complex poprosił NBC o komentarz i do chwili publikacji go nie dostał.",
+          "Druski zaczynał w 2017 roku od skeczy na Instagramie. Według Rolling Stone, na którego powołuje się Net Influencer, obserwuje go ponad 41 mln osób. W czerwcu poprowadził galę BET Awards 2026, a w zestawieniu najlepiej zarabiających twórców Forbesa zajął 9. miejsce.",
+          "TheWrap przypomina, że najbliższym wcześniejszym przykładem gospodyni z internetu była Kim Kardashian, która prowadziła program w październiku 2021 roku."
+        ],
+        "sources": [
+          {
+            "name": "TheWrap",
+            "url": "https://www.thewrap.com/creative-content/tv-shows/druski-to-host-saturday-night-live/"
+          },
+          {
+            "name": "Complex",
+            "url": "https://www.complex.com/pop-culture/a/tracewilliamcowen/druski-saturday-night-live-host"
+          },
+          {
+            "name": "Net Influencer",
+            "url": "https://www.netinfluencer.com/druski-to-become-first-digital-creator-to-host-saturday-night-live-per-report/"
+          },
+          {
+            "name": "Hot97",
+            "url": "https://www.hot97.com/news/druski-set-to-host-snl-first-content-creator-ever/"
+          }
+        ],
+        "noImage": "Brak oficjalnego posta NBC lub Druskiego i filmu na YouTube; zdjęcia z portali wykluczone.",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-14",
+        "who": "Ironmouse",
+        "initials": "IM",
+        "category": "Gry",
+        "hype": 2,
+        "title": "Ironmouse zaprojektowała halloweenowy strój dla Hatsune Miku",
+        "summary": "Vtuberka Ironmouse współtworzyła oficjalny strój Hatsune Miku na Halloween w grze „Hatsune Miku: Colorful Stage!”. Kostium można zdobyć w grze od 14 października do 6 listopada.",
+        "body": [
+          "Oficjalne konto gry „Hatsune Miku: Colorful Stage!” ogłosiło halloweenowy strój Miku, przy którym kierunek projektu nadała Ironmouse, jedna z najpopularniejszych vtuberek na Twitchu. Wstępny koncept przygotowała epebe, a projekt i grafikę ilustratorka Rosuuri, która wcześniej projektowała stroje samej Ironmouse.",
+          "Jak opisuje Dexerto, strój ma różowe diabelskie rogi, fioletowe skrzydła nietoperza i sukienkę w różowo-fioletowych barwach Ironmouse, z dużymi kokardami, klamrą w kształcie serca i srebrnymi łańcuchami. W zwiastunie pokazano też męską wersję dla postaci Kaito.",
+          "Kostium trafił do „2026 Halloween Premium Gift Gacha”, dostępnej od 14 października od godz. 21 czasu polskiego do 6 listopada. Postacie mogą go nosić w teledyskach 3D w grze."
+        ],
+        "sources": [
+          {
+            "name": "Colorful Stage EN / X",
+            "url": "https://x.com/ColorfulStageEN/status/2109796334907572537",
+            "origin": true
+          },
+          {
+            "name": "Ironmouse / X",
+            "url": "https://x.com/ironmouse/status/2109803797895868781",
+            "origin": true
+          },
+          {
+            "name": "Dexerto",
+            "url": "https://www.dexerto.com/entertainment/ironmouse-designs-official-hatsune-miku-outfit-for-halloween-3418788/"
+          }
+        ],
+        "embed": "https://x.com/ColorfulStageEN/status/2109796334907572537",
+        "caption": {
+          "credit": "Colorful Stage EN / X",
+          "text": "Ogłoszenie oficjalnego konta gry z podziałem ról przy projekcie: kierunek Ironmouse, koncept epebe, projekt i grafika Rosuuri. To potwierdzenie udziału vtuberki u samego wydawcy."
+        },
+        "noImage": "Brak filmu Ironmouse na YouTube i newsroomu wydawcy z warunkami dla mediów; osadzamy oficjalny post gry.",
+        "slot": "15:00"
+      }
+    ]
   },
   "2026-10-13": {
     "date": "2026-10-13",
