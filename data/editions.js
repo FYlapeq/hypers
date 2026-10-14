@@ -1,5 +1,100 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-14": {
+    "date": "2026-10-14",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Taco Hemingway",
+        "initials": "TH",
+        "category": "Kolaboracja",
+        "hype": 4,
+        "title": "Taco Hemingway odpowiada inspektorowi farmaceutycznemu w numerze z Fiszem Emade",
+        "summary": "W „Impulsach” z nowej płyty Fisz Emade Tworzywo Taco Hemingway wraca do decyzji Głównego Inspektoratu Farmaceutycznego w sprawie piosenki „Zakochałem się pod apteką”. Zarzuca urzędowi, że nie rozumie wolności artystycznej ani podmiotu lirycznego.",
+        "body": [
+          "Album Fisz Emade Tworzywo „Człowiek nie do końca” ukazał się 12 października 2026 roku. Gościnnie pojawia się na nim Taco Hemingway w utworze „Impulsy”, który zespół pokazał już przy zapowiedzi płyty.",
+          "W swojej zwrotce Taco odnosi się do sprawy z wiosny tego roku. Główny Inspektorat Farmaceutyczny uznał wtedy, że nazwa leku z kodeiną w piosence „Zakochałem się pod apteką” to niedozwolona reklama produktu leczniczego. W cyfrowej wersji utworu nazwę leku wyciszono, a wytwórnia zaskarżyła decyzję.",
+          "Według CGM.pl i Interii raper zarzuca inspektorowi, że nie wie, czym jest wolność artystyczna, i że utożsamia podmiot liryczny z autorem. Szerzej pisze też o tym, jak dziś czyta się i interpretuje kulturę.",
+          "Popkiller i CGM.pl opisały odpowiedź Taco 13 października, dzień po premierze albumu. Spór o „Zakochałem się pod apteką” wrócił w ten sposób na płycie, a nie w oświadczeniu czy wywiadzie."
+        ],
+        "sources": [
+          {
+            "name": "Popkiller",
+            "url": "https://popkiller.pl/2026-10-13,taco-hemingway-odpowiada-gif-owi-na-albumie-fisza-i-emade"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/taco-hemingway-odpowiada-gif-owi-w-nowym-numerze-inspektor-nie-wie-czym-jest-wolnosc-artystyczna/"
+          },
+          {
+            "name": "Interia Muzyka",
+            "url": "https://muzyka.interia.pl/hip-hop/news-taco-hemingway-po-kilku-miesiacach-powraca-do-glosnej-afery,nId,23557391"
+          },
+          {
+            "name": "YouTube: Fisz Emade feat. Taco Hemingway – Impulsy",
+            "url": "https://www.youtube.com/watch?v=uVMnGWPjrR4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=uVMnGWPjrR4",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/uVMnGWPjrR4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/uVMnGWPjrR4/hqdefault.jpg",
+          "credit": "Fisz Emade / YouTube",
+          "href": "https://www.youtube.com/watch?v=uVMnGWPjrR4",
+          "alt": "Miniatura utworu „Impulsy” Fisza Emade z gościnnym udziałem Taco Hemingwaya",
+          "caption": "Kadr z publikacji utworu „Impulsy” na YouTube"
+        },
+        "caption": {
+          "credit": "Fisz Emade / YouTube",
+          "text": "To utwór, w którym Taco Hemingway odpowiada Głównemu Inspektoratowi Farmaceutycznemu. „Impulsy” promowały album „Człowiek nie do końca”, wydany 12 października."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
+        "who": "Gimper",
+        "initials": "G",
+        "category": "Rodzina",
+        "hype": 4,
+        "title": "Gimper oświadczył się na Broadwayu po musicalu „Hamilton”",
+        "summary": "Tomasz „Gimper” Działowy pokazał na Instagramie, że poprosił o rękę Karolinę Ząbek, znaną w sieci jako Zombkeee. Oświadczyny odbyły się w Nowym Jorku, po spektaklu „Hamilton” na Broadwayu.",
+        "body": [
+          "We wtorek wieczorem Gimper opublikował na Instagramie zdjęcia z oświadczyn. Jego partnerka Karolina Ząbek, w sieci Zombkeee, powiedziała „tak”.",
+          "Para była w Nowym Jorku, a oświadczyny odbyły się na Broadwayu po musicalu „Hamilton”, który youtuber pochwalił w opisie posta.",
+          "W opisie Gimper napisał, że nigdy nie czuł się szczęśliwszy, i nazwał partnerkę najcieplejszą osobą, jaką zna, a także swoim wsparciem, doradczynią, towarzyszką podróży i najlepszą przyjaciółką.",
+          "Według Pudelka kulisy wyjazdu i oświadczyn youtuber ma pokazać w odcinku swojego programu „Zgrzyt”."
+        ],
+        "sources": [
+          {
+            "name": "Instagram Gimpera",
+            "url": "https://www.instagram.com/p/Decf9rKD4a8/",
+            "origin": true
+          },
+          {
+            "name": "Pudelek",
+            "url": "https://www.pudelek.pl/gimper-oswiadczyl-sie-ukochanej-na-broadwayu-nigdy-w-calym-zyciu-nie-czulem-sie-bardziej-szczesliwy-7339696595638752a"
+          },
+          {
+            "name": "Świat Gwiazd",
+            "url": "https://swiatgwiazd.pl/gimper-oswiadczyl-sie-swojej-ukochanej-wybral-wyjatkowe-miejsce-ms-wmk-131026"
+          }
+        ],
+        "embed": "https://www.instagram.com/p/Decf9rKD4a8/",
+        "caption": {
+          "credit": "Gimper / Instagram",
+          "text": "Post, w którym Gimper ogłosił zaręczyny. Zdjęcia pochodzą z Nowego Jorku, gdzie para była na musicalu „Hamilton”."
+        },
+        "noImage": "brak filmu na YouTube o oświadczynach; osadzony oryginalny post twórcy",
+        "slot": "7:00"
+      }
+    ],
+    "czapy": []
+  },
   "2026-10-13": {
     "date": "2026-10-13",
     "ryby": [],

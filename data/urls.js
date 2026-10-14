@@ -1,5 +1,11 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-14": {
+  "luz": [
+   "artykuly/2026-10-14/taco-hemingway-odpowiada-inspektorowi-farmaceutycznemu-w-numerze.html",
+   "artykuly/2026-10-14/gimper-oswiadczyl-sie-na-broadwayu-po-musicalu-hamilton.html"
+  ]
+ },
  "2026-10-13": {
   "luz": [
    "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",
