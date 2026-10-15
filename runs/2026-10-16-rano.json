@@ -1,0 +1,1539 @@
+{
+ "run": {
+  "date": "2026-10-16",
+  "slot": "rano",
+  "generated_at": "2026-10-15T22:01:09.773Z",
+  "candidates": 88,
+  "with_free_image": 32
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 0 (li: 8, próbka: .mw-parser-output .portal-sekcja{clear:both;text-align:left;margin-top:1em;margin-bottom:1em;border:1px solid #aaa;border-radius:15px;overflow:hidden}.mw-parser-output .portal-naglowek{clear:both;margin-top:0;padding:0.5em;border-bottom:1px solid #aaa;font-size:1.3em;font-weight:bold;border-radius:1)",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 0 (li: 20, próbka: .mw-parser-output .portal-sekcja{clear:both;text-align:left;margin-top:1em;margin-bottom:1em;border:1px solid #aaa;border-radius:15px;overflow:hidden}.mw-parser-output .portal-naglowek{clear:both;margin-top:0;padding:0.5em;border-bottom:1px solid #aaa;font-size:1.3em;font-weight:bold;border-radius:1)",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 134",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4240"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Greg Packer: A man on the street, no matter which street you're talking about.",
+   "article": {
+    "title": "Greg Packer",
+    "url": "https://en.wikipedia.org/wiki/Greg_Packer",
+    "extract": "Gregory F. Packer (born December 18, 1963) is a retired American highway maintenance worker from Huntington, New York, best known for frequently being quoted as a \"man on the street\" in newspapers, magazines and television broadcasts from 1995 to the present. He has been quoted in hundreds of articles and television broadcasts as a member of the public (that is, a \"man on the street\" rather than a newsmaker or expert). Although he always gives his real name, he has admitted to making things up to get into the paper.\nPacker's status as a frequent interviewee is due to a number of factors, including seeking out members of the press and appearing friendly, although mostly it is due to his hobby of attending public appearances of celebrities and other media events and attempting to be first in line on such occasions."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2026 Clacton by-election: Nigel Farage resigned as MP so he could run again, but his only serious opponent was an unserious opponent.",
+   "article": {
+    "title": "2026 Clacton by-election",
+    "url": "https://en.wikipedia.org/wiki/2026_Clacton_by-election",
+    "extract": "A by-election for the United Kingdom parliamentary constituency of Clacton was held on 13 August 2026, following the resignation of Nigel Farage, its member of Parliament. Farage, who is the leader of Reform UK, had represented Clacton since the 2024 general election. He announced on 7 July 2026 that he would vacate his seat to trigger a by-election and re-contest the constituency; his resignation was accepted the next day. The announcement came amid parliamentary scrutiny of Farage's personal finances, and allegations concerning undeclared gifts and support."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 3.0 (File:Official portrait of Nigel Farage MP crop 2.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hằng Nga Guesthouse: Vietnam's most fantastical building?",
+   "article": {
+    "title": "Hằng Nga Guesthouse",
+    "url": "https://en.wikipedia.org/wiki/H%E1%BA%B1ng_Nga_Guesthouse",
+    "extract": "Hằng Nga guesthouse (Vietnamese: Biệt thự Hằng Nga), popularly known as the “Crazy House” (Vietnamese: Ngôi nhà quái dị), is an unconventional building designed and constructed by Vietnamese architect Đặng Việt Nga in Đà Lạt, Vietnam.\nDescribed as a “fairy tale house” (Hằng Nga, chữ Hán: 姮娥, is the Chinese goddess of the Moon), the building's overall design resembles a giant tree, incorporating sculptured design elements representing natural forms such as animals, mushrooms, spider webs and caves. Its architecture, comprising complex, organic, non-rectilinear shapes, has been described as expressionist. Nga has acknowledged the inspiration of Catalan architect Antoni Gaudí in the building's design, and visitors have variously drawn parallels between it and the works of artists such as Salvador Dalí and Walt Disney."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/HangNgaCrazyHouse3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HangNgaCrazyHouse3.jpg",
+    "file": "File:HangNgaCrazyHouse3.jpg",
+    "artist": "Kelisi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1200,
+    "height": 1600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c4",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Barbarossa (card game): A WW2 themed card game that replaces all units with half-naked anime girls, including Moustache Man Himself.",
+   "article": {
+    "title": "Barbarossa (card game)",
+    "url": "https://en.wikipedia.org/wiki/Barbarossa_(card_game)",
+    "extract": "Barbarossa is a 2010 Japanese deck-building game published by Arclight Games. Set in an alternate history of the Eastern Front of World War II, the game features moe, anime-styled female Nazi and Soviet forces. A 2016 sequel to the game, El Alamein, is set in the North African campaign. Arclight has released alternative versions of both games replacing the anime-styled art with historical photographs."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Natsuki Takaya requested that the second anime adaptation of her manga series Fruits Basket be done with an entirely different team than the first one?",
+   "article": {
+    "title": "Natsuki Takaya",
+    "url": "https://en.wikipedia.org/wiki/Natsuki_Takaya",
+    "extract": "Natsuki Takaya (Japanese: 高屋奈月, Hepburn: Takaya Natsuki; born July 7, 1973) is a Japanese manga artist. She is best known for creating the manga series Fruits Basket, which was serialized in Hana to Yume from 1998 to 2006. The series received a Kodansha Manga Award in the shōjo manga category in 2001 and won the American Anime Awards in the Manga category in 2007.\nTakaya began her professional career in 1991 with the short story \"Sickly Boy wa Hi ni Yowai\"."
+   },
+   "related": [
+    "Fruits Basket"
+   ],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Neitokainen: This isn't just any pond in Finland, this is a pond in Finland that looks exactly like Finland!",
+   "article": {
+    "title": "Neitokainen",
+    "url": "https://en.wikipedia.org/wiki/Neitokainen",
+    "extract": "Neitokainen (also called Neitojärvi or Finlantto) is an artificial pond in Finland. It was constructed in the municipality of Kittilä on the slope of Vesikkovaara in 1991. It is known for being shaped in the cartographic form of Finland. \nThe length of the pond is 116 meters (381 ft) and the average depth is one meter."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Neitokainen from above in Kittilä, Lapland, Finland, 2023 September.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pompatus: All Steve Miller's fault.",
+   "article": {
+    "title": "Pompatus",
+    "url": "https://en.wikipedia.org/wiki/Pompatus",
+    "extract": "Pompatus (or Pompitus) () is a nonce word coined by Steve Miller in his song “Enter Maurice” (1972)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gore effect: Whereby it gets colder when climate change campaigners come to town.",
+   "article": {
+    "title": "Gore effect",
+    "url": "https://en.wikipedia.org/wiki/Gore_effect",
+    "extract": "The Gore effect or Al Gore effect is the coincidental, non-causative occurrence of unseasonably cold weather with some events associated with global warming activism, particularly those attended by former US Vice President and Presidential Candidate Al Gore. The term was coined and used, sometimes humorously, by global warming deniers."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Blood as food: Not only vampires are consuming blood, somewhere.",
+   "article": {
+    "title": "Blood as food",
+    "url": "https://en.wikipedia.org/wiki/Blood_as_food",
+    "extract": "Blood is used as food in many religions and cultures, often in combination with meat. The blood may be in the form of blood sausage or other solidified form, as a thickener for sauces, a cured salted form for times of food scarcity, or in a blood soup. This is a product from domesticated animals, obtained at a place and time where the blood can run into a container and be swiftly consumed or processed. In many cultures, the animal is slaughtered."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Pig's blood cakes.jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lake Nyos: A lake in northwestern Cameroon that released gas in 1986, killing 1,746 people. One of three known gassy lakes, the others being Lake Monoun and Lake Kivu.",
+   "article": {
+    "title": "Lake Nyos",
+    "url": "https://en.wikipedia.org/wiki/Lake_Nyos",
+    "extract": "Lake Nyos ( NEE-ohs) is a crater lake in the Northwest Region of Cameroon, located about 315 km (196 mi) northwest of Yaoundé, the capital. Nyos is a deep lake high on the flank of an inactive volcano in the Oku volcanic plain along the Cameroon line of volcanic activity. A volcanic dam impounds the lake waters.\nA pocket of magma lies beneath the lake and leaks carbon dioxide (CO2) into the water, changing it into carbonic acid."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nyos_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nyos_Lake.jpg",
+    "file": "File:Nyos Lake.jpg",
+    "artist": "Jack Lockwood, USGS",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 428,
+    "ok": true
+   }
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Spaghettification: Not as delicious as it sounds.",
+   "article": {
+    "title": "Spaghettification",
+    "url": "https://en.wikipedia.org/wiki/Spaghettification",
+    "extract": "In astrophysics, spaghettification, or noodle effect is the vertical stretching and horizontal compression of objects into long thin shapes in a very strong, non-homogeneous gravitational field. The term was popularized by Stephen Hawking who described the flight of a fictional astronaut who, passing within a black hole's event horizon, is \"stretched like spaghetti\". It is caused by extreme tidal forces. In the most extreme cases, near a black hole, the stretching and compression are so powerful that no object can resist it."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Spaghettification_%28from_NASA%27s_Imagine_the_Universe%21%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Spaghettification_(from_NASA%27s_Imagine_the_Universe!).png",
+    "file": "File:Spaghettification (from NASA's Imagine the Universe!).png",
+    "artist": "Laura A. Whitlock, Kara C. Granger, Jane D. Mahon",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 732,
+    "height": 914,
+    "ok": true
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wonders of the East: An Old English text from a millennium ago, all about the various creatures that can supposedly be found in Asia. These apparently include dragons, giant ants, hens which burn people, human-donkey hybrids and humans with fan-like ears that cover their entire bodies.",
+   "article": {
+    "title": "Wonders of the East",
+    "url": "https://en.wikipedia.org/wiki/Wonders_of_the_East",
+    "extract": "The Old English Wonders of the East (or Marvels of the East) is a prose text from around AD 1000. It is accompanied by many illustrations in the two manuscripts in which it appears. It describes a variety of odd, magical and barbaric creatures that inhabit Eastern regions, such as Babylonia, Persia, Egypt, and India. The earlier manuscript is the famous Nowell Codex, which is also the only manuscript containing Beowulf."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Scientific_Miscellany_-_Marvels_of_the_East_-_Panotii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Scientific_Miscellany_-_Marvels_of_the_East_-_Panotii.jpg",
+    "file": "File:Scientific Miscellany - Marvels of the East - Panotii.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 446,
+    "height": 545,
+    "ok": true
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Huh Kyung-young: A perennial South Korean political candidate who owns a palace filled with portraits of himself, claims to be able to levitate and teleport, and that he has an IQ of 430. Got 0.8% of the vote for President in 2022.",
+   "article": {
+    "title": "Huh Kyung-young",
+    "url": "https://en.wikipedia.org/wiki/Huh_Kyung-young",
+    "extract": "Huh Kyung-young (Korean: 허경영; born July 13, 1947) is a South Korean politician, founder of the National Revolutionary Party, cult leader, and singer."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Huhkyungyoungin2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Huhkyungyoungin2021.png",
+    "file": "File:Huhkyungyoungin2021.png",
+    "artist": "E허경영세상",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 420,
+    "height": 496,
+    "ok": true
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mystery meat navigation: The process of not telling you what you're about to click on.",
+   "article": {
+    "title": "Mystery meat navigation",
+    "url": "https://en.wikipedia.org/wiki/Mystery_meat_navigation",
+    "extract": "Mystery meat navigation (MMN) is a form of web navigation user interface whereby the target of each link is not visible until the user points their cursor at it. Such interfaces lack a user-centered design, emphasizing aesthetic appearance, white space, and the concealment of information over practicality and functionality. The term was coined in 1998 by Vincent Flanders, author of the book and accompanying website Web Pages That Suck."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Moon_by_Helmut_Adler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Moon_by_Helmut_Adler.jpg",
+    "file": "File:Moon by Helmut Adler.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 800,
+    "height": 800,
+    "ok": true
+   }
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eduard Khil: Our eternal Mr. Trololo.",
+   "article": {
+    "title": "Eduard Khil",
+    "url": "https://en.wikipedia.org/wiki/Eduard_Khil",
+    "extract": "Eduard Anatolyevich Khil (Russian: Эдуард Анатольевич Хиль, Russian pronunciation: [ɨdʊˈart ɐnɐˈtolʲjɪvʲɪtɕ ˈxʲilʲ]; 4 September 1934 – 4 June 2012), often anglicized as Edward Hill, was a Russian baritone singer.\nKhil became known to international audiences in 2010, when a 1976 clip of him singing a non-lexical vocable version of the song \"I Am Very Glad, As I Am Finally Returning Back Home\" (Russian: \"Я очень рад, ведь я, наконец, возвращаюсь домой\", romanized: \"Ya ochen' rad, ved' ya, nakonets, vozvrashchayus' domoy\") became an Internet meme, often referred to as \"Trololol\" or \"Trololo\", or as the \"Russian Rickroll\", and the song became associated with Internet trolling. The song's newfound prominence in Internet culture led him to adopt Mr. Trololo as a stage name."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_%D0%A5%D0%B8%D0%BB%D1%8C_%2817-11-2007%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_%D0%A5%D0%B8%D0%BB%D1%8C_(17-11-2007)_(cropped).jpg",
+    "file": "File:Эдуард Хиль (17-11-2007) (cropped).jpg",
+    "artist": "Владимир Вяткин",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 861,
+    "height": 1147,
+    "ok": true
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Turnspit dog: An extinct dog breed created specifically to run on wheels used to power a spinning machine used to roast meat.",
+   "article": {
+    "title": "Turnspit dog",
+    "url": "https://en.wikipedia.org/wiki/Turnspit_dog",
+    "extract": "The turnspit dog was a short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat as it cooked. It is mentioned in Of English Dogs in 1576 under the name \"Turnespete\". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It was also known as the Kitchen Dog, the Cooking Dog, or the Wheeling Dog."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Turnspit_Dog_Working.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Turnspit_Dog_Working.jpg",
+    "file": "File:Turnspit Dog Working.jpg",
+    "artist": "Henry Wigstead",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1157,
+    "height": 762,
+    "ok": true
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pandanus language: \"Don't use regular words, you'll ruin the screwpine nuts.\" A prime example of an avoidance language.",
+   "article": {
+    "title": "Pandanus language",
+    "url": "https://en.wikipedia.org/wiki/Pandanus_language",
+    "extract": "A pandanus language is an elaborate avoidance language among several of the peoples of the eastern New Guinea Highlands, used when collecting Pandanus nuts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pandanus_julianettii_nuts.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pandanus_julianettii_nuts.png",
+    "file": "File:Pandanus julianettii nuts.png",
+    "artist": "LISYE IRIANA ZEBUA Departement of Biology, Faculty of Mathematic and Natural Science, Cenderawasih University, Kampus Ba",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 435,
+    "height": 339,
+    "ok": true
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wikigacha: Wikipedia… as a gacha game. It's just as insane as you think it sounds.",
+   "article": {
+    "title": "Wikigacha",
+    "url": "https://en.wikipedia.org/wiki/Wikigacha",
+    "extract": "Wikigacha, also known as Wikipedia Gacha, is an online gacha trading card game by the Japanese developer Harusugi. It allows players to collect trading cards adapted from articles on Wikipedia, and use them in battle. The game was received positively by players and critics, who highlighted the combination of card collecting with Wikipedia's variety of articles."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wikigacha_main_page.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wikigacha_main_page.png",
+    "file": "File:Wikigacha main page.png",
+    "artist": "Legovedw",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 866,
+    "height": 885,
+    "ok": true
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dublin whiskey fire: In 1875, a whiskey brewery warehouse in Dublin caught fire leading to the deaths of 13 people—not from the fire, but from alcohol poisoning as they drank free, undiluted whiskey from the streets.",
+   "article": {
+    "title": "Dublin whiskey fire",
+    "url": "https://en.wikipedia.org/wiki/Dublin_whiskey_fire",
+    "extract": "On the night of 18 June 1875 a fire broke out in a whiskey storehouse in the Liberties area of Dublin. The escaped whiskey formed a burning river six inches (15 cm) deep that is said to have flowed as far as the Coombe, destroying 35 houses and killing several pigs. While there were no human fatalities as a direct result of the fire or flood, 13 people died of alcohol poisoning after drinking from the stream of whiskey, which was of undiluted cask strength. Total property damage was estimated at over £100,000, of which the lost whiskey constituted £54,000."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Whiskey_Fire_Dublin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Whiskey_Fire_Dublin.png",
+    "file": "File:Whiskey Fire Dublin.png",
+    "artist": "Illustrated London News",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 908,
+    "height": 666,
+    "ok": true
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Plastic bicycle: It seems that making bikes out of plastic is not a recipe for success.",
+   "article": {
+    "title": "Plastic bicycle",
+    "url": "https://en.wikipedia.org/wiki/Plastic_bicycle",
+    "extract": "A plastic bicycle is a bicycle constructed from plastic or a plastic composite material, rather than from metal. \nIn the 1970s and early 1980s, experimental plastic bicycles were developed and the Itera was produced in significant numbers, but they failed commercially. In the 21st century, developments in the technology have made reinforced plastic composites, especially carbon fibre, widely used for high-end racing bicycles."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Itera_plastic_bicycle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Itera_plastic_bicycle.jpg",
+    "file": "File:Itera plastic bicycle.jpg",
+    "artist": "No machine-readable author provided. Racerbyce assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 480,
+    "ok": true
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Nyah nyah nyah nyah nyah nyah\": If you can see someone's underwear, here's the tune to tell them by.",
+   "article": {
+    "title": "Nyah nyah nyah nyah nyah nyah",
+    "url": "https://en.wikipedia.org/wiki/Nyah_nyah_nyah_nyah_nyah_nyah",
+    "extract": "\"Nyah nyah nyah nyah nyah nyah\" is the lexigraphic representation of a common children's chant. It is a rendering of one common vocalization for a six-note musical figure that is usually associated with children and found in many European-derived cultures, and which is often used in taunting."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nyah_nyah_nyah_music_notation.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nyah_nyah_nyah_music_notation.png",
+    "file": "File:Nyah nyah nyah music notation.png",
+    "artist": "The world's children, presumably",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 343,
+    "height": 115,
+    "ok": true
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Titivillus: The patron demon of scribes, responsible for many errors.",
+   "article": {
+    "title": "Titivillus",
+    "url": "https://en.wikipedia.org/wiki/Titivillus",
+    "extract": "In Christianity, Titivillus is a demon said to collect errors in the work of scribes. Titivillus has also been described as collecting idle chat that occurs during church service, as well as any mispronounced, mumbled or skipped words of the service, to take to Hell to be counted against the offenders. The first reference to Titivillus by name occurred in Tractatus de Penitentia, c. 1285, by Johannes Galensis (John of Wales). Attribution has also been given to Caesarius of Heisterbach."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Titivillus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Titivillus.jpg",
+    "file": "File:Titivillus.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 945,
+    "height": 1042,
+    "ok": true
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "American Civil War widows who survived into the 21st century: Four women achieved this feat through very large age gaps with their husbands.",
+   "article": {
+    "title": "American Civil War widows who survived into the 21st century",
+    "url": "https://en.wikipedia.org/wiki/American_Civil_War_widows_who_survived_into_the_21st_century",
+    "extract": "At least four widows of veterans of the American Civil War (fought 1861–1865) are known to have survived into the 21st century. All were born in the 20th century and married their husbands while the women were still young and the men were in advanced age. This practice was not uncommon at the time due to the possibility of receiving pensions as dependents of Civil War veterans; the pensions were known for their generosity. Some of these unions were in name only, while others lived together as married couples."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/William_and_Maudie_Cantrell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:William_and_Maudie_Cantrell.jpg",
+    "file": "File:William and Maudie Cantrell.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 500,
+    "height": 710,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gerbilling: An urban legend about a sexual practice purportedly conducted. It was made popular by South Park.",
+   "article": {
+    "title": "Gerbilling",
+    "url": "https://en.wikipedia.org/wiki/Gerbilling",
+    "extract": "Gerbilling, also known as gerbil stuffing or gerbil shooting, is the alleged sexual practice of inserting a gerbil or other small rodent into one's rectum to obtain stimulation. Gerbilling is considered an urban legend and there is no evidence that the practice has ever occurred in real life. Its existence remains highly dubious, as all rodents have long nails and teeth for digging or burrowing and naturally try to burrow out of any small spaces."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/2008-02-16_Mongolian_gerbil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2008-02-16_Mongolian_gerbil.jpg",
+    "file": "File:2008-02-16 Mongolian gerbil.jpg",
+    "artist": "Gophi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cultural depictions of Napoleon: Fictional characters believing they are Napoleon are often used to suggest ill mental health.",
+   "article": {
+    "title": "Cultural depictions of Napoleon",
+    "url": "https://en.wikipedia.org/wiki/Cultural_depictions_of_Napoleon",
+    "extract": "Napoleon I, Emperor of the French, has become a worldwide cultural icon generally associated with tactical brilliance, ambition, and political power. His distinctive features and costume have made him a very recognisable figure in popular culture. A major figure in history of France and Europe, Napoleon is known for the scope of his military conquests as well as his ultimate defeats. His two exiles provide further historical intrigue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Napoleon_in_1806.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Napoleon_in_1806.PNG",
+    "file": "File:Napoleon in 1806.PNG",
+    "artist": "Édouard Detaille",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1740,
+    "ok": true
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mockbuster: Not the movie you want, but the bargain-bin equivalent.",
+   "article": {
+    "title": "Mockbuster",
+    "url": "https://en.wikipedia.org/wiki/Mockbuster",
+    "extract": "A mockbuster, also known as knockbuster, is a film created to exploit the publicity of another major motion picture with a similar title or subject. Mockbusters are often made with a low budget and quick production to maximize profits. The term is a portmanteau of the words \"mock\" or \"knock\" and \"blockbuster\".\nUnlike films produced to capitalize on the popularity of a recent release by adopting similar genres or storytelling elements, mockbusters are generally produced concurrently with upcoming films and released direct-to-video around the time the film they are inspired by is released."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Small_collection_of_mockbuster_DVDs.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Small_collection_of_mockbuster_DVDs.png",
+    "file": "File:Small collection of mockbuster DVDs.png",
+    "artist": "The Youth Channel",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 454,
+    "height": 504,
+    "ok": true
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "I've got your nose: Spare a thought for the millions of children worldwide whose noses have been stolen.",
+   "article": {
+    "title": "I've got your nose",
+    "url": "https://en.wikipedia.org/wiki/I%27ve_got_your_nose",
+    "extract": "I've got your nose is a children's game in which a person pretends to pluck and remove the nose from the face of a toddler by showing an object supposedly representing the stolen body part. The trick or prank is meant as an illusion, since a person cannot easily observe the status of their own nose."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Gesture_fist_with_thumb_through_fingers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gesture_fist_with_thumb_through_fingers.jpg",
+    "file": "File:Gesture fist with thumb through fingers.jpg",
+    "artist": "User Jeremykemp on en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 400,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn: Angus McDiarmad, a native Scots-Gaelic speaker, writes a book on a Scottish Highland area with the help of an English dictionary to great comic effect and is termed \"the world's worst author\".",
+   "article": {
+    "title": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn",
+    "url": "https://en.wikipedia.org/wiki/Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn",
+    "extract": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn, also published as A Description of the Beauties of Edinample and Lochearnhead, is a short book by the Scottish writer Angus McDiarmid (fl. early 19th century) that led the local history populariser Archie McKerracher to call him \"the world's worst author\".\nThe book is poorly written and has been humorously criticized by readers. The main text describes the scenery near Lochearnhead, including landmarks and local history."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Striking_and_Picturesque_Delineations_of_the_Grand%2C_Beautiful%2C_Wonderful%2C_and_Interesting_Scenery_Around_Loch-Earn_%28Book_Cover%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn_(Book_Cover).png",
+    "file": "File:Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn (Book Cover).png",
+    "artist": "Angus McDiarmid",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1025,
+    "height": 1795,
+    "ok": true
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Old Man of the Mountain: A rock formation in northern New Hampshire resembling the side profile of a person. Collapsed in 2003, but is immortalized on the state's license plates, highway signs and state quarter.",
+   "article": {
+    "title": "Old Man of the Mountain",
+    "url": "https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain",
+    "extract": "The Old Man of the Mountain, also called the Great Stone Face and the Profile, was a series of five granite cliff ledges on Cannon Mountain in Franconia, New Hampshire, United States, that appeared to be the jagged profile of a human face when viewed from the north. The rock formation, 1,200 feet (370 m) above Profile Lake, was 40 feet (12 m) tall and 25 feet (7.6 m) wide.\nThe Old Man of the Mountain is called \"Stone Face\" by the Abenaki and is a symbol within their culture. It is also a symbol to the Mohawk people."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Mountain_4-26-03_(cropped).jpg",
+    "file": "File:Old Man of the Mountain 4-26-03 (cropped).jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 303,
+    "height": 412,
+    "ok": true
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kanchō: Popular among East Asian children, this \"game\" is played by going up to someone and sneakily poking them in the ass.",
+   "article": {
+    "title": "Kanchō",
+    "url": "https://en.wikipedia.org/wiki/Kanch%C5%8D",
+    "extract": "Kanchō (カンチョー; pronounced [kaɲtɕoː]) is a prank performed by clasping the hands together in the shape of a finger gun and poking the anus of an unsuspecting person, often while exclaiming \"Kan-cho!\" It is a common prank in East Asian countries such as Japan. In Korea, it is called ttongchim (똥침; 똥針, pronounced [t͈oŋ.tɕʰim]), and in China, qiānnián shā (千年殺, \"thousand-year kill\" or \"immortal kill\"). The word \"kanchō\" is a slang adoption of the Japanese word for enema (浣腸, kanchō). In accordance with widespread practice, the word is generally written in katakana when used in its slang sense and in kanji when used for enemas in the medical sense."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kancho_2021-08-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kancho_2021-08-20.jpg",
+    "file": "File:Kancho 2021-08-20.jpg",
+    "artist": "Asanagi",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 650,
+    "height": 366,
+    "ok": true
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "National Fisheries Development Board building: Mimetic architecture in Hyderabad: a building shaped like a humongous fish.",
+   "article": {
+    "title": "National Fisheries Development Board building",
+    "url": "https://en.wikipedia.org/wiki/National_Fisheries_Development_Board_building",
+    "extract": "The National Fisheries Development Board building, located in Hyderabad, India, is the headquarters of the eponymous National Fisheries Development Board. The building is notable as a unique example of mimetic or novelty architecture, being designed in the shape of a gigantic fish.\nThe Building was designed and conceptualized by Central Public Works Department (CPWD).\nThe four-storey building was officially opened in April 2012, and was reportedly inspired by Frank Gehry's monumental 'Fish' sculpture in Olympic Village, Barcelona which was completed in 1992."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Fish_shaped_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fish_shaped_building.jpg",
+    "file": "File:Fish shaped building.jpg",
+    "artist": "Nagaraju raveender",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 399,
+    "ok": true
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Chanel suit of Jacqueline Kennedy: Made iconic by being worn during her husband's assassination.",
+   "article": {
+    "title": "Pink Chanel suit of Jacqueline Kennedy",
+    "url": "https://en.wikipedia.org/wiki/Pink_Chanel_suit_of_Jacqueline_Kennedy",
+    "extract": "Jacqueline Bouvier Kennedy was wearing a pink suit that was styled in the fashion of Chanel when her husband, U.S. president John F. Kennedy, was assassinated in Dallas, Texas, on November 22, 1963. She insisted on wearing the suit, stained with his blood, during the swearing-in of Lyndon B. Johnson that afternoon and for the flight back to Washington, D.C. Jacqueline Kennedy was a fashion icon, and the suit is the most referenced and revisited among her clothing items.\nMade of wool bouclé, the double-breasted raspberry pink and navy trim collared suit was matched with a trademark pink pillbox hat and white gloves. A long-time question among fashion historians and experts, about whether the suit was made by Chanel in France or a quality copy purchased from New York's semiannual Chez Ninon collections, was resolved by a Coco Chanel biographer, Justine Picardie."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_and_Mrs_Kennedy_deplane_from_Air_Force_One_%283083217259%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:President_and_Mrs_Kennedy_deplane_from_Air_Force_One_(3083217259)_(cropped).jpg",
+    "file": "File:President and Mrs Kennedy deplane from Air Force One (3083217259) (cropped).jpg",
+    "artist": "Cecil W. Stoughton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 356,
+    "height": 548,
+    "ok": true
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Greeble (psychology): Stimuli used in studies of object and face recognition with hilarious names.",
+   "article": {
+    "title": "Greeble (psychology)",
+    "url": "https://en.wikipedia.org/wiki/Greeble_(psychology)",
+    "extract": "The Greebles are artificial objects designed to be used as stimuli in psychological studies of object and face recognition. They were named by the American psychologist Robert Abelson. The greebles were created in 1996 by Scott Yu using AliasSketch! software (Macintosh version) for Isabel Gauthier's dissertation work at Yale University working with her PhD advisor, Michael Tarr."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Full_Greeble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Full_Greeble.jpg",
+    "file": "File:Full Greeble.jpg",
+    "artist": "Academicmercenary",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1028,
+    "height": 1028,
+    "ok": true
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2018 Slovakia v Denmark football match: Due to problems with the Danish players' union, the Danish football team had to play with amateur and futsal players.",
+   "article": {
+    "title": "2018 Slovakia v Denmark football match",
+    "url": "https://en.wikipedia.org/wiki/2018_Slovakia_v_Denmark_football_match",
+    "extract": "The 2018 Slovakia v Denmark football match was an international friendly association football match between the senior national teams of Slovakia and Denmark. The match took place on 5 September 2018 at the Anton Malatinský Stadium in Trnava, Slovakia. Due to a dispute with the Danish players' union regarding commercial rights, the Danish Football Union replaced the regular national squad, which had not lost a match in nearly two years, with an entirely uncapped squad consisting of semi-professional and amateur players from the third, fourth and fifth tiers of the Danish football league system, as well as futsal players. Despite the vast inexperience of the Danish players, and having only been called up 48 hours prior, the match only finished as a 3–0 win for Slovakia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CityArena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CityArena.jpg",
+    "file": "File:CityArena.jpg",
+    "artist": "Lolo8899",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 540,
+    "ok": true
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Babylonokia: A clay Nokia phone with cuneiform keys. Was once misrepresented as an actual artifact.",
+   "article": {
+    "title": "Babylonokia",
+    "url": "https://en.wikipedia.org/wiki/Babylonokia",
+    "extract": "Babylonokia (also Babylon-Nokia, Alien-Mobile, and Cuneiform Mobile Phone) is a 2012 artwork  by Karl Weingärtner in the form of a clay tablet shaped like a mobile phone, its keys and screen showing cuneiform script.\nWeingärtner created the work to represent the evolution of information transfer from the ancient world to the present. Fringe scientists and pseudoarchaeology proponents subsequently misrepresented a photograph of the artwork as showing an 800-year-old archaeological find; that story was popularised in a video on the YouTube channel Paranormal Crucible and led to the object being reported by some press sources as a mystery."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Babylonokia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Babylonokia.jpg",
+    "file": "File:Babylonokia.jpg",
+    "artist": "Karl Weingärtner (User:Kalligrafiemonk)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 645,
+    "height": 765,
+    "ok": true
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Testicle festival: \"Would you like to supersize those?\"",
+   "article": {
+    "title": "Testicle festival",
+    "url": "https://en.wikipedia.org/wiki/Testicle_festival",
+    "extract": "A testicle festival is an event where the featured activity is the consumption of animal testicles, usually battered and fried.\nThe oldest of such festivals takes place in Byron, Illinois, and features turkey testicles. Similar festivals in the US are held in Deerfield, Michigan; Olean, Missouri; Tiro, Ohio; Oakdale, California; Ashland, Nebraska; Huntley, Illinois; Stillwater, Oklahoma; Salmon, Idaho; Clinton, Montana; Suring, Wisconsin, Dundas, Wisconsin, LaValle, Wisconsin, Severance, Colorado, and Bentonville, Arkansas, some of which feature Rocky mountain oysters (cattle testicles). \nThe Montana State Society has held an annual Rocky Mountain Oyster Festival in Clinton, Montana, since 2005."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tiro_Testicle_Festival_-veal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tiro_Testicle_Festival_-veal_2.jpg",
+    "file": "File:Tiro Testicle Festival -veal 2.jpg",
+    "artist": "(WT-en) 2old at English Wikivoyage",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 478,
+    "height": 443,
+    "ok": true
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Darth Vader in Ukrainian politics: Yes, the Sith Lord himself has participated in elections in Ukraine. So much that a Lenin statue was modified to replicate his likeness.",
+   "article": {
+    "title": "Darth Vader in Ukrainian politics",
+    "url": "https://en.wikipedia.org/wiki/Darth_Vader_in_Ukrainian_politics",
+    "extract": "Since 2012, individuals adopting the name of the Star Wars character Darth Vader (Ukrainian: Дарт Вейдер) have entered local, presidential, and parliamentary elections in Ukraine. \"Vader\" also participated in political and social activism, notably in Odesa Oblast."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Darth_Alekseevich_Vader.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Darth_Alekseevich_Vader.jpg",
+    "file": "File:Darth Alekseevich Vader.jpg",
+    "artist": "Нопперабо",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 461,
+    "height": 531,
+    "ok": true
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Knights of the Golden Circle: A secret society of American slave masters that planned to invade lands in Latin America to spread their pro-slavery views.",
+   "article": {
+    "title": "Knights of the Golden Circle",
+    "url": "https://en.wikipedia.org/wiki/Knights_of_the_Golden_Circle",
+    "extract": "The Knights of the Golden Circle (KGC) was a secret society founded in 1854 by American George W. L. Bickley. Its objective was initially to expand the United States into Latin America, adding slave states and ensuring the permanent continuance of slavery. This later became a plan for the southern states to secede and then add Latin American territory. The \"golden circle\" referred to a circle of 16 degrees radius (about 2400 miles) centered on Havana, and covering territories whose climate was suitable for large-scale plantation agriculture."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/KGC_FLAG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:KGC_FLAG.png",
+    "file": "File:KGC FLAG.png",
+    "artist": "Okayama / Russia (Naval Ensign)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Die Glocke (conspiracy theory): An alleged bell-like device whose greatest power was fueling hundreds of \"Nazis with occult tech win WW2\" stories.",
+   "article": {
+    "title": "Die Glocke (conspiracy theory)",
+    "url": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)",
+    "extract": "Die Glocke (German: [diː ˈɡlɔkə], 'The Bell') was a purported top-secret scientific technological device, wonder weapon, or Wunderwaffe developed in the 1940s in Nazi Germany. Rumors of this device have persisted for decades after WW2 and were used as a plot trope in the fiction novel Lightning by Dean Koontz (1988), in the fiction television series 12 Monkeys (Season 4) and the multimedia franchise Assassin's Creed. First fully described by Polish journalist and author Igor Witkowski in Prawda o Wunderwaffe (2000), it was later popularized by military journalist and author Nick Cook, who associated it with Nazi occultism, anti-gravity, and free energy research. Mainstream reviewers have criticized claims about Die Glocke as being pseudoscientific, recycled rumors, and a hoax."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Die_Glocke_%28the_Nazi_Bell%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Die_Glocke_(the_Nazi_Bell).png",
+    "file": "File:Die Glocke (the Nazi Bell).png",
+    "artist": "Zusurs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 309,
+    "height": 403,
+    "ok": true
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ganesha drinking milk miracle: Hindu statues drinking milk.",
+   "article": {
+    "title": "Ganesha drinking milk miracle",
+    "url": "https://en.wikipedia.org/wiki/Ganesha_drinking_milk_miracle",
+    "extract": "The Ganesha drinking milk miracle was a phenomenon which occurred on 21 September 1995, in which statues of the Hindu deity Ganesha were observed to be drinking milk offerings. The event is considered one of the largest claimed mass miracle events in modern history, so much so that milk was sold out within hours.\nThe news spread very quickly as Hindus around the world tried to feed idols of Ganesha with milk, which attracted significant attention in Indian media. The phenomenon involved millions of Hindus worldwide, and was seen in India, Nepal, Malaysia, Europe, North America, Kenya, the UAE, and Fiji, amongst other regions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ganesh_with_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ganesh_with_flower.jpg",
+    "file": "File:Ganesh with flower.jpg",
+    "artist": "Greg Kidd from Oakland, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 960,
+    "height": 1280,
+    "ok": true
+   }
+  },
+  {
+   "id": "c41",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+   "article": {
+    "title": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+    "url": "https://www.atlasobscura.com/places/abandoned-agricultural-mill-in-poland",
+    "extract": "Tucked away in the Polish countryside stands an impressive early 20th-century agricultural mill complex that looks more like a grand estate than a heavy industrial facility. Dominated by a striking multi-story central tower with a decorative roof, the building represents a era when industrial architecture was built with notable aesthetic ambition. Inside, the structure retains an eerie atmosphere "
+   },
+   "published": "Thu, 15 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c42",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Iron Fountain Gyumri in Gyumri, Armenia",
+   "article": {
+    "title": "Iron Fountain Gyumri in Gyumri, Armenia",
+    "url": "https://www.atlasobscura.com/places/iron-fountain-gyumri",
+    "extract": "If you go there in late February, the gray sky matches the mood perfectly. You walk down the cracked concrete of what used to be a grand Soviet boulevard, passing decaying apartment blocks. Just behind some overgrown bushes which look like a makeshift camp. The scale of it is incredibly imposing. Designed by architect Artur Tarkhanyan in 1982. In 1988, a devastating earthquake leveled most of Gyum"
+   },
+   "published": "Thu, 15 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c43",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Milton College in Milton, Wisconsin",
+   "article": {
+    "title": "Milton College in Milton, Wisconsin",
+    "url": "https://www.atlasobscura.com/places/milton-college",
+    "extract": "When Milton College finally closed its doors in 1982, it was the oldest institution of higher education in Wisconsin, beating the University of Wisconsin by four years. The college was originally called Du Lac Academy when it was founded in 1844. Main Hall and Goodrich Hall (the original dorm) – built in 1855 and 1857, respectively – are still standing. Milton College was ahead of its time in admi"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c44",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grave of John Gray in Hiramsburg, Ohio",
+   "article": {
+    "title": "Grave of John Gray in Hiramsburg, Ohio",
+    "url": "https://www.atlasobscura.com/places/grave-of-john-gray",
+    "extract": "John Gray was born the oldest of eight children on January 6, 1764 on property belonging to George Washington near his Mt. Vernon estate. Clearly a loyal follower of Washington, his father enlisted on the side of the Patriots but was killed at the Battle of White Plains, leaving young John in charge of the family. He was just 13 years old. When he was 17, he joined the army and participated in the"
+   },
+   "published": "Thu, 15 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c45",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Rhossili Down Radar Station in Hillend, Wales",
+   "article": {
+    "title": "Rhossili Down Radar Station in Hillend, Wales",
+    "url": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+    "extract": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim of detecting low flying aircraft at 500 feet (150 m), early warning could then be sent to Swansea upon discovering incoming German bombers. "
+   },
+   "published": "Wed, 14 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c46",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Cross-legged’ in Pristina, Kosovo",
+   "article": {
+    "title": "‘Cross-legged’ in Pristina, Kosovo",
+    "url": "https://www.atlasobscura.com/places/cross-legged",
+    "extract": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation and the publicity it might bring to the Albanian cause. When Serbian police moved in to disperse the crowd with batons, everyone fled except"
+   },
+   "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Ta Kon Citadel in Vinh Son, Vietnam",
+   "article": {
+    "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-kon-citadel",
+    "extract": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters along the mountainside and towering up to 40 meters high. Composed of rectangular, hexagonal, and polygonal stone columns packed so tightly "
+   },
+   "published": "Wed, 14 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+   "article": {
+    "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
+    "extract": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest structure in Brooklyn, behind the Williamsburg Savings Bank, located in Downtown Brooklyn. The building was designed by Raymond F. Almirall, a prominent architect who trained at the Éc"
+   },
+   "published": "Wed, 14 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Art of Play in Brooklyn, New York",
+   "article": {
+    "title": "Art of Play in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
+    "extract": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzles, games, playing cards, mechanical toys, and objects designed to make grown-ups feel like curious children again. The shop also hosts a 26"
+   },
+   "published": "Tue, 13 Oct 2026 17:49:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thorla-McKee Well in Caldwell, Ohio",
+   "article": {
+    "title": "Thorla-McKee Well in Caldwell, Ohio",
+    "url": "https://www.atlasobscura.com/places/thorla-mckee-well",
+    "extract": "Find someone who loves you the way America loves petroleum. As of 2023, the United States is both the largest producer and consumer of oil, each day extracting some 23 million barrels and guzzling 20 million. It's become a meme at this point that if black gold is discovered in even the remotest location, American fighter jets aren't far behind to ensure whatever government there is friendly to US "
+   },
+   "published": "Tue, 13 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+   "article": {
+    "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+    "url": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
+    "extract": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Peruvian artist Luis Arias Vera, fills Plaza de la Hispanidad with an exuberant celebration of flight and the natural world. Arias Vera saw bir"
+   },
+   "published": "Tue, 13 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Steaming Tender Restaurant in Palmer, Massachusetts",
+   "article": {
+    "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
+    "url": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
+    "extract": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Seven Railroads\", and one location in Palmer helps explain why. When the Industrial Revolution and rail travel began in Massachusetts, Palmer "
+   },
+   "published": "Tue, 13 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+   "article": {
+    "title": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+    "url": "https://www.mentalfloss.com/literature/authors/why-jane-austen-first-novel-credited-to-a-lady?utm_source=RSS",
+    "extract": "Discover why Jane Austen’s first novel, \"Sense and Sensibility,\" was published as \"By a Lady\" and why she remained anonymous throughout her lifetime."
+   },
+   "published": "Thu, 15 Oct 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Strange Afterlife of Oscar Wilde's Library Card",
+   "article": {
+    "title": "The Strange Afterlife of Oscar Wilde's Library Card",
+    "url": "https://www.mentalfloss.com/literature/authors/strange-afterlife-oscar-wilde-library-card?utm_source=RSS",
+    "extract": "130 years after having his library card revoked, Oscar Wilde was able to posthumously receive a new one."
+   },
+   "published": "Thu, 15 Oct 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1960s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1960s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1960s-use-today?utm_source=RSS",
+    "extract": "More than six decades later, these 1960s slang terms remain part of our vocabulary and carry nearly the same meaning they did back then."
+   },
+   "published": "Thu, 15 Oct 2026 19:22:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+   "article": {
+    "title": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+    "url": "https://www.mentalfloss.com/history/tenzing-norgay-edmund-hillary-everest-summit?utm_source=RSS",
+    "extract": "Sir Edmund Hillary and Tenzing Norgay spent just 15 minutes at the summit of Mount Everest after becoming the first to survive the journey in 1953."
+   },
+   "published": "Thu, 15 Oct 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "25 Songs You Didn’t Know Were Written for Movies",
+   "article": {
+    "title": "25 Songs You Didn’t Know Were Written for Movies",
+    "url": "https://www.mentalfloss.com/entertainment/music/songs-didn-t-know-written-movies?utm_source=RSS",
+    "extract": "These iconic songs were written specifically for the silver screen!"
+   },
+   "published": "Thu, 15 Oct 2026 16:00:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+   "article": {
+    "title": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/friday-13th-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "Jason Voorhees has survived 12 movies, but he has never survived the critics. Here are all the 'Friday the 13th' films so far, ranked by their success on Rotten Tomatoes' Tomatometer."
+   },
+   "published": "Thu, 15 Oct 2026 14:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "How Likely Is Your State to Have a White Christmas in 2026?",
+   "article": {
+    "title": "How Likely Is Your State to Have a White Christmas in 2026?",
+    "url": "https://www.mentalfloss.com/geography/states/how-likely-your-state-have-white-christmas-2026?utm_source=RSS",
+    "extract": "And which major city in each state has the best chance of seeing snow on Christmas Day."
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Famous Celebrities You Didn't Know Had a Twin",
+   "article": {
+    "title": "20 Famous Celebrities You Didn't Know Had a Twin",
+    "url": "https://www.mentalfloss.com/entertainment/famous-celebrities-didn-t-know-had-a-twin?utm_source=RSS",
+    "extract": "Some of your favorite celebrities have a twin sibling you probably never knew about."
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Scariest Movie the Year You Were Born",
+   "article": {
+    "title": "The Scariest Movie the Year You Were Born",
+    "url": "https://www.mentalfloss.com/entertainment/movies/scariest-movie-year-born?utm_source=RSS",
+    "extract": "Discover the scariest movie released the year you were born, from 1950s creature features to iconic 2000s slashers. Find your birth-year horror hit!"
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Spiritual Meaning of Angel Number 838",
+   "article": {
+    "title": "The Spiritual Meaning of Angel Number 838",
+    "url": "https://www.mentalfloss.com/random-facts/angel-number-838-meaning?utm_source=RSS",
+    "extract": "This number is said to be a great sign, especially if you're an artist or creative. Learn more about the meaning of angel number 838."
+   },
+   "published": "Wed, 14 Oct 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Snowiest Month in Every State for 2026, Mapped",
+   "article": {
+    "title": "The Snowiest Month in Every State for 2026, Mapped",
+    "url": "https://www.mentalfloss.com/science/weather/snowiest-month-by-state-2026-map?utm_source=RSS",
+    "extract": "Discover the snowiest month in every state, from New Mexico’s December peak to March storms in the West."
+   },
+   "published": "Wed, 14 Oct 2026 20:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Best Cities in the World for 2026, Ranked",
+   "article": {
+    "title": "The 10 Best Cities in the World for 2026, Ranked",
+    "url": "https://www.mentalfloss.com/geography/cities/10-best-cities-in-world-2026-ranked?utm_source=RSS",
+    "extract": "Tell us: which of these cities would you most like to call home?"
+   },
+   "published": "Wed, 14 Oct 2026 18:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+   "article": {
+    "title": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+    "url": "https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/",
+    "extract": "Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix"
+   },
+   "published": "Thu, 15 Oct 2026 20:43:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+   "article": {
+    "title": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+    "url": "https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/",
+    "extract": "The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. \"The project called for a great deal of perseverance,\" one official says"
+   },
+   "published": "Thu, 15 Oct 2026 20:19:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+   "article": {
+    "title": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+    "url": "https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/",
+    "extract": "Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book"
+   },
+   "published": "Thu, 15 Oct 2026 19:41:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+   "article": {
+    "title": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+    "url": "https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/",
+    "extract": "The 18th-century painter was a key practitioner of \"capriccio\" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000"
+   },
+   "published": "Thu, 15 Oct 2026 18:03:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+   "article": {
+    "title": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+    "url": "https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/",
+    "extract": "These crags don't match the rest of the mountain, and scientists don't know how they formed"
+   },
+   "published": "Thu, 15 Oct 2026 16:50:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+   "article": {
+    "title": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+    "url": "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/",
+    "extract": "Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine"
+   },
+   "published": "Thu, 15 Oct 2026 16:24:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+   "article": {
+    "title": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+    "url": "https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/",
+    "extract": "If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits"
+   },
+   "published": "Thu, 15 Oct 2026 15:21:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+   "article": {
+    "title": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+    "url": "https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/",
+    "extract": "Customs officers say they found the creatures hidden in the men's clothes after they touched down on separate flights from Cuba, and it's unclear whether the two incidents are related. Wildlife trafficking is the world's fourth-largest form of organized crime"
+   },
+   "published": "Thu, 15 Oct 2026 14:52:27 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+   "article": {
+    "title": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+    "url": "https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/",
+    "extract": "The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+   "article": {
+    "title": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/",
+    "extract": "These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world"
+   },
+   "published": "Wed, 14 Oct 2026 20:50:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+   "article": {
+    "title": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/",
+    "extract": "The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist \"could not believe how much\" residue remained inside"
+   },
+   "published": "Wed, 14 Oct 2026 19:20:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+   "article": {
+    "title": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+    "url": "https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/",
+    "extract": "The Dutch Post-Impressionist painted \"Chestnut Trees in Blossom\" during the highly productive yet tragic final months of his life. It is heading to auction as part of a \"legendary\" private collection which also includes works from Cézanne and Renoir"
+   },
+   "published": "Wed, 14 Oct 2026 17:28:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+   "article": {
+    "title": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/15/odkryj-tajemnice-epoki-napoleonskiej-bezplatna-gra-terenowa-kryptonim-nadzieja-1806-w-sierakowie/",
+    "extract": "Muzeum Zamek Opalińskich w Sierakowie zaprasza mieszkańców regionu – całe rodziny, młodzież, harcerzy oraz seniorów – do udziału w niezwykłej grze terenowej pt. „Kryptonim: Nadzieja 1806”. Wydarzenie odbędzie się w sobotę, 24 października, a udział w nim jest całkowicie bezpłatny. Zapisy trwają do 22 października! The post Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Na"
+   },
+   "published": "Thu, 15 Oct 2026 15:49:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+   "article": {
+    "title": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/13/rzymianie-naprawde-walczyli-z-amazonkami-niezwykle-odkrycie-zolnierzy-pompejusza/",
+    "extract": "Gdy legiony Pompejusza walczyły z plemionami Kaukazu, rzymscy żołnierze dokonali zaskakującego odkrycia. Wśród pokonanych przeciwników znajdowały się kobiety, które walczyły równie zaciekle jak mężczyźni. Rzymianie uznali je za legendarne Amazonki. Niektóre wojowniczki miały następnie trafić do Rzymu jako jeńcy prezentowani podczas triumfalnego pochodu zwycięskiego wodza. The post Rzymianie napraw"
+   },
+   "published": "Tue, 13 Oct 2026 20:29:19 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+   "article": {
+    "title": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/12/wroclaw-w-1945-roku-miasto-ktorego-churchill-nie-chcial-oddac-polsce/",
+    "extract": "Winston Churchill nie chciał, aby Wrocław znalazł się w granicach Polski. Jak pisał Norman Davies, brytyjski premier miał nawet deklarować, że Niemcy stracą miasto tylko „po jego trupie”. Ostatecznie jednak o losach Breslau zdecydowały wielkie mocarstwa. W 1945 roku miasto przeżyło prawdziwy dramat – przymusową ewakuację mieszkańców, wielotygodniowe oblężenie i chaos, który towarzyszył jego przemi"
+   },
+   "published": "Mon, 12 Oct 2026 18:06:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+   "article": {
+    "title": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/wywlokl-biskupa-z-lozka-tak-polski-ksiaze-uderzyl-w-kosciol/",
+    "extract": "Wtargnęli nocą do sypialni biskupa, wywlekli na wpół przytomnego hierarchę na zewnątrz i półnagiego wsadzili na konia. Tak Bolesław Rogatka rozpoczął jedną z najgłośniejszych awantur z Kościołem w dziejach średniowiecznej Polski. Porwał biskupa wrocławskiego, ściągnął na siebie klątwę i omal nie doczekał się prawdziwej krucjaty wymierzonej w jego osobę. The post Wywlókł biskupa z łóżka. Tak polski"
+   },
+   "published": "Sun, 11 Oct 2026 16:41:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+   "article": {
+    "title": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/czyngis-chan-i-swiat-mongolow-nowa-wystawa-w-berlinie/",
+    "extract": "W związku z przypadającą w 2027 roku 800. rocznicą śmierci Czyngis-chana, Muzeum Prehistorii i Wczesnej Historii Państwowych Muzeów w Berlinie prezentuje dużą wystawę poświęconą historii i dziedzictwu imperium mongolskiego. Ekspozycja przybliży europejskiej publiczności świat Mongołów z perspektywy archeologicznej, opierając się na najnowszych wynikach badań prowadzonych wspólnie przez naukowców z"
+   },
+   "published": "Sun, 11 Oct 2026 15:52:30 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+   "article": {
+    "title": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/08/zamordowali-ministra-w-bialy-dzien-jak-ukrainscy-nacjonalisci-przeprowadzili-zamach-w-warszawie/",
+    "extract": "15 czerwca 1934 roku Bronisław Pieracki, jeden z najważniejszych ministrów II Rzeczypospolitej, został zastrzelony na warszawskiej ulicy. Zamachowiec uciekł mimo pościgu, a polskie służby rozpoczęły gorączkowe śledztwo. Szybko wyszło na jaw, że za zabójstwem stała Organizacja Ukraińskich Nacjonalistów. Okoliczności zbrodni ujawniły jednak coś jeszcze – zaskakującą skalę zaniedbań polskich władz. T"
+   },
+   "published": "Thu, 08 Oct 2026 13:51:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Historiomachia. Bitwy o historię",
+   "article": {
+    "title": "Historiomachia. Bitwy o historię",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/07/historiomachia-bitwy-o-historie/",
+    "extract": "Zadaniem historyka jest opowiadać o przeszłości, by powtarzano dobro, a zła unikano. The post Historiomachia. Bitwy o historię first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 07 Oct 2026 16:33:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+   "article": {
+    "title": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/odcieto-mu-glowe-tak-zginal-syn-konrada-mazowieckiego/",
+    "extract": "Bronił grodu na wysokiej skarpie i niemal odparł najeźdźców, gdy zdradził go własny człowiek. Pogańscy Litwini wdarli się do Jazdowa, pojmali księcia Siemowita I i ścięli mu głowę, a jego ciało spalili. Dwunastoletniego syna władcy uprowadzili na Litwę. Tak zginął protoplasta mazowieckiej linii Piastów, a okoliczności jego śmierci do dziś budzą spory historyków. The post Odcięto mu głowę. Tak zgin"
+   },
+   "published": "Tue, 06 Oct 2026 18:05:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+   "article": {
+    "title": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/obrona-poczty-polskiej-i-losy-jej-obroncow-nowe-muzeum-poczty-polskiej-juz-otwarte/",
+    "extract": "1 września 1939 roku pracownicy Poczty Polskiej w Gdańsku stanęli do obrony polskiej placówki przed niemieckim atakiem. W poniedziałek, 5 października, w 87. rocznicę rozstrzelania Obrońców, Muzeum Poczty Polskiej w Gdańsku otworzyło nową wystawę stałą poświęconą ich walce, dalszym losom oraz pamięci o wydarzeniach, które stały się jednym z symboli początku II wojny światowej. The post Obrona Pocz"
+   },
+   "published": "Tue, 06 Oct 2026 15:23:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+   "article": {
+    "title": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/04/czy-amazonki-naprawde-obcinaly-sobie-jedna-piers-tak-narodzil-sie-jeden-z-najslynniejszych-mitow-starozytnosci/",
+    "extract": "Miały usuwać prawą pierś, żeby sprawniej posługiwać się łukiem i włócznią. Historia jest makabryczna, sugestywna i powtarzana od ponad dwóch tysięcy lat. Problem w tym, że nie ma na nią przekonujących dowodów. The post Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 04 Oct 2026 20:53:17 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+   "article": {
+    "title": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/01/zakuci-w-stal-uwazali-sie-za-niezwyciezonych-jak-naprawde-walczyli-sredniowieczni-rycerze/",
+    "extract": "Ciężka zbroja, kopia, miecze, sztylet, topór i maczuga czyniły średniowiecznego rycerza niezwykle groźnym przeciwnikiem. Jednak to, co dawało mu przewagę, mogło również stać się jego słabością. Wystarczyło, że padł koń, a obciążony żelastwem wojownik miał poważny problem. Tymczasem coraz większym zagrożeniem dla rycerskiej jazdy stawali się pogardzani przez nią łucznicy i piechurzy. The post Zakuc"
+   },
+   "published": "Thu, 01 Oct 2026 14:44:12 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+   "article": {
+    "title": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/09/30/polscy-terrorysci-i-zamachowcy-od-powstania-styczniowego-do-trzeciej-rzeczypospolitej/",
+    "extract": "Mimo opinii, że zawsze walczyliśmy z otwartą przyłbicą, także wśród Polaków nie brakowało skrytobójców i terrorystów, którzy działali zarówno w imię wielkich idei, jak i z najniższych pobudek. The post Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 30 Sep 2026 21:44:22 +0000",
+   "image": null
+  }
+ ]
+}
