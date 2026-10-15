@@ -98,6 +98,206 @@ window.HYPERS_EDITIONS = {
           "text": "To nagranie całego streamu, na którym Speed zmierzył się z Palmerem w EA FC 27. Pod filmem dominują komentarze o wyniku 18:0."
         },
         "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Friz i Wersow",
+        "initials": "FW",
+        "category": "Serial",
+        "hype": 4,
+        "title": "Friz i Wersow dostaną własny serial dokumentalny na Prime Video. Sześć odcinków jeszcze w tym roku",
+        "summary": "Prime Video zapowiedziało serial „Friz i Wersow. W drodze”. Sześć odcinków ma pokazać rodzinne i zawodowe kulisy życia pary, a premiera jest zapowiedziana na 2026 rok, bez dokładnej daty.",
+        "body": [
+          "Prime Video ogłosiło nowy polski serial dokumentalny „Friz i Wersow. W drodze”. Jego bohaterami są Karol „Friz” Wiśniewski i Weronika „Wersow” Wiśniewska, jedna z najpopularniejszych par polskiego YouTube’a.",
+          "Serial ma sześć odcinków. Według zapowiedzi pokaże parę na nowym etapie życia: jako rodziców dwójki dzieci i wspólników w biznesie. W odcinkach mają się pojawić przygotowania do narodzin drugiego dziecka, rozwijanie nowych projektów biznesowych i wspólna podróż.",
+          "Za produkcję odpowiada Papaya Films. Producentem jest Kacper Sawicki, showrunnerami są Magdalena Ignatowicz-Salska i Jan Dybus, który jest też reżyserem. Zdjęcia robi Barbara Kai Kaniewska.",
+          "Serial ma trafić wyłącznie na Prime Video jeszcze w 2026 roku. Platforma nie podała na razie dokładnej daty premiery."
+        ],
+        "sources": [
+          {
+            "name": "Wirtualnemedia.pl",
+            "url": "https://www.wirtualnemedia.pl/friz-i-wersow-w-drodze-serial-amazon-prime-video-jak-ogladac-premiera-w-2026-roku,7340231875369408a"
+          },
+          {
+            "name": "Kozaczek",
+            "url": "https://www.kozaczek.pl/friz-i-wersow-rozpoczynaja-zupelnie-nowy-etap-fani-zobacza-ich-z-nieznanej-dotad-strony/"
+          },
+          {
+            "name": "AW Press",
+            "url": "https://awpress.pl/friz-i-wersow-pokaza-to-czego-nie-widac-w-internecie/"
+          },
+          {
+            "name": "Serialomaniak",
+            "url": "https://serialomaniak.com/zwiastun-friz-i-wersow-w-drodze-premiera-jeszcze-w-tym-roku/"
+          }
+        ],
+        "noImage": "Brak legalnego zdjęcia: zwiastun Prime Video nie jest dostępny jako film YouTube do kadru, a zdjęcia w portalach są materiałami platformy bez zgody dla nas.",
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Konopskyy",
+        "initials": "KO",
+        "category": "Komentarz",
+        "hype": 4,
+        "title": "Konopskyy z nowym odcinkiem o Fagacie, Książulo, Chajzerze i zoo w Łącznej. Pół miliona wyświetleń w kilka godzin",
+        "summary": "Nowy odcinek Konopskyy’ego ma cztery tematy, a ostatni dotyczy zapowiedzi Fagaty, że pozywa ludzi za, jak twierdzi, kłamstwa na jej temat. Film miał w nocy ponad 543 tys. wyświetleń.",
+        "body": [
+          "Konopskyy opublikował w czwartek po południu nowy odcinek swojego przeglądu newsów pod tytułem „Wściekła Fagata wszystkich pozywa (zoo Łączna, Książulo, Chajzer, Żabka)”. Film trwa prawie 39 minut.",
+          "Według rozdziałów w opisie odcinek omawia cztery sprawy: spadek subskrypcji Książulo przy dobrej sprzedaży jego produktów, temat Chajzera i jego byłych pracowników, sprawę zoo w Łącznej oraz zapowiedź pozwów ze strony Fagaty.",
+          "O pozwach Fagata mówiła na jednej z ostatnich transmisji na żywo. Jak podał portal Zawód Typer, zapowiedziała, że wysłała pozwy przeciwko osobom, które według niej rozpowszechniają nieprawdziwe informacje, i że „ci ludzie poniosą konsekwencje”. Nie wiadomo, kogo dokładnie dotyczą.",
+          "W nocy na 16 października (odczyt 0:11) film miał ponad 543 tys. wyświetleń, 15 tys. polubień i blisko 700 komentarzy. Widzowie najczęściej dyskutują o sprawie zoo, a część komentujących pisze, że odwiedzała to miejsce."
+        ],
+        "sources": [
+          {
+            "name": "Konopskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=_8wWYiJhiCE",
+            "origin": true
+          },
+          {
+            "name": "Zawód Typer",
+            "url": "https://zawodtyper.pl/fagata-wysyla-pozwy-zapowiada-konsekwencje/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=_8wWYiJhiCE",
+        "caption": {
+          "credit": "Konopskyy / YouTube",
+          "text": "Miniatura odcinka, o którym piszemy. W tytule Konopskyy stawia na pierwszym planie zapowiedź pozwów Fagaty, choć to tylko jeden z czterech tematów."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/_8wWYiJhiCE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/_8wWYiJhiCE/hqdefault.jpg",
+          "credit": "Konopskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=_8wWYiJhiCE",
+          "alt": "Miniatura odcinka Konopskyy’ego o Fagacie",
+          "caption": "Kadr z miniatury odcinka Konopskyy’ego (prawo cytatu)."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "Gry",
+        "hype": 3,
+        "title": "LootBox opowiada historię powstania GTA 6. Film wyszedł pół godziny przed zwiastunem premierowym",
+        "summary": "Kanał LootBox wypuścił 14-minutowy materiał o tym, jak powstawało GTA 6: mapa, opóźnienia, zmiany i budżet. Widzowie zauważyli, że o pół godziny minął się z premierowym zwiastunem Rockstara.",
+        "body": [
+          "LootBox opublikował w czwartek film „Historia powstania GTA 6 (olbrzymia mapa, powody opóźnień, zmiany, budżet)”. Materiał trwa niecałe 14 minut.",
+          "W opisie kanał podaje źródła, z których korzystał, w tym duży tekst Bloomberga o kulisach produkcji GTA 6 oraz kilka filmów na YouTube.",
+          "Film wyszedł chwilę przed tym, jak Rockstar bez zapowiedzi opublikował zwiastun premierowy gry. Najwyżej oceniane komentarze żartują właśnie z tego, że kanał minął się ze zwiastunem o około 30 minut.",
+          "W nocy na 16 października (odczyt 0:11) materiał miał ponad 34 tys. wyświetleń i 1,1 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=_5uoVD3ufFU",
+            "origin": true
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=_5uoVD3ufFU",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura filmu LootBoxa o kulisach GTA 6. Materiał zbiera wątki z produkcji gry dzień po zwiastunie premierowym."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/_5uoVD3ufFU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/_5uoVD3ufFU/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=_5uoVD3ufFU",
+          "alt": "Miniatura filmu LootBox o historii GTA 6",
+          "caption": "Kadr z miniatury filmu LootBox (prawo cytatu)."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "moreleTV",
+        "initials": "MT",
+        "category": "Technologia",
+        "hype": 2,
+        "title": "moreleTV skalpuje najdroższego Ryzena. Sprawdzają, czy to jeszcze ma sens",
+        "summary": "Kamil z moreleTV zdjął pokrywę z Ryzena 9 9950X3D2, najmocniejszego konsumenckiego procesora AMD, żeby sprawdzić, czy skalpowanie wciąż się opłaca.",
+        "body": [
+          "W nowym materiale moreleTV „Czy skalpowanie CPU ma jeszcze sens?” Kamil skalpuje Ryzena 9 9950X3D2. Kanał opisuje go jako najmocniejszy i najdroższy konsumencki procesor AMD.",
+          "Skalpowanie to zdjęcie metalowej pokrywy procesora, żeby poprawić odprowadzanie ciepła. Kanał zaznacza, że profesjonalne narzędzia zmniejszają ryzyko, ale go nie usuwają. Rozdziały filmu pokazują samo skalpowanie i usuwanie indu z procesora.",
+          "Widzowie w komentarzach dzielą się na tych, którzy chwalą techniczne podejście, i tych, którzy uważają, że przy tak drogim procesorze zysk jest za mały wobec ryzyka.",
+          "W nocy na 16 października (odczyt 0:11) film miał ponad 19 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "moreleTV / YouTube",
+            "url": "https://www.youtube.com/watch?v=9OLrWNfmrNc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=9OLrWNfmrNc",
+        "caption": {
+          "credit": "moreleTV / YouTube",
+          "text": "Miniatura testu moreleTV. Film sprawdza, czy zdejmowanie pokrywy z najdroższego Ryzena daje dziś realny zysk."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/9OLrWNfmrNc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/9OLrWNfmrNc/hqdefault.jpg",
+          "credit": "moreleTV / YouTube",
+          "href": "https://www.youtube.com/watch?v=9OLrWNfmrNc",
+          "alt": "Miniatura filmu moreleTV o skalpowaniu procesora",
+          "caption": "Kadr z miniatury filmu moreleTV (prawo cytatu)."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-15",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Lifestyle",
+        "hype": 2,
+        "title": "Kai Cenat kupił „najwęższe auto dopuszczone do ruchu”. Widzowie porównują je do samochodu z kreskówki",
+        "summary": "Na kanale Kai Cenat Live pojawił się materiał, w którym streamer pokazuje nowy, wyjątkowo wąski samochód. Wcześniej wyszedł krótki film z jego prezentacji.",
+        "body": [
+          "Kanał Kai Cenat Live opublikował w czwartek wieczorem film „I Bought The Thinnest Street Legal Car”, czyli o kupnie najwęższego auta dopuszczonego do ruchu. Kilka godzin wcześniej wyszedł short „Kai Cenat Reveals His Brand New Car”.",
+          "Opis filmu nie podaje modelu samochodu. Widzowie w komentarzach porównują go do auta z kreskówki i żartują, że idealnie pasuje do wzrostu streamera.",
+          "Short z prezentacją auta miał w nocy (odczyt 0:11) ponad 25 tys. wyświetleń, a dłuższy film, opublikowany niedługo wcześniej, ponad 2 tys."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=nKbiX5PwTcM",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube (short)",
+            "url": "https://www.youtube.com/shorts/3iOF5cE4q0k",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=nKbiX5PwTcM",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura filmu z kanału Kai Cenat Live o nowym aucie. To z tego materiału pochodzi hasło o najwęższym samochodzie dopuszczonym do ruchu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/nKbiX5PwTcM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/nKbiX5PwTcM/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=nKbiX5PwTcM",
+          "alt": "Miniatura filmu Kai Cenata o wąskim samochodzie",
+          "caption": "Kadr z miniatury filmu Kai Cenat Live (prawo cytatu)."
+        },
+        "slot": "7:00"
       }
     ],
     "ciekawostki": [
@@ -283,6 +483,191 @@ window.HYPERS_EDITIONS = {
         "caption": {
           "credit": "Newsburst / Wikimedia Commons",
           "text": "Grafika zestawia projekt X-Seed 4000 z Burdż Chalifa. Różnica skali pokazuje, jak nierealna była ta wizja."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Technika",
+        "hype": 3,
+        "title": "W Iowa działa kolejka o długości 90 metrów, reklamowana jako najkrótsza i najstromsza na świecie",
+        "summary": "Fenelon Place Elevator w Dubuque pokonuje zaledwie 90 metrów toru, ale wznosi się przy tym o ponad 57 metrów.",
+        "body": [
+          "Fenelon Place Elevator to kolejka linowo-terenowa w mieście Dubuque w stanie Iowa. Tor ma 296 stóp (ok. 90 m), a różnica wysokości to 189 stóp (ok. 58 m). Operator reklamuje ją jako najkrótszą i najstromszą widokową kolej świata, choć Wikipedia zaznacza, że trafniej byłoby mówić o Stanach Zjednoczonych.",
+          "Pierwszą kolejkę zbudował w 1882 roku dla siebie bankier J.K. Graves, żeby w przerwie w pracy wjechać do domu na obiad i drzemkę. Obecna wersja działa od 1893 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Fenelon_Place_Elevator"
+          },
+          {
+            "name": "Fenelon Place Elevator",
+            "url": "https://www.fenelonplaceelevator.com/about/"
+          }
+        ],
+        "caption": {
+          "credit": "Dirk / Wikimedia Commons",
+          "text": "Kolejka Fenelon Place Elevator w Dubuque. Widać, jak krótki i stromy jest jej tor."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dubuque_IA_-_4th_Street_Elevator.jpg",
+          "credit": "Dirk / Wikimedia Commons, CC BY 2.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Dubuque_IA_-_4th_Street_Elevator.jpg",
+          "alt": "Kolejka Fenelon Place Elevator na stromym zboczu w Dubuque",
+          "caption": "Fenelon Place Elevator w Dubuque, Iowa."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Gitara Gittlera",
+        "initials": "GG",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Ta gitara elektryczna to w zasadzie metalowy pręt ze strunami. Jedna jest w zbiorach MoMA",
+        "summary": "Allan Gittler uznał, że gitara elektryczna nie musi udawać akustycznej, i zredukował ją do minimum: metalowego gryfu z progami z prętów.",
+        "body": [
+          "Gitara Gittlera powstała w Nowym Jorku od połowy lat 70. Jej twórca Allan Gittler chciał sprowadzić gitarę elektryczną do najprostszej formy, bez nawiązań do instrumentów akustycznych. Zamiast korpusu i drewnianego gryfu ma metalowy pręt, a progi to wciśnięte w niego cienkie pręty. Każda z sześciu strun ma własny przetwornik.",
+          "W Nowym Jorku powstało tylko 60 egzemplarzy. Jeden kupiło nowojorskie Museum of Modern Art. Później kilkaset kolejnych zrobiono na licencji w Izraelu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Gittler_guitar"
+          },
+          {
+            "name": "Vintage Guitar",
+            "url": "https://www.vintageguitar.com/1908/gittler-guitar-2/"
+          }
+        ],
+        "caption": {
+          "credit": "Frank Kovalchek / Wikimedia Commons",
+          "text": "Gitara Gittlera z lat 1970–1985 w Musical Instrument Museum w Phoenix. Widać, że z klasycznej gitary zostały tylko struny i progi."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gittler_%28electric_guitar%29_%281970-1985%29_-_MIM_PHX.jpg",
+          "credit": "Frank Kovalchek / Wikimedia Commons, CC BY 2.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Gittler_(electric_guitar)_(1970-1985)_-_MIM_PHX.jpg",
+          "alt": "Minimalistyczna gitara Gittlera z metalowym gryfem",
+          "caption": "Gitara Gittlera w Musical Instrument Museum w Phoenix."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Cherry Sisters",
+        "initials": "CS",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Siostry tak złe na scenie, że widzowie rzucali warzywami, pozwały gazetę za recenzję i przegrały",
+        "summary": "Cherry Sisters z Iowa przyciągały tłumy, które przychodziły głównie po to, żeby je wygwizdać. Ich przegrany proces z 1901 roku do dziś chroni prawo prasy do krytyki.",
+        "body": [
+          "Pięć sióstr Cherry z Iowa jeździło pod koniec XIX wieku z występami wodewilowymi, które słynęły z bardzo niskiego poziomu. Publiczność rzucała w nie warzywami i jajkami, więc w pewnym momencie występowały za drucianą siatką.",
+          "Siostry pozwały za zniesławienie gazetę Des Moines Leader, która przedrukowała ostrą recenzję ich występu. W 1901 roku Sąd Najwyższy Iowa przyznał rację gazecie, uznając, że krytyk może ostro oceniać publiczne występy. Sprawa stała się ważnym precedensem dla prawa do krytyki w prasie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cherry_Sisters"
+          },
+          {
+            "name": "WFMU",
+            "url": "http://www.wfmu.org/LCD/Early/cherry.html"
+          }
+        ],
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Trzy z pięciu sióstr Cherry: Addie, Jessie i Effie. To one stały za słynnym procesem o recenzję."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Three_of_the_Cherry_Sisters_-_Addie%2C_Jessie_and_Effie.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Three_of_the_Cherry_Sisters_-_Addie,_Jessie_and_Effie.jpg",
+          "alt": "Archiwalne zdjęcie trzech sióstr Cherry",
+          "caption": "Addie, Jessie i Effie Cherry."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Wielka Brytania",
+        "initials": "UK",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1944 roku w Wielkiej Brytanii skazano medium na podstawie ustawy o czarownictwie z 1735 roku",
+        "summary": "Helen Duncan trafiła na dziewięć miesięcy do więzienia jako ostatnia osoba skazana z ustawy o czarownictwie. Ustawę uchylono kilka lat później.",
+        "body": [
+          "Szkocka spirytystka Helen Duncan twierdziła, że kontaktuje się z duchami, a podczas seansów miała z jej ust wydobywać się „ektoplazma”. W styczniu 1944 roku została zatrzymana, a sąd skazał ją na dziewięć miesięcy więzienia na podstawie ustawy o czarownictwie z 1735 roku, która karała za udawanie nadprzyrodzonych mocy.",
+          "Była ostatnią osobą skazaną na podstawie tej ustawy. Uchylono ją w 1951 roku. Według Wikipedii jej „ektoplazmą” okazywały się m.in. gaza i inne tkaniny."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Helen_Duncan"
+          },
+          {
+            "name": "Historic UK",
+            "url": "https://www.historic-uk.com/HistoryUK/HistoryofScotland/Helen-Duncan-Scotlands-last-witch/"
+          }
+        ],
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Portret Helen Duncan, ostatniej osoby skazanej z brytyjskiej ustawy o czarownictwie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Helen_Duncan.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Portrait_of_Helen_Duncan.jpg",
+          "alt": "Portret Helen Duncan",
+          "caption": "Helen Duncan."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Morze Ochockie",
+        "initials": "MO",
+        "category": "Geografia",
+        "hype": 3,
+        "title": "Na środku Morza Ochockiego jest „Orzechowa Dziura”: skrawek morza otoczony Rosją, ale do niej nienależący",
+        "summary": "Peanut Hole to pas wód międzynarodowych w kształcie orzeszka ziemnego, całkowicie otoczony rosyjską strefą ekonomiczną.",
+        "body": [
+          "Środek Morza Ochockiego leży dalej niż 200 mil morskich od każdego wybrzeża, więc nie wchodzi do rosyjskiej wyłącznej strefy ekonomicznej. Ten obszar ma ok. 55 km szerokości i 480 km długości, a nazwę wziął od kształtu przypominającego orzeszek ziemny. Przez lata łowiły tam statki z wielu krajów, a w 1993 roku Chiny, Japonia, Polska, Rosja i Korea Południowa uzgodniły wstrzymanie połowów.",
+          "W marcu 2014 roku komisja ONZ ds. granic szelfu kontynentalnego przyznała Rosji dno tej enklawy jako część jej szelfu kontynentalnego."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Peanut_Hole"
+          },
+          {
+            "name": "Interfax",
+            "url": "https://interfax.com/newsroom/top-stories/44440/"
+          }
+        ],
+        "caption": {
+          "credit": "Xfigpower / Wikimedia Commons",
+          "text": "Mapa Morza Ochockiego z zaznaczoną enklawą Peanut Hole. Widać, że ze wszystkich stron otacza ją rosyjska strefa."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Peanut_Hole.jpg",
+          "credit": "Xfigpower / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Peanut_Hole.jpg",
+          "alt": "Mapa Morza Ochockiego z enklawą Peanut Hole",
+          "caption": "Peanut Hole na Morzu Ochockim."
         },
         "slot": "7:00"
       }

@@ -3,14 +3,24 @@ window.HYPERS_URLS = {
  "2026-10-16": {
   "luz": [
    "artykuly/2026-10-16/bambi-wydala-album-b-o-polnocy-na-youtube-trafilo-16-utworow.html",
-   "artykuly/2026-10-16/ishowspeed-zagral-w-ea-fc-27-z-cole-em-palmerem-widzowie-pisza.html"
+   "artykuly/2026-10-16/ishowspeed-zagral-w-ea-fc-27-z-cole-em-palmerem-widzowie-pisza.html",
+   "artykuly/2026-10-16/friz-i-wersow-dostana-wlasny-serial-dokumentalny-na-prime-video-szesc.html",
+   "artykuly/2026-10-16/konopskyy-z-nowym-odcinkiem-o-fagacie-ksiazulo-chajzerze-i-zoo.html",
+   "artykuly/2026-10-16/lootbox-opowiada-historie-powstania-gta-6-film-wyszedl-pol-godziny.html",
+   "artykuly/2026-10-16/moreletv-skalpuje-najdrozszego-ryzena-sprawdzaja-czy-to-jeszcze.html",
+   "artykuly/2026-10-16/kai-cenat-kupil-najwezsze-auto-dopuszczone-do-ruchu-widzowie.html"
   ],
   "ciekawostki": [
    "artykuly/2026-10-16/w-1958-roku-amerykanskie-lotnictwo-planowalo-zdetonowac-bombe-atomowa.html",
    "artykuly/2026-10-16/czesc-bezpanskich-psow-w-moskwie-nauczyla-sie-dojezdzac-metrem.html",
    "artykuly/2026-10-16/28-800-gumowych-kaczuszek-wypadlo-w-1992-roku-ze-statku-i-pomoglo.html",
    "artykuly/2026-10-16/w-japonii-odkryto-rosline-ktorej-znane-jest-tylko-piec-okazow.html",
-   "artykuly/2026-10-16/zaprojektowano-wiezowiec-wysoki-na-4-km-wyzszy-od-gory-fudzi-nigdy.html"
+   "artykuly/2026-10-16/zaprojektowano-wiezowiec-wysoki-na-4-km-wyzszy-od-gory-fudzi-nigdy.html",
+   "artykuly/2026-10-16/w-iowa-dziala-kolejka-o-dlugosci-90-metrow-reklamowana-jako.html",
+   "artykuly/2026-10-16/ta-gitara-elektryczna-to-w-zasadzie-metalowy-pret-ze-strunami-jedna.html",
+   "artykuly/2026-10-16/siostry-tak-zle-na-scenie-ze-widzowie-rzucali-warzywami-pozwaly.html",
+   "artykuly/2026-10-16/w-1944-roku-w-wielkiej-brytanii-skazano-medium-na-podstawie-ustawy.html",
+   "artykuly/2026-10-16/na-srodku-morza-ochockiego-jest-orzechowa-dziura-skrawek-morza.html"
   ]
  },
  "2026-10-15": {
