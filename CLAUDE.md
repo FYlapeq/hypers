@@ -26,6 +26,7 @@ news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category,
 - `summary` = 2–3 zdania na karcie. `body` = 3–5 akapitów, tylko fakty potwierdzone w źródłach, bez spekulacji.
 - `embed` = link do KONKRETNEGO posta/filmu (instagram.com/p/… lub /reel/…, tiktok.com/@konto/video/…, x.com/konto/status/…, youtube.com/watch?v=… lub /shorts/…), nie do profilu. Bez `embed` strona osadzi pierwszy taki link ze źródeł (najpierw `origin: true`).
 - Pole `slot` dopisuje skrypt. Popołudniowe newsy lądują na początku sekcji. Pierwszy news pierwszej niepustej sekcji (ryby → luz → czapy) jest tematem dnia.
+- `pinUntil: "RRRR-MM-DD"` (opcjonalne, tylko na prośbę Filipa): news jest tematem dnia na stronie głównej od swojej daty do tej daty włącznie, także nad wydaniami z kolejnych dni. Grube ryby nie liczą się do limitu zagranicy.
 
 ## Zasady redakcyjne
 - Profil: rzetelne newsy i analizy w duchu kanałów komentatorskich, nie plotkarski portal. Bez shitpostów poza Z czapy.

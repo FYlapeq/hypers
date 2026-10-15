@@ -139,12 +139,13 @@ function add(file, build = true) {
       known.set('u:' + u, `${d} „${short(n.title, 60)}”`);
   }
   const errors = [], dupes = [];
-  let worldToday = ed[date] ? SECTIONS.flatMap(s => ed[date][s] || []).filter(n => n.region === 'world').length : 0;
+  // limit zagranicy dotyczy twórców w Na luzie i Z czapy; Grube ryby (duże tematy, np. premiery gier) się nie liczą
+  let worldToday = ed[date] ? SECTIONS.filter(s => s !== 'ryby').flatMap(s => ed[date][s] || []).filter(n => n.region === 'world').length : 0;
   for (const s of NEW_SECTIONS) for (const n of inc[s] || []) {
     errors.push(...validate(n, s, date));
     const hit = known.get('t:' + slugify(n.title)) || urlsOf(n).map(u => known.get('u:' + u)).find(Boolean);
     if (hit) dupes.push(`„${short(n.title, 60)}” powtarza ${hit}`);
-    if (n.region === 'world') worldToday++;
+    if (n.region === 'world' && s !== 'ryby') worldToday++;
   }
   for (const k of Object.keys(inc)) if (!['date', 'slot', ...NEW_SECTIONS].includes(k)) errors.push(`nieznany klucz ${k}`);
   if (dupes.length) errors.push(...dupes.map(d => 'duplikat: ' + d));

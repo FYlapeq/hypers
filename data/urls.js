@@ -1,6 +1,9 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
  "2026-10-15": {
+  "ryby": [
+   "artykuly/2026-10-15/rockstar-bez-zapowiedzi-wypuszcza-zwiastun-premierowy-gta-6.html"
+  ],
   "luz": [
    "artykuly/2026-10-15/rezigiusz-wypuszcza-kolejny-smak-snacky-chicken-bites.html",
    "artykuly/2026-10-15/major-spz-wydaje-singiel-serce-na-tacy.html",

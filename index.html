@@ -212,7 +212,7 @@ function wireCards(ed){
   io=new IntersectionObserver(ents=>ents.forEach(en=>{
     if(!en.isIntersecting) return; io.unobserve(en.target);
     const card=en.target.closest('[data-card]'); const [sec,i]=card.dataset.card.split(':');
-    const n=ed[sec][+i]; mountInto(en.target,embedOf(n),n.title,false);
+    const n=(card.dataset.date?editions[card.dataset.date]:ed)[sec][+i]; mountInto(en.target,embedOf(n),n.title,false);
   }),{rootMargin:'400px 0px'});
   boxes.forEach(b=>io.observe(b));
 }
@@ -237,15 +237,28 @@ function meta(n,o={}){
 const aid=(sec,i)=>`a-${selected}-${sec}-${i+1}`;
 /* adres statycznej strony artykułu (data/urls.js z scripts/build.mjs); bez niego stary widok w #hash */
 const urlOf=(date,sec,i)=>{const u=window.HYPERS_URLS; return u&&u[date]&&u[date][sec]&&u[date][sec][i]||null};
-const href=(sec,i)=>urlOf(selected,sec,i)||'#'+aid(sec,i);
+const href=(sec,i,date=selected)=>urlOf(date,sec,i)||'#'+`a-${date}-${sec}-${i+1}`;
 /* karta: prawdziwy link do strony artykułu (działa bez JS i dla robotów); JS przechwytuje kliknięcie i otwiera arkusz */
-function card(n,sec,i,lead){
-  return `<article class="card${lead?' lead':''}" data-card="${sec}:${i}">${media(n,sec,lead)}<div class="body">${meta(n,{lead})}`+
-    `<h3 class="hl"><a class="card-link" href="${href(sec,i)}">${esc(n.title)}</a></h3><p class="sum">${esc(n.summary)}</p>${credit(n)}</div></article>`;
+function card(n,sec,i,lead,date){
+  return `<article class="card${lead?' lead':''}" data-card="${sec}:${i}"${date?` data-date="${date}"`:''}>${media(n,sec,lead)}<div class="body">${meta(n,{lead})}`+
+    `<h3 class="hl"><a class="card-link" href="${href(sec,i,date)}">${esc(n.title)}</a></h3><p class="sum">${esc(n.summary)}</p>${credit(n)}</div></article>`;
 }
 /* newsy ze zdjęciem najpierw, bez zdjęcia na dole sekcji (kolejność w obu grupach bez zmian) */
 const hasImg=n=>!!(n&&n.image);
-function sectionHtml(sec,list,leadIdx){
+function pinnedFor(day){
+  for(const date of Object.keys(editions).sort().reverse()){
+    if(date>day) continue;
+    const ed=editions[date];
+    for(const s of SECTIONS){ const l=ed[s.key]||[];
+      for(let i=0;i<l.length;i++) if(l[i].pinUntil&&l[i].pinUntil>=day) return {date,sec:s.key,i,n:l[i]};
+    }
+  }
+  return null;
+}
+function sectionHtml(sec,list,leadIdx,pin){
+  if(pin) return `<section class="sec sec-${sec.key} sec-pin" data-sec="${sec.key}"${filter!=='all'?' hidden':''}>
+    <div class="sec-head"><h2>${sec.title}</h2><span class="sec-sub">${sec.sub}</span></div>
+    ${card(pin.n,pin.sec,pin.i,true,pin.date)}</section>`;
   const idx=list.map((n,i)=>i).filter(i=>i!==leadIdx).sort((a,b)=>(hasImg(list[b])-hasImg(list[a]))||(a-b));
   if(!idx.length&&leadIdx<0) return '';
   return `<section class="sec sec-${sec.key}" id="${sec.key}" data-sec="${sec.key}"${filter!=='all'&&filter!==sec.key?' hidden':''}>
@@ -386,18 +399,18 @@ const sheet=$('sheet'),scrim=$('scrim'),shScroll=$('sh-scroll');
 let sy=0,H=0,anim=null,openFrom=null,isOpen=false,drag=null;
 const setY=v=>{sy=v;sheet.style.transform=`translateY(${v}px)`;scrim.style.opacity=Math.max(0,Math.min(1,1-v/H));};
 const pageParts=()=>[...document.body.children].filter(el=>!['sheet','scrim','consent'].includes(el.id)&&el.tagName!=='SCRIPT');
-function sheetHtml(n,sec,i){
+function sheetHtml(n,sec,i,date){
   const e=embedOf(n);
   const fig=n.image?`${photo(n.image,true)}<p class="imgcap">${imgCredit(n.image)}${n.image.caption?`<span>${esc(n.image.caption)}</span>`:''}</p>`:poster(n,sec);
   const body=(n.body&&n.body.length?n.body:[]).map(p=>`<p>${esc(p)}</p>`).join('');
   const src=(n.sources||[]).map(x=>`<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin?' <span class="orig">✓ u twórcy</span>':''}</li>`).join('');
   return `${fig}${meta(n,{sec,full:true})}<h2 id="sh-title">${esc(n.title)}</h2><p class="lede">${esc(n.summary)}</p><div class="txt">${body}</div>
     ${src?`<div class="srcs"><h3>Źródła (${(n.sources||[]).length})</h3><ul>${src}</ul></div>`:''}
-    <div class="row"><a class="btn" id="sh-full" href="${href(sec,i)}">Czytaj cały artykuł</a>${e?`<a class="btn alt" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">▶ Oryginał: ${e.name}</a>`:''}</div>`;
+    <div class="row"><a class="btn" id="sh-full" href="${href(sec,i,date)}">Czytaj cały artykuł</a>${e?`<a class="btn alt" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener">▶ Oryginał: ${e.name}</a>`:''}</div>`;
 }
-function openSheet(sec,i,srcEl){
-  const n=editions[selected]&&editions[selected][sec]&&editions[selected][sec][i]; if(!n) return false;
-  shScroll.innerHTML=sheetHtml(n,sec,i); shScroll.scrollTop=0;
+function openSheet(sec,i,srcEl,date=selected){
+  const n=editions[date]&&editions[date][sec]&&editions[date][sec][i]; if(!n) return false;
+  shScroll.innerHTML=sheetHtml(n,sec,i,date); shScroll.scrollTop=0;
   openFrom=srcEl; const wasOpen=isOpen; isOpen=true;
   sheet.classList.add('open'); document.documentElement.classList.add('sheet-open');
   H=sheet.offsetHeight+40; scrim.style.pointerEvents='auto';
@@ -428,7 +441,7 @@ $('view').addEventListener('click',e=>{
   const c=e.target.closest('.card[data-card]'); if(!c||e.target.closest('.media.live')) return;
   const a=e.target.closest('a'); if(a&&!a.classList.contains('card-link')) return;
   const [sec,i]=c.dataset.card.split(':');
-  if(openSheet(sec,+i,c.querySelector('.card-link'))) e.preventDefault();
+  if(openSheet(sec,+i,c.querySelector('.card-link'),c.dataset.date||selected)) e.preventDefault();
 });
 scrim.addEventListener('click',()=>closeSheet());
 $('sh-close').addEventListener('click',()=>closeSheet());
@@ -487,6 +500,16 @@ function renderView(){
     return;
   }
   const lists=SECTIONS.map(sec=>({sec,list:ed[sec.key]||[]}));
+  /* przypięty temat: news z polem pinUntil (RRRR-MM-DD) jest tematem dnia od swojej daty do pinUntil włącznie */
+  const pin=pinnedFor(selected);
+  if(pin&&pin.date!==selected){
+    v.innerHTML='<div class="secs">'+sectionHtml(SECTIONS.find(s=>s.key===pin.sec),[],-1,pin)+lists.map(x=>sectionHtml(x.sec,x.list,-1)).join('')+'</div>';
+    wireCards(ed); return;
+  }
+  if(pin){ const x=lists.find(l=>l.sec.key===pin.sec);
+    v.innerHTML='<div class="secs">'+lists.map(l=>sectionHtml(l.sec,l.list,l===x?pin.i:-1)).join('')+'</div>';
+    wireCards(ed); return;
+  }
   /* temat dnia: pierwszy news ze zdjęciem (sekcje w kolejności ryby → luz → czapy), inaczej pierwszy w ogóle */
   const leadSec=lists.find(x=>x.list.some(hasImg))||lists.find(x=>x.list.length);
   const leadIdx=leadSec?Math.max(0,leadSec.list.findIndex(hasImg)):-1;

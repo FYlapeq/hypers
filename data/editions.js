@@ -2,7 +2,73 @@
 window.HYPERS_EDITIONS = {
   "2026-10-15": {
     "date": "2026-10-15",
-    "ryby": [],
+    "ryby": [
+      {
+        "region": "world",
+        "published": "2026-10-15",
+        "pinUntil": "2026-10-18",
+        "who": "Rockstar Games",
+        "initials": "RG",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Rockstar bez zapowiedzi wypuszcza zwiastun premierowy GTA 6. Do premiery pięć tygodni",
+        "summary": "W czwartek około 15:00 naszego czasu Rockstar opublikował 90-sekundowy Launch Trailer Grand Theft Auto VI, nazywany przez fanów trzecim zwiastunem. Materiał nagrano w całości na zwykłym PS5, a gra wciąż ma wyjść 19 listopada.",
+        "body": [
+          "Rockstar Games opublikował 15 października „Grand Theft Auto VI Launch Trailer”. Film pojawił się jednocześnie na wszystkich kanałach studia około 15:00 czasu polskiego, bez wcześniejszego odliczania. Fani i media nazywają go trzecim zwiastunem gry: pierwszy wyszedł 4 grudnia 2023 roku, drugi 6 maja 2025 roku, a pod koniec sierpnia 2026 roku studio pokazało jeszcze dłuższy materiał „An Extended Look”.",
+          "Zwiastun trwa półtorej minuty, mniej więcej tyle co pierwszy. W centrum znowu są Jason i Lucia. Na początku dominuje Jason, m.in. przy pracy na łodziach i za kierownicą, a w dalszej części więcej miejsca dostaje Lucia i wspólne sceny pary. Rockstar dołączył krótki opis fabuły: para od zawsze grała według cudzych zasad, a gdy łatwa robota idzie źle, trafia w środek przestępczego spisku obejmującego cały stan Leonida.",
+          "Studio zaznacza na końcu filmu, że wszystko nagrano w grze na podstawowym PlayStation 5, nie na PS5 Pro. Ma to znaczenie, bo przy wcześniejszych zwiastunach w sieci wracały pytania, czy pokazywany obraz odpowiada temu, co gracze zobaczą na swoich konsolach.",
+          "Zwiastun jest też premierą muzyczną. Rockstar pokazał w nim singiel „Flower in a Hurricane” duetu Justice, który odpowiada za oryginalną ścieżkę dźwiękową GTA 6. Gościnnie występują Tame Impala, SZA oraz King Gizzard & The Lizard Wizard.",
+          "Data premiery się nie zmienia: 19 listopada 2026 roku na PS5 i Xbox Series X|S. To termin po dwóch wcześniejszych przesunięciach (pierwotnie gra miała wyjść w 2025 roku). Wersja na PC nadal nie ma daty. Sama nazwa „Launch Trailer” i termin publikacji sugerują, że to ostatni duży zwiastun przed premierą, ale Rockstar nie ogłosił, czy pokaże jeszcze coś przed 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Rockstar Games: Grand Theft Auto VI Launch Trailer",
+            "url": "https://www.rockstargames.com/VI/launch-trailer",
+            "origin": true
+          },
+          {
+            "name": "Rockstar Games / YouTube",
+            "url": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+            "origin": true
+          },
+          {
+            "name": "RockstarINTEL",
+            "url": "https://rockstarintel.com/gta-6-launch-trailer-released/"
+          },
+          {
+            "name": "Game Rant",
+            "url": "https://gamerant.com/gta-6-trailer-3/"
+          },
+          {
+            "name": "Interia Gry",
+            "url": "https://gry.interia.pl/newsy/aktualnosci/news-do-sieci-trafil-nagle-nowy-zwiastun-gta-6-co-nowego-zobaczyl,nId,23558965"
+          },
+          {
+            "name": "Świat Androida",
+            "url": "https://www.swiatandroida.pl/w-a-nie-ukaza-si-zwiastun-premierowy-gta-6-trwa-p-torej-minuty-i-prezentuje-wietn-grafik/"
+          },
+          {
+            "name": "gram.pl",
+            "url": "https://www.gram.pl/news/gta-6-z-nowym-zwiastunem-rockstar-games-prezentuje-premierowy-trailer"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+        "caption": {
+          "credit": "Rockstar Games / YouTube",
+          "text": "Oficjalny zwiastun premierowy GTA 6 z kanału Rockstar Games. To ten materiał omawiamy: 90 sekund nagranych na PS5, z Jasonem i Lucią w centrum i nowym singlem Justice w tle."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/rz1B4B2yBZY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/rz1B4B2yBZY/hqdefault.jpg",
+          "credit": "Rockstar Games / YouTube",
+          "href": "https://www.youtube.com/watch?v=rz1B4B2yBZY",
+          "alt": "Miniatura zwiastuna premierowego Grand Theft Auto VI",
+          "caption": "Miniatura „Grand Theft Auto VI Launch Trailer” (Rockstar Games, 15 października 2026)."
+        },
+        "slot": "15:00"
+      }
+    ],
     "luz": [
       {
         "region": "pl",
