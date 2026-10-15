@@ -7,7 +7,8 @@
 // Wynik: <katalog>/RRRR-MM-DD-<slot>.json z kandydatami na ciekawostki:
 //  - Wikipedia „Czy wiesz…” (PL) i „Did you know…” (EN, także archiwum z bieżącego miesiąca):
 //    gotowy, sprawdzony przez wikipedystów fakt + artykuł + zdjęcie z Wikimedia Commons z autorem i licencją,
-//  - Reddit r/todayilearned i kanały RSS serwisów z ciekawostkami (tylko temat i link; zdjęcie trzeba znaleźć).
+//  - Wikipedia „Unusual articles” (EN): niszowe, dziwne tematy z krótkim opisem i zdjęciem z Commons,
+//  - kanały RSS serwisów z ciekawostkami (tylko temat i link; zdjęcie trzeba znaleźć).
 // Kandydaci użyci już na stronie (ten sam artykuł Wikipedii albo link) są pomijani.
 // Każde źródło może zawieść osobno: błąd trafia do `status`, reszta działa dalej.
 import fs from 'node:fs';
@@ -19,7 +20,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const UA = 'HypersBot/1.0 (https://hypers.tech; kontakt@hypers.tech)';
 const [slot = 'rano', outDir = 'ciekawostki-out'] = process.argv.slice(2);
 const IMG_WIDTH = 1280;
-const PER_SOURCE = { 'wiki-pl': 30, 'wiki-en': 35 };
+const PER_SOURCE = { 'wiki-pl': 15, 'wiki-en': 30 };
 
 const today = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Warsaw' }).format(new Date());
 const status = {};
@@ -77,14 +78,30 @@ function hooksFromHtml(html, lang) {
   }
   return out;
 }
+// Wikipedia:Unusual articles: tabele „artykuł | opis”, świetne niszowe tematy
+function unusualFromHtml(html, lang) {
+  const out = [];
+  for (const m of html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/g)) {
+    const cells = [...m[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map(c => c[1]);
+    if (cells.length < 2) continue;
+    const a = cells[0].match(/<a [^>]*href="\/wiki\/([^"#?]+)"/);
+    if (!a) continue;
+    const title = decodeURIComponent(a[1]).replace(/_/g, ' ');
+    const desc = strip(cells[1]);
+    if (SKIP_NS.test(title) || desc.length < 20) continue;
+    out.push({ lang, hook: `${strip(cells[0])}: ${desc}`, title, links: [] });
+  }
+  return out;
+}
 async function wikiHooks(lang, pages) {
   const all = [];
   for (const page of pages) {
     try {
       const j = await get(`https://${lang}.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(page)}&prop=text&format=json&formatversion=2&redirects=1`);
       if (j.error) throw new Error(j.error.info);
-      const hooks = hooksFromHtml(j.parse.text, lang);
-      status[`wiki-${lang}:${page}`] = `ok ${hooks.length}`;
+      const hooks = page.includes('Unusual') ? unusualFromHtml(j.parse.text, lang) : hooksFromHtml(j.parse.text, lang);
+      status[`wiki-${lang}:${page}`] = `ok ${hooks.length}` + (hooks.length ? '' :
+        ` (li: ${(j.parse.text.match(/<li/g) || []).length}, próbka: ${strip(j.parse.text).slice(0, 300)})`);
       all.push(...hooks.map(h => ({ ...h, page })));
     } catch (e) { status[`wiki-${lang}:${page}`] = 'błąd: ' + e.message; }
   }
@@ -131,16 +148,24 @@ async function commons(files) {
   }
   return res;
 }
+// bierze losowe haczyki paczkami, aż uzbiera `limit` kandydatów z wolnym zdjęciem (plus kilka bez zdjęcia)
 async function wikiCandidates(lang, pages, used, limit) {
-  const hooks = shuffle(await wikiHooks(lang, pages));
-  const seen = new Set(); const pick = [];
-  for (const h of hooks) {
+  const seen = new Set();
+  const hooks = shuffle(await wikiHooks(lang, pages)).filter(h => {
     const k = `wiki:${lang}:${h.title.toLowerCase()}`;
-    if (used.has(k) || seen.has(k)) continue;
-    seen.add(k); pick.push(h);
-    if (pick.length >= limit) break;
+    if (used.has(k) || seen.has(k)) return false;
+    seen.add(k); return true;
+  });
+  const out = []; let noImg = 0;
+  for (let i = 0; i < hooks.length && out.filter(c => c.image).length < limit && i < 400; i += 40) {
+    for (const c of await enrich(lang, hooks.slice(i, i + 40))) {
+      if (c.image) out.push(c);
+      else if (noImg < 8) { out.push(c); noImg++; }
+    }
   }
-  if (!pick.length) return [];
+  return out;
+}
+async function enrich(lang, pick) {
   const arts = await articles(lang, pick.map(h => h.title));
   const files = [...new Set([...arts.values()].map(a => a.image).filter(Boolean).map(f => f.replace(/_/g, ' ')))];
   const imgs = files.length ? await commons(files) : new Map();
@@ -155,18 +180,6 @@ async function wikiCandidates(lang, pages, used, limit) {
       image_rejected: im && !im.ok ? `${im.license || 'brak licencji'} (${im.file})` : (a.image && !im ? `plik ${a.image} nie jest na Commons (prawdopodobnie niewolny)` : undefined),
     };
   });
-}
-
-// ---------- Reddit r/todayilearned ----------
-async function reddit(used) {
-  try {
-    const j = await get('https://www.reddit.com/r/todayilearned/top.json?t=day&limit=40&raw_json=1');
-    const out = (j.data?.children || []).map(c => c.data).filter(d => !d.stickied && !d.over_18 && d.url && !used.has(key(d.url)))
-      .map(d => ({ source: 'reddit-til', lang: 'en', hook: d.title.replace(/^TIL( that)?:?\s*/i, ''), article: { title: d.title, url: d.url, extract: '' },
-        discussion: 'https://www.reddit.com' + d.permalink, score: d.score, image: null }));
-    status['reddit-til'] = `ok ${out.length}`;
-    return out.slice(0, 25);
-  } catch (e) { status['reddit-til'] = 'błąd: ' + e.message; return []; }
 }
 
 // ---------- RSS serwisów z ciekawostkami ----------
@@ -200,12 +213,9 @@ async function feeds(used) {
 
 // ---------- start ----------
 const used = usedKeys();
-const month = new Date().toLocaleString('en-US', { month: 'long', timeZone: 'Europe/Warsaw' });
-const year = today.slice(0, 4);
 const results = await Promise.all([
   wikiCandidates('pl', ['Szablon:Czy wiesz', 'Wikiprojekt:Czy wiesz/ekspozycje'], used, PER_SOURCE['wiki-pl']).catch(e => { status['wiki-pl'] = 'błąd: ' + e.message; return []; }),
-  wikiCandidates('en', ['Template:Did you know', 'Wikipedia:Recent additions', `Wikipedia:Recent additions/${year}/${month}`], used, PER_SOURCE['wiki-en']).catch(e => { status['wiki-en'] = 'błąd: ' + e.message; return []; }),
-  reddit(used),
+  wikiCandidates('en', ['Template:Did you know', 'Wikipedia:Recent additions', 'Wikipedia:Unusual articles'], used, PER_SOURCE['wiki-en']).catch(e => { status['wiki-en'] = 'błąd: ' + e.message; return []; }),
   feeds(used),
 ]);
 const candidates = results.flat().map((c, i) => ({ id: `c${i + 1}`, ...c }));

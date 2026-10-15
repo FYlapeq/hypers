@@ -1,4 +1,4 @@
-# Zbiera kandydatów na Ciekawostki (Wikipedia „Czy wiesz”, Reddit TIL, RSS) przed wydaniami 7:00 i 15:00.
+# Zbiera kandydatów na Ciekawostki (Wikipedia „Czy wiesz”, Unusual articles, RSS) przed wydaniami 7:00 i 15:00.
 # Wynik: runs/RRRR-MM-DD-<rano|popoludnie>.json na gałęzi `ciekawostki` (trzymane 15 dni).
 # Sesja wydania może go też odpalić sama:
 #   gh api -X POST repos/FYlapeq/hypers/actions/workflows/zbieracz-ciekawostek.yml/dispatches -f ref=main -f 'inputs[slot]=rano'
