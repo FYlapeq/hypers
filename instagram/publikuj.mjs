@@ -216,6 +216,17 @@ export function kandydaciSlotu(E, U, stan, dzien) {
     dnia.sort((a, b) => b.popol - a.popol || a.poz - b.poz);
     out.push(...dnia);
   }
+  // Zapas, żeby żaden slot nie został pusty: ciekawostki są ponadczasowe, więc gdy świeżych newsów z kadrem
+  // zabraknie, karuzelę dopełniają nieopublikowane ciekawostki z ostatnich `dni_zapasu_ciekawostek` dni.
+  const zapasDni = harmonogram().dni_zapasu_ciekawostek ?? 14;
+  const juz = new Set(out.map((x) => x.sciezka));
+  const starsze = Object.keys(E).sort().filter((d) => d <= dzien && !daty.includes(d)).slice(-zapasDni).reverse();
+  for (const data of starsze) (E[data].ciekawostki ?? []).forEach((news, i) => {
+    const sciezka = U[data]?.ciekawostki?.[i];
+    const st = stan?.opublikowane?.[sciezka];
+    if (sciezka && !juz.has(sciezka) && !st?.media_id && !(st?.pominiete && st.pominiete !== 'archiwum sprzed startu'))
+      out.push({ data, sekcja: 'ciekawostki', news, sciezka, zapas: true });
+  });
   return out;
 }
 
