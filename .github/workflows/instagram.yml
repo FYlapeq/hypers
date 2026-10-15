@@ -1,14 +1,12 @@
-# Automatyczne posty na Instagramie: każdy nowy news z wydania = jeden post (karta + treść newsa).
-# Konfiguracja i instrukcja: instagram/README.md
+# Posty na Instagramie: jeden news = jeden post, o godzinach z instagram/harmonogram.json (czas Warszawy).
+# Workflow budzi się co 15 min i publikuje, gdy minęła godzina z harmonogramu, a slot nie jest jeszcze zrobiony.
+# Post wychodzi tylko z oryginalną miniaturą filmu; news bez niej jest pomijany. Instrukcja: instagram/README.md
 name: Instagram
 on:
-  push:
-    branches: [main]
-    paths: ['data/urls.js']          # urls.js zmienia się przy każdym nowym wydaniu (build.mjs)
   workflow_dispatch:
     inputs:
       tryb:
-        description: "proba = karty i opisy do obejrzenia, sprawdz = test tokenu (bez publikacji), publikuj = normalne działanie"
+        description: "proba = podgląd kart dnia, sprawdz = test tokenu, publikuj = slot z harmonogramu (jeśli przypada) albo news z pola tylko"
         type: choice
         options: ["proba", "sprawdz", "publikuj"]
         default: "proba"
@@ -21,6 +19,7 @@ on:
         type: string
         required: false
   schedule:
+    - cron: '7,22,37,52 * * * *'     # co 15 min (nie o pełnej godzinie, wtedy GitHub najbardziej się spóźnia)
     - cron: '17 3 * * 1'             # poniedziałek: odświeżenie tokenu (ważny 60 dni)
 permissions:
   contents: write
@@ -45,41 +44,33 @@ jobs:
         run: node instagram/sprawdz.mjs
 
   posty:
-    if: github.event_name != 'schedule' && !(github.event_name == 'workflow_dispatch' && inputs.tryb == 'sprawdz')
+    if: >-
+      (github.event_name == 'schedule' && github.event.schedule != '17 3 * * 1') ||
+      (github.event_name == 'workflow_dispatch' && inputs.tryb != 'sprawdz')
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
     env:
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       IG_WARIANT: ${{ vars.IG_WARIANT || 'e' }}
-      IG_ODSTEP_MIN: ${{ vars.IG_ODSTEP_MIN || '3' }}
       IG_KADRY: ${{ vars.IG_KADRY || '1' }}
       IG_WLACZONY: ${{ vars.IG_WLACZONY || '0' }}
+      IG_TYLKO: ${{ github.event_name == 'workflow_dispatch' && inputs.tryb == 'publikuj' && inputs.tylko || '' }}
+      IG_TRYB: slot
       DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.tryb == 'proba') && '1' || '0' }}
       STAN_DIR: ${{ github.workspace }}/ig-stan
     steps:
       - name: Wyłącznik
-        if: env.DRY_RUN != '1' && env.IG_WLACZONY != '1'
+        id: wl
         run: |
-          echo "Publikacja wyłączona. Ustaw zmienną repo IG_WLACZONY=1 (Settings → Secrets and variables → Actions → Variables)." >> "$GITHUB_STEP_SUMMARY"
+          if [ "$DRY_RUN" = "1" ] || [ "$IG_WLACZONY" = "1" ]; then echo "dziala=1" >> "$GITHUB_OUTPUT"
+          else echo "Publikacja wyłączona: zmienna repo IG_WLACZONY != 1." >> "$GITHUB_STEP_SUMMARY"; fi
       - uses: actions/checkout@v4
-        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        if: steps.wl.outputs.dziala == '1'
         with:
-          ref: main                    # najnowszy main (także po commicie bota ze stronami artykułów)
-      - uses: actions/setup-node@v4
-        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
-        with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: instagram/package-lock.json
-      - name: Zależności i Chromium
-        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
-        working-directory: instagram
-        run: |
-          npm ci --no-audit --no-fund
-          npx playwright install --with-deps chromium
+          ref: main
       - name: Stan z gałęzi instagram (świeża gałąź bez historii)
-        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        if: steps.wl.outputs.dziala == '1'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -93,13 +84,32 @@ jobs:
           else
             echo "Gałąź instagram jeszcze nie istnieje: pierwsze uruchomienie oznaczy archiwum jako pominięte."
           fi
+      - name: Czy teraz jest slot?
+        id: slot
+        if: steps.wl.outputs.dziala == '1'
+        run: |
+          if [ "$DRY_RUN" = "1" ] || [ -n "$IG_TYLKO" ] || [ ! -f "$STAN_DIR/opublikowane.json" ]; then echo "teraz=1" >> "$GITHUB_OUTPUT"; exit 0; fi
+          K=$(node instagram/slot.mjs "$STAN_DIR/opublikowane.json")
+          if [ -n "$K" ]; then echo "Slot do zrobienia: $K"; echo "teraz=1" >> "$GITHUB_OUTPUT"; else echo "Brak slotu teraz."; fi
+      - uses: actions/setup-node@v4
+        if: steps.slot.outputs.teraz == '1'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: instagram/package-lock.json
+      - name: Zależności i Chromium
+        if: steps.slot.outputs.teraz == '1'
+        working-directory: instagram
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright install --with-deps chromium
       - name: Podgląd (tryb próba)
-        if: env.DRY_RUN == '1'
+        if: steps.slot.outputs.teraz == '1' && env.DRY_RUN == '1'
         env:
           DZIEN: ${{ inputs.dzien }}
         run: |
           D="${DZIEN:-$(node -e "const v=require('vm'),c={window:{}};v.runInNewContext(require('fs').readFileSync('data/editions.js','utf8'),c);console.log(Object.keys(c.window.HYPERS_EDITIONS).sort().at(-1))")}"
-          IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs
+          IG_TRYB= IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs
           # Podgląd także na gałęzi instagram-podglad (nadpisywana), do obejrzenia na GitHubie bez pobierania.
           cd "$STAN_DIR/karty"
           git init -q -b instagram-podglad
@@ -108,20 +118,9 @@ jobs:
           git add -A && git commit -q -m "Podgląd Instagram $D"
           git push -q --force "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:instagram-podglad
           rm -rf .git
-          {
-            echo "Podgląd kart z dnia $D: gałąź [instagram-podglad](https://github.com/${GITHUB_REPOSITORY}/tree/instagram-podglad)"
-            echo "(opisy w podglad.md) albo artefakt **instagram-podglad** poniżej."
-          } >> "$GITHUB_STEP_SUMMARY"
-      - uses: actions/upload-artifact@v4
-        if: env.DRY_RUN == '1'
-        with:
-          name: instagram-podglad
-          path: ig-stan/karty/
-          retention-days: 7
+          echo "Podgląd kart z dnia $D: gałąź [instagram-podglad](https://github.com/${GITHUB_REPOSITORY}/tree/instagram-podglad)" >> "$GITHUB_STEP_SUMMARY"
       - name: Publikacja
-        if: env.DRY_RUN != '1' && env.IG_WLACZONY == '1'
-        env:
-          IG_TYLKO: ${{ inputs.tylko }}
+        if: steps.slot.outputs.teraz == '1' && env.DRY_RUN != '1'
         run: node instagram/publikuj.mjs
 
   token:

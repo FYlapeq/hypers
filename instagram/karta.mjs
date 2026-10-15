@@ -241,7 +241,11 @@ export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null }) {
 export async function pobierzKadr(news) {
   if (process.env.IG_KADRY === '0' || !news.image || news.noImage) return null;
   if (!['kadr', 'prasowe'].includes(news.image.kind)) return null;
-  if (process.env.IG_TEST_TLO) return `data:image/jpeg;base64,${readFileSync(process.env.IG_TEST_TLO).toString('base64')}`;
+  if (process.env.IG_TEST_TLO) {
+    // Zastępczy obraz tylko w lokalnych testach na sucho; prawdziwy post zawsze dostaje oryginalną miniaturę.
+    if (process.env.DRY_RUN !== '1') throw new Error('IG_TEST_TLO wolno używać tylko z DRY_RUN=1');
+    return `data:image/jpeg;base64,${readFileSync(process.env.IG_TEST_TLO).toString('base64')}`;
+  }
   for (const url of [news.image.src, news.image.fallback].filter(Boolean)) {
     try {
       const u = new URL(url);

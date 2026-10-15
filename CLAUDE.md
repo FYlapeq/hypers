@@ -60,6 +60,7 @@ news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category,
 - Workflow `.github/workflows/build-articles.yml` przebudowuje strony po pushu zmieniającym `data/editions.js`.
 
 ## Instagram
-- Workflow `.github/workflows/instagram.yml` sam wrzuca każdy nowy news jako post na IG (karta + treść), po pushu zmieniającym `data/urls.js`. Sesja wydania nic tu nie robi; nie trzeba go uruchamiać.
+- Workflow `.github/workflows/instagram.yml` sam wrzuca na IG jeden news (karta + treść) o godzinach z `instagram/harmonogram.json` (od 7:00 co 2 h), wybierając najświeższy nieopublikowany. Sesja wydania nic tu nie robi.
+- Post wychodzi tylko z oryginalną miniaturą filmu z pola `image`; news z `noImage` nie trafi na IG.
 - Treść posta = `title` + `body` + nazwy źródeł, więc to, co piszesz w newsie, idzie 1:1 na Instagram. Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
 - Gałąź `instagram` należy do automatu: nie commituj na nią i nie czytaj jej. Szczegóły: `instagram/README.md`.

@@ -1,0 +1,9 @@
+{
+  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Jeden post na godzinę z listy. 'wyjatki' nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany.",
+  "godziny": ["07:00", "09:00", "11:00", "13:00", "15:00", "17:00", "19:00"],
+  "wyjatki": {
+    "2026-10-15": ["16:00", "18:00", "20:00"]
+  },
+  "maks_opoznienie_min": 90,
+  "dni_wstecz": 1
+}

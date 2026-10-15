@@ -8,13 +8,18 @@
 //
 // Zmienne: IG_TOKEN, IG_USER_ID (sekrety), DRY_RUN=1 (tylko karty + podgląd opisów),
 //          IG_WARIANT (domyślnie e), IG_ODSTEP_MIN (przerwa między postami, domyślnie 3), IG_MAKS (domyślnie 20),
-//          IG_KADRY=0 (bez miniatur w tle), STAN_DIR (domyślnie ./ig-stan), REPO (owner/repo).
+//          IG_KADRY=0 (bez miniatur w tle), STAN_DIR (domyślnie ./ig-stan), REPO (owner/repo),
+//          IG_TRYB=slot (jeden post wg harmonogram.json; domyślny tryb workflow), IG_TYLKO=<ścieżka> (jeden wskazany news).
+// Zasada: post wychodzi WYŁĄCZNIE z prawdziwym kadrem (miniaturą filmu z pola image). Bez kadru news jest pomijany,
+// nigdy nie idzie karta zastępcza.
 import { readFileSync, writeFileSync, existsSync, mkdirSync, rmSync } from 'node:fs';
 import { join, resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
 import vm from 'node:vm';
-import { renderuj, SEKCJE } from './karta.mjs';
+import { biezacySlot, harmonogram } from './slot.mjs';
+
+const SEKCJE = ['ryby', 'luz', 'czapy']; // jak w karta.mjs (bez importu, żeby nie ładować Playwrighta bez potrzeby)
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const API = 'https://graph.instagram.com/v25.0';
@@ -45,7 +50,7 @@ export function listaNewsow(E, U) {
   const out = [];
   for (const data of Object.keys(E).sort()) {
     const wyd = [];
-    for (const sekcja of Object.keys(SEKCJE)) (E[data][sekcja] ?? []).forEach((news, i) => {
+    for (const sekcja of SEKCJE) (E[data][sekcja] ?? []).forEach((news, i) => {
       const sciezka = U[data]?.[sekcja]?.[i];
       if (sciezka) wyd.push({ data, sekcja, news, sciezka });
     });
@@ -138,6 +143,27 @@ async function wolnyLimit() {
   } catch (e) { log('Nie udało się sprawdzić limitu:', e.message); return 50; }
 }
 
+// Kandydaci na slot: newsy z dnia slotu i `dni_wstecz` dni wcześniej, bez publikacji na IG
+// (oznaczenie „archiwum sprzed startu” się nie liczy). Kolejność: najnowszy dzień, popołudniowa porcja
+// przed poranną, potem kolejność ze strony (temat dnia pierwszy).
+export function kandydaciSlotu(E, U, stan, dzien) {
+  const dni = harmonogram().dni_wstecz ?? 1;
+  const daty = Object.keys(E).sort().filter((d) => d <= dzien).slice(-(dni + 1)).reverse();
+  const out = [];
+  for (const data of daty) {
+    const dnia = [];
+    for (const sekcja of SEKCJE) (E[data][sekcja] ?? []).forEach((news, i) => {
+      const sciezka = U[data]?.[sekcja]?.[i];
+      const st = stan?.opublikowane?.[sciezka];
+      const zajety = st?.media_id || (st?.pominiete && st.pominiete !== 'archiwum sprzed startu');
+      if (sciezka && !zajety) dnia.push({ data, sekcja, news, sciezka, popol: news.slot === '15:00' ? 1 : 0, poz: dnia.length });
+    });
+    dnia.sort((a, b) => b.popol - a.popol || a.poz - b.poz);
+    out.push(...dnia);
+  }
+  return out;
+}
+
 // ---------- główny przebieg ----------
 async function main() {
   const { E, U } = wczytaj();
@@ -159,21 +185,45 @@ async function main() {
     return;
   }
 
-  // IG_TYLKO=<ścieżka artykułu>: publikacja jednego wskazanego newsa, także już oznaczonego w stanie.
-  const nowe = env.IG_TYLKO
-    ? wszystkie.filter((x) => x.sciezka === env.IG_TYLKO.trim())
-    : wszystkie.filter((x) => !stan.opublikowane[x.sciezka]).slice(0, MAKS);
-  if (env.IG_TYLKO && !nowe.length) throw new Error(`Nie ma newsa ${env.IG_TYLKO} w data/urls.js`);
-  if (!nowe.length) { log('Brak nowych newsów do publikacji.'); return; }
-  log(`Nowe newsy: ${nowe.length}`);
+  // Tryb slot: jeden post o godzinie z harmonogram.json, najświeższy nieopublikowany news (dziś, potem wczoraj).
+  let slot = null;
+  let kandydaci;
+  if (env.IG_TYLKO) {
+    kandydaci = wszystkie.filter((x) => x.sciezka === env.IG_TYLKO.trim());
+    if (!kandydaci.length) throw new Error(`Nie ma newsa ${env.IG_TYLKO} w data/urls.js`);
+  } else if (env.IG_TRYB === 'slot') {
+    slot = biezacySlot(stan);
+    if (!slot && !DRY) { log('Teraz nie ma slotu do zrobienia.'); return; }
+    slot ??= { klucz: 'podglad', data: Object.keys(E).sort().at(-1) };
+    kandydaci = kandydaciSlotu(E, U, stan, slot.data);
+  } else {
+    kandydaci = wszystkie.filter((x) => !stan.opublikowane[x.sciezka]);
+  }
+  const limit = env.IG_TRYB === 'slot' || env.IG_TYLKO ? 1 : MAKS;
 
   // Karty bieżącego uruchomienia (stare usuwamy, gałąź i tak jest nadpisywana).
   const kartyDir = join(STAN_DIR, 'karty');
   rmSync(kartyDir, { recursive: true, force: true });
   mkdirSync(kartyDir, { recursive: true });
   const nazwa = (x) => x.sciezka.replace(/^artykuly\//, '').replace(/\//g, '_').replace(/\.html$/, '.jpg');
-  const wyniki = await renderuj(nowe.map((x) => ({ ...x, wariant: WARIANT, plik: join(kartyDir, nazwa(x)) })));
-  nowe.forEach((x, i) => { x.zKadrem = wyniki[i].kadr; x.opis = opis(x.news, { zKadrem: x.zKadrem }); });
+  const { renderuj } = await import('./karta.mjs');
+
+  // Tylko prawdziwy kadr: renderujemy po kolei i odrzucamy newsy, dla których miniatury nie udało się pobrać.
+  const nowe = [];
+  for (const x of kandydaci) {
+    if (nowe.length >= limit) break;
+    const [w] = await renderuj([{ ...x, wariant: WARIANT, plik: join(kartyDir, nazwa(x)) }]);
+    if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
+    x.zKadrem = true;
+    x.opis = opis(x.news, { zKadrem: true });
+    nowe.push(x);
+  }
+  if (!nowe.length) {
+    log('Brak newsa z oryginalną miniaturą do publikacji.');
+    if (slot && !DRY) { stan.sloty ??= {}; stan.sloty[slot.klucz] = { brak: 'brak nieopublikowanego newsa z miniaturą' }; zapiszStan(stan); commitStanu(`Instagram: slot ${slot.klucz} pusty`); }
+    return;
+  }
+  log(`Do publikacji: ${nowe.length}${slot ? ` (slot ${slot.klucz})` : ''}`);
 
   if (DRY) {
     const md = nowe.map((x) => `## ${nazwa(x)}${x.zKadrem ? '' : ' (bez kadru)'}\n\n\`\`\`\n${x.opis}\n\`\`\`\n`).join('\n');
@@ -198,7 +248,8 @@ async function main() {
     const url = `https://raw.githubusercontent.com/${REPO}/${sha}/karty/${encodeURIComponent(nazwa(x))}`;
     try {
       const id = await opublikuj(url, x.opis);
-      stan.opublikowane[x.sciezka] = { media_id: id, kiedy: new Date().toISOString() };
+      stan.opublikowane[x.sciezka] = { media_id: id, kiedy: new Date().toISOString(), ...(slot && { slot: slot.klucz }) };
+      if (slot) { stan.sloty ??= {}; stan.sloty[slot.klucz] = { sciezka: x.sciezka, media_id: id }; }
       wolne--;
       log(`✓ ${x.news.title} → ${id}`);
     } catch (e) {
@@ -213,6 +264,7 @@ async function main() {
     commitStanu(`Instagram: ${x.sciezka}`);
     if (i < nowe.length - 1) await sleep(ODSTEP_MS);
   }
+  // Nieudana publikacja w slocie: slot zostaje otwarty i kolejne uruchomienie (za ok. 15 min) spróbuje ponownie.
   if (bledy) { process.exitCode = 1; log(`Błędy: ${bledy}`); }
 }
 

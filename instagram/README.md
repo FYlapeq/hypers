@@ -1,10 +1,12 @@
 # Hypers na Instagramie
 
-Każdy nowy news z wydania trafia na Instagram jako osobny post: karta 1080×1350 (wariant E: kadr z filmu w tle, tytuł na dole) i opis z treścią newsa, źródłami i hashtagami. Robi to workflow `.github/workflows/instagram.yml` po każdym pushu zmieniającym `data/urls.js`, czyli po każdym wydaniu.
+Na Instagram idzie jeden news na raz, o godzinach z `harmonogram.json` (czas Warszawy, domyślnie 7:00, 9:00 … 19:00; `wyjatki` nadpisują listę dla konkretnego dnia). Post to karta 1080×1350 (wariant E: kadr z filmu w tle) i opis z treścią newsa, źródłami i hashtagami. Workflow `.github/workflows/instagram.yml` budzi się co 15 min i publikuje, gdy minęła godzina z harmonogramu (maks. 90 min spóźnienia), wybierając najświeższy nieopublikowany news z dziś i wczoraj.
+
+**Tylko oryginalna grafika:** post wychodzi wyłącznie z prawdziwą miniaturą filmu z pola `image`. Gdy miniatury nie da się pobrać albo news ma `noImage`, automat bierze następny news; zastępczej karty nigdy nie publikuje.
 
 ## Jak to działa
 - `karta.mjs` renderuje karty w headless Chromium (czcionki Anton i Work Sans z `/fonts`). Kadr w tle tylko wtedy, gdy news ma na stronie `image` (`kadr` z i.ytimg.com albo `prasowe`); newsy z `noImage` dostają kartę bez zdjęcia (wariant A). Na karcie i w opisie jest podpis „Kadr: Twórca / YouTube”.
-- `publikuj.mjs` wybiera newsy, których nie ma w stanie, renderuje karty, wrzuca je na gałąź `instagram` i publikuje przez Instagram API (graph.instagram.com). Kolejność: temat dnia idzie ostatni, żeby był na górze profilu. Między postami 3 min przerwy.
+- `publikuj.mjs` wybiera newsy, których nie ma w stanie, renderuje karty, wrzuca je na gałąź `instagram` i publikuje przez Instagram API (graph.instagram.com). Kolejność w slocie: najnowszy dzień, porcja 15:00 przed 7:00, potem kolejność ze strony.
 - Gałąź `instagram` jest za każdym razem tworzona od zera: trzyma tylko `opublikowane.json` (co już poszło) i karty bieżącego uruchomienia, więc grafiki nie zaśmiecają historii repo. Nie commituj na nią ręcznie.
 - Pierwsze uruchomienie oznacza całe archiwum jako pominięte: na IG idą tylko wydania od momentu włączenia.
 - Nieudany post jest ponawiany przy kolejnym uruchomieniu; po 3 błędach zostaje pominięty (powód w `opublikowane.json`).
