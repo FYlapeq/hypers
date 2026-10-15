@@ -1,0 +1,1656 @@
+{
+ "run": {
+  "date": "2026-10-16",
+  "slot": "popoludnie",
+  "generated_at": "2026-10-15T22:03:18.889Z",
+  "candidates": 93,
+  "with_free_image": 37
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 0 (li: 8, próbka: Zgłaszanie propozycji (do oceny) || Propozycje do ekspozycji (ocenione) || Pomoc)",
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 0 (li: 20, próbka: Zgłaszanie propozycji (do oceny) || Propozycje do ekspozycji (ocenione) || Pomoc)",
+  "rss:Mental Floss": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 134",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4240"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1876 United States presidential election: Forget 2000; this was the closest election in American history. With election fraud of all kind, sky-high tensions, and worries the nation would fall back into civil war over the winner, the champion of this election was decided by 15 people just 56 hours before inauguration day.",
+   "article": {
+    "title": "1876 United States presidential election",
+    "url": "https://en.wikipedia.org/wiki/1876_United_States_presidential_election",
+    "extract": "Presidential elections were held in the United States on November 7, 1876. The Republican ticket of Governor Rutherford B. Hayes of Ohio and House Representative William A. Wheeler of New York very narrowly defeated the Democratic ticket of Governor Samuel J. Tilden of New York and Governor Thomas A. Hendricks of Indiana.\nFollowing President Ulysses S. Grant's decision to retire after his second term, U.S. Representative James G. Blaine emerged as frontrunner for the Republican nomination; however, Blaine was unable to win a majority at the 1876 Republican National Convention, which settled on Hayes as a compromise candidate. The 1876 Democratic National Convention nominated Tilden on the second ballot."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:President Rutherford Hayes 1870 - 1880 (3x4 cropped).jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Long-term nuclear waste warning messages: How do you warn people to stay away from nuclear waste repositories in a way that will be understandable 10,000 years from now?",
+   "article": {
+    "title": "Long-term nuclear waste warning messages",
+    "url": "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages",
+    "extract": "Long-term nuclear waste warning messages are communication attempts intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years. Nuclear semiotics is an interdisciplinary field of research that aims to study and design optimal signage techniques and messages for this purpose; it was first established by the American Human Interference Task Force in 1981.\nA 1993 report from Sandia National Laboratories recommended that such messages be constructed at several levels of complexity. They suggested that the sites should include foreboding physical features which would immediately convey to future visitors that the site was both man-made and dangerous, as well as providing pictographic information attempting to convey some details of the danger, and written explanations for those able to read it."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Pictogram for nuclear sites, US Department of Energy, 2004.png)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mount Shchekavytsia orgy: \"Hey, a nuclear missile is heading towards us, what if we proceed to give each other a lot of affection?\"",
+   "article": {
+    "title": "Mount Shchekavytsia orgy",
+    "url": "https://en.wikipedia.org/wiki/Mount_Shchekavytsia_orgy",
+    "extract": "In 2022, a Ukrainian internet meme invited Ukrainians to gather on Mount Shchekavytsia in Kyiv for an orgy in the event of a Russian nuclear strike on Ukraine during the Russo-Ukrainian war."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Київ. Щекавиця 09.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kanchō: Popular among East Asian children, this \"game\" is played by going up to someone and sneakily poking them in the ass.",
+   "article": {
+    "title": "Kanchō",
+    "url": "https://en.wikipedia.org/wiki/Kanch%C5%8D",
+    "extract": "Kanchō (カンチョー; pronounced [kaɲtɕoː]) is a prank performed by clasping the hands together in the shape of a finger gun and poking the anus of an unsuspecting person, often while exclaiming \"Kan-cho!\" It is a common prank in East Asian countries such as Japan. In Korea, it is called ttongchim (똥침; 똥針, pronounced [t͈oŋ.tɕʰim]), and in China, qiānnián shā (千年殺, \"thousand-year kill\" or \"immortal kill\"). The word \"kanchō\" is a slang adoption of the Japanese word for enema (浣腸, kanchō). In accordance with widespread practice, the word is generally written in katakana when used in its slang sense and in kanji when used for enemas in the medical sense."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kancho_2021-08-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kancho_2021-08-20.jpg",
+    "file": "File:Kancho 2021-08-20.jpg",
+    "artist": "Asanagi",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 650,
+    "height": 366,
+    "ok": true
+   }
+  },
+  {
+   "id": "c5",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Whitey on the Moon\": Not everybody was happy to see the first man on the Moon.",
+   "article": {
+    "title": "Whitey on the Moon",
+    "url": "https://en.wikipedia.org/wiki/Whitey_on_the_Moon",
+    "extract": "\"Whitey on the Moon\" is a spoken word poem by Gil Scott-Heron, released as the ninth track on his debut album Small Talk at 125th and Lenox in 1970. Accompanied by conga drums, Scott-Heron's narrative tells of medical debt, high taxes and poverty experienced at the time of the Apollo Moon landings. The poem critiques the resources spent on the space program while Black Americans were experiencing social and economic disparities at home.\n\"Whitey on the Moon\" was prominently featured in the 2018 biographical film about Neil Armstrong, First Man, and \"Whitey's on the Moon\", the second episode of HBO's 2020 television series Lovecraft Country."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gil_Scott_Heron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gil_Scott_Heron.jpg",
+    "file": "File:Gil Scott Heron.jpg",
+    "artist": "Robman94",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 330,
+    "height": 467,
+    "ok": true
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Covered smut (barley): You may snicker now, but if you had any of these, I guarantee you wouldn't be laughing much.",
+   "article": {
+    "title": "Covered smut (barley)",
+    "url": "https://en.wikipedia.org/wiki/Covered_smut_(barley)",
+    "extract": "Covered smut of barley is caused by the fungus Ustilago hordei. The disease is found worldwide and it is more extensively distributed than either loose smut or false loose smut."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nsr-slika-330.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nsr-slika-330.png",
+    "file": "File:Nsr-slika-330.png",
+    "artist": "Martin Cilenšek",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 980,
+    "height": 1887,
+    "ok": true
+   }
+  },
+  {
+   "id": "c7",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cotard's syndrome: Suffered by people, very much alive, who believe they're dead.",
+   "article": {
+    "title": "Cotard's syndrome",
+    "url": "https://en.wikipedia.org/wiki/Cotard%27s_syndrome",
+    "extract": "Cotard's syndrome, also known as Cotard's delusion or walking corpse syndrome, is a mental disorder in which the affected person holds the delusional belief that they are deceased, do not exist, are putrefying, or have lost their blood or internal organs. Statistical analysis of a hundred-patient cohort indicated that denial of self-existence is present in 45% of the cases of Cotard's syndrome; the other 55% of the patients presented with delusions of immortality.\n\nIn 1880, the neurologist and psychiatrist Jules Cotard described the condition as le délire des négations (\"the delusion of negation\"), a psychiatric syndrome of varied severity. A mild case is characterized by despair and self-loathing, while a severe case is characterized by intense delusions of negation, and chronic psychiatric depression."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Expert wizard amendment: New Mexico narrowly avoided requiring all psychiatrists testifying in court to put on a robe and wizard hat.",
+   "article": {
+    "title": "Expert wizard amendment",
+    "url": "https://en.wikipedia.org/wiki/Expert_wizard_amendment",
+    "extract": "The expert wizard amendment was a proposed amendment by New Mexico state senator Duncan Scott, which would require psychologists and psychiatrists to dress up as wizards when they were in court proceedings providing expert testimony regarding a defendant's competency. The amendment, proposed in 1995, passed New Mexico's Senate unanimously. Scott revealed the amendment was satirical prior to a vote in New Mexico House of Representatives following which it was removed and thus never signed into law.\nScott said that he crafted the amendment because he felt that there were an excessive number of mental health practitioners acting as expert witnesses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magic_Wizard%27s_Hat_%28icon%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Magic_Wizard%27s_Hat_(icon).png",
+    "file": "File:Magic Wizard's Hat (icon).png",
+    "artist": "user:Dustimagic",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 858,
+    "height": 1025,
+    "ok": true
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jackass Flats: The aptly named test site for the world's first and only nuclear-powered rocket engines.",
+   "article": {
+    "title": "Jackass Flats",
+    "url": "https://en.wikipedia.org/wiki/Jackass_Flats",
+    "extract": "Jackass Flats is a shallow alluvial basin located in the southwest portion of the Nevada National Security Site in Nye County, Nevada, United States. The area lies east of Yucca Mountain, south of the Calico Hills and Shoshone Mountain and northwest of Skull Mountain. The valley drains to the southwest via the Tonopah and Fortymile washes into the Amargosa Valley across US Route 95 at the town of Amargosa Valley, Nevada. The \"flat\" covers an area of approximately 120 square miles (310 km2) and ranges in elevation from about 2,800 ft (850 m) just north of US 95 to 4,000 ft (1,200 m) at the mountain bases to the north and east."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Peacekeeper_-_simulated_missile_and_canister_test_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Peacekeeper_-_simulated_missile_and_canister_test_1.jpg",
+    "file": "File:Peacekeeper - simulated missile and canister test 1.jpg",
+    "artist": "Federal Government of the United States",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 453,
+    "height": 370,
+    "ok": true
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Logistics (film): The longest movie ever made, it follows the entire five-week process of making and selling a pedometer in reverse chronological order.",
+   "article": {
+    "title": "Logistics (film)",
+    "url": "https://en.wikipedia.org/wiki/Logistics_(film)",
+    "extract": "Logistics, or Logistics Art Project, is a 2012 Swedish experimental film conceived and created by Erika Magnusson and Daniel Andersson. At 51,420 minutes (857 hours or 35 days and 17 hours), it is the longest film ever made."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jordanhill railway station: An ordinary railway station in Glasgow… is what this would've been had it not been the subject of the millionth article on Wikipedia.",
+   "article": {
+    "title": "Jordanhill railway station",
+    "url": "https://en.wikipedia.org/wiki/Jordanhill_railway_station",
+    "extract": "Jordanhill railway station is a side-platformed suburban railway station in the Jordanhill area in the West End of Glasgow, Scotland. The station, which is governed by Transport Scotland and managed by ScotRail, lies on the Argyle Line and the North Clyde Line. It is 12 chains (240 metres) from Hyndland West Junction and approximately four miles (six kilometres) from Glasgow City Centre. It has received international recognition for being the subject of the millionth article on the English Wikipedia."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Jordanhill station 2016-08-25.jpg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Niuas Nobles' constituency: An electoral constituency consisting of just three voters, who elect one of their number to one of the twenty-six seats in the Legislative Assembly of Tonga.",
+   "article": {
+    "title": "Niuas Nobles' constituency",
+    "url": "https://en.wikipedia.org/wiki/Niuas_Nobles%27_constituency",
+    "extract": "Niuas is an electoral constituency which sends one representative to the Legislative Assembly of Tonga. It covers the islands of Niuafoʻou and Niuatoputapu.\nSince its inception in 1875, the Assembly has consisted in representatives of the people and in members of the nobility. Following constitutional reforms in 2010, designed to strengthen democracy in the kingdom, the nobility elect nine representatives, while the people elect seventeen."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Canusa Street: A road that's in both Canada and the United States.",
+   "article": {
+    "title": "Canusa Street",
+    "url": "https://en.wikipedia.org/wiki/Canusa_Street",
+    "extract": "Canusa Street (French: rue Canusa) is a road part of Quebec Route 247.\nThe road primarily runs east–west, connecting Rue Principale to the west and Rue Railroad to the east. A particular 0.38 mi (0.61 km) long stretch of Canusa Street runs along the 45th parallel north, which defines the Canada–United States border. On this stretch of road, the middle yellow line defines the international border and separates Beebe Plain, Vermont, in the United States, from the Beebe Plain area of Stanstead, Quebec, in Canada."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Rue canusa full length marked.png)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Beer can pyramid: Or beeramid, if you prefer.",
+   "article": {
+    "title": "Beer can pyramid",
+    "url": "https://en.wikipedia.org/wiki/Beer_can_pyramid",
+    "extract": "A beer can pyramid, often called a beeramid as a portmanteau, is a pyramid made of discarded beer cans or cups. It can also refer to a drinking game that utilizes playing cards in the shape of a pyramid."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beeramid.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Beeramid.JPG",
+    "file": "File:Beeramid.JPG",
+    "artist": "User Lightdarkness on en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 450,
+    "height": 754,
+    "ok": true
+   }
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Emperor Norton: To give him his full title; Norton I, Emperor of the United States, Protector of Mexico. Somewhat recognized by the population of California.",
+   "article": {
+    "title": "Emperor Norton",
+    "url": "https://en.wikipedia.org/wiki/Emperor_Norton",
+    "extract": "Joshua Abraham Norton (February 4, 1818 – January 8, 1880), commonly known as Emperor Norton, was a resident of San Francisco, California, who declared himself Emperor of the United States in 1859 and Protector of Mexico in 1866, roles that he maintained until his death in 1880. Norton's notable acts include proposing the construction of what opened as the San Francisco–Oakland Bay Bridge in 1936.\nBorn in England and raised in South Africa, Norton left Cape Town in late 1845, sailing from Liverpool to Boston in early 1846 and eventually arriving in San Francisco in late 1849. After a brief period of prosperity, Norton made a business gambit in late 1852 that played out poorly, ultimately forcing him to declare bankruptcy in 1856."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Norton-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Norton-2.jpg",
+    "file": "File:Norton-2.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1044,
+    "height": 1785,
+    "ok": true
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Croissant (linguistic zone): Delectable dialects!",
+   "article": {
+    "title": "Croissant (linguistic zone)",
+    "url": "https://en.wikipedia.org/wiki/Croissant_(linguistic_zone)",
+    "extract": "The Croissant (Occitan: lo Creissent; French: le Croissant) is a linguistic transitional zone between the Langue d'oc (also referred to as Occitan) dialects and the Langue d'oïl dialects, situated in the centre of France where Occitan dialects are spoken (Limousin and Auvergnat) that have transitional traits toward French (Langue d'oïl). The name derives from the contours of the zone that resemble a croissant, or crescent.\nThe first author to use the term Croissant was the linguist Jules Ronjat (1864–1925) in 1913.\nThere are two main Croissant dialects:\n\nMarchois, which is closer to the Limousin dialect, is found in the west, going from Confolentais (Charente) to Montluçon and its surrounds (west of Allier/Gorges du Cher) and passing through the north of Creuse and Guéret."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Croissant_%28zone_de_transition_linguistique%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Croissant_(zone_de_transition_linguistique).png",
+    "file": "File:Croissant (zone de transition linguistique).png",
+    "artist": "Aavitus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 742,
+    "height": 341,
+    "ok": true
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ecce Homo (García Martínez and Giménez): An otherwise-unremarkable fresco of Jesus that was \"restored\" by an untrained amateur and now looks like a monkey.",
+   "article": {
+    "title": "Ecce Homo (García Martínez and Giménez)",
+    "url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Garc%C3%ADa_Mart%C3%ADnez_and_Gim%C3%A9nez)",
+    "extract": "The Ecce Homo (Latin: \"Behold the Man\") in the Sanctuary of Mercy church (Santuario de Misericordia)  in Borja, Spain, is a fresco painted circa 1930 by the Spanish painter Elías García Martínez that depicts Jesus crowned with thorns. Both the subject and style were typical of traditional Catholic art.\nWhile press accounts agree that the original painting was artistically unremarkable, its current fame derives from a partial attempt in 2012 to restore the fresco by Cecilia Giménez, then an 81-year-old untrained amateur artist and resident of Borja. Her restoration became at first a local and then international sensation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Elias_Garcia_Martinez_-_Ecce_Homo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Elias_Garcia_Martinez_-_Ecce_Homo.jpg",
+    "file": "File:Elias Garcia Martinez - Ecce Homo.jpg",
+    "artist": "Elías García Martínez",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 700,
+    "height": 1072,
+    "ok": true
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Celso Daniel: A city mayor in Brazil who was, allegedly, assassinated in 2002 by criminals, but many people say that he was murdered for political reasons. Within five years, seven witnesses were found dead. To this day, the case remains unsolved.",
+   "article": {
+    "title": "Celso Daniel",
+    "url": "https://en.wikipedia.org/wiki/Celso_Daniel",
+    "extract": "Celso Augusto Daniel (April 16, 1951 – January 18, 2002) was the mayor in 2002 for the third time of the city of Santo André in São Paulo, Brazil, as a representative of the Workers' Party (PT). He was kidnapped and murdered in the same year.\nA civil engineer who graduated in 1973, from the Engenharia Mauá School, in São Caetano do Sul, he followed an academic career and obtained a master's degree in public administration from the Fundação Getúlio Vargas (FGV-SP) and a doctorate in political science from the Pontifícia Universidade Católica (PUC-SP). He acted later as a teacher in both universities."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Celso_Daniel_73440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Celso_Daniel_73440.jpg",
+    "file": "File:Celso Daniel 73440.jpg",
+    "artist": "Portal da Câmara dos Deputados (Brazil)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 354,
+    "height": 472,
+    "ok": true
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kuchisake-onna: A Japanese urban legend (probably). Also known as \"the slit-mouthed woman\", Kuchisake-onna is asking you if you think she's pretty. No matter what you answer, you're doomed. Except if you say \"pomade\" three times.",
+   "article": {
+    "title": "Kuchisake-onna",
+    "url": "https://en.wikipedia.org/wiki/Kuchisake-onna",
+    "extract": "Kuchisake-onna (口裂け女; 'Slit-Mouthed Woman') is a malevolent figure in Japanese urban legends and folklore. Described as the malicious spirit, or onryō, of a woman, she partially covers her face with a mask or other item to hide her scar and carries a pair of scissors, a knife, or some other sharp object. She is most often described as a tall woman of about 175–180 cm (or 5’7-5’9 ft); however, some people believe she is up to 243.84 cm (or 8ft) tall, having long straight black hair, white hands, pale skin, and otherwise being considered beautiful (except for her scar).\nShe has been described as a contemporary yōkai."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shungyosai_Tayu-no-kao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shungyosai_Tayu-no-kao.jpg",
+    "file": "File:Shungyosai Tayu-no-kao.jpg",
+    "artist": "Hayami Shungyōsai (速水春暁斎, Japanese, *1767, †1823)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 389,
+    "ok": true
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "YOGTZE case: Unemployed German man scrawls \"YOGTZE\" on a piece of paper, disappears into the night, is found dead the next morning.",
+   "article": {
+    "title": "YOGTZE case",
+    "url": "https://en.wikipedia.org/wiki/YOGTZE_case",
+    "extract": "The YOGTZE case (German: YOGTZE-Fall, also BAB-Rätsel, \"Autobahn Riddle\") refers to the death of unemployed German food engineer Günther Stoll, which occurred on 26 October 1984. Stoll died under unusual and mysterious circumstances, which gave the case international attention. \nIn April 2025, the case was closed as accidental, after new investigation had revealed that it was most likely a single-car wreck."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/YOGTZE_case_location_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:YOGTZE_case_location_map.png",
+    "file": "File:YOGTZE case location map.png",
+    "artist": "Jazzman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 857,
+    "height": 1013,
+    "ok": true
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jesus nut: Not your local Bible-thumping preacher but the bolt on the top of a helicopter that connects it to the rotor blades.",
+   "article": {
+    "title": "Jesus nut",
+    "url": "https://en.wikipedia.org/wiki/Jesus_nut",
+    "extract": "The main rotor retaining nut or mast nut, often colloquially referred to as the Jesus nut, holds the main rotor to the mast of some helicopters. The related slang term Jesus pin refers to the lock pin used to secure the retaining nut. A failure of this nut is likely to result in a crash."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jesus_nut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jesus_nut.jpg",
+    "file": "File:Jesus nut.jpg",
+    "artist": "Alan Radecki Akradecki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "British Israelism: A long discredited form of British nationalism, by way of the idea that the Ten Lost Tribes of Israel made their way to Britain.",
+   "article": {
+    "title": "British Israelism",
+    "url": "https://en.wikipedia.org/wiki/British_Israelism",
+    "extract": "British Israelism (also called Anglo-Israelism) is a pseudohistorical belief that the people of Great Britain are \"genetically, racially, and linguistically the direct descendants\" of the Ten Lost Tribes of ancient Israel. With roots in the 18th century, British Israelism was inspired by several 19th-century English writings such as John Wilson's 1840 Our Israelitish Origin. From the 1870s onward, numerous independent British Israelite organizations were set up throughout the British Empire as well as in the United States; as of the early 21st century, a number of these organizations are still active. In the United States, the idea gave rise to the Christian Identity movement."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Israelinbritainb00garn_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Israelinbritainb00garn_0005.jpg",
+    "file": "File:Israelinbritainb00garn 0005.jpg",
+    "artist": "Colonel John Garnier (1838-1929)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 338,
+    "height": 535,
+    "ok": true
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pedro Lascuráin: President of Mexico for 45 minutes.",
+   "article": {
+    "title": "Pedro Lascuráin",
+    "url": "https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in",
+    "extract": "Pedro José Domingo de la Calzada Manuel María Lascuráin Paredes (8 May 1856 – 21 July 1952) was a Mexican politician and lawyer who served as the 38th president of Mexico for 45 minutes on 19 February 1913, the shortest presidency in history. The grandson of Mariano Paredes, the 15th president of Mexico, Lascuráin previously served as Mexico's foreign secretary for two terms and was the director of a small law school in Mexico City for 16 years.\nBorn to a wealthy family in Mexico City, Lascuráin studied law at the Escuela Nacional Preparatoria and became a successful lawyer. He held numerous positions in the city's government."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pedro_Lascurain_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pedro_Lascurain_(cropped).jpg",
+    "file": "File:Pedro Lascurain (cropped).jpg",
+    "artist": "Bain News Service",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 659,
+    "height": 802,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Supernumerary nipple: A condition in which one has an additional nipple. Apparently 1 in 18 people have this condition.",
+   "article": {
+    "title": "Supernumerary nipple",
+    "url": "https://en.wikipedia.org/wiki/Supernumerary_nipple",
+    "extract": "A supernumerary nipple is an additional instance of nipple occurring in mammals, including humans and monkeys. They are often mistaken for moles. Studies variously report the prevalence of supernumerary nipples as approximately 1 in 18 and 1 in 40.\nThe nipples appear along the two vertical \"milk lines\", which start in the armpit on each side, run down through the typical nipples and end at the groin."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trzeci_sutek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Trzeci_sutek.jpg",
+    "file": "File:Trzeci sutek.jpg",
+    "artist": "Zureks",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 473,
+    "height": 518,
+    "ok": true
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Parasitic twin: A medical condition where one of two conjoined twins lacks essential organs and must rely on the other for survival, often leeching its blood. An especially rare variant of this, fetus in fetu, involves one partially formed fetus developing within the body of the other.",
+   "article": {
+    "title": "Parasitic twin",
+    "url": "https://en.wikipedia.org/wiki/Parasitic_twin",
+    "extract": "A parasitic twin, also known as an asymmetrical twin or unequal conjoined twin, occurs when a twin embryo begins developing in utero, but the pair does not fully separate, and one embryo maintains dominant development at the expense of the other. It results from the same processes that also produces vanishing twins and conjoined twins, and may represent a continuum between the two. In parasitic twins, one ceases development during gestation and is vestigial to a mostly fully formed, otherwise healthy individual twin. The undeveloped twin is termed as parasitic, because it is incompletely formed or wholly dependent on the body functions of the complete fetus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/JohannSchenk-Twins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JohannSchenk-Twins.jpg",
+    "file": "File:JohannSchenk-Twins.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 510,
+    "ok": true
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Laptop battle: Battle of the Bands, but for EDM.",
+   "article": {
+    "title": "Laptop battle",
+    "url": "https://en.wikipedia.org/wiki/Laptop_battle",
+    "extract": "A laptop battle is a competitive event for an electronic musician to match their skills against others. Founded in Seattle, Washington in 2003 by Zach Huntting and Kris Moon of the Fourthcity Arts Collective, in collaboration with Steven Ford, and inspired in part by Liz Revision's Laptop Cage Match held in Chicago in 2002, the format caught on quickly and spread worldwide. Within 5 years, there were chapters in the UK, Germany, Italy, France, Japan, New Zealand, Puerto Rico, Canada and across the US. US-based chapters spread from Seattle to Philadelphia, Brooklyn, Boston, DC, Miami, Dallas, Atlanta, Austin, LA, San Francisco, Portland and more. Competition rules vary based on local chapter."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Laptop-battle_SIC-copy-300_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Laptop-battle_SIC-copy-300_(1).png",
+    "file": "File:Laptop-battle SIC-copy-300 (1).png",
+    "artist": "Buhlebuhle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 300,
+    "height": 464,
+    "ok": true
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Great Stork Derby: What could possibly be in the will of a notorious practical joker?",
+   "article": {
+    "title": "Great Stork Derby",
+    "url": "https://en.wikipedia.org/wiki/Great_Stork_Derby",
+    "extract": "The Great Stork Derby was a contest held from 1926 to 1936. Female residents of Toronto, Ontario, Canada, competed to produce the most babies in order to qualify for an unusual bequest in a will."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Charles_Vance_Millar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Charles_Vance_Millar.jpg",
+    "file": "File:Charles Vance Millar.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 200,
+    "height": 201,
+    "ok": true
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Viper (rapper): Has released over 1,927 albums, though a majority contain recycled material. Titles of his work include You'll Cowards Don't Even Smoke Crack and Kill Urself My Man. Arrested in 2024 for allegedly holding a woman captive in his garage in Houston for five years, among other atrocities.",
+   "article": {
+    "title": "Viper (rapper)",
+    "url": "https://en.wikipedia.org/wiki/Viper_(rapper)",
+    "extract": "Lee Arthur Carter (born October 7, 1971), known professionally by his stage name Viper, is an American rapper, record producer, and actor. He is regarded as one of the originators of cloud rap.\nViper began releasing music in 2003, originally under the name Lee Dogg. He released the album You'll Cowards Don't Even Smoke Crack in 2008; it gained popularity in 2013 and became an Internet meme."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Viper_the_Rapper%27s_face.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Viper_the_Rapper%27s_face.jpeg",
+    "file": "File:Viper the Rapper's face.jpeg",
+    "artist": "Lee Carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 400,
+    "height": 400,
+    "ok": true
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Execution by elephant: An unusual form of capital punishment used throughout history. (See also History of elephants in Europe.)",
+   "article": {
+    "title": "Execution by elephant",
+    "url": "https://en.wikipedia.org/wiki/Execution_by_elephant",
+    "extract": "Execution by elephant, or Gunga Rao, was a method of capital punishment in South and Southeast Asia, particularly in India, where Asian elephants were used to crush, dismember, or torture captives during public executions. The animals were trained to kill victims immediately or to torture them slowly over a prolonged period. Most commonly employed by royalty, the elephants were used to signify both the ruler's power of life and death over his subjects and his ability to control wild animals.\nThe sight of elephants executing captives was recorded in contemporary journals and accounts of life in Asia by European travellers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jamal_al-Din_Husayn_Inju_Shirazi_-_Two_Folios_from_the_Akbarnama_-_Walters_W684_-_Detail_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jamal_al-Din_Husayn_Inju_Shirazi_-_Two_Folios_from_the_Akbarnama_-_Walters_W684_-_Detail_A.jpg",
+    "file": "File:Jamal al-Din Husayn Inju Shirazi - Two Folios from the Akbarnama - Walters W684 - Detail A.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1154,
+    "height": 1800,
+    "ok": true
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hannes Þór Halldórsson: An Icelandic filmmaker who also served as the national team's goalkeeper during their most successful period in history and saved a Lionel Messi penalty kick in the World Cup.",
+   "article": {
+    "title": "Hannes Þór Halldórsson",
+    "url": "https://en.wikipedia.org/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson",
+    "extract": "Hannes Þór Halldórsson (born 27 April 1984) is an Icelandic filmmaker and former professional footballer. He was a member of the Iceland national team where he was capped 77 times and appeared at UEFA Euro 2016 and the 2018 FIFA World Cup."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_(cropped).jpg",
+    "file": "File:Hannes Þór Halldórsson 2018 (cropped).jpg",
+    "artist": "Светлана Бекетова",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 284,
+    "height": 451,
+    "ok": true
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Disneyland with the Death Penalty: Best way to describe Singapore according to William Gibson.",
+   "article": {
+    "title": "Disneyland with the Death Penalty",
+    "url": "https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty",
+    "extract": "\"Disneyland with the Death Penalty\" is a 4,500-word article about Singapore written by William Gibson. His first major piece of non-fiction, it was first published as the cover story for Wired magazine's September/October 1993 issue (1.4).\nThe article followed Gibson's observations of the architecture, phenomenology and culture of Singapore, and the clean, bland and conformist impression the city-state conveyed during his stay. Its title and central metaphor – Singapore as Disneyland with the death penalty – was a reference to the authoritarian artifice the author perceived the city-state to be."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Disneyland_with_the_Death_Penalty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Disneyland_with_the_Death_Penalty.jpg",
+    "file": "File:Disneyland with the Death Penalty.jpg",
+    "artist": "terence",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1024,
+    "height": 686,
+    "ok": true
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "North Hollywood shootout: In 1997, two heavily armed men were involved in a bank robbery, which turned into a 44-minute shootout with police officers. 20 people were injured as a result, and only the criminals died.",
+   "article": {
+    "title": "North Hollywood shootout",
+    "url": "https://en.wikipedia.org/wiki/North_Hollywood_shootout",
+    "extract": "The North Hollywood shootout, also known as the Battle of North Hollywood, was a confrontation between two heavily armed and armored bank robbers, Larry Phillips Jr. and Emil Mătăsăreanu, and police officers in the North Hollywood neighborhood of Los Angeles on February 28, 1997. Both robbers died during the shooting, twelve police officers and eight civilians were injured, and numerous vehicles and other property were damaged or destroyed by the nearly 2,000 rounds of ammunition fired by the robbers and police.\nAt 9:16 a.m., Phillips and Mătăsăreanu entered and robbed Bank of America's North Hollywood branch."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mugshot_of_Larry_Phillips_Jr._in_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mugshot_of_Larry_Phillips_Jr._in_1993.jpg",
+    "file": "File:Mugshot of Larry Phillips Jr. in 1993.jpg",
+    "artist": "California Glendale Police Department.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 651,
+    "height": 1000,
+    "ok": true
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Black and white hat symbolism in film: The hat, sir, whatever could it mean?",
+   "article": {
+    "title": "Black and white hat symbolism in film",
+    "url": "https://en.wikipedia.org/wiki/Black_and_white_hat_symbolism_in_film",
+    "extract": "In American films of the Western genre between the 1920s and the 1940s, white hats were often worn by heroes and black hats by villains to symbolize the contrast in good versus evil. The 1903 short film The Great Train Robbery provides an early example of this convention. Two exceptions to the convention were portrayals by William Boyd (active 1918–1954), who wore dark clothing as Hopalong Cassidy, and Robert Taylor's portrayal in the film The Law and Jake Wade (1958).\nThe book Investigating Information Society said the convention was arbitrarily imposed by filmmakers in the genre with the expectation that audiences would understand the categorizations."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_Bild_102-00053%2C_Tom_Mix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00053,_Tom_Mix.jpg",
+    "file": "File:Bundesarchiv Bild 102-00053, Tom Mix.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 523,
+    "height": 800,
+    "ok": true
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The First Blast of the Trumpet Against the Monstruous Regiment of Women: A 1558 diatribe by John Knox against Mary, Queen of Scots and Mary Tudor.",
+   "article": {
+    "title": "The First Blast of the Trumpet Against the Monstruous Regiment of Women",
+    "url": "https://en.wikipedia.org/wiki/The_First_Blast_of_the_Trumpet_Against_the_Monstruous_Regiment_of_Women",
+    "extract": "The First Blast of the Trumpet Against the Monstruous Regiment of Women is a polemical work by the Scottish reformer John Knox, published in 1558. It attacks female monarchs, arguing that rule by women is contrary to the Bible."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Firstblast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Firstblast.jpg",
+    "file": "File:Firstblast.jpg",
+    "artist": "Andrew Steuart (printer)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 400,
+    "height": 711,
+    "ok": true
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Teddy bear toss: A Christmas tradition in minor league ice hockey.",
+   "article": {
+    "title": "Teddy bear toss",
+    "url": "https://en.wikipedia.org/wiki/Teddy_bear_toss",
+    "extract": "The teddy bear toss (French: Le match des toutous) is a popular Christmas season promotion most common at junior ice hockey and minor league hockey games. Fans are encouraged to bring teddy bears or other stuffed toys to the game, and to throw them onto the ice when the home team scores its first goal. The toys are gathered to be donated as presents to hospitals and charities. In many cases, the players themselves personally donate some of the bears to children at area hospitals."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hershey_Bears_Teddy_bear_toss_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hershey_Bears_Teddy_bear_toss_2025.png",
+    "file": "File:Hershey Bears Teddy bear toss 2025.png",
+    "artist": "45BearsFan",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 889,
+    "height": 400,
+    "ok": true
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a video of letters on a small toy had conspiracy theorists on edge?",
+   "article": {
+    "title": "Rise (zero gravity indicator)",
+    "url": "https://en.wikipedia.org/wiki/Rise_(zero_gravity_indicator)",
+    "extract": "\"Rise\" is a small stuffed toy used as a weightlessness indicator for the Artemis II lunar flyby mission and as a mascot for its crew. The indicator was created based on a design by 8-year-old Californian Lucas Ye, whose work won a NASA-sponsored competition held from March to June 2025. The toy design is inspired by the photograph Earthrise taken by Apollo 8 astronaut William Anders on December 24, 1968, and is copyrighted by NASA.\nThe toy was manufactured by NASA's Goddard Space Flight Center's Thermal Blanket Laboratory. During its flight, which took place April 1–11, 2026, its pocket contained an SD card containing digital photographs of the 25 child finalists, as well as the names of more than 5.6 million people who received virtual \"boarding passes\" for the Orion spacecraft as souvenirs."
+   },
+   "related": [
+    "Moon landing conspiracy theories"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rise_Mascot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rise_Mascot.jpg",
+    "file": "File:Rise Mascot.jpg",
+    "artist": "Lucas Ye",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1585,
+    "ok": true
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Billy Possum: When Taft tried to get his own Teddy Bear.",
+   "article": {
+    "title": "Billy Possum",
+    "url": "https://en.wikipedia.org/wiki/Billy_Possum",
+    "extract": "Billy Possum is a type of stuffed toy depicting an opossum. Designed to be the replacement for the Teddy bear after Theodore Roosevelt vacated the office of President of the United States in 1909, the toy's popularity waned quickly, with the trend having lost all momentum by Christmas of that year."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Billy_Possum_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Billy_Possum_advertisement.jpg",
+    "file": "File:Billy Possum advertisement.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 662,
+    "height": 1034,
+    "ok": true
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pauli effect: Something in the lab not working? Technical difficulties? Blame this guy.",
+   "article": {
+    "title": "Pauli effect",
+    "url": "https://en.wikipedia.org/wiki/Pauli_effect",
+    "extract": "The Pauli effect or Pauli's device corollary is the supposed tendency of technical equipment to encounter critical failure in the presence of certain people — originally, Austrian physicist Wolfgang Pauli. The Pauli effect is not related to the Pauli exclusion principle, which is a bona fide physical phenomenon named after Pauli. However the Pauli effect was humorously tagged as a second Pauli exclusion principle, according to which a functioning device and Wolfgang Pauli may not occupy the same room."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg",
+    "file": "File:Wolfgang Pauli.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 935,
+    "height": 1171,
+    "ok": true
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of prematurely reported obituaries: Weird how much this happens.",
+   "article": {
+    "title": "List of prematurely reported obituaries",
+    "url": "https://en.wikipedia.org/wiki/List_of_prematurely_reported_obituaries",
+    "extract": "A prematurely reported obituary is an obituary of someone who was still alive at the time of publication. Examples include that of inventor and philanthropist Alfred Nobel, whose premature obituary condemning him as a \"merchant of death\" for creating military explosives may have prompted him to create the Nobel Prize; black nationalist Marcus Garvey, whose actual death may have been precipitated by reading his own obituary; and actor Abe Vigoda, who was the subject of so many death reports and rumours that a website was created to state whether he was alive or dead.\nThis article lists the recipients of incorrect death reports (not just formal obituaries) from publications, media organisations, official bodies, and widely used information sources; but not mere rumours of deaths. People who were presumed (though not categorically declared) to be dead, and joke death reports that were widel"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/John_Paul_II_Medal_of_Freedom_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:John_Paul_II_Medal_of_Freedom_2004.jpg",
+    "file": "File:John Paul II Medal of Freedom 2004.jpg",
+    "artist": "Eric Draper",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 515,
+    "height": 772,
+    "ok": true
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Expanding Earth: A theory that the Earth is growing.",
+   "article": {
+    "title": "Expanding Earth",
+    "url": "https://en.wikipedia.org/wiki/Expanding_Earth",
+    "extract": "The expanding Earth or growing Earth was a hypothesis attempting to explain the position and relative movement of continents by increase in the volume of Earth. With the recognition of plate tectonics in the 20th century, the idea has been abandoned and considered a pseudoscience."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vom_wachsenden_Erdball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vom_wachsenden_Erdball.jpg",
+    "file": "File:Vom wachsenden Erdball.jpg",
+    "artist": "Helge Hilgenberg alias Ninjalakie , Tochter von Ott Christoph Hilgenberg",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 958,
+    "height": 719,
+    "ok": true
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Spencer M. Clark: Due to a loophole, an obscure civil servant managed to get his face on U.S. currency. Congress was not happy.",
+   "article": {
+    "title": "Spencer M. Clark",
+    "url": "https://en.wikipedia.org/wiki/Spencer_M._Clark",
+    "extract": "Spencer M. Clark (June 3, 1811  – December 10, 1890) was the first Superintendent of the National Currency Bureau, today known as the Bureau of Engraving and Printing, from 1862 to 1868."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Spencer_M_Clark_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Spencer_M_Clark_2.jpg",
+    "file": "File:Spencer M Clark 2.jpg",
+    "artist": "U.S. Dept. of the Treasury",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 757,
+    "height": 936,
+    "ok": true
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Justo Gallego Martínez: A Spanish Catholic priest who, for almost seven decades, single-handedly constructed his own church.",
+   "article": {
+    "title": "Justo Gallego Martínez",
+    "url": "https://en.wikipedia.org/wiki/Justo_Gallego_Mart%C3%ADnez",
+    "extract": "Justo Gallego Martínez (20 September 1925 – 28 November 2021); also known by his honorific byname Don Justo, was a Spanish amateur architect and builder who was known for constructing a church building in the dimensions of a cathedral on his own in the town of Mejorada del Campo from 1961 until his death. Most of the construction materials used were recycled or made from \"junk\". Don Justo dedicated the building to Our Lady of the Pillar (Spanish: Nuestra Señora del Pilar)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Justo-gallego-martinez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Justo-gallego-martinez.jpg",
+    "file": "File:Justo-gallego-martinez.jpg",
+    "artist": "JMPerez",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 587,
+    "height": 782,
+    "ok": true
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tsar Tank: An Imperial Russian tank designed as a tricycle with nine-metre wheels.",
+   "article": {
+    "title": "Tsar Tank",
+    "url": "https://en.wikipedia.org/wiki/Tsar_Tank",
+    "extract": "The Tsar Tank (Russian: Царь-танк), also known as the Netopyr' (Russian: Нетопырь, literally \"pipistrelle\") or Lebedenko Tank (Russian: танк Лебеденко), was a  Russian armoured vehicle developed by Nikolai Lebedenko, Nikolay Yegorovich Zhukovsky, Boris Stechkin, and Alexander Mikulin from 1914 onwards. The project was cancelled in 1915 after initial tests deemed the vehicle to be underpowered and vulnerable to artillery fire."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tsar_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tsar_tank.jpg",
+    "file": "File:Tsar tank.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 767,
+    "ok": true
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sea monk: An aquatic hallelujah.",
+   "article": {
+    "title": "Sea monk",
+    "url": "https://en.wikipedia.org/wiki/Sea_monk",
+    "extract": "The sea monk (also monk-fish or monkfish) was a sea creature found off the eastern coast of the Danish island of Zealand in 1546. It was described as a \"fish\" that outwardly resembled a human monk in his habit."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Sea_Monk-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Sea_Monk-1.jpg",
+    "file": "File:The Sea Monk-1.jpg",
+    "artist": "Johannes Sluperius",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 240,
+    "height": 334,
+    "ok": true
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Russian warship, go fuck yourself: An eternalized catchphrase of the Russo-Ukrainian war.",
+   "article": {
+    "title": "Russian warship, go fuck yourself",
+    "url": "https://en.wikipedia.org/wiki/Russian_warship,_go_fuck_yourself",
+    "extract": "\"Russian warship, go fuck yourself\"  was the final communication made on 24 February, the first day of the 2022 Snake Island campaign, by Ukrainian border guard Roman Hrybov to the Russian missile cruiser Moskva. The phrase was widely adopted as a slogan during the Russian invasion of Ukraine, as well as in pro-Ukrainian protests and demonstrations in the West. Weeks later, the phrase was commemorated on a postage stamp by Ukrposhta, the Ukrainian postal service.\nThe Ukrainian border guards were originally believed to have been all killed, but Hrybov was later confirmed by the Ukrainian Navy to be \"alive and well\" and had surrendered to the Russian Navy in the attack."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russian_ship%2C_go_f_yourself._Bright._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Russian_ship,_go_f_yourself._Bright._2.jpg",
+    "file": "File:Russian ship, go f yourself. Bright. 2.jpg",
+    "artist": "Alex Blokha",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1042,
+    "height": 1014,
+    "ok": true
+   }
+  },
+  {
+   "id": "c46",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+   "article": {
+    "title": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+    "url": "https://www.atlasobscura.com/places/abandoned-agricultural-mill-in-poland",
+    "extract": "Tucked away in the Polish countryside stands an impressive early 20th-century agricultural mill complex that looks more like a grand estate than a heavy industrial facility. Dominated by a striking multi-story central tower with a decorative roof, the building represents a era when industrial architecture was built with notable aesthetic ambition. Inside, the structure retains an eerie atmosphere "
+   },
+   "published": "Thu, 15 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Iron Fountain Gyumri in Gyumri, Armenia",
+   "article": {
+    "title": "Iron Fountain Gyumri in Gyumri, Armenia",
+    "url": "https://www.atlasobscura.com/places/iron-fountain-gyumri",
+    "extract": "If you go there in late February, the gray sky matches the mood perfectly. You walk down the cracked concrete of what used to be a grand Soviet boulevard, passing decaying apartment blocks. Just behind some overgrown bushes which look like a makeshift camp. The scale of it is incredibly imposing. Designed by architect Artur Tarkhanyan in 1982. In 1988, a devastating earthquake leveled most of Gyum"
+   },
+   "published": "Thu, 15 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Milton College in Milton, Wisconsin",
+   "article": {
+    "title": "Milton College in Milton, Wisconsin",
+    "url": "https://www.atlasobscura.com/places/milton-college",
+    "extract": "When Milton College finally closed its doors in 1982, it was the oldest institution of higher education in Wisconsin, beating the University of Wisconsin by four years. The college was originally called Du Lac Academy when it was founded in 1844. Main Hall and Goodrich Hall (the original dorm) – built in 1855 and 1857, respectively – are still standing. Milton College was ahead of its time in admi"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grave of John Gray in Hiramsburg, Ohio",
+   "article": {
+    "title": "Grave of John Gray in Hiramsburg, Ohio",
+    "url": "https://www.atlasobscura.com/places/grave-of-john-gray",
+    "extract": "John Gray was born the oldest of eight children on January 6, 1764 on property belonging to George Washington near his Mt. Vernon estate. Clearly a loyal follower of Washington, his father enlisted on the side of the Patriots but was killed at the Battle of White Plains, leaving young John in charge of the family. He was just 13 years old. When he was 17, he joined the army and participated in the"
+   },
+   "published": "Thu, 15 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Rhossili Down Radar Station in Hillend, Wales",
+   "article": {
+    "title": "Rhossili Down Radar Station in Hillend, Wales",
+    "url": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+    "extract": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim of detecting low flying aircraft at 500 feet (150 m), early warning could then be sent to Swansea upon discovering incoming German bombers. "
+   },
+   "published": "Wed, 14 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Cross-legged’ in Pristina, Kosovo",
+   "article": {
+    "title": "‘Cross-legged’ in Pristina, Kosovo",
+    "url": "https://www.atlasobscura.com/places/cross-legged",
+    "extract": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation and the publicity it might bring to the Albanian cause. When Serbian police moved in to disperse the crowd with batons, everyone fled except"
+   },
+   "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Ta Kon Citadel in Vinh Son, Vietnam",
+   "article": {
+    "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-kon-citadel",
+    "extract": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters along the mountainside and towering up to 40 meters high. Composed of rectangular, hexagonal, and polygonal stone columns packed so tightly "
+   },
+   "published": "Wed, 14 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+   "article": {
+    "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
+    "extract": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest structure in Brooklyn, behind the Williamsburg Savings Bank, located in Downtown Brooklyn. The building was designed by Raymond F. Almirall, a prominent architect who trained at the Éc"
+   },
+   "published": "Wed, 14 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Art of Play in Brooklyn, New York",
+   "article": {
+    "title": "Art of Play in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
+    "extract": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzles, games, playing cards, mechanical toys, and objects designed to make grown-ups feel like curious children again. The shop also hosts a 26"
+   },
+   "published": "Tue, 13 Oct 2026 17:49:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thorla-McKee Well in Caldwell, Ohio",
+   "article": {
+    "title": "Thorla-McKee Well in Caldwell, Ohio",
+    "url": "https://www.atlasobscura.com/places/thorla-mckee-well",
+    "extract": "Find someone who loves you the way America loves petroleum. As of 2023, the United States is both the largest producer and consumer of oil, each day extracting some 23 million barrels and guzzling 20 million. It's become a meme at this point that if black gold is discovered in even the remotest location, American fighter jets aren't far behind to ensure whatever government there is friendly to US "
+   },
+   "published": "Tue, 13 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+   "article": {
+    "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+    "url": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
+    "extract": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Peruvian artist Luis Arias Vera, fills Plaza de la Hispanidad with an exuberant celebration of flight and the natural world. Arias Vera saw bir"
+   },
+   "published": "Tue, 13 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Steaming Tender Restaurant in Palmer, Massachusetts",
+   "article": {
+    "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
+    "url": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
+    "extract": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Seven Railroads\", and one location in Palmer helps explain why. When the Industrial Revolution and rail travel began in Massachusetts, Palmer "
+   },
+   "published": "Tue, 13 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Strange Afterlife of Oscar Wilde's Library Card",
+   "article": {
+    "title": "The Strange Afterlife of Oscar Wilde's Library Card",
+    "url": "https://www.mentalfloss.com/literature/authors/strange-afterlife-oscar-wilde-library-card?utm_source=RSS",
+    "extract": "130 years after having his library card revoked, Oscar Wilde was able to posthumously receive a new one."
+   },
+   "published": "Thu, 15 Oct 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1960s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1960s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1960s-use-today?utm_source=RSS",
+    "extract": "More than six decades later, these 1960s slang terms remain part of our vocabulary and carry nearly the same meaning they did back then."
+   },
+   "published": "Thu, 15 Oct 2026 19:22:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+   "article": {
+    "title": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+    "url": "https://www.mentalfloss.com/history/tenzing-norgay-edmund-hillary-everest-summit?utm_source=RSS",
+    "extract": "Sir Edmund Hillary and Tenzing Norgay spent just 15 minutes at the summit of Mount Everest after becoming the first to survive the journey in 1953."
+   },
+   "published": "Thu, 15 Oct 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "25 Songs You Didn’t Know Were Written for Movies",
+   "article": {
+    "title": "25 Songs You Didn’t Know Were Written for Movies",
+    "url": "https://www.mentalfloss.com/entertainment/music/songs-didn-t-know-written-movies?utm_source=RSS",
+    "extract": "These iconic songs were written specifically for the silver screen!"
+   },
+   "published": "Thu, 15 Oct 2026 16:00:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+   "article": {
+    "title": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/friday-13th-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "Jason Voorhees has survived 12 movies, but he has never survived the critics. Here are all the 'Friday the 13th' films so far, ranked by their success on Rotten Tomatoes' Tomatometer."
+   },
+   "published": "Thu, 15 Oct 2026 14:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "How Likely Is Your State to Have a White Christmas in 2026?",
+   "article": {
+    "title": "How Likely Is Your State to Have a White Christmas in 2026?",
+    "url": "https://www.mentalfloss.com/geography/states/how-likely-your-state-have-white-christmas-2026?utm_source=RSS",
+    "extract": "And which major city in each state has the best chance of seeing snow on Christmas Day."
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Famous Celebrities You Didn't Know Had a Twin",
+   "article": {
+    "title": "20 Famous Celebrities You Didn't Know Had a Twin",
+    "url": "https://www.mentalfloss.com/entertainment/famous-celebrities-didn-t-know-had-a-twin?utm_source=RSS",
+    "extract": "Some of your favorite celebrities have a twin sibling you probably never knew about."
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Scariest Movie the Year You Were Born",
+   "article": {
+    "title": "The Scariest Movie the Year You Were Born",
+    "url": "https://www.mentalfloss.com/entertainment/movies/scariest-movie-year-born?utm_source=RSS",
+    "extract": "Discover the scariest movie released the year you were born, from 1950s creature features to iconic 2000s slashers. Find your birth-year horror hit!"
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Spiritual Meaning of Angel Number 838",
+   "article": {
+    "title": "The Spiritual Meaning of Angel Number 838",
+    "url": "https://www.mentalfloss.com/random-facts/angel-number-838-meaning?utm_source=RSS",
+    "extract": "This number is said to be a great sign, especially if you're an artist or creative. Learn more about the meaning of angel number 838."
+   },
+   "published": "Wed, 14 Oct 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Snowiest Month in Every State for 2026, Mapped",
+   "article": {
+    "title": "The Snowiest Month in Every State for 2026, Mapped",
+    "url": "https://www.mentalfloss.com/science/weather/snowiest-month-by-state-2026-map?utm_source=RSS",
+    "extract": "Discover the snowiest month in every state, from New Mexico’s December peak to March storms in the West."
+   },
+   "published": "Wed, 14 Oct 2026 20:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Best Cities in the World for 2026, Ranked",
+   "article": {
+    "title": "The 10 Best Cities in the World for 2026, Ranked",
+    "url": "https://www.mentalfloss.com/geography/cities/10-best-cities-in-world-2026-ranked?utm_source=RSS",
+    "extract": "Tell us: which of these cities would you most like to call home?"
+   },
+   "published": "Wed, 14 Oct 2026 18:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
+   "article": {
+    "title": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
+    "url": "https://www.mentalfloss.com/literature/books/real-christopher-robin-complicated-relationship-winnie-pooh?utm_source=RSS",
+    "extract": "Christopher Robin was based on A.A. Milne’s real son—and growing up as the face of Winnie-the-Pooh wasn't always a Hundred Acre fairy tale."
+   },
+   "published": "Wed, 14 Oct 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+   "article": {
+    "title": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+    "url": "https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/",
+    "extract": "Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix"
+   },
+   "published": "Thu, 15 Oct 2026 20:43:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+   "article": {
+    "title": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+    "url": "https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/",
+    "extract": "The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. \"The project called for a great deal of perseverance,\" one official says"
+   },
+   "published": "Thu, 15 Oct 2026 20:19:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+   "article": {
+    "title": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+    "url": "https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/",
+    "extract": "Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book"
+   },
+   "published": "Thu, 15 Oct 2026 19:41:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+   "article": {
+    "title": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+    "url": "https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/",
+    "extract": "The 18th-century painter was a key practitioner of \"capriccio\" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000"
+   },
+   "published": "Thu, 15 Oct 2026 18:03:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+   "article": {
+    "title": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+    "url": "https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/",
+    "extract": "These crags don't match the rest of the mountain, and scientists don't know how they formed"
+   },
+   "published": "Thu, 15 Oct 2026 16:50:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+   "article": {
+    "title": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+    "url": "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/",
+    "extract": "Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine"
+   },
+   "published": "Thu, 15 Oct 2026 16:24:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+   "article": {
+    "title": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+    "url": "https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/",
+    "extract": "If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits"
+   },
+   "published": "Thu, 15 Oct 2026 15:21:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+   "article": {
+    "title": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+    "url": "https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/",
+    "extract": "Customs officers say they found the creatures hidden in the men's clothes after they touched down on separate flights from Cuba, and it's unclear whether the two incidents are related. Wildlife trafficking is the world's fourth-largest form of organized crime"
+   },
+   "published": "Thu, 15 Oct 2026 14:52:27 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+   "article": {
+    "title": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+    "url": "https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/",
+    "extract": "The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+   "article": {
+    "title": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/",
+    "extract": "These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world"
+   },
+   "published": "Wed, 14 Oct 2026 20:50:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+   "article": {
+    "title": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/",
+    "extract": "The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist \"could not believe how much\" residue remained inside"
+   },
+   "published": "Wed, 14 Oct 2026 19:20:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+   "article": {
+    "title": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+    "url": "https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/",
+    "extract": "The Dutch Post-Impressionist painted \"Chestnut Trees in Blossom\" during the highly productive yet tragic final months of his life. It is heading to auction as part of a \"legendary\" private collection which also includes works from Cézanne and Renoir"
+   },
+   "published": "Wed, 14 Oct 2026 17:28:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+   "article": {
+    "title": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/15/odkryj-tajemnice-epoki-napoleonskiej-bezplatna-gra-terenowa-kryptonim-nadzieja-1806-w-sierakowie/",
+    "extract": "Muzeum Zamek Opalińskich w Sierakowie zaprasza mieszkańców regionu – całe rodziny, młodzież, harcerzy oraz seniorów – do udziału w niezwykłej grze terenowej pt. „Kryptonim: Nadzieja 1806”. Wydarzenie odbędzie się w sobotę, 24 października, a udział w nim jest całkowicie bezpłatny. Zapisy trwają do 22 października! The post Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Na"
+   },
+   "published": "Thu, 15 Oct 2026 15:49:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+   "article": {
+    "title": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/13/rzymianie-naprawde-walczyli-z-amazonkami-niezwykle-odkrycie-zolnierzy-pompejusza/",
+    "extract": "Gdy legiony Pompejusza walczyły z plemionami Kaukazu, rzymscy żołnierze dokonali zaskakującego odkrycia. Wśród pokonanych przeciwników znajdowały się kobiety, które walczyły równie zaciekle jak mężczyźni. Rzymianie uznali je za legendarne Amazonki. Niektóre wojowniczki miały następnie trafić do Rzymu jako jeńcy prezentowani podczas triumfalnego pochodu zwycięskiego wodza. The post Rzymianie napraw"
+   },
+   "published": "Tue, 13 Oct 2026 20:29:19 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+   "article": {
+    "title": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/12/wroclaw-w-1945-roku-miasto-ktorego-churchill-nie-chcial-oddac-polsce/",
+    "extract": "Winston Churchill nie chciał, aby Wrocław znalazł się w granicach Polski. Jak pisał Norman Davies, brytyjski premier miał nawet deklarować, że Niemcy stracą miasto tylko „po jego trupie”. Ostatecznie jednak o losach Breslau zdecydowały wielkie mocarstwa. W 1945 roku miasto przeżyło prawdziwy dramat – przymusową ewakuację mieszkańców, wielotygodniowe oblężenie i chaos, który towarzyszył jego przemi"
+   },
+   "published": "Mon, 12 Oct 2026 18:06:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+   "article": {
+    "title": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/wywlokl-biskupa-z-lozka-tak-polski-ksiaze-uderzyl-w-kosciol/",
+    "extract": "Wtargnęli nocą do sypialni biskupa, wywlekli na wpół przytomnego hierarchę na zewnątrz i półnagiego wsadzili na konia. Tak Bolesław Rogatka rozpoczął jedną z najgłośniejszych awantur z Kościołem w dziejach średniowiecznej Polski. Porwał biskupa wrocławskiego, ściągnął na siebie klątwę i omal nie doczekał się prawdziwej krucjaty wymierzonej w jego osobę. The post Wywlókł biskupa z łóżka. Tak polski"
+   },
+   "published": "Sun, 11 Oct 2026 16:41:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+   "article": {
+    "title": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/czyngis-chan-i-swiat-mongolow-nowa-wystawa-w-berlinie/",
+    "extract": "W związku z przypadającą w 2027 roku 800. rocznicą śmierci Czyngis-chana, Muzeum Prehistorii i Wczesnej Historii Państwowych Muzeów w Berlinie prezentuje dużą wystawę poświęconą historii i dziedzictwu imperium mongolskiego. Ekspozycja przybliży europejskiej publiczności świat Mongołów z perspektywy archeologicznej, opierając się na najnowszych wynikach badań prowadzonych wspólnie przez naukowców z"
+   },
+   "published": "Sun, 11 Oct 2026 15:52:30 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+   "article": {
+    "title": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/08/zamordowali-ministra-w-bialy-dzien-jak-ukrainscy-nacjonalisci-przeprowadzili-zamach-w-warszawie/",
+    "extract": "15 czerwca 1934 roku Bronisław Pieracki, jeden z najważniejszych ministrów II Rzeczypospolitej, został zastrzelony na warszawskiej ulicy. Zamachowiec uciekł mimo pościgu, a polskie służby rozpoczęły gorączkowe śledztwo. Szybko wyszło na jaw, że za zabójstwem stała Organizacja Ukraińskich Nacjonalistów. Okoliczności zbrodni ujawniły jednak coś jeszcze – zaskakującą skalę zaniedbań polskich władz. T"
+   },
+   "published": "Thu, 08 Oct 2026 13:51:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Historiomachia. Bitwy o historię",
+   "article": {
+    "title": "Historiomachia. Bitwy o historię",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/07/historiomachia-bitwy-o-historie/",
+    "extract": "Zadaniem historyka jest opowiadać o przeszłości, by powtarzano dobro, a zła unikano. The post Historiomachia. Bitwy o historię first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 07 Oct 2026 16:33:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+   "article": {
+    "title": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/odcieto-mu-glowe-tak-zginal-syn-konrada-mazowieckiego/",
+    "extract": "Bronił grodu na wysokiej skarpie i niemal odparł najeźdźców, gdy zdradził go własny człowiek. Pogańscy Litwini wdarli się do Jazdowa, pojmali księcia Siemowita I i ścięli mu głowę, a jego ciało spalili. Dwunastoletniego syna władcy uprowadzili na Litwę. Tak zginął protoplasta mazowieckiej linii Piastów, a okoliczności jego śmierci do dziś budzą spory historyków. The post Odcięto mu głowę. Tak zgin"
+   },
+   "published": "Tue, 06 Oct 2026 18:05:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+   "article": {
+    "title": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/obrona-poczty-polskiej-i-losy-jej-obroncow-nowe-muzeum-poczty-polskiej-juz-otwarte/",
+    "extract": "1 września 1939 roku pracownicy Poczty Polskiej w Gdańsku stanęli do obrony polskiej placówki przed niemieckim atakiem. W poniedziałek, 5 października, w 87. rocznicę rozstrzelania Obrońców, Muzeum Poczty Polskiej w Gdańsku otworzyło nową wystawę stałą poświęconą ich walce, dalszym losom oraz pamięci o wydarzeniach, które stały się jednym z symboli początku II wojny światowej. The post Obrona Pocz"
+   },
+   "published": "Tue, 06 Oct 2026 15:23:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+   "article": {
+    "title": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/04/czy-amazonki-naprawde-obcinaly-sobie-jedna-piers-tak-narodzil-sie-jeden-z-najslynniejszych-mitow-starozytnosci/",
+    "extract": "Miały usuwać prawą pierś, żeby sprawniej posługiwać się łukiem i włócznią. Historia jest makabryczna, sugestywna i powtarzana od ponad dwóch tysięcy lat. Problem w tym, że nie ma na nią przekonujących dowodów. The post Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 04 Oct 2026 20:53:17 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+   "article": {
+    "title": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/01/zakuci-w-stal-uwazali-sie-za-niezwyciezonych-jak-naprawde-walczyli-sredniowieczni-rycerze/",
+    "extract": "Ciężka zbroja, kopia, miecze, sztylet, topór i maczuga czyniły średniowiecznego rycerza niezwykle groźnym przeciwnikiem. Jednak to, co dawało mu przewagę, mogło również stać się jego słabością. Wystarczyło, że padł koń, a obciążony żelastwem wojownik miał poważny problem. Tymczasem coraz większym zagrożeniem dla rycerskiej jazdy stawali się pogardzani przez nią łucznicy i piechurzy. The post Zakuc"
+   },
+   "published": "Thu, 01 Oct 2026 14:44:12 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+   "article": {
+    "title": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/09/30/polscy-terrorysci-i-zamachowcy-od-powstania-styczniowego-do-trzeciej-rzeczypospolitej/",
+    "extract": "Mimo opinii, że zawsze walczyliśmy z otwartą przyłbicą, także wśród Polaków nie brakowało skrytobójców i terrorystów, którzy działali zarówno w imię wielkich idei, jak i z najniższych pobudek. The post Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 30 Sep 2026 21:44:22 +0000",
+   "image": null
+  }
+ ]
+}
