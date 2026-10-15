@@ -1,5 +1,18 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-16": {
+  "luz": [
+   "artykuly/2026-10-16/bambi-wydala-album-b-o-polnocy-na-youtube-trafilo-16-utworow.html",
+   "artykuly/2026-10-16/ishowspeed-zagral-w-ea-fc-27-z-cole-em-palmerem-widzowie-pisza.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-16/w-1958-roku-amerykanskie-lotnictwo-planowalo-zdetonowac-bombe-atomowa.html",
+   "artykuly/2026-10-16/czesc-bezpanskich-psow-w-moskwie-nauczyla-sie-dojezdzac-metrem.html",
+   "artykuly/2026-10-16/28-800-gumowych-kaczuszek-wypadlo-w-1992-roku-ze-statku-i-pomoglo.html",
+   "artykuly/2026-10-16/w-japonii-odkryto-rosline-ktorej-znane-jest-tylko-piec-okazow.html",
+   "artykuly/2026-10-16/zaprojektowano-wiezowiec-wysoki-na-4-km-wyzszy-od-gory-fudzi-nigdy.html"
+  ]
+ },
  "2026-10-15": {
   "ryby": [
    "artykuly/2026-10-15/rockstar-bez-zapowiedzi-wypuszcza-zwiastun-premierowy-gta-6.html"

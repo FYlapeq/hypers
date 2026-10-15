@@ -1,5 +1,293 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-16": {
+    "date": "2026-10-16",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "bambi",
+        "initials": "BA",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "bambi wydała album „B”. O północy na YouTube trafiło 16 utworów",
+        "summary": "Raperka bambi opublikowała nową płytę „B”, pierwszą od odejścia z Baila Ella Records. Za dziewięć dni zagra na własnym festiwalu B-DAY na warszawskim Torwarze.",
+        "body": [
+          "W nocy z 15 na 16 października na kanale bambi pojawiły się utwory z albumu „B”, m.in. „GDZIE JESTEŚ?”, „VIS A VIS”, „HERRERA”, „FASHION WEEK” i „MYŚLĘ WIĘC JESTEM”. Według GlamRap płyta ma 16 numerów, a premierę zapowiadano na 16 października.",
+          "Z opisów na YouTube wynika, że w „GASNĘ” gościnnie pojawia się Suumoo, a „B skit” podpisano nazwiskiem Bedoesa 2115. Teksty napisała sama bambi (Michalina Włodarczyk), produkcją zajmował się głównie Szymon Frąckowiak.",
+          "CGM.pl pisało w sierpniu, że to pierwsze wydawnictwo raperki po odejściu z Baila Ella Records, wydawane na jej własnych zasadach. Przedsprzedaż obejmowała płytę CD, limitowany box i merch, w tym biżuterię.",
+          "Premierę wieńczy B-DAY Festival 25 października na COS Torwar w Warszawie. Oprócz bambi wystąpią tam m.in. BIA, Princess Nokia, Bb trickz i Chy Cartier."
+        ],
+        "sources": [
+          {
+            "name": "bambi / YouTube",
+            "url": "https://www.youtube.com/watch?v=O8-qP9MDGnE",
+            "origin": true
+          },
+          {
+            "name": "GlamRap",
+            "url": "https://glamrap.pl/bambi-ujawnila-okladke-nowej-plyty-raperka-przygotowala-16-numerow/"
+          },
+          {
+            "name": "GlamRap (B-DAY Festival)",
+            "url": "https://glamrap.pl/bambi-wydaje-nowa-plyte-b-i-sciaga-do-warszawy-swiatowe-gwiazdy/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/bambi-oglosila-premiere-nowej-plyty-b-ruszyl-preorder-i-sprzedaz-limitowanego-merchu/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=O8-qP9MDGnE",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/O8-qP9MDGnE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/O8-qP9MDGnE/hqdefault.jpg",
+          "credit": "bambi / YouTube",
+          "href": "https://www.youtube.com/watch?v=O8-qP9MDGnE",
+          "alt": "Kadr z utworu bambi „GDZIE JESTEŚ?”",
+          "caption": "„GDZIE JESTEŚ?”, jeden z utworów z albumu „B”."
+        },
+        "caption": {
+          "credit": "bambi / YouTube",
+          "text": "„GDZIE JESTEŚ?” to jeden z numerów, które bambi opublikowała o północy razem z resztą płyty. W opisie każdego utworu raperka odsyła do biletów na B-DAY Festival."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Sport",
+        "hype": 4,
+        "title": "IShowSpeed zagrał w EA FC 27 z Cole'em Palmerem. Widzowie piszą o wyniku 18:0 dla gwiazdy Chelsea",
+        "summary": "Speed umówił się na mecz z piłkarzem Chelsea na żywo, przez FaceTime. Nagranie streamu ma blisko 1,5 mln wyświetleń.",
+        "body": [
+          "IShowSpeed zapowiedział pojedynek dzień wcześniej, po rozmowie z Cole'em Palmerem przez FaceTime na streamie. Kibicowskie konta Chelsea podawały, że mecz w EA Sports FC 27 ruszy 15 października o 19:30 czasu brytyjskiego.",
+          "Według portalu Daily Sports, który powołuje się na zrzut ekranu z wynikiem, Palmer wygrał 18:0. Ten sam wynik powtarza się w najpopularniejszych komentarzach pod nagraniem, a widzowie zwracają uwagę, że Speed szybko zakończył stream.",
+          "Nagranie „LET'S HAVE FUN + Speed Vs. Cole Palmer” miało ok. 1,49 mln wyświetleń i ok. 42 tys. polubień (odczyt 16.10 o 0:11). Kilka dni wcześniej Speed mierzył się na streamie z Chwiczą Kwaracchelią."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=L6S9Vb3RLy4",
+            "origin": true
+          },
+          {
+            "name": "Daily Sports",
+            "url": "https://dailysports.net/news/18-goals-and-total-humiliation-chelsea-superstar-destroys-ishowspeed-in-fc-27/"
+          },
+          {
+            "name": "CFCDaily / X",
+            "url": "https://x.com/CFCDaily/status/2110724110515077370"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=L6S9Vb3RLy4",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/L6S9Vb3RLy4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/L6S9Vb3RLy4/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=L6S9Vb3RLy4",
+          "alt": "Miniatura streamu IShowSpeed z meczem przeciw Cole'owi Palmerowi",
+          "caption": "Miniatura nagrania streamu z meczem Speed kontra Palmer."
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "To nagranie całego streamu, na którym Speed zmierzył się z Palmerem w EA FC 27. Pod filmem dominują komentarze o wyniku 18:0."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Księżyc",
+        "initials": "KS",
+        "category": "Kosmos",
+        "hype": 4,
+        "title": "W 1958 roku amerykańskie lotnictwo planowało zdetonować bombę atomową na Księżycu",
+        "summary": "Tajny Project A119 miał pokazać światu siłę USA po sukcesach Związku Radzieckiego w kosmosie. Błysk wybuchu byłby widoczny z Ziemi gołym okiem.",
+        "body": [
+          "Project A119, oficjalnie „A Study of Lunar Research Flights”, powstał w 1958 roku na zlecenie Sił Powietrznych USA. Zespołem kierował fizyk Leonard Reiffel, a przy obliczeniach pracował młody Carl Sagan. Eksplozja na powierzchni Księżyca miała pomóc w badaniach astronomicznych, ale przede wszystkim podbudować morale Amerykanów, gdy ZSRR prowadził w wyścigu kosmicznym.",
+          "Już w 1959 roku pomysł porzucono. Obawiano się reakcji opinii publicznej, ryzyka wybuchu jeszcze w atmosferze Ziemi i skażenia Księżyca, który naukowcy chcieli badać w nienaruszonym stanie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN): Project A119",
+            "url": "https://en.wikipedia.org/wiki/Project_A119"
+          },
+          {
+            "name": "Sandboxx News",
+            "url": "https://www.sandboxx.us/news/americas-secret-cold-war-plan-to-nuke-the-moon"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Study_of_Lunar_Research_Flights_-_Vol_I_-_Cover.jpg",
+          "credit": "Armour Research Foundation / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Study_of_Lunar_Research_Flights_-_Vol_I_-_Cover.jpg",
+          "alt": "Okładka raportu A Study of Lunar Research Flights, tom I",
+          "caption": "Okładka pierwszego tomu raportu z projektu A119."
+        },
+        "caption": {
+          "credit": "Armour Research Foundation / Wikimedia Commons",
+          "text": "Tak wyglądała okładka raportu, w którym rozważano wybuch jądrowy na Księżycu. Dokument długo był tajny, a dziś jest w domenie publicznej."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Moskwa",
+        "initials": "MO",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Część bezpańskich psów w Moskwie nauczyła się dojeżdżać metrem do centrum i z powrotem",
+        "summary": "Biolodzy szacują, że ok. 20 psów regularnie jeździ moskiewskim metrem: rano do centrum po jedzenie, wieczorem na przedmieścia.",
+        "body": [
+          "W stacjach moskiewskiego metra żyje ok. 500 bezdomnych psów. Według biologa Andrieja Pojarkowa, który od dekad bada moskiewskie psy, większość jeździ pociągami po prostu dla ciepła, ale około 20 z nich nauczyło się z metra korzystać celowo, dojeżdżając do centrum po jedzenie i wracając na noc na obrzeża.",
+          "Specjalista od zachowań zwierząt Andriej Nieuronow tłumaczył, że psy mogą rozpoznawać nazwy stacji z komunikatów, podobnie jak uczą się własnego imienia."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN): Street dogs in Moscow",
+            "url": "https://en.wikipedia.org/wiki/Street_dogs_in_Moscow"
+          },
+          {
+            "name": "City Monitor",
+            "url": "https://www.citymonitor.ai/analysis/are-there-really-dogs-commuting-moscows-metro-system-1110/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Stray_dogs_in_Red_Square.jpg",
+          "credit": "Анатолий Девятов / Wikimedia Commons, CC BY 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Stray_dogs_in_Red_Square.jpg",
+          "alt": "Bezpańskie psy na placu Czerwonym w Moskwie",
+          "caption": "Bezpańskie psy na placu Czerwonym w Moskwie."
+        },
+        "caption": {
+          "credit": "Анатолий Девятов / Wikimedia Commons",
+          "text": "Na zdjęciu bezpańskie psy w samym centrum Moskwy. To właśnie tu część z nich dojeżdża metrem w poszukiwaniu jedzenia."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Ocean Spokojny",
+        "initials": "OS",
+        "category": "Przyroda",
+        "hype": 5,
+        "title": "28 800 gumowych kaczuszek wypadło w 1992 roku ze statku i pomogło naukowcom badać prądy oceaniczne",
+        "summary": "Kontener z zabawkami do kąpieli wpadł do północnego Pacyfiku podczas sztormu. Część zabawek dryfowała latami, a niektóre utknęły w lodzie Arktyki.",
+        "body": [
+          "W styczniu 1992 roku z kontenerowca na północnym Pacyfiku wypadł ładunek 28 800 plastikowych zabawek Friendly Floatees: żółtych kaczek, czerwonych bobrów, niebieskich żółwi i zielonych żab. Oceanograf Curtis Ebbesmeyer potraktował to jako darmowy eksperyment i śledził, gdzie wyrzuca je morze, zbierając zgłoszenia od ludzi z wybrzeży.",
+          "Zabawki docierały m.in. na Alaskę i Hawaje, a część utknęła na lata w lodzie arktycznym, by pojawić się na północnym Atlantyku. Według Wikipedii niektóre przepłynęły ponad 27 tys. km."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN): Friendly Floatees spill",
+            "url": "https://en.wikipedia.org/wiki/Friendly_Floatees_spill"
+          },
+          {
+            "name": "Futility Closet",
+            "url": "https://www.futilitycloset.com/2019/12/06/the-friendly-floatees/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Friendly_Floatees.png",
+          "credit": "NordNordWest / Wikimedia Commons, CC BY-SA 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Friendly_Floatees.png",
+          "alt": "Mapa tras dryfu zabawek Friendly Floatees",
+          "caption": "Mapa: miejsce wypadku i trasy dryfu zabawek."
+        },
+        "caption": {
+          "credit": "NordNordWest / Wikimedia Commons",
+          "text": "Mapa pokazuje, gdzie kontener wpadł do oceanu i którędy niosły zabawki prądy. Dzięki zgłoszeniom znalezisk dało się odtworzyć te trasy."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "W Japonii odkryto roślinę, której znane jest tylko pięć okazów na świecie",
+        "summary": "Relictithismia kimotsukiensis nie jest zielona i nie prowadzi fotosyntezy, a żywi się grzybami. To pierwszy nowy rodzaj roślin naczyniowych opisany w Japonii od 1930 roku.",
+        "body": [
+          "Roślinę znaleziono w okolicy góry Kimotsuki w prefekturze Kagoshima na wyspie Kiusiu. Najpierw natrafiono na jeden okaz, rok później w tym samym miejscu na cztery kolejne. Wszystkie znane osobniki rosną w jednej małej populacji.",
+          "Gatunek nie ma chlorofilu i pobiera składniki odżywcze od grzybów w glebie. Naukowcy z Uniwersytetu w Kobe opisali go w 2024 roku jako nowy rodzaj; poprzedni nowy rodzaj roślin naczyniowych w Japonii opisano w 1930 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (PL): Relictithismia kimotsukiensis",
+            "url": "https://pl.wikipedia.org/wiki/Relictithismia_kimotsukiensis"
+          },
+          {
+            "name": "ScienceDaily",
+            "url": "https://sciencedaily.com/releases/2024/02/240229124527.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Relictithismia_kimotsukiensis.png",
+          "credit": "Kenji Suetsugu, Yasunori Nakamura, Takafumi Nakano, Shuichiro Tagane / Wikimedia Commons, CC BY 4.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Relictithismia_kimotsukiensis.png",
+          "alt": "Roślina Relictithismia kimotsukiensis",
+          "caption": "Relictithismia kimotsukiensis na zdjęciu autorów opisu."
+        },
+        "caption": {
+          "credit": "Suetsugu i in. / Wikimedia Commons",
+          "text": "Zdjęcie pochodzi od naukowców, którzy opisali gatunek. Widać brak zieleni, bo roślina nie prowadzi fotosyntezy."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Tokio",
+        "initials": "TO",
+        "category": "Architektura",
+        "hype": 4,
+        "title": "Zaprojektowano wieżowiec wysoki na 4 km, wyższy od góry Fudżi. Nigdy nie miał powstać",
+        "summary": "X-Seed 4000 firmy Taisei miał mieć 800 pięter i pomieścić od pół miliona do miliona mieszkańców. Został wizją, nie planem budowy.",
+        "body": [
+          "Koncepcję X-Seed 4000 przygotowała japońska firma Taisei w 1995 roku dla Tokio. Budynek miał mieć 4000 metrów wysokości, 800 pięter i podstawę o szerokości 6 km stojącą w morzu. Do budowy potrzeba by ponad 3 mln ton stali.",
+          "Council on Tall Buildings and Urban Habitat prowadzi go w bazie jako „wizję”, czyli projekt bez planów realizacji. Wikipedia zaznacza, że nigdy nie miał zostać zbudowany."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN): X-Seed 4000",
+            "url": "https://en.wikipedia.org/wiki/X-Seed_4000"
+          },
+          {
+            "name": "CTBUH Skyscraper Center",
+            "url": "https://www.skyscrapercenter.com/building/x-seed-4000/4"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/XSeed4000BurjDubaiComparison.jpg",
+          "credit": "Newsburst / Wikimedia Commons, CC BY-SA 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:XSeed4000BurjDubaiComparison.jpg",
+          "alt": "Porównanie wysokości X-Seed 4000 i Burdż Chalifa",
+          "caption": "Porównanie X-Seed 4000 z Burdż Chalifa."
+        },
+        "caption": {
+          "credit": "Newsburst / Wikimedia Commons",
+          "text": "Grafika zestawia projekt X-Seed 4000 z Burdż Chalifa. Różnica skali pokazuje, jak nierealna była ta wizja."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-15": {
     "date": "2026-10-15",
     "ryby": [
