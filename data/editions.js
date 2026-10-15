@@ -6,6 +6,118 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-10-15",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "ReZigiusz wypuszcza kolejny smak Snacky Chicken Bites",
+        "summary": "ReZigiusz ogłosił nowy smak swojej przekąski z kurczaka Snacky Chicken Bites. Zapowiedź opakował w krótki wywiad przygotowany na wzór kanału „fajna fura”.",
+        "body": [
+          "W czwartek rano na kanale ReZigiusza pojawił się 33-sekundowy short „Wywiad z reZim z kanału fajna fura”. Film jest oznaczony jako promocja marki własnej.",
+          "W opisie twórca pisze, że wypuścił kolejny smak Snacky Chicken Bites, czyli mięsnej przekąski z kurczaka, którą sprzedaje pod własną marką. Podkreśla skład i dużą zawartość białka.",
+          "Short nawiązuje formą do wywiadów z kanału „fajna fura”, a według opisu rozmówca nie wiedział, że chodzi o Snacky Chicken Bites.",
+          "Przy odczycie w czwartek o 14:16 film miał ok. 4,3 tys. wyświetleń. Widzowie w komentarzach żartują głównie z auta pokazanego w filmie, część chwali samą przekąskę, a pojedyncze głosy narzekają na jakość."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/shorts/iDPzVZZ324U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/iDPzVZZ324U",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Short, w którym ReZigiusz zapowiada nowy smak swojej przekąski. Opis filmu wprost oznacza go jako materiał marki własnej twórcy."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/iDPzVZZ324U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/iDPzVZZ324U/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/shorts/iDPzVZZ324U",
+          "alt": "Miniatura shorta ReZigiusza o Snacky Chicken Bites",
+          "caption": "Kadr z miniatury shorta „Wywiad z reZim z kanału fajna fura”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Major SPZ",
+        "initials": "MS",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Major SPZ wydaje singiel „Serce na tacy”",
+        "summary": "Major SPZ wypuścił nowy singiel „Serce na tacy”. Na YouTube trafił jako dwuminutowy short, pełna wersja jest w serwisach streamingowych.",
+        "body": [
+          "W czwartek przed południem na kanale Majora SPZ pojawił się film „Major SPZ - Serce na tacy”. To short trwający niecałe dwie minuty.",
+          "W opisie raper odsyła do singla w serwisach cyfrowych, więc na YouTube na razie jest tylko krótka wersja utworu.",
+          "Przy odczycie o 14:16 film miał niespełna 2 tys. wyświetleń i blisko 380 polubień. Widzowie w większości chwalą numer i piszą, że raper z wiekiem jest coraz lepszy. Część pyta, czemu wersja na YouTube jest tak krótka, a pojedyncze komentarze porównują singiel niekorzystnie ze starszymi utworami."
+        ],
+        "sources": [
+          {
+            "name": "Major SPZ / YouTube",
+            "url": "https://www.youtube.com/shorts/wndpor8xu8M",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/wndpor8xu8M",
+        "caption": {
+          "credit": "Major SPZ / YouTube",
+          "text": "Krótka wersja singla „Serce na tacy” opublikowana na kanale Majora SPZ. Pełny utwór raper udostępnił w serwisach streamingowych."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wndpor8xu8M/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wndpor8xu8M/hqdefault.jpg",
+          "credit": "Major SPZ / YouTube",
+          "href": "https://www.youtube.com/shorts/wndpor8xu8M",
+          "alt": "Miniatura shorta Majora SPZ z singlem Serce na tacy",
+          "caption": "Kadr z miniatury filmu „Major SPZ - Serce na tacy”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "PatiX",
+        "initials": "PX",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "PatiX pokazuje jesienną rutynę z Pięcioraczkami w Brookhaven",
+        "summary": "PatiX nagrała w Robloksie jesienny odcinek swojej serii z Brookhaven. Tym razem w „rutynie” biorą udział Pięcioraczki i mała Ami.",
+        "body": [
+          "W czwartek na kanale PatiX pojawił się 17-minutowy film „Nasza jesienna rutyna z Pięcioraczkami i małą Ami na Brookhaven w Roblox”.",
+          "Pięcioraczki to postacie z odgrywanej przez twórczynię serii w Brookhaven; PatiX ma o nich też osobną piosenkę, do której link umieściła w opisie.",
+          "Przy odczycie o 14:16 film miał ok. 2,5 tys. wyświetleń i ponad 300 polubień. Pod pytaniem z kanału, czy widzowie lubią jesień, większość odpowiada, że tak, i chwali klimat odcinka."
+        ],
+        "sources": [
+          {
+            "name": "PatiX / YouTube",
+            "url": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
+        "caption": {
+          "credit": "PatiX / YouTube",
+          "text": "Miniatura jesiennego odcinka z serii PatiX w Brookhaven. Postacie z miniatury to awatary z gry, wokół których toczy się odcinek."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/P_WIXKaqoP8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/P_WIXKaqoP8/hqdefault.jpg",
+          "credit": "PatiX / YouTube",
+          "href": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
+          "alt": "Miniatura filmu PatiX z jesienną rutyną w Brookhaven",
+          "caption": "Kadr z miniatury filmu „Nasza jesienna rutyna z Pięcioraczkami i małą Ami”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-10-14",
         "who": "Książulo",
         "initials": "KS",
@@ -154,6 +266,117 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "czapy": [
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Torii",
+        "initials": "TO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Torii tłumaczy, którą trumnę wybrać w halloweenowym evencie Brawl Stars",
+        "summary": "W Brawl Stars ruszył event z trumnami. Torii na kanale Torii Dwa pokazuje, co w nich jest i jak odebrać darmowe nagrody.",
+        "body": [
+          "Na kanale Torii Dwa pojawił się w czwartek 14-minutowy poradnik o nowym evencie „Scary Coffins” w Brawl Stars.",
+          "Według opisu filmu w trumnach można trafić m.in. Ultra Boxy, Ultra Chaos Dropy, darmowego halloweenowego skina dla Griffa, a nawet skrzynki z nowym zadymiarzem Vince'em.",
+          "Przy odczycie o 14:16 film miał ok. 700 wyświetleń i ponad 50 komentarzy. Widzowie piszą głównie, którego skina chcieliby dostać; najczęściej wymieniają Piper i Chucka."
+        ],
+        "sources": [
+          {
+            "name": "Torii Dwa / YouTube",
+            "url": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+        "caption": {
+          "credit": "Torii Dwa / YouTube",
+          "text": "Miniatura poradnika Toriiego o evencie z trumnami. Film omawia zawartość trumien i darmowe nagrody z halloweenowej aktualizacji."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/gfpfQX0w1aw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/gfpfQX0w1aw/hqdefault.jpg",
+          "credit": "Torii Dwa / YouTube",
+          "href": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+          "alt": "Miniatura poradnika Toriiego o trumnach w Brawl Stars",
+          "caption": "Kadr z miniatury filmu „Którą trumnę wybrać, żeby dostać najlepsze nagrody w Brawl Stars?”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Dobrodziej",
+        "initials": "DO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Dobrodziej sprawdza ocalałych na punkcie kwarantanny w Miami",
+        "summary": "Dobrodziej zaczął na YouTube serię z Quarantine Zone: Miami Zero. W grze kontroluje ocalałych z epidemii zombie i decyduje, kto przejdzie dalej.",
+        "body": [
+          "W czwartek na kanale Dobrodzieja pojawił się pierwszy, prawie 38-minutowy odcinek serii „Quarantine Zone: Miami Zero”, zatytułowany „Ostatni bastion w Miami”.",
+          "Jak opisuje twórca, to fabularny symulator punktu kwarantanny: gracz bada objawy ocalałych, sprawdza dokumenty i bagaże, szuka zarażonych i przemytu, a do tego pracuje w laboratorium nad lekarstwem i naprawia łódź, która ma posłużyć do ucieczki.",
+          "Na co dzień Dobrodziej streamuje na Kicku, a część widzów pisze w komentarzach, że grę oglądała już na transmisji. Przy odczycie o 14:16 odcinek miał ok. 300 wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Dobrodziej / YouTube",
+            "url": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+        "caption": {
+          "credit": "Dobrodziej / YouTube",
+          "text": "Miniatura pierwszego odcinka serii Dobrodzieja z Quarantine Zone: Miami Zero. Od tego filmu zaczyna się jego seria z gry."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/9MFh1MQAy2o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/9MFh1MQAy2o/hqdefault.jpg",
+          "credit": "Dobrodziej / YouTube",
+          "href": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+          "alt": "Miniatura odcinka Dobrodzieja z Quarantine Zone Miami Zero",
+          "caption": "Kadr z miniatury filmu „Ostatni bastion w Miami!!!”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-15",
+        "who": "Foltyn",
+        "initials": "FO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Foltyn wraca do Steal a Brainrot. Ponad 200 tys. wyświetleń w kilka godzin",
+        "summary": "Amerykański twórca robloksowy Foltyn znów kradnie „brainroty”. W opisie promuje figurki i pluszaki „Caylus vs Foltyn” w sieci Target.",
+        "body": [
+          "Foltyn opublikował w czwartek film „I Returned To Steal A Brainrot..”, w którym wraca do robloksowej gry Steal a Brainrot.",
+          "W opisie odsyła do figurek i pluszaków z serii „Caylus vs Foltyn”, sprzedawanych w amerykańskiej sieci Target. To wspólna linia zabawek z innym twórcą robloksowym, Caylusem.",
+          "Przy odczycie o 14:16 polskiego czasu film miał ok. 213 tys. wyświetleń i blisko 1,7 tys. komentarzy. Widzowie żartują głównie z trudnych do wymówienia nazw postaci z gry."
+        ],
+        "sources": [
+          {
+            "name": "Foltyn / YouTube",
+            "url": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+        "caption": {
+          "credit": "Foltyn / YouTube",
+          "text": "Miniatura nowego filmu Foltyna ze Steal a Brainrot. To ten odcinek zebrał ponad 200 tys. wyświetleń w ciągu kilku godzin."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/YBVrsuMSqLk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/YBVrsuMSqLk/hqdefault.jpg",
+          "credit": "Foltyn / YouTube",
+          "href": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+          "alt": "Miniatura filmu Foltyna I Returned To Steal A Brainrot",
+          "caption": "Kadr z miniatury filmu „I Returned To Steal A Brainrot..”"
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-10-15",

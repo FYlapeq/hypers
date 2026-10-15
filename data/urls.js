@@ -2,12 +2,18 @@
 window.HYPERS_URLS = {
  "2026-10-15": {
   "luz": [
+   "artykuly/2026-10-15/rezigiusz-wypuszcza-kolejny-smak-snacky-chicken-bites.html",
+   "artykuly/2026-10-15/major-spz-wydaje-singiel-serce-na-tacy.html",
+   "artykuly/2026-10-15/patix-pokazuje-jesienna-rutyne-z-piecioraczkami-w-brookhaven.html",
    "artykuly/2026-10-15/ksiazulo-wraca-do-kuli-kebabuli-nowy-odcinek-z-pepsi-ma-ponad-pol.html",
    "artykuly/2026-10-15/graf-gra-w-krillion-im-rzadsza-odpowiedz-tym-wiecej-punktow.html",
    "artykuly/2026-10-15/dizowskyy-wraca-do-babci-w-granny-3-jest-nowe-zakonczenie-i-lodz.html",
    "artykuly/2026-10-15/young-multi-wydaje-pierwszy-utwor-na-nopixel-i-podpisuje-kontrakt.html"
   ],
   "czapy": [
+   "artykuly/2026-10-15/torii-tlumaczy-ktora-trumne-wybrac-w-halloweenowym-evencie-brawl-stars.html",
+   "artykuly/2026-10-15/dobrodziej-sprawdza-ocalalych-na-punkcie-kwarantanny-w-miami.html",
+   "artykuly/2026-10-15/foltyn-wraca-do-steal-a-brainrot-ponad-200-tys-wyswietlen-w-kilka.html",
    "artykuly/2026-10-15/jynxzi-zebral-40-streamerow-na-turniej-w-league-of-legends-ludwig.html",
    "artykuly/2026-10-15/gameranx-zbiera-nowe-informacje-o-gta-6-po-pokazie-rockstara-dla-prasy.html",
    "artykuly/2026-10-15/strojny-streszcza-dwa-tygodnie-w-tibii-w-20-minut.html"
