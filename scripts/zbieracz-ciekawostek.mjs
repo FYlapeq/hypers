@@ -67,7 +67,8 @@ function hooksFromHtml(html, lang) {
   for (const m of html.matchAll(/<li[^>]*>([\s\S]*?)<\/li>/g)) {
     const inner = m[1];
     const text = strip(inner);
-    if (!/^(\.\.\.|…)/.test(text) || text.length < 25) continue;
+    // EN: „... that …?”; PL: haczyki „…że …?” (czasem bez wielokropka, ale zawsze pytanie)
+    if (!(/^(\.\.\.|…)/.test(text) || (lang === 'pl' && /\?$/.test(text))) || text.length < 25) continue;
     // główny artykuł = pogrubiony link; inaczej pierwszy link do artykułu
     const links = [...inner.matchAll(/<a [^>]*href="\/wiki\/([^"#?]+)"[^>]*>/g)].map(x => decodeURIComponent(x[1]).replace(/_/g, ' '));
     const bold = inner.match(/<b>\s*(?:<i>)?\s*<a [^>]*href="\/wiki\/([^"#?]+)"/);
@@ -101,7 +102,7 @@ async function wikiHooks(lang, pages) {
       if (j.error) throw new Error(j.error.info);
       const hooks = page.includes('Unusual') ? unusualFromHtml(j.parse.text, lang) : hooksFromHtml(j.parse.text, lang);
       status[`wiki-${lang}:${page}`] = `ok ${hooks.length}` + (hooks.length ? '' :
-        ` (li: ${(j.parse.text.match(/<li/g) || []).length}, próbka: ${strip(j.parse.text).slice(0, 300)})`);
+        ` (li: ${(j.parse.text.match(/<li/g) || []).length}, próbka: ${(j.parse.text.match(/<li[^>]*>[\s\S]*?<\/li>/g) || []).slice(0, 3).map(strip).join(' || ').slice(0, 400)})`);
       all.push(...hooks.map(h => ({ ...h, page })));
     } catch (e) { status[`wiki-${lang}:${page}`] = 'błąd: ' + e.message; }
   }
