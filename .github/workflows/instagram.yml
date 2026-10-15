@@ -8,9 +8,9 @@ on:
   workflow_dispatch:
     inputs:
       tryb:
-        description: "proba = tylko karty i opisy do obejrzenia (bez publikacji), publikuj = normalne działanie"
+        description: "proba = karty i opisy do obejrzenia, sprawdz = test tokenu (bez publikacji), publikuj = normalne działanie"
         type: choice
-        options: ["proba", "publikuj"]
+        options: ["proba", "sprawdz", "publikuj"]
         default: "proba"
       dzien:
         description: "Dla trybu proba: dzień do podglądu (RRRR-MM-DD), puste = najnowsze wydanie"
@@ -25,8 +25,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  sprawdz:
+    if: github.event_name == 'workflow_dispatch' && inputs.tryb == 'sprawdz'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: instagram
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sprawdź token Instagrama
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: node instagram/sprawdz.mjs
+
   posty:
-    if: github.event_name != 'schedule'
+    if: github.event_name != 'schedule' && !(github.event_name == 'workflow_dispatch' && inputs.tryb == 'sprawdz')
     runs-on: ubuntu-latest
     timeout-minutes: 120
     env:
