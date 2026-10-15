@@ -81,7 +81,18 @@ jobs:
         run: |
           D="${DZIEN:-$(node -e "const v=require('vm'),c={window:{}};v.runInNewContext(require('fs').readFileSync('data/editions.js','utf8'),c);console.log(Object.keys(c.window.HYPERS_EDITIONS).sort().at(-1))")}"
           IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs
-          echo "Podgląd kart z dnia $D: pobierz artefakt **instagram-podglad** poniżej." >> "$GITHUB_STEP_SUMMARY"
+          # Podgląd także na gałęzi instagram-podglad (nadpisywana), do obejrzenia na GitHubie bez pobierania.
+          cd "$STAN_DIR/karty"
+          git init -q -b instagram-podglad
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -q -m "Podgląd Instagram $D"
+          git push -q --force "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:instagram-podglad
+          rm -rf .git
+          {
+            echo "Podgląd kart z dnia $D: gałąź [instagram-podglad](https://github.com/${GITHUB_REPOSITORY}/tree/instagram-podglad)"
+            echo "(opisy w podglad.md) albo artefakt **instagram-podglad** poniżej."
+          } >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
         if: env.DRY_RUN == '1'
         with:
