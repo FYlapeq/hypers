@@ -1,4 +1,4 @@
-# Posty na Instagramie: jeden news = jeden post, o godzinach z instagram/harmonogram.json (czas Warszawy).
+# Posty na Instagramie: karuzela 5 newsów + slajd „zostaw follow”, o godzinach z instagram/harmonogram.json (czas Warszawy).
 # Tryb zegar (push wydania, cron, łańcuch): job czeka do pełnej godziny slotu i publikuje o czasie (instagram/zegar.sh).
 # Cron co 15 min to tylko zapas, gdy łańcuch się zerwie (harmonogram GitHuba bywa spóźniony o godziny).
 # Post wychodzi tylko z oryginalną miniaturą filmu; news bez niej jest pomijany. Instrukcja: instagram/README.md
@@ -122,7 +122,7 @@ jobs:
           DZIEN: ${{ inputs.dzien }}
         run: |
           D="${DZIEN:-$(node -e "const v=require('vm'),c={window:{}};v.runInNewContext(require('fs').readFileSync('data/editions.js','utf8'),c);console.log(Object.keys(c.window.HYPERS_EDITIONS).sort().at(-1))")}"
-          IG_TRYB= IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs
+          IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs   # podgląd karuzeli pierwszego slotu dnia
           # Podgląd także na gałęzi instagram-podglad (nadpisywana), do obejrzenia na GitHubie bez pobierania.
           cd "$STAN_DIR/karty"
           git init -q -b instagram-podglad

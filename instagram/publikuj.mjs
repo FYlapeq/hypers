@@ -1,4 +1,5 @@
-// Publikuje nowe newsy Hypers na Instagramie: jedna karta (JPEG 1080x1350) + opis = jeden post.
+// Publikuje nowe newsy Hypers na Instagramie. Tryb slot (domyślny): karuzela = 5 newsów (każdy na osobnej karcie
+// JPEG 1080x1350) + slajd końcowy z prośbą o follow, jeden opis z listą newsów. IG_TYLKO: jeden news = jeden post.
 // Uruchamiane przez .github/workflows/instagram.yml po każdym nowym wydaniu.
 //
 // Stan i grafiki leżą na osobnej gałęzi `instagram` (katalog STAN_DIR = jej checkout):
@@ -71,6 +72,31 @@ export function hashtagi(news) {
   return [...new Set(tagi.filter((t) => t.length > 2))].slice(0, 8).join(' ');
 }
 
+// Opis karuzeli: numerowane tytuły z krótkim leadem, prośba o follow, źródła, kadry, hashtagi.
+export function opisKaruzeli(lista) {
+  const zrodla = [...new Set(lista.flatMap((x) => (x.news.sources ?? []).map((s) => s.name)))].join(', ');
+  const kadry = [...new Set(lista.map((x) => x.news.image?.credit).filter(Boolean))].join(', ');
+  const tagi = [...new Set(lista.flatMap((x) => hashtagi(x.news).split(' ')))];
+  const glowa = `${lista.length} newsów o twórcach, przesuń w bok ➡️`;
+  const stopka = [
+    'Zostaw follow, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
+    '',
+    zrodla && `Źródła: ${zrodla}`,
+    kadry && `Kadry: ${kadry}`,
+    'Całe artykuły i linki do źródeł: hypers.tech (link w bio)',
+    '',
+    ['#hypers', ...tagi.filter((t) => t !== '#hypers')].slice(0, 15).join(' '),
+  ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
+  const pozycje = (zLeadem) => lista.map((x, i) => `${i + 1}. ${x.news.title}${zLeadem[i] ? `\n${x.news.summary}` : ''}`);
+  const sklej = (z) => [glowa, ...pozycje(z), stopka].join('\n\n');
+  // Gdy się nie mieści, zdejmujemy leady od końca; tytuły zostają zawsze.
+  const z = lista.map((x) => !!x.news.summary);
+  for (let i = z.length - 1; i >= 0 && sklej(z).length > LIMIT_OPISU; i--) z[i] = false;
+  let tekst = sklej(z);
+  if (tekst.length > LIMIT_OPISU) tekst = tekst.slice(0, LIMIT_OPISU - 1) + '…';
+  return tekst;
+}
+
 export function opis(news, { zKadrem }) {
   const zrodla = [...new Set((news.sources ?? []).map((s) => s.name))].join(', ');
   const stopka = [
@@ -135,6 +161,32 @@ async function opublikuj(imageUrl, caption) {
   return id;
 }
 
+async function czekajNaKontener(kontener) {
+  for (let i = 0; i < 30; i++) {
+    const { status_code } = await api(kontener, { params: { fields: 'status_code' } });
+    if (status_code === 'FINISHED') return;
+    if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`Kontener ${kontener}: ${status_code}`);
+    await sleep(5000);
+  }
+  throw new Error(`Kontener ${kontener}: Instagram nie przetworzył obrazu w 150 s`);
+}
+
+// Karuzela: najpierw kontener na każdy slajd (is_carousel_item), potem kontener CAROUSEL z opisem i publikacja.
+async function opublikujKaruzele(imageUrls, caption) {
+  const dzieci = [];
+  for (const image_url of imageUrls) {
+    const { id } = await api(`${env.IG_USER_ID}/media`, { method: 'POST', params: { image_url, is_carousel_item: 'true' } });
+    dzieci.push(id);
+  }
+  for (const id of dzieci) await czekajNaKontener(id);
+  const { id: kontener } = await api(`${env.IG_USER_ID}/media`, {
+    method: 'POST', params: { media_type: 'CAROUSEL', children: dzieci.join(','), caption },
+  });
+  await czekajNaKontener(kontener);
+  const { id } = await api(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kontener } });
+  return id;
+}
+
 async function wolnyLimit() {
   try {
     const { data } = await api(`${env.IG_USER_ID}/content_publishing_limit`, { params: { fields: 'quota_usage,config' } });
@@ -192,14 +244,15 @@ async function main() {
     kandydaci = wszystkie.filter((x) => x.sciezka === env.IG_TYLKO.trim());
     if (!kandydaci.length) throw new Error(`Nie ma newsa ${env.IG_TYLKO} w data/urls.js`);
   } else if (env.IG_TRYB === 'slot') {
-    slot = biezacySlot(stan);
-    if (!slot && !DRY) { log('Teraz nie ma slotu do zrobienia.'); return; }
-    slot ??= { klucz: 'podglad', data: Object.keys(E).sort().at(-1) };
+    slot = DRY ? { klucz: 'podglad', data: env.IG_PODGLAD_DATA || Object.keys(E).sort().at(-1) } : biezacySlot(stan);
+    if (!slot) { log('Teraz nie ma slotu do zrobienia.'); return; }
     kandydaci = kandydaciSlotu(E, U, stan, slot.data);
   } else {
     kandydaci = wszystkie.filter((x) => !stan.opublikowane[x.sciezka]);
   }
-  const limit = env.IG_TRYB === 'slot' || env.IG_TYLKO ? 1 : MAKS;
+  const karuzela = !!slot;
+  const W_POSCIE = harmonogram().newsow_w_poscie ?? 5;
+  const limit = karuzela ? W_POSCIE : env.IG_TYLKO ? 1 : MAKS;
 
   // Karty bieżącego uruchomienia (stare usuwamy, gałąź i tak jest nadpisywana).
   const kartyDir = join(STAN_DIR, 'karty');
@@ -212,7 +265,8 @@ async function main() {
   const nowe = [];
   for (const x of kandydaci) {
     if (nowe.length >= limit) break;
-    const [w] = await renderuj([{ ...x, wariant: WARIANT, plik: join(kartyDir, nazwa(x)) }]);
+    const nr = karuzela ? `${nowe.length + 1}/${W_POSCIE}` : null;
+    const [w] = await renderuj([{ ...x, wariant: WARIANT, nr, plik: join(kartyDir, nazwa(x)) }]);
     if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
     x.zKadrem = true;
     x.opis = opis(x.news, { zKadrem: true });
@@ -225,8 +279,22 @@ async function main() {
   }
   log(`Do publikacji: ${nowe.length}${slot ? ` (slot ${slot.klucz})` : ''}`);
 
+  // Karuzela wychodzi tylko pełna (W_POSCIE newsów z kadrem). Za mało = slot pusty, newsy czekają na następny.
+  let opisK = null;
+  const FOLLOW = 'zz-follow.jpg';
+  if (karuzela) {
+    if (nowe.length < W_POSCIE) {
+      log(`Za mało newsów z miniaturą na karuzelę: ${nowe.length}/${W_POSCIE}. Czekają na następny slot.`);
+      if (!DRY) { stan.sloty ??= {}; stan.sloty[slot.klucz] = { brak: `za mało newsów (${nowe.length}/${W_POSCIE})` }; zapiszStan(stan); commitStanu(`Instagram: slot ${slot.klucz} pusty`); return; }
+    }
+    await renderuj([{ follow: true, godziny: harmonogram().godziny, plik: join(kartyDir, FOLLOW) }]);
+    opisK = opisKaruzeli(nowe);
+  }
+
   if (DRY) {
-    const md = nowe.map((x) => `## ${nazwa(x)}${x.zKadrem ? '' : ' (bez kadru)'}\n\n\`\`\`\n${x.opis}\n\`\`\`\n`).join('\n');
+    const md = karuzela
+      ? `## Karuzela: ${[...nowe.map(nazwa), FOLLOW].join(', ')}\n\n\`\`\`\n${opisK}\n\`\`\`\n`
+      : nowe.map((x) => `## ${nazwa(x)}${x.zKadrem ? '' : ' (bez kadru)'}\n\n\`\`\`\n${x.opis}\n\`\`\`\n`).join('\n');
     writeFileSync(join(kartyDir, 'podglad.md'), `# Podgląd postów (${nowe.length})\n\n${md}`);
     log(`DRY_RUN: zapisano ${nowe.length} kart i podgląd opisów w ${kartyDir}`);
     return;
@@ -242,10 +310,34 @@ async function main() {
   const sha = commitStanu(`Instagram: karty (${nowe.length})`);
   let wolne = await wolnyLimit();
   let bledy = 0;
+  const raw = (plik) => `https://raw.githubusercontent.com/${REPO}/${sha}/karty/${encodeURIComponent(plik)}`;
+
+  if (karuzela) {
+    if (wolne <= 2) { log('Limit publikacji Instagrama na 24 h prawie wyczerpany, slot zostaje otwarty.'); process.exitCode = 1; return; }
+    try {
+      const id = await opublikujKaruzele([...nowe.map((x) => raw(nazwa(x))), raw(FOLLOW)], opisK);
+      const kiedy = new Date().toISOString();
+      for (const x of nowe) stan.opublikowane[x.sciezka] = { media_id: id, kiedy, slot: slot.klucz };
+      stan.sloty ??= {};
+      stan.sloty[slot.klucz] = { sciezki: nowe.map((x) => x.sciezka), media_id: id };
+      log(`✓ karuzela ${slot.klucz} (${nowe.length} newsów) → ${id}`);
+    } catch (e) {
+      log(`✗ karuzela ${slot.klucz}: ${e.message}`);
+      stan.bledy ??= {};
+      for (const x of nowe) {
+        stan.bledy[x.sciezka] = (stan.bledy[x.sciezka] ?? 0) + 1;
+        if (stan.bledy[x.sciezka] >= 3) stan.opublikowane[x.sciezka] = { pominiete: `3 nieudane próby: ${e.message.slice(0, 200)}` };
+      }
+      process.exitCode = 1; // slot zostaje otwarty, zegar ponowi
+    }
+    zapiszStan(stan);
+    commitStanu(`Instagram: karuzela ${slot.klucz}`);
+    return;
+  }
 
   for (const [i, x] of nowe.entries()) {
     if (wolne <= 2) { log('Limit publikacji Instagrama na 24 h prawie wyczerpany, reszta pójdzie w następnym uruchomieniu.'); break; }
-    const url = `https://raw.githubusercontent.com/${REPO}/${sha}/karty/${encodeURIComponent(nazwa(x))}`;
+    const url = raw(nazwa(x));
     try {
       const id = await opublikuj(url, x.opis);
       stan.opublikowane[x.sciezka] = { media_id: id, kiedy: new Date().toISOString(), ...(slot && { slot: slot.klucz }) };

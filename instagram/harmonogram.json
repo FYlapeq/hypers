@@ -1,9 +1,8 @@
 {
-  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Jeden post na godzinę z listy. 'wyjatki' nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany.",
-  "godziny": ["07:00", "09:00", "11:00", "13:00", "15:00", "17:00", "19:00"],
-  "wyjatki": {
-    "2026-10-15": ["16:00", "18:00", "20:00"]
-  },
+  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Jedna karuzela na godzinę z listy: newsow_w_poscie newsów (każdy na osobnym slajdzie) + slajd z prośbą o follow. Karuzela wychodzi tylko pełna; przy mniejszej liczbie newsów z miniaturą slot jest pusty, a newsy czekają na następny. 'wyjatki' nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany.",
+  "godziny": ["09:00", "16:00", "20:00"],
+  "wyjatki": {},
+  "newsow_w_poscie": 5,
   "maks_opoznienie_min": 90,
   "dni_wstecz": 1
 }

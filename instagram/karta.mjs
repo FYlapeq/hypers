@@ -177,6 +177,7 @@ const WARIANTY = {
 .logo{font:400 54px/1 "Anton";letter-spacing:.02em;text-shadow:0 2px 12px rgba(0,0,0,.4)}
 .sek{font:400 30px/1 "Anton";text-transform:uppercase;background:#ffc9b0;color:#0b1620;padding:9px 14px 7px;border-radius:8px;letter-spacing:.03em}
 .kredyt{margin-left:auto;font:600 19px/1 "Work Sans";background:rgba(11,22,32,.72);padding:9px 13px;border-radius:8px}
+.nr{font:700 21px/1 "Work Sans";background:#fff;color:#0b1620;padding:9px 13px;border-radius:8px;letter-spacing:.04em}
 .body{flex:1;display:flex;flex-direction:column;justify-content:flex-end;padding:30px 64px 40px}
 .kat{font:700 23px/1 "Work Sans";letter-spacing:.16em;text-transform:uppercase;color:#ffc9b0;margin-bottom:22px}
 .title{font-size:var(--fs,112px);color:#fff}
@@ -187,7 +188,7 @@ const WARIANTY = {
 .hype{color:#9fb3c1}
 </style>
 <div class="card">
-  <div class="top"><div class="logo">HYPERS</div><div class="sek">${esc(n._sekcja)}</div><div class="kredyt">Kadr: ${esc(n._kredyt)}</div></div>
+  <div class="top"><div class="logo">HYPERS</div><div class="sek">${esc(n._sekcja)}</div><div class="kredyt">Kadr: ${esc(n._kredyt)}</div>${n._nr ? `<div class="nr">${esc(n._nr)}</div>` : ''}</div>
   <div class="body"><div class="kat">${esc(n.category)} · ${esc(n._data)}</div><h1 class="title fit">${esc(n.title)}</h1></div>
   <div class="foot"><div class="avatar">${esc(n.initials)}</div>
     <div class="who">${esc(n.who)}<small>HYPERS.TECH · LINK W BIO</small></div>
@@ -226,11 +227,11 @@ const DOPASUJ = `
 // Polska typografia: jednoliterowe spójniki i przyimki nie zostają na końcu wiersza.
 export const sieroty = (t) => String(t).replace(/(?<=^|[\s\u00a0])([aiouwz])\s+/gi, '$1\u00a0');
 
-export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null }) {
+export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null, nr = null }) {
   // Warianty z kadrem bez dostępnego kadru wracają do zwykłej karty A.
   if (Z_KADREM.has(wariant) && !tlo) wariant = 'a';
   const n = { ...news, title: sieroty(news.title), _data: dataPL(data), _sekcja: SEKCJE[sekcja] ?? sekcja,
-    _tlo: tlo, _kredyt: news.image?.credit ?? news.who };
+    _tlo: tlo, _kredyt: news.image?.credit ?? news.who, _nr: nr };
   return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}</style></head>
 <body>${WARIANTY[wariant](n)}<script>${DOPASUJ}</script></body></html>`;
 }
@@ -261,13 +262,54 @@ export async function pobierzKadr(news) {
   return null;
 }
 
-// Renderuje listę {news, data, sekcja, plik, wariant} do JPEG. Zwraca rozmiar tytułu i informację o kadrze.
+// Ostatni slajd karuzeli: prośba o follow (algorytm może już nie pokazać kolejnego posta).
+export function htmlFollow({ godziny = [] } = {}) {
+  const kiedy = godziny.length ? `Codziennie ${godziny.map((g) => g.replace(/^0/, '')).join(' · ')}` : 'Nowe newsy codziennie';
+  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}
+.card{background:#0b1620;color:#fff;padding:72px 72px 64px}
+.ghost{position:absolute;right:-60px;bottom:-40px;font:400 560px/.8 "Anton";color:rgba(255,201,176,.06);pointer-events:none}
+.top{display:flex;align-items:center;justify-content:space-between;position:relative}
+.logo{font:400 54px/1 "Anton";background:#276787;padding:12px 18px 10px;border-radius:12px;letter-spacing:.02em}
+.koniec{font:700 22px/1 "Work Sans";letter-spacing:.16em;text-transform:uppercase;color:#9fb3c1}
+.body{flex:1;display:flex;flex-direction:column;justify-content:center;position:relative}
+.kat{font:700 24px/1 "Work Sans";letter-spacing:.16em;text-transform:uppercase;color:#ffc9b0;margin-bottom:28px}
+.title{font-size:150px;line-height:1.02}
+.title span{color:#ffc9b0}
+.tekst{margin-top:40px;font:500 36px/1.4 "Work Sans";color:#d5e1e9;max-width:880px}
+.tekst b{color:#fff;font-weight:700}
+.przycisk{margin-top:56px;display:inline-flex;align-items:center;gap:18px;align-self:flex-start;background:#4f8fd9;color:#fff;
+  font:700 40px/1 "Work Sans";padding:26px 46px;border-radius:18px;box-shadow:0 0 0 10px rgba(79,143,217,.18)}
+.przycisk i{display:block;width:16px;height:16px;border-radius:50%;background:#ffc9b0}
+.foot{display:flex;justify-content:space-between;align-items:center;padding-top:30px;border-top:2px solid rgba(255,255,255,.12);
+  font:600 24px/1.3 "Work Sans";color:#9fb3c1;position:relative}
+.foot b{color:#fff;font-weight:700}
+</style></head><body><div class="card">
+  <div class="ghost">FOLLOW</div>
+  <div class="top"><div class="logo">HYPERS</div><div class="koniec">To wszystko na teraz</div></div>
+  <div class="body">
+    <div class="kat">Zanim przewiniesz dalej</div>
+    <h1 class="title">ZOSTAW<br><span>FOLLOW</span></h1>
+    <p class="tekst">Instagram może Ci nas <b>już więcej nie pokazać</b>. Obserwuj Hypers, żeby kolejne newsy o twórcach same do Ciebie trafiały.</p>
+    <div class="przycisk"><i></i>Obserwuj</div>
+  </div>
+  <div class="foot"><span>${esc(kiedy)}</span><span>Całe artykuły: <b>hypers.tech</b></span></div>
+</div><script>document.fonts.ready.then(() => { document.body.dataset.gotowe = 1; });</script></body></html>`;
+}
+
+// Renderuje listę {news, data, sekcja, plik, wariant[, nr]} do JPEG; zadanie {follow: true, plik} = slajd z prośbą o follow. Zwraca rozmiar tytułu i informację o kadrze.
 export async function renderuj(zadania) {
   const browser = await chromium.launch();
   const page = await browser.newPage({ viewport: { width: SZER, height: WYS }, deviceScaleFactor: 1 });
   const wyniki = [];
   try {
     for (const z of zadania) {
+      if (z.follow) {
+        await page.setContent(htmlFollow(z), { waitUntil: 'load' });
+        await page.waitForFunction(() => document.body.dataset.gotowe);
+        await page.screenshot({ path: z.plik, type: 'jpeg', quality: 92 });
+        wyniki.push({ plik: z.plik, follow: true });
+        continue;
+      }
       const tlo = Z_KADREM.has(z.wariant) ? await pobierzKadr(z.news) : null;
       await page.setContent(htmlKarty(z.news, { ...z, tlo }), { waitUntil: 'load' });
       await page.waitForFunction(() => document.body.dataset.gotowe);
