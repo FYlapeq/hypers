@@ -1,0 +1,1290 @@
+{
+ "run": {
+  "date": "2026-10-15",
+  "slot": "rano",
+  "generated_at": "2026-10-15T21:58:33.488Z",
+  "candidates": 83,
+  "with_free_image": 10
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 0",
+  "wiki-en:Wikipedia:Recent additions": "ok 134",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 0",
+  "wiki-en:Wikipedia:Recent additions/2026/October": "błąd: The page you specified doesn't exist.",
+  "rss:Atlas Obscura": "ok 12",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "reddit-til": "błąd: HTTP 403 (https://www.reddit.com/r/todayilearned/top.json?t=day&limit=40&raw_json=1)",
+  "rss:Ciekawostki historyczne": "ok 12"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that sandbags help salmon traverse Springbrook Creek?",
+   "article": {
+    "title": "Springbrook Creek (Washington)",
+    "url": "https://en.wikipedia.org/wiki/Springbrook_Creek_(Washington)",
+    "extract": "Springbrook Creek is a stream on Bainbridge Island in Western Washington, United States. Emerging from various small tributary streams, the creek flows generally northwest through areas of wetland before draining into Fletcher Bay, an arm of Port Orchard in the larger Puget Sound. The creek has a wide estuary and mudflat at its mouth, shared with Issei Creek and two seasonal streams. Among the largest creeks on the island, it hosts salmonids such as cutthroat trout and coho salmon."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Pan Pan is thought to have had more than 130 descendants?",
+   "article": {
+    "title": "Pan Pan (giant panda)",
+    "url": "https://en.wikipedia.org/wiki/Pan_Pan_(giant_panda)",
+    "extract": "Pan Pan (Chinese: 盼盼; pinyin: Pàn pàn; lit. 'Hope Hope'; c. 21 September 1985 – 28 December 2016) was a male giant panda who lived at the Giant Panda Protection and Research Centre in Chengdu, China. After being rescued from the wild, Pan Pan was nursed back to health by Li Wuke, who was taking care of another male panda named An An."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that sharbel Maroun does not capitalize his given name out of respect for Sharbel Makhlouf?",
+   "article": {
+    "title": "Sharbel Maroun",
+    "url": "https://en.wikipedia.org/wiki/Sharbel_Maroun",
+    "extract": "Sharbel Ghattas Maroun (born 6 January 1962), self-styled sharbel Maroun, is a Maronite Catholic chorbishop and archeparch-elect of the Archeparchy of Damascus. Born in Lebanon, his family immigrated to the United States during the Lebanese Civil War. He was ordained as a priest in 1989 and served at parishes in the US. He was elected to become the next archeparch of Damascus in 2026."
+   },
+   "related": [
+    "Charbel Makhlouf"
+   ],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the South Korean TV character Han Ji-pyeong was praised for breaking negative stereotypes of orphans in Korean dramas who age out of foster care?",
+   "article": {
+    "title": "Han Ji-pyeong",
+    "url": "https://en.wikipedia.org/wiki/Han_Ji-pyeong",
+    "extract": "Han Ji-pyeong (Korean: 한지평, IPA: [han.dʑi.pʰjʌŋ]) is a fictional character from the South Korean television series Start-Up. Directed by Oh Chung-hwan, the 16-episode series aired on tvN from October 17 to December 6, 2020, every Saturday and Sunday, while simultaneously released on Netflix in 50 countries.\nThe character was created by series screenwriter Park Hye-ryun and portrayed by two actors: Kim Seon-ho as an adult and Nam Da-reum as a teenager. He is introduced first as an adult in the pilot episode, a venture capitalist working as a team leader at SH Venture Capital, known as the \"genius investor\" and the \"Gordon Ramsay of the investment world,\" a nickname attributed to his sharp-tongued demeanor."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that The New Yorker listed a book about the One Direction fandom as one of the best books of 2022?",
+   "article": {
+    "title": "Everything I Need I Get from You",
+    "url": "https://en.wikipedia.org/wiki/Everything_I_Need_I_Get_from_You",
+    "extract": "Everything I Need I Get from You: How Fangirls Created the Internet as We Know It is a 2022 book by journalist Kaitlyn Tiffany. It covers online fandom, especially of the band One Direction, and the author's personal experiences of it. Tiffany aimed to challenge stereotypes of fangirls, and interviewed a number of One Direction fans.\n\nThe book received positive reviews from critics, who described it as humorous and well-informed."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Dutch painter Henry van Velthuysen dismissed a contemporary's works as \"infantile construction-kit shapes\"?",
+   "article": {
+    "title": "Henry van Velthuysen",
+    "url": "https://en.wikipedia.org/wiki/Henry_van_Velthuysen",
+    "extract": "Henry van Velthuysen (also Henri, 17 April 1881 – 4 December 1954) was a Dutch painter associated with the Mooi Indië movement. Born in the  Dutch East Indies, he was educated at the University of California, Berkeley, before returning to the Indies and working as a civil servant. He developed a reputation as a painter through the 1920s, holding several exhibitions and writing extensively on art in newspapers and magazines. While continuing to exhibit through the 1940s, he worked with younger painters to develop their skills."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Romanian satirist Teodor Mazilu demanded \"a proper hat\" as his dying wish?",
+   "article": {
+    "title": "Teodor Mazilu",
+    "url": "https://en.wikipedia.org/wiki/Teodor_Mazilu",
+    "extract": "Teodor Mazilu, also known as Theodor or Tudor Mazilu (11 August 1930 – 18 October 1980), was a Romanian writer, editor, cartoonist, and occasional actor. He was from a working-class background, born in what was then a marginal area of Bucharest. Already a writer in his childhood, he documented his experience of poverty and strife, growing up as World War II was raging. With the growing influence exercised by the Romanian Communist Party in the late 1940s, Mazilu wrote proletarian literature."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Aurel_Mihailopol_-_Teodor_Mazilu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aurel_Mihailopol_-_Teodor_Mazilu.png",
+    "file": "File:Aurel Mihailopol - Teodor Mazilu.png",
+    "artist": "Aurel Mihailopol",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 533,
+    "height": 778,
+    "ok": true
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that actress Barbra Streisand bought a New York City townhouse after being rejected from housing cooperatives due to her occupation?",
+   "article": {
+    "title": "49 East 80th Street",
+    "url": "https://en.wikipedia.org/wiki/49_East_80th_Street",
+    "extract": "49 East 80th Street is a residence on the Upper East Side of Manhattan, New York City, United States. Designed in the Art Deco style by Harry Allan Jacobs for the banker Lionello Perera, the house was built in 1930. The main elevation of the facade is made of multi-colored stone and brick, while the rear is made of brick. The house spans five stories, plus a basement, and has five bathrooms and eight bedrooms across nearly 9,200 square feet (850 m2)."
+   },
+   "related": [
+    "Barbra Streisand"
+   ],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Upper East Side Aug 2026 93.jpg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that actress Charlotte Jordan was once in a girl group that she said changed names so many times it was referred to simply as \"The Band\"?",
+   "article": {
+    "title": "Charlotte Jordan",
+    "url": "https://en.wikipedia.org/wiki/Charlotte_Jordan",
+    "extract": "Charlotte Jordan Evans (born 1 June 1994) is an English actress. She started her acting career in 2007, appearing in an episode of The Bill. She was first known for her role as Gaby Grant in the 2018 Netflix series Free Rein. She later joined the ITV soap opera Coronation Street in 2020 during its 60th anniversary as Daisy Midgeley."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Charlotte_Jordan_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Charlotte_Jordan_2023.jpg",
+    "file": "File:Charlotte Jordan 2023.jpg",
+    "artist": "Meena",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1140,
+    "height": 2119,
+    "ok": true
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Edwin Masuge temporarily stepped away from athletics to focus on his schooling after placing seventh in the 400 metres T13 final at the Tokyo 2020 Paralympics?",
+   "article": {
+    "title": "Edwin Masuge",
+    "url": "https://en.wikipedia.org/wiki/Edwin_Masuge",
+    "extract": "Edwin Masuge (born 4 March 2000) is a Motswana sprinter. He qualified for the 2020 Summer Paralympics and 2024 Summer Paralympics where he competed in the men's 400 metres T13 event. Masuge has participated in four World Para Athletics Championships, primarily competing in the 400 metres T13 events. \nAlthough Masuge's disability class is T13, he has competed in some T12 events during competitions including the 2019 World Para Athletics Championships and the Toyota National Championships."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that future Macau international footballer Alberto Carvalhal was involved in repatriating the remains of Pedro I to Brazil?",
+   "article": {
+    "title": "Alberto Carvalhal",
+    "url": "https://en.wikipedia.org/wiki/Alberto_Carvalhal",
+    "extract": "Alberto Carvalhal (born 1953) is a former sailor and footballer who played as an attacking midfielder. Born in Portugal, he represented the Macau national team."
+   },
+   "related": [
+    "Pedro I of Brazil"
+   ],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that ten American soldiers were awarded the Distinguished Service Cross after ships of the US Army Small Ships Section were attacked by Japanese aircraft?",
+   "article": {
+    "title": "US Army Small Ships Section",
+    "url": "https://en.wikipedia.org/wiki/US_Army_Small_Ships_Section",
+    "extract": "The US Army Small Ships Section was an improvised civilian fleet that provided logistical support to Allied operations in the South West Pacific Area during World War II. Between 1942 and 1945, more than 4,000 Allied personnel served aboard its vessels.\n\nThe section has its origins in Mission X, a project initiated by brothers John Sheridan Fahnestock and Adam Bruce Fahnestock of the Fahnestock South Sea Expeditions fame. The section operated ships acquired in Australia and New Zealand under Reverse Lend-Lease. The section operated schooners, ketches, and even a Clemson-class destroyer converted to a freighter, but the preferred type was seine trawlers."
+   },
+   "related": [
+    "Distinguished Service Cross (United States)"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Local_villagers_assist_crew_members_of_the_Small_Ships_Section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Local_villagers_assist_crew_members_of_the_Small_Ships_Section.jpg",
+    "file": "File:Local villagers assist crew members of the Small Ships Section.jpg",
+    "artist": "United States Army Signal Corps",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 490,
+    "ok": true
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the anthropomorphic skunk Sabrina has been called \"one of the most famous furry comics stars\"?",
+   "article": {
+    "title": "Sabrina Online",
+    "url": "https://en.wikipedia.org/wiki/Sabrina_Online",
+    "extract": "Sabrina Online is a furry-themed comedy webcomic strip by cartoonist and animator Eric W. Schwartz. Making its debut online in 1996 as one of the earliest of webcomics, Sabrina Online stars a young anthropomorphic skunk woman named Sabrina, a shy but witty computer enthusiast and hobbyist as she navigates through an independent life both online and in real life. The webcomic also features several other major characters like Amy, an anthropomorphic squirrel who resides in an apartment as Sabrina's roommate and was conceived by Schwartz as early as 1989. Because of Amy's similar appearance to other female characters in old cartoons, Schwartz created Sabrina as a character whose appearance and personality were very different from her."
+   },
+   "related": [
+    "Furry fandom"
+   ],
+   "image": null
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Philoxenos Yuhanon Dolabani defied church policy against Assyrian nationalism through anonymous poetry?",
+   "article": {
+    "title": "Philoxenos Yuhanon Dolabani",
+    "url": "https://en.wikipedia.org/wiki/Philoxenos_Yuhanon_Dolabani",
+    "extract": "Mor Philoxenos Yuhanon Dolabani (Syriac: ܦܝܠܘܟܣܝܢܘܣ ܝܘܚܢܐ ܕܘܠܐܒܐܢܝ; 1885–1969), also known as Philoxenos Yuhanon Dolabani or simply Yuhanon Dolabani, was the Syriac Orthodox Metropolitan of Mardin, Turkey, and its Environs. Born in Mardin, he became interested in becoming a monk in the early 20th century, to which his parents objected at first. He was ordained in the Mor Hananyo Monastery in 1908, and later as a bishop in 1933. In 1947, he was ordained Metropolitan of Mardin."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Philoxenos_Yuhanon_Dolabani_arriving_in_Aleppo_after_his_ordination%2C_May_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Philoxenos_Yuhanon_Dolabani_arriving_in_Aleppo_after_his_ordination,_May_1947.jpg",
+    "file": "File:Philoxenos Yuhanon Dolabani arriving in Aleppo after his ordination, May 1947.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 398,
+    "height": 493,
+    "ok": true
+   }
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a French translation of The Sound Pattern of English includes only chapters 1, 2, 7, 8, and 9?",
+   "article": {
+    "title": "The Sound Pattern of English",
+    "url": "https://en.wikipedia.org/wiki/The_Sound_Pattern_of_English",
+    "extract": "The Sound Pattern of English (SPE) is a work on phonology by linguists Noam Chomsky and Morris Halle, originally published in 1968. As the first exposition of the framework of generative phonology, it was the authoritative text of the field for most phonologists in the decade following its publication. In SPE, Chomsky and Halle present a view of phonology as a component of generative grammar, alongside syntax and semantics.\nA language's phonology is said to consist of a series of computations, termed phonological rules."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "plik TheSoundPatternOfEnglish.jpg nie jest na Commons (prawdopodobnie niewolny)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that minorities in Turkey recognized under the Treaty of Lausanne were not required to change their surnames, as stipulated by the Surname Law?",
+   "article": {
+    "title": "Surname Law",
+    "url": "https://en.wikipedia.org/wiki/Surname_Law",
+    "extract": "The Surname Law (Turkish: Soyadı Kanunu) of the Republic of Turkey is a law adopted on 21 June 1934, requiring all citizens to adopt the use of fixed, hereditary surnames. The concept of surnames originated in the Ottoman Empire as families began to adopt surnames after improvements were made to population registries and censuses, a practice that accelerated as growing secularization and modernization efforts required their allocation in state-sponsored programs. The enactment of the Surname Law enforced the use of official surnames but also stipulated that citizens choose Turkish names.\n\nThe Surname Law is considered one of the last measures of secularization that took place in the early years of the Republic of Turkey."
+   },
+   "related": [
+    "Treaty of Lausanne"
+   ],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Alirio García Flamenco found serving in the Iraq War to be more comfortable than the extreme heat that he experienced in Western Sahara?",
+   "article": {
+    "title": "Alirio García Flamenco",
+    "url": "https://en.wikipedia.org/wiki/Alirio_Garc%C3%ADa_Flamenco",
+    "extract": "Alirio García Flamenco Sevilla (born 1964 or 1965) is a Salvadoran former military officer. García Flamenco served as an artillery commander during the Salvadoran Civil War. In 1997, he was a United Nations Military Observer in Western Sahara, and in 2003, he was deployed with the Cuscatlán Battalion to Iraq. He served as chairman of the Joint Chiefs of Staff of the Armed Forces of El Salvador (FAES) in 2019 before being removed by President Nayib Bukele."
+   },
+   "related": [
+    "Iraq War",
+    "Western Sahara"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/General_Alirio_Garc%C3%ADa_Flamenco_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:General_Alirio_Garc%C3%ADa_Flamenco_in_2019.jpg",
+    "file": "File:General Alirio García Flamenco in 2019.jpg",
+    "artist": "Fotos Presidencia El Salvador",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 622,
+    "height": 830,
+    "ok": true
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Wendy Barnes had to fill 40 minutes of live radio airtime when her scheduled guest, Princess Margaret, was unwell and arrived late?",
+   "article": {
+    "title": "Wendy Barnes",
+    "url": "https://en.wikipedia.org/wiki/Wendy_Barnes",
+    "extract": "Wendy Dorothy Orchard, MBE (Chinese: 班絲; 10 April 1916 – 11 February 2006), better known by her maiden name Wendy Barnes, was a British overseas radio broadcaster. From 1968 to 1974, she produced and hosted the talk show Time to Remember for Radio Hong Kong (RHK).\nDuring her time at RHK, Barnes produced more than 200 episodes of Time to Remember. The programme featured interviews with personalities about their lives and their connections to the Far East, particularly Hong Kong."
+   },
+   "related": [
+    "Princess Margaret, Countess of Snowdon"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Wendy_Barnes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wendy_Barnes.jpg",
+    "file": "File:Wendy Barnes.jpg",
+    "artist": "Radio Hong Kong",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 324,
+    "height": 556,
+    "ok": true
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Seven Bridges Trail has ten bridges?",
+   "article": {
+    "title": "Grant Park (Milwaukee)",
+    "url": "https://en.wikipedia.org/wiki/Grant_Park_(Milwaukee)",
+    "extract": "Grant Park is a park in South Milwaukee, Wisconsin, United States, on the coast of Lake Michigan. It is the second-largest park in Milwaukee County. The park contains Seven Bridges Trail, a forested trail alongside a ravine with a stream. The trail contains ten wooden bridges, including a covered bridge at the trailhead, as well as stone walls and benches."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that when the residence of musician Charlie \"Bird\" Parker was nominated for New York City landmark designation, one person sent a bird feather to the city government in support?",
+   "article": {
+    "title": "Charlie Parker Residence",
+    "url": "https://en.wikipedia.org/wiki/Charlie_Parker_Residence",
+    "extract": "The Charlie Parker Residence is a Gothic Revival-style rowhouse at 151 Avenue B in the East Village of Manhattan in New York City, New York, US. The house is notable as the onetime residence of jazz musician Charlie Parker, who lived in the basement with his wife Chan Richardson from 1950 to 1954. Based on the house's association with Parker, the house is listed on the National Register of Historic Places and is a New York City designated landmark, and Avenue B between 9th and 10th Streets is co-named \"Charlie Parker Place\".\nThe building was built around 1849 as a single-family house before being split into two apartments in 1880. A third apartment and a penthouse level were added in the 1940s."
+   },
+   "related": [
+    "Charlie Parker"
+   ],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Charlie Parker Residence 151 Avenue B.jpg)"
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a 21-year-old Dutch nurse moved into the dementia ward of a nursing home to see what it was like to live there?",
+   "article": {
+    "title": "Teun Toebes",
+    "url": "https://en.wikipedia.org/wiki/Teun_Toebes",
+    "extract": "Teun Toebes (born 23 May 1999) is a Dutch nurse, author, and activist known for his work with people with dementia. He helped found the Article 25 Foundation, a non-profit organization advocating for quality-of-life improvements for dementia patients."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Teun Toebes at the European Commission - 2026 - 06 (Cropped).jpg)"
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Grady Prestage was the first African American elected to the Fort Bend County commissioners' court since Reconstruction?",
+   "article": {
+    "title": "Grady Prestage",
+    "url": "https://en.wikipedia.org/wiki/Grady_Prestage",
+    "extract": "James Grady Prestage (born July 30, 1958) is an American politician and civil engineer who has served on the Fort Bend County Commissioners Court as the commissioner for Precinct 2 since 1991. A Democrat, he is the longest serving member of the court.\nBorn in Iowa City and raised in Baton Rouge, Prestage is the son of Jewel Prestage, the first African American woman to earn a doctorate in political science in the United States. He studied civil engineering at Southern University and worked for oil and gas companies along with engineering consulting firms before moving to Fort Bend County around 1981."
+   },
+   "related": [
+    "Fort Bend County, Texas"
+   ],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Grady Prestage.jpg)"
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that \"the godfather of reptile smuggling\" called himself \"a man of mystery somewhat by design\"?",
+   "article": {
+    "title": "Hank Molt",
+    "url": "https://en.wikipedia.org/wiki/Hank_Molt",
+    "extract": "Henry A. Molt Jr. (born c. 1940) is an American former reptile dealer who was convicted in three cases in 1979 and 1980 of illegally smuggling reptiles into the United States. In 2026, he was featured in the HBO Max/A24 documentary series Monsters of God."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Hank_Molt_%281958%29_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hank_Molt_(1958)_(cropped).png",
+    "file": "File:Hank Molt (1958) (cropped).png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 396,
+    "height": 520,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the San Diego Zoo made a special bread for the panda Yun Zi, instead of kibble, to prepare him for his time in China?",
+   "article": {
+    "title": "Yun Zi",
+    "url": "https://en.wikipedia.org/wiki/Yun_Zi",
+    "extract": "Yun Zi (simplified Chinese: 云子; traditional Chinese: 雲子; pinyin: Yún zǐ; lit. 'Son of Cloud'; born August 5, 2009) is a male giant panda born at the San Diego Zoo. Despite being American-born, Yun Zi is considered Chinese property, and in January 2014, he was quarantined for a month at Dujiangyan City. He then lived in Shijiazhuang Zoo for three years before settling in the Chengdu Giant Panda Base, where he has resided since May 2019."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Yun Zi - Baby Giant Panda - IMG 1729 2 (4306258908).jpg)"
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Michel Soutter's first feature film was booed at Locarno, but he later served on the 1974 Cannes Film Festival jury?",
+   "article": {
+    "title": "Michel Soutter",
+    "url": "https://en.wikipedia.org/wiki/Michel_Soutter",
+    "extract": "Michel Soutter (2 June 1932 – 9 September 1991) was a Swiss film director and screenwriter associated with the New Swiss Cinema. After beginning his career in television, he founded Groupe 5 in 1968 to promote French-language filmmaking in Switzerland. He later served on the Feature Films jury at the 1974 Cannes Film Festival."
+   },
+   "related": [
+    "1974 Cannes Film Festival"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Michel_Soutter_%281990%29_by_Erling_Mandelmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Michel_Soutter_(1990)_by_Erling_Mandelmann.jpg",
+    "file": "File:Michel Soutter (1990) by Erling Mandelmann.jpg",
+    "artist": "Erling Mandelmann",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 200,
+    "height": 300,
+    "ok": true
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that 16-year-old 3x3 wheelchair basketball player Ebony Stevenson wore footwear decorated by an indigenous artist at the 2026 Commonwealth Games?",
+   "article": {
+    "title": "Ebony Stevenson",
+    "url": "https://en.wikipedia.org/wiki/Ebony_Stevenson",
+    "extract": "Ebony Stevenson (born 24 December 2009) is an Australian wheelchair basketball player. In 2026, she won a bronze medal in the 3x3 wheelchair basketball tournament at the 2026 Commonwealth Games and played for the national team (the Gliders) at the 2026 Wheelchair Basketball World Championships in Ottawa, Canada. In 2025, she was named the Western Australian Institute of Sport Young Athlete of the Year."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:2026 Wheelchair Basketball World Championships - Australia vs China 13.jpg)"
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Erin Scavino has said that she can get ambassadors fired through art?",
+   "article": {
+    "title": "Erin Scavino",
+    "url": "https://en.wikipedia.org/wiki/Erin_Scavino",
+    "extract": "Erin Maryn Scavino (née Elmore; born 1978 or 1979) is an American attorney, former model, reality show contestant and political activist. Since 2025, she has been the director of Art in Embassies at the United States Department of State.\nScavino earned degrees in political science, broadcasting and law. Her early career alternated between working as a lawyer, a model and appearing on television."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Erin_Elmore_State_Dept_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Erin_Elmore_State_Dept_photo.jpg",
+    "file": "File:Erin Elmore State Dept photo.jpg",
+    "artist": "Official U.S. Department of State Photo🇺🇸📸",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 989,
+    "height": 1087,
+    "ok": true
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Paramacrobiotus pius was described more than a decade after its type specimens were collected?",
+   "article": {
+    "title": "Paramacrobiotus pius",
+    "url": "https://en.wikipedia.org/wiki/Paramacrobiotus_pius",
+    "extract": "Paramacrobiotus pius is a species of tardigrade in the family Macrobiotidae. It was formally described in 2016, and is known only from Gangi, Sicily, Italy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the 2026 Leagues Cup final featured a yellow card just eight seconds into the match?",
+   "article": {
+    "title": "2026 Leagues Cup final",
+    "url": "https://en.wikipedia.org/wiki/2026_Leagues_Cup_final",
+    "extract": "The 2026 Leagues Cup final was the deciding match of the sixth edition of the Leagues Cup, a soccer tournament played between clubs from Major League Soccer (MLS), representing the United States and Canada, and Liga MX, representing Mexico. The match was played on September 6, 2026, at the Shell Energy Stadium in Houston, Texas, United States, between Toluca and Monterrey. Toluca won 2–0 to claim their first Leagues Cup title. The match began with an early goal from Toluca following a Monterrey defensive error, with Monterrey creating several opportunities throughout the first half but unable to convert them."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Toluca v Monterrey 2026 Leagues Cup Final (1).jpg)"
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that traditional dances from England were popularized across Continental Europe by the French?",
+   "article": {
+    "title": "Anglaise (dance)",
+    "url": "https://en.wikipedia.org/wiki/Anglaise_(dance)",
+    "extract": "Anglaise (French for English), also known as anglois and angloise, was a term used loosely in the late 17th and 18th centuries to refer to any of the English folk dance types. The term was predominantly used in Continental Europe and was most often applied to  the country dance. However, the word anglaise was also used to refer to other English dance forms like the jig, the hornpipe, and even the Scottish reel. European composers wrote music for the anglaise until the end of the 18th century."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a shrine's staircase is a popular destination for fans of the 2016 film Your Name?",
+   "article": {
+    "title": "Suga Shrine (Shinjuku)",
+    "url": "https://en.wikipedia.org/wiki/Suga_Shrine_(Shinjuku)",
+    "extract": "Suga Shrine (Japanese: 須賀神社, Hepburn: Suga jinja) is a Shinto shrine in the Shinjuku ward of Tokyo, Japan. It enshrines two kami – Inari Ōkami and Susanoo-no-Mikoto – and is the guardian shrine of 18 towns in Yotsuya. It was moved to its current location in the early 17th century and took on its current name in 1868. The shrine was severely damaged in the 1945 bombing of Tokyo and was not fully restored until 1989."
+   },
+   "related": [
+    "Your Name"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Suga_Jinjya_2012_Yotsuya_Tokyo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Suga_Jinjya_2012_Yotsuya_Tokyo.JPG",
+    "file": "File:Suga Jinjya 2012 Yotsuya Tokyo.JPG",
+    "artist": "Harani0403",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a 300-year-old bell formerly hung in the Old North Church in Boston now hangs in a one-room schoolhouse in Charlton, Massachusetts?",
+   "article": {
+    "title": "District No. 2 Schoolhouse (Charlton, Massachusetts)",
+    "url": "https://en.wikipedia.org/wiki/District_No._2_Schoolhouse_(Charlton,_Massachusetts)",
+    "extract": "The District No. 2 Schoolhouse, also known as the Northside School, is a historic one-room schoolhouse in the Northside Village Historic District in Charlton, Massachusetts, United States. It was built in 1848, and was in use as a school until 1949."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC0 (File:Charlton Number 2 Schoolhouse, October 2025.jpg)"
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Pete Pedro, known as the \"Flying Fragment\", led U.S. college football in touchdowns?",
+   "article": {
+    "title": "Pete Pedro",
+    "url": "https://en.wikipedia.org/wiki/Pete_Pedro",
+    "extract": "Pete Pedro (June 16, 1940 – April 22, 2018), sometimes also known as the \"Flying Fragment,\" \"Pistol Pete\", \"The Road Runner,\" \"Peep-Peep,\" and \"The Texas Jackrabbit,\" was an American football halfback and fullback. He played for West Texas State from 1961 to 1963. He ranked second in the country in rushing yardage (966 yards) and first in touchdowns (22) in the 1961 college football season. Among the first minorities to play football in the Texas state university system, Pedro was inducted into the West Texas A&M Athletic Hall of Champions in 1988."
+   },
+   "related": [
+    "Touchdown"
+   ],
+   "image": null,
+   "image_rejected": "Public domain (File:Pete Pedro 1963 (cropped).jpg)"
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Stephanie Williams wrote a fan comic about Monica Rambeau before writing for the character officially?",
+   "article": {
+    "title": "Stephanie Williams (comics)",
+    "url": "https://en.wikipedia.org/wiki/Stephanie_Williams_(comics)",
+    "extract": "Stephanie Williams is an American comic book writer, who has written for various properties, including Wonder Woman, Moon Girl and Devil Dinosaur, and Street Sharks, as well as original series Roots of Madness and Temporal. She was nominated for the Eisner Award for Best Writer in 2026."
+   },
+   "related": [
+    "Monica Rambeau"
+   ],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Stephanie Williams Dragon Con September 6 2026 0103.jpg)"
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Kelvin Kong, the first recognised Indigenous Australian surgeon, was made a member of the Order of Australia for his services to Indigenous health?",
+   "article": {
+    "title": "Kelvin Kong",
+    "url": "https://en.wikipedia.org/wiki/Kelvin_Kong",
+    "extract": "Kelvin Kong AM (born 1976) is an Australian doctor who is the first formally recognised Indigenous surgeon and a recipient of the Medal of the Order of Australia. He is an ear, nose and throat surgeon (ENT) and is known for his work in middle ear disease and First Nations healthcare in Australia."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c36",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+   "article": {
+    "title": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+    "url": "https://www.atlasobscura.com/places/abandoned-agricultural-mill-in-poland",
+    "extract": "Tucked away in the Polish countryside stands an impressive early 20th-century agricultural mill complex that looks more like a grand estate than a heavy industrial facility. Dominated by a striking multi-story central tower with a decorative roof, the building represents a era when industrial architecture was built with notable aesthetic ambition. Inside, the structure retains an eerie atmosphere "
+   },
+   "published": "Thu, 15 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c37",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Iron Fountain Gyumri in Gyumri, Armenia",
+   "article": {
+    "title": "Iron Fountain Gyumri in Gyumri, Armenia",
+    "url": "https://www.atlasobscura.com/places/iron-fountain-gyumri",
+    "extract": "If you go there in late February, the gray sky matches the mood perfectly. You walk down the cracked concrete of what used to be a grand Soviet boulevard, passing decaying apartment blocks. Just behind some overgrown bushes which look like a makeshift camp. The scale of it is incredibly imposing. Designed by architect Artur Tarkhanyan in 1982. In 1988, a devastating earthquake leveled most of Gyum"
+   },
+   "published": "Thu, 15 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c38",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Milton College in Milton, Wisconsin",
+   "article": {
+    "title": "Milton College in Milton, Wisconsin",
+    "url": "https://www.atlasobscura.com/places/milton-college",
+    "extract": "When Milton College finally closed its doors in 1982, it was the oldest institution of higher education in Wisconsin, beating the University of Wisconsin by four years. The college was originally called Du Lac Academy when it was founded in 1844. Main Hall and Goodrich Hall (the original dorm) – built in 1855 and 1857, respectively – are still standing. Milton College was ahead of its time in admi"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c39",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grave of John Gray in Hiramsburg, Ohio",
+   "article": {
+    "title": "Grave of John Gray in Hiramsburg, Ohio",
+    "url": "https://www.atlasobscura.com/places/grave-of-john-gray",
+    "extract": "John Gray was born the oldest of eight children on January 6, 1764 on property belonging to George Washington near his Mt. Vernon estate. Clearly a loyal follower of Washington, his father enlisted on the side of the Patriots but was killed at the Battle of White Plains, leaving young John in charge of the family. He was just 13 years old. When he was 17, he joined the army and participated in the"
+   },
+   "published": "Thu, 15 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c40",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Rhossili Down Radar Station in Hillend, Wales",
+   "article": {
+    "title": "Rhossili Down Radar Station in Hillend, Wales",
+    "url": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+    "extract": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim of detecting low flying aircraft at 500 feet (150 m), early warning could then be sent to Swansea upon discovering incoming German bombers. "
+   },
+   "published": "Wed, 14 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c41",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Cross-legged’ in Pristina, Kosovo",
+   "article": {
+    "title": "‘Cross-legged’ in Pristina, Kosovo",
+    "url": "https://www.atlasobscura.com/places/cross-legged",
+    "extract": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation and the publicity it might bring to the Albanian cause. When Serbian police moved in to disperse the crowd with batons, everyone fled except"
+   },
+   "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c42",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Ta Kon Citadel in Vinh Son, Vietnam",
+   "article": {
+    "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-kon-citadel",
+    "extract": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters along the mountainside and towering up to 40 meters high. Composed of rectangular, hexagonal, and polygonal stone columns packed so tightly "
+   },
+   "published": "Wed, 14 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c43",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+   "article": {
+    "title": "St. Michael’s Roman Catholic Church in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/st-michael-s-roman-catholic-church",
+    "extract": "Initially conceived by and built to serve the Irish community of Sunset Park, Brooklyn, this striking Catholic Church was completed in 1905. When completed, and for decades thereafter, it stood as the second-tallest structure in Brooklyn, behind the Williamsburg Savings Bank, located in Downtown Brooklyn. The building was designed by Raymond F. Almirall, a prominent architect who trained at the Éc"
+   },
+   "published": "Wed, 14 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c44",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Art of Play in Brooklyn, New York",
+   "article": {
+    "title": "Art of Play in Brooklyn, New York",
+    "url": "https://www.atlasobscura.com/places/art-of-play-brooklyn",
+    "extract": "A tiny mechanical bird named Molly has become an unlikely celebrity in Brooklyn. She sings, she dances, and she recently found herself at the center of a very public feud. Molly lives at Art of Play, a unique curiosity shop on Atlantic Avenue filled with puzzles, games, playing cards, mechanical toys, and objects designed to make grown-ups feel like curious children again. The shop also hosts a 26"
+   },
+   "published": "Tue, 13 Oct 2026 17:49:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c45",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thorla-McKee Well in Caldwell, Ohio",
+   "article": {
+    "title": "Thorla-McKee Well in Caldwell, Ohio",
+    "url": "https://www.atlasobscura.com/places/thorla-mckee-well",
+    "extract": "Find someone who loves you the way America loves petroleum. As of 2023, the United States is both the largest producer and consumer of oil, each day extracting some 23 million barrels and guzzling 20 million. It's become a meme at this point that if black gold is discovered in even the remotest location, American fighter jets aren't far behind to ensure whatever government there is friendly to US "
+   },
+   "published": "Tue, 13 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c46",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+   "article": {
+    "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+    "url": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
+    "extract": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Peruvian artist Luis Arias Vera, fills Plaza de la Hispanidad with an exuberant celebration of flight and the natural world. Arias Vera saw bir"
+   },
+   "published": "Tue, 13 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Steaming Tender Restaurant in Palmer, Massachusetts",
+   "article": {
+    "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
+    "url": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
+    "extract": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Seven Railroads\", and one location in Palmer helps explain why. When the Industrial Revolution and rail travel began in Massachusetts, Palmer "
+   },
+   "published": "Tue, 13 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Strange Afterlife of Oscar Wilde's Library Card",
+   "article": {
+    "title": "The Strange Afterlife of Oscar Wilde's Library Card",
+    "url": "https://www.mentalfloss.com/literature/authors/strange-afterlife-oscar-wilde-library-card?utm_source=RSS",
+    "extract": "130 years after having his library card revoked, Oscar Wilde was able to posthumously receive a new one."
+   },
+   "published": "Thu, 15 Oct 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1960s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1960s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1960s-use-today?utm_source=RSS",
+    "extract": "More than six decades later, these 1960s slang terms remain part of our vocabulary and carry nearly the same meaning they did back then."
+   },
+   "published": "Thu, 15 Oct 2026 19:22:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+   "article": {
+    "title": "What Tenzing Norgay and Edmund Hillary Did When They Reached the Top of Mount Everest",
+    "url": "https://www.mentalfloss.com/history/tenzing-norgay-edmund-hillary-everest-summit?utm_source=RSS",
+    "extract": "Sir Edmund Hillary and Tenzing Norgay spent just 15 minutes at the summit of Mount Everest after becoming the first to survive the journey in 1953."
+   },
+   "published": "Thu, 15 Oct 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "25 Songs You Didn’t Know Were Written for Movies",
+   "article": {
+    "title": "25 Songs You Didn’t Know Were Written for Movies",
+    "url": "https://www.mentalfloss.com/entertainment/music/songs-didn-t-know-written-movies?utm_source=RSS",
+    "extract": "These iconic songs were written specifically for the silver screen!"
+   },
+   "published": "Thu, 15 Oct 2026 16:00:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+   "article": {
+    "title": "Every Friday the 13th Movie, Ranked By Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/friday-13th-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "Jason Voorhees has survived 12 movies, but he has never survived the critics. Here are all the 'Friday the 13th' films so far, ranked by their success on Rotten Tomatoes' Tomatometer."
+   },
+   "published": "Thu, 15 Oct 2026 14:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "How Likely Is Your State to Have a White Christmas in 2026?",
+   "article": {
+    "title": "How Likely Is Your State to Have a White Christmas in 2026?",
+    "url": "https://www.mentalfloss.com/geography/states/how-likely-your-state-have-white-christmas-2026?utm_source=RSS",
+    "extract": "And which major city in each state has the best chance of seeing snow on Christmas Day."
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Famous Celebrities You Didn't Know Had a Twin",
+   "article": {
+    "title": "20 Famous Celebrities You Didn't Know Had a Twin",
+    "url": "https://www.mentalfloss.com/entertainment/famous-celebrities-didn-t-know-had-a-twin?utm_source=RSS",
+    "extract": "Some of your favorite celebrities have a twin sibling you probably never knew about."
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Scariest Movie the Year You Were Born",
+   "article": {
+    "title": "The Scariest Movie the Year You Were Born",
+    "url": "https://www.mentalfloss.com/entertainment/movies/scariest-movie-year-born?utm_source=RSS",
+    "extract": "Discover the scariest movie released the year you were born, from 1950s creature features to iconic 2000s slashers. Find your birth-year horror hit!"
+   },
+   "published": "Thu, 15 Oct 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Spiritual Meaning of Angel Number 838",
+   "article": {
+    "title": "The Spiritual Meaning of Angel Number 838",
+    "url": "https://www.mentalfloss.com/random-facts/angel-number-838-meaning?utm_source=RSS",
+    "extract": "This number is said to be a great sign, especially if you're an artist or creative. Learn more about the meaning of angel number 838."
+   },
+   "published": "Wed, 14 Oct 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Snowiest Month in Every State for 2026, Mapped",
+   "article": {
+    "title": "The Snowiest Month in Every State for 2026, Mapped",
+    "url": "https://www.mentalfloss.com/science/weather/snowiest-month-by-state-2026-map?utm_source=RSS",
+    "extract": "Discover the snowiest month in every state, from New Mexico’s December peak to March storms in the West."
+   },
+   "published": "Wed, 14 Oct 2026 20:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Best Cities in the World for 2026, Ranked",
+   "article": {
+    "title": "The 10 Best Cities in the World for 2026, Ranked",
+    "url": "https://www.mentalfloss.com/geography/cities/10-best-cities-in-world-2026-ranked?utm_source=RSS",
+    "extract": "Tell us: which of these cities would you most like to call home?"
+   },
+   "published": "Wed, 14 Oct 2026 18:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
+   "article": {
+    "title": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
+    "url": "https://www.mentalfloss.com/literature/books/real-christopher-robin-complicated-relationship-winnie-pooh?utm_source=RSS",
+    "extract": "Christopher Robin was based on A.A. Milne’s real son—and growing up as the face of Winnie-the-Pooh wasn't always a Hundred Acre fairy tale."
+   },
+   "published": "Wed, 14 Oct 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+   "article": {
+    "title": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+    "url": "https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/",
+    "extract": "Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix"
+   },
+   "published": "Thu, 15 Oct 2026 20:43:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+   "article": {
+    "title": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+    "url": "https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/",
+    "extract": "The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. \"The project called for a great deal of perseverance,\" one official says"
+   },
+   "published": "Thu, 15 Oct 2026 20:19:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+   "article": {
+    "title": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+    "url": "https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/",
+    "extract": "Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book"
+   },
+   "published": "Thu, 15 Oct 2026 19:41:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+   "article": {
+    "title": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+    "url": "https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/",
+    "extract": "The 18th-century painter was a key practitioner of \"capriccio\" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000"
+   },
+   "published": "Thu, 15 Oct 2026 18:03:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+   "article": {
+    "title": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
+    "url": "https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/",
+    "extract": "These crags don't match the rest of the mountain, and scientists don't know how they formed"
+   },
+   "published": "Thu, 15 Oct 2026 16:50:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+   "article": {
+    "title": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+    "url": "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/",
+    "extract": "Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine"
+   },
+   "published": "Thu, 15 Oct 2026 16:24:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+   "article": {
+    "title": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
+    "url": "https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/",
+    "extract": "If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits"
+   },
+   "published": "Thu, 15 Oct 2026 15:21:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+   "article": {
+    "title": "Birds in Their Pants: Two Men Accused of Smuggling 21 Avians After Miami Airport Bust",
+    "url": "https://www.smithsonianmag.com/smart-news/birds-in-their-pants-two-men-accused-of-smuggling-21-avians-after-miami-airport-bust-180989670/",
+    "extract": "Customs officers say they found the creatures hidden in the men's clothes after they touched down on separate flights from Cuba, and it's unclear whether the two incidents are related. Wildlife trafficking is the world's fourth-largest form of organized crime"
+   },
+   "published": "Thu, 15 Oct 2026 14:52:27 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+   "article": {
+    "title": "Construction Work on the North Dakota Governor's Residence Accidentally Unearthed Seven Coffins Dating Back to the State's Early Settlement",
+    "url": "https://www.smithsonianmag.com/smart-news/construction-work-on-the-north-dakota-governors-residence-accidentally-unearthed-seven-coffins-dating-back-to-the-states-early-settlement-180989686/",
+    "extract": "The cemetery site was established in 1872, when the state capital Bismarck was a small frontier community called Edwinton. Most, but not all, of its gravesites were exhumed five years later to make way for a railroad"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+   "article": {
+    "title": "See the Stunning Winners of the Wildlife Photographer of the Year Contest, Capturing the Splendor and Drama of Nature",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-stunning-winners-of-the-wildlife-photographer-of-the-year-contest-capturing-the-splendor-and-drama-of-nature-180989681/",
+    "extract": "These 19 recognized images highlight the diversity across our planet and the value in appreciating and protecting the natural world"
+   },
+   "published": "Wed, 14 Oct 2026 20:50:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+   "article": {
+    "title": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/",
+    "extract": "The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist \"could not believe how much\" residue remained inside"
+   },
+   "published": "Wed, 14 Oct 2026 19:20:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+   "article": {
+    "title": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
+    "url": "https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/",
+    "extract": "The Dutch Post-Impressionist painted \"Chestnut Trees in Blossom\" during the highly productive yet tragic final months of his life. It is heading to auction as part of a \"legendary\" private collection which also includes works from Cézanne and Renoir"
+   },
+   "published": "Wed, 14 Oct 2026 17:28:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+   "article": {
+    "title": "Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Nadzieja 1806” w Sierakowie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/15/odkryj-tajemnice-epoki-napoleonskiej-bezplatna-gra-terenowa-kryptonim-nadzieja-1806-w-sierakowie/",
+    "extract": "Muzeum Zamek Opalińskich w Sierakowie zaprasza mieszkańców regionu – całe rodziny, młodzież, harcerzy oraz seniorów – do udziału w niezwykłej grze terenowej pt. „Kryptonim: Nadzieja 1806”. Wydarzenie odbędzie się w sobotę, 24 października, a udział w nim jest całkowicie bezpłatny. Zapisy trwają do 22 października! The post Odkryj tajemnice epoki napoleońskiej! Bezpłatna gra terenowa „Kryptonim: Na"
+   },
+   "published": "Thu, 15 Oct 2026 15:49:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+   "article": {
+    "title": "Rzymianie naprawdę walczyli z Amazonkami? Niezwykłe odkrycie żołnierzy Pompejusza",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/13/rzymianie-naprawde-walczyli-z-amazonkami-niezwykle-odkrycie-zolnierzy-pompejusza/",
+    "extract": "Gdy legiony Pompejusza walczyły z plemionami Kaukazu, rzymscy żołnierze dokonali zaskakującego odkrycia. Wśród pokonanych przeciwników znajdowały się kobiety, które walczyły równie zaciekle jak mężczyźni. Rzymianie uznali je za legendarne Amazonki. Niektóre wojowniczki miały następnie trafić do Rzymu jako jeńcy prezentowani podczas triumfalnego pochodu zwycięskiego wodza. The post Rzymianie napraw"
+   },
+   "published": "Tue, 13 Oct 2026 20:29:19 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+   "article": {
+    "title": "Wrocław w 1945 roku. Miasto, którego Churchill nie chciał oddać Polsce",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/12/wroclaw-w-1945-roku-miasto-ktorego-churchill-nie-chcial-oddac-polsce/",
+    "extract": "Winston Churchill nie chciał, aby Wrocław znalazł się w granicach Polski. Jak pisał Norman Davies, brytyjski premier miał nawet deklarować, że Niemcy stracą miasto tylko „po jego trupie”. Ostatecznie jednak o losach Breslau zdecydowały wielkie mocarstwa. W 1945 roku miasto przeżyło prawdziwy dramat – przymusową ewakuację mieszkańców, wielotygodniowe oblężenie i chaos, który towarzyszył jego przemi"
+   },
+   "published": "Mon, 12 Oct 2026 18:06:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+   "article": {
+    "title": "Wywlókł biskupa z łóżka. Tak polski książę uderzył w Kościół",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/wywlokl-biskupa-z-lozka-tak-polski-ksiaze-uderzyl-w-kosciol/",
+    "extract": "Wtargnęli nocą do sypialni biskupa, wywlekli na wpół przytomnego hierarchę na zewnątrz i półnagiego wsadzili na konia. Tak Bolesław Rogatka rozpoczął jedną z najgłośniejszych awantur z Kościołem w dziejach średniowiecznej Polski. Porwał biskupa wrocławskiego, ściągnął na siebie klątwę i omal nie doczekał się prawdziwej krucjaty wymierzonej w jego osobę. The post Wywlókł biskupa z łóżka. Tak polski"
+   },
+   "published": "Sun, 11 Oct 2026 16:41:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+   "article": {
+    "title": "Czyngis-chan i świat Mongołów. Nowa wystawa w Berlinie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/11/czyngis-chan-i-swiat-mongolow-nowa-wystawa-w-berlinie/",
+    "extract": "W związku z przypadającą w 2027 roku 800. rocznicą śmierci Czyngis-chana, Muzeum Prehistorii i Wczesnej Historii Państwowych Muzeów w Berlinie prezentuje dużą wystawę poświęconą historii i dziedzictwu imperium mongolskiego. Ekspozycja przybliży europejskiej publiczności świat Mongołów z perspektywy archeologicznej, opierając się na najnowszych wynikach badań prowadzonych wspólnie przez naukowców z"
+   },
+   "published": "Sun, 11 Oct 2026 15:52:30 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+   "article": {
+    "title": "Zamordowali ministra w biały dzień. Jak ukraińscy nacjonaliści przeprowadzili zamach w Warszawie?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/08/zamordowali-ministra-w-bialy-dzien-jak-ukrainscy-nacjonalisci-przeprowadzili-zamach-w-warszawie/",
+    "extract": "15 czerwca 1934 roku Bronisław Pieracki, jeden z najważniejszych ministrów II Rzeczypospolitej, został zastrzelony na warszawskiej ulicy. Zamachowiec uciekł mimo pościgu, a polskie służby rozpoczęły gorączkowe śledztwo. Szybko wyszło na jaw, że za zabójstwem stała Organizacja Ukraińskich Nacjonalistów. Okoliczności zbrodni ujawniły jednak coś jeszcze – zaskakującą skalę zaniedbań polskich władz. T"
+   },
+   "published": "Thu, 08 Oct 2026 13:51:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Historiomachia. Bitwy o historię",
+   "article": {
+    "title": "Historiomachia. Bitwy o historię",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/07/historiomachia-bitwy-o-historie/",
+    "extract": "Zadaniem historyka jest opowiadać o przeszłości, by powtarzano dobro, a zła unikano. The post Historiomachia. Bitwy o historię first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 07 Oct 2026 16:33:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+   "article": {
+    "title": "Odcięto mu głowę. Tak zginął syn Konrada Mazowieckiego",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/odcieto-mu-glowe-tak-zginal-syn-konrada-mazowieckiego/",
+    "extract": "Bronił grodu na wysokiej skarpie i niemal odparł najeźdźców, gdy zdradził go własny człowiek. Pogańscy Litwini wdarli się do Jazdowa, pojmali księcia Siemowita I i ścięli mu głowę, a jego ciało spalili. Dwunastoletniego syna władcy uprowadzili na Litwę. Tak zginął protoplasta mazowieckiej linii Piastów, a okoliczności jego śmierci do dziś budzą spory historyków. The post Odcięto mu głowę. Tak zgin"
+   },
+   "published": "Tue, 06 Oct 2026 18:05:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+   "article": {
+    "title": "Obrona Poczty Polskiej i losy jej Obrońców. Nowe Muzeum Poczty Polskiej już otwarte",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/06/obrona-poczty-polskiej-i-losy-jej-obroncow-nowe-muzeum-poczty-polskiej-juz-otwarte/",
+    "extract": "1 września 1939 roku pracownicy Poczty Polskiej w Gdańsku stanęli do obrony polskiej placówki przed niemieckim atakiem. W poniedziałek, 5 października, w 87. rocznicę rozstrzelania Obrońców, Muzeum Poczty Polskiej w Gdańsku otworzyło nową wystawę stałą poświęconą ich walce, dalszym losom oraz pamięci o wydarzeniach, które stały się jednym z symboli początku II wojny światowej. The post Obrona Pocz"
+   },
+   "published": "Tue, 06 Oct 2026 15:23:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+   "article": {
+    "title": "Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/04/czy-amazonki-naprawde-obcinaly-sobie-jedna-piers-tak-narodzil-sie-jeden-z-najslynniejszych-mitow-starozytnosci/",
+    "extract": "Miały usuwać prawą pierś, żeby sprawniej posługiwać się łukiem i włócznią. Historia jest makabryczna, sugestywna i powtarzana od ponad dwóch tysięcy lat. Problem w tym, że nie ma na nią przekonujących dowodów. The post Czy Amazonki naprawdę obcinały sobie jedną pierś? Tak narodził się jeden z najsłynniejszych mitów starożytności first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 04 Oct 2026 20:53:17 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+   "article": {
+    "title": "Zakuci w stal uważali się za niezwyciężonych. Jak naprawdę walczyli średniowieczni rycerze?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/01/zakuci-w-stal-uwazali-sie-za-niezwyciezonych-jak-naprawde-walczyli-sredniowieczni-rycerze/",
+    "extract": "Ciężka zbroja, kopia, miecze, sztylet, topór i maczuga czyniły średniowiecznego rycerza niezwykle groźnym przeciwnikiem. Jednak to, co dawało mu przewagę, mogło również stać się jego słabością. Wystarczyło, że padł koń, a obciążony żelastwem wojownik miał poważny problem. Tymczasem coraz większym zagrożeniem dla rycerskiej jazdy stawali się pogardzani przez nią łucznicy i piechurzy. The post Zakuc"
+   },
+   "published": "Thu, 01 Oct 2026 14:44:12 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+   "article": {
+    "title": "Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/09/30/polscy-terrorysci-i-zamachowcy-od-powstania-styczniowego-do-trzeciej-rzeczypospolitej/",
+    "extract": "Mimo opinii, że zawsze walczyliśmy z otwartą przyłbicą, także wśród Polaków nie brakowało skrytobójców i terrorystów, którzy działali zarówno w imię wielkich idei, jak i z najniższych pobudek. The post Polscy terroryści i zamachowcy. Od powstania styczniowego do Trzeciej Rzeczypospolitej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Wed, 30 Sep 2026 21:44:22 +0000",
+   "image": null
+  }
+ ]
+}
