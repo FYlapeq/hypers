@@ -30,6 +30,15 @@ news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category,
 
 ## Zasady redakcyjne
 - Profil: rzetelne newsy i analizy w duchu kanałów komentatorskich, nie plotkarski portal. Bez shitpostów poza Z czapy.
+
+### Profil tematyczny (od 16.10.2026, decyzja Filipa)
+Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybierając tematy z digestu, kieruj się tym, co obchodzi dorosłego widza, a nie samą liczbą wyświetleń.
+- **Priorytet: życiowy content twórców.** Zaręczyny, śluby, przeprowadzki, nowe etapy w życiu, własne biznesy i marki, książki, podcasty, trasy, programy TV, akcje charytatywne, duże podróże, osiągnięcia, zmiany w karierze, oświadczenia twórców we własnej sprawie (np. odpowiedź twórcy na to, co o nim mówiono). Przykłady w duchu Hypers: zaręczyny Gimpera, odpowiedź Fagaty.
+- **Prywatne wydarzenia tylko z ogłoszenia samego twórcy** (`origin: true`): nie ogłaszamy niczego za twórcę (ciąża, rozstanie, zdrowie) na podstawie plotek.
+- **Bez wojenek.** Konflikty i beefy między twórcami, diss tracki, trash talk przed galami, wzajemne docinki, „X odpowiada Y”, gdy chodzi o kłótnię, nie trafiają do Na luzie ani Z czapy. Duży, ważny konflikt może być co najwyżej propozycją Grubej ryby w podsumowaniu (decyduje Filip).
+- **Mniej gamingu.** Sam nowy odcinek gry, aktualizacja, stream czy wynik w grze to nie news. Gaming tylko gdy wychodzi poza grę (rekord, duży turniej, nowy projekt, zmiana w karierze). Maks. 2 takie newsy dziennie.
+- **Bez treści dla najmłodszych.** Challenge'e, pranki, unboxingi zabawek i formaty pod dzieci pomijamy, nawet gdy są popularne.
+- Gdy po tych zasadach zostaje mniej tematów, publikuj mniej newsów: lepsze 4 dobre niż 7 na siłę.
 - Obserwowani twórcy: `sources/creators.yml` w prywatnym repo FYlapeq/hypers-data (grupy lista, top100, streamer, zagranica). Tematy spoza listy tylko wyjątkowo.
 - Dane: zbieracz (GitHub Actions w prywatnym hypers-data) zapisuje `runs/RRRR-MM-DD-<rano|popoludnie>.json` i kopiuje cały katalog `runs/` na gałąź `zbieracz` tego repo. Sesja bez dostępu do hypers-data czyta stamtąd: `git fetch --depth 1 origin +zbieracz:refs/remotes/origin/zbieracz` (sam `git fetch origin zbieracz` w płytkim klonie nie tworzy origin/zbieracz) i `git show origin/zbieracz:runs/<plik>`. Nie commituj nic na gałąź `zbieracz`. Harmonogram GitHuba (5:45 i 13:45) bywa spóźniony o godziny, więc gdy pliku na dziś nie ma, uruchom zbieracza sam: `gh api -X POST repos/FYlapeq/hypers/actions/workflows/uruchom-zbieracza.yml/dispatches -f ref=main -f 'inputs[slot]=<rano|popoludnie>'` i sprawdzaj gałąź co 2 minuty do 12 minut. Używaj tylko pliku z dzisiejszą datą i własnym slotem (rano dla 7:00, popoludnie dla 15:00). Plik z innego slotu albo dnia nie zastępuje uruchomienia zbieracza. `status` mówi, czy brak danych to awaria. Brak pliku lub pusty YouTube: wydanie z researchu w sieci i 3 źródła dla wszystkiego.
 - Cel ok. 15 newsów dziennie: ok. 7 rano (7:00), ok. 8 po południu (15:00). To cel, nie przymus: lepiej krótsze wydanie niż słabe tematy. Zagranica (`world`) maks. 3 dziennie.
