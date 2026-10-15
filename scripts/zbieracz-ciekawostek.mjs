@@ -62,7 +62,25 @@ function key(u) {
 
 // ---------- Wikipedia: „Czy wiesz” / „Did you know” ----------
 const SKIP_NS = /^(Plik|File|Image|Grafika|Wikipedia|Wikiprojekt|Szablon|Template|Specjalna|Special|Pomoc|Help|Kategoria|Category|Portal|Dyskusja|Talk|Wikipedysta|User)[: ]/i;
+// polska „Czy wiesz” nie trzyma haczyków w <li>: tniemy HTML po wielokropku do znaku zapytania
+function hooksPl(html) {
+  const out = [];
+  for (const part of html.split(/…|&#8230;|&hellip;/).slice(1)) {
+    const end = part.search(/\?(?=\s*(<|$))/);
+    if (end < 0) continue;
+    const seg = part.slice(0, end + 1);
+    const text = '…' + strip(seg);
+    if (text.length < 30 || text.length > 400 || !/^…\s*(że|czy|jak|kto|co|gdzie|dlaczego|ile|który|która|które|kiedy)\b/i.test(text)) continue;
+    const bold = seg.match(/<b>\s*(?:<i>)?\s*<a [^>]*href="\/wiki\/([^"#?]+)"/);
+    const links = [...seg.matchAll(/<a [^>]*href="\/wiki\/([^"#?]+)"/g)].map(x => decodeURIComponent(x[1]).replace(/_/g, ' ')).filter(t => !SKIP_NS.test(t));
+    const title = bold ? decodeURIComponent(bold[1]).replace(/_/g, ' ') : links[0];
+    if (!title || SKIP_NS.test(title)) continue;
+    out.push({ lang: 'pl', hook: text.replace(/\s*\((na zdjęciu|na ilustracji)\)/gi, ''), title, links: [...new Set(links)].slice(0, 6) });
+  }
+  return out;
+}
 function hooksFromHtml(html, lang) {
+  if (lang === 'pl') return hooksPl(html);
   const out = [];
   for (const m of html.matchAll(/<li[^>]*>([\s\S]*?)<\/li>/g)) {
     const inner = m[1];
