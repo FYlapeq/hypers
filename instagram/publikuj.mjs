@@ -159,7 +159,11 @@ async function main() {
     return;
   }
 
-  const nowe = wszystkie.filter((x) => !stan.opublikowane[x.sciezka]).slice(0, MAKS);
+  // IG_TYLKO=<ścieżka artykułu>: publikacja jednego wskazanego newsa, także już oznaczonego w stanie.
+  const nowe = env.IG_TYLKO
+    ? wszystkie.filter((x) => x.sciezka === env.IG_TYLKO.trim())
+    : wszystkie.filter((x) => !stan.opublikowane[x.sciezka]).slice(0, MAKS);
+  if (env.IG_TYLKO && !nowe.length) throw new Error(`Nie ma newsa ${env.IG_TYLKO} w data/urls.js`);
   if (!nowe.length) { log('Brak nowych newsów do publikacji.'); return; }
   log(`Nowe newsy: ${nowe.length}`);
 

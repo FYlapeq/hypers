@@ -12,6 +12,10 @@ on:
         type: choice
         options: ["proba", "sprawdz", "publikuj"]
         default: "proba"
+      tylko:
+        description: "Opcjonalnie: ścieżka jednego artykułu do opublikowania (np. artykuly/2026-10-15/slug.html), także już pominiętego"
+        type: string
+        required: false
       dzien:
         description: "Dla trybu proba: dzień do podglądu (RRRR-MM-DD), puste = najnowsze wydanie"
         type: string
@@ -116,6 +120,8 @@ jobs:
           retention-days: 7
       - name: Publikacja
         if: env.DRY_RUN != '1' && env.IG_WLACZONY == '1'
+        env:
+          IG_TYLKO: ${{ inputs.tylko }}
         run: node instagram/publikuj.mjs
 
   token:
