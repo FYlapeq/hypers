@@ -80,9 +80,9 @@ export function opisKaruzeli(lista) {
   const tagi = [...new Set(lista.flatMap((x) => hashtagi(x.news, x.sekcja).split(' ')))];
   const glowa = lista.some((x) => x.sekcja === 'ciekawostki')
     ? `${lista.length} newsów i ciekawostek, przesuń w bok ➡️`
-    : `${lista.length} newsów o twórcach, przesuń w bok ➡️`;
+    : `${lista.length} newsów, przesuń w bok ➡️`;
   const stopka = [
-    'Zostaw follow, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
+    'Zostaw follow @hypers.tech, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
     '',
     zrodla && `Źródła: ${zrodla}`,
     kadry && `Kadry i zdjęcia: ${kadry}`,

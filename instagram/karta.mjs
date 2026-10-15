@@ -279,7 +279,9 @@ export function htmlFollow({ godziny = [] } = {}) {
 .title span{color:#ffc9b0}
 .tekst{margin-top:40px;font:500 36px/1.4 "Work Sans";color:#d5e1e9;max-width:880px}
 .tekst b{color:#fff;font-weight:700}
-.przycisk{margin-top:56px;display:inline-flex;align-items:center;gap:18px;align-self:flex-start;background:#4f8fd9;color:#fff;
+.konto{margin-top:56px;display:flex;align-items:center;gap:32px}
+.konto span{font:700 40px/1 "Work Sans";color:#fff}
+.przycisk{display:inline-flex;align-items:center;gap:18px;background:#4f8fd9;color:#fff;
   font:700 40px/1 "Work Sans";padding:26px 46px;border-radius:18px;box-shadow:0 0 0 10px rgba(79,143,217,.18)}
 .przycisk i{display:block;width:16px;height:16px;border-radius:50%;background:#ffc9b0}
 .foot{display:flex;justify-content:space-between;align-items:center;padding-top:30px;border-top:2px solid rgba(255,255,255,.12);
@@ -291,8 +293,8 @@ export function htmlFollow({ godziny = [] } = {}) {
   <div class="body">
     <div class="kat">Zanim przewiniesz dalej</div>
     <h1 class="title">ZOSTAW<br><span>FOLLOW</span></h1>
-    <p class="tekst">Instagram może Ci nas <b>już więcej nie pokazać</b>. Obserwuj Hypers, żeby kolejne newsy o twórcach same do Ciebie trafiały.</p>
-    <div class="przycisk"><i></i>Obserwuj</div>
+    <p class="tekst">Instagram może Ci nas <b>już więcej nie pokazać</b>. Obserwuj <b>@hypers.tech</b>, żeby kolejne newsy same do Ciebie trafiały.</p>
+    <div class="konto"><div class="przycisk"><i></i>Obserwuj</div><span>@hypers.tech</span></div>
   </div>
   <div class="foot"><span>${esc(kiedy)}</span><span>Całe artykuły: <b>hypers.tech</b></span></div>
 </div><script>document.fonts.ready.then(() => { document.body.dataset.gotowe = 1; });</script></body></html>`;
