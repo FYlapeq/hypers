@@ -30,9 +30,34 @@ export function biezacySlot(stan, teraz = new Date(), h = harmonogram()) {
   return { klucz, data, godzina };
 }
 
+// Najbliższy niezrobiony slot dzisiaj: już przypadający (w oknie maks_opoznienie_min) albo przyszły.
+// Zwraca { klucz, sekundy } (sekundy do godziny slotu, 0 = już można) albo null, gdy na dziś nic nie zostało.
+export function nastepnySlot(stan, teraz = new Date(), h = harmonogram()) {
+  const { data } = warszawa(teraz);
+  const godziny = [...(h.wyjatki?.[data] ?? h.godziny)].sort();
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Warsaw', hour: '2-digit', minute: '2-digit', second: '2-digit', hourCycle: 'h23',
+  }).formatToParts(teraz).map((x) => [x.type, x.value]));
+  const sekundyTeraz = Number(p.hour) * 3600 + Number(p.minute) * 60 + Number(p.second);
+  for (const g of godziny) {
+    const klucz = `${data} ${g}`;
+    if (stan?.sloty?.[klucz]) continue;
+    const roznica = naMinuty(g) * 60 - sekundyTeraz;
+    if (roznica < -h.maks_opoznienie_min * 60) continue;
+    return { klucz, sekundy: Math.max(0, roznica) };
+  }
+  return null;
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  const plik = process.argv[2];
+  const nastepny = process.argv[2] === 'nastepny';
+  const plik = process.argv[nastepny ? 3 : 2];
   const stan = plik && existsSync(plik) ? JSON.parse(readFileSync(plik, 'utf8')) : null;
-  const s = biezacySlot(stan);
-  if (s) console.log(s.klucz);
+  if (nastepny) {
+    const s = nastepnySlot(stan);
+    if (s) console.log(`${s.klucz.replace(' ', 'T')} ${s.sekundy}`);
+  } else {
+    const s = biezacySlot(stan);
+    if (s) console.log(s.klucz);
+  }
 }
