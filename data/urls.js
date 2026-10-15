@@ -1,5 +1,18 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-10-15": {
+  "luz": [
+   "artykuly/2026-10-15/ksiazulo-wraca-do-kuli-kebabuli-nowy-odcinek-z-pepsi-ma-ponad-pol.html",
+   "artykuly/2026-10-15/graf-gra-w-krillion-im-rzadsza-odpowiedz-tym-wiecej-punktow.html",
+   "artykuly/2026-10-15/dizowskyy-wraca-do-babci-w-granny-3-jest-nowe-zakonczenie-i-lodz.html",
+   "artykuly/2026-10-15/young-multi-wydaje-pierwszy-utwor-na-nopixel-i-podpisuje-kontrakt.html"
+  ],
+  "czapy": [
+   "artykuly/2026-10-15/jynxzi-zebral-40-streamerow-na-turniej-w-league-of-legends-ludwig.html",
+   "artykuly/2026-10-15/gameranx-zbiera-nowe-informacje-o-gta-6-po-pokazie-rockstara-dla-prasy.html",
+   "artykuly/2026-10-15/strojny-streszcza-dwa-tygodnie-w-tibii-w-20-minut.html"
+  ]
+ },
  "2026-10-14": {
   "luz": [
    "artykuly/2026-10-14/valor-mortis-od-tworcow-ghostrunnera-juz-w-sprzedazy-tivolt-i-tamae.html",

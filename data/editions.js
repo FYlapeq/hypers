@@ -1,5 +1,286 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-15": {
+    "date": "2026-10-15",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Kolaboracja",
+        "hype": 4,
+        "title": "Książulo wraca do kuli kebabuli. Nowy odcinek z Pepsi ma ponad pół miliona wyświetleń",
+        "summary": "Na kanale Książula wyszedł odcinek „Mega kebab kulisty bydlaczek dla całej rodziny”, nagrany razem z Pepsi i Kebabingo. W nieco ponad pół doby film przekroczył 560 tys. wyświetleń.",
+        "body": [
+          "W środę o 18:13 na kanale Książula pojawił się 40-minutowy odcinek „Mega kebab kulisty bydlaczek dla całej rodziny”. Według opisu to kolejna wyprawa z udziałem marki Pepsi i Kebabingo oraz „wielki powrót kuli kebabuli”.",
+          "Film wyszedł dzień po tym, jak kanał po premierze mrożonej pizzy „Muala” tracił subskrybentów, a Książulo odpowiadał na krytykę. Przy odczycie w czwartek o 6:16 odcinek miał ok. 566 tys. wyświetleń, 16,8 tys. polubień i ponad 1,8 tys. komentarzy.",
+          "W najwyżej ocenianych komentarzach widzowie wracają do sprawy pizzy: część pisze, że zamieszanie nic dla nich nie zmieniło i dalej dobrze im się to ogląda. Kilka osób zgaduje, że materiał nagrano jeszcze przed aferą. Kanał tego nie potwierdził."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=Vjy-X6yAqlA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Vjy-X6yAqlA",
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura nowego odcinka, w którym wraca kebab w kształcie kuli. To pierwszy duży film kanału po zamieszaniu wokół mrożonej pizzy i widać po komentarzach, że widzowie od razu to połączyli."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Vjy-X6yAqlA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Vjy-X6yAqlA/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=Vjy-X6yAqlA",
+          "alt": "Miniatura filmu Książula o kulistym kebabie",
+          "caption": "Kadr z miniatury filmu „Mega kebab kulisty bydlaczek dla całej rodziny”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Graf",
+        "initials": "GR",
+        "category": "Gry",
+        "hype": 2,
+        "title": "Graf gra w Krillion: im rzadsza odpowiedź, tym więcej punktów",
+        "summary": "Graf wziął na warsztat Krillion, codzienną grę przeglądarkową, w której punktuje się za odpowiedzi, na które wpada niewielu graczy. Film ma 67 tys. wyświetleń.",
+        "body": [
+          "W środę o 18:00 na kanale Grafa pojawił się 20-minutowy film „Im rzadsza odpowiedź, tym więcej punktów – Krillion”. Jak pisze sam twórca, Krillion to codzienna gierka, w której najwyżej punktowana jest wiedza mało oczywista, a on sprawdził się w kilku rundach.",
+          "Graf odsyła też do drugiego kanału, GrafDwa, gdzie publikuje więcej takich codziennych gier. Film zawiera oznaczoną reklamę marki Holy.",
+          "Przy odczycie w czwartek o 6:16 film miał ok. 67,5 tys. wyświetleń i 1,5 tys. polubień. Najwięcej polubień ma komentarz samego Grafa, w którym pyta widzów, czy pasuje im nowa muzyka w tle. Widzowie dzielą się też własnymi odpowiedziami z rund."
+        ],
+        "sources": [
+          {
+            "name": "Graf / YouTube",
+            "url": "https://www.youtube.com/watch?v=pK5OlpiFiAg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=pK5OlpiFiAg",
+        "caption": {
+          "credit": "Graf / YouTube",
+          "text": "Miniatura filmu z Krilliona, quizu, w którym liczy się nieoczywistość odpowiedzi. Graf od dawna robi serie z codziennymi gierkami i ten odcinek do niej należy."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/pK5OlpiFiAg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/pK5OlpiFiAg/hqdefault.jpg",
+          "credit": "Graf / YouTube",
+          "href": "https://www.youtube.com/watch?v=pK5OlpiFiAg",
+          "alt": "Miniatura filmu Grafa o grze Krillion",
+          "caption": "Kadr z miniatury filmu „Im rzadsza odpowiedź, tym więcej punktów – Krillion”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Dizowskyy",
+        "initials": "DZ",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Dizowskyy wraca do babci. W Granny 3 jest nowe zakończenie i łódź podwodna",
+        "summary": "Dizowskyy nagrał kolejny odcinek Granny 3, tym razem z nowym zakończeniem, w którym babcia trzyma w piwnicy łódź podwodną. Film zebrał prawie 42 tys. wyświetleń i 2,7 tys. polubień.",
+        "body": [
+          "W środę o 19:01 Dizowskyy opublikował film „Babcia ma łódź podwodną! Granny 3 *nowy ending*”. W opisie żartuje, że Granny wygląda tym razem tak, jakby dziadek zaczął grać w Subnauticę, i zapowiada nowe zagadki oraz nowych przeciwników.",
+          "Seria z Granny to jeden ze stałych formatów kanału. Przy odczycie w czwartek o 6:16 odcinek miał ok. 41,8 tys. wyświetleń, 2,7 tys. polubień i 170 komentarzy, czyli jeden z najwyższych stosunków polubień do wyświetleń w porannych danych.",
+          "Widzowie w komentarzach najczęściej chwalą wstęp filmu i proszą o kolejne odcinki z babcią. Pojawiają się też prośby o nagranie innych horrorów z tej samej rodziny gier."
+        ],
+        "sources": [
+          {
+            "name": "Dizowskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=th5fpV19wRo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=th5fpV19wRo",
+        "caption": {
+          "credit": "Dizowskyy / YouTube",
+          "text": "Miniatura odcinka z nowym zakończeniem Granny 3. Motyw łodzi podwodnej z tytułu to ten sam pomysł, o którym Dizowskyy pisze w opisie filmu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/th5fpV19wRo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/th5fpV19wRo/hqdefault.jpg",
+          "credit": "Dizowskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=th5fpV19wRo",
+          "alt": "Miniatura filmu Dizowskyy'ego z Granny 3",
+          "caption": "Kadr z miniatury filmu „Babcia ma łódź podwodną! Granny 3 *nowy ending*”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Young Multi wydaje pierwszy utwór na NoPixel i podpisuje kontrakt z wytwórnią. W grze",
+        "summary": "W siódmym odcinku serii z amerykańskiego serwera RP NoPixel V postać Young Multiego ma premierę pierwszego utworu i kontrakt z wytwórnią. Raper łączy w ten sposób muzykę z roleplayem w GTA.",
+        "body": [
+          "W środę o 20:00 na kanale Young Multi Live pojawił się prawie 100-minutowy odcinek „Premiera naszego pierwszego utworu + kontrakt z wytwórnią! | NoPixel V #7”. To kolejna część serii, w której Multi gra na NoPixel V, opisywanym przez niego jako największy serwer RP na świecie.",
+          "Premiera utworu i kontrakt dotyczą fabuły na serwerze, a nie prawdziwej wytwórni. Odcinek zawiera oznaczoną reklamę Opery GX.",
+          "Przy odczycie w czwartek o 6:16 film miał ok. 19,6 tys. wyświetleń. W komentarzach widzowie tłumaczą sobie nawzajem kontekst wydarzeń z serwera, a część narzeka na późną godzinę publikacji."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=TjWHUuRTD2k",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=TjWHUuRTD2k",
+        "caption": {
+          "credit": "YOUNG MULTI LIVE / YouTube",
+          "text": "Miniatura siódmego odcinka serii z NoPixel V. Wątek muzyczny w grze to naturalne przedłużenie tego, czym Young Multi zajmuje się poza GTA."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/TjWHUuRTD2k/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/TjWHUuRTD2k/hqdefault.jpg",
+          "credit": "YOUNG MULTI LIVE / YouTube",
+          "href": "https://www.youtube.com/watch?v=TjWHUuRTD2k",
+          "alt": "Miniatura odcinka Young Multiego z NoPixel V",
+          "caption": "Kadr z miniatury filmu „Premiera naszego pierwszego utworu + kontrakt z wytwórnią! | NoPixel V #7”"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "czapy": [
+      {
+        "region": "world",
+        "published": "2026-10-15",
+        "who": "Jynxzi i Ludwig",
+        "initials": "JL",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Jynxzi zebrał 40 streamerów na turniej w League of Legends. Ludwig ogłasza wygraną",
+        "summary": "Jynxzi, znany głównie z Rainbow Six Siege, zorganizował turniej League of Legends dla 40 streamerów. Ludwig zatytułował swój zapis transmisji „Winning Jynxzi's League Tournament”.",
+        "body": [
+          "Zapis ponad 10-godzinnej transmisji Jynxziego trafił na YouTube w nocy ze środy na czwartek pod tytułem „40 Streamer League of Legends Tournament”. Według spisu treści w opisie sam turniej zaczął się po mniej więcej 4,5 godzinie streamu, wcześniej były reakcje, gra rankingowa i prezentacja drabinki.",
+          "Kilka godzin wcześniej swój zapis wrzucił Ludwig. Jego film nosi tytuł „Winning Jynxzi's League Tournament”, czyli „Wygrywam turniej League Jynxziego”.",
+          "Przy odczycie w czwartek o 6:16 zapis Jynxziego miał ok. 634 tys. wyświetleń, a Ludwiga ok. 277 tys. W komentarzach widzowie żartują głównie z długości streamu."
+        ],
+        "sources": [
+          {
+            "name": "Jynxzi / YouTube",
+            "url": "https://www.youtube.com/watch?v=xorMK89ttdg",
+            "origin": true
+          },
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/watch?v=YJFjbtHpQR0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=YJFjbtHpQR0",
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura zapisu transmisji Ludwiga z turnieju. Tytuł filmu to jedyna informacja o zwycięzcy, jaką podają same nagrania."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/YJFjbtHpQR0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/YJFjbtHpQR0/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/watch?v=YJFjbtHpQR0",
+          "alt": "Miniatura streamu Ludwiga z turnieju League of Legends",
+          "caption": "Kadr z miniatury filmu „Winning Jynxzi's League Tournament”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-14",
+        "who": "gameranx",
+        "initials": "GX",
+        "category": "Gry",
+        "hype": 3,
+        "title": "gameranx zbiera nowe informacje o GTA 6 po pokazie Rockstara dla prasy",
+        "summary": "Kanał gameranx opublikował przegląd nowych funkcji GTA 6, które Rockstar pokazał wybranym mediom. Film w kilkanaście godzin przekroczył 320 tys. wyświetleń.",
+        "body": [
+          "W środę wieczorem na kanale gameranx pojawił się 15-minutowy film „New GTA 6 Features Confirmed by Rockstar”. Według opisu powstał na podstawie materiałów, które Rockstar pokazał wybranej prasie.",
+          "Jako źródła kanał podaje artykuł okładkowy Game Informera „Welcome to Leonida” oraz przetłumaczony na angielski wywiad magazynu Famitsu z Robem Nelsonem z Rockstara.",
+          "Przy odczycie w czwartek o 6:16 film miał ok. 327 tys. wyświetleń i ponad 850 komentarzy. Widzowie piszą w nich głównie o odliczaniu dni do premiery i o tym, że po latach ciszy nowe informacje o grze pojawiają się teraz co tydzień."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=-YzzZu_ptKo",
+            "origin": true
+          },
+          {
+            "name": "Game Informer",
+            "url": "https://gameinformer.com/feature/2026/09/29/grand-theft-auto-vi-welcome-to-leonida"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=-YzzZu_ptKo",
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Miniatura przeglądu nowości o GTA 6. Film zbiera w jednym miejscu informacje z materiałów prasowych Rockstara, które pojawiły się w ostatnich tygodniach."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-YzzZu_ptKo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-YzzZu_ptKo/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=-YzzZu_ptKo",
+          "alt": "Miniatura filmu gameranx o GTA 6",
+          "caption": "Kadr z miniatury filmu „New GTA 6 Features Confirmed by Rockstar”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-14",
+        "who": "Strojny",
+        "initials": "ST",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Strojny streszcza dwa tygodnie w Tibii w 20 minut",
+        "summary": "Streamer Strojny wrzucił na YouTube skrót dwóch tygodni gry w Tibię na serwerze Igła OTS. W shorcie z tego samego dnia chwali się 250 poziomami w miesiąc.",
+        "body": [
+          "W środę o 19:48 Strojny opublikował 20-minutowy film „Tibia potrafi doprowadzić mnie do szaleństwa… 2 tygodnie w 20 minut!”. To skrót jego streamów z Kicka z gry na prywatnym serwerze Tibii Igła OTS, do którego link polecający jest w opisie.",
+          "Tego samego dnia na kanale pojawił się short „250 level w miesiąc! To mój najszybszy road?”.",
+          "Przy odczycie w czwartek o 6:16 film miał ok. 13,6 tys. wyświetleń. Komentarze są podzielone: część widzów chce, żeby skróty stały się stałą serią, inni krytykują montaż i efekty dźwiękowe."
+        ],
+        "sources": [
+          {
+            "name": "Strojny / YouTube",
+            "url": "https://www.youtube.com/watch?v=GjvQ0FBfxMk",
+            "origin": true
+          },
+          {
+            "name": "Strojny / YouTube (short)",
+            "url": "https://www.youtube.com/shorts/1rkTsri8chU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=GjvQ0FBfxMk",
+        "caption": {
+          "credit": "Strojny / YouTube",
+          "text": "Miniatura skrótu dwóch tygodni gry w Tibię. Film powstał ze streamów na Kicku, gdzie Strojny gra na co dzień."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/GjvQ0FBfxMk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/GjvQ0FBfxMk/hqdefault.jpg",
+          "credit": "Strojny / YouTube",
+          "href": "https://www.youtube.com/watch?v=GjvQ0FBfxMk",
+          "alt": "Miniatura filmu Strojnego z Tibii",
+          "caption": "Kadr z miniatury filmu „Tibia potrafi doprowadzić mnie do szaleństwa… 2 tygodnie w 20 minut!”"
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-14": {
     "date": "2026-10-14",
     "ryby": [],
