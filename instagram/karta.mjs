@@ -170,7 +170,8 @@ const WARIANTY = {
 <style>
 .card{background:#0b1620 url(${n._tlo}) center top/auto 62% no-repeat;color:#fff}
 .card::before{content:"";position:absolute;inset:0;
-  background:linear-gradient(180deg,rgba(11,22,32,.55) 0%,rgba(11,22,32,0) 18%,rgba(11,22,32,0) 34%,rgba(11,22,32,.92) 56%,#0b1620 66%)}
+  background:linear-gradient(180deg,rgba(11,22,32,.7) 0px,rgba(11,22,32,0) 190px,rgba(11,22,32,0) var(--zanik,520px),
+    rgba(11,22,32,.94) var(--ciemno,700px),#0b1620 calc(var(--ciemno,700px) + 60px))}
 .card>*{position:relative}
 .top{display:flex;align-items:center;gap:18px;padding:52px 64px 0}
 .logo{font:400 54px/1 "Anton";letter-spacing:.02em;text-shadow:0 2px 12px rgba(0,0,0,.4)}
@@ -213,6 +214,12 @@ const DOPASUJ = `
     return zajete > wolne + 1 || dol > card.getBoundingClientRect().bottom + 1;
   };
   while (przepelnia() && fs > 44) { fs -= 2; t.style.setProperty('font-size', fs + 'px'); }
+  const kat = document.querySelector('.card .kat');
+  if (kat && getComputedStyle(card, '::before').content !== 'none') {
+    const y = kat.getBoundingClientRect().top - card.getBoundingClientRect().top;
+    card.style.setProperty('--zanik', Math.max(150, y - 230) + 'px');
+    card.style.setProperty('--ciemno', Math.max(260, y - 30) + 'px');
+  }
   document.body.dataset.gotowe = fs;
 })();`;
 
