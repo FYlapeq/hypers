@@ -12,7 +12,7 @@ Struktura:
                         uruchom: node scripts/build.mjs (robi to tez automat w GitHub Actions)
 
 Dodanie nowego wydania:
-  Zapisz newsy w nowe.json ({ "date", "slot", "ryby", "luz", "czapy" }, format w CLAUDE.md)
+  Zapisz newsy w nowe.json ({ "date", "slot", "ryby", "luz", "ciekawostki" }, format w CLAUDE.md)
   i uruchom: node scripts/edition.mjs add nowe.json Do newsa mozna dodac pole "embed" z linkiem do posta tworcy (Instagram, TikTok, X, YouTube) - zostanie osadzony w artykule.
 
 Publikacja:

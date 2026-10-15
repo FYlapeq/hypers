@@ -20,7 +20,7 @@ import { execFileSync } from 'node:child_process';
 import vm from 'node:vm';
 import { biezacySlot, harmonogram } from './slot.mjs';
 
-const SEKCJE = ['ryby', 'luz', 'czapy']; // jak w karta.mjs (bez importu, żeby nie ładować Playwrighta bez potrzeby)
+const SEKCJE = ['ryby', 'luz', 'ciekawostki']; // jak w karta.mjs (bez importu, żeby nie ładować Playwrighta bez potrzeby)
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const API = 'https://graph.instagram.com/v25.0';
@@ -64,11 +64,12 @@ export function listaNewsow(E, U) {
 const bezOgonkow = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/Ł/g, 'L');
 const hashtag = (s) => '#' + bezOgonkow(s).toLowerCase().replace(/[^a-z0-9]+/g, '');
 
-export function hashtagi(news) {
+export function hashtagi(news, sekcja) {
   const tagi = ['#hypers'];
   for (const osoba of news.who.split(/\s+i\s+|,|&/)) if (osoba.trim()) tagi.push(hashtag(osoba));
   if (news.category) tagi.push(hashtag(news.category));
-  tagi.push('#tworcy', '#youtubepl');
+  if (sekcja === 'ciekawostki') tagi.push('#ciekawostki', '#ciekawostka', '#wiedza');
+  else tagi.push('#tworcy', '#youtubepl');
   return [...new Set(tagi.filter((t) => t.length > 2))].slice(0, 8).join(' ');
 }
 
@@ -76,13 +77,15 @@ export function hashtagi(news) {
 export function opisKaruzeli(lista) {
   const zrodla = [...new Set(lista.flatMap((x) => (x.news.sources ?? []).map((s) => s.name)))].join(', ');
   const kadry = [...new Set(lista.map((x) => x.news.image?.credit).filter(Boolean))].join(', ');
-  const tagi = [...new Set(lista.flatMap((x) => hashtagi(x.news).split(' ')))];
-  const glowa = `${lista.length} newsów o twórcach, przesuń w bok ➡️`;
+  const tagi = [...new Set(lista.flatMap((x) => hashtagi(x.news, x.sekcja).split(' ')))];
+  const glowa = lista.some((x) => x.sekcja === 'ciekawostki')
+    ? `${lista.length} newsów i ciekawostek, przesuń w bok ➡️`
+    : `${lista.length} newsów o twórcach, przesuń w bok ➡️`;
   const stopka = [
     'Zostaw follow, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
     '',
     zrodla && `Źródła: ${zrodla}`,
-    kadry && `Kadry: ${kadry}`,
+    kadry && `Kadry i zdjęcia: ${kadry}`,
     'Całe artykuły i linki do źródeł: hypers.tech (link w bio)',
     '',
     ['#hypers', ...tagi.filter((t) => t !== '#hypers')].slice(0, 15).join(' '),
@@ -97,14 +100,14 @@ export function opisKaruzeli(lista) {
   return tekst;
 }
 
-export function opis(news, { zKadrem }) {
+export function opis(news, { zKadrem, sekcja }) {
   const zrodla = [...new Set((news.sources ?? []).map((s) => s.name))].join(', ');
   const stopka = [
     zrodla && `Źródła: ${zrodla}`,
-    zKadrem && news.image?.credit && `Kadr: ${news.image.credit}`,
+    zKadrem && news.image?.credit && `${news.image.kind === 'wolne' ? 'Zdjęcie' : 'Kadr'}: ${news.image.credit}`,
     'Cały artykuł i linki do źródeł: hypers.tech (link w bio)',
     '',
-    hashtagi(news),
+    hashtagi(news, sekcja),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
   const glowa = news.title;
   // Treść jak na stronie (body); gdy się nie mieści, ucinamy całe akapity, a w ostateczności dajemy summary.
@@ -269,7 +272,7 @@ async function main() {
     const [w] = await renderuj([{ ...x, wariant: WARIANT, nr, plik: join(kartyDir, nazwa(x)) }]);
     if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
     x.zKadrem = true;
-    x.opis = opis(x.news, { zKadrem: true });
+    x.opis = opis(x.news, { zKadrem: true, sekcja: x.sekcja });
     nowe.push(x);
   }
   if (!nowe.length) {

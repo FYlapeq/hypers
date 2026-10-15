@@ -15,11 +15,13 @@ const SECTIONS = [
   { key: 'ryby', title: 'Grube ryby' },
   { key: 'drama', title: 'Drama' },
   { key: 'luz', title: 'Na luzie' },
+  { key: 'ciekawostki', title: 'Ciekawostki' },
   { key: 'czapy', title: 'Z czapy' },
   { key: 'drop', title: 'Dropy' },
 ];
 const MONTHS = ['stycznia','lutego','marca','kwietnia','maja','czerwca','lipca','sierpnia','września','października','listopada','grudnia'];
-const KIND = { kadr: 'Kadr z filmu', ilustracja: 'Zdjęcie ilustracyjne', prasowe: 'Materiał prasowy' };
+const KIND = { kadr: 'Kadr z filmu', ilustracja: 'Zdjęcie ilustracyjne', prasowe: 'Materiał prasowy', wolne: 'Zdjęcie' };
+const THUMB_HOST = /^https:\/\/(i\.ytimg\.com|upload\.wikimedia\.org)\//;
 
 // ---------- dane ----------
 function loadEditions() {
@@ -110,14 +112,14 @@ ${extra}<link rel="preload" href="${prefix}fonts/anton-latin.woff2" as="font" ty
 <link rel="stylesheet" href="${prefix}assets/hypers.css">
 </head>
 <body>
-<header class="mast"><div class="wrap"><a class="logo" href="${prefix}">Hypers</a><div class="issue">Newsy o twórcach<span>codziennie o 7:00</span></div></div></header>
+<header class="mast"><div class="wrap"><a class="logo" href="${prefix}">Hypers</a><div class="issue">Newsy o twórcach<span>codziennie o 7:00 i 15:00</span></div></div></header>
 <div class="bar-sentinel" id="bar-sentinel"></div>
 <nav class="bar" id="bar" aria-label="Nawigacja"><div class="wrap"><a class="mini" href="${prefix}" tabindex="-1" aria-hidden="true">Hypers</a><div class="seg"><a href="${prefix}">Najnowsze wydanie</a><a href="${prefix}archiwum.html"${current === 'arch' ? ' aria-current="page"' : ''}>Archiwum</a></div></div></nav>
 `;
 }
 function foot(prefix) {
   return `<footer class="wrap site-foot">
-  <p><strong>Hypers</strong> wychodzi codziennie o 7:00. Każdy news sprawdzamy w co najmniej 3 źródłach.</p>
+  <p><strong>Hypers</strong> wychodzi codziennie o 7:00 i 15:00. Źródła każdego newsa podajemy pod artykułem.</p>
   <nav aria-label="Informacje"><a href="${prefix}archiwum.html">Archiwum</a><a href="${prefix}o-nas.html">O nas</a><a href="${prefix}kontakt.html">Kontakt</a><a href="${prefix}polityka-prywatnosci.html">Polityka prywatności</a><a href="${prefix}regulamin.html">Regulamin</a><button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
 </footer>
 <div class="consent" id="consent" role="dialog" aria-labelledby="c-title" hidden>
@@ -172,7 +174,7 @@ function articlePage(it, siblings) {
   const body = (n.body && n.body.length ? n.body : [n.summary]).map(p => `<p>${esc(p)}</p>`).join('\n    ');
   const srcs = (n.sources || []).map(x => `<li><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)}</a>${x.origin ? ' <span class="orig">✓ u twórcy</span>' : ''}</li>`).join('');
   const more = siblings.filter(s => s !== it).slice(0, 6).map(s => {
-    const im = s.n.image && /^https:\/\/i\.ytimg\.com\//.test(s.n.image.src || '') ? s.n.image : null;
+    const im = s.n.image && THUMB_HOST.test(s.n.image.src || '') ? s.n.image : null;
     const fb = im && im.fallback ? ` data-fallback="${esc(safeUrl(im.fallback))}"` : '';
     const thumb = im ? `<div class="media"><div class="photo"><img src="${esc(safeUrl(im.src))}" alt="" loading="lazy" referrerpolicy="no-referrer"${fb}><span class="cr-pill">${esc((im.kind === 'kadr' ? 'Kadr: ' : '') + (im.credit || ''))}</span></div></div>` : '';
     return `<li><article class="card">${thumb}<div class="body"><div class="meta"><span class="tag">${esc(s.sec.title)}</span><span>${esc(s.n.who || '')}</span></div><h3 class="hl"><a class="card-link" href="${prefix}${s.rel}">${esc(s.n.title)}</a></h3></div></article></li>`;

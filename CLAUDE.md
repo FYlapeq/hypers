@@ -16,49 +16,58 @@ Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w `CNAME`).
 
 ## Format
 ```
-nowe.json = { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [news], "luz": [news], "czapy": [news] }
+nowe.json = { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [news], "luz": [news], "ciekawostki": [news] }
 news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category, hype (1-5),
          title, summary, body: ["akapit", ...], sources: [{name, url, origin?: true}], embed?,
          caption?: {credit: "Autor / Platforma", text: "komentarz"},
-         image?: {kind: "kadr"|"prasowe", src, fallback?, credit, href, alt, caption} }
+         image?: {kind: "kadr"|"prasowe"|"wolne", src, fallback?, credit, href, alt, caption} }
 ```
-- Sekcje: `ryby` (Grube ryby: duży temat z analizą, raz na kilka dni, TYLKO po akceptacji Filipa), `luz` (Na luzie: lżejsze newsy o twórcach z listy), `czapy` (Z czapy: krótkie, nieoczywiste ciekawostki w stylu dropsy.news). Klucze `drama` i `drop` są tylko w starych wydaniach.
+- Sekcje: `ryby` (Grube ryby: duży temat z analizą, raz na kilka dni, TYLKO po akceptacji Filipa), `luz` (Na luzie: wszystkie newsy o twórcach, dłuższe i krótkie w stylu dropsy.news; od 16.10.2026 obejmuje dawne Z czapy), `ciekawostki` (Ciekawostki: krótkie, niszowe fakty z całego internetu, nie o twórcach, patrz niżej). Klucz `czapy` już nie istnieje (stare newsy przeniesione do `luz`); `drama` i `drop` są tylko w starych wydaniach.
 - `summary` = 2–3 zdania na karcie. `body` = 3–5 akapitów, tylko fakty potwierdzone w źródłach, bez spekulacji.
 - `embed` = link do KONKRETNEGO posta/filmu (instagram.com/p/… lub /reel/…, tiktok.com/@konto/video/…, x.com/konto/status/…, youtube.com/watch?v=… lub /shorts/…), nie do profilu. Bez `embed` strona osadzi pierwszy taki link ze źródeł (najpierw `origin: true`).
-- Pole `slot` dopisuje skrypt. Popołudniowe newsy lądują na początku sekcji. Pierwszy news pierwszej niepustej sekcji (ryby → luz → czapy) jest tematem dnia.
+- Pole `slot` dopisuje skrypt. Popołudniowe newsy lądują na początku sekcji. Tematem dnia jest pierwszy news ze zdjęciem w ryby, potem luz (Ciekawostki nie są tematem dnia).
 - `pinUntil: "RRRR-MM-DD"` (opcjonalne, tylko na prośbę Filipa): news jest tematem dnia na stronie głównej od swojej daty do tej daty włącznie, także nad wydaniami z kolejnych dni. Grube ryby nie liczą się do limitu zagranicy.
 
 ## Zasady redakcyjne
-- Profil: rzetelne newsy i analizy w duchu kanałów komentatorskich, nie plotkarski portal. Bez shitpostów poza Z czapy.
+- Profil: rzetelne newsy i analizy w duchu kanałów komentatorskich, nie plotkarski portal. Bez shitpostów (krótkie, luźne newsy o twórcach są OK w Na luzie).
 
 ### Profil tematyczny (od 16.10.2026, decyzja Filipa)
 Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybierając tematy z digestu, kieruj się tym, co obchodzi dorosłego widza, a nie samą liczbą wyświetleń.
 - **Priorytet: życiowy content twórców.** Zaręczyny, śluby, przeprowadzki, nowe etapy w życiu, własne biznesy i marki, książki, podcasty, trasy, programy TV, akcje charytatywne, duże podróże, osiągnięcia, zmiany w karierze, oświadczenia twórców we własnej sprawie (np. odpowiedź twórcy na to, co o nim mówiono). Przykłady w duchu Hypers: zaręczyny Gimpera, odpowiedź Fagaty.
 - **Prywatne wydarzenia tylko z ogłoszenia samego twórcy** (`origin: true`): nie ogłaszamy niczego za twórcę (ciąża, rozstanie, zdrowie) na podstawie plotek.
 - **Beefy i spiny są OK.** Konflikty między twórcami, diss tracki, trash talk przed galami i odpowiedzi jednych na drugich mogą trafiać do Na luzie. Zawsze z zasadą 3 źródeł (to temat o innych osobach), z oddzieleniem faktów od tego, co kto twierdzi, bez stawania po żadnej stronie i bez niepotwierdzonych zarzutów.
-- **Polityka i kontrowersje w umiarkowanej dawce** (ok. 1–2 dziennie). Gdy dotyczą twórców lub internetu: twórca komentuje politykę lub prawo, polityk u influencera, kontrowersyjny materiał, który wywołał dyskusję, sprawy regulacji platform. Pisane neutralnie: kto co powiedział, z jakimi argumentami obu stron, bez opinii Hypers. 3 źródła. Przemoc i tragedie dalej nie trafiają do Na luzie ani Z czapy.
+- **Polityka i kontrowersje w umiarkowanej dawce** (ok. 1–2 dziennie). Gdy dotyczą twórców lub internetu: twórca komentuje politykę lub prawo, polityk u influencera, kontrowersyjny materiał, który wywołał dyskusję, sprawy regulacji platform. Pisane neutralnie: kto co powiedział, z jakimi argumentami obu stron, bez opinii Hypers. 3 źródła. Przemoc i tragedie dalej nie trafiają do Na luzie ani Ciekawostek.
 - **Mniej gamingu.** Sam nowy odcinek gry, aktualizacja, stream czy wynik w grze to nie news. Gaming tylko gdy wychodzi poza grę (rekord, duży turniej, nowy projekt, zmiana w karierze). Maks. 2 takie newsy dziennie.
 - **Bez treści stricte dla dzieci.** Roblox, Minecraft dla najmłodszych, challenge'e, pranki, unboxingi zabawek i inne formaty pod dzieci pomijamy, nawet gdy są popularne.
 - Gdy po tych zasadach zostaje mniej tematów, publikuj mniej newsów: lepsze 4 dobre niż 7 na siłę.
 - Obserwowani twórcy: `sources/creators.yml` w prywatnym repo FYlapeq/hypers-data (grupy lista, top100, streamer, zagranica). Tematy spoza listy tylko wyjątkowo.
 - Dane: zbieracz (GitHub Actions w prywatnym hypers-data) zapisuje `runs/RRRR-MM-DD-<rano|popoludnie>.json` i kopiuje cały katalog `runs/` na gałąź `zbieracz` tego repo. Sesja bez dostępu do hypers-data czyta stamtąd: `git fetch --depth 1 origin +zbieracz:refs/remotes/origin/zbieracz` (sam `git fetch origin zbieracz` w płytkim klonie nie tworzy origin/zbieracz) i `git show origin/zbieracz:runs/<plik>`. Nie commituj nic na gałąź `zbieracz`. Harmonogram GitHuba (5:45 i 13:45) bywa spóźniony o godziny, więc gdy pliku na dziś nie ma, uruchom zbieracza sam: `gh api -X POST repos/FYlapeq/hypers/actions/workflows/uruchom-zbieracza.yml/dispatches -f ref=main -f 'inputs[slot]=<rano|popoludnie>'` i sprawdzaj gałąź co 2 minuty do 12 minut. Używaj tylko pliku z dzisiejszą datą i własnym slotem (rano dla 7:00, popoludnie dla 15:00). Plik z innego slotu albo dnia nie zastępuje uruchomienia zbieracza. `status` mówi, czy brak danych to awaria. Brak pliku lub pusty YouTube: wydanie z researchu w sieci i 3 źródła dla wszystkiego.
-- Cel ok. 15 newsów dziennie: ok. 7 rano (7:00), ok. 8 po południu (15:00). To cel, nie przymus: lepiej krótsze wydanie niż słabe tematy. Zagranica (`world`) maks. 3 dziennie.
-- Świeżość: Na luzie i Z czapy z ostatnich 48 godzin. Sprawdzaj datę każdego źródła (otwierając je, nie z wyników wyszukiwania).
-- Źródła: w Na luzie i Z czapy wystarczy oryginał twórcy z API (`origin: true`), gdy news dotyczy tego, co twórca sam pokazał lub powiedział. Wszystko o innych osobach (zarzuty, konflikty) i Grube ryby: min. 3 niezależne źródła. Gdy się da, potwierdź u twórcy lub marki (`origin: true`).
+- Cel ok. 26 newsów dziennie: w każdym slocie (7:00 i 15:00) ok. 8 w Na luzie i ok. 5 Ciekawostek. To cel, nie przymus: lepiej krótsze wydanie niż słabe tematy. Zagranica (`world`) w Na luzie maks. 3 dziennie (Ciekawostek i Grubych ryb nie liczymy).
+- Świeżość: Na luzie z ostatnich 48 godzin. Sprawdzaj datę każdego źródła (otwierając je, nie z wyników wyszukiwania).
+- Źródła: w Na luzie wystarczy oryginał twórcy z API (`origin: true`), gdy news dotyczy tego, co twórca sam pokazał lub powiedział. Wszystko o innych osobach (zarzuty, konflikty) i Grube ryby: min. 3 niezależne źródła. Gdy się da, potwierdź u twórcy lub marki (`origin: true`).
 - Żadnych niepotwierdzonych zarzutów wobec konkretnych osób (przemoc, przestępstwa, zdrowie itp.).
 - Bez napisów nie opisujemy, co pada w filmie: tylko tytuł, opis, statystyki i reakcje widzów (parafrazowane, bez nicków). Statystyki podajemy z godziną odczytu.
 - Grube ryby: analiza tego, co publicznie wiadomo, z oddzieleniem faktów, cudzych zarzutów i komentarza. Szkic trafia najpierw do Filipa; publikacja dopiero po akceptacji.
 - Piszemy własnymi słowami po polsku, bez kopiowania tekstów.
 - `caption` przy każdym newsie z osadzonym materiałem lub zdjęciem: `text` = 2–3 zdania własnego komentarza (co widać w materiale i jak łączy się z tematem; cel cytatu, nie ozdobnik), tylko fakty. `credit` = autor i platforma, np. „Książulo / YouTube”.
 
+## Ciekawostki
+- Krótkie, niszowe fakty, które dają „wow” w kilka sekund (np. najpopularniejsza pizza w Szwecji to pizza z kebabem). Z całego internetu i każdej dziedziny: jedzenie, historia, przyroda, kosmos, technologia, kraje, rekordy, język, ludzkie ciało. Nie o twórcach (to Na luzie) i nie newsy dnia.
+- Dane: zbieracz ciekawostek (`.github/workflows/zbieracz-ciekawostek.yml`, skrypt `scripts/zbieracz-ciekawostek.mjs`) zapisuje `runs/RRRR-MM-DD-<rano|popoludnie>.json` na gałęzi `ciekawostki`. Pobierz: `git fetch --depth 1 origin +ciekawostki:refs/remotes/origin/ciekawostki` i `git show origin/ciekawostki:runs/<plik>`. Gdy pliku nie ma, uruchom: `gh api -X POST repos/FYlapeq/hypers/actions/workflows/zbieracz-ciekawostek.yml/dispatches -f ref=main -f 'inputs[slot]=<rano|popoludnie>'` i sprawdzaj co 2 minuty do 10 minut. Skrót: `node scripts/edition.mjs ciekawostki <plik>`, szczegóły jednego: `ciekawostka <plik> <id>`. Kandydaci: Wikipedia „Czy wiesz” PL i „Did you know” EN (gotowe zdjęcie z Commons z autorem i licencją), Reddit TIL, RSS (bez zdjęcia: poszukaj go sam). Nie commituj na gałąź `ciekawostki`. Bez danych: research w sieci (WebSearch), te same zasady.
+- Wybór: najbardziej zaskakujące i zrozumiałe bez kontekstu. Pomijaj nudne, zbyt specjalistyczne, o polityce bieżącej, przemocy, tragediach i chorobach. Nie powtarzaj tematów (skrypt sprawdza artykuły Wikipedii i linki).
+- Format: `title` = sama ciekawostka jednym zdaniem, maks. 110 znaków (to ona ma przyciągać). `summary` = 1–2 zdania. `body` = 1–2 krótkie akapity z kontekstem. `who` = temat (np. „Szwecja”, „Kosmos”), `category` = dziedzina, `published` = data wydania, `region` = `pl` gdy dotyczy Polski, inaczej `world`.
+- Źródła: min. 2 niezależne. Artykuł Wikipedii to jedno; drugie to źródło, na które powołuje się Wikipedia, albo inna rzetelna strona (WebFetch: potwierdź konkretny fakt, liczby i daty). Jeśli fakt się nie potwierdza albo jest nieaktualny, odrzuć. Liczby tylko te, które są w źródłach.
+- Grafika obowiązkowa i ściśle związana z faktem (pokazuje dokładnie to, o czym jest ciekawostka, nie ogólny klimat). Bez pasującej legalnej grafiki ciekawostka nie wchodzi. Najpierw zdjęcie z kandydata (`image`), a gdy pasuje słabo, szukaj lepszego pliku na Wikimedia Commons (strona pliku pokazuje autora i licencję).
+
 ## Zdjęcia
 - Konkretne, nie ilustracyjne. Każde musi mieć podstawę prawną, inaczej bez `image`, tylko `embed` oryginalnego posta.
   1. `kadr`: miniatura omawianego filmu YouTube (prawo cytatu, art. 29). `src` = `https://i.ytimg.com/vi/ID/maxresdefault.jpg`, `fallback` = `…/hqdefault.jpg`, `credit` = „Twórca / YouTube”. Tekst i `caption` muszą faktycznie omawiać ten film.
   2. `prasowe`: zdjęcie z newsroomu marki, tylko gdy newsroom wprost zezwala mediom (np. news.adidas.com). Nigdy ze sklepu marki ani od sklepów/portali. `credit` = „materiały prasowe Marka”, `href` = strona w newsroomie. Nowy newsroom: najpierw sprawdź warunki.
-  3. Zgoda twórcy.
+  3. `wolne`: plik z Wikimedia Commons na wolnej licencji (CC0, domena publiczna, CC BY, CC BY-SA), głównie do Ciekawostek. `src` = `https://upload.wikimedia.org/wikipedia/commons/…` (miniatura 1280 px z kandydata albo `thumburl`), `href` = strona pliku `https://commons.wikimedia.org/wiki/File:…`, `credit` = „Autor / Wikimedia Commons, licencja”, np. „Jan Kowalski / Wikimedia Commons, CC BY-SA 4.0” (licencja i autor dokładnie ze strony pliku). Nigdy plików z en.wikipedia.org/upload bez Commons (często niewolne, „fair use”).
+  4. Zgoda twórcy.
 - Bez kadrów pokazujących dzieci; w takich newsach tylko `embed`.
 - `edition.mjs add` odrzuca news bez `image`. Gdy legalnego zdjęcia naprawdę nie ma (dziecko w kadrze, brak filmu/newsroomu), dodaj `embed` oryginalnego posta i pole `noImage` z krótkim powodem. Najpierw szukaj: film twórcy na YouTube (kadr), oficjalny post programu/marki (embed).
-- Obrazy tylko z i.ytimg.com i newsroomów marek (punkt 4 polityki prywatności). Nowe źródło obrazów = najpierw dopisz je do polityki.
+- Obrazy tylko z i.ytimg.com, upload.wikimedia.org (Commons) i newsroomów marek (punkt 4 polityki prywatności). Nowe źródło obrazów = najpierw dopisz je do polityki.
 - Nigdy: zdjęcia z portali, agencji, Google Grafika, repostów; obrazy AI z prawdziwymi osobami. Nie pobieraj plików do repo.
 
 ## Publikacja
@@ -72,6 +81,6 @@ Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybi
 
 ## Instagram
 - Workflow `.github/workflows/instagram.yml` sam wrzuca na IG karuzele: 5 newsów (każdy na osobnym slajdzie) + slajd „Zostaw follow”, o godzinach z `instagram/harmonogram.json` (9:00, 16:00, 20:00), wybierając najświeższe nieopublikowane. Sesja wydania nic tu nie robi.
-- Post wychodzi tylko z oryginalną miniaturą filmu z pola `image`; news z `noImage` nie trafi na IG.
+- Post wychodzi tylko z prawdziwym obrazem z pola `image` (kadr, prasowe albo wolne z Commons dla Ciekawostek); news z `noImage` nie trafi na IG.
 - Opis karuzeli = numerowane `title` + `summary` każdego newsa + nazwy źródeł, więc to, co piszesz w newsie, idzie 1:1 na Instagram. Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
 - Gałąź `instagram` należy do automatu: nie commituj na nią i nie czytaj jej. Szczegóły: `instagram/README.md`.

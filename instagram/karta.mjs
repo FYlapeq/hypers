@@ -8,7 +8,7 @@ import { dirname, join, resolve } from 'node:path';
 import vm from 'node:vm';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-export const SEKCJE = { ryby: 'Grube ryby', luz: 'Na luzie', czapy: 'Z czapy' };
+export const SEKCJE = { ryby: 'Grube ryby', luz: 'Na luzie', ciekawostki: 'Ciekawostki' };
 export const SZER = 1080, WYS = 1350;
 
 export function wczytajWydania() {
@@ -157,7 +157,7 @@ const WARIANTY = {
 .who small{display:block;font:500 20px/1.3 "Work Sans";opacity:.8;margin-top:6px;letter-spacing:.06em}
 </style>
 <div class="card">
-  <div class="kadr"><div class="logo">HYPERS</div><div class="kredyt">Kadr: ${esc(n._kredyt)}</div></div>
+  <div class="kadr"><div class="logo">HYPERS</div><div class="kredyt">${n._etykieta}: ${esc(n._kredyt)}</div></div>
   <div class="band"><b>${esc(n._sekcja)}</b><em>${esc(n.category)} · ${esc(n._data)}</em></div>
   <div class="body"><h1 class="title fit">${esc(n.title)}</h1></div>
   <div class="foot"><div class="avatar">${esc(n.initials)}</div>
@@ -188,7 +188,7 @@ const WARIANTY = {
 .hype{color:#9fb3c1}
 </style>
 <div class="card">
-  <div class="top"><div class="logo">HYPERS</div><div class="sek">${esc(n._sekcja)}</div><div class="kredyt">Kadr: ${esc(n._kredyt)}</div>${n._nr ? `<div class="nr">${esc(n._nr)}</div>` : ''}</div>
+  <div class="top"><div class="logo">HYPERS</div><div class="sek">${esc(n._sekcja)}</div><div class="kredyt">${n._etykieta}: ${esc(n._kredyt)}</div>${n._nr ? `<div class="nr">${esc(n._nr)}</div>` : ''}</div>
   <div class="body"><div class="kat">${esc(n.category)} · ${esc(n._data)}</div><h1 class="title fit">${esc(n.title)}</h1></div>
   <div class="foot"><div class="avatar">${esc(n.initials)}</div>
     <div class="who">${esc(n.who)}<small>HYPERS.TECH · LINK W BIO</small></div>
@@ -231,7 +231,7 @@ export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null, nr = 
   // Warianty z kadrem bez dostępnego kadru wracają do zwykłej karty A.
   if (Z_KADREM.has(wariant) && !tlo) wariant = 'a';
   const n = { ...news, title: sieroty(news.title), _data: dataPL(data), _sekcja: SEKCJE[sekcja] ?? sekcja,
-    _tlo: tlo, _kredyt: news.image?.credit ?? news.who, _nr: nr };
+    _tlo: tlo, _kredyt: news.image?.credit ?? news.who, _nr: nr, _etykieta: news.image?.kind === 'wolne' ? 'Fot.' : 'Kadr' };
   return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}</style></head>
 <body>${WARIANTY[wariant](n)}<script>${DOPASUJ}</script></body></html>`;
 }
@@ -241,7 +241,7 @@ export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null, nr = 
 // IG_TEST_TLO=<plik> podstawia lokalny obraz (testy bez dostępu do i.ytimg.com).
 export async function pobierzKadr(news) {
   if (process.env.IG_KADRY === '0' || !news.image || news.noImage) return null;
-  if (!['kadr', 'prasowe'].includes(news.image.kind)) return null;
+  if (!['kadr', 'prasowe', 'wolne'].includes(news.image.kind)) return null;
   if (process.env.IG_TEST_TLO) {
     // Zastępczy obraz tylko w lokalnych testach na sucho; prawdziwy post zawsze dostaje oryginalną miniaturę.
     if (process.env.DRY_RUN !== '1') throw new Error('IG_TEST_TLO wolno używać tylko z DRY_RUN=1');
@@ -250,8 +250,10 @@ export async function pobierzKadr(news) {
   for (const url of [news.image.src, news.image.fallback].filter(Boolean)) {
     try {
       const u = new URL(url);
-      if (u.protocol !== 'https:' || (news.image.kind === 'kadr' && u.hostname !== 'i.ytimg.com')) continue;
-      const r = await fetch(u, { signal: AbortSignal.timeout(15000) });
+      if (u.protocol !== 'https:' || (news.image.kind === 'kadr' && u.hostname !== 'i.ytimg.com')
+        || (news.image.kind === 'wolne' && u.hostname !== 'upload.wikimedia.org')) continue;
+      // Wikimedia wymaga opisowego User-Agenta
+      const r = await fetch(u, { signal: AbortSignal.timeout(15000), headers: { 'User-Agent': 'HypersBot/1.0 (https://hypers.tech; kontakt@hypers.tech)' } });
       const typ = r.headers.get('content-type') ?? '';
       if (!r.ok || !typ.startsWith('image/')) continue;
       const buf = Buffer.from(await r.arrayBuffer());

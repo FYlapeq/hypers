@@ -114,6 +114,7 @@ main{padding-block:18px 10px}
 .sec-head h2{font-family:var(--display);font-weight:400;text-transform:uppercase;margin:0;font-size:1.7rem;line-height:1;letter-spacing:-.003em}
 .sec-sub{color:var(--muted);font-size:.9rem}
 .feedgrid,.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,280px),1fr));gap:18px}
+.sec-ciekawostki .feedgrid{grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr));gap:14px}
 
 /* karty: cała karta prowadzi do artykułu (prawdziwy link), w JS otwiera arkusz */
 .card{position:relative;display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:var(--r);

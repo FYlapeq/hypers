@@ -1,0 +1,61 @@
+# Zbiera kandydatów na Ciekawostki (Wikipedia „Czy wiesz”, Reddit TIL, RSS) przed wydaniami 7:00 i 15:00.
+# Wynik: runs/RRRR-MM-DD-<rano|popoludnie>.json na gałęzi `ciekawostki` (trzymane 15 dni).
+# Sesja wydania może go też odpalić sama:
+#   gh api -X POST repos/FYlapeq/hypers/actions/workflows/zbieracz-ciekawostek.yml/dispatches -f ref=main -f 'inputs[slot]=rano'
+name: Zbieracz ciekawostek
+on:
+  schedule:
+    - cron: '20 3 * * *'   # ok. 5:20 / 4:20 w Polsce (lato / zima)
+    - cron: '20 11 * * *'  # ok. 13:20 / 12:20 w Polsce
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Slot"
+        type: choice
+        options: ["rano", "popoludnie"]
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: zbieracz-ciekawostek
+  cancel-in-progress: false
+jobs:
+  zbierz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Slot
+        id: slot
+        run: |
+          if [ -n "${{ inputs.slot }}" ]; then echo "slot=${{ inputs.slot }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(TZ=Europe/Warsaw date +%H)" -lt 11 ]; then echo "slot=rano" >> "$GITHUB_OUTPUT"
+          else echo "slot=popoludnie" >> "$GITHUB_OUTPUT"; fi
+      - name: Zbierz kandydatów
+        run: node scripts/zbieracz-ciekawostek.mjs "${{ steps.slot.outputs.slot }}" "$RUNNER_TEMP/out"
+      - name: Zapisz na gałąź ciekawostki
+        run: |
+          git config user.name "hypers-bot"
+          git config user.email "hypers-bot@users.noreply.github.com"
+          D="$RUNNER_TEMP/ciek"
+          if git ls-remote --exit-code --heads origin ciekawostki >/dev/null; then
+            git fetch --depth 1 origin ciekawostki
+            git worktree add "$D" FETCH_HEAD
+            git -C "$D" checkout -B ciekawostki
+          else
+            git worktree add --detach "$D"
+            git -C "$D" checkout --orphan ciekawostki
+            git -C "$D" rm -rfq .
+          fi
+          mkdir -p "$D/runs"
+          cp "$RUNNER_TEMP"/out/*.json "$D/runs/"
+          # trzymamy 15 dni
+          CUT=$(date -u -d '15 days ago' +%F)
+          for f in "$D"/runs/*.json; do n=$(basename "$f"); [ "${n:0:10}" \< "$CUT" ] && rm -f "$f"; done
+          git -C "$D" add -A runs
+          git -C "$D" commit -qm "Ciekawostki $(ls -t "$RUNNER_TEMP"/out/*.json | head -1 | xargs basename .json)" || echo "Bez zmian"
+          git -C "$D" push -q origin ciekawostki
+          ls "$RUNNER_TEMP"/out >> "$GITHUB_STEP_SUMMARY"

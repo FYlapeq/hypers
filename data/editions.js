@@ -184,6 +184,117 @@ window.HYPERS_EDITIONS = {
       },
       {
         "region": "pl",
+        "published": "2026-10-15",
+        "who": "Torii",
+        "initials": "TO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Torii tłumaczy, którą trumnę wybrać w halloweenowym evencie Brawl Stars",
+        "summary": "W Brawl Stars ruszył event z trumnami. Torii na kanale Torii Dwa pokazuje, co w nich jest i jak odebrać darmowe nagrody.",
+        "body": [
+          "Na kanale Torii Dwa pojawił się w czwartek 14-minutowy poradnik o nowym evencie „Scary Coffins” w Brawl Stars.",
+          "Według opisu filmu w trumnach można trafić m.in. Ultra Boxy, Ultra Chaos Dropy, darmowego halloweenowego skina dla Griffa, a nawet skrzynki z nowym zadymiarzem Vince'em.",
+          "Przy odczycie o 14:16 film miał ok. 700 wyświetleń i ponad 50 komentarzy. Widzowie piszą głównie, którego skina chcieliby dostać; najczęściej wymieniają Piper i Chucka."
+        ],
+        "sources": [
+          {
+            "name": "Torii Dwa / YouTube",
+            "url": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+        "caption": {
+          "credit": "Torii Dwa / YouTube",
+          "text": "Miniatura poradnika Toriiego o evencie z trumnami. Film omawia zawartość trumien i darmowe nagrody z halloweenowej aktualizacji."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/gfpfQX0w1aw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/gfpfQX0w1aw/hqdefault.jpg",
+          "credit": "Torii Dwa / YouTube",
+          "href": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
+          "alt": "Miniatura poradnika Toriiego o trumnach w Brawl Stars",
+          "caption": "Kadr z miniatury filmu „Którą trumnę wybrać, żeby dostać najlepsze nagrody w Brawl Stars?”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Dobrodziej",
+        "initials": "DO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Dobrodziej sprawdza ocalałych na punkcie kwarantanny w Miami",
+        "summary": "Dobrodziej zaczął na YouTube serię z Quarantine Zone: Miami Zero. W grze kontroluje ocalałych z epidemii zombie i decyduje, kto przejdzie dalej.",
+        "body": [
+          "W czwartek na kanale Dobrodzieja pojawił się pierwszy, prawie 38-minutowy odcinek serii „Quarantine Zone: Miami Zero”, zatytułowany „Ostatni bastion w Miami”.",
+          "Jak opisuje twórca, to fabularny symulator punktu kwarantanny: gracz bada objawy ocalałych, sprawdza dokumenty i bagaże, szuka zarażonych i przemytu, a do tego pracuje w laboratorium nad lekarstwem i naprawia łódź, która ma posłużyć do ucieczki.",
+          "Na co dzień Dobrodziej streamuje na Kicku, a część widzów pisze w komentarzach, że grę oglądała już na transmisji. Przy odczycie o 14:16 odcinek miał ok. 300 wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Dobrodziej / YouTube",
+            "url": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+        "caption": {
+          "credit": "Dobrodziej / YouTube",
+          "text": "Miniatura pierwszego odcinka serii Dobrodzieja z Quarantine Zone: Miami Zero. Od tego filmu zaczyna się jego seria z gry."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/9MFh1MQAy2o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/9MFh1MQAy2o/hqdefault.jpg",
+          "credit": "Dobrodziej / YouTube",
+          "href": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
+          "alt": "Miniatura odcinka Dobrodzieja z Quarantine Zone Miami Zero",
+          "caption": "Kadr z miniatury filmu „Ostatni bastion w Miami!!!”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-15",
+        "who": "Foltyn",
+        "initials": "FO",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Foltyn wraca do Steal a Brainrot. Ponad 200 tys. wyświetleń w kilka godzin",
+        "summary": "Amerykański twórca robloksowy Foltyn znów kradnie „brainroty”. W opisie promuje figurki i pluszaki „Caylus vs Foltyn” w sieci Target.",
+        "body": [
+          "Foltyn opublikował w czwartek film „I Returned To Steal A Brainrot..”, w którym wraca do robloksowej gry Steal a Brainrot.",
+          "W opisie odsyła do figurek i pluszaków z serii „Caylus vs Foltyn”, sprzedawanych w amerykańskiej sieci Target. To wspólna linia zabawek z innym twórcą robloksowym, Caylusem.",
+          "Przy odczycie o 14:16 polskiego czasu film miał ok. 213 tys. wyświetleń i blisko 1,7 tys. komentarzy. Widzowie żartują głównie z trudnych do wymówienia nazw postaci z gry."
+        ],
+        "sources": [
+          {
+            "name": "Foltyn / YouTube",
+            "url": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+        "caption": {
+          "credit": "Foltyn / YouTube",
+          "text": "Miniatura nowego filmu Foltyna ze Steal a Brainrot. To ten odcinek zebrał ponad 200 tys. wyświetleń w ciągu kilku godzin."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/YBVrsuMSqLk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/YBVrsuMSqLk/hqdefault.jpg",
+          "credit": "Foltyn / YouTube",
+          "href": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
+          "alt": "Miniatura filmu Foltyna I Returned To Steal A Brainrot",
+          "caption": "Kadr z miniatury filmu „I Returned To Steal A Brainrot..”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-10-14",
         "who": "Książulo",
         "initials": "KS",
@@ -329,119 +440,6 @@ window.HYPERS_EDITIONS = {
           "caption": "Kadr z miniatury filmu „Premiera naszego pierwszego utworu + kontrakt z wytwórnią! | NoPixel V #7”"
         },
         "slot": "7:00"
-      }
-    ],
-    "czapy": [
-      {
-        "region": "pl",
-        "published": "2026-10-15",
-        "who": "Torii",
-        "initials": "TO",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "Torii tłumaczy, którą trumnę wybrać w halloweenowym evencie Brawl Stars",
-        "summary": "W Brawl Stars ruszył event z trumnami. Torii na kanale Torii Dwa pokazuje, co w nich jest i jak odebrać darmowe nagrody.",
-        "body": [
-          "Na kanale Torii Dwa pojawił się w czwartek 14-minutowy poradnik o nowym evencie „Scary Coffins” w Brawl Stars.",
-          "Według opisu filmu w trumnach można trafić m.in. Ultra Boxy, Ultra Chaos Dropy, darmowego halloweenowego skina dla Griffa, a nawet skrzynki z nowym zadymiarzem Vince'em.",
-          "Przy odczycie o 14:16 film miał ok. 700 wyświetleń i ponad 50 komentarzy. Widzowie piszą głównie, którego skina chcieliby dostać; najczęściej wymieniają Piper i Chucka."
-        ],
-        "sources": [
-          {
-            "name": "Torii Dwa / YouTube",
-            "url": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-        "caption": {
-          "credit": "Torii Dwa / YouTube",
-          "text": "Miniatura poradnika Toriiego o evencie z trumnami. Film omawia zawartość trumien i darmowe nagrody z halloweenowej aktualizacji."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/gfpfQX0w1aw/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/gfpfQX0w1aw/hqdefault.jpg",
-          "credit": "Torii Dwa / YouTube",
-          "href": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-          "alt": "Miniatura poradnika Toriiego o trumnach w Brawl Stars",
-          "caption": "Kadr z miniatury filmu „Którą trumnę wybrać, żeby dostać najlepsze nagrody w Brawl Stars?”"
-        },
-        "slot": "15:00"
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-15",
-        "who": "Dobrodziej",
-        "initials": "DO",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "Dobrodziej sprawdza ocalałych na punkcie kwarantanny w Miami",
-        "summary": "Dobrodziej zaczął na YouTube serię z Quarantine Zone: Miami Zero. W grze kontroluje ocalałych z epidemii zombie i decyduje, kto przejdzie dalej.",
-        "body": [
-          "W czwartek na kanale Dobrodzieja pojawił się pierwszy, prawie 38-minutowy odcinek serii „Quarantine Zone: Miami Zero”, zatytułowany „Ostatni bastion w Miami”.",
-          "Jak opisuje twórca, to fabularny symulator punktu kwarantanny: gracz bada objawy ocalałych, sprawdza dokumenty i bagaże, szuka zarażonych i przemytu, a do tego pracuje w laboratorium nad lekarstwem i naprawia łódź, która ma posłużyć do ucieczki.",
-          "Na co dzień Dobrodziej streamuje na Kicku, a część widzów pisze w komentarzach, że grę oglądała już na transmisji. Przy odczycie o 14:16 odcinek miał ok. 300 wyświetleń."
-        ],
-        "sources": [
-          {
-            "name": "Dobrodziej / YouTube",
-            "url": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
-        "caption": {
-          "credit": "Dobrodziej / YouTube",
-          "text": "Miniatura pierwszego odcinka serii Dobrodzieja z Quarantine Zone: Miami Zero. Od tego filmu zaczyna się jego seria z gry."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/9MFh1MQAy2o/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/9MFh1MQAy2o/hqdefault.jpg",
-          "credit": "Dobrodziej / YouTube",
-          "href": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
-          "alt": "Miniatura odcinka Dobrodzieja z Quarantine Zone Miami Zero",
-          "caption": "Kadr z miniatury filmu „Ostatni bastion w Miami!!!”"
-        },
-        "slot": "15:00"
-      },
-      {
-        "region": "world",
-        "published": "2026-10-15",
-        "who": "Foltyn",
-        "initials": "FO",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "Foltyn wraca do Steal a Brainrot. Ponad 200 tys. wyświetleń w kilka godzin",
-        "summary": "Amerykański twórca robloksowy Foltyn znów kradnie „brainroty”. W opisie promuje figurki i pluszaki „Caylus vs Foltyn” w sieci Target.",
-        "body": [
-          "Foltyn opublikował w czwartek film „I Returned To Steal A Brainrot..”, w którym wraca do robloksowej gry Steal a Brainrot.",
-          "W opisie odsyła do figurek i pluszaków z serii „Caylus vs Foltyn”, sprzedawanych w amerykańskiej sieci Target. To wspólna linia zabawek z innym twórcą robloksowym, Caylusem.",
-          "Przy odczycie o 14:16 polskiego czasu film miał ok. 213 tys. wyświetleń i blisko 1,7 tys. komentarzy. Widzowie żartują głównie z trudnych do wymówienia nazw postaci z gry."
-        ],
-        "sources": [
-          {
-            "name": "Foltyn / YouTube",
-            "url": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-        "caption": {
-          "credit": "Foltyn / YouTube",
-          "text": "Miniatura nowego filmu Foltyna ze Steal a Brainrot. To ten odcinek zebrał ponad 200 tys. wyświetleń w ciągu kilku godzin."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/YBVrsuMSqLk/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/YBVrsuMSqLk/hqdefault.jpg",
-          "credit": "Foltyn / YouTube",
-          "href": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-          "alt": "Miniatura filmu Foltyna I Returned To Steal A Brainrot",
-          "caption": "Kadr z miniatury filmu „I Returned To Steal A Brainrot..”"
-        },
-        "slot": "15:00"
       },
       {
         "region": "world",
@@ -735,9 +733,7 @@ window.HYPERS_EDITIONS = {
           "caption": "Polska U21 w FC27 u RafciuSA"
         },
         "slot": "7:00"
-      }
-    ],
-    "czapy": [
+      },
       {
         "region": "pl",
         "published": "2026-10-13",
@@ -1001,6 +997,43 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-10-13",
+        "who": "Jacob",
+        "initials": "JC",
+        "category": "Gry",
+        "hype": 2,
+        "title": "Jacob wystawił 4 youtuberów przeciw 2 najlepszym polskim graczom Fortnite",
+        "summary": "W nowym filmie Jacob sprawdza, czy czterech youtuberów pokona dwóch najlepszych graczy Fortnite w Polsce. Odcinek w dwie godziny zebrał ponad 300 komentarzy.",
+        "body": [
+          "We wtorek po południu Jacob opublikował film „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”. Według opisu to test, w którym czterech twórców mierzy się z dwoma najlepszymi polskimi zawodnikami Fortnite, zarówno w Battle Royale, jak i w trybie Fortnite OG.",
+          "Nagranie trwa ok. 23 minut. Do 15:16, czyli po niecałych trzech godzinach od premiery, miało ok. 9,5 tys. wyświetleń, ponad 1,1 tys. polubień i ponad 300 komentarzy.",
+          "W najwyżej ocenianych komentarzach widzowie chwalą odcinek. Jeden z nich zauważa, że rekwizyt z gry pokazany w filmie przygotowano według przepisu, który wcześniej pokazywał inny twórca."
+        ],
+        "sources": [
+          {
+            "name": "YouTube Jacob: „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”",
+            "url": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Gmt4cejZmbs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Gmt4cejZmbs/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
+          "alt": "Miniatura filmu Jacoba „4 YouTuberów vs 2 najlepszych graczy w Polsce”",
+          "caption": "Miniatura omawianego filmu, w którym Jacob sprawdza, czy youtuberzy pokonają dwóch najlepszych polskich graczy Fortnite."
+        },
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Omawiany film z kanału Jacoba. Według opisu youtuberzy grają z zawodowcami w Battle Royale i Fortnite OG."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-13",
         "who": "Książulo",
         "initials": "KS",
         "category": "Biznes",
@@ -1172,45 +1205,6 @@ window.HYPERS_EDITIONS = {
         },
         "slot": "7:00",
         "noImage": "teledysk boysbandu: nie wiadomo, czy wszyscy członkowie są pełnoletni; osadzona rolka Bagiego"
-      }
-    ],
-    "czapy": [
-      {
-        "region": "pl",
-        "published": "2026-10-13",
-        "who": "Jacob",
-        "initials": "JC",
-        "category": "Gry",
-        "hype": 2,
-        "title": "Jacob wystawił 4 youtuberów przeciw 2 najlepszym polskim graczom Fortnite",
-        "summary": "W nowym filmie Jacob sprawdza, czy czterech youtuberów pokona dwóch najlepszych graczy Fortnite w Polsce. Odcinek w dwie godziny zebrał ponad 300 komentarzy.",
-        "body": [
-          "We wtorek po południu Jacob opublikował film „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”. Według opisu to test, w którym czterech twórców mierzy się z dwoma najlepszymi polskimi zawodnikami Fortnite, zarówno w Battle Royale, jak i w trybie Fortnite OG.",
-          "Nagranie trwa ok. 23 minut. Do 15:16, czyli po niecałych trzech godzinach od premiery, miało ok. 9,5 tys. wyświetleń, ponad 1,1 tys. polubień i ponad 300 komentarzy.",
-          "W najwyżej ocenianych komentarzach widzowie chwalą odcinek. Jeden z nich zauważa, że rekwizyt z gry pokazany w filmie przygotowano według przepisu, który wcześniej pokazywał inny twórca."
-        ],
-        "sources": [
-          {
-            "name": "YouTube Jacob: „4 YouTuberów vs 2 NAJLEPSZYCH GRACZY w POLSCE”",
-            "url": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/Gmt4cejZmbs/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/Gmt4cejZmbs/hqdefault.jpg",
-          "credit": "Jacob / YouTube",
-          "href": "https://www.youtube.com/watch?v=Gmt4cejZmbs",
-          "alt": "Miniatura filmu Jacoba „4 YouTuberów vs 2 najlepszych graczy w Polsce”",
-          "caption": "Miniatura omawianego filmu, w którym Jacob sprawdza, czy youtuberzy pokonają dwóch najlepszych polskich graczy Fortnite."
-        },
-        "caption": {
-          "credit": "Jacob / YouTube",
-          "text": "Omawiany film z kanału Jacoba. Według opisu youtuberzy grają z zawodowcami w Battle Royale i Fortnite OG."
-        },
-        "slot": "15:00"
       },
       {
         "region": "world",
@@ -1467,52 +1461,6 @@ window.HYPERS_EDITIONS = {
         }
       },
       {
-        "region": "pl",
-        "published": "2026-10-09",
-        "who": "Wersow i Friz",
-        "initials": "WF",
-        "category": "Rodzina",
-        "hype": 4,
-        "title": "Wersow i Friz pierwszy raz pokazali twarz synka",
-        "summary": "W nowym odcinku serii Q&A na kanale Wersow cała rodzina usiadła razem na kanapie, a widzowie po raz pierwszy zobaczyli w pełni twarz syna pary, który urodził się pod koniec lipca. Imienia chłopca wciąż nie zdradzili.",
-        "body": [
-          "Weronika „Wersow” Wiśniewska opublikowała na swoim kanale YouTube kolejny odcinek serii Q&A. Tym razem razem z Frizem wróciła do pytań, na które odpowiadali cztery lata temu, i porównała, co się od tamtej pory zmieniło w ich życiu.",
-          "W nagraniu wystąpiła cała rodzina: Wersow, Friz, ich trzyletnia córka Maja i syn, który przyszedł na świat pod koniec lipca. Chłopiec leży w ramionach mamy i to pierwszy raz, kiedy para pokazała jego twarz w całości. Wcześniej para nie pokazywała jego twarzy.",
-          "Imienia syna para nadal nie podała. Wcześniej w rozmowach z fanami padały różne propozycje, ale ostatecznego wyboru nie ogłosili.",
-          "Materiał szybko podchwyciły portale plotkarskie i rozrywkowe, które w kolejnych dniach opisywały rodzinny odcinek."
-        ],
-        "sources": [
-          {
-            "name": "Pudelek",
-            "url": "https://www.pudelek.pl/wersow-i-friz-pierwszy-raz-pokazali-twarz-synka-foto-7338187202599360a"
-          },
-          {
-            "name": "Kozaczek",
-            "url": "https://www.kozaczek.pl/wersow-i-friz-dlugo-tego-unikali-teraz-pokazali-cos-czego-fani-wczesniej-nie-widzieli/"
-          },
-          {
-            "name": "Muzotakt",
-            "url": "https://muzotakt.pl/154780/wersow-i-friz-wrocili-do-pytan-sprzed-czterech/"
-          },
-          {
-            "name": "4FUN.TV",
-            "url": "https://4fun.tv/news/wersow-friz-dziecko-syn-twarz-zdjecie"
-          },
-          {
-            "name": "YouTube Wersow: odcinek Q&A",
-            "url": "https://www.youtube.com/watch?v=IXyofZv0NWk",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=IXyofZv0NWk",
-        "caption": {
-          "credit": "Wersow / YouTube",
-          "text": "Odcinek Q&A z kanału Wersow, w którym para wraca do pytań sprzed czterech lat. To w tym nagraniu po raz pierwszy w całości widać twarz ich syna, dlatego pokazujemy oryginalny film zamiast kadru."
-        }
-      }
-    ],
-    "czapy": [
-      {
         "region": "world",
         "published": "2026-10-11",
         "slot": "15:00",
@@ -1654,6 +1602,50 @@ window.HYPERS_EDITIONS = {
           "href": "https://www.youtube.com/watch?v=K6315zmoPV8",
           "alt": "Miniatura Shorta ReZigiusza",
           "caption": "Kadr z miniatury omawianego Shorta."
+        }
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-09",
+        "who": "Wersow i Friz",
+        "initials": "WF",
+        "category": "Rodzina",
+        "hype": 4,
+        "title": "Wersow i Friz pierwszy raz pokazali twarz synka",
+        "summary": "W nowym odcinku serii Q&A na kanale Wersow cała rodzina usiadła razem na kanapie, a widzowie po raz pierwszy zobaczyli w pełni twarz syna pary, który urodził się pod koniec lipca. Imienia chłopca wciąż nie zdradzili.",
+        "body": [
+          "Weronika „Wersow” Wiśniewska opublikowała na swoim kanale YouTube kolejny odcinek serii Q&A. Tym razem razem z Frizem wróciła do pytań, na które odpowiadali cztery lata temu, i porównała, co się od tamtej pory zmieniło w ich życiu.",
+          "W nagraniu wystąpiła cała rodzina: Wersow, Friz, ich trzyletnia córka Maja i syn, który przyszedł na świat pod koniec lipca. Chłopiec leży w ramionach mamy i to pierwszy raz, kiedy para pokazała jego twarz w całości. Wcześniej para nie pokazywała jego twarzy.",
+          "Imienia syna para nadal nie podała. Wcześniej w rozmowach z fanami padały różne propozycje, ale ostatecznego wyboru nie ogłosili.",
+          "Materiał szybko podchwyciły portale plotkarskie i rozrywkowe, które w kolejnych dniach opisywały rodzinny odcinek."
+        ],
+        "sources": [
+          {
+            "name": "Pudelek",
+            "url": "https://www.pudelek.pl/wersow-i-friz-pierwszy-raz-pokazali-twarz-synka-foto-7338187202599360a"
+          },
+          {
+            "name": "Kozaczek",
+            "url": "https://www.kozaczek.pl/wersow-i-friz-dlugo-tego-unikali-teraz-pokazali-cos-czego-fani-wczesniej-nie-widzieli/"
+          },
+          {
+            "name": "Muzotakt",
+            "url": "https://muzotakt.pl/154780/wersow-i-friz-wrocili-do-pytan-sprzed-czterech/"
+          },
+          {
+            "name": "4FUN.TV",
+            "url": "https://4fun.tv/news/wersow-friz-dziecko-syn-twarz-zdjecie"
+          },
+          {
+            "name": "YouTube Wersow: odcinek Q&A",
+            "url": "https://www.youtube.com/watch?v=IXyofZv0NWk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=IXyofZv0NWk",
+        "caption": {
+          "credit": "Wersow / YouTube",
+          "text": "Odcinek Q&A z kanału Wersow, w którym para wraca do pytań sprzed czterech lat. To w tym nagraniu po raz pierwszy w całości widać twarz ich syna, dlatego pokazujemy oryginalny film zamiast kadru."
         }
       }
     ]

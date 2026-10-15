@@ -13,7 +13,7 @@
 <meta property="og:locale" content="pl_PL">
 <meta property="og:url" content="https://hypers.tech/">
 <meta property="og:title" content="Hypers – codzienne newsy o influencerach i youtuberach">
-<meta property="og:description" content="Newsy o twórcach internetowych: duże tematy, lżejsze newsy i ciekawostki z czapy. Każdy news potwierdzony w min. 3 źródłach.">
+<meta property="og:description" content="Newsy o twórcach internetowych: duże tematy, lżejsze newsy o twórcach i krótkie ciekawostki z całego internetu. Każdy news sprawdzony w kilku źródłach.">
 <meta property="og:image" content="https://hypers.tech/og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -66,7 +66,7 @@
 </main>
 
 <footer class="wrap site-foot">
-  <p><strong>Hypers</strong> wychodzi codziennie o 7:00. Każdy news sprawdzamy w co najmniej 3 źródłach.</p>
+  <p><strong>Hypers</strong> wychodzi codziennie o 7:00 i 15:00. Źródła każdego newsa podajemy pod artykułem.</p>
   <nav aria-label="Informacje"><a href="archiwum.html">Archiwum</a><a href="o-nas.html">O nas</a><a href="kontakt.html">Kontakt</a><a href="polityka-prywatnosci.html">Polityka prywatności</a><a href="regulamin.html">Regulamin</a><button class="linkbtn" id="c-open">Ustawienia cookies</button></nav>
 </footer>
 
@@ -104,7 +104,8 @@ let editions={}, selected=todayIso, calMonth=null, loaded=false, filter='all';
 const SECTIONS=[
   {key:'ryby',title:'Grube ryby',sub:'Duże tematy: analiza i kontekst'},
   {key:'drama',title:'Drama',sub:'Konflikty, afery, kontrowersje'},
-  {key:'luz',title:'Na luzie',sub:'Lżejsze newsy o twórcach'},
+  {key:'luz',title:'Na luzie',sub:'Newsy o twórcach'},
+  {key:'ciekawostki',title:'Ciekawostki',sub:'Krótko, nieoczywiście, z całego internetu'},
   {key:'czapy',title:'Z czapy',sub:'Krótko i nieoczywiście'},
   {key:'drop',title:'Dropy',sub:'Ciuchy, buty i kolaboracje'}
 ];
@@ -140,8 +141,8 @@ function showConsent(){
 }
 
 /* zdjęcia: kadr z filmu (prawo cytatu) albo materiał prasowy; wczytywane ze źródła, z zapasowym adresem przy błędzie */
-const KIND={kadr:'Kadr z filmu',ilustracja:'Zdjęcie ilustracyjne',prasowe:'Materiał prasowy'};
-const KIND_SHORT={kadr:'Kadr',ilustracja:'Zdjęcie',prasowe:'Mat. prasowe'};
+const KIND={kadr:'Kadr z filmu',ilustracja:'Zdjęcie ilustracyjne',prasowe:'Materiał prasowy',wolne:'Zdjęcie'};
+const KIND_SHORT={kadr:'Kadr',ilustracja:'Zdjęcie',prasowe:'Mat. prasowe',wolne:'Fot.'};
 function imgTag(im,eager){
   const fb=im.fallback?` onerror="this.onerror=null;this.src='${esc(safeUrl(im.fallback))}'"`:'';
   return `<img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt||'')}"${eager?'':' loading="lazy"'} referrerpolicy="no-referrer"${fb}>`;
@@ -510,8 +511,9 @@ function renderView(){
     v.innerHTML='<div class="secs">'+lists.map(l=>sectionHtml(l.sec,l.list,l===x?pin.i:-1)).join('')+'</div>';
     wireCards(ed); return;
   }
-  /* temat dnia: pierwszy news ze zdjęciem (sekcje w kolejności ryby → luz → czapy), inaczej pierwszy w ogóle */
-  const leadSec=lists.find(x=>x.list.some(hasImg))||lists.find(x=>x.list.length);
+  /* temat dnia: pierwszy news ze zdjęciem (sekcje w kolejności ryby → luz), inaczej pierwszy w ogóle; ciekawostki nie są tematem dnia, chyba że nie ma nic innego */
+  const leadable=lists.filter(x=>x.sec.key!=='ciekawostki');
+  const leadSec=leadable.find(x=>x.list.some(hasImg))||leadable.find(x=>x.list.length)||lists.find(x=>x.list.length);
   const leadIdx=leadSec?Math.max(0,leadSec.list.findIndex(hasImg)):-1;
   v.innerHTML='<div class="secs">'+lists.map(x=>sectionHtml(x.sec,x.list,x===leadSec?leadIdx:-1)).join('')+'</div>';
   wireCards(ed);
@@ -539,7 +541,7 @@ function renderArticle(date,sec,i){
 }
 let lastScroll=0;
 function route(){
-  const m=location.hash.match(/^#a-(\d{4}-\d{2}-\d{2})-(ryby|drama|luz|czapy|drop)-(\d+)$/);
+  const m=location.hash.match(/^#a-(\d{4}-\d{2}-\d{2})-(ryby|drama|luz|ciekawostki|czapy|drop)-(\d+)$/);
   if(m){ const u=urlOf(m[1],m[2],+m[3]-1); if(u){location.replace(u);return}
     if(!document.querySelector('.article')) lastScroll=window.scrollY; renderArticle(m[1],m[2],+m[3]); return }
   const wasArticle=!!document.querySelector('.article');

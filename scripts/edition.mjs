@@ -6,11 +6,15 @@
 //                                                   skrót pliku zbieracza: tylko to, co potrzebne do wyboru tematów
 //   node scripts/edition.mjs video <run.json> <video_id>
 //                                                   pełne dane jednego filmu (opis, komentarze, napisy) do napisania newsa
+//   node scripts/edition.mjs ciekawostki <run.json> [limit=60]
+//                                                   skrót kandydatów zbieracza ciekawostek (najpierw te z wolnym zdjęciem)
+//   node scripts/edition.mjs ciekawostka <run.json> <id>
+//                                                   pełne dane jednego kandydata (artykuł, zdjęcie, autor, licencja)
 //   node scripts/edition.mjs add <nowe.json> [--no-build]
 //                                                   waliduje i dopisuje newsy do wydania, potem uruchamia build.mjs
 //   node scripts/edition.mjs remove <RRRR-MM-DD>   usuwa całe wydanie dnia (np. żeby wydać je od nowa), potem build.mjs
 //
-// Format <nowe.json>: { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [], "luz": [], "czapy": [] }
+// Format <nowe.json>: { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [], "luz": [], "ciekawostki": [] }
 // Rano tworzy wydanie dnia. Po południu dopisuje newsy NA POCZĄTEK sekcji (zgodnie z CLAUDE.md).
 import fs from 'node:fs';
 import path from 'node:path';
@@ -21,8 +25,10 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const FILE = path.join(ROOT, 'data/editions.js');
 const HEADER = '// Wydania Hypers: klucz = data wydania (RRRR-MM-DD)\n';
-const SECTIONS = ['ryby', 'drama', 'luz', 'czapy', 'drop'];
-const NEW_SECTIONS = ['ryby', 'luz', 'czapy'];
+const SECTIONS = ['ryby', 'drama', 'luz', 'ciekawostki', 'czapy', 'drop'];
+const NEW_SECTIONS = ['ryby', 'luz', 'ciekawostki'];
+// wolne licencje z Wikimedia Commons (zdjęcia do Ciekawostek)
+const FREE_LICENSE = /\b(CC0|CC[ -]BY(-SA)?( \d\.\d)?|domena publiczna|public domain|PD)\b/i;
 
 // ta sama funkcja co w build.mjs (build.mjs uruchamia się przy imporcie, więc kopia)
 const PL = { ą: 'a', ć: 'c', ę: 'e', ł: 'l', ń: 'n', ó: 'o', ś: 's', ź: 'z', ż: 'z' };
@@ -59,7 +65,7 @@ function recent(days = 7) {
   for (const { date, section, n } of items(ed)) {
     if (date < from) continue;
     const yt = urlsOf(n).find(u => /youtube/.test(u)) || urlsOf(n)[0] || '';
-    console.log(`${date} ${section.padEnd(5)} ${short(n.who, 24).padEnd(24)} ${short(n.title, 90)}  ${yt}`);
+    console.log(`${date} ${section.padEnd(11)} ${short(n.who, 24).padEnd(24)} ${short(n.title, 90)}  ${yt}`);
   }
 }
 
@@ -99,27 +105,53 @@ function video(file, id) {
   console.log(JSON.stringify(v, null, 1));
 }
 
+// ---------- ciekawostki ----------
+function facts(file, limit = 60) {
+  const run = readRun(file);
+  console.log('RUN', JSON.stringify(run.run || {}));
+  console.log('STATUS', JSON.stringify(run.status || {}));
+  const list = [...(run.candidates || [])].sort((a, b) => (!!b.image - !!a.image));
+  console.log(`\nKANDYDACI (${list.length}, pokazano ${Math.min(limit, list.length)}) - id | źródło | zdjęcie | ciekawostka | artykuł`);
+  for (const c of list.slice(0, limit))
+    console.log([c.id, c.feed || c.source, c.image ? `FOT ${short(c.image.license, 14)}` : '-', short(c.hook, 200), c.article?.url || ''].join(' | '));
+}
+function fact(file, id) {
+  const c = (readRun(file).candidates || []).find(x => x.id === id);
+  if (!c) die('nie ma kandydata ' + id);
+  console.log(JSON.stringify(c, null, 1));
+}
+
 // ---------- add ----------
 function validate(n, where, date) {
   const err = [];
+  const fact = where === 'ciekawostki';
   for (const k of ['region', 'published', 'who', 'initials', 'category', 'hype', 'title', 'summary', 'body', 'sources'])
     if (n[k] === undefined || n[k] === '' ) err.push(`brak pola ${k}`);
   if (n.region && !['pl', 'world'].includes(n.region)) err.push('region musi być pl albo world');
   if (n.hype && !(n.hype >= 1 && n.hype <= 5)) err.push('hype 1–5');
-  if (n.body && (!Array.isArray(n.body) || n.body.length < 2)) err.push('body = tablica akapitów (3–5)');
+  if (n.body && (!Array.isArray(n.body) || n.body.length < (fact ? 1 : 2))) err.push(fact ? 'body = tablica 1–2 krótkich akapitów' : 'body = tablica akapitów (3–5)');
+  if (fact && Array.isArray(n.body) && n.body.length > 2) err.push('ciekawostka: maks. 2 akapity w body');
+  if (fact && n.title && n.title.length > 110) err.push('ciekawostka: tytuł maks. 110 znaków (krótko i konkretnie)');
+  if (fact && Array.isArray(n.sources) && n.sources.length < 2) err.push('ciekawostka: min. 2 niezależne źródła');
   if (n.published && !/^\d{4}-\d{2}-\d{2}$/.test(n.published)) err.push('published w formacie RRRR-MM-DD');
   if (n.published && n.published > date) err.push('published późniejsze niż data wydania');
   if (!Array.isArray(n.sources) || !n.sources.length) err.push('sources nie może być puste');
   else n.sources.forEach((s, i) => { if (!/^https?:\/\//.test(s.url || '')) err.push(`sources[${i}].url niepoprawny`); });
   if (n.image) {
-    if (!['kadr', 'prasowe'].includes(n.image.kind)) err.push('image.kind tylko kadr albo prasowe (bez ilustracji)');
+    if (!['kadr', 'prasowe', 'wolne'].includes(n.image.kind)) err.push('image.kind tylko kadr, prasowe albo wolne (bez ilustracji)');
     for (const k of ['src', 'credit', 'href', 'alt', 'caption']) if (!n.image[k]) err.push(`image.${k} wymagane`);
+    if (n.image.kind === 'wolne') {
+      if (!/^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\//.test(n.image.src || '')) err.push('image wolne: src tylko z upload.wikimedia.org/wikipedia/commons/');
+      if (!/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/.test(n.image.href || '')) err.push('image wolne: href = strona pliku commons.wikimedia.org/wiki/File:…');
+      if (!FREE_LICENSE.test(n.image.credit || '')) err.push('image wolne: credit musi zawierać autora i licencję, np. „Jan Kowalski / Wikimedia Commons, CC BY-SA 4.0”');
+    }
   }
   if ((n.image || n.embed) && !n.caption) err.push('brak caption przy materiale');
   // zdjęcie jest priorytetem: film z YouTube w źródłach = obowiązkowy kadr, chyba że podano powód w noImage
   const ytId = [n.embed, ...(n.sources || []).map(x => x.url)].filter(Boolean)
     .map(u => (u.match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|live\/)|youtu\.be\/)([\w-]{11})/) || [])[1]).find(Boolean);
-  if (!n.image && !n.noImage) err.push(ytId
+  if (fact && !n.image) err.push('ciekawostka bez grafiki nie wchodzi: dodaj image (wolne z Commons, kadr albo prasowe) albo wybierz inną');
+  else if (!n.image && !n.noImage) err.push(ytId
     ? `brak image: dodaj kadr z filmu ${ytId} (i.ytimg.com/vi/${ytId}/maxresdefault.jpg) albo pole noImage z powodem`
     : 'brak image: znajdź film/post twórcy lub zdjęcie prasowe; jeśli nie ma legalnego, dodaj embed i pole noImage z powodem');
   return err.map(e => `${where} „${short(n.title, 50)}”: ${e}`);
@@ -135,17 +167,18 @@ function add(file, build = true) {
   const known = new Map();
   for (const { date: d, n } of items(ed)) {
     known.set('t:' + slugify(n.title), `${d} „${short(n.title, 60)}”`);
-    for (const u of urlsOf(n).filter(u => /youtube\.com\/watch|\/status\/|\/p\/|\/reel\/|\/video\//.test(u)))
+    for (const u of urlsOf(n).filter(u => /youtube\.com\/watch|\/status\/|\/p\/|\/reel\/|\/video\/|wikipedia\.org\/wiki\//.test(u)))
       known.set('u:' + u, `${d} „${short(n.title, 60)}”`);
   }
   const errors = [], dupes = [];
-  // limit zagranicy dotyczy twórców w Na luzie i Z czapy; Grube ryby (duże tematy, np. premiery gier) się nie liczą
-  let worldToday = ed[date] ? SECTIONS.filter(s => s !== 'ryby').flatMap(s => ed[date][s] || []).filter(n => n.region === 'world').length : 0;
+  // limit zagranicy dotyczy twórców w Na luzie; Grube ryby (duże tematy) i Ciekawostki się nie liczą
+  const COUNTED = s => !['ryby', 'ciekawostki'].includes(s);
+  let worldToday = ed[date] ? SECTIONS.filter(COUNTED).flatMap(s => ed[date][s] || []).filter(n => n.region === 'world').length : 0;
   for (const s of NEW_SECTIONS) for (const n of inc[s] || []) {
     errors.push(...validate(n, s, date));
     const hit = known.get('t:' + slugify(n.title)) || urlsOf(n).map(u => known.get('u:' + u)).find(Boolean);
     if (hit) dupes.push(`„${short(n.title, 60)}” powtarza ${hit}`);
-    if (n.region === 'world' && s !== 'ryby') worldToday++;
+    if (n.region === 'world' && COUNTED(s)) worldToday++;
   }
   for (const k of Object.keys(inc)) if (!['date', 'slot', ...NEW_SECTIONS].includes(k)) errors.push(`nieznany klucz ${k}`);
   if (dupes.length) errors.push(...dupes.map(d => 'duplikat: ' + d));
@@ -155,7 +188,7 @@ function add(file, build = true) {
   const count = NEW_SECTIONS.reduce((a, s) => a + (inc[s] || []).length, 0);
   if (!count) die('brak newsów do dopisania');
   if (!ed[date]) {
-    const fresh = { date, ryby: [], luz: [], czapy: [] };
+    const fresh = { date, ryby: [], luz: [], ciekawostki: [] };
     for (const s of NEW_SECTIONS) fresh[s] = (inc[s] || []).map(n => ({ ...n, slot }));
     const next = { [date]: fresh };
     for (const k of Object.keys(ed)) next[k] = ed[k];
@@ -188,6 +221,8 @@ const [cmd, a, b] = process.argv.slice(2);
 if (cmd === 'recent') recent(Number(a) || 7);
 else if (cmd === 'digest') digest(a, Number(b) || 40);
 else if (cmd === 'video') video(a, b);
+else if (cmd === 'ciekawostki') facts(a, Number(b) || 60);
+else if (cmd === 'ciekawostka') fact(a, b);
 else if (cmd === 'add') add(a, !process.argv.includes('--no-build'));
 else if (cmd === 'remove') remove(a);
-else die('użycie: recent | digest <run.json> | video <run.json> <id> | add <nowe.json> | remove <data>');
+else die('użycie: recent | digest <run.json> | video <run.json> <id> | ciekawostki <run.json> | ciekawostka <run.json> <id> | add <nowe.json> | remove <data>');

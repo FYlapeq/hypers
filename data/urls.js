@@ -8,15 +8,13 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-15/rezigiusz-wypuszcza-kolejny-smak-snacky-chicken-bites.html",
    "artykuly/2026-10-15/major-spz-wydaje-singiel-serce-na-tacy.html",
    "artykuly/2026-10-15/patix-pokazuje-jesienna-rutyne-z-piecioraczkami-w-brookhaven.html",
-   "artykuly/2026-10-15/ksiazulo-wraca-do-kuli-kebabuli-nowy-odcinek-z-pepsi-ma-ponad-pol.html",
-   "artykuly/2026-10-15/graf-gra-w-krillion-im-rzadsza-odpowiedz-tym-wiecej-punktow.html",
-   "artykuly/2026-10-15/dizowskyy-wraca-do-babci-w-granny-3-jest-nowe-zakonczenie-i-lodz.html",
-   "artykuly/2026-10-15/young-multi-wydaje-pierwszy-utwor-na-nopixel-i-podpisuje-kontrakt.html"
-  ],
-  "czapy": [
    "artykuly/2026-10-15/torii-tlumaczy-ktora-trumne-wybrac-w-halloweenowym-evencie-brawl-stars.html",
    "artykuly/2026-10-15/dobrodziej-sprawdza-ocalalych-na-punkcie-kwarantanny-w-miami.html",
    "artykuly/2026-10-15/foltyn-wraca-do-steal-a-brainrot-ponad-200-tys-wyswietlen-w-kilka.html",
+   "artykuly/2026-10-15/ksiazulo-wraca-do-kuli-kebabuli-nowy-odcinek-z-pepsi-ma-ponad-pol.html",
+   "artykuly/2026-10-15/graf-gra-w-krillion-im-rzadsza-odpowiedz-tym-wiecej-punktow.html",
+   "artykuly/2026-10-15/dizowskyy-wraca-do-babci-w-granny-3-jest-nowe-zakonczenie-i-lodz.html",
+   "artykuly/2026-10-15/young-multi-wydaje-pierwszy-utwor-na-nopixel-i-podpisuje-kontrakt.html",
    "artykuly/2026-10-15/jynxzi-zebral-40-streamerow-na-turniej-w-league-of-legends-ludwig.html",
    "artykuly/2026-10-15/gameranx-zbiera-nowe-informacje-o-gta-6-po-pokazie-rockstara-dla-prasy.html",
    "artykuly/2026-10-15/strojny-streszcza-dwa-tygodnie-w-tibii-w-20-minut.html"
@@ -27,9 +25,7 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-14/valor-mortis-od-tworcow-ghostrunnera-juz-w-sprzedazy-tivolt-i-tamae.html",
    "artykuly/2026-10-14/kaluch-jedzie-przez-cala-mape-gta-v-ale-nikt-nie-moze-sie-zasmiac.html",
    "artykuly/2026-10-14/skrimi-wraca-do-the-long-drive-tym-razem-przy-minus-50-stopniach.html",
-   "artykuly/2026-10-14/rafciusa-sklada-w-fc27-druzyne-z-samych-reprezentantow-polski-u21.html"
-  ],
-  "czapy": [
+   "artykuly/2026-10-14/rafciusa-sklada-w-fc27-druzyne-z-samych-reprezentantow-polski-u21.html",
    "artykuly/2026-10-14/blowek-ostrzega-przed-winogronami-w-mikrofalowce.html",
    "artykuly/2026-10-14/nowa-castlevania-u-theradbrada-ponad-300-tys-wyswietlen-w-dobe.html",
    "artykuly/2026-10-14/kreekcraft-o-nowej-opcji-w-robloksie-tworcy-gier-moga-zamknac-funkcje.html"
@@ -40,13 +36,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-13/wojan-ma-w-zabce-halloweenowe-wojanki-oglosil-je-pod-nowym-odcinkiem.html",
    "artykuly/2026-10-13/kizo-odpowiada-peji-po-odmowie-wspolnego-numeru-troche-mi-sie-zrobilo.html",
    "artykuly/2026-10-13/popek-i-malolat-k2-koncza-dziesiecioletni-konflikt-wspolnym-numerem.html",
+   "artykuly/2026-10-13/jacob-wystawil-4-youtuberow-przeciw-2-najlepszym-polskim-graczom.html",
    "artykuly/2026-10-13/ksiazulo-po-premierze-mrozonej-pizzy-muala-kanal-traci-subskrybentow.html",
    "artykuly/2026-10-13/young-multi-znowu-nasladuje-polskie-memy-druga-czesc-mimic-party.html",
    "artykuly/2026-10-13/dominik-rupinski-z-39-punktami-za-salse-w-tancu-z-gwiazdami.html",
-   "artykuly/2026-10-13/bagi-zagral-na-narodowym-z-boysbandem-i-zapowiedzial-numer-z-blanka.html"
-  ],
-  "czapy": [
-   "artykuly/2026-10-13/jacob-wystawil-4-youtuberow-przeciw-2-najlepszym-polskim-graczom.html",
+   "artykuly/2026-10-13/bagi-zagral-na-narodowym-z-boysbandem-i-zapowiedzial-numer-z-blanka.html",
    "artykuly/2026-10-13/gothamchess-kazal-zagrac-w-szachy-dwom-modelom-ai-film-ma-ponad-600.html",
    "artykuly/2026-10-13/ksi-placi-1000-dolarow-za-rozsmieszenie-go-tym-razem-w-wersji.html",
    "artykuly/2026-10-13/gta-5-na-pieciu-generacjach-konsol-moreletv-i-zmaslo-sprawdzaja-jak.html",
@@ -57,13 +51,11 @@ window.HYPERS_URLS = {
   "luz": [
    "artykuly/2026-10-12/ksiazulo-wraca-z-recenzja-po-aferze-z-pizza-prawie-milion-wyswietlen.html",
    "artykuly/2026-10-12/klamczuch-influencerow-3-na-kanale-ekipa-wk-800-tys-wyswietlen.html",
-   "artykuly/2026-10-12/wersow-i-friz-pierwszy-raz-pokazali-twarz-synka.html"
-  ],
-  "czapy": [
    "artykuly/2026-10-12/ishowspeed-zmierzyl-sie-z-kwaracchelia-na-niedzielnym-streamie.html",
    "artykuly/2026-10-12/sidemen-w-wyzwaniu-z-autami-za-2000-funtow.html",
    "artykuly/2026-10-12/blowek-znowu-testuje-lifehacki-wymyslone-przez-ai.html",
-   "artykuly/2026-10-12/rezigiusz-urzadzil-walke-gruchotow.html"
+   "artykuly/2026-10-12/rezigiusz-urzadzil-walke-gruchotow.html",
+   "artykuly/2026-10-12/wersow-i-friz-pierwszy-raz-pokazali-twarz-synka.html"
   ]
  },
  "2026-10-11": {
