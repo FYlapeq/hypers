@@ -11,13 +11,13 @@ Każdy nowy news z wydania trafia na Instagram jako osobny post: karta 1080×135
 
 ## Konfiguracja (raz)
 1. **Konto IG**: załóż konto Hypers i przełącz je na konto **profesjonalne** (Ustawienia → Typ konta i narzędzia → Przełącz na konto profesjonalne → Twórca albo Firma).
-2. **Aplikacja Meta**: na developers.facebook.com → My Apps → Create App → przypadek użycia „Manage messaging & content on Instagram”. W sekcji *Instagram → API setup with Instagram business login* dodaj konto Hypers jako testera/właściciela i wygeneruj token dostępu (uprawnienia `instagram_business_basic`, `instagram_business_content_publish`). Aplikacja może zostać w trybie deweloperskim, bo publikuje tylko na Twoje konto.
-3. **ID konta**: w tym samym panelu przy wygenerowanym tokenie widać ID konta Instagram (liczba).
-4. **Sekrety repo** (Settings → Secrets and variables → Actions → Secrets):
-   - `IG_TOKEN`: token z punktu 2 (ważny 60 dni, odświeżany co tydzień automatycznie),
-   - `IG_USER_ID`: ID z punktu 3,
-   - `IG_SECRETS_PAT`: fine-grained token GitHub tylko dla repo `FYlapeq/hypers` z uprawnieniem **Secrets: Read and write** (potrzebny do zapisu odświeżonego tokenu).
-5. **Próba**: Actions → Instagram → Run workflow → tryb `proba`. Pobierz artefakt `instagram-podglad`: karty i `podglad.md` z opisami.
+2. **Aplikacja Meta**: na developers.facebook.com/apps → **Create App** → przypadek użycia **Other** → typ **Business** → nazwa (np. „Hypers IG”) i e-mail. Na liście produktów przy **Instagram** kliknij **Set up**.
+3. **Token**: w *Instagram → API setup with Instagram login* w kroku **Generate access tokens** dodaj konto Hypers (musi być publiczne), zaloguj się nim i skopiuj wygenerowany token. Aplikacja zostaje w trybie deweloperskim, bo publikuje tylko na konto, które ma w niej rolę.
+4. **Sekrety repo** (Settings → Secrets and variables → Actions → Secrets → New repository secret):
+   - `IG_TOKEN`: token z punktu 3 (ważny 60 dni, workflow odświeża go co poniedziałek),
+   - `IG_SECRETS_PAT`: fine-grained token GitHub (github.com/settings/personal-access-tokens) tylko dla repo `FYlapeq/hypers`, uprawnienie **Secrets: Read and write**. Bez niego token wygaśnie po 60 dniach.
+   - `IG_USER_ID` jest opcjonalny: skrypt sam ustala konto z tokenu.
+5. **Próba**: Actions → Instagram → Run workflow → tryb `proba`. Karty i `podglad.md` z opisami pojawią się na gałęzi `instagram-podglad`.
 6. **Włączenie**: Settings → Secrets and variables → Actions → **Variables** → `IG_WLACZONY` = `1`.
 
 ## Zmienne (Variables, opcjonalne)

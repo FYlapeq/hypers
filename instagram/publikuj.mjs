@@ -178,7 +178,13 @@ async function main() {
     return;
   }
 
-  if (!env.IG_TOKEN || !env.IG_USER_ID) throw new Error('Brak IG_TOKEN lub IG_USER_ID w sekretach repo.');
+  if (!env.IG_TOKEN) throw new Error('Brak sekretu IG_TOKEN w repo.');
+  // IG_USER_ID jest opcjonalny: bez niego pytamy API, do kogo należy token.
+  if (!env.IG_USER_ID) {
+    const ja = await api('me', { params: { fields: 'user_id,username' } });
+    env.IG_USER_ID = ja.user_id;
+    log(`Konto: @${ja.username} (${ja.user_id})`);
+  }
   const sha = commitStanu(`Instagram: karty (${nowe.length})`);
   let wolne = await wolnyLimit();
   let bledy = 0;
