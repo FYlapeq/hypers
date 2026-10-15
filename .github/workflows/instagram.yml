@@ -1,0 +1,109 @@
+# Automatyczne posty na Instagramie: każdy nowy news z wydania = jeden post (karta + treść newsa).
+# Konfiguracja i instrukcja: instagram/README.md
+name: Instagram
+on:
+  push:
+    branches: [main]
+    paths: ['data/urls.js']          # urls.js zmienia się przy każdym nowym wydaniu (build.mjs)
+  workflow_dispatch:
+    inputs:
+      tryb:
+        description: "proba = tylko karty i opisy do obejrzenia (bez publikacji), publikuj = normalne działanie"
+        type: choice
+        options: ["proba", "publikuj"]
+        default: "proba"
+      dzien:
+        description: "Dla trybu proba: dzień do podglądu (RRRR-MM-DD), puste = najnowsze wydanie"
+        type: string
+        required: false
+  schedule:
+    - cron: '17 3 * * 1'             # poniedziałek: odświeżenie tokenu (ważny 60 dni)
+permissions:
+  contents: write
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  posty:
+    if: github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_WARIANT: ${{ vars.IG_WARIANT || 'e' }}
+      IG_ODSTEP_MIN: ${{ vars.IG_ODSTEP_MIN || '3' }}
+      IG_KADRY: ${{ vars.IG_KADRY || '1' }}
+      IG_WLACZONY: ${{ vars.IG_WLACZONY || '0' }}
+      DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.tryb == 'proba') && '1' || '0' }}
+      STAN_DIR: ${{ github.workspace }}/ig-stan
+    steps:
+      - name: Wyłącznik
+        if: env.DRY_RUN != '1' && env.IG_WLACZONY != '1'
+        run: |
+          echo "Publikacja wyłączona. Ustaw zmienną repo IG_WLACZONY=1 (Settings → Secrets and variables → Actions → Variables)." >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/checkout@v4
+        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        with:
+          ref: main                    # najnowszy main (także po commicie bota ze stronami artykułów)
+      - uses: actions/setup-node@v4
+        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: instagram/package-lock.json
+      - name: Zależności i Chromium
+        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        working-directory: instagram
+        run: |
+          npm ci --no-audit --no-fund
+          npx playwright install --with-deps chromium
+      - name: Stan z gałęzi instagram (świeża gałąź bez historii)
+        if: env.DRY_RUN == '1' || env.IG_WLACZONY == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$STAN_DIR" && cd "$STAN_DIR"
+          git init -q -b instagram
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin instagram; then
+            git checkout -q FETCH_HEAD -- opublikowane.json && echo "Stan wczytany." || echo "Brak pliku stanu."
+          else
+            echo "Gałąź instagram jeszcze nie istnieje: pierwsze uruchomienie oznaczy archiwum jako pominięte."
+          fi
+      - name: Podgląd (tryb próba)
+        if: env.DRY_RUN == '1'
+        env:
+          DZIEN: ${{ inputs.dzien }}
+        run: |
+          D="${DZIEN:-$(node -e "const v=require('vm'),c={window:{}};v.runInNewContext(require('fs').readFileSync('data/editions.js','utf8'),c);console.log(Object.keys(c.window.HYPERS_EDITIONS).sort().at(-1))")}"
+          IG_PODGLAD_DATA="$D" node instagram/publikuj.mjs
+          echo "Podgląd kart z dnia $D: pobierz artefakt **instagram-podglad** poniżej." >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: env.DRY_RUN == '1'
+        with:
+          name: instagram-podglad
+          path: ig-stan/karty/
+          retention-days: 7
+      - name: Publikacja
+        if: env.DRY_RUN != '1' && env.IG_WLACZONY == '1'
+        run: node instagram/publikuj.mjs
+
+  token:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Odśwież token Instagrama
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.IG_SECRETS_PAT }}
+        run: |
+          if [ -z "$IG_TOKEN" ] || [ -z "$GH_TOKEN" ]; then echo "Brak IG_TOKEN albo IG_SECRETS_PAT, pomijam."; exit 0; fi
+          NOWY=$(curl -fsS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_TOKEN}" | jq -r .access_token)
+          if [ -z "$NOWY" ] || [ "$NOWY" = "null" ]; then echo "::error::Nie udało się odświeżyć tokenu"; exit 1; fi
+          echo "::add-mask::$NOWY"
+          gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" --body "$NOWY"
+          echo "Token odświeżony." >> "$GITHUB_STEP_SUMMARY"

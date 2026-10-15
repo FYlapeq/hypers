@@ -1,0 +1,9 @@
+{
+  "name": "hypers-instagram",
+  "private": true,
+  "type": "module",
+  "description": "Automatyczne posty Hypers na Instagram",
+  "dependencies": {
+    "playwright": "1.56.0"
+  }
+}
