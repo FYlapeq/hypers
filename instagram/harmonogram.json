@@ -1,20 +1,28 @@
 {
-  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Jedna karuzela na godzinę z listy: newsow_w_poscie newsów (każdy na osobnym slajdzie) + slajd z prośbą o follow. Karuzela wychodzi tylko pełna; przy mniejszej liczbie newsów z miniaturą slot jest pusty, a newsy czekają na następny. 'wyjatki' nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany. Gdy świeżych newsów z kadrem jest za mało, karuzelę dopełniają nieopublikowane ciekawostki z ostatnich dni_zapasu_ciekawostek dni.",
+  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Co godzinę jedna karuzela: newsow_w_poscie kart (min. 3) + slajd z prośbą o follow. Posty na zmianę: newsy (Grube ryby i Na luzie), potem ciekawostki; gdy wybranego rodzaju jest za mało na pełną karuzelę, idzie drugi rodzaj, a gdy obu brakuje, slot jest pusty i treści czekają. Ciekawostki biorą też nieopublikowane z ostatnich dni_zapasu_ciekawostek dni. wyjatki nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany (żeby zaległe godziny nie wychodziły jedna po drugiej). follow_tekst = podpis na slajdzie follow.",
   "godziny": [
+    "08:00",
     "09:00",
+    "10:00",
+    "11:00",
+    "12:00",
+    "13:00",
+    "14:00",
+    "15:00",
     "16:00",
-    "20:00"
+    "17:00",
+    "18:00",
+    "19:00",
+    "20:00",
+    "21:00",
+    "22:00",
+    "23:00"
   ],
-  "wyjatki": {
-    "2026-10-16": [
-      "00:18",
-      "09:00",
-      "16:00",
-      "20:00"
-    ]
-  },
-  "newsow_w_poscie": 5,
-  "maks_opoznienie_min": 90,
+  "wyjatki": {},
+  "newsow_w_poscie": 3,
+  "maks_opoznienie_min": 50,
   "dni_wstecz": 1,
-  "dni_zapasu_ciekawostek": 14
+  "dni_zapasu_ciekawostek": 14,
+  "na_zmiane": true,
+  "follow_tekst": "Nowe posty co godzinę, 8:00–23:00"
 }

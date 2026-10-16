@@ -265,8 +265,8 @@ export async function pobierzKadr(news) {
 }
 
 // Ostatni slajd karuzeli: prośba o follow (algorytm może już nie pokazać kolejnego posta).
-export function htmlFollow({ godziny = [] } = {}) {
-  const kiedy = godziny.length ? `Codziennie ${godziny.map((g) => g.replace(/^0/, '')).join(' · ')}` : 'Nowe newsy codziennie';
+export function htmlFollow({ godziny = [], tekst } = {}) {
+  const kiedy = tekst || (godziny.length ? `Codziennie ${godziny.map((g) => g.replace(/^0/, '')).join(' · ')}` : 'Nowe newsy codziennie');
   return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}
 .card{background:#0b1620;color:#fff;padding:72px 72px 64px}
 .ghost{position:absolute;right:-60px;bottom:-40px;font:400 560px/.8 "Anton";color:rgba(255,201,176,.06);pointer-events:none}

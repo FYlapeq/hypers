@@ -1,4 +1,4 @@
-// Publikuje nowe newsy Hypers na Instagramie. Tryb slot (domyślny): karuzela = 5 newsów (każdy na osobnej karcie
+// Publikuje nowe newsy Hypers na Instagramie. Tryb slot (domyślny): karuzela = newsow_w_poscie (3) newsów albo ciekawostek na zmianę (każdy na osobnej karcie
 // JPEG 1080x1350) + slajd końcowy z prośbą o follow, jeden opis z listą newsów. IG_TYLKO: jeden news = jeden post.
 // Uruchamiane przez .github/workflows/instagram.yml po każdym nowym wydaniu.
 //
@@ -78,9 +78,13 @@ export function opisKaruzeli(lista) {
   const zrodla = [...new Set(lista.flatMap((x) => (x.news.sources ?? []).map((s) => s.name)))].join(', ');
   const kadry = [...new Set(lista.map((x) => x.news.image?.credit).filter(Boolean))].join(', ');
   const tagi = [...new Set(lista.flatMap((x) => hashtagi(x.news, x.sekcja).split(' ')))];
-  const glowa = lista.some((x) => x.sekcja === 'ciekawostki')
-    ? `${lista.length} newsów i ciekawostek, przesuń w bok ➡️`
-    : `${lista.length} newsów, przesuń w bok ➡️`;
+  const ciek = lista.filter((x) => x.sekcja === 'ciekawostki').length;
+  const ile = (n, [jeden, kilka, wiele]) => `${n} ${n === 1 ? jeden : [2, 3, 4].includes(n % 10) && ![12, 13, 14].includes(n % 100) ? kilka : wiele}`;
+  const glowa = ciek === lista.length
+    ? `${ile(lista.length, ['ciekawostka', 'ciekawostki', 'ciekawostek'])}, przesuń w bok ➡️`
+    : ciek
+      ? `${lista.length} newsów i ciekawostek, przesuń w bok ➡️`
+      : `${ile(lista.length, ['news', 'newsy', 'newsów'])} ze świata twórców, przesuń w bok ➡️`;
   const stopka = [
     'Zostaw follow @hypers.tech, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
     '',
@@ -216,8 +220,8 @@ export function kandydaciSlotu(E, U, stan, dzien) {
     dnia.sort((a, b) => b.popol - a.popol || a.poz - b.poz);
     out.push(...dnia);
   }
-  // Zapas, żeby żaden slot nie został pusty: ciekawostki są ponadczasowe, więc gdy świeżych newsów z kadrem
-  // zabraknie, karuzelę dopełniają nieopublikowane ciekawostki z ostatnich `dni_zapasu_ciekawostek` dni.
+  // Zapas: ciekawostki są ponadczasowe, więc do kolejki ciekawostek dochodzą też nieopublikowane
+  // z ostatnich `dni_zapasu_ciekawostek` dni (bez na_zmiane dopełniają karuzelę newsów).
   const zapasDni = harmonogram().dni_zapasu_ciekawostek ?? 14;
   const juz = new Set(out.map((x) => x.sciezka));
   const starsze = Object.keys(E).sort().filter((d) => d <= dzien && !daty.includes(d)).slice(-zapasDni).reverse();
@@ -228,6 +232,21 @@ export function kandydaciSlotu(E, U, stan, dzien) {
       out.push({ data, sekcja: 'ciekawostki', news, sciezka, zapas: true });
   });
   return out;
+}
+
+// Rodzaj posta: 'newsy' (Grube ryby, Na luzie) albo 'ciekawostki'.
+export const rodzaj = (x) => (x.sekcja === 'ciekawostki' ? 'ciekawostki' : 'newsy');
+
+// Przy na_zmiane: rodzaj przeciwny do ostatniej opublikowanej karuzeli (starsze sloty bez pola typ
+// rozpoznajemy po sekcjach ich newsów; mieszane liczą się jako newsy). Zwraca kolejność prób.
+export function kolejnoscRodzajow(stan, sekcjaSciezki) {
+  const ostatni = Object.entries(stan?.sloty ?? {}).filter(([, s]) => s.media_id).sort(([a], [b]) => a.localeCompare(b)).at(-1)?.[1];
+  let typ = ostatni?.typ;
+  if (!typ && ostatni) {
+    const sciezki = ostatni.sciezki ?? [ostatni.sciezka].filter(Boolean);
+    typ = sciezki.length && sciezki.every((s) => sekcjaSciezki.get(s) === 'ciekawostki') ? 'ciekawostki' : 'newsy';
+  }
+  return typ === 'newsy' ? ['ciekawostki', 'newsy'] : ['newsy', 'ciekawostki'];
 }
 
 // ---------- główny przebieg ----------
@@ -276,15 +295,34 @@ async function main() {
   const { renderuj } = await import('./karta.mjs');
 
   // Tylko prawdziwy kadr: renderujemy po kolei i odrzucamy newsy, dla których miniatury nie udało się pobrać.
-  const nowe = [];
-  for (const x of kandydaci) {
-    if (nowe.length >= limit) break;
-    const nr = karuzela ? `${nowe.length + 1}/${W_POSCIE}` : null;
-    const [w] = await renderuj([{ ...x, wariant: WARIANT, nr, plik: join(kartyDir, nazwa(x)) }]);
-    if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
-    x.zKadrem = true;
-    x.opis = opis(x.news, { zKadrem: true, sekcja: x.sekcja });
-    nowe.push(x);
+  const wybierz = async (lista) => {
+    const wynik = [];
+    for (const x of lista) {
+      if (wynik.length >= limit) break;
+      const nr = karuzela ? `${wynik.length + 1}/${W_POSCIE}` : null;
+      const [w] = await renderuj([{ ...x, wariant: WARIANT, nr, plik: join(kartyDir, nazwa(x)) }]);
+      if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
+      x.zKadrem = true;
+      x.opis = opis(x.news, { zKadrem: true, sekcja: x.sekcja });
+      wynik.push(x);
+    }
+    return wynik;
+  };
+  let nowe = [];
+  let typ = null;
+  if (karuzela && harmonogram().na_zmiane) {
+    // Na zmianę: newsy albo ciekawostki w jednej karuzeli. Gdy wybranego rodzaju nie starczy na pełną karuzelę,
+    // próbujemy drugiego; karty odrzuconej próby kasujemy.
+    const sekcjaSciezki = new Map(wszystkie.map((x) => [x.sciezka, x.sekcja]));
+    for (const t of kolejnoscRodzajow(stan, sekcjaSciezki)) {
+      const proba = await wybierz(kandydaci.filter((x) => rodzaj(x) === t));
+      if (proba.length >= W_POSCIE) { nowe = proba; typ = t; break; }
+      log(`Za mało (${proba.length}/${W_POSCIE}) z kadrem w rodzaju „${t}”.`);
+      for (const x of proba) rmSync(join(kartyDir, nazwa(x)), { force: true });
+      if (proba.length > nowe.length) nowe = proba;
+    }
+  } else {
+    nowe = await wybierz(kandydaci);
   }
   if (!nowe.length) {
     log('Brak newsa z oryginalną miniaturą do publikacji.');
@@ -301,7 +339,7 @@ async function main() {
       log(`Za mało newsów z miniaturą na karuzelę: ${nowe.length}/${W_POSCIE}. Czekają na następny slot.`);
       if (!DRY) { stan.sloty ??= {}; stan.sloty[slot.klucz] = { brak: `za mało newsów (${nowe.length}/${W_POSCIE})` }; zapiszStan(stan); commitStanu(`Instagram: slot ${slot.klucz} pusty`); return; }
     }
-    await renderuj([{ follow: true, godziny: harmonogram().godziny, plik: join(kartyDir, FOLLOW) }]);
+    await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: harmonogram().follow_tekst, plik: join(kartyDir, FOLLOW) }]);
     opisK = opisKaruzeli(nowe);
   }
 
@@ -333,7 +371,7 @@ async function main() {
       const kiedy = new Date().toISOString();
       for (const x of nowe) stan.opublikowane[x.sciezka] = { media_id: id, kiedy, slot: slot.klucz };
       stan.sloty ??= {};
-      stan.sloty[slot.klucz] = { sciezki: nowe.map((x) => x.sciezka), media_id: id };
+      stan.sloty[slot.klucz] = { sciezki: nowe.map((x) => x.sciezka), media_id: id, ...(typ && { typ }) };
       log(`✓ karuzela ${slot.klucz} (${nowe.length} newsów) → ${id}`);
     } catch (e) {
       log(`✗ karuzela ${slot.klucz}: ${e.message}`);
