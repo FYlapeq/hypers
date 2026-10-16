@@ -205,7 +205,21 @@ async function wolnyLimit() {
 // Kandydaci na slot: newsy z dnia slotu i `dni_wstecz` dni wcześniej, bez publikacji na IG
 // (oznaczenie „archiwum sprzed startu” się nie liczy). Kolejność: najnowszy dzień, popołudniowa porcja
 // przed poranną, potem kolejność ze strony (temat dnia pierwszy).
+// Treści dla dzieci (Roblox, Minecraft itp.) i ręcznie wykluczone artykuły nigdy nie idą na IG.
+export function dlaDzieci(news, h = harmonogram()) {
+  const tekst = [news.title, news.summary, news.category, news.who].filter(Boolean).join(' ').toLowerCase();
+  return (h.bez_dla_dzieci ?? []).some((slowo) => tekst.includes(slowo.toLowerCase()));
+}
+const wykluczony = (x, h = harmonogram()) => (h.wykluczone ?? []).includes(x.sciezka) || dlaDzieci(x.news, h);
+
 export function kandydaciSlotu(E, U, stan, dzien) {
+  return kandydaciBezFiltra(E, U, stan, dzien).filter((x) => {
+    if (wykluczony(x)) { console.log(`– pomijam na IG (treść dla dzieci albo wykluczona): ${x.news.title}`); return false; }
+    return true;
+  });
+}
+
+function kandydaciBezFiltra(E, U, stan, dzien) {
   const dni = harmonogram().dni_wstecz ?? 1;
   const daty = Object.keys(E).sort().filter((d) => d <= dzien).slice(-(dni + 1)).reverse();
   const out = [];

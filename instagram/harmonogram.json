@@ -1,5 +1,5 @@
 {
-  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Co godzinę jedna karuzela: newsow_w_poscie kart (min. 3) + slajd z prośbą o follow. Posty na zmianę: newsy (Grube ryby i Na luzie), potem ciekawostki; gdy wybranego rodzaju jest za mało na pełną karuzelę, idzie drugi rodzaj, a gdy obu brakuje, slot jest pusty i treści czekają. Ciekawostki biorą też nieopublikowane z ostatnich dni_zapasu_ciekawostek dni. wyjatki nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany (żeby zaległe godziny nie wychodziły jedna po drugiej). follow_tekst = podpis na slajdzie follow.",
+  "_opis": "Godziny postów na IG (czas Europe/Warsaw). Co godzinę jedna karuzela: newsow_w_poscie kart (min. 3) + slajd z prośbą o follow. Posty na zmianę: newsy (Grube ryby i Na luzie), potem ciekawostki; gdy wybranego rodzaju jest za mało na pełną karuzelę, idzie drugi rodzaj, a gdy obu brakuje, slot jest pusty i treści czekają. Ciekawostki biorą też nieopublikowane z ostatnich dni_zapasu_ciekawostek dni. wyjatki nadpisują listę dla konkretnego dnia. Post spóźniony o więcej niż maks_opoznienie_min jest pomijany (żeby zaległe godziny nie wychodziły jedna po drugiej). follow_tekst = podpis na slajdzie follow. bez_dla_dzieci = słowa (w tytule, leadzie, kategorii albo nazwie twórcy), które wykluczają news z IG, bo to treści dla dzieci (zasada Profilu tematycznego). wykluczone = ścieżki artykułów, które nigdy nie idą na IG.",
   "godziny": [
     "08:00",
     "09:00",
@@ -24,5 +24,18 @@
   "dni_wstecz": 1,
   "dni_zapasu_ciekawostek": 14,
   "na_zmiane": true,
-  "follow_tekst": "Nowe posty co godzinę, 8:00–23:00"
+  "follow_tekst": "Nowe posty co godzinę, 8:00–23:00",
+  "bez_dla_dzieci": [
+    "roblox",
+    "minecraft",
+    "brookhaven",
+    "brainrot",
+    "brawl stars",
+    "granny",
+    "pięcioraczk",
+    "toca boca",
+    "skibidi",
+    "poppy playtime"
+  ],
+  "wykluczone": []
 }
