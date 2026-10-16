@@ -2,134 +2,24 @@
  "run": {
   "date": "2026-10-16",
   "slot": "rano",
-  "generated_at": "2026-10-15T22:05:13.262Z",
+  "generated_at": "2026-10-16T08:19:18.270Z",
   "candidates": 99,
-  "with_free_image": 39
+  "with_free_image": 40
  },
  "status": {
-  "wiki-pl:Szablon:Czy wiesz": "ok 4",
   "wiki-en:Template:Did you know": "ok 9",
-  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
   "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Szablon:Czy wiesz": "ok 5",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
+  "wiki-en:Wikipedia:Recent additions": "ok 143",
   "rss:Mental Floss": "ok 12",
   "rss:Smithsonian Smart News": "ok 12",
-  "wiki-en:Wikipedia:Recent additions": "ok 134",
   "rss:Ciekawostki historyczne": "ok 12",
   "wiki-en:Wikipedia:Unusual articles": "ok 4240"
  },
  "candidates": [
   {
    "id": "c1",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…który gatunek pewnej bezzieleniowej rośliny znany jest tylko z jednej lokalizacji i populacji liczącej pięć osobników?",
-   "article": {
-    "title": "Relictithismia kimotsukiensis",
-    "url": "https://pl.wikipedia.org/wiki/Relictithismia_kimotsukiensis",
-    "extract": "Relictithismia kimotsukiensis Suetsugu, Yas.Nakam. & Tagane – gatunek bezzieleniowej, myko-heterotroficznej rośliny z monotypowego rodzaju Relictithismia Suetsugu & Tagane z rodziny Thismiaceae, występujący endemicznie w prefekturze Kagoshima na japońskiej wyspie Kiusiu.\nNazwa rodzajowa pochodzi od połączenia łacińskiego słowa „relictus” („pozostawiony w tyle”), oraz nazwy rodzajowej Thismia. Epitet gatunkowy kimotsukiensis odnosi się do lokalizacji typowej gatunku, czyli góry Kimotsuki."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Relictithismia_kimotsukiensis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Relictithismia_kimotsukiensis.png",
-    "file": "File:Relictithismia kimotsukiensis.png",
-    "artist": "Kenji Suetsugu, Yasunori Nakamura, Takafumi Nakano & Shuichiro Tagane",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "width": 890,
-    "height": 697,
-    "ok": true
-   }
-  },
-  {
-   "id": "c2",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…co nosi pod odwłokiem Digonis gungnir?",
-   "article": {
-    "title": "Digonis gungnir",
-    "url": "https://pl.wikipedia.org/wiki/Digonis_gungnir",
-    "extract": "Digonis gungnir – gatunek motyla z rodziny miernikowcowatych i podrodziny Ennominae."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Digonis_gungnir_%28holotype_in_dorsal_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Digonis_gungnir_(holotype_in_dorsal_view).jpg",
-    "file": "File:Digonis gungnir (holotype in dorsal view).jpg",
-    "artist": "Mario I. Ramos-González, María Francisca Venegas-González, Carlos Zamora-Manzur, Luis E. Parra",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "width": 464,
-    "height": 299,
-    "ok": true
-   }
-  },
-  {
-   "id": "c3",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…kiedy otwarto GEOsferę w Jaworznie?",
-   "article": {
-    "title": "GEOsfera (Jaworzno)",
-    "url": "https://pl.wikipedia.org/wiki/GEOsfera_(Jaworzno)",
-    "extract": "GEOsfera – park tematyczny o profilu ekologiczno-geologicznym w Jaworznie o powierzchni około 8 hektarów, utworzony w 2014 roku w zachodniej części niecki kamieniołomu wapienia Sadowa Góra; miejsce odkrycia m.in. skamielin notozaurów."
-   },
-   "related": [],
-   "image": null,
-   "image_rejected": "CC BY-SA 4.0 (File:Jaworzno GEOsfera aerial 2026.jpg)"
-  },
-  {
-   "id": "c4",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…jak w Tajlandii walczono z „klątwą KFC”?",
-   "article": {
-    "title": "Klątwa KFC",
-    "url": "https://pl.wikipedia.org/wiki/Kl%C4%85twa_KFC",
-    "extract": "Klątwa KFC – przesąd panujący wśród pracowników ochrony zdrowia w Tajlandii, według którego jedzenie w trakcie pracy posiłku zamówionego z sieci KFC powoduje zwiększenie liczby pacjentów i procedur medycznych, które trzeba będzie wykonać w trakcie zmiany.\n\nW Azji Południowo-Wschodniej wśród lekarzy funkcjonują różne przesądy związane z rodzajem posiłku i jego wpływem na obciążenie w pracy. Według jednej z ankiet przeprowadzonej wśród singapurskich studentów i pracowników ochrony zdrowia (lekarzy i pielęgniarzy) pełniących nocne dyżury, 46% świadomie unika jedzenia w ich trakcie bao. Wiąże się to z brzmieniem nazwy tego posiłku i związanymi z nim przez homonimię skojarzeniami."
-   },
-   "related": [],
-   "image": null,
-   "image_rejected": "CC BY-SA 4.0 (File:KFC in shopping centre in Krabi Town.jpg)"
-  },
-  {
-   "id": "c5",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…kiedy premierę ma mieć Cyberpunk: Edgerunners 2?",
-   "article": {
-    "title": "Cyberpunk: Edgerunners 2",
-    "url": "https://pl.wikipedia.org/wiki/Cyberpunk:_Edgerunners_2",
-    "extract": "Cyberpunk: Edgerunners 2 (jap. サイバーパンク エッジランナーズ ２ Saibāpanku Ejjirannāzu Tsū) – polsko-japońska seria anime typu ONA produkowana przez CD Projekt Red i studio Trigger, samodzielna kontynuacja serialu Cyberpunk: Edgerunners osadzona w uniwersum gry komputerowej Cyberpunk 2077. Premiera dziesięcioodcinkowej serii zapowiedziana jest na 20 października 2026 roku na platformie Netflix."
-   },
-   "related": [],
-   "image": null
-  },
-  {
-   "id": "c6",
-   "source": "wiki-pl",
-   "lang": "pl",
-   "hook": "…jak trygonometrię sferyczną wykorzystuje się w nawigacji satelitarnej, geodezji czy kartografii?",
-   "article": {
-    "title": "Trygonometria sferyczna",
-    "url": "https://pl.wikipedia.org/wiki/Trygonometria_sferyczna",
-    "extract": "Trygonometria sferyczna – dział geometrii sferycznej i trygonometrii zajmujący się zależnościami między długościami boków a kątami trójkątów sferycznych, tradycyjnie wyrażanymi za pomocą funkcji trygonometrycznych. Boki takiego trójkąta nie są odcinkami, lecz łukami kół wielkich – okręgów wyznaczonych przez przecięcie sfery płaszczyzną przechodzącą przez jej środek. To one pełnią na sferze rolę, jaką na płaszczyźnie pełnią proste: łuk koła wielkiego jest najkrótszą drogą między dwoma punktami, czyli linią geodezyjną. Suma kątów takiego trójkąta jest zawsze większa od π radianów, a jej nadwyżka – nadmiar sferyczny – jest wprost proporcjonalna do pola trójkąta."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Triangle_trirectangle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Triangle_trirectangle.png",
-    "file": "File:Triangle trirectangle.png",
-    "artist": "Coyau",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 350,
-    "height": 351,
-    "ok": true
-   }
-  },
-  {
-   "id": "c7",
    "source": "wiki-pl",
    "lang": "pl",
    "hook": "…kto był inspiracją dla postaci Murzynki na widocznym obok kolażu Henriego Matisse’a?",
@@ -152,7 +42,72 @@
    }
   },
   {
-   "id": "c8",
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak w Tajlandii walczono z „klątwą KFC”?",
+   "article": {
+    "title": "Klątwa KFC",
+    "url": "https://pl.wikipedia.org/wiki/Kl%C4%85twa_KFC",
+    "extract": "Klątwa KFC – przesąd panujący wśród pracowników ochrony zdrowia w Tajlandii, według którego jedzenie w trakcie pracy posiłku zamówionego z sieci KFC powoduje zwiększenie liczby pacjentów i procedur medycznych, które trzeba będzie wykonać w trakcie zmiany.\n\nW Azji Południowo-Wschodniej wśród lekarzy funkcjonują różne przesądy związane z rodzajem posiłku i jego wpływem na obciążenie w pracy. Według jednej z ankiet przeprowadzonej wśród singapurskich studentów i pracowników ochrony zdrowia (lekarzy i pielęgniarzy) pełniących nocne dyżury, 46% świadomie unika jedzenia w ich trakcie bao. Wiąże się to z brzmieniem nazwy tego posiłku i związanymi z nim przez homonimię skojarzeniami."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:KFC in shopping centre in Krabi Town.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która doktryna medyczna (błędnie) sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne?",
+   "article": {
+    "title": "Brownizm",
+    "url": "https://pl.wikipedia.org/wiki/Brownizm",
+    "extract": "Brownizm – doktryna medyczna sformułowana przez szkockiego lekarza Johna Browna (1735–1788) i wyłożona w wydanym po łacinie dziele Elementa medicinae (1780). Sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne. Zdrowie miało polegać na umiarkowanym poziomie pobudzenia, choroba zaś na odchyleniu od niego w jedną z dwóch stron – ku nadmiernemu pobudzeniu (stan steniczny) albo ku jego niedostatkowi (stan asteniczny). Z tak uproszczonej patologii wynikała równie prosta terapia: dobieranie słabszych lub silniejszych bodźców zależnie od stanu pobudzenia chorego, przy czym szczególne znaczenie miały alkohol i opium."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Portrait of John Brown in \"Elementa medicinae\" Wellcome M0014836.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego największy na świecie tunel żeglowny został wyłączony z eksploatacji?",
+   "article": {
+    "title": "Tunel Rove",
+    "url": "https://pl.wikipedia.org/wiki/Tunel_Rove",
+    "extract": "Tunel Rove (fr. Tunnel du Rove) – nieczynny tunel żeglowny na południowym wybrzeżu Francji w departamencie Delta Rodanu, który umożliwiał transport wodny pomiędzy Marsylią a Rodanem z pominięciem wód Morza Śródziemnego."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tunnel-du-Rove72.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tunnel-du-Rove72.JPG",
+    "file": "File:Tunnel-du-Rove72.JPG",
+    "artist": "Fr.Latreille",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1080,
+    "height": 810,
+    "ok": true
+   }
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy otwarto GEOsferę w Jaworznie?",
+   "article": {
+    "title": "GEOsfera (Jaworzno)",
+    "url": "https://pl.wikipedia.org/wiki/GEOsfera_(Jaworzno)",
+    "extract": "GEOsfera – park tematyczny o profilu ekologiczno-geologicznym w Jaworznie o powierzchni około 8 hektarów, utworzony w 2014 roku w zachodniej części niecki kamieniołomu wapienia Sadowa Góra; miejsce odkrycia m.in. skamieniałości notozaurów."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Jaworzno GEOsfera aerial 2026.jpg)"
+  },
+  {
+   "id": "c6",
    "source": "wiki-pl",
    "lang": "pl",
    "hook": "…że owocem romansu pewnej Piastówny i przyszłego wrocławskiego biskupa miał być śląski rycerz, dziadek Reynevana, głównego bohatera trylogii husyckiej autorstwa Andrzeja Sapkowskiego?",
@@ -175,27 +130,74 @@
    }
   },
   {
-   "id": "c9",
+   "id": "c7",
    "source": "wiki-pl",
    "lang": "pl",
-   "hook": "…że według jednej z interpretacji czas Ignacego Rzeckiego stopniowo „kamienieje”, ponieważ bohater coraz bardziej zastępuje teraźniejszość wspomnieniami?",
+   "hook": "…co znaleziono w odchodach rudawca orientalnego?",
    "article": {
-    "title": "Ignacy Rzecki",
-    "url": "https://pl.wikipedia.org/wiki/Ignacy_Rzecki",
-    "extract": "Ignacy Rzecki – postać fikcyjna, jeden z głównych bohaterów powieści Lalka Bolesława Prusa. Jest wieloletnim subiektem i przyjacielem Stanisława Wokulskiego, byłym uczestnikiem powstania węgierskiego oraz gorącym bonapartystą. Wywodzący się z ubogiego mieszczaństwa Rzecki niemal całe dorosłe życie związany był z warszawskim handlem, pozostając przywiązanym do pracy, skromnego trybu życia oraz ideałów politycznych swojej młodości.\nRzecki pełni również istotną funkcję w konstrukcji narracyjnej powieści."
+    "title": "Rudawiec orientalny",
+    "url": "https://pl.wikipedia.org/wiki/Rudawiec_orientalny",
+    "extract": "Rudawiec orientalny (Rousettus leschenaultii) – gatunek ssaka, nietoperza z rodziny rudawkowatych, jeden z przynajmniej siedmiu w swoim rodzaju. Ma diploidalną liczbę chromosomów 36. Długość głowy i tułowia 80–125 mm, ogona 13–17,5 mm. Masa 40–92,5 g."
    },
    "related": [],
-   "image": null
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg",
+    "file": "File:Rousettus leschenaultii by Rajesh Puttaswamaiah.jpg",
+    "artist": "Rajesh Puttaswamaiah, Bat Conservation India Trust",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 644,
+    "height": 444,
+    "ok": true
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że niemiecki U-Boot SM UB‑94 służył po I wojnie światowej we francuskiej flocie do 1935 roku?",
+   "article": {
+    "title": "SM UB-94",
+    "url": "https://pl.wikipedia.org/wiki/SM_UB-94",
+    "extract": "SM UB-94 – niemiecki okręt podwodny z okresu I wojny światowej, jedna z 96 jednostek typu UB III zbudowanych dla Kaiserliche Marine.\nOkręt miał wyporność 510 ton w położeniu nawodnym i 640 ton w zanurzeniu. Jego główne uzbrojenie stanowiło 10 torped kalibru 500 mm, wystrzeliwanych z pięciu wyrzutni. Napędzana silnikami wysokoprężnymi i elektrycznymi jednostka rozwijała prędkość 13 węzłów na powierzchni i 7,4 węzła w zanurzeniu, osiągając zasięg 7120 Mm przy prędkości 6 węzłów w położeniu nawodnym oraz 55 Mm przy prędkości 4 węzłów pod wodą."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/397_U-Boot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:397_U-Boot.jpg",
+    "file": "File:397 U-Boot.jpg",
+    "artist": "Sendker",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 864,
+    "height": 613,
+    "ok": true
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that students from Harvard and Yale enlisted as strikebreakers during the 1912 Boston streetcar strike?",
+   "article": {
+    "title": "1912 Boston streetcar strike",
+    "url": "https://en.wikipedia.org/wiki/1912_Boston_streetcar_strike",
+    "extract": "During the 1912 Boston streetcar strike, conductors and carmen (or \"motormen\") of streetcars for Boston Elevated Railway Company in Boston, Massachusetts, United States, went on a 53-day labor strike after the company retaliated against members of the labor union. The strikers demanded that the company recognize their union and provide better wages and working conditions. Ultimately, the strike ended after an arbitration settlement in favor of the union, and the company agreed to stop discriminating against union members."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Boston Car Strike LCCN2014690471.jpg)"
   },
   {
    "id": "c10",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Dave Matthews Band bus incident: The band's tour bus dumped 800 pounds of sewage on a passenger boat. Funnily enough, the opener of that night's concert was \"Don't Drink the Water\"…",
+   "hook": "Muphry's law: Proceed very cautiously before correcting someone else's grammar.",
    "article": {
-    "title": "Dave Matthews Band bus incident",
-    "url": "https://en.wikipedia.org/wiki/Dave_Matthews_Band_bus_incident",
-    "extract": "On August 8, 2004, a tour bus belonging to the American rock group Dave Matthews Band dumped an estimated 800 pounds (360 kg) of human waste from the bus' blackwater tank through the Kinzie Street Bridge in Chicago onto an open-top passenger sightseeing boat sailing in the Chicago River below. The incident has been referred to as \"Poopgate\" in retrospective assessments.\nThe members of Dave Matthews Band were not on or near the bus during the incident.  After weeks of investigation, during which the band claimed that all of their tour buses were accounted for, a Dave Matthews Band bus was deemed to be the culprit."
+    "title": "Muphry's law",
+    "url": "https://en.wikipedia.org/wiki/Muphry%27s_law",
+    "extract": "Muphry's law is an adage that states: \"If you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written.\"   The name is a deliberate misspelling of \"Murphy's law\"."
    },
    "related": [],
    "image": null
@@ -204,115 +206,131 @@
    "id": "c11",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Project A119: If you can't land on the Moon, nuke it.",
+   "hook": "Donda 2: An album(?) by Kanye West, released in an unfinished state for his ~$200 thingamajig the Stem Player back in 2022, and frantically updated in the middle of his bipolar-fueled meltdown three years later.",
    "article": {
-    "title": "Project A119",
-    "url": "https://en.wikipedia.org/wiki/Project_A119",
-    "extract": "Project A119, also known as A Study of Lunar Research Flights, was a top-secret plan developed in 1958 by the United States Air Force. The aim of the project was to detonate a nuclear bomb on the Moon, which would help in answering some of the mysteries in planetary astronomy and astrogeology. If the explosive device detonated on the surface, and not in a lunar crater, the flash of explosive light would have been faintly visible to people on Earth with their naked eye. This was meant as a show of force resulting in a possible boosting of domestic morale in the capabilities of the United States, a boost that was needed after the Soviet Union took an early lead in the Space Race."
+    "title": "Donda 2",
+    "url": "https://en.wikipedia.org/wiki/Donda_2",
+    "extract": "Donda 2 is the eleventh studio album by the American rapper Kanye West. It has also been described as a demo album, as it was initially released in an unfinished state on Kano Computing's Stem Player on February 23, 2022, with more songs added in an update. On April 29, 2025, West independently released Donda 2 on music streaming services via his YZY record label, with a different tracklist and updated production. Guest appearances include XXXTentacion, Don Toliver, Baby Keem, Migos, Travis Scott, Future, Jack Harlow, Sean Leon, Vory, Fivio Foreign, Alicia Keys, Soulja Boy, the Game, and Playboi Carti."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Study_of_Lunar_Research_Flights_-_Vol_I_-_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Study_of_Lunar_Research_Flights_-_Vol_I_-_Cover.jpg",
-    "file": "File:Study of Lunar Research Flights - Vol I - Cover.jpg",
-    "artist": "Armour Research Foundation",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 792,
-    "height": 1055,
-    "ok": true
-   }
+   "image": null
   },
   {
    "id": "c12",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Clop (erotic fan art): Who knew erotic depictions of sapient yet still non-humanoid horses would be a thing?",
+   "hook": "2018 Samsung fat-finger error: When new Samsung Securities shareholders became 112 trillion won (1,017,719,218.54 USD) richer.",
    "article": {
-    "title": "Clop (erotic fan art)",
-    "url": "https://en.wikipedia.org/wiki/Clop_(erotic_fan_art)",
-    "extract": "Clop (also referred to as My Little Pony pornography, or pony porn for short) is erotic and pornographic fan art, fan fiction, fan films, fan games, and other fan labor based on My Little Pony: Friendship Is Magic, My Little Pony: Equestria Girls, and subsequent generations of the My Little Pony franchise. The term clop derives from the onomatopoeia for a hoofbeat and is a pun on fap, an Internet slang term for masturbation. Related terms include clopfic—a portmanteau of clop and fanfic, for erotic My Little Pony fan fiction—and clopping for the act of masturbating to clop.\nThe brony fandom (the adult fandom of Friendship Is Magic that emerged on the Internet in the early 2010s) gave rise to clop alongside its other forms of fan works."
+    "title": "2018 Samsung fat-finger error",
+    "url": "https://en.wikipedia.org/wiki/2018_Samsung_fat-finger_error",
+    "extract": "The 2018 Samsung fat-finger error was a fat-finger error on April 8, 2018, in which an employee of Samsung Securities mistakenly distributed shares worth US$100 billion to employees. The company is the stock trading arm of the Samsung conglomerate and is engaged in financial services including securities and investment banking sectors primarily in Korea, China, the United States, the United Kingdom, Japan, and Hong Kong."
    },
    "related": [],
-   "image": null,
-   "image_rejected": "CC0 (File:MLP clop fanart of a pony version of Wikipedia.png)"
+   "image": null
   },
   {
    "id": "c13",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "He-gassen: It really puts the \"art\" in \"fart\".",
+   "hook": "The Art of Fugue: A musical work by J.S. Bach noted for the Fuga a 3 Soggetti, in which the composer allegedly died after introducing his name as a countersubject, leaving the work unfinished.",
    "article": {
-    "title": "He-gassen",
-    "url": "https://en.wikipedia.org/wiki/He-gassen",
-    "extract": "He-gassen (Japanese: 屁合戦, lit. 'Fart competitions'), or Hōhi-gassen (放屁合戦, lit. ''Fart fight''), designates a humorous theme (genre) in a Japanese art scrolls (often also the titles of the scrolls themselves), created during the Edo period (1603–1868) and earlier by various artists, often preferring to remain anonymous, depicting flatulence humor.\nHe-gassen, as a subject occasionally depicted in Japanese art, is first attested at the end of the Heian Period (794–1185). Toba Sōjō (1053–1140), in addition to his famous Scrolls of Frolicking Animals, is also mentioned as having painted scrolls on themes such as \"Phallic Contest\" and \"He-gassen\"."
+    "title": "The Art of Fugue",
+    "url": "https://en.wikipedia.org/wiki/The_Art_of_Fugue",
+    "extract": "The Art of Fugue, or The Art of the Fugue (German: Die Kunst der Fuge), BWV 1080, is an incomplete musical work of unspecified instrumentation by Johann Sebastian Bach. Written in the last decade of his life, The Art of Fugue is the culmination of Bach's experimentation with monothematic instrumental works.\nThis work consists of fourteen fugues and four canons in D minor, each using some variation of a single principal subject, and generally ordered to increase in complexity. \"The governing idea of the work\", as put by Bach specialist Christoph Wolff, \"was an exploration in depth of the contrapuntal possibilities inherent in a single musical subject.\" The word \"contrapunctus\" is often used for each fugue."
    },
    "related": [],
-   "image": null
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Title_page_of_The_Art_of_Fugue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Title_page_of_The_Art_of_Fugue.jpg",
+    "file": "File:Title page of The Art of Fugue.jpg",
+    "artist": "Editor Johann Heinrich Schübler",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1098,
+    "height": 694,
+    "ok": true
+   }
   },
   {
    "id": "c14",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "... that Swiss architect Ferdinand Stadler was awarded the first prize in a Federal Palace competition in Bern, but the project was instead awarded to an architect who had not even entered?",
+   "hook": "Kanamara Matsuri: A phallus festival in Kawasaki, Japan.",
    "article": {
-    "title": "Ferdinand Stadler",
-    "url": "https://en.wikipedia.org/wiki/Ferdinand_Stadler",
-    "extract": "Caspar Ferdinand Stadler (23 February 1813 – 24 March 1870) was a Swiss architect and one of leading architects of Zurich of the mid-19th century. He was known especially for church architecture, including the Elisabethenkirche in Basel, the Stadtkirche Glarus and Christ Church in Nazareth. In 1850, he was awarded first prize in the competition to design a Federal Palace in Bern."
+    "title": "Kanamara Matsuri",
+    "url": "https://en.wikipedia.org/wiki/Kanamara_Matsuri",
+    "extract": "The Shinto Kanamara Matsuri (かなまら祭り, \"Festival of the Steel Phallus\") is an annual Japanese festival held each spring at the Kanayama Shrine (金山神社, Kanayama-jinja) in Kawasaki, Japan. The exact dates vary: the main festivities fall on the first Sunday in April. The phallus, as the central theme of the event, is reflected in illustrations, candy, carved vegetables, decorations, and a mikoshi parade. The shrine is part of the Wakamiya Hachimangu Shrine and located near Kawasaki-Daishi Station."
    },
-   "related": [
-    "Federal Palace of Switzerland"
-   ],
+   "related": [],
    "image": null,
-   "image_rejected": "Public domain (File:Ferdinand Stadler.jpg)"
+   "image_rejected": "CC0 (File:Kanamara-matsuri2014.jpg)"
   },
   {
    "id": "c15",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Wolfgang Engels: A 19-year old civilian employee of the National People's Army who smashed through the Berlin Wall with a stolen APC.",
+   "hook": "Overtoun Bridge: A 50-foot-high bridge that dogs keep jumping off.",
    "article": {
-    "title": "Wolfgang Engels",
-    "url": "https://en.wikipedia.org/wiki/Wolfgang_Engels",
-    "extract": "Wolfgang Engels (born 1943) is a former civilian employee of the East German National People's Army, employed as a car mechanic and driver, who in 1963 used a stolen BTR-152 armoured personnel carrier to escape to West Germany by breaking through the Berlin Wall."
+    "title": "Overtoun Bridge",
+    "url": "https://en.wikipedia.org/wiki/Overtoun_Bridge",
+    "extract": "Overtoun Bridge is a category B-listed structure over the Overtoun Burn on the approach road from the west to Overtoun House, near Dumbarton in West Dunbartonshire, Scotland. It was completed in 1895, based on a design by the landscape architect H. E. Milner. It spans a ditch known as Spardie Linn.\nSince the 1950s, numerous accounts of dogs either falling or jumping from the bridge have been reported."
    },
    "related": [],
-   "image": null,
-   "image_rejected": "CC BY-SA 4.0 (File:Joline, Wolfgang, & Doris.jpg)"
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+    "file": "File:Overtoun Bridge - geograph.org.uk - 4625800.jpg",
+    "artist": "Lairich Rig",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1168,
+    "height": 1600,
+    "ok": true
+   }
   },
   {
    "id": "c16",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Cannibal Women in the Avocado Jungle of Death: What will Hollywood think of next?",
+   "hook": "Rockism and poptimism: What happens when pop music fans take themselves way too seriously? Actually, nothing fun.",
    "article": {
-    "title": "Cannibal Women in the Avocado Jungle of Death",
-    "url": "https://en.wikipedia.org/wiki/Cannibal_Women_in_the_Avocado_Jungle_of_Death",
-    "extract": "Cannibal Women in the Avocado Jungle of Death is a 1989 American comedy film directed by J. F. Lawton and starring Shannon Tweed and Bill Maher. The film sends up many pop culture motifs and societal trends, including feminism (and feminist movements' fragmentation around various issues), B movies (particularly Cannibal Holocaust), celebrities, major writers and political figures, centered around a spoof of Joseph Conrad's 1899 novel Heart of Darkness."
+    "title": "Rockism and poptimism",
+    "url": "https://en.wikipedia.org/wiki/Rockism_and_poptimism",
+    "extract": "Rockism and poptimism are ideological arguments about popular music prevalent in mainstream music journalism. Rockism is the belief that rock music depends on values such as authenticity and artfulness, which elevate it over other forms of popular music.\nThe term \"rockism\" was coined in 1981 by English rock musician Pete Wylie. It soon became a pejorative used humorously by self-described \"anti-rockist\" music journalists."
    },
    "related": [],
-   "image": null
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pete_Wylie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pete_Wylie.jpg",
+    "file": "File:Pete Wylie.jpg",
+    "artist": "Paul Thompson",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 288,
+    "height": 432,
+    "ok": true
+   }
   },
   {
    "id": "c17",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Pope Joan: Medieval documents cite the existence of a female pope – proof of a Vatican cover up or a blasphemous slur?",
+   "hook": "Symphony No. 94 (Haydn): Another Haydn oddity, which features a surprise loud chord to make sure you haven't fallen asleep in the middle.",
    "article": {
-    "title": "Pope Joan",
-    "url": "https://en.wikipedia.org/wiki/Pope_Joan",
-    "extract": "Pope Joan (Latin: Ioannes Anglicus; 855–857) was a woman who purportedly reigned as popess (female pope) for two years during the Middle Ages. Her story first appeared in chronicles in the 13th century and subsequently spread throughout Europe. The story was widely believed for centuries, but most modern scholars regard it as fictional.\nMost versions of her story describe her as a talented and learned woman who disguised herself as a man, often at the behest of a lover."
+    "title": "Symphony No. 94 (Haydn)",
+    "url": "https://en.wikipedia.org/wiki/Symphony_No._94_(Haydn)",
+    "extract": "The Symphony No. 94 in G major (H. 1/94) is the second of the twelve London symphonies written by Joseph Haydn. It is popularly known as the Surprise Symphony. Haydn wrote the symphony in 1791 in London for a concert series he gave during the first of his visits to England (1791–1792)."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Papesse_Jeanne_BnF_Fran%C3%A7ais_599_fol._88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Papesse_Jeanne_BnF_Fran%C3%A7ais_599_fol._88.jpg",
-    "file": "File:Papesse Jeanne BnF Français 599 fol. 88.jpg",
-    "artist": "Robinet Testard",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Joseph_Haydn.jpg",
+    "file": "File:Joseph Haydn.jpg",
+    "artist": "Thomas Hardy",
     "license": "Public domain",
     "license_url": null,
-    "width": 305,
-    "height": 306,
+    "width": 1000,
+    "height": 1264,
     "ok": true
    }
   },
@@ -320,118 +338,109 @@
    "id": "c18",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Heraclitus the Paradoxographer: Before there were 14-year-old Internet atheists, this guy was saying \"um, ACKSYUALLY\" about Greek myth.",
+   "hook": "... that, despite Samuel Quincy's alignment with the British, he was fondly remembered in exile by U.S. president John Adams?",
    "article": {
-    "title": "Heraclitus the Paradoxographer",
-    "url": "https://en.wikipedia.org/wiki/Heraclitus_the_Paradoxographer",
-    "extract": "Heraclitus Paradoxographus (Greek: Ἡράκλειτος) is the author of the lesser-known of two works known as Peri Apiston (On Unbelievable Tales). Palaephatus was the author of a better-known work of paradoxography with the same title, mentioned more often in antiquity.\nHeraclitus' Peri Apiston treats Greek mythology in the rationalizing manner that appealed to Christian apologists, in pithy language and thought. The text survives in a single 13th-century manuscript in the Vatican Library; it has minor imperfections, and it may well be a late Byzantine epitome of a longer work."
+    "title": "Samuel Quincy",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Quincy",
+    "extract": "Samuel Quincy (April 13, 1734 – August 9, 1789) was an American lawyer. Born to the Quincy political family, he worked as a lawyer in Boston, with his work including as prosecutor for the 1770 murder of Christopher Seider and subsequent Boston Massacre. However, he was aligned with the British side, becoming the Solicitor General of Massachusetts, and fled the country after the Battles of Lexington and Concord, reestablishing his law career in Antigua."
    },
    "related": [],
-   "image": null
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Samuel_Quincy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Samuel_Quincy.jpg",
+    "file": "File:Samuel Quincy.jpg",
+    "artist": "John Singleton Copley",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1262,
+    "height": 1600,
+    "ok": true
+   }
   },
   {
    "id": "c19",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Post-mortem photography: Back in the early days of photography it was common to take pictures of recently deceased loved ones, propped up to look as if they were alive.",
+   "hook": "Creeper and Reaper: The world's very first computer virus and computer antivirus, respectively.",
    "article": {
-    "title": "Post-mortem photography",
-    "url": "https://en.wikipedia.org/wiki/Post-mortem_photography",
-    "extract": "Post-mortem photography is the practice of photographing the recently deceased. Various cultures use and have used this practice, though the best-studied area of post-mortem photography is that of Europe and America.  There can be considerable dispute as to whether individual early photographs actually show a dead person or not, often sharpened by commercial considerations. The form continued the tradition of earlier painted mourning portraits."
+    "title": "Creeper and Reaper",
+    "url": "https://en.wikipedia.org/wiki/Creeper_and_Reaper",
+    "extract": "Creeper was the first computer worm, while Reaper was the first antivirus software, designed to eliminate Creeper."
    },
    "related": [],
-   "image": null,
-   "image_rejected": "Public domain (File:Bernhard Cathrinus Pauss, post portem-portrett, november 1907.jpg)"
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/CreeperWorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CreeperWorm.jpg",
+    "file": "File:CreeperWorm.jpg",
+    "artist": "Screenshot von User Worm&Virus",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 400,
+    "height": 300,
+    "ok": true
+   }
   },
   {
    "id": "c20",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "History of military ballooning: Aerial warfare had to start somewhere.",
+   "hook": "Yo (app): A messaging service whose only function was to send \"Yo\" to people.",
    "article": {
-    "title": "History of military ballooning",
-    "url": "https://en.wikipedia.org/wiki/History_of_military_ballooning",
-    "extract": "Balloons and kites were the first inventions used in aerial warfare and their primary role was reconnaissance. Balloons provided a reliable and stable means of elevating an observer high over the battlefield to obtain a birds-eye view of troop positions and movements. An early instrument of aerial intelligence collection, they were also useful for creating accurate battlefield maps, an important ingredient for battlefield success. Incendiary balloons also have a long history."
+    "title": "Yo (app)",
+    "url": "https://en.wikipedia.org/wiki/Yo_(app)",
+    "extract": "Yo was  a social mobile application for iOS, Android, and formerly also Windows Phone. Initially, the application's only function was to send the user's friends the word \"yo\" as a text and audio notification, but was then updated to enable users to attach links and location to their \"Yo\"s."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Early_flight_02562u_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Early_flight_02562u_(10).jpg",
-    "file": "File:Early flight 02562u (10).jpg",
-    "artist": "Created/published: Paris : Romanet & Cie., imp. edit.,",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 972,
-    "height": 1422,
-    "ok": true
-   }
+   "image": null,
+   "image_rejected": "Public domain (File:Yo logo.svg)"
   },
   {
    "id": "c21",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Kuchisake-onna: A Japanese urban legend (probably). Also known as \"the slit-mouthed woman\", Kuchisake-onna is asking you if you think she's pretty. No matter what you answer, you're doomed. Except if you say \"pomade\" three times.",
+   "hook": "Who Killed Captain Alex?: A 2010 Ugandan action-comedy film produced on a budget of $85.",
    "article": {
-    "title": "Kuchisake-onna",
-    "url": "https://en.wikipedia.org/wiki/Kuchisake-onna",
-    "extract": "Kuchisake-onna (口裂け女; 'Slit-Mouthed Woman') is a malevolent figure in Japanese urban legends and folklore. Described as the malicious spirit, or onryō, of a woman, she partially covers her face with a mask or other item to hide her scar and carries a pair of scissors, a knife, or some other sharp object. She is most often described as a tall woman of about 175–180 cm (or 5’7-5’9 ft); however, some people believe she is up to 243.84 cm (or 8ft) tall, having long straight black hair, white hands, pale skin, and otherwise being considered beautiful (except for her scar).\nShe has been described as a contemporary yōkai."
+    "title": "Who Killed Captain Alex?",
+    "url": "https://en.wikipedia.org/wiki/Who_Killed_Captain_Alex%3F",
+    "extract": "Who Killed Captain Alex? is a 2010 Ugandan independent martial arts action comedy film written, produced, and directed by Isaac Godfrey Geoffrey Nabwana also known as Nabwana IGG, by Wakaliwood, an ultra low-budget studio in Kampala, Uganda. The film tells the story of a civil unrest which erupts after the assassination of a beloved Ugandan soldier, the eponymous Captain Alex. It gained viral notoriety for being a no-budget action film, produced on a reported budget of under $200 although producer Alan Hofmanis later stated that the production value was in fact $85."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shungyosai_Tayu-no-kao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Shungyosai_Tayu-no-kao.jpg",
-    "file": "File:Shungyosai Tayu-no-kao.jpg",
-    "artist": "Hayami Shungyōsai (速水春暁斎, Japanese, *1767, †1823)",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 600,
-    "height": 389,
-    "ok": true
-   }
+   "image": null
   },
   {
    "id": "c22",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Brites de Almeida: A legendary 12-fingered Portuguese baker who baked a group of Castilian soldiers in her oven as part of the fight for Portuguese independence.",
+   "hook": "Mickey pylon: A powerline pylon with a shape reminiscent of a certain fictional rodent.",
    "article": {
-    "title": "Brites de Almeida",
-    "url": "https://en.wikipedia.org/wiki/Brites_de_Almeida",
-    "extract": "Brites de Almeida, known as the Baker of Aljubarrota (Portuguese: Padeira de Aljubarrota), is a legendary figure and Portuguese heroine whose name is associated with the victory of the Portuguese, against Castilian forces, at the Battle of Aljubarrota in 1385. The battle resulted in a decisive victory for the Portuguese, putting an end to Castilian ambitions to take over the Portuguese throne."
+    "title": "Mickey pylon",
+    "url": "https://en.wikipedia.org/wiki/Mickey_pylon",
+    "extract": "The Mickey pylon (also known as the Mickey Mouse pylon) is a 105-foot-tall (32 m) double-deadend pole-type 230-kV power line pylon in front of Osceola Substation, which is used by The Walt Disney Company division Reedy Creek Energy Services for the power supply of Walt Disney World near Orlando, Florida, and which was completed on February 15, 1996. The pylon is in the form of a stylized Mickey Mouse head. It consists of a 70-foot-high (21 m) pole carrying a circular steel tube ring 30 ft (9.1 m) in diameter, at which two smaller elliptical rings with minor axis lengths of 18 ft (5.5 m) and major axis lengths of 20 ft (6.1 m). The head weighs 30,000 lb (14,000 kg)."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BritesdeAlmeida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:BritesdeAlmeida.jpg",
-    "file": "File:BritesdeAlmeida.jpg",
-    "artist": "Photo by \"Karstenkascais\" of an azulejo at Aljubarrota in Portugal",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 637,
-    "height": 490,
-    "ok": true
-   }
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Mickey (3153436441).jpg)"
   },
   {
    "id": "c23",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Tall bike: A bike which consists of two conventional bicycle frames connected one atop the other.",
+   "hook": "Puyi: He became the last Emperor of China at the age of two and died as an ordinary citizen, ending 2,133 years of dynastic rule in China. In his twilight years, he also did community theater.",
    "article": {
-    "title": "Tall bike",
-    "url": "https://en.wikipedia.org/wiki/Tall_bike",
-    "extract": "A tall bike is an unusually tall bicycle often constructed by hobbyists from spare parts. Typically, two conventional bicycle frames are connected by welding, brazing, or other means, one atop the other. The drive train is reconfigured to connect to the upper set of pedals, and the controls are moved to the upper handlebar area.\nAlternatively, a bicycle can be built by inverting the frame, inserting the fork from the 'wrong side', flipping the rear wheel, adding a long gooseneck and tall handlebars, then welding an extended seat post tube to the 'bottom' (now the top) of the frame."
+    "title": "Puyi",
+    "url": "https://en.wikipedia.org/wiki/Puyi",
+    "extract": "Puyi (Chinese: 溥儀; pinyin: Pǔ Yí; Wade–Giles: P'u-i; 7 February 1906 – 17 October 1967) was the last emperor of China, having reigned as the Xuantong Emperor of the Qing dynasty (1908–1912, with a brief restoration in 1917) and later as the Kangde Emperor of Manchukuo, a Japanese puppet state during World War II. After the war, he was held as a war criminal in the Soviet Union and China until 1959, when the Chinese Communist Party granted him amnesty and presented him as a model of successful reeducation.\nIn 1908, chosen by Empress Dowager Cixi to succeed the childless Guangxu Emperor, Puyi ascended the throne at age two with his father Prince Chun as regent. Following the Xinhai Revolution, Empress Dowager Longyu signed the abdication edict on Puyi's behalf; in return, the Articles of Favorable Treatment allowed him to retain his imperial title and remain in the Forbidden City. From 1 t"
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tallbike.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Tallbike.jpg",
-    "file": "File:Tallbike.jpg",
-    "artist": "No machine-readable author provided. Phidauex assumed (based on copyright claims).",
-    "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "width": 480,
-    "height": 640,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Puyi%2C_Manchukuo_period_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Puyi,_Manchukuo_period_(cropped).jpg",
+    "file": "File:Puyi, Manchukuo period (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 1000,
     "ok": true
    }
   },
@@ -439,22 +448,22 @@
    "id": "c24",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Footsies: Did you know? It's possible for a couple to flirt by touching each other's legs.",
+   "hook": "HNLMS Abraham Crijnssen (1936): A Navy ship that attempted to avoid detection by Japanese aircraft and escape back to Australia by having it disguised as a tropical island.",
    "article": {
-    "title": "Footsies",
-    "url": "https://en.wikipedia.org/wiki/Footsies",
-    "extract": "Footsies (also footsy or footsie) is a flirting game where two people touch feet under a table or otherwise concealed place, often as a romantic prelude. It is a game played either as an act of flirtatious body language, or simply for enjoyment. Although footsies is not inherently romantic, the nature of it as playful touching is often done between romantic partners as a sign of affection, and most often without discussion. The term comes from a 1940s humorous diminutive of foot."
+    "title": "HNLMS Abraham Crijnssen (1936)",
+    "url": "https://en.wikipedia.org/wiki/HNLMS_Abraham_Crijnssen_(1936)",
+    "extract": "HNLMS Abraham Crijnssen is a Jan van Amstel-class minesweeper of the Royal Netherlands Navy (RNN).\nBuilt during the 1930s, she was based in the Dutch East Indies when Japan attacked at the end of 1941. Ordered to retreat to Australia, the ship was disguised as a tropical island to avoid detection, and was the last Dutch ship to escape from the region. On arriving in Australia in 1942, she was commissioned into the Royal Australian Navy (RAN) as HMAS Abraham Crijnssen and operated as an anti-submarine escort."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/083-_Anonym%2C_c.1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:083-_Anonym,_c.1920.jpg",
-    "file": "File:083- Anonym, c.1920.jpg",
-    "artist": "see file name",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/HMAS-HRMS_Abraham_Crijnssen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMAS-HRMS_Abraham_Crijnssen.jpg",
+    "file": "File:HMAS-HRMS Abraham Crijnssen.jpg",
+    "artist": "No. 32 Squadron RAAF",
     "license": "Public domain",
     "license_url": null,
-    "width": 683,
-    "height": 1062,
+    "width": 996,
+    "height": 530,
     "ok": true
    }
   },
@@ -462,22 +471,22 @@
    "id": "c25",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Triskaidekaphobia: No, it's not related to the Code of Hammurabi. No, it's not always considered unlucky. Yes, space exploration has been touched by it.",
+   "hook": "Crown Prince Sado: To prevent him from becoming the new monarch of Joseon Korea, his father, the king, locked him in a rice chest for eight days, killing him through dehydration.",
    "article": {
-    "title": "Triskaidekaphobia",
-    "url": "https://en.wikipedia.org/wiki/Triskaidekaphobia",
-    "extract": "Triskaidekaphobia (  TRIS-kye-DEK-ə-FOH-bee-ə,  TRIS-kə-; from Ancient Greek  τρεισκαίδεκα (treiskaídeka) 'thirteen' and Ancient Greek  φόβος (phóbos) 'fear') is fear or avoidance of the number 13. It is also a reason for the fear of Friday the 13th, called paraskevidekatriaphobia (from Greek  Παρασκευή (paraskevi) 'Friday',  Greek  δεκατρείς (dekatreís) 'thirteen' and Ancient Greek  φόβος (phóbos) 'fear') or friggatriskaidekaphobia (from Old Norse  Frigg 'Frigg' and from Ancient Greek  τρεισκαίδεκα (treiskaídeka) 'thirteen' and Ancient Greek  φόβος (phóbos) 'fear').\nThe term was used as early as in 1910 by Isador Coriat in Abnormal Psychology."
+    "title": "Crown Prince Sado",
+    "url": "https://en.wikipedia.org/wiki/Crown_Prince_Sado",
+    "extract": "Crown Prince Sado (Korean: 사도세자; Hanja: 思悼世子; 13 February 1735 – 12 July 1762), personal name Yi Seon, also known by his temple name King Jangjo, was the second son of King Yeongjo, the 21st monarch of Joseon, and the biological father of King Jeongjo. Due to the prior death of his elder half-brother, Crown Prince Hyojang, he was the probable future monarch. However, at the age of 27, he died, most likely of dehydration and possibly of starvation, after being confined in a rice chest in the heat of summer at the order of his father. Following the establishment of the Korean Empire, he was honored as Emperor Ui."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Many_buttons_%284187599550%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Many_buttons_(4187599550).jpg",
-    "file": "File:Many buttons (4187599550).jpg",
-    "artist": "Yoshimasa Niwa from Tokyo, Japan",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "width": 1200,
-    "height": 1600,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/%EC%82%AC%EB%8F%84%EC%84%B8%EC%9E%90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%EC%82%AC%EB%8F%84%EC%84%B8%EC%9E%90.jpg",
+    "file": "File:사도세자.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 461,
+    "height": 735,
     "ok": true
    }
   },
@@ -485,22 +494,22 @@
    "id": "c26",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Cherry Sisters: The first truly \"so bad it's good\" act, whose vaudeville performances drew packed houses of audiences who just wanted to hurl abuse at them. Sued newspapers for printing a negative review of them, and lost.",
+   "hook": "You have two cows: A political satire comparing different political ideologies with cows, for some reason.",
    "article": {
-    "title": "Cherry Sisters",
-    "url": "https://en.wikipedia.org/wiki/Cherry_Sisters",
-    "extract": "The Cherry Sisters – Addie (1859–1942), Effie (1867–1944), Ella (1854–1934), Lizzie (1857–1936), and Jessie Cherry (1871–1903) –  were five sisters from Marion, Iowa who formed a notorious vaudeville touring act in the late 19th century. They were also the plaintiffs in a landmark 1901 legal case heard by the Iowa Supreme Court, Cherry v. Des Moines Leader, which was instrumental in establishing and confirming the right of the press to fair comment.\nThe Cherry Sisters' vaudeville act, Something Good, Something Sad, was infamous for its poor quality and the vehement responses it elicited by audiences, who threw vegetables and disrupted performances."
+    "title": "You have two cows",
+    "url": "https://en.wikipedia.org/wiki/You_have_two_cows",
+    "extract": "\"You have two cows\" is a political analogy and form of early 20th-century American political satire to describe various economic systems of government. The setup of a typical joke of this kind is the assumption that the listener lives within a given system and has two cows. The punch line is what happens to the listener and the cows in the system; it offers a brief and humorous take on the subject or locale."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Three_of_the_Cherry_Sisters_-_Addie%2C_Jessie_and_Effie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Three_of_the_Cherry_Sisters_-_Addie,_Jessie_and_Effie.jpg",
-    "file": "File:Three of the Cherry Sisters - Addie, Jessie and Effie.jpg",
-    "artist": "Unknown authorUnknown author",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Two_cows_grazing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Two_cows_grazing.jpg",
+    "file": "File:Two cows grazing.jpg",
+    "artist": "nieznany autor",
     "license": "Public domain",
     "license_url": null,
-    "width": 666,
-    "height": 904,
+    "width": 540,
+    "height": 396,
     "ok": true
    }
   },
@@ -508,22 +517,22 @@
    "id": "c27",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Extraterrestrial real estate: Want to buy a housing plot on the Moon?",
+   "hook": "Confessions of an English Opium-Eater: This highly popular autobiographical account about the effects of laudanum led several English authors to opium use.",
    "article": {
-    "title": "Extraterrestrial real estate",
-    "url": "https://en.wikipedia.org/wiki/Extraterrestrial_real_estate",
-    "extract": "Extraterrestrial real estate refers to claims of land ownership on other planets, natural satellites, or parts of space by certain organizations or individuals. Most claims on extraterrestrial real estate have not been recognized by any authority, and have no legal standing. Nevertheless, some private individuals and organizations have claimed ownership of celestial bodies, such as the Moon, and have been involved in \"selling\" parts of them through certificates of ownership termed \"Lunar deeds\", \"Martian deeds\" or similar.\nWhile personal claims have had little weight, whole states could potentially lay claim to colonizing celestial bodies."
+    "title": "Confessions of an English Opium-Eater",
+    "url": "https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater",
+    "extract": "Confessions of an English Opium-Eater is a memoir by Thomas De Quincey that recounts the circumstances of his addiction to laudanum, his experience of the drug, and its effect on his life. De Quincey was born in 1785. The chronology of his narrative begins with the death of his father in 1793, continues through his opium years beginning in 1804, and concludes after his marriage (in 1817) to a farmer's daughter named Margaret Simpson.\nDe Quincey completed the first edition of Confessions in 1821, at which point he published them anonymously in The London Magazine, where they appeared in two parts (in the September and October issues, respectively)."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Moon_merged_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Moon_merged_small.jpg",
-    "file": "File:Moon merged small.jpg",
-    "artist": "nieznany autor",
-    "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "width": 950,
-    "height": 950,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Confessions_of_an_English_Opium-Eater_cover_1823.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Confessions_of_an_English_Opium-Eater_cover_1823.jpg",
+    "file": "File:Confessions of an English Opium-Eater cover 1823.jpg",
+    "artist": "w:Thomas De Quincey",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 269,
+    "height": 500,
     "ok": true
    }
   },
@@ -531,22 +540,22 @@
    "id": "c28",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Whipping boy: A boy who received corporal punishment for misdemeanors of a prince; as well as some of his privileges.",
+   "hook": "Sada Abe: Sensational journalism from the Land of the Rising Sun.",
    "article": {
-    "title": "Whipping boy",
-    "url": "https://en.wikipedia.org/wiki/Whipping_boy",
-    "extract": "A whipping boy was a boy educated alongside a prince (or boy monarch) in early modern Europe who supposedly received corporal punishment for the prince's transgressions in his presence.  The prince was not punished himself because his royal status exceeded that of his tutor; seeing a friend punished would provide an equivalent motivation not to repeat the offence. An archaic proverb which captures a similar idea is \"to beat a dog before a lion\". Whipping was a common punishment administered by tutors at that time."
+    "title": "Sada Abe",
+    "url": "https://en.wikipedia.org/wiki/Sada_Abe",
+    "extract": "Sada Abe (阿部 定, Abe Sada; born May 28, 1905; disappeared 1970) was a Japanese geisha and prostitute who murdered her lover, Kichizō Ishida (石田 吉蔵), via strangulation on May 18, 1936, before cutting off his penis and testicles and carrying them around with her in her kimono. The story became a national sensation in Japan, acquiring mythic overtones; it has also been interpreted by artists, philosophers, novelists and filmmakers. Abe was released after serving five years in prison and went on to write an autobiography."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Whipping-boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Whipping-boy.jpg",
-    "file": "File:Whipping-boy.jpg",
-    "artist": "Walter S. Stacey",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sada_Abe_portrait.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sada_Abe_portrait.JPG",
+    "file": "File:Sada Abe portrait.JPG",
+    "artist": "Unknown authorUnknown author",
     "license": "Public domain",
     "license_url": null,
-    "width": 442,
-    "height": 600,
+    "width": 314,
+    "height": 392,
     "ok": true
    }
   },
@@ -554,22 +563,22 @@
    "id": "c29",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "... that Romanian literary historian Alexandru George once gifted a cooking pot and a saucepan to a poet whom he was courting?",
+   "hook": "Architecture terrible: An architectural style advocated by French architect Jacques-François Blondel.",
    "article": {
-    "title": "Alexandru George",
-    "url": "https://en.wikipedia.org/wiki/Alexandru_George",
-    "extract": "Alexandru George (born George-Alexandru Georgescu; 6 April 1930 – 28 September 2012) was a Romanian literary historian, critic, and fiction writer, also known as a translator, illustrator, and political commentator. He was always proud of belonging by birth to the upper-middle-classes of the monarchic era, constructing himself an ideological system that combined elements of elitism, cosmopolitanism, and economic liberalism. Such visions clashed with the social agenda imposed after 1948 by the Romanian communist regime. Sensing that he would end up expelled, George ended his studies at the University of Bucharest; he took up unskilled or semi-skilled jobs, managing to survive through the 1950s."
+    "title": "Architecture terrible",
+    "url": "https://en.wikipedia.org/wiki/Architecture_terrible",
+    "extract": "Architecture terrible ([aʁ.ʃi.tɛk.tyʁ tɛ.ʁibl], lit. 'architecture which evokes terror') was an architectural style advocated by French architect Jacques-François Blondel in his nine-volume treatise Cours d'architecture (1771–77). Blondel promoted the style for the exterior design of prisons: the form of the building itself would proclaim its function and serve as a deterrent, and so achieve a \"repulsive style\" of heaviness that would \"declare to the spectators outside the confused lives of those detained inside, along with the force required for those in charge to hold them confined\". Blondel further described it as \"...a style where the principles of art seem to be crushed under the weight of the Artist's ignorance\".\nLondon's second Newgate Prison, built between 1768 and 1775, is an example of this style of architecture: reinforced walls almost without windows, a deliberate inelegance,"
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alexandru_George_in_1971.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Alexandru_George_in_1971.png",
-    "file": "File:Alexandru George in 1971.png",
-    "artist": "Unknown authorUnknown author",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/West_View_of_Newgate_by_George_Shepherd_%281784-1862%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:West_View_of_Newgate_by_George_Shepherd_(1784-1862)_(cropped).jpg",
+    "file": "File:West View of Newgate by George Shepherd (1784-1862) (cropped).jpg",
+    "artist": "George Shepherd",
     "license": "Public domain",
     "license_url": null,
-    "width": 560,
-    "height": 787,
+    "width": 573,
+    "height": 376,
     "ok": true
    }
   },
@@ -577,22 +586,22 @@
    "id": "c30",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Whitespace: The programming language that really says, \" \".",
+   "hook": "Candy Desk: A desk on the floor of the U.S. Senate has been kept filled with candy since 1968.",
    "article": {
-    "title": "Whitespace (programming language)",
-    "url": "https://en.wikipedia.org/wiki/Whitespace_(programming_language)",
-    "extract": "Whitespace is an esoteric programming language with syntax where only whitespace characters (space, tab and newline) have meaning – contrasting typical languages that largely ignore whitespace characters.\nAs a consequence of its syntax, Whitespace source code can be contained within the whitespace of code written in a language that ignores whitespace – making the text a polyglot.\nWhitespace is an imperative, stack-based language. \nThe programmer can push arbitrary-width integer values onto a stack and access a heap to store data."
+    "title": "Candy Desk",
+    "url": "https://en.wikipedia.org/wiki/Candy_Desk",
+    "extract": "The Candy Desk has been a tradition of the United States Senate since 1965, whereby a Republican senator who sits at a particular desk near a busy entrance keeps a drawer full of candy for members of the body.  The current occupant of the candy desk is Oklahoma Senator Alan Armstrong since 2026.\nIn 1965, California's George Murphy joined the Senate, and kept candy in his desk for himself and his colleagues, despite eating being prohibited on the Senate floor. When he left the Senate after a six-year term, other Republican senators maintained the custom."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Whitespace_in_vim2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Whitespace_in_vim2.png",
-    "file": "File:Whitespace in vim2.png",
-    "artist": "uploader",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Candy_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Candy_desk.jpg",
+    "file": "File:Candy desk.jpg",
+    "artist": "U.S. Senate",
     "license": "Public domain",
     "license_url": null,
-    "width": 644,
-    "height": 412,
+    "width": 477,
+    "height": 346,
     "ok": true
    }
   },
@@ -600,22 +609,22 @@
    "id": "c31",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Nobody for President: Vote for Nobody! Nobody will listen to their campaign promises!",
+   "hook": "A Musical Joke: A composition that Mozart allegedly made to mock bad composers.",
    "article": {
-    "title": "Nobody for President",
-    "url": "https://en.wikipedia.org/wiki/Nobody_for_President",
-    "extract": "Nobody for President was a parodic campaign for the 1976 United States presidential election, as well as the 1980, 1984, and 1988 presidential elections.\nWavy Gravy, master of ceremonies for the Woodstock Festival and official clown of the Grateful Dead, is believed to have nominated Nobody at the Yippie national convention outside the Republican National Convention in Kansas City in 1976. Another of those responsible, Arthur Hoppe (a syndicated columnist for the San Francisco Chronicle) claims to have distributed \"several thousand\" Nobody for President campaign buttons and to have written \"dozens of columns extolling Nobody's virtues.\" It was the second time the Yippies had nominated an ineligible candidate for the Presidency, following the nomination of a boar named Pigasus eight years prior.\nThe organizers of the campaign staged a ticker-tape parade down a boulevard in Berkeley, Calif"
+    "title": "A Musical Joke",
+    "url": "https://en.wikipedia.org/wiki/A_Musical_Joke",
+    "extract": "A Musical Joke (German: Ein musikalischer Spaß, lit. 'A Musical Fun') K. 522, (divertimento for two horns in F, and string quartet) is a composition by Wolfgang Amadeus Mozart; he entered it in his Verzeichnis aller meiner Werke (Catalogue of All My Works) on 14 June 1787.\nMany commentators have expressed the opinion that the piece's purpose is satirical – that \"[its] harmonic and rhythmic gaffes serve to parody the work of incompetent composers\".\nMozart himself, however, is not known to have revealed his actual intentions."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nobody_for_President_1976_campaign_button.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Nobody_for_President_1976_campaign_button.png",
-    "file": "File:Nobody for President 1976 campaign button.png",
-    "artist": "Youth International Party",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mozart_drawing_Doris_Stock_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mozart_drawing_Doris_Stock_1789.jpg",
+    "file": "File:Mozart drawing Doris Stock 1789.jpg",
+    "artist": "Dora Stock",
     "license": "Public domain",
     "license_url": null,
-    "width": 1000,
-    "height": 984,
+    "width": 864,
+    "height": 1047,
     "ok": true
    }
   },
@@ -623,22 +632,22 @@
    "id": "c32",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Gittler guitar: An electric guitar that looks as unlike a guitar as possible.",
+   "hook": "Bonnie Blue: One of them had sex with around 1000 men, the other with around 100 in one day. Needless to say, Guinness does not do these kinds of records.",
    "article": {
-    "title": "Gittler guitar",
-    "url": "https://en.wikipedia.org/wiki/Gittler_guitar",
-    "extract": "The Gittler Guitar is an experimental designed guitar created by Allan Gittler (1928–2002). Gittler felt that sentimental design references to acoustic guitars are unnecessary in an electronically amplified guitar, and designed his instrument with the objective of reducing the electric guitar to the most minimal functional form possible."
+    "title": "Bonnie Blue",
+    "url": "https://en.wikipedia.org/wiki/Bonnie_Blue",
+    "extract": "Tia Billinger (born 1999), known professionally as Bonnie Blue, is an English pornographic film actress. After attending 2023's schoolies week, she had sex with large numbers of students at both spring break in Cancún, Mexico, and freshers' week in Derby and Nottingham, England, and went viral for discussing her sex life on GK Barry's podcast Saving Grace. She was criticised during this period for the age of her co-stars (as young as 18) and for comments that critics have described as promoting misogyny and the sexual objectification of women.\nBlue claimed to have had sex with 1,057 men in 12 hours on 11 January 2025, making her the subject of months of media attention and inspiring similar events by Lily Phillips, Annie Knight, and Drake Von."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gittler_%28electric_guitar%29_%281970-1985%29_-_MIM_PHX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Gittler_(electric_guitar)_(1970-1985)_-_MIM_PHX.jpg",
-    "file": "File:Gittler (electric guitar) (1970-1985) - MIM PHX.jpg",
-    "artist": "Frank Kovalchek from Anchorage, Alaska, USA",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "width": 343,
-    "height": 640,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bonnie_Blue%2C_July_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bonnie_Blue,_July_2025_(cropped).jpg",
+    "file": "File:Bonnie Blue, July 2025 (cropped).jpg",
+    "artist": "Anything Goes With James English",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 736,
+    "height": 975,
     "ok": true
    }
   },
@@ -646,22 +655,22 @@
    "id": "c33",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Portuguese Fireplace: A fireplace in the middle of the New Forest.",
+   "hook": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn: Angus McDiarmad, a native Scots-Gaelic speaker, writes a book on a Scottish Highland area with the help of an English dictionary to great comic effect and is termed \"the world's worst author\".",
    "article": {
-    "title": "Portuguese Fireplace",
-    "url": "https://en.wikipedia.org/wiki/Portuguese_Fireplace",
-    "extract": "The Portuguese Fireplace is a war memorial in the New Forest National Park, near the village of Lyndhurst, Hampshire, England. It is located on the road between Bolderwood and Emery Down, approximately 2 km (1 mi) from the latter. It is near Millyford Bridge and is used as a Waymark. Because it was also operated by the Canadian Forestry Corps, it is also referred to locally as the Canadian Fireplace."
+    "title": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn",
+    "url": "https://en.wikipedia.org/wiki/Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn",
+    "extract": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn, also published as A Description of the Beauties of Edinample and Lochearnhead, is a short book by the Scottish writer Angus McDiarmid (fl. early 19th century) that led the local history populariser Archie McKerracher to call him \"the world's worst author\".\nThe book is poorly written and has been humorously criticized by readers. The main text describes the scenery near Lochearnhead, including landmarks and local history."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_Portuguese_Fireplace_-_geograph.org.uk_-_43995.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:The_Portuguese_Fireplace_-_geograph.org.uk_-_43995.jpg",
-    "file": "File:The Portuguese Fireplace - geograph.org.uk - 43995.jpg",
-    "artist": "Clive Perrin",
-    "license": "CC BY-SA 2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "width": 640,
-    "height": 480,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Striking_and_Picturesque_Delineations_of_the_Grand%2C_Beautiful%2C_Wonderful%2C_and_Interesting_Scenery_Around_Loch-Earn_%28Book_Cover%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn_(Book_Cover).png",
+    "file": "File:Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn (Book Cover).png",
+    "artist": "Angus McDiarmid",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1025,
+    "height": 1795,
     "ok": true
    }
   },
@@ -669,22 +678,22 @@
    "id": "c34",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "27 Club: A number of prominent musicians have died at this age, though statisticians attribute the \"club\" to apophenia – seeing patterns in random data. (See also the related white lighter myth.)",
+   "hook": "Vennbahn: A disused railway in Belgium which separates five pieces of Germany from the rest of Germany.",
    "article": {
-    "title": "27 Club",
-    "url": "https://en.wikipedia.org/wiki/27_Club",
-    "extract": "The 27 Club is an informal list consisting mostly of popular musicians who died at age 27. As a pop-cultural phenomenon, it is closely linked to the urban myth that musicians' deaths are unusually common at 27. Although this claim has been refuted by scientific research, it remains a common cultural conception that the phenomenon exists, with many celebrities who die at 27 noted for their high-risk lifestyles. \nThe original basis for the notion was a cluster of prominent musicians' deaths at the age of 27 between 1969 and 1971, including Brian Jones, Jimi Hendrix, Janis Joplin, and Jim Morrison; but only after the death of Kurt Cobain in 1994 was the notion of a \"club\" established, and the death of Amy Winehouse in 2011 enhanced its prominence."
+    "title": "Vennbahn",
+    "url": "https://en.wikipedia.org/wiki/Vennbahn",
+    "extract": "The Vennbahn (German pronunciation: [ˈfɛnbaːn], \"Fen Railway\") is a former railway line that was built partly across what was then German territory by the Prussian state railways. It is now entirely in Belgium, because the trackbed of the line, as well as the stations and other installations, were made provisional Belgian territory in 1919 (permanent in 1922) under an article of the Treaty of Versailles.\nThis created six small exclaves of Germany on the line's western side, of which five remain. The treaty (not the location of the trackbed, per se) also created one small Belgian counter-enclave, a traffic island inside a three-way German road intersection near Fringshaus which lasted until 1949."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_-_Young_Lion_(1967)_(1).jpg",
-    "file": "File:Jim Morrison - Young Lion (1967) (1).jpg",
-    "artist": "Joel Brodsky, Distributed by Elektra Records",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vennbahn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vennbahn.png",
+    "file": "File:Vennbahn.png",
+    "artist": "nieznany autor",
     "license": "Public domain",
     "license_url": null,
-    "width": 1135,
-    "height": 1475,
+    "width": 718,
+    "height": 726,
     "ok": true
    }
   },
@@ -692,22 +701,22 @@
    "id": "c35",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "... that Indonesian politician Yampit Nawipa is also an active footballer?",
+   "hook": "Pantone 448 C: \"Drab dark brown\", the least attractive colour, according to research. Used for plain tobacco packaging.",
    "article": {
-    "title": "Yampit Nawipa",
-    "url": "https://en.wikipedia.org/wiki/Yampit_Nawipa",
-    "extract": "Yampit Womaki Nawipa (born 15 January 1989), also mononymously known as Womaki, is an Indonesian Papuan politician and semi-professional footballer who has served as the Regent of Paniai since 20 February 2025 with his deputy Ham Yogi."
+    "title": "Pantone 448 C",
+    "url": "https://en.wikipedia.org/wiki/Pantone_448_C",
+    "extract": "Pantone 448 C is a colour in the Pantone colour system. Described as \"drab dark brown,\" it has been informally dubbed the \"ugliest colour in the world\". It was selected in 2012 as the colour for plain tobacco and cigarette packaging in Australia, after market researchers determined that it was the least attractive colour.\n\nThe Australian Department of Health initially referred to the colour as \"olive green\", but the name was changed after concerns were expressed by the Australian Olive Association."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bupati_Paniai%2C_Yampit_Nawipa_%282025%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Bupati_Paniai,_Yampit_Nawipa_(2025).png",
-    "file": "File:Bupati Paniai, Yampit Nawipa (2025).png",
-    "artist": "BPS Kabupaten Paniai",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pantone_448_C.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pantone_448_C.png",
+    "file": "File:Pantone 448 C.png",
+    "artist": "علاء",
     "license": "Public domain",
     "license_url": null,
-    "width": 452,
-    "height": 552,
+    "width": 480,
+    "height": 320,
     "ok": true
    }
   },
@@ -715,22 +724,22 @@
    "id": "c36",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Hobby Lobby smuggling scandal: A craft store chain purchases stolen Iraqi artifacts.",
+   "hook": "Clinton Road (New Jersey): In addition to having the longest traffic light in the country, the road is also notorious for reported occurrences of paranormal activity.",
    "article": {
-    "title": "Hobby Lobby smuggling scandal",
-    "url": "https://en.wikipedia.org/wiki/Hobby_Lobby_smuggling_scandal",
-    "extract": "The Hobby Lobby smuggling scandal started in 2009 when representatives of the Hobby Lobby chain of craft stores received a large number of clay bullae and tablets originating in the ancient Near East. The artifacts were intended for the Museum of the Bible, funded by the Evangelical Christian Green family, which owns the Hobby Lobby chain. Internal staff had warned superiors that the items had dubious provenance and were potentially looted from Iraq.\nSeveral shipments of the artifacts were seized by US customs agents in 2011, triggering a struggle between Hobby Lobby and the federal government that culminated in a 2017 civil forfeiture case United States of America v."
+    "title": "Clinton Road (New Jersey)",
+    "url": "https://en.wikipedia.org/wiki/Clinton_Road_(New_Jersey)",
+    "extract": "Clinton Road is located in West Milford, Passaic County, New Jersey, United States. It runs in a generally north–south direction, beginning at Route 23 near Newfoundland and running roughly 10 mi (16 km) to its northern terminus at Upper Greenwood Lake.\nThe road and the land around it have gained notoriety over the years as an area rife with many legends of paranormal occurrences such as sightings of ghosts, strange creatures, and gatherings of witches, Satanists, and the Ku Klux Klan. It is also rumored that professional killers dispose of bodies in the surrounding woods—with one recorded case of this occurring."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg",
-    "file": "File:United States versus Approximately 450 Ancient Cuneiform Tablets - smuggled artifact 1.jpg",
-    "artist": "United States District Court for the Eastern District of New York",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 368,
-    "height": 651,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Clinton_Road_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Clinton_Road_sign.jpg",
+    "file": "File:Clinton Road sign.jpg",
+    "artist": "Daniel Case at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 800,
+    "height": 495,
     "ok": true
    }
   },
@@ -738,22 +747,22 @@
    "id": "c37",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Street dogs in Moscow: Some of them have figured out how to commute using the subway system.",
+   "hook": "Jesus nut: Not your local Bible-thumping preacher but the bolt on the top of a helicopter that connects it to the rotor blades.",
    "article": {
-    "title": "Street dogs in Moscow",
-    "url": "https://en.wikipedia.org/wiki/Street_dogs_in_Moscow",
-    "extract": "The city of Moscow, Russia, hosts a large population of free-ranging dogs. Many operate in packs and have become accustomed to seeking food from passersby. Some of them who frequent or inhabit the subway have attracted international attention for learning how to use the trains to commute between various locations. The most famous Muscovite street dog is Laika (Russian: Лайка), who ended up being one of the first animals in space and the first to orbit the Earth."
+    "title": "Jesus nut",
+    "url": "https://en.wikipedia.org/wiki/Jesus_nut",
+    "extract": "The main rotor retaining nut or mast nut, often colloquially referred to as the Jesus nut, holds the main rotor to the mast of some helicopters. The related slang term Jesus pin refers to the lock pin used to secure the retaining nut. A failure of this nut is likely to result in a crash."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Stray_dogs_in_Red_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Stray_dogs_in_Red_Square.jpg",
-    "file": "File:Stray dogs in Red Square.jpg",
-    "artist": "Анатолий Девятов",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "width": 592,
-    "height": 450,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jesus_nut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jesus_nut.jpg",
+    "file": "File:Jesus nut.jpg",
+    "artist": "Alan Radecki Akradecki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
     "ok": true
    }
   },
@@ -761,119 +770,27 @@
    "id": "c38",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Bob's Game: An unreleased homebrew game of a game, in a game, within a game. The developer went on a protest against the evil corporation known as \"Gantendo\".",
+   "hook": "Cummingtonite: A mineral named after the city of Cummington, Massachusetts... What? What? We know what you're thinking, so just say it. Say it!",
    "article": {
-    "title": "Bob's Game",
-    "url": "https://en.wikipedia.org/wiki/Bob%27s_Game",
-    "extract": "Bob's Game (stylized as \"bob's game\") is a role-playing video game under development since 2003 or 2004 by independent video game developer Robert Pelloni. The project is most notable for the erratic behaviour of its developer, whose quest to get an official SDK for the Nintendo DS eventually escalated into a 30-day protest, vandalizing a store, an announcement of a competing console, and several crowdfunding campaigns, with Pelloni intermittently giving eccentric statements and interviews."
+    "title": "Cummingtonite",
+    "url": "https://en.wikipedia.org/wiki/Cummingtonite",
+    "extract": "Cummingtonite ( KUM-ing-tə-nyte) is a metamorphic amphibole with the chemical composition (Mg,Fe2+)2(Mg,Fe2+)5Si8O22(OH)2, magnesium iron silicate hydroxide.\nMonoclinic cummingtonite is compositionally similar and polymorphic with orthorhombic anthophyllite, which is a much more common form of magnesium-rich amphibole, the latter being metastable.\nCummingtonite shares few compositional similarities with alkali amphiboles such as arfvedsonite, glaucophane-riebeckite. There is little solubility between these minerals due to different crystal habit and inability of substitution between alkali elements and ferro-magnesian elements within the amphibole structure."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bobsgame_nice_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Bobsgame_nice_logo.png",
-    "file": "File:Bobsgame nice logo.png",
-    "artist": "Robert Pelloni",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 512,
-    "height": 512,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Amphibole_-_Cummingtonite_w-_chlorite_in_schist_Magnesium_iron_silicate_3800_foot_level_Homestake_Mine_Lawrence_COunty_South_Dakota_2071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Amphibole_-_Cummingtonite_w-_chlorite_in_schist_Magnesium_iron_silicate_3800_foot_level_Homestake_Mine_Lawrence_COunty_South_Dakota_2071.jpg",
+    "file": "File:Amphibole - Cummingtonite w- chlorite in schist Magnesium iron silicate 3800 foot level Homestake Mine Lawrence COunty South Dakota 2071.jpg",
+    "artist": "Dave Dyet http://www.shutterstone.com http://www.dyet.com",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 568,
+    "height": 470,
     "ok": true
    }
   },
   {
    "id": "c39",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Friendly Floatees spill: Rubber ducks and their friends who went on a long, long journey.",
-   "article": {
-    "title": "Friendly Floatees spill",
-    "url": "https://en.wikipedia.org/wiki/Friendly_Floatees_spill",
-    "extract": "Friendly Floatees are plastic bath toys (including rubber ducks) marketed by The First Years and made famous by the work of Curtis Ebbesmeyer, an oceanographer who models ocean currents on the basis of flotsam movements. Ebbesmeyer studied the movements of a consignment of 28,800 Friendly Floatees—yellow ducks, red beavers, blue turtles, and green frogs—that were washed into the Pacific Ocean in 1992. Some of the toys landed along Pacific Ocean shores, such as Hawaii. Others traveled over 27,000 kilometres (17,000 mi), floating over the site where the Titanic sank, and spent years frozen in Arctic ice before reaching the U.S. Eastern Seaboard as well as British and Irish shores, fifteen years later, in 2007."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Friendly_Floatees.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Friendly_Floatees.png",
-    "file": "File:Friendly Floatees.png",
-    "artist": "NordNordWest",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 850,
-    "height": 523,
-    "ok": true
-   }
-  },
-  {
-   "id": "c40",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Balloon phobia: Also known as globophobia.",
-   "article": {
-    "title": "Balloon phobia",
-    "url": "https://en.wikipedia.org/wiki/Balloon_phobia",
-    "extract": "Balloon phobia or globophobia is a fear of balloons. The most common source of fear is the sound of balloons popping (making it a form of phonophobia), but individuals can also be triggered by their texture and smell. Generally, people with globophobia will refuse to touch, feel, smell, or go near a balloon for fear it will burst."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Congrats_bqt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Congrats_bqt.jpg",
-    "file": "File:Congrats bqt.jpg",
-    "artist": "Photographer: Warren Denning. Creative Director: Stan Weir. Marketing Director: Tim Vlamis",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 639,
-    "height": 967,
-    "ok": true
-   }
-  },
-  {
-   "id": "c41",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Death poem: The urge to have famous last words, taken to its logical, carefully rewritten extreme.",
-   "article": {
-    "title": "Death poem",
-    "url": "https://en.wikipedia.org/wiki/Death_poem",
-    "extract": "The death poem is a genre of poetry that developed in the literary traditions of the Sinosphere—most prominently in Japan as well as certain periods of Chinese history, Joseon Korea, and Vietnam. They tend to offer a reflection on death—both in general and concerning the imminent death of the author—that is often coupled with a meaningful observation on life. The practice of writing a death poem has its origins in Zen Buddhism. It is a concept or worldview derived from the Buddhist teaching of the three marks of existence (三法印, sanbōin), specifically that the material world is transient and impermanent (無常, mujō), that attachment to it causes suffering (苦, ku), and ultimately all reality is an emptiness or absence of self-nature (空, kū)."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Death_poem_by_Kuroki_Hiroshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Death_poem_by_Kuroki_Hiroshi.jpg",
-    "file": "File:Death poem by Kuroki Hiroshi.jpg",
-    "artist": "Kuroki Hiroshi",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 165,
-    "height": 250,
-    "ok": true
-   }
-  },
-  {
-   "id": "c42",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Helen Duncan: The last woman convicted under the UK's Witchcraft Act. Her favourite trick: \"ectoplasm\" made out of fabric and egg.",
-   "article": {
-    "title": "Helen Duncan",
-    "url": "https://en.wikipedia.org/wiki/Helen_Duncan",
-    "extract": "Victoria Helen McCrae Duncan (née MacFarlane, 25 November 1897 – 6 December 1956) was a Scottish medium best known as the last person to be imprisoned under the Witchcraft Act 1735 (9 Geo. 2. c. 5) for fraudulent claims."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Helen_Duncan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Helen_Duncan.jpg",
-    "file": "File:Portrait of Helen Duncan.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 777,
-    "height": 1108,
-    "ok": true
-   }
-  },
-  {
-   "id": "c43",
    "source": "wiki-en",
    "lang": "en",
    "hook": "Goose pulling: Hang a live goose from a rope, gallop under it on a horse and pull its head off. What could be simpler?",
@@ -896,25 +813,117 @@
    }
   },
   {
-   "id": "c44",
+   "id": "c40",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Fenelon Place Elevator: The shortest and steepest railroad in the world, (supposedly) located in a town of around 60,000 people.",
+   "hook": "Richard Chase: The only way to stop the Nazi-controlled UFOs from poisoning your macaroni and cheese is to inject yourself with animal blood and eat human brains.",
    "article": {
-    "title": "Fenelon Place Elevator",
-    "url": "https://en.wikipedia.org/wiki/Fenelon_Place_Elevator",
-    "extract": "The Fenelon Place Elevator (also known as the Fourth Street Elevator) is a 3 ft (914 mm) narrow gauge funicular railway located in Dubuque, Iowa, United States. It was listed in the National Register of Historic Places in 1978.  It was included as a contributing property in the Cathedral Historic District in 1985, and in the Fenelon Place Residential Historic District in 2015."
+    "title": "Richard Chase",
+    "url": "https://en.wikipedia.org/wiki/Richard_Chase",
+    "extract": "Richard Trenton Chase (May 23, 1950 – December 26, 1980) was an American serial killer, cannibal, and necrophile known as the Vampire of Sacramento, the Dracula Killer, and the Vampire Killer, who killed six people between December 1977 and January 1978 in Sacramento, California.\nAll of Chase's victims were chosen at random. His first victim was killed in a drive-by shooting; his subsequent victims were murdered inside their own homes, with the primary motive behind these murders being the mutilation of their bodies and the consumption of their blood and organs.\nTried and convicted of six counts of first degree murder, Chase was sentenced to death on May 8, 1979, with the jury ruling he was legally sane at the time of the commission of the crimes."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Dubuque_IA_-_4th_Street_Elevator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Dubuque_IA_-_4th_Street_Elevator.jpg",
-    "file": "File:Dubuque IA - 4th Street Elevator.jpg",
-    "artist": "Dirk",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "width": 1280,
-    "height": 850,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/RichardTrentonChase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:RichardTrentonChase.jpg",
+    "file": "File:RichardTrentonChase.jpg",
+    "artist": "Sacramento Police Department booking officer. January 28, 1978",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 299,
+    "height": 341,
+    "ok": true
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Benjaman Kyle\": Found naked and unconscious outside a Burger King dumpster (where he derived his new alias from), he doesn't remember 20 years of his life, or how he ended up in Georgia from Colorado.",
+   "article": {
+    "title": "Benjaman Kyle",
+    "url": "https://en.wikipedia.org/wiki/Benjaman_Kyle",
+    "extract": "Benjaman Kyle is the alias chosen by William Burgess Powell (born August 29, 1948), an American man who has claimed to have severe amnesia.\nOn August 31, 2004, he was found naked, without any possessions, next to a dumpster behind a Burger King restaurant in Richmond Hill, Georgia. Between 2004 and 2015, his real identity was unknown despite an intensive search that included television publicity and various other methods. In late 2015, genetic detective work, led to the discovery of his identity as Powell."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Benjaman_Kyle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Benjaman_Kyle.jpg",
+    "file": "File:Benjaman Kyle.jpg",
+    "artist": "Adam Harbottle",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 401,
+    "height": 604,
+    "ok": true
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Millennial whoop: Put on a \"best of the 2010s\" playlist, and hear the same repeated two notes everywhere.",
+   "article": {
+    "title": "Millennial whoop",
+    "url": "https://en.wikipedia.org/wiki/Millennial_whoop",
+    "extract": "The millennial whoop is a vocal melodic pattern alternating between the fifth note (the dominant) and the third note (the mediant) in a major scale, typically starting on the fifth, in the rhythm of straight 8th-notes, and often using the \"wa\" and \"oh\" syllables. It was used extensively in 2010s pop music."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Millenial_whoop.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Millenial_whoop.png",
+    "file": "File:Millenial whoop.png",
+    "artist": "Jean-no",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1210,
+    "height": 744,
+    "ok": true
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Christmas in Nazi Germany: The Nazi Party reinvented Christmas by removing a certain baby boy raised in the Jewish faith.",
+   "article": {
+    "title": "Christmas in Nazi Germany",
+    "url": "https://en.wikipedia.org/wiki/Christmas_in_Nazi_Germany",
+    "extract": "The celebration of Christmas in Nazi Germany included attempts by the regime to bring the Christian religious holiday into line with Nazi ideology. The Jewish origins of Jesus and the commemoration of his birth as the Jewish Messiah was troubling for some members of the Nazi Party and their racialist beliefs. Between 1933 and 1945, some government officials attempted to remove these aspects of Christmas from civil celebrations and concentrate on cultural pre-Christian aspects of the festival. However, church and private celebrations remained Christian in nature."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bundesarchiv_Bild_102-17313%2C_Berlin%2C_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-17313,_Berlin,_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg",
+    "file": "File:Bundesarchiv Bild 102-17313, Berlin, Weihnachtspakete für das Winterhilfswerk.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 800,
+    "height": 536,
+    "ok": true
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Great Stork Derby: The strangest competition in Canadian history: female residents of Toronto were promised a financial reward to give birth to the most kids in just ten years.",
+   "article": {
+    "title": "Great Stork Derby",
+    "url": "https://en.wikipedia.org/wiki/Great_Stork_Derby",
+    "extract": "The Great Stork Derby was a contest held from 1926 to 1936. Female residents of Toronto, Ontario, Canada, competed to produce the most babies in order to qualify for an unusual bequest in a will."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Charles_Vance_Millar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Charles_Vance_Millar.jpg",
+    "file": "File:Charles Vance Millar.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 200,
+    "height": 201,
     "ok": true
    }
   },
@@ -922,22 +931,22 @@
    "id": "c45",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Rangoon bombing: A relatively unknown case of North Korean violence aimed at South Korean representatives in Burma.",
+   "hook": "Gurn: A Western term for creating odd appearances of the face.",
    "article": {
-    "title": "Rangoon bombing",
-    "url": "https://en.wikipedia.org/wiki/Rangoon_bombing",
-    "extract": "The Rangoon bombing of 9 October 1983 was an assassination attempt orchestrated by North Korea against Chun Doo-hwan, the fifth president of South Korea, in Rangoon, Burma. Although Chun survived, 21 people died in the attack and 46 were injured. One suspect was later killed, and the two other suspected bombers were captured, one of whom confessed to being a North Korean military officer."
+    "title": "Gurn",
+    "url": "https://en.wikipedia.org/wiki/Gurn",
+    "extract": "A gurn or chuck is a distorted facial expression; the term is also used as a verb to describe the action of making such a face. A typical gurn involves projecting the lower jaw as far forward and upward as possible, covering the upper lip with the lower lip.\nThe English Dialect Dictionary, compiled by Joseph Wright, defines the word gurn as \"to snarl as a dog; to look savage; to distort the countenance,\" while the Oxford English Dictionary suggests that the derivation may originally be Scottish and related to the word grin. In Northern Ireland, the verb to gurn means \"to cry,\" with the act of crying often referred to as \"gurnin'\"."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chun_Doo-hwan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Chun_Doo-hwan.png",
-    "file": "File:Chun Doo-hwan.png",
-    "artist": "TEMPLETON",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 800,
-    "height": 1000,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Wonderferret_gurns_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wonderferret_gurns_(cropped).jpg",
+    "file": "File:Wonderferret gurns (cropped).jpg",
+    "artist": "Wonderferret_gurns.jpg: Mark derivative work: David Kernow (talk)",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 400,
+    "height": 570,
     "ok": true
    }
   },
@@ -945,27 +954,119 @@
    "id": "c46",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "X-Seed 4000: The tallest building ever designed, standing 4 kilometres (2.5 mi) tall and housing 500,000 to 1,000,000 people on 800 floors. It is, however, \"never meant to be built\".",
+   "hook": "Nasubi: A man who became famous after appearing in a reality show in which he was locked in an apartment for 11 months until he won ¥1 million from mail-in sweepstakes. Said show also featured, among other things, two men who had to hitchhike their way from the Cape of Good Hope to Norway, a challenge to shave the beard of Fidel Castro, and a segment in which baseball fans would only be allowed to eat if their supported team won a game.",
    "article": {
-    "title": "X-Seed 4000",
-    "url": "https://en.wikipedia.org/wiki/X-Seed_4000",
-    "extract": "The X-Seed 4000 is a visionary concept for a megatall skyscraper.  Its proposed 4-kilometre (2.5 mi) height, 6-kilometre-wide (3.7 mi) sea-base, and 800-floor capacity could accommodate 500,000–1,000,000 inhabitants. This structure would have been composed of over 3 million tonnes (3.3 million short tons) of steel.\nIt was designed for Tokyo, Japan, by the Taisei Corporation in 1995 as a futuristic environment combining ultra-modern and technological living and interaction with wildlife and nature."
+    "title": "Nasubi",
+    "url": "https://en.wikipedia.org/wiki/Nasubi",
+    "extract": "Tomoaki Hamatsu (浜津 智明, Hamatsu Tomoaki; born 3 August 1975), better known as Nasubi (なすび, \"Eggplant\"), is a Japanese comedian and media personality. Hamatsu is best known for appearing on the controversial reality television show Susunu! Denpa Shōnen."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/XSeed4000BurjDubaiComparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:XSeed4000BurjDubaiComparison.jpg",
-    "file": "File:XSeed4000BurjDubaiComparison.jpg",
-    "artist": "Newsburst",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 1000,
-    "height": 720,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg",
+    "file": "File:なすび タレント.jpg",
+    "artist": "法務省",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1280,
+    "height": 854,
     "ok": true
    }
   },
   {
    "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nils Olav: A high-ranking military officer of Norway who happens to live in the penguin exhibit at Edinburgh Zoo.",
+   "article": {
+    "title": "Nils Olav",
+    "url": "https://en.wikipedia.org/wiki/Nils_Olav",
+    "extract": "Major General Sir Nils Olav III (Norwegian: [ˌnɪls ˈûːlɑv]), Baron of Bouvet Island, is a king penguin who resides in Edinburgh Zoo, Scotland. He is the mascot and colonel-in-chief of the Norwegian King's Guard."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Nils_Olav_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nils_Olav_wide.jpg",
+    "file": "File:Nils Olav wide.jpg",
+    "artist": "Lee Carson on Flickr",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1071,
+    "height": 1600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hachikō: A well-known story of a Japanese dog that will make you cry by the end of it.",
+   "article": {
+    "title": "Hachikō",
+    "url": "https://en.wikipedia.org/wiki/Hachik%C5%8D",
+    "extract": "Hachikō (ハチ公; mid-November 1923 – March 8, 1935) was an Akita dog remembered for his strong dedication to his owner, Hidesaburō Ueno, for whom he continued to wait for almost ten years following Ueno's death in 1925.\nHachikō was born in mid-November 1923, on a farm near Ōdate, Akita Prefecture, Japan. In 1924, Hidesaburō Ueno, a professor at the Tokyo Imperial University, brought him to live in Shibuya, Tokyo, as his pet. Hachikō met Ueno at Shibuya Station every day after his commute home."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hachiko.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hachiko.JPG",
+    "file": "File:Hachiko.JPG",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 385,
+    "height": 566,
+    "ok": true
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Towel Day: Don't forget to bring a towel, terrible or otherwise.",
+   "article": {
+    "title": "Towel Day",
+    "url": "https://en.wikipedia.org/wiki/Towel_Day",
+    "extract": "Towel Day is celebrated every year on 25 May as a tribute to the author Douglas Adams by his fans. On this day, fans openly carry a towel with them, as described in Adams' The Hitchhiker's Guide to the Galaxy, to demonstrate their appreciation for the books and the author. The commemoration was first held 25 May 2001, two weeks after Adams' death on 11 May."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Towelday-Innsbruck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Towelday-Innsbruck.jpg",
+    "file": "File:Towelday-Innsbruck.jpg",
+    "artist": "Bazillus on the English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 450,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fairy chess piece: Looking to spice up a game of chess? Throw one of these into the mix.",
+   "article": {
+    "title": "Fairy chess piece",
+    "url": "https://en.wikipedia.org/wiki/Fairy_chess_piece",
+    "extract": "A fairy chess piece, variant chess piece, unorthodox chess piece, or heterodox chess piece is a chess piece not used in conventional chess but incorporated into certain chess variants and some unorthodox chess problems, known as fairy chess. Compared to conventional pieces, fairy pieces vary mostly in the way they move, but they may also follow special rules for capturing, promotions, etc. Because of the distributed and uncoordinated nature of unorthodox chess development, the same piece can have different names, and different pieces can have the same name in various contexts.\nMost are symbolised as inverted or rotated icons of the standard pieces in diagrams, and the meanings of these \"wildcards\" must be defined in each context separately."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chancellor_Chess_Piece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chancellor_Chess_Piece.jpg",
+    "file": "File:Chancellor Chess Piece.jpg",
+    "artist": "Musketeerchess2016",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 330,
+    "height": 508,
+    "ok": true
+   }
+  },
+  {
+   "id": "c51",
    "source": "wiki-en",
    "lang": "en",
    "hook": "George W. Bush shoe-throwing incident: An incident where Iraqi journalist Muntadhar al-Zaidi threw a pair of shoes at George W. Bush on December 14th, 2008 during a press conference.",
@@ -984,98 +1085,6 @@
     "license_url": null,
     "width": 360,
     "height": 216,
-    "ok": true
-   }
-  },
-  {
-   "id": "c48",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Cicada 3301: Criminals or puzzle enthusiasts?",
-   "article": {
-    "title": "Cicada 3301",
-    "url": "https://en.wikipedia.org/wiki/Cicada_3301",
-    "extract": "Cicada 3301 is the name given to three sets of puzzles posted online under the name \"3301\" between 2012 and 2014. The first puzzle started on January 4, 2012, on 4chan, and ran for nearly a month. A second round began on January 4, 2013, and a third round was posted on Twitter on January 4, 2014. The third puzzle remains unsolved."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cicada3301%27s_First_Message.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Cicada3301%27s_First_Message.jpg",
-    "file": "File:Cicada3301's First Message.jpg",
-    "artist": "Cicada 3301",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 509,
-    "height": 503,
-    "ok": true
-   }
-  },
-  {
-   "id": "c49",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Folgerphone: A woodwind instrument made from a coffee can.",
-   "article": {
-    "title": "Folgerphone",
-    "url": "https://en.wikipedia.org/wiki/Folgerphone",
-    "extract": "The folgerphone (sometimes Folgerphone) is a wind instrument (or aerophone). Like the saxophone it is classifiable as a woodwind rather than brass instrument despite being made of metal, because it has a reed.  The folgerphone is a modern experimental instrument, using an alto sax mouthpiece, with copper tubing and a coffee can (the name is a reference to Folgers, a common American brand of canned coffee).  The instrument is not commercially produced, but constructed by musicians, and need not use a genuine coffee can, but any sounding box made of metal."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Folgerphone_Nutt_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Folgerphone_Nutt_front.jpg",
-    "file": "File:Folgerphone Nutt front.jpg",
-    "artist": "Craig Nutt",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 1024,
-    "height": 784,
-    "ok": true
-   }
-  },
-  {
-   "id": "c50",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Jahrhundertring: The centenary production of the Ring cycle was transported to the Industrial Revolution, with the gods as capitalist fat cats and the Rhinemaidens as prostitutes. Near-riots ensued.",
-   "article": {
-    "title": "Jahrhundertring",
-    "url": "https://en.wikipedia.org/wiki/Jahrhundertring",
-    "extract": "The Jahrhundertring (Centenary Ring) was a production of Richard Wagner's Ring cycle, Der Ring des Nibelungen, first performed at the Bayreuth Festival in 1976. The production was a centennial celebration of both the festival and the first performance of the complete cycle (which took place at the inaugural festival). The production was created by a French team consisting of conductor Pierre Boulez, stage director Patrice Chéreau, stage designer Richard Peduzzi, costume designer Jacques Schmidt, and lighting designer André Diot.\nChéreau ignored the composer's detailed scenic instructions, setting the work in Wagner's time, during the Industrial Revolution, and the production critically treated topics such as capitalism, industrialism, and spirituality."
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gwyneth_Ch%C3%A9reau_%28gro%C3%9Fer%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Gwyneth_Ch%C3%A9reau_(gro%C3%9Fer).jpg",
-    "file": "File:Gwyneth Chéreau (großer).jpg",
-    "artist": "Menerbes",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 283,
-    "height": 480,
-    "ok": true
-   }
-  },
-  {
-   "id": "c51",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Peanut Hole: A delightfully named patch of ocean in the Sea of Okhotsk that is totally surrounded by Russia's EEZ but not inside it. Often the subject of foreign overfishing.",
-   "article": {
-    "title": "Peanut Hole",
-    "url": "https://en.wikipedia.org/wiki/Peanut_Hole",
-    "extract": "The International zone of the Sea of Okhotsk (Russian: международная зона Охотского моря, romanized: mezhdunarodnaya zona Okhotskogo morya), known by its nickname the Peanut Hole, is an area of international waters at the center of the Sea of Okhotsk. From 1991 to 2014, its status was the subject of international disputes. Since March 2014, the Peanut Hole's seabed and subterranea are legally part of the continental shelf of Russia.\nThe Peanut Hole (named for its arachidic shape) is an area about 55 kilometres (34 miles) wide and 480 kilometres (300 miles) long, surrounded by the exclusive economic zone of Russia (EEZ), extending from the shores of the Kamchatka Peninsula, the Kuril Islands, Sakhalin, and the Russian mainland (Khabarovsk Krai and Magadan Oblast), but not within Russia's EEZ, because it is more than 200 nautical miles (370 km) from any coast, the latter being part of the "
-   },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Peanut_Hole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Peanut_Hole.jpg",
-    "file": "File:Peanut Hole.jpg",
-    "artist": "Xfigpower",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 643,
-    "height": 643,
     "ok": true
    }
   },
@@ -1252,6 +1261,20 @@
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
+   "hook": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+   "article": {
+    "title": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+    "url": "https://www.mentalfloss.com/entertainment/movies/one-problem-friday-the-13th-writer-had-sequels?utm_source=RSS",
+    "extract": "Victor Miller wrote the ‘Friday the 13th’ movie that gave the world Jason Voorhees, but he never wanted this to happen."
+   },
+   "published": "Fri, 16 Oct 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
    "hook": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
    "article": {
     "title": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
@@ -1262,7 +1285,7 @@
    "image": null
   },
   {
-   "id": "c65",
+   "id": "c66",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1276,7 +1299,7 @@
    "image": null
   },
   {
-   "id": "c66",
+   "id": "c67",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1290,7 +1313,7 @@
    "image": null
   },
   {
-   "id": "c67",
+   "id": "c68",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1304,7 +1327,7 @@
    "image": null
   },
   {
-   "id": "c68",
+   "id": "c69",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1318,7 +1341,7 @@
    "image": null
   },
   {
-   "id": "c69",
+   "id": "c70",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1332,7 +1355,7 @@
    "image": null
   },
   {
-   "id": "c70",
+   "id": "c71",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1346,7 +1369,7 @@
    "image": null
   },
   {
-   "id": "c71",
+   "id": "c72",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1360,7 +1383,7 @@
    "image": null
   },
   {
-   "id": "c72",
+   "id": "c73",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1374,7 +1397,7 @@
    "image": null
   },
   {
-   "id": "c73",
+   "id": "c74",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1388,7 +1411,7 @@
    "image": null
   },
   {
-   "id": "c74",
+   "id": "c75",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1399,20 +1422,6 @@
     "extract": "Discover the snowiest month in every state, from New Mexico’s December peak to March storms in the West."
    },
    "published": "Wed, 14 Oct 2026 20:00:01 +0000",
-   "image": null
-  },
-  {
-   "id": "c75",
-   "source": "rss",
-   "feed": "Mental Floss",
-   "lang": "en",
-   "hook": "The 10 Best Cities in the World for 2026, Ranked",
-   "article": {
-    "title": "The 10 Best Cities in the World for 2026, Ranked",
-    "url": "https://www.mentalfloss.com/geography/cities/10-best-cities-in-world-2026-ranked?utm_source=RSS",
-    "extract": "Tell us: which of these cities would you most like to call home?"
-   },
-   "published": "Wed, 14 Oct 2026 18:00:03 +0000",
    "image": null
   },
   {
