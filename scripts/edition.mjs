@@ -156,7 +156,17 @@ function validate(n, where, date) {
   else if (!n.image && !n.noImage) err.push(ytId
     ? `brak image: dodaj kadr z filmu ${ytId} (i.ytimg.com/vi/${ytId}/maxresdefault.jpg) albo pole noImage z powodem`
     : 'brak image: znajdź film/post twórcy lub zdjęcie prasowe; jeśli nie ma legalnego, dodaj embed i pole noImage z powodem');
+  const kid = kidWords().filter(w => [n.title, n.summary, n.category, n.who, ...(n.body || [])].join(' ').toLowerCase().includes(w));
+  if (kid.length) err.push(`treść dla dzieci (${kid.join(', ')}): Profil tematyczny ich wyklucza, wybierz inny temat`);
   return err.map(e => `${where} „${short(n.title, 50)}”: ${e}`);
+}
+// lista słów z instagram/harmonogram.json (bez_dla_dzieci), wspólna dla strony i IG
+let KID_WORDS = null;
+function kidWords() {
+  if (KID_WORDS) return KID_WORDS;
+  try { KID_WORDS = JSON.parse(fs.readFileSync(path.join(ROOT, 'instagram/harmonogram.json'), 'utf8')).bez_dla_dzieci || []; }
+  catch { KID_WORDS = []; }
+  return KID_WORDS = KID_WORDS.map(w => String(w).toLowerCase());
 }
 function add(file, build = true) {
   if (!file || !fs.existsSync(file)) die('podaj plik JSON z nowymi newsami');
@@ -219,6 +229,18 @@ function remove(date) {
   execFileSync(process.execPath, [path.join(ROOT, 'scripts/build.mjs')], { stdio: 'inherit' });
 }
 
+function drop(date, sec, frag) {
+  if (!date || !sec || !frag) die('użycie: drop RRRR-MM-DD <sekcja> "fragment tytułu"');
+  const ed = load(), list = ed[date] && ed[date][sec];
+  if (!Array.isArray(list)) die(`Brak sekcji ${sec} w wydaniu ${date}.`);
+  const hits = list.filter(n => n.title.toLowerCase().includes(frag.toLowerCase()));
+  if (hits.length !== 1) die(`Fragment pasuje do ${hits.length} newsów, podaj dokładniejszy.`);
+  list.splice(list.indexOf(hits[0]), 1);
+  if (!list.length) delete ed[date][sec];
+  save(ed);
+  console.log(`OK: usunięto „${hits[0].title}” z ${date}/${sec}.`);
+}
+
 const [cmd, a, b] = process.argv.slice(2);
 if (cmd === 'recent') recent(Number(a) || 7);
 else if (cmd === 'digest') digest(a, Number(b) || 40);
@@ -227,4 +249,5 @@ else if (cmd === 'ciekawostki') facts(a, Number(b) || 60);
 else if (cmd === 'ciekawostka') fact(a, b);
 else if (cmd === 'add') add(a, !process.argv.includes('--no-build'));
 else if (cmd === 'remove') remove(a);
-else die('użycie: recent | digest <run.json> | video <run.json> <id> | ciekawostki <run.json> | ciekawostka <run.json> <id> | add <nowe.json> | remove <data>');
+else if (cmd === 'drop') { drop(a, b, process.argv[5]); execFileSync(process.execPath, [path.join(ROOT, 'scripts/build.mjs')], { stdio: 'inherit' }); }
+else die('użycie: recent | digest <run.json> | video <run.json> <id> | ciekawostki <run.json> | ciekawostka <run.json> <id> | add <nowe.json> | remove <data> | drop <data> <sekcja> <fragment tytułu>');

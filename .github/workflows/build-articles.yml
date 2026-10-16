@@ -22,7 +22,7 @@ jobs:
       - run: node scripts/build.mjs
       - name: Zapisz zmiany
         run: |
-          git add -A artykuly archiwum.html sitemap.xml data/urls.js
+          git add -A artykuly archiwum.html sitemap.xml data/urls.js index.html
           if git diff --cached --quiet; then echo "Bez zmian"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898333+github-actions[bot]@users.noreply.github.com"

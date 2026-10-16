@@ -46,13 +46,9 @@ window.HYPERS_URLS = {
   "luz": [
    "artykuly/2026-10-15/rezigiusz-wypuszcza-kolejny-smak-snacky-chicken-bites.html",
    "artykuly/2026-10-15/major-spz-wydaje-singiel-serce-na-tacy.html",
-   "artykuly/2026-10-15/patix-pokazuje-jesienna-rutyne-z-piecioraczkami-w-brookhaven.html",
-   "artykuly/2026-10-15/torii-tlumaczy-ktora-trumne-wybrac-w-halloweenowym-evencie-brawl-stars.html",
    "artykuly/2026-10-15/dobrodziej-sprawdza-ocalalych-na-punkcie-kwarantanny-w-miami.html",
-   "artykuly/2026-10-15/foltyn-wraca-do-steal-a-brainrot-ponad-200-tys-wyswietlen-w-kilka.html",
    "artykuly/2026-10-15/ksiazulo-wraca-do-kuli-kebabuli-nowy-odcinek-z-pepsi-ma-ponad-pol.html",
    "artykuly/2026-10-15/graf-gra-w-krillion-im-rzadsza-odpowiedz-tym-wiecej-punktow.html",
-   "artykuly/2026-10-15/dizowskyy-wraca-do-babci-w-granny-3-jest-nowe-zakonczenie-i-lodz.html",
    "artykuly/2026-10-15/young-multi-wydaje-pierwszy-utwor-na-nopixel-i-podpisuje-kontrakt.html",
    "artykuly/2026-10-15/jynxzi-zebral-40-streamerow-na-turniej-w-league-of-legends-ludwig.html",
    "artykuly/2026-10-15/gameranx-zbiera-nowe-informacje-o-gta-6-po-pokazie-rockstara-dla-prasy.html",
@@ -66,8 +62,7 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-14/skrimi-wraca-do-the-long-drive-tym-razem-przy-minus-50-stopniach.html",
    "artykuly/2026-10-14/rafciusa-sklada-w-fc27-druzyne-z-samych-reprezentantow-polski-u21.html",
    "artykuly/2026-10-14/blowek-ostrzega-przed-winogronami-w-mikrofalowce.html",
-   "artykuly/2026-10-14/nowa-castlevania-u-theradbrada-ponad-300-tys-wyswietlen-w-dobe.html",
-   "artykuly/2026-10-14/kreekcraft-o-nowej-opcji-w-robloksie-tworcy-gier-moga-zamknac-funkcje.html"
+   "artykuly/2026-10-14/nowa-castlevania-u-theradbrada-ponad-300-tys-wyswietlen-w-dobe.html"
   ]
  },
  "2026-10-13": {

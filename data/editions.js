@@ -1426,80 +1426,6 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-10-15",
-        "who": "PatiX",
-        "initials": "PX",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "PatiX pokazuje jesienną rutynę z Pięcioraczkami w Brookhaven",
-        "summary": "PatiX nagrała w Robloksie jesienny odcinek swojej serii z Brookhaven. Tym razem w „rutynie” biorą udział Pięcioraczki i mała Ami.",
-        "body": [
-          "W czwartek na kanale PatiX pojawił się 17-minutowy film „Nasza jesienna rutyna z Pięcioraczkami i małą Ami na Brookhaven w Roblox”.",
-          "Pięcioraczki to postacie z odgrywanej przez twórczynię serii w Brookhaven; PatiX ma o nich też osobną piosenkę, do której link umieściła w opisie.",
-          "Przy odczycie o 14:16 film miał ok. 2,5 tys. wyświetleń i ponad 300 polubień. Pod pytaniem z kanału, czy widzowie lubią jesień, większość odpowiada, że tak, i chwali klimat odcinka."
-        ],
-        "sources": [
-          {
-            "name": "PatiX / YouTube",
-            "url": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
-        "caption": {
-          "credit": "PatiX / YouTube",
-          "text": "Miniatura jesiennego odcinka z serii PatiX w Brookhaven. Postacie z miniatury to awatary z gry, wokół których toczy się odcinek."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/P_WIXKaqoP8/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/P_WIXKaqoP8/hqdefault.jpg",
-          "credit": "PatiX / YouTube",
-          "href": "https://www.youtube.com/watch?v=P_WIXKaqoP8",
-          "alt": "Miniatura filmu PatiX z jesienną rutyną w Brookhaven",
-          "caption": "Kadr z miniatury filmu „Nasza jesienna rutyna z Pięcioraczkami i małą Ami”"
-        },
-        "slot": "15:00"
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-15",
-        "who": "Torii",
-        "initials": "TO",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "Torii tłumaczy, którą trumnę wybrać w halloweenowym evencie Brawl Stars",
-        "summary": "W Brawl Stars ruszył event z trumnami. Torii na kanale Torii Dwa pokazuje, co w nich jest i jak odebrać darmowe nagrody.",
-        "body": [
-          "Na kanale Torii Dwa pojawił się w czwartek 14-minutowy poradnik o nowym evencie „Scary Coffins” w Brawl Stars.",
-          "Według opisu filmu w trumnach można trafić m.in. Ultra Boxy, Ultra Chaos Dropy, darmowego halloweenowego skina dla Griffa, a nawet skrzynki z nowym zadymiarzem Vince'em.",
-          "Przy odczycie o 14:16 film miał ok. 700 wyświetleń i ponad 50 komentarzy. Widzowie piszą głównie, którego skina chcieliby dostać; najczęściej wymieniają Piper i Chucka."
-        ],
-        "sources": [
-          {
-            "name": "Torii Dwa / YouTube",
-            "url": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-        "caption": {
-          "credit": "Torii Dwa / YouTube",
-          "text": "Miniatura poradnika Toriiego o evencie z trumnami. Film omawia zawartość trumien i darmowe nagrody z halloweenowej aktualizacji."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/gfpfQX0w1aw/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/gfpfQX0w1aw/hqdefault.jpg",
-          "credit": "Torii Dwa / YouTube",
-          "href": "https://www.youtube.com/watch?v=gfpfQX0w1aw",
-          "alt": "Miniatura poradnika Toriiego o trumnach w Brawl Stars",
-          "caption": "Kadr z miniatury filmu „Którą trumnę wybrać, żeby dostać najlepsze nagrody w Brawl Stars?”"
-        },
-        "slot": "15:00"
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-15",
         "who": "Dobrodziej",
         "initials": "DO",
         "category": "Gaming",
@@ -1531,43 +1457,6 @@ window.HYPERS_EDITIONS = {
           "href": "https://www.youtube.com/watch?v=9MFh1MQAy2o",
           "alt": "Miniatura odcinka Dobrodzieja z Quarantine Zone Miami Zero",
           "caption": "Kadr z miniatury filmu „Ostatni bastion w Miami!!!”"
-        },
-        "slot": "15:00"
-      },
-      {
-        "region": "world",
-        "published": "2026-10-15",
-        "who": "Foltyn",
-        "initials": "FO",
-        "category": "Gaming",
-        "hype": 2,
-        "title": "Foltyn wraca do Steal a Brainrot. Ponad 200 tys. wyświetleń w kilka godzin",
-        "summary": "Amerykański twórca robloksowy Foltyn znów kradnie „brainroty”. W opisie promuje figurki i pluszaki „Caylus vs Foltyn” w sieci Target.",
-        "body": [
-          "Foltyn opublikował w czwartek film „I Returned To Steal A Brainrot..”, w którym wraca do robloksowej gry Steal a Brainrot.",
-          "W opisie odsyła do figurek i pluszaków z serii „Caylus vs Foltyn”, sprzedawanych w amerykańskiej sieci Target. To wspólna linia zabawek z innym twórcą robloksowym, Caylusem.",
-          "Przy odczycie o 14:16 polskiego czasu film miał ok. 213 tys. wyświetleń i blisko 1,7 tys. komentarzy. Widzowie żartują głównie z trudnych do wymówienia nazw postaci z gry."
-        ],
-        "sources": [
-          {
-            "name": "Foltyn / YouTube",
-            "url": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-        "caption": {
-          "credit": "Foltyn / YouTube",
-          "text": "Miniatura nowego filmu Foltyna ze Steal a Brainrot. To ten odcinek zebrał ponad 200 tys. wyświetleń w ciągu kilku godzin."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/YBVrsuMSqLk/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/YBVrsuMSqLk/hqdefault.jpg",
-          "credit": "Foltyn / YouTube",
-          "href": "https://www.youtube.com/watch?v=YBVrsuMSqLk",
-          "alt": "Miniatura filmu Foltyna I Returned To Steal A Brainrot",
-          "caption": "Kadr z miniatury filmu „I Returned To Steal A Brainrot..”"
         },
         "slot": "15:00"
       },
@@ -1642,43 +1531,6 @@ window.HYPERS_EDITIONS = {
           "href": "https://www.youtube.com/watch?v=pK5OlpiFiAg",
           "alt": "Miniatura filmu Grafa o grze Krillion",
           "caption": "Kadr z miniatury filmu „Im rzadsza odpowiedź, tym więcej punktów – Krillion”"
-        },
-        "slot": "7:00"
-      },
-      {
-        "region": "pl",
-        "published": "2026-10-14",
-        "who": "Dizowskyy",
-        "initials": "DZ",
-        "category": "Gaming",
-        "hype": 3,
-        "title": "Dizowskyy wraca do babci. W Granny 3 jest nowe zakończenie i łódź podwodna",
-        "summary": "Dizowskyy nagrał kolejny odcinek Granny 3, tym razem z nowym zakończeniem, w którym babcia trzyma w piwnicy łódź podwodną. Film zebrał prawie 42 tys. wyświetleń i 2,7 tys. polubień.",
-        "body": [
-          "W środę o 19:01 Dizowskyy opublikował film „Babcia ma łódź podwodną! Granny 3 *nowy ending*”. W opisie żartuje, że Granny wygląda tym razem tak, jakby dziadek zaczął grać w Subnauticę, i zapowiada nowe zagadki oraz nowych przeciwników.",
-          "Seria z Granny to jeden ze stałych formatów kanału. Przy odczycie w czwartek o 6:16 odcinek miał ok. 41,8 tys. wyświetleń, 2,7 tys. polubień i 170 komentarzy, czyli jeden z najwyższych stosunków polubień do wyświetleń w porannych danych.",
-          "Widzowie w komentarzach najczęściej chwalą wstęp filmu i proszą o kolejne odcinki z babcią. Pojawiają się też prośby o nagranie innych horrorów z tej samej rodziny gier."
-        ],
-        "sources": [
-          {
-            "name": "Dizowskyy / YouTube",
-            "url": "https://www.youtube.com/watch?v=th5fpV19wRo",
-            "origin": true
-          }
-        ],
-        "embed": "https://www.youtube.com/watch?v=th5fpV19wRo",
-        "caption": {
-          "credit": "Dizowskyy / YouTube",
-          "text": "Miniatura odcinka z nowym zakończeniem Granny 3. Motyw łodzi podwodnej z tytułu to ten sam pomysł, o którym Dizowskyy pisze w opisie filmu."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/th5fpV19wRo/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/th5fpV19wRo/hqdefault.jpg",
-          "credit": "Dizowskyy / YouTube",
-          "href": "https://www.youtube.com/watch?v=th5fpV19wRo",
-          "alt": "Miniatura filmu Dizowskyy'ego z Granny 3",
-          "caption": "Kadr z miniatury filmu „Babcia ma łódź podwodną! Granny 3 *nowy ending*”"
         },
         "slot": "7:00"
       },
@@ -2081,47 +1933,6 @@ window.HYPERS_EDITIONS = {
           "href": "https://www.youtube.com/watch?v=ow8qfTq8ALs",
           "alt": "Miniatura filmu theRadBrada z gameplayem Castlevania: Belmont's Curse",
           "caption": "theRadBrad w Castlevania: Belmont's Curse"
-        },
-        "slot": "7:00"
-      },
-      {
-        "region": "world",
-        "published": "2026-10-13",
-        "who": "KreekCraft",
-        "initials": "KC",
-        "category": "Gaming",
-        "hype": 3,
-        "title": "KreekCraft o nowej opcji w Robloksie: twórcy gier mogą zamknąć funkcje za weryfikacją wieku",
-        "summary": "Według KreekCrafta gry na Robloksie mogą teraz blokować część funkcji i treści za weryfikacją wieku. Jego krótki film zebrał w dobę blisko 650 tys. wyświetleń.",
-        "body": [
-          "KreekCraft, youtuber komentujący wydarzenia z Robloksa, opublikował we wtorek 19-sekundowy short „welp.. this isn't good”. W opisie pisze, że gry na platformie mogą teraz zamykać funkcje i treści za weryfikacją wieku.",
-          "Tego samego dnia wrzucił dłuższy film „Uhh Roblox..”, w którym według opisu omawia m.in. zaostrzenie weryfikacji wieku i nową możliwość usuwania grup.",
-          "Do środy do godz. 17:00 short miał ok. 648 tys. wyświetleń i ponad 1,6 tys. komentarzy. Widzowie w większości krytykują zmianę; część zauważa, że to opcja dla twórców gier, a nie obowiązek, inni obawiają się, że zachęci młodszych graczy do podawania fałszywego wieku."
-        ],
-        "sources": [
-          {
-            "name": "KreekCraft / YouTube",
-            "url": "https://www.youtube.com/shorts/RL5d9j_P2VA",
-            "origin": true
-          },
-          {
-            "name": "KreekCraft / YouTube",
-            "url": "https://www.youtube.com/watch?v=CjZC2lQtAqw",
-            "origin": true
-          }
-        ],
-        "caption": {
-          "credit": "KreekCraft / YouTube",
-          "text": "Kadr z shorta, w którym KreekCraft komentuje nową opcję weryfikacji wieku w grach na Robloksie. To o tej zmianie i reakcjach widzów jest news."
-        },
-        "image": {
-          "kind": "kadr",
-          "src": "https://i.ytimg.com/vi/RL5d9j_P2VA/maxresdefault.jpg",
-          "fallback": "https://i.ytimg.com/vi/RL5d9j_P2VA/hqdefault.jpg",
-          "credit": "KreekCraft / YouTube",
-          "href": "https://www.youtube.com/shorts/RL5d9j_P2VA",
-          "alt": "Kadr z shorta KreekCrafta o weryfikacji wieku w Robloksie",
-          "caption": "KreekCraft o zmianach w Robloksie"
         },
         "slot": "7:00"
       }

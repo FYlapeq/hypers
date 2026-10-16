@@ -2,6 +2,7 @@
 // (Google, AdSense i udostępnianie linków widzą pełną treść bez JavaScriptu).
 // Uruchom: node scripts/build.mjs   (bez zależności, Node 18+)
 // Wynik: artykuly/RRRR-MM-DD/<slug>.html, archiwum.html, data/urls.js, sitemap.xml
+// oraz najnowsze wydanie wstawione do index.html (znaczniki <!-- wydanie… -->)
 import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
@@ -240,6 +241,73 @@ function urlsJs(items) {
   return `// Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.\nwindow.HYPERS_URLS = ${JSON.stringify(map, null, 1)};\n`;
 }
 
+// ---------- strona główna: najnowsze wydanie w statycznym HTML ----------
+// index.html renderuje wydanie w JS, ale roboty (Google, Facebook, AdSense) i czytelnicy bez JS
+// mają dostać gotową treść od razu. Build wstawia ostatnie wydanie między znaczniki w index.html;
+// skrypt strony i tak przerysowuje #view po wczytaniu, więc wygląd się nie zmienia.
+const HOME_SECTIONS = [
+  { key: 'ryby', sub: 'Duże tematy: analiza i kontekst' },
+  { key: 'drama', sub: 'Konflikty, afery, kontrowersje' },
+  { key: 'luz', sub: 'Newsy o twórcach' },
+  { key: 'ciekawostki', sub: 'Krótko, nieoczywiście, z całego internetu' },
+  { key: 'czapy', sub: 'Krótko i nieoczywiście' },
+  { key: 'drop', sub: 'Ciuchy, buty i kolaboracje' },
+];
+const DAYS = ['niedziela', 'poniedziałek', 'wtorek', 'środa', 'czwartek', 'piątek', 'sobota'];
+const pad2 = n => String(n).padStart(2, '0');
+const nyNewsy = n => n === 1 ? '1 news' : (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20)) ? n + ' newsy' : n + ' newsów';
+
+function homeCard(it, lead) {
+  const n = it.n, im = n.image && THUMB_HOST.test(n.image.src || '') ? n.image : null;
+  const fb = im && im.fallback ? ` onerror="this.onerror=null;this.src='${esc(safeUrl(im.fallback))}'"` : '';
+  const media = im ? `<div class="media"><div class="photo"><img src="${esc(safeUrl(im.src))}" alt="${esc(im.alt || '')}"${lead ? '' : ' loading="lazy"'} referrerpolicy="no-referrer"${fb}><span class="cr-pill">${esc((im.kind === 'kadr' ? 'Kadr: ' : im.kind === 'wolne' ? 'Fot.: ' : '') + (im.credit || ''))}</span></div></div>` : '';
+  const meta = `<div class="meta">${lead ? '<span class="tag top">Temat dnia</span>' : ''}${n.region === 'world' ? '<span class="tag world">Świat</span>' : ''}<span class="tag">${esc(n.category || it.sec.title)}</span><span>${esc(n.who || '')}</span>${n.slot && n.slot !== '7:00' ? `<span class="slot">${esc(n.slot)}</span>` : ''}</div>`;
+  return `<article class="card${lead ? ' lead' : ''}" data-card="${it.sec.key}:${it.i}">${media}<div class="body">${meta}<h3 class="hl"><a class="card-link" href="${it.rel}">${esc(n.title)}</a></h3><p class="sum">${esc(n.summary)}</p></div></article>`;
+}
+
+function homeStatic(items) {
+  const date = items[0] && items[0].date; if (!date) return null;
+  const day = items.filter(it => it.date === date);
+  const bySec = key => day.filter(it => it.sec.key === key);
+  // temat dnia: pierwszy news ze zdjęciem w Grubych rybach, potem w Na luzie (jak w index.html)
+  const leadIt = ['ryby', 'luz'].map(k => bySec(k).find(it => it.n.image)).find(Boolean) || null;
+  const sections = HOME_SECTIONS.map(s => {
+    const list = bySec(s.key); if (!list.length) return '';
+    const rest = list.filter(it => it !== leadIt).sort((a, b) => (!!b.n.image - !!a.n.image) || (a.i - b.i));
+    const hasLead = leadIt && leadIt.sec.key === s.key;
+    const title = list[0].sec.title;
+    return `<section class="sec sec-${s.key}" id="${s.key}" data-sec="${s.key}">
+    <div class="sec-head"><h2>${esc(title)}</h2><span class="sec-sub">${s.sub}</span></div>
+    ${hasLead ? homeCard(leadIt, true) : ''}
+    ${rest.length ? `<div class="feedgrid">${rest.map(it => homeCard(it, false)).join('')}</div>` : ''}</section>`;
+  }).join('\n  ');
+  const [y, m, d] = date.split('-').map(Number), dt = new Date(Date.UTC(y, m - 1, d));
+  const slots = [...new Set(day.map(it => it.n.slot || '7:00'))].sort((a, b) => parseInt(a) - parseInt(b));
+  const dates = [...new Set(items.map(it => it.date))];
+  return {
+    issue: `${DAYS[dt.getUTCDay()]} ${d}.${pad2(m)}<span>wydanie nr ${dates.length} · ${slots.join(' i ')} · ${nyNewsy(day.length)}</span>`,
+    ticker: day.map(it => `<span>${esc(it.n.title)} <i>/</i></span>`).join(''),
+    view: `<h2 class="visually-hidden">Wydanie z ${plDate(date)}</h2>\n  ${sections}\n  <p class="more-arch"><a href="archiwum.html">Wszystkie wcześniejsze wydania w archiwum</a></p>`,
+  };
+}
+
+// podmienia treść między <!-- nazwa:start --> i <!-- nazwa:end -->; bez znaczników rzuca błąd, żeby nie zgubić zmiany po cichu
+function fillMarker(html, name, content) {
+  const re = new RegExp(`(<!-- ${name}:start -->)[\\s\\S]*?(<!-- ${name}:end -->)`);
+  if (!re.test(html)) throw new Error(`index.html: brak znaczników <!-- ${name}:start/end -->`);
+  return html.replace(re, (_, a, b) => `${a}${content}${b}`);
+}
+
+function writeHome(items) {
+  const file = path.join(ROOT, 'index.html'), home = homeStatic(items);
+  if (!home) return;
+  let html = fs.readFileSync(file, 'utf8');
+  html = fillMarker(html, 'wydanie-naglowek', home.issue);
+  html = fillMarker(html, 'wydanie-pasek', home.ticker);
+  html = fillMarker(html, 'wydanie', `\n  ${home.view}\n  `);
+  fs.writeFileSync(file, html);
+}
+
 // ---------- zapis ----------
 function main() {
   const items = collect(loadEditions());
@@ -254,6 +322,7 @@ function main() {
   fs.writeFileSync(path.join(ROOT, 'archiwum.html'), archivePage(items));
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'), sitemap(items));
   fs.writeFileSync(path.join(ROOT, 'data/urls.js'), urlsJs(items));
+  writeHome(items);
   console.log(`Zbudowano ${items.length} artykułów z ${byDate.size} wydań.`);
 }
 main();

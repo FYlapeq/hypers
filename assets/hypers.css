@@ -175,6 +175,9 @@ main{padding-block:18px 10px}
 .empty{padding-block:30px}
 .empty .hl{font-size:2rem}
 .empty p{color:var(--muted);margin:0 0 14px}
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.more-arch{margin:var(--s4,32px) 0 0;text-align:center}
+.more-arch a{color:var(--muted);font-weight:600}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;border-radius:999px;padding:11px 18px;min-height:44px;
   font:700 .92rem/1 var(--body);background:var(--blue);color:var(--on-blue);text-decoration:none;cursor:pointer;transition:transform 100ms ease-out}
 .btn:active{transform:scale(.97)}
