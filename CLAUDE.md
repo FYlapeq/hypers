@@ -71,6 +71,14 @@ Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybi
 - Obrazy tylko z i.ytimg.com, upload.wikimedia.org (Commons) i newsroomów marek (punkt 4 polityki prywatności). Nowe źródło obrazów = najpierw dopisz je do polityki.
 - Nigdy: zdjęcia z portali, agencji, Google Grafika, repostów; obrazy AI z prawdziwymi osobami. Nie pobieraj plików do repo.
 
+## Sesja wydania (zadania 7:00 i 15:00)
+Slot `rano` = 7:00, `popoludnie` = 15:00. Pracujesz bez nadzoru: bez pytań, decydujesz sam; kończysz dopiero po pushu, chyba że wydanie slotu już jest albo coś naprawdę blokuje (wtedy w podsumowaniu: krok i błąd).
+1. `node scripts/edition.mjs recent 3`. Jeśli wydanie tego slotu już jest (7:00: klucz z dzisiejszą datą w `data/urls.js`; 15:00: commit „Wydanie RRRR-MM-DD 15:00” w `git log`), zakończ bez zmian. Wcześniejszych tematów nie powtarzaj.
+2. Dane twórców i ciekawostek: sekcje „Zasady redakcyjne” (Dane) i „Ciekawostki” niżej. Zapisuj pliki do scratchpadu, czytaj tylko skrótami (`digest <plik> 80`, `ciekawostki <plik>`). Brak danych nigdy nie blokuje publikacji: wtedy research w sieci i informacja w podsumowaniu.
+3. Ok. 8 newsów do `luz` i ok. 5 do `ciekawostki`, razem min. 8 ze zdjęciem. Nic w `ryby`: gruby temat tylko jako propozycja w podsumowaniu.
+4. `nowe.json` = {"date","slot","luz","ciekawostki"}, `add`, commit i push (sekcja „Publikacja”), sprawdź `git log origin/main -1`.
+5. Podsumowanie krótkie: skąd dane (o czasie / uruchomiony zbieracz / research i dlaczego, osobno ciekawostki), tytuły z sekcją, liczbą źródeł i zdjęciem, ile ze zdjęciem idzie na IG, odrzucone tematy po jednym zdaniu, propozycje grubych ryb, pozycje „DO SPRAWDZENIA” ze zbieracza.
+
 ## Publikacja
 1. `node scripts/edition.mjs add nowe.json` (dopisuje i uruchamia `scripts/build.mjs`). Nie commituj `nowe.json`.
 2. Commit `Wydanie RRRR-MM-DD` (popołudniu: `Wydanie RRRR-MM-DD 15:00`) z wygenerowanymi plikami, push na `main`. Przed pushem `git pull --rebase`, bo bot mógł dopisać commit.
