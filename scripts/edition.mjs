@@ -146,6 +146,8 @@ function validate(n, where, date) {
       if (!FREE_LICENSE.test(n.image.credit || '')) err.push('image wolne: credit musi zawierać autora i licencję, np. „Jan Kowalski / Wikimedia Commons, CC BY-SA 4.0”');
     }
   }
+  if (n.ig !== undefined && (!Array.isArray(n.ig) || n.ig.some(h => typeof h !== 'string' || !/^[a-z0-9._]{1,30}$/.test(h))))
+    err.push('ig = tablica nazw kont IG bez @, małymi literami, np. ["ksiazulo"]');
   if ((n.image || n.embed) && !n.caption) err.push('brak caption przy materiale');
   // zdjęcie jest priorytetem: film z YouTube w źródłach = obowiązkowy kadr, chyba że podano powód w noImage
   const ytId = [n.embed, ...(n.sources || []).map(x => x.url)].filter(Boolean)

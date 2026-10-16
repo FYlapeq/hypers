@@ -64,6 +64,27 @@ export function listaNewsow(E, U) {
 const bezOgonkow = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ł/g, 'l').replace(/Ł/g, 'L');
 const hashtag = (s) => '#' + bezOgonkow(s).toLowerCase().replace(/[^a-z0-9]+/g, '');
 
+// ---------- oznaczenia @ twórców ----------
+// Konto IG osoby z newsa: najpierw pole `ig` newsa (sprawdzone przez sesję wydania), potem mapa instagram/konta.json po `who`.
+const HANDLE = /^[a-z0-9._]{1,30}$/;
+const kluczOsoby = (s) => bezOgonkow(s).toLowerCase().replace(/[^a-z0-9]+/g, '');
+let KONTA = null;
+export function konta() {
+  if (!KONTA) {
+    const plik = join(ROOT, 'instagram/konta.json');
+    const surowe = existsSync(plik) ? JSON.parse(readFileSync(plik, 'utf8')).konta ?? {} : {};
+    KONTA = new Map(Object.entries(surowe).map(([k, v]) => [kluczOsoby(k), [].concat(v)]));
+  }
+  return KONTA;
+}
+export function oznaczenia(news, mapa = konta()) {
+  let h = [].concat(news.ig ?? []);
+  if (!h.length && news.who) for (const osoba of news.who.split(/\s+i\s+|,|&|\s+x\s+/)) h.push(...(mapa.get(kluczOsoby(osoba)) ?? []));
+  h = h.map((x) => String(x).trim().replace(/^@/, '').toLowerCase()).filter((x) => HANDLE.test(x) && x !== 'hypers.tech');
+  return [...new Set(h)];
+}
+const malpy = (news) => oznaczenia(news).map((x) => '@' + x).join(' ');
+
 export function hashtagi(news, sekcja) {
   const tagi = ['#hypers'];
   for (const osoba of news.who.split(/\s+i\s+|,|&/)) if (osoba.trim()) tagi.push(hashtag(osoba));
@@ -94,7 +115,10 @@ export function opisKaruzeli(lista) {
     '',
     ['#hypers', ...tagi.filter((t) => t !== '#hypers')].slice(0, 15).join(' '),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
-  const pozycje = (zLeadem) => lista.map((x, i) => `${i + 1}. ${x.news.title}${zLeadem[i] ? `\n${x.news.summary}` : ''}`);
+  const pozycje = (zLeadem) => lista.map((x, i) => {
+    const m = malpy(x.news);
+    return `${i + 1}. ${x.news.title}${m ? ` ${m}` : ''}${zLeadem[i] ? `\n${x.news.summary}` : ''}`;
+  });
   const sklej = (z) => [glowa, ...pozycje(z), stopka].join('\n\n');
   // Gdy się nie mieści, zdejmujemy leady od końca; tytuły zostają zawsze.
   const z = lista.map((x) => !!x.news.summary);
@@ -113,7 +137,7 @@ export function opis(news, { zKadrem, sekcja }) {
     '',
     hashtagi(news, sekcja),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
-  const glowa = news.title;
+  const glowa = [news.title, malpy(news)].filter(Boolean).join(' ');
   // Treść jak na stronie (body); gdy się nie mieści, ucinamy całe akapity, a w ostateczności dajemy summary.
   const akapity = [...(news.body?.length ? news.body : [news.summary])];
   const sklej = (a) => [glowa, ...a, stopka].join('\n\n');
@@ -179,10 +203,22 @@ async function czekajNaKontener(kontener) {
 }
 
 // Karuzela: najpierw kontener na każdy slajd (is_carousel_item), potem kontener CAROUSEL z opisem i publikacja.
-async function opublikujKaruzele(imageUrls, caption) {
+// slajdy = [{ url, oznacz: ['konto', ...] }]: oznaczeni twórcy dostają też tag na swoim slajdzie (user_tags).
+// Gdy Instagram odrzuci tag (np. konto zmieniło nazwę), slajd idzie bez tagu, a @ w opisie zostaje.
+export function userTags(oznacz) {
+  return oznacz.map((username, i) => ({ username, x: Number(((i + 1) / (oznacz.length + 1)).toFixed(2)), y: 0.85 }));
+}
+async function opublikujKaruzele(slajdy, caption) {
   const dzieci = [];
-  for (const image_url of imageUrls) {
-    const { id } = await api(`${env.IG_USER_ID}/media`, { method: 'POST', params: { image_url, is_carousel_item: 'true' } });
+  for (const { url: image_url, oznacz = [] } of slajdy) {
+    const params = { image_url, is_carousel_item: 'true' };
+    let id;
+    if (oznacz.length) {
+      try {
+        ({ id } = await api(`${env.IG_USER_ID}/media`, { method: 'POST', params: { ...params, user_tags: JSON.stringify(userTags(oznacz)) } }));
+      } catch (e) { log(`  tagi ${oznacz.join(', ')} odrzucone (${e.message.slice(0, 120)}), slajd bez tagu`); }
+    }
+    if (!id) ({ id } = await api(`${env.IG_USER_ID}/media`, { method: 'POST', params }));
     dzieci.push(id);
   }
   for (const id of dzieci) await czekajNaKontener(id);
@@ -381,7 +417,7 @@ async function main() {
   if (karuzela) {
     if (wolne <= 2) { log('Limit publikacji Instagrama na 24 h prawie wyczerpany, slot zostaje otwarty.'); process.exitCode = 1; return; }
     try {
-      const id = await opublikujKaruzele([...nowe.map((x) => raw(nazwa(x))), raw(FOLLOW)], opisK);
+      const id = await opublikujKaruzele([...nowe.map((x) => ({ url: raw(nazwa(x)), oznacz: oznaczenia(x.news) })), { url: raw(FOLLOW) }], opisK);
       const kiedy = new Date().toISOString();
       for (const x of nowe) stan.opublikowane[x.sciezka] = { media_id: id, kiedy, slot: slot.klucz };
       stan.sloty ??= {};

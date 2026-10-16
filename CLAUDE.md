@@ -19,7 +19,7 @@ Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w `CNAME`).
 nowe.json = { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [news], "luz": [news], "ciekawostki": [news] }
 news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category, hype (1-5),
          title, summary, body: ["akapit", ...], sources: [{name, url, origin?: true}], embed?,
-         caption?: {credit: "Autor / Platforma", text: "komentarz"},
+         caption?: {credit: "Autor / Platforma", text: "komentarz"}, ig?: ["konto_ig", ...],
          image?: {kind: "kadr"|"prasowe"|"wolne", src, fallback?, credit, href, alt, caption} }
 ```
 - Sekcje: `ryby` (Grube ryby: duży temat z analizą, raz na kilka dni, TYLKO po akceptacji Filipa), `luz` (Na luzie: wszystkie newsy o twórcach, dłuższe i krótkie w stylu dropsy.news; od 16.10.2026 obejmuje dawne Z czapy), `ciekawostki` (Ciekawostki: krótkie, niszowe fakty z całego internetu, nie o twórcach, patrz niżej). Klucz `czapy` już nie istnieje (stare newsy przeniesione do `luz`); `drama` i `drop` są tylko w starych wydaniach.
@@ -84,5 +84,6 @@ Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybi
 - Workflow `.github/workflows/instagram.yml` sam wrzuca na IG karuzele co godzinę (godziny z `instagram/harmonogram.json`, 8:00–23:00): 3 slajdy (newsy o twórcach albo ciekawostki, na zmianę) + slajd „Zostaw follow”, wybierając najświeższe nieopublikowane. Sesja wydania nic tu nie robi.
 - Treści dla dzieci nie idą na IG: automat pomija newsy ze słowami z `bez_dla_dzieci` w `instagram/harmonogram.json` (Roblox, Minecraft, Brawl Stars, Brainrot…), a pojedyncze artykuły można wykluczyć ścieżką w `wykluczone`.
 - Post wychodzi tylko z prawdziwym obrazem z pola `image` (kadr, prasowe albo wolne z Commons dla Ciekawostek); news z `noImage` nie trafi na IG.
+- Oznaczanie twórców (od 16.10.2026): każdy news o twórcy/osobie dostaje pole `ig` = konta Instagram osób z `who` (bez @, małe litery, np. `["ksiazulo"]`). Automat dopisuje @konto przy tytule w opisie i oznacza je na slajdzie. Konto bierz tylko z pewnego miejsca: link z kanału YouTube twórcy, jego strony, posta będącego źródłem albo zweryfikowanego profilu; przy wątpliwości (fan-konto, podobne nazwy) pomiń pole, nigdy nie zgaduj. Nowo potwierdzone konto dopisz też do `instagram/konta.json` (`"Nazwa jak w who": "konto"`), żeby kolejne newsy oznaczały się same. Ciekawostki i marki bez konta osoby: bez `ig`.
 - Opis karuzeli = numerowane `title` + `summary` każdego newsa + nazwy źródeł, więc to, co piszesz w newsie, idzie 1:1 na Instagram. Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
 - Gałąź `instagram` należy do automatu: nie commituj na nią i nie czytaj jej. Szczegóły: `instagram/README.md`.
