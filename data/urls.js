@@ -2,6 +2,12 @@
 window.HYPERS_URLS = {
  "2026-10-16": {
   "luz": [
+   "artykuly/2026-10-16/avi-i-louis-villain-swietuja-10-lat-wspolpracy-singlem.html",
+   "artykuly/2026-10-16/szczyl-wraca-z-singlem-wpadlas-mi-do-oka-album-przedwczoraj-dzisiaj.html",
+   "artykuly/2026-10-16/znowu-tony-i-shhieda-w-duecie-sbm-wypuszcza-soft-boyz.html",
+   "artykuly/2026-10-16/macias-z-white-widow-zapowiada-solowy-album-singlem-rany-caly-czas.html",
+   "artykuly/2026-10-16/film-tede-forever-rap-trafi-do-kin-20-listopada-tede-mi-sie-po-prostu.html",
+   "artykuly/2026-10-16/wini-reklamuje-miejski-parking-w-szczecinie-spolka-miasta-zaplacila.html",
    "artykuly/2026-10-16/bambi-wydala-album-b-o-polnocy-na-youtube-trafilo-16-utworow.html",
    "artykuly/2026-10-16/ishowspeed-zagral-w-ea-fc-27-z-cole-em-palmerem-widzowie-pisza.html",
    "artykuly/2026-10-16/friz-i-wersow-dostana-wlasny-serial-dokumentalny-na-prime-video-szesc.html",
@@ -12,6 +18,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-16/kai-cenat-budowal-domek-na-drzewie-z-ekipa-amp-ponad-pieciogodzinny.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-10-16/pedro-lascurain-byl-prezydentem-meksyku-przez-45-minut-to-najkrotsza.html",
+   "artykuly/2026-10-16/rosjanie-zbudowali-w-1915-roku-czolg-na-kolach-jak-trojkolowiec.html",
+   "artykuly/2026-10-16/bramkarz-ktory-obronil-karnego-messiego-na-mundialu-jest-rezyserem.html",
+   "artykuly/2026-10-16/hiszpan-przez-60-lat-sam-budowal-katedre-ze-zlomu-i-materialow.html",
+   "artykuly/2026-10-16/w-1859-roku-mieszkaniec-san-francisco-oglosil-sie-cesarzem-usa-sklepy.html",
+   "artykuly/2026-10-16/urzednik-umiescil-wlasna-twarz-na-amerykanskim-banknocie-kongres.html",
    "artykuly/2026-10-16/w-1958-roku-amerykanskie-lotnictwo-planowalo-zdetonowac-bombe-atomowa.html",
    "artykuly/2026-10-16/czesc-bezpanskich-psow-w-moskwie-nauczyla-sie-dojezdzac-metrem.html",
    "artykuly/2026-10-16/28-800-gumowych-kaczuszek-wypadlo-w-1992-roku-ze-statku-i-pomoglo.html",

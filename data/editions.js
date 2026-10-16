@@ -6,6 +6,240 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-10-15",
+        "who": "Avi i Louis Villain",
+        "initials": "AL",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Avi i Louis Villain świętują 10 lat współpracy singlem „X” i zapowiadają koncert na Torwarze",
+        "summary": "Avi i Louis Villain wydali singiel „X” na dziesięciolecie wspólnej pracy. Numer zapowiada ich koncert w COS Torwar 23 kwietnia 2027 roku, pierwszy wspólny od ponad czterech lat.",
+        "body": [
+          "Avi i Louis Villain wypuścili 15 października singiel „X”. Tytuł nawiązuje do dziesięciu lat, przez które raper i producent pracują razem.",
+          "Utwór jest jednocześnie zapowiedzią wspólnego koncertu. Duet wystąpi 23 kwietnia 2027 roku w warszawskim COS Torwar.",
+          "Jak podają portale muzyczne, będzie to ich pierwszy wspólny koncert od ponad czterech lat."
+        ],
+        "sources": [
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/avi-i-louis-villain-swietuja-10-lat-wspolpracy-singiel-x-zapowiada-wyjatkowy-koncert-na-torwarze/"
+          },
+          {
+            "name": "Glamrap",
+            "url": "https://glamrap.pl/robilem-rap-jak-jeszcze-nie-zniewiescial-avi-i-louis-villain-wspolpracuja-od-10-lat/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=oyHuBGaiXXE",
+        "caption": {
+          "credit": "Avi i Louis Villain / YouTube",
+          "text": "Teledysk do singla „X”, którym duet podsumowuje dziesięć lat współpracy. Ten sam numer otwiera promocję kwietniowego koncertu na Torwarze."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/oyHuBGaiXXE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/oyHuBGaiXXE/hqdefault.jpg",
+          "credit": "Avi i Louis Villain / YouTube",
+          "href": "https://www.youtube.com/watch?v=oyHuBGaiXXE",
+          "alt": "Kadr z teledysku Avi i Louis Villain „X”",
+          "caption": "Kadr z teledysku „X” (prawo cytatu)"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Szczyl",
+        "initials": "SZ",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Szczyl wraca z singlem „Wpadłaś mi do oka”. Album „przedwczoraj, dzisiaj, pojutrze” 30 października",
+        "summary": "Szczyl wydał nowy singiel z teledyskiem. To zapowiedź albumu „przedwczoraj, dzisiaj, pojutrze”, który ma się ukazać 30 października.",
+        "body": [
+          "Szczyl opublikował singiel „Wpadłaś mi do oka”, dostępny już w serwisach streamingowych, razem z teledyskiem na YouTube.",
+          "Utwór zapowiada nowy album rapera zatytułowany „przedwczoraj, dzisiaj, pojutrze”. Premiera płyty jest zaplanowana na 30 października.",
+          "Szczyl jest też jednym z gości na zapowiedzianym niedawno albumie Kizo „Prezesura”."
+        ],
+        "sources": [
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/szczyl-wraca-z-nowym-singlem-wpadlas-mi-do-oka-zapowiada-album-przedwczoraj-dzisiaj-pojutrze/"
+          },
+          {
+            "name": "CGM.pl (Kizo, Prezesura)",
+            "url": "https://cgm.pl/news/kizo-oglosil-nowy-album-prezesura-bedoes-pezet-julia-wieniawa-modelki-row-babicze-natalisa-i-inni-wsrod-gosci/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=HzqVsAdWWj0",
+        "caption": {
+          "credit": "Szczyl / YouTube",
+          "text": "Teledysk do „Wpadłaś mi do oka”, pierwszy sygnał nowej płyty. Do premiery albumu zostały dwa tygodnie."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/HzqVsAdWWj0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/HzqVsAdWWj0/hqdefault.jpg",
+          "credit": "Szczyl / YouTube",
+          "href": "https://www.youtube.com/watch?v=HzqVsAdWWj0",
+          "alt": "Kadr z teledysku Szczyla „Wpadłaś mi do oka”",
+          "caption": "Kadr z teledysku „Wpadłaś mi do oka” (prawo cytatu)"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Znowu Tony i shhieda",
+        "initials": "ZT",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Znowu Tony i shhieda w duecie. SBM wypuszcza „Soft Boyz”",
+        "summary": "Na kanale SBM wyszedł klip do „Soft Boyz”, wspólnego numeru Znowu Tony'ego i shhiedy. W pierwszych godzinach widzowie chwalą połączenie obu raperów.",
+        "body": [
+          "W piątek o 13:00 na kanale SBM Label pojawił się teledysk „Soft Boyz”. Rapują w nim Znowu Tony i shhieda, bit przygotował Urmi, a za kamerą stał Oliwier De Nisau.",
+          "O 14:25 klip miał ok. 1,5 tys. wyświetleń i ponad 300 polubień. Utwór jest też dostępny w serwisach streamingowych.",
+          "W komentarzach widzowie najczęściej chwalą duet i proszą o więcej wspólnych numerów; część pisze też o kondycji samego labelu."
+        ],
+        "sources": [
+          {
+            "name": "SBM Label / YouTube",
+            "url": "https://www.youtube.com/watch?v=KaiHhqm6tXI",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "SBM Label / YouTube",
+          "text": "Klip do „Soft Boyz” z oficjalnego kanału wytwórni. To pierwszy wspólny numer tej dwójki opisany w materiale."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/KaiHhqm6tXI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/KaiHhqm6tXI/hqdefault.jpg",
+          "credit": "SBM Label / YouTube",
+          "href": "https://www.youtube.com/watch?v=KaiHhqm6tXI",
+          "alt": "Kadr z klipu Znowu Tony ft. shhieda „Soft Boyz”",
+          "caption": "Kadr z klipu „Soft Boyz” (prawo cytatu)"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Macias",
+        "initials": "MA",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Macias z White Widow zapowiada solowy album singlem „Rany cały czas nas gonią”",
+        "summary": "Macias, jeden z filarów White Widow, wydał refleksyjny singiel. To pierwszy krok w stronę nowego solowego projektu, którego szczegółów jeszcze nie podał.",
+        "body": [
+          "15 października Macias opublikował singiel „Rany cały czas nas gonią” z teledyskiem.",
+          "Portale muzyczne opisują go jako zapowiedź nowego solowego albumu. Tytułu, daty premiery ani wydawcy jeszcze nie ujawniono.",
+          "Macias jest jednym z głównych członków składu White Widow."
+        ],
+        "sources": [
+          {
+            "name": "Popkiller",
+            "url": "https://popkiller.pl/2026-10-15,macias-zapowiada-nowy-album-i-pokazuje-refleksyjna-strone"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/macias-zapowiada-nowy-projekt-rany-caly-czas-nas-gonia-otwiera-kolejny-etap-jego-solowej-drogi/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=PvrbcJ8EzAY",
+        "caption": {
+          "credit": "Macias / YouTube",
+          "text": "Teledysk do „Rany cały czas nas gonią”. Spokojniejszy, osobisty numer otwiera solowy etap rapera."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/PvrbcJ8EzAY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/PvrbcJ8EzAY/hqdefault.jpg",
+          "credit": "Macias / YouTube",
+          "href": "https://www.youtube.com/watch?v=PvrbcJ8EzAY",
+          "alt": "Kadr z teledysku Maciasa „Rany cały czas nas gonią”",
+          "caption": "Kadr z teledysku (prawo cytatu)"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Tede",
+        "initials": "TE",
+        "category": "Film",
+        "hype": 3,
+        "title": "Film „TEDE. Forever Rap” trafi do kin 20 listopada. Tede: „Mi się po prostu ten film bardzo podobał”",
+        "summary": "Dokument o Tedem po premierze na Warszawskim Festiwalu Filmowym wejdzie do kin w całej Polsce. Raper przyznał, że zobaczył go pierwszy raz na premierze i nie miał wpływu na montaż.",
+        "body": [
+          "Dokument „TEDE. Forever Rap” w reżyserii i produkcji Krystiana Kuczkowskiego miał światową premierę na 42. Warszawskim Festiwalu Filmowym, w kinie Atlantic.",
+          "Od 20 listopada film będzie grany w kinach w całej Polsce. W materiale znalazły się m.in. niepublikowane nagrania sprzed ponad 30 lat.",
+          "Tede w rozmowie z Kanałem Zero powiedział, że film zobaczył pierwszy raz na premierze i bardzo mu się spodobał, bo jest bardziej o pokoleniu i epoce niż o nim samym. Jak podkreślił, nie miał kontroli nad ostatecznym montażem."
+        ],
+        "sources": [
+          {
+            "name": "TEDE.FOREVER RAP / Instagram",
+            "url": "https://www.instagram.com/p/Degdn30DKLp/",
+            "origin": true
+          },
+          {
+            "name": "Popkiller",
+            "url": "https://popkiller.pl/2026-10-15,tede-forever-rap-niedlugo-w-kinach-tede-mowi-o-wrazeniach-po-filmie"
+          },
+          {
+            "name": "Glamrap",
+            "url": "https://glamrap.pl/film-o-tede-trafi-do-kin-w-calej-polsce-niepublikowane-nagrania-sprzed-ponad-30-lat/"
+          },
+          {
+            "name": "Glamrap",
+            "url": "https://glamrap.pl/tede-pierwszy-raz-zobaczyl-film-o-sobie-wiem-ze-to-glupio-zabrzmi/"
+          }
+        ],
+        "embed": "https://www.instagram.com/p/Degdn30DKLp/",
+        "caption": {
+          "credit": "TEDE.FOREVER RAP / Instagram",
+          "text": "Post oficjalnego konta filmu. Produkcja po festiwalowej premierze szykuje się do szerokiej dystrybucji kinowej."
+        },
+        "noImage": "brak potwierdzonego oficjalnego zwiastuna na YouTube, osadzamy post konta filmu",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-15",
+        "who": "Wini",
+        "initials": "WI",
+        "category": "Reklama",
+        "hype": 2,
+        "title": "Wini reklamuje miejski parking w Szczecinie. Spółka miasta zapłaciła mu 8,5 tys. zł",
+        "summary": "Szczeciński youtuber i raper Wini nagrał spot i dwie rolki promujące podziemny parking Kwartał 36. Miejska spółka NiOL tłumaczy wybór jego związkami ze Szczecinem i vlogami z jazdy.",
+        "body": [
+          "Miejska spółka NiOL zapłaciła Winiemu 8,5 tys. zł za jednominutowy spot i dwie rolki promujące podziemny parking „Kwartał 36” przy ul. Małkowskiego.",
+          "Parking ma 262 miejsca, kosztował ponad 50 mln zł i według lokalnych mediów jest zajęty mniej więcej w połowie. W dni powszednie od 8:00 do 17:00 godzina kosztuje 3 zł, wieczorem i w weekendy 1 zł.",
+          "Rzecznik spółki Dariusz Sadowski wyjaśnia, że twórcę wybrano ze względu na jego związki ze Szczecinem i nagrania z jazdy samochodem, a grupa docelowa to kierowcy w wieku 18–50 lat. Wini mówi, że o taki parking zabiegał wcześniej w swoich podcastach z prezydentem miasta Piotrem Krzystkiem.",
+          "Reklamy trafią na Instagram twórcy, profile miasta i na 200 rowerów miejskich."
+        ],
+        "sources": [
+          {
+            "name": "wSzczecinie.pl",
+            "url": "https://wszczecinie.pl/essa-wini-reklamuje-parkingowiec-w-centrum-na-zlecenie-miejskiej-spolki-czy-to-pomoze-go-zapelnic/56335"
+          },
+          {
+            "name": "GS24",
+            "url": "https://gs24.pl/wini-reklamuje-nowy-parking-w-centrum-szczecina-sam-o-taki-parkingowiec-walczylem/ar/c1p2-29440631"
+          },
+          {
+            "name": "Glamrap",
+            "url": "https://glamrap.pl/wini-reklamuje-miejski-parking-szczecin-zaplacil-mu-85-tys-zl/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=_7PNop7xcS8",
+        "caption": {
+          "credit": "YouTube",
+          "text": "Spot osadzony w artykułach lokalnych mediów o kampanii parkingu. Pokazuje, jak miasto korzysta z rozpoznawalności lokalnego twórcy."
+        },
+        "noImage": "nie da się potwierdzić kanału, z którego pochodzi spot",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-10-16",
         "who": "bambi",
         "initials": "BA",
@@ -339,6 +573,228 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Meksyk",
+        "initials": "ME",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Pedro Lascuráin był prezydentem Meksyku przez 45 minut. To najkrótsza prezydentura w historii",
+        "summary": "19 lutego 1913 roku Pedro Lascuráin objął urząd prezydenta Meksyku i oddał go po około 45 minutach.",
+        "body": [
+          "Lascuráin, prawnik i wcześniej dwukrotny minister spraw zagranicznych, przejął władzę tymczasowo, gdy pod naciskiem generała Victoriano Huerty do dymisji podali się prezydent Francisco Madero i wiceprezydent José María Pino Suárez.",
+          "Meksykański serwis N+ podaje, że urzędował od 17:15 do 18:00. Po nim władzę przejął Huerta."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in"
+          },
+          {
+            "name": "N+",
+            "url": "https://www.nmas.com.mx/politica/quien-fue-el-presidente-que-duro-45-minutos-en-el-cargo/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pedro_Lascurain_%28cropped%29.jpg",
+          "credit": "Bain News Service / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Pedro_Lascurain_(cropped).jpg",
+          "alt": "Portret Pedra Lascuráina",
+          "caption": "Pedro Lascuráin na zdjęciu agencji Bain News Service. To on rządził Meksykiem najkrócej w historii."
+        },
+        "caption": {
+          "credit": "Bain News Service / Wikimedia Commons",
+          "text": "Pedro Lascuráin na zdjęciu agencji Bain News Service. To on rządził Meksykiem najkrócej w historii."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Rosja",
+        "initials": "RO",
+        "category": "Technika",
+        "hype": 3,
+        "title": "Rosjanie zbudowali w 1915 roku czołg na kołach jak trójkołowiec. Przednie miały prawie 9 metrów",
+        "summary": "Car-czołg Nikołaja Lebiedienki miał dwa gigantyczne przednie koła i małe tylne. Na testach utknął w błocie i już nie wyjechał.",
+        "body": [
+          "Pojazd projektowano od 1914 roku, a prototyp był gotowy latem 1915. Przednie koła miały średnicę niemal dziewięciu metrów.",
+          "Podczas prób tylne koło ugrzęzło w rowie, a silniki nie dały rady go wyciągnąć. Wojsko uznało maszynę za zbyt słabą i podatną na ostrzał artylerii. Prototyp stał w lesie do 1923 roku, kiedy poszedł na złom."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tsar_Tank"
+          },
+          {
+            "name": "The National Interest",
+            "url": "https://nationalinterest.org/node/151801"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tsar_tank.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Tsar_tank.jpg",
+          "alt": "Car-czołg z ogromnymi przednimi kołami",
+          "caption": "Archiwalne zdjęcie Car-czołgu. Ludzie przy kołach pokazują skalę konstrukcji."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie Car-czołgu. Ludzie przy kołach pokazują skalę konstrukcji."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Islandia",
+        "initials": "IS",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Bramkarz, który obronił karnego Messiego na mundialu, jest reżyserem filmowym",
+        "summary": "Hannes Þór Halldórsson zatrzymał rzut karny Leo Messiego na mundialu w 2018 roku. Zawodowo kręcił też filmy i reklamy.",
+        "body": [
+          "W pierwszym meczu Islandii na mistrzostwach świata 2018, przy wyniku 1:1 z Argentyną, Halldórsson obronił karnego Messiego, co dało jego drużynie remis.",
+          "Równolegle z karierą piłkarską pracował jako reżyser: nakręcił m.in. teledysk islandzkiego utworu na Eurowizję 2012, a później pełnometrażową komedię akcji „Cop Secret”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson"
+          },
+          {
+            "name": "These Football Times / The Set Pieces",
+            "url": "https://thesetpieces.com/latest-posts/hannes-halldorsson-iceland-goalkeeper-cum-film-director-saved-lionel-messi-penalty/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_%28cropped%29.jpg",
+          "credit": "Светлана Бекетова / Wikimedia Commons, CC BY-SA 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_(cropped).jpg",
+          "alt": "Hannes Þór Halldórsson w stroju bramkarza reprezentacji Islandii, 2018",
+          "caption": "Halldórsson w 2018 roku, w czasie mundialu, na którym zatrzymał Messiego."
+        },
+        "caption": {
+          "credit": "Светлана Бекетова / Wikimedia Commons",
+          "text": "Halldórsson w 2018 roku, w czasie mundialu, na którym zatrzymał Messiego."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Hiszpania",
+        "initials": "HI",
+        "category": "Architektura",
+        "hype": 3,
+        "title": "Hiszpan przez 60 lat sam budował katedrę ze złomu i materiałów z odzysku",
+        "summary": "Justo Gallego zaczął w 1961 roku i budował do śmierci w 2021. Kościół w Mejorada del Campo powstał z opon, beczek i potłuczonych płytek.",
+        "body": [
+          "Były zakonnik zaczął budowę po tym, jak choroba zmusiła go do opuszczenia klasztoru. Pracował niemal w pojedynkę, używając materiałów z odzysku: beczek po oleju, starych opon i odłamków szkła oraz płytek z budów.",
+          "Zmarł w listopadzie 2021 roku w wieku 96 lat. Opiekę nad budowlą przejęła organizacja Mensajeros de la Paz, która chce zrobić z niej miejsce pomocy potrzebującym."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Justo_Gallego_Mart%C3%ADnez"
+          },
+          {
+            "name": "The Olive Press",
+            "url": "https://theolivepress.es/spain-news/2021/12/03/spains-scrap-cathedral-to-live-on-after-death-of-the-ex-monk-who-built-it-piece-by-piece-with-his-own-bare-hands/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Justo-gallego-martinez.jpg",
+          "credit": "JMPerez / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Justo-gallego-martinez.jpg",
+          "alt": "Justo Gallego Martínez",
+          "caption": "Justo Gallego, budowniczy katedry w Mejorada del Campo."
+        },
+        "caption": {
+          "credit": "JMPerez / Wikimedia Commons",
+          "text": "Justo Gallego, budowniczy katedry w Mejorada del Campo."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W 1859 roku mieszkaniec San Francisco ogłosił się cesarzem USA. Sklepy przyjmowały jego banknoty",
+        "summary": "Joshua Norton po bankructwie ogłosił się w gazecie Cesarzem Stanów Zjednoczonych. Miasto traktowało go z sympatią do końca życia.",
+        "body": [
+          "Proklamację Nortona wydrukował 17 września 1859 roku „San Francisco Evening Bulletin”. Wydawał banknoty ze swoim nazwiskiem, które lokalni sklepikarze przyjmowali, a w 1872 roku „nakazał” budowę mostu między San Francisco a Oakland, który po latach powstał.",
+          "Gdy zmarł w styczniu 1880 roku, według relacji jego ciało przyszło pożegnać ok. 10 tys. osób."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Norton"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2025/4/20/in-1859-a-south-african-declared-himself-emperor-of-the-united-states"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Norton-2.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Norton-2.jpg",
+          "alt": "Joshua Norton w mundurze",
+          "caption": "Archiwalne zdjęcie Joshuy Nortona w mundurze „cesarza”."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie Joshuy Nortona w mundurze „cesarza”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Pieniądze",
+        "hype": 3,
+        "title": "Urzędnik umieścił własną twarz na amerykańskim banknocie. Kongres w odpowiedzi zmienił prawo",
+        "summary": "Szef biura druku pieniędzy Spencer Clark trafił na banknot 5-centowy. Kongres zakazał potem portretów żyjących osób na amerykańskich pieniądzach.",
+        "body": [
+          "Kongres chciał uhonorować na banknocie Williama Clarka z wyprawy Lewisa i Clarka, ale do urzędu dotarło tylko nazwisko „Clark”. Spencer M. Clark, szef National Currency Bureau, wykorzystał tę niejasność i dał tam swój portret.",
+          "W kwietniu 1866 roku Kongres uchwalił przepis zakazujący wizerunków żyjących osób na amerykańskich papierach wartościowych i pieniądzach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Spencer_M._Clark"
+          },
+          {
+            "name": "Atlas Obscura",
+            "url": "https://www.atlasobscura.com/articles/treasury-official-us-bill-fractional-money-spencer-m-clark"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Spencer_M_Clark_2.jpg",
+          "credit": "U.S. Dept. of the Treasury / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Spencer_M_Clark_2.jpg",
+          "alt": "Spencer M. Clark",
+          "caption": "Portret Spencera M. Clarka, urzędnika, który trafił na banknot 5-centowy."
+        },
+        "caption": {
+          "credit": "U.S. Dept. of the Treasury / Wikimedia Commons",
+          "text": "Portret Spencera M. Clarka, urzędnika, który trafił na banknot 5-centowy."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-10-16",
