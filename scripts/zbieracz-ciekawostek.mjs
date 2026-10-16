@@ -234,7 +234,7 @@ async function feeds(used) {
 // Dla kandydatów ze zdjęciem bierzemy linki zewnętrzne artykułu Wikipedii (przypisy), pobieramy kilka z nich
 // i sprawdzamy, czy strona zawiera kluczowe słowa i liczby z haczyka. Trafienie = `second_source`,
 // więc sesja wydania nie musi szukać drugiego źródła w sieci (WebFetch tylko, gdy go brak).
-const VERIFY_MAX = 30, REFS_PER = 6;
+const VERIFY_MAX = 40, REFS_PER = 6;
 const SKIP_REF = /(wikipedia\.org|wikimedia\.org|wikidata\.org|mediawiki\.org|doi\.org|books\.google|google\.[a-z.]+\/(search|books)|worldcat|jstor\.org|viaf\.org|isni|orcid\.org|geohack|toolforge|wmflabs|openstreetmap|archive\.org\/details|catalog|\.pdf($|\?))/i;
 const STOP = new Set(('that the and with from were was which their this have has into after before about over also only than when where while what whose most more first time years year other they them been would could being these those during under such some many during ' +
   'że czy jak kto gdzie dlaczego ile który która które kiedy jego jej ich oraz przez który była było został została zostało jako jest były także tylko może można przed około według podczas').split(' '));
@@ -250,8 +250,11 @@ export function scorePage(page, { nums, words }) {
   // rdzeń słowa (pierwsze 6 liter), żeby łapać odmianę: „odchodach” ~ „odchody”
   const hit = words.filter(w => t.includes(w.slice(0, Math.max(5, Math.min(w.length, 6)))));
   const numHit = nums.filter(n => tn.includes(n));
-  return { hit, numHit, ok: hit.length >= Math.max(2, Math.ceil(words.length * 0.5)) && numHit.length === nums.length };
+  // liczby: min. połowa (np. „£20,000” bywa zapisane jako „£20k”), słowa: min. połowa i co najmniej 3
+  return { hit, numHit, ok: hit.length >= Math.max(3, Math.ceil(words.length * 0.5)) && numHit.length >= Math.ceil(nums.length / 2) };
 }
+// fakt jest w haczyku „…że/… that …” i w opisach Unusual articles („Tytuł: opis”); pytania „…co/kto/dlaczego…” go nie mają
+export const maFakt = h => /^(…|\.\.\.)\s*(że|that)\b/i.test(h) || (!/^(…|\.\.\.)/.test(h) && /^[^:]{2,80}: \S/.test(h) && h.length > 50);
 async function refsOf(lang, title) {
   const j = await get(`https://${lang}.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=externallinks&format=json&formatversion=2&redirects=1`);
   return [...new Set((j.parse?.externallinks || []).map(u => u.startsWith('//') ? 'https:' + u : u).filter(u => /^https?:\/\//.test(u) && !SKIP_REF.test(u)))];
@@ -266,7 +269,7 @@ async function pageText(url) {
 const siteName = u => new URL(u).hostname.replace(/^www\./, '');
 async function verify(c) {
   // tylko haczyki z faktem („…że …”, „… that …”); pytania „…co/kto/dlaczego…” nie mówią, co sprawdzać
-  if (!/^(…|\.\.\.)\s*(że|that)\b/i.test(c.hook)) return { status: 'haczyk bez faktu (pytanie)' };
+  if (!maFakt(c.hook)) return { status: 'haczyk bez faktu (pytanie)' };
   const terms = keyTerms(c);
   if (terms.words.length < 2) return { status: 'za mało słów kluczowych w haczyku' };
   let refs;
@@ -284,7 +287,7 @@ async function verify(c) {
   return { status: 'nie potwierdzono automatycznie', tried: refs.length, ...(best && { closest: best.url }) };
 }
 async function verifyAll(cands) {
-  const queue = cands.filter(c => c.image && c.source.startsWith('wiki') && /^(…|\.\.\.)\s*(że|that)\b/i.test(c.hook)).slice(0, VERIFY_MAX);
+  const queue = cands.filter(c => c.image && c.source.startsWith('wiki') && maFakt(c.hook)).slice(0, VERIFY_MAX);
   let i = 0, ok = 0;
   await Promise.all(Array.from({ length: 6 }, async () => {
     while (i < queue.length) {
@@ -298,7 +301,8 @@ async function verifyAll(cands) {
 }
 
 // ---------- start ----------
-if (process.argv[1] && path.resolve(process.argv[1]) !== fileURLToPath(import.meta.url)) { /* import w testach: bez uruchamiania */ } else {
+// uruchamiamy tylko jako skrypt (import w testach nic nie pobiera)
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
 const used = usedKeys();
 const results = await Promise.all([
   wikiCandidates('pl', ['Szablon:Czy wiesz', 'Wikiprojekt:Czy wiesz/ekspozycje'], used, PER_SOURCE['wiki-pl']).catch(e => { status['wiki-pl'] = 'błąd: ' + e.message; return []; }),
