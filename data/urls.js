@@ -8,7 +8,8 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-16/konopskyy-z-nowym-odcinkiem-o-fagacie-ksiazulo-chajzerze-i-zoo.html",
    "artykuly/2026-10-16/lootbox-opowiada-historie-powstania-gta-6-film-wyszedl-pol-godziny.html",
    "artykuly/2026-10-16/moreletv-skalpuje-najdrozszego-ryzena-sprawdzaja-czy-to-jeszcze.html",
-   "artykuly/2026-10-16/kai-cenat-kupil-najwezsze-auto-dopuszczone-do-ruchu-widzowie.html"
+   "artykuly/2026-10-16/kai-cenat-kupil-najwezsze-auto-dopuszczone-do-ruchu-widzowie.html",
+   "artykuly/2026-10-16/kai-cenat-budowal-domek-na-drzewie-z-ekipa-amp-ponad-pieciogodzinny.html"
   ],
   "ciekawostki": [
    "artykuly/2026-10-16/w-1958-roku-amerykanskie-lotnictwo-planowalo-zdetonowac-bombe-atomowa.html",
@@ -20,7 +21,10 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-16/ta-gitara-elektryczna-to-w-zasadzie-metalowy-pret-ze-strunami-jedna.html",
    "artykuly/2026-10-16/siostry-tak-zle-na-scenie-ze-widzowie-rzucali-warzywami-pozwaly.html",
    "artykuly/2026-10-16/w-1944-roku-w-wielkiej-brytanii-skazano-medium-na-podstawie-ustawy.html",
-   "artykuly/2026-10-16/na-srodku-morza-ochockiego-jest-orzechowa-dziura-skrawek-morza.html"
+   "artykuly/2026-10-16/na-srodku-morza-ochockiego-jest-orzechowa-dziura-skrawek-morza.html",
+   "artykuly/2026-10-16/w-1976-roku-w-usa-kandydowal-na-prezydenta-nikt-haslo-nikt-nie-jest.html",
+   "artykuly/2026-10-16/w-2012-roku-ktos-wrzucil-do-sieci-zagadke-szukamy-bardzo.html",
+   "artykuly/2026-10-16/w-angielskim-lesie-stoi-samotny-kominek-to-jedyne-co-zostalo.html"
   ]
  },
  "2026-10-15": {

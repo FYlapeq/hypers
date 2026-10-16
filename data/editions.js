@@ -298,6 +298,44 @@ window.HYPERS_EDITIONS = {
           "caption": "Kadr z miniatury filmu Kai Cenat Live (prawo cytatu)."
         },
         "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Stream",
+        "hype": 3,
+        "title": "Kai Cenat budował domek na drzewie z ekipą AMP. Ponad pięciogodzinny stream ma prawie 2 mln wyświetleń",
+        "summary": "Na kanale Kai Cenat Live wyszło nagranie streamu „Building a Treehouse with AMP”. W kilkanaście godzin zebrało blisko 2 mln wyświetleń, a widzowie proszą o więcej wspólnych streamów z AMP.",
+        "body": [
+          "W nocy na piątek na kanale Kai Cenat Live pojawiło się nagranie streamu „Building a Treehouse with AMP”, czyli budowy domku na drzewie razem z AMP, jego stałą ekipą znajomych. Materiał trwa ponad 5 godzin i 20 minut.",
+          "Opis filmu nie podaje szczegółów, więc o przebiegu wiemy tylko z tytułu i reakcji widzów. Ci żartują w komentarzach, że już samo kupowanie materiałów w markecie budowlanym zajęło ponad trzy godziny.",
+          "Najwyżej oceniane komentarze proszą o więcej streamów z AMP w takim luźnym formacie, bez dużej produkcji, z samą kamerą i ekipą.",
+          "W piątek przed południem (odczyt 11:23) nagranie miało blisko 2 mln wyświetleń i ponad 21 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=Od9g7XfjiHg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Od9g7XfjiHg",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura nagrania streamu, w którym Kai Cenat i AMP budują domek na drzewie. To ten materiał w kilkanaście godzin zebrał blisko 2 mln wyświetleń."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Od9g7XfjiHg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Od9g7XfjiHg/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=Od9g7XfjiHg",
+          "alt": "Miniatura streamu Kai Cenata o budowie domku na drzewie",
+          "caption": "Kadr z miniatury nagrania Kai Cenat Live (prawo cytatu)."
+        },
+        "slot": "7:00"
       }
     ],
     "ciekawostki": [
@@ -668,6 +706,117 @@ window.HYPERS_EDITIONS = {
           "href": "https://commons.wikimedia.org/wiki/File:Peanut_Hole.jpg",
           "alt": "Mapa Morza Ochockiego z enklawą Peanut Hole",
           "caption": "Peanut Hole na Morzu Ochockim."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1976 roku w USA „kandydował” na prezydenta Nikt. Hasło: Nikt nie jest doskonały",
+        "summary": "Parodystyczna kampania „Nobody for President” wracała przy kilku wyborach prezydenckich w USA. Na wiecach Nikogo reprezentowało puste krzesło.",
+        "body": [
+          "Kampania „Nobody for President” powstała przed wyborami prezydenckimi w USA w 1976 roku, a potem wracała w 1980, 1984 i 1988 roku. Jej twarzą był Wavy Gravy, znany jako konferansjer festiwalu Woodstock. Hasła brzmiały m.in. „Nobody's Perfect” (Nikt nie jest doskonały) i „Nobody Should Have Too Much Power” (Nikt nie powinien mieć za dużo władzy).",
+          "Trasa kampanii ruszyła w październiku 1976 roku wiecem w San Francisco. Podczas parady samochód wiózł udekorowane krzesło, na którym siedział właśnie Nikt, czyli nikt."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Nobody_for_President"
+          },
+          {
+            "name": "Museum of Hoaxes",
+            "url": "https://hoaxes.org/archive/permalink/nobody_for_president"
+          }
+        ],
+        "caption": {
+          "credit": "Youth International Party / Wikimedia Commons",
+          "text": "Przypinka z kampanii „Nobody for President” z 1976 roku. Takie znaczki rozdawano tysiącami."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nobody_for_President_1976_campaign_button.png",
+          "credit": "Youth International Party / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Nobody_for_President_1976_campaign_button.png",
+          "alt": "Przypinka z napisem Nobody for President 1976",
+          "caption": "Przypinka kampanii „Nobody for President”, 1976."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Internet",
+        "initials": "IN",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "W 2012 roku ktoś wrzucił do sieci zagadkę „szukamy bardzo inteligentnych ludzi”. Do dziś nie wiadomo kto",
+        "summary": "Cicada 3301 to seria internetowych łamigłówek z lat 2012–2014. Autorzy nigdy się nie ujawnili, a ostatnia runda pozostała nierozwiązana.",
+        "body": [
+          "4 stycznia 2012 roku na forum 4chan pojawił się obrazek podpisany „3301” z wiadomością, że autorzy szukają bardzo inteligentnych osób. Zaczęła się seria zagadek z kryptografii, steganografii i bezpieczeństwa danych. Kolejne rundy startowały 4 stycznia 2013 roku (znowu na 4chanie) i 4 stycznia 2014 roku (na Twitterze).",
+          "Nie wiadomo, kto za tym stoi ani po co. Spekulowano o rekrutacji służb wywiadowczych czy grze w alternatywnej rzeczywistości, ale żadnej teorii nie potwierdzono. Trzecia runda nie została rozwiązana."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cicada_3301"
+          },
+          {
+            "name": "SlashGear",
+            "url": "https://www.slashgear.com/1428322/strange-history-cicada-3301/"
+          }
+        ],
+        "caption": {
+          "credit": "Cicada 3301 / Wikimedia Commons",
+          "text": "Pierwsza wiadomość Cicada 3301 z 2012 roku. Od tego obrazka zaczęła się cała zagadka."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cicada3301%27s_First_Message.jpg",
+          "credit": "Cicada 3301 / Wikimedia Commons, domena publiczna",
+          "href": "https://commons.wikimedia.org/wiki/File:Cicada3301%27s_First_Message.jpg",
+          "alt": "Pierwsza wiadomość Cicada 3301 z 2012 roku",
+          "caption": "Pierwsza wiadomość Cicada 3301."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W angielskim lesie stoi samotny kominek. To jedyne, co zostało po obozie portugalskich żołnierzy z I wojny",
+        "summary": "Portuguese Fireplace w New Forest to kominek z obozowej kuchni. Portugalczycy pomagali tu w pozyskiwaniu drewna na potrzeby wojny.",
+        "body": [
+          "W parku narodowym New Forest w hrabstwie Hampshire, przy drodze niedaleko Lyndhurst, stoi murowany kominek bez domu. To pozostałość kuchni obozu, w którym w czasie I wojny światowej stacjonował portugalski oddział. Żołnierze pomagali miejscowym w pozyskiwaniu drewna na potrzeby wojny, bo wielu leśników walczyło na froncie.",
+          "Po wojnie zarząd lasów zostawił kominek jako pamiątkę po ludziach, którzy tu pracowali, a dziś jest on pomnikiem wojennym."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Portuguese_Fireplace"
+          },
+          {
+            "name": "War Memorials Online",
+            "url": "https://www.warmemorialsonline.org.uk/memorial/144425"
+          }
+        ],
+        "caption": {
+          "credit": "Clive Perrin / Wikimedia Commons",
+          "text": "Portuguese Fireplace w New Forest. Z całego obozu został tylko ten kominek z kuchni."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_Portuguese_Fireplace_-_geograph.org.uk_-_43995.jpg",
+          "credit": "Clive Perrin / Wikimedia Commons, CC BY-SA 2.0",
+          "href": "https://commons.wikimedia.org/wiki/File:The_Portuguese_Fireplace_-_geograph.org.uk_-_43995.jpg",
+          "alt": "Samotny murowany kominek w lesie New Forest",
+          "caption": "Portuguese Fireplace w New Forest."
         },
         "slot": "7:00"
       }
