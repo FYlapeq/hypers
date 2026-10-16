@@ -82,6 +82,7 @@ Czytelnik to dorosły (ok. 20–35 lat), nie dziecko ani młody nastolatek. Wybi
 
 ## Instagram
 - Workflow `.github/workflows/instagram.yml` sam wrzuca na IG karuzele co godzinę (godziny z `instagram/harmonogram.json`, 8:00–23:00): 3 slajdy (newsy o twórcach albo ciekawostki, na zmianę) + slajd „Zostaw follow”, wybierając najświeższe nieopublikowane. Sesja wydania nic tu nie robi.
+- Treści dla dzieci nie idą na IG: automat pomija newsy ze słowami z `bez_dla_dzieci` w `instagram/harmonogram.json` (Roblox, Minecraft, Brawl Stars, Brainrot…), a pojedyncze artykuły można wykluczyć ścieżką w `wykluczone`.
 - Post wychodzi tylko z prawdziwym obrazem z pola `image` (kadr, prasowe albo wolne z Commons dla Ciekawostek); news z `noImage` nie trafi na IG.
 - Opis karuzeli = numerowane `title` + `summary` każdego newsa + nazwy źródeł, więc to, co piszesz w newsie, idzie 1:1 na Instagram. Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
 - Gałąź `instagram` należy do automatu: nie commituj na nią i nie czytaj jej. Szczegóły: `instagram/README.md`.
