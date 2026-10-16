@@ -2,17 +2,17 @@
  "run": {
   "date": "2026-10-16",
   "slot": "popoludnie",
-  "generated_at": "2026-10-15T22:03:18.889Z",
-  "candidates": 93,
-  "with_free_image": 37
+  "generated_at": "2026-10-16T15:23:26.437Z",
+  "candidates": 94,
+  "with_free_image": 35
  },
  "status": {
-  "wiki-pl:Szablon:Czy wiesz": "ok 0 (li: 8, próbka: Zgłaszanie propozycji (do oceny) || Propozycje do ekspozycji (ocenione) || Pomoc)",
+  "wiki-pl:Szablon:Czy wiesz": "ok 5",
   "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
   "rss:Atlas Obscura": "ok 12",
-  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 0 (li: 20, próbka: Zgłaszanie propozycji (do oceny) || Propozycje do ekspozycji (ocenione) || Pomoc)",
+  "wiki-en:Wikipedia:Recent additions": "ok 143",
   "rss:Mental Floss": "ok 12",
-  "wiki-en:Wikipedia:Recent additions": "ok 134",
   "rss:Smithsonian Smart News": "ok 12",
   "rss:Ciekawostki historyczne": "ok 12",
   "wiki-en:Wikipedia:Unusual articles": "ok 4240"
@@ -20,148 +20,158 @@
  "candidates": [
   {
    "id": "c1",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "1876 United States presidential election: Forget 2000; this was the closest election in American history. With election fraud of all kind, sky-high tensions, and worries the nation would fall back into civil war over the winner, the champion of this election was decided by 15 people just 56 hours before inauguration day.",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która doktryna medyczna (błędnie) sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne?",
    "article": {
-    "title": "1876 United States presidential election",
-    "url": "https://en.wikipedia.org/wiki/1876_United_States_presidential_election",
-    "extract": "Presidential elections were held in the United States on November 7, 1876. The Republican ticket of Governor Rutherford B. Hayes of Ohio and House Representative William A. Wheeler of New York very narrowly defeated the Democratic ticket of Governor Samuel J. Tilden of New York and Governor Thomas A. Hendricks of Indiana.\nFollowing President Ulysses S. Grant's decision to retire after his second term, U.S. Representative James G. Blaine emerged as frontrunner for the Republican nomination; however, Blaine was unable to win a majority at the 1876 Republican National Convention, which settled on Hayes as a compromise candidate. The 1876 Democratic National Convention nominated Tilden on the second ballot."
+    "title": "Brownizm",
+    "url": "https://pl.wikipedia.org/wiki/Brownizm",
+    "extract": "Brownizm – doktryna medyczna sformułowana przez szkockiego lekarza Johna Browna (1735–1788) i wyłożona w wydanym po łacinie dziele Elementa medicinae (1780). Sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne. Zdrowie miało polegać na umiarkowanym poziomie pobudzenia, choroba zaś na odchyleniu od niego w jedną z dwóch stron – ku nadmiernemu pobudzeniu (stan steniczny) albo ku jego niedostatkowi (stan asteniczny). Z tak uproszczonej patologii wynikała równie prosta terapia: dobieranie słabszych lub silniejszych bodźców zależnie od stanu pobudzenia chorego, przy czym szczególne znaczenie miały alkohol i opium."
    },
    "related": [],
    "image": null,
-   "image_rejected": "Public domain (File:President Rutherford Hayes 1870 - 1880 (3x4 cropped).jpg)"
+   "image_rejected": "CC BY 4.0 (File:Portrait of John Brown in \"Elementa medicinae\" Wellcome M0014836.jpg)"
   },
   {
    "id": "c2",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Long-term nuclear waste warning messages: How do you warn people to stay away from nuclear waste repositories in a way that will be understandable 10,000 years from now?",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co znaleziono w odchodach rudawca orientalnego?",
    "article": {
-    "title": "Long-term nuclear waste warning messages",
-    "url": "https://en.wikipedia.org/wiki/Long-term_nuclear_waste_warning_messages",
-    "extract": "Long-term nuclear waste warning messages are communication attempts intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years. Nuclear semiotics is an interdisciplinary field of research that aims to study and design optimal signage techniques and messages for this purpose; it was first established by the American Human Interference Task Force in 1981.\nA 1993 report from Sandia National Laboratories recommended that such messages be constructed at several levels of complexity. They suggested that the sites should include foreboding physical features which would immediately convey to future visitors that the site was both man-made and dangerous, as well as providing pictographic information attempting to convey some details of the danger, and written explanations for those able to read it."
-   },
-   "related": [],
-   "image": null,
-   "image_rejected": "Public domain (File:Pictogram for nuclear sites, US Department of Energy, 2004.png)"
-  },
-  {
-   "id": "c3",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Mount Shchekavytsia orgy: \"Hey, a nuclear missile is heading towards us, what if we proceed to give each other a lot of affection?\"",
-   "article": {
-    "title": "Mount Shchekavytsia orgy",
-    "url": "https://en.wikipedia.org/wiki/Mount_Shchekavytsia_orgy",
-    "extract": "In 2022, a Ukrainian internet meme invited Ukrainians to gather on Mount Shchekavytsia in Kyiv for an orgy in the event of a Russian nuclear strike on Ukraine during the Russo-Ukrainian war."
-   },
-   "related": [],
-   "image": null,
-   "image_rejected": "CC BY-SA 4.0 (File:Київ. Щекавиця 09.jpg)"
-  },
-  {
-   "id": "c4",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Kanchō: Popular among East Asian children, this \"game\" is played by going up to someone and sneakily poking them in the ass.",
-   "article": {
-    "title": "Kanchō",
-    "url": "https://en.wikipedia.org/wiki/Kanch%C5%8D",
-    "extract": "Kanchō (カンチョー; pronounced [kaɲtɕoː]) is a prank performed by clasping the hands together in the shape of a finger gun and poking the anus of an unsuspecting person, often while exclaiming \"Kan-cho!\" It is a common prank in East Asian countries such as Japan. In Korea, it is called ttongchim (똥침; 똥針, pronounced [t͈oŋ.tɕʰim]), and in China, qiānnián shā (千年殺, \"thousand-year kill\" or \"immortal kill\"). The word \"kanchō\" is a slang adoption of the Japanese word for enema (浣腸, kanchō). In accordance with widespread practice, the word is generally written in katakana when used in its slang sense and in kanji when used for enemas in the medical sense."
+    "title": "Rudawiec orientalny",
+    "url": "https://pl.wikipedia.org/wiki/Rudawiec_orientalny",
+    "extract": "Rudawiec orientalny (Rousettus leschenaultii) – gatunek ssaka, nietoperza z rodziny rudawkowatych, jeden z przynajmniej siedmiu w swoim rodzaju. Ma diploidalną liczbę chromosomów 36. Długość głowy i tułowia 80–125 mm, ogona 13–17,5 mm. Masa 40–92,5 g."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kancho_2021-08-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Kancho_2021-08-20.jpg",
-    "file": "File:Kancho 2021-08-20.jpg",
-    "artist": "Asanagi",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "width": 650,
-    "height": 366,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg",
+    "file": "File:Rousettus leschenaultii by Rajesh Puttaswamaiah.jpg",
+    "artist": "Rajesh Puttaswamaiah, Bat Conservation India Trust",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 644,
+    "height": 444,
     "ok": true
    }
   },
   {
-   "id": "c5",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "\"Whitey on the Moon\": Not everybody was happy to see the first man on the Moon.",
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy otwarto GEOsferę w Jaworznie?",
    "article": {
-    "title": "Whitey on the Moon",
-    "url": "https://en.wikipedia.org/wiki/Whitey_on_the_Moon",
-    "extract": "\"Whitey on the Moon\" is a spoken word poem by Gil Scott-Heron, released as the ninth track on his debut album Small Talk at 125th and Lenox in 1970. Accompanied by conga drums, Scott-Heron's narrative tells of medical debt, high taxes and poverty experienced at the time of the Apollo Moon landings. The poem critiques the resources spent on the space program while Black Americans were experiencing social and economic disparities at home.\n\"Whitey on the Moon\" was prominently featured in the 2018 biographical film about Neil Armstrong, First Man, and \"Whitey's on the Moon\", the second episode of HBO's 2020 television series Lovecraft Country."
+    "title": "GEOsfera (Jaworzno)",
+    "url": "https://pl.wikipedia.org/wiki/GEOsfera_(Jaworzno)",
+    "extract": "GEOsfera – park tematyczny o profilu ekologiczno-geologicznym w Jaworznie o powierzchni około 8 hektarów, utworzony w 2014 roku w zachodniej części niecki kamieniołomu wapienia Sadowa Góra; miejsce odkrycia m.in. skamieniałości notozaurów."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Jaworzno GEOsfera aerial 2026.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak w Tajlandii walczono z „klątwą KFC”?",
+   "article": {
+    "title": "Klątwa KFC",
+    "url": "https://pl.wikipedia.org/wiki/Kl%C4%85twa_KFC",
+    "extract": "Klątwa KFC – przesąd panujący wśród pracowników ochrony zdrowia w Tajlandii, według którego jedzenie w trakcie pracy posiłku zamówionego z sieci KFC powoduje zwiększenie liczby pacjentów i procedur medycznych, które trzeba będzie wykonać w trakcie zmiany.\n\nW Azji Południowo-Wschodniej wśród lekarzy funkcjonują różne przesądy związane z rodzajem posiłku i jego wpływem na obciążenie w pracy. Według jednej z ankiet przeprowadzonej wśród singapurskich studentów i pracowników ochrony zdrowia (lekarzy i pielęgniarzy) pełniących nocne dyżury, 46% świadomie unika jedzenia w ich trakcie bao. Wiąże się to z brzmieniem nazwy tego posiłku i związanymi z nim przez homonimię skojarzeniami."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:KFC in shopping centre in Krabi Town.jpg)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że niemiecki U-Boot SM UB‑94 służył po I wojnie światowej we francuskiej flocie do 1935 roku?",
+   "article": {
+    "title": "SM UB-94",
+    "url": "https://pl.wikipedia.org/wiki/SM_UB-94",
+    "extract": "SM UB-94 – niemiecki okręt podwodny z okresu I wojny światowej, jedna z 96 jednostek typu UB III zbudowanych dla Kaiserliche Marine.\nOkręt miał wyporność 510 ton w położeniu nawodnym i 640 ton w zanurzeniu. Jego główne uzbrojenie stanowiło 10 torped kalibru 500 mm, wystrzeliwanych z pięciu wyrzutni. Napędzana silnikami wysokoprężnymi i elektrycznymi jednostka rozwijała prędkość 13 węzłów na powierzchni i 7,4 węzła w zanurzeniu, osiągając zasięg 7120 Mm przy prędkości 6 węzłów w położeniu nawodnym oraz 55 Mm przy prędkości 4 węzłów pod wodą."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gil_Scott_Heron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Gil_Scott_Heron.jpg",
-    "file": "File:Gil Scott Heron.jpg",
-    "artist": "Robman94",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 330,
-    "height": 467,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/397_U-Boot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:397_U-Boot.jpg",
+    "file": "File:397 U-Boot.jpg",
+    "artist": "Sendker",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 864,
+    "height": 613,
     "ok": true
    }
   },
   {
    "id": "c6",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Covered smut (barley): You may snicker now, but if you had any of these, I guarantee you wouldn't be laughing much.",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego największy na świecie tunel żeglowny został wyłączony z eksploatacji?",
    "article": {
-    "title": "Covered smut (barley)",
-    "url": "https://en.wikipedia.org/wiki/Covered_smut_(barley)",
-    "extract": "Covered smut of barley is caused by the fungus Ustilago hordei. The disease is found worldwide and it is more extensively distributed than either loose smut or false loose smut."
+    "title": "Tunel Rove",
+    "url": "https://pl.wikipedia.org/wiki/Tunel_Rove",
+    "extract": "Tunel Rove (fr. Tunnel du Rove) – nieczynny tunel żeglowny na południowym wybrzeżu Francji w departamencie Delta Rodanu, który umożliwiał transport wodny pomiędzy Marsylią a Rodanem z pominięciem wód Morza Śródziemnego."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nsr-slika-330.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Nsr-slika-330.png",
-    "file": "File:Nsr-slika-330.png",
-    "artist": "Martin Cilenšek",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 980,
-    "height": 1887,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tunnel-du-Rove72.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tunnel-du-Rove72.JPG",
+    "file": "File:Tunnel-du-Rove72.JPG",
+    "artist": "Fr.Latreille",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1080,
+    "height": 810,
     "ok": true
    }
   },
   {
    "id": "c7",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Cotard's syndrome: Suffered by people, very much alive, who believe they're dead.",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto był inspiracją dla postaci Murzynki na widocznym obok kolażu Henriego Matisse’a?",
    "article": {
-    "title": "Cotard's syndrome",
-    "url": "https://en.wikipedia.org/wiki/Cotard%27s_syndrome",
-    "extract": "Cotard's syndrome, also known as Cotard's delusion or walking corpse syndrome, is a mental disorder in which the affected person holds the delusional belief that they are deceased, do not exist, are putrefying, or have lost their blood or internal organs. Statistical analysis of a hundred-patient cohort indicated that denial of self-existence is present in 45% of the cases of Cotard's syndrome; the other 55% of the patients presented with delusions of immortality.\n\nIn 1880, the neurologist and psychiatrist Jules Cotard described the condition as le délire des négations (\"the delusion of negation\"), a psychiatric syndrome of varied severity. A mild case is characterized by despair and self-loathing, while a severe case is characterized by intense delusions of negation, and chronic psychiatric depression."
-   },
-   "related": [],
-   "image": null
-  },
-  {
-   "id": "c8",
-   "source": "wiki-en",
-   "lang": "en",
-   "hook": "Expert wizard amendment: New Mexico narrowly avoided requiring all psychiatrists testifying in court to put on a robe and wizard hat.",
-   "article": {
-    "title": "Expert wizard amendment",
-    "url": "https://en.wikipedia.org/wiki/Expert_wizard_amendment",
-    "extract": "The expert wizard amendment was a proposed amendment by New Mexico state senator Duncan Scott, which would require psychologists and psychiatrists to dress up as wizards when they were in court proceedings providing expert testimony regarding a defendant's competency. The amendment, proposed in 1995, passed New Mexico's Senate unanimously. Scott revealed the amendment was satirical prior to a vote in New Mexico House of Representatives following which it was removed and thus never signed into law.\nScott said that he crafted the amendment because he felt that there were an excessive number of mental health practitioners acting as expert witnesses."
+    "title": "Murzynka (kolaż Henriego Matisse’a)",
+    "url": "https://pl.wikipedia.org/wiki/Murzynka_(kola%C5%BC_Henriego_Matisse%E2%80%99a)",
+    "extract": "Murzynka (fr. La Négresse) – monumentalny kolaż z papieru malowanego gwaszem na płótnie Henriego Matisse’a z 1952 w kolekcji National Gallery of Art w Waszyngtonie."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magic_Wizard%27s_Hat_%28icon%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Magic_Wizard%27s_Hat_(icon).png",
-    "file": "File:Magic Wizard's Hat (icon).png",
-    "artist": "user:Dustimagic",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/La_N%C3%A9gresse_%28Matisse%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:La_N%C3%A9gresse_(Matisse).jpg",
+    "file": "File:La Négresse (Matisse).jpg",
+    "artist": "Gmagno",
     "license": "Public domain",
     "license_url": null,
-    "width": 858,
-    "height": 1025,
+    "width": 588,
+    "height": 428,
+    "ok": true
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że owocem romansu pewnej Piastówny i przyszłego wrocławskiego biskupa miał być śląski rycerz, dziadek Reynevana, głównego bohatera trylogii husyckiej autorstwa Andrzeja Sapkowskiego?",
+   "article": {
+    "title": "Małgorzata wrocławska (ksieni)",
+    "url": "https://pl.wikipedia.org/wiki/Ma%C5%82gorzata_wroc%C5%82awska_(ksieni)",
+    "extract": "Małgorzata (ur. 1313 lub później, zm. 8 marca 1379(?)), znana również jako Grita – księżniczka z dynastii Piastów śląskich, ksieni klasztoru św. Klary (klarysek) we Wrocławiu."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dobry-herb.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dobry-herb.png",
+    "file": "File:Dobry-herb.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 150,
+    "height": 178,
     "ok": true
    }
   },
@@ -169,22 +179,22 @@
    "id": "c9",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Jackass Flats: The aptly named test site for the world's first and only nuclear-powered rocket engines.",
+   "hook": "Museum of Failure: A collection of sorts focusing on… well, failed things. Notably includes the Nokia N-Gage, Bic's woman-only pens, and Google Glass.",
    "article": {
-    "title": "Jackass Flats",
-    "url": "https://en.wikipedia.org/wiki/Jackass_Flats",
-    "extract": "Jackass Flats is a shallow alluvial basin located in the southwest portion of the Nevada National Security Site in Nye County, Nevada, United States. The area lies east of Yucca Mountain, south of the Calico Hills and Shoshone Mountain and northwest of Skull Mountain. The valley drains to the southwest via the Tonopah and Fortymile washes into the Amargosa Valley across US Route 95 at the town of Amargosa Valley, Nevada. The \"flat\" covers an area of approximately 120 square miles (310 km2) and ranges in elevation from about 2,800 ft (850 m) just north of US 95 to 4,000 ft (1,200 m) at the mountain bases to the north and east."
+    "title": "Museum of Failure",
+    "url": "https://en.wikipedia.org/wiki/Museum_of_Failure",
+    "extract": "The Museum of Failure is a museum that features a collection of failed products and services. The touring exhibition provides visitors with a learning experience about the critical role of failure in innovation. According to its founder, Samuel West, the goal of the museum is to help people recognize the \"need to accept failure if we want progress\", and to encourage companies to learn more from their failures without resorting to \"cliches\"."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Peacekeeper_-_simulated_missile_and_canister_test_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Peacekeeper_-_simulated_missile_and_canister_test_1.jpg",
-    "file": "File:Peacekeeper - simulated missile and canister test 1.jpg",
-    "artist": "Federal Government of the United States",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/MuseumofFailure_Logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MuseumofFailure_Logo.jpg",
+    "file": "File:MuseumofFailure Logo.jpg",
+    "artist": "Museum of Failure",
     "license": "Public domain",
     "license_url": null,
-    "width": 453,
-    "height": 370,
+    "width": 400,
+    "height": 400,
     "ok": true
    }
   },
@@ -192,11 +202,11 @@
    "id": "c10",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Logistics (film): The longest movie ever made, it follows the entire five-week process of making and selling a pedometer in reverse chronological order.",
+   "hook": "Aurê–Aurá language: An extinct language named after the only two people who spoke it",
    "article": {
-    "title": "Logistics (film)",
-    "url": "https://en.wikipedia.org/wiki/Logistics_(film)",
-    "extract": "Logistics, or Logistics Art Project, is a 2012 Swedish experimental film conceived and created by Erika Magnusson and Daniel Andersson. At 51,420 minutes (857 hours or 35 days and 17 hours), it is the longest film ever made."
+    "title": "Aurê–Aurá language",
+    "url": "https://en.wikipedia.org/wiki/Aur%C3%AA%E2%80%93Aur%C3%A1_language",
+    "extract": "Aurê–Aurá is an extinct language, part of the Tupi language family, last spoken by two individuals in Maranhão, Brazil named Aurê and Aurá. Both known speakers originally came from west of Marabá, Pará. The language primarily used nouns, with few adjectives or verbs. Aurê died in 2014, leaving Aurá as the last known speaker of the language."
    },
    "related": [],
    "image": null
@@ -205,63 +215,82 @@
    "id": "c11",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Jordanhill railway station: An ordinary railway station in Glasgow… is what this would've been had it not been the subject of the millionth article on Wikipedia.",
+   "hook": "Nitt Witt Ridge: A house in California, built out of beer cans, abalone shells, car parts, and other garbage previously tossed out by local residents, is now a historic landmark.",
    "article": {
-    "title": "Jordanhill railway station",
-    "url": "https://en.wikipedia.org/wiki/Jordanhill_railway_station",
-    "extract": "Jordanhill railway station is a side-platformed suburban railway station in the Jordanhill area in the West End of Glasgow, Scotland. The station, which is governed by Transport Scotland and managed by ScotRail, lies on the Argyle Line and the North Clyde Line. It is 12 chains (240 metres) from Hyndland West Junction and approximately four miles (six kilometres) from Glasgow City Centre. It has received international recognition for being the subject of the millionth article on the English Wikipedia."
+    "title": "Nitt Witt Ridge",
+    "url": "https://en.wikipedia.org/wiki/Nitt_Witt_Ridge",
+    "extract": "Nitt Witt Ridge is a house on two and a half acres in the coastal city of Cambria, California, United States. Artist and recluse Arthur \"Art\" Harold Beal (1896–1992) bought his hillside lot in 1928 and spent most of the next 50 years carving out the terraces with only a pick and shovel, creating his own \"castle on a hill\"."
    },
    "related": [],
    "image": null,
-   "image_rejected": "CC BY-SA 4.0 (File:Jordanhill station 2016-08-25.jpg)"
+   "image_rejected": "CC BY-SA 4.0 (File:Nitt Witt Ridge at Cambria.jpg)"
   },
   {
    "id": "c12",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Niuas Nobles' constituency: An electoral constituency consisting of just three voters, who elect one of their number to one of the twenty-six seats in the Legislative Assembly of Tonga.",
+   "hook": "Horse theft: \"A person engaged in stealing horses is known as a horse thief.\"",
    "article": {
-    "title": "Niuas Nobles' constituency",
-    "url": "https://en.wikipedia.org/wiki/Niuas_Nobles%27_constituency",
-    "extract": "Niuas is an electoral constituency which sends one representative to the Legislative Assembly of Tonga. It covers the islands of Niuafoʻou and Niuatoputapu.\nSince its inception in 1875, the Assembly has consisted in representatives of the people and in members of the nobility. Following constitutional reforms in 2010, designed to strengthen democracy in the kingdom, the nobility elect nine representatives, while the people elect seventeen."
+    "title": "Horse theft",
+    "url": "https://en.wikipedia.org/wiki/Horse_theft",
+    "extract": "Horse theft is the crime of stealing horses. A person engaged in stealing horses is known as a horse thief. Historically, punishments were often severe for horse theft, with several cultures pronouncing the sentence of death upon actual or presumed thieves. Several societies were formed in the United States to prevent horse theft and apprehend horse thieves."
    },
    "related": [],
-   "image": null
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Horse_thief_hanging.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Horse_thief_hanging.png",
+    "file": "File:Horse thief hanging.png",
+    "artist": "Native Sons of Oregon, Oregon Pioneer Association, Indian War Veterans and Historical Society",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1182,
+    "height": 809,
+    "ok": true
+   }
   },
   {
    "id": "c13",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Canusa Street: A road that's in both Canada and the United States.",
+   "hook": "Uncombable hair syndrome: Not just a bad hair day.",
    "article": {
-    "title": "Canusa Street",
-    "url": "https://en.wikipedia.org/wiki/Canusa_Street",
-    "extract": "Canusa Street (French: rue Canusa) is a road part of Quebec Route 247.\nThe road primarily runs east–west, connecting Rue Principale to the west and Rue Railroad to the east. A particular 0.38 mi (0.61 km) long stretch of Canusa Street runs along the 45th parallel north, which defines the Canada–United States border. On this stretch of road, the middle yellow line defines the international border and separates Beebe Plain, Vermont, in the United States, from the Beebe Plain area of Stanstead, Quebec, in Canada."
+    "title": "Uncombable hair syndrome",
+    "url": "https://en.wikipedia.org/wiki/Uncombable_hair_syndrome",
+    "extract": "Uncombable hair syndrome (UHS) is a rare structural anomaly of the hair with a variable degree of effect. It is characterized by hair that is silvery, dry, frizzy, wiry, and impossible to comb. It was first reported in the early 20th century. UHS has several names, including pili trianguli et canaliculi (Latin), cheveux incoiffables (French), and \"spun-glass hair\"."
    },
    "related": [],
-   "image": null,
-   "image_rejected": "CC BY-SA 2.0 (File:Rue canusa full length marked.png)"
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Scalp_hair-uncombable_hair_syndrome.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Scalp_hair-uncombable_hair_syndrome.gif",
+    "file": "File:Scalp hair-uncombable hair syndrome.gif",
+    "artist": "Hana Kathryn Cobb, Alvin Yuhico Tiu",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 500,
+    "height": 274,
+    "ok": true
+   }
   },
   {
    "id": "c14",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Beer can pyramid: Or beeramid, if you prefer.",
+   "hook": "Criterion of embarrassment: You know it's true because it's too embarrassing for anyone to have made it up.",
    "article": {
-    "title": "Beer can pyramid",
-    "url": "https://en.wikipedia.org/wiki/Beer_can_pyramid",
-    "extract": "A beer can pyramid, often called a beeramid as a portmanteau, is a pyramid made of discarded beer cans or cups. It can also refer to a drinking game that utilizes playing cards in the shape of a pyramid."
+    "title": "Criterion of embarrassment",
+    "url": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
+    "extract": "The criterion of embarrassment is a type of historical analysis in which a historical account is deemed more likely to be true if the author would have no reason to invent a historical account which might embarrass them. It is logically similar to statements against interest in a legal context. Certain Biblical scholars have used this as a meter for assessing whether the New Testament's accounts of Jesus's actions and words are historically probable.\nThe criterion of embarrassment is one of the criteria of authenticity used by academics, the others being the criterion of dissimilarity, the criterion of language and environment, criterion of coherence, and the criterion of multiple attestation."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Beeramid.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Beeramid.JPG",
-    "file": "File:Beeramid.JPG",
-    "artist": "User Lightdarkness on en.wikipedia",
-    "license": "CC BY-SA 3.0",
-    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "width": 450,
-    "height": 754,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Francesco_Albani_-_Baptism_of_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Francesco_Albani_-_Baptism_of_Christ.jpg",
+    "file": "File:Francesco Albani - Baptism of Christ.jpg",
+    "artist": "Francesco Albani",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 475,
+    "height": 600,
     "ok": true
    }
   },
@@ -269,45 +298,35 @@
    "id": "c15",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Emperor Norton: To give him his full title; Norton I, Emperor of the United States, Protector of Mexico. Somewhat recognized by the population of California.",
+   "hook": "Birdemic: Shock and Terror: A climatology fever dream meets a virology fever dream meets an ornithology fever dream meets a cinematography fever dream.",
    "article": {
-    "title": "Emperor Norton",
-    "url": "https://en.wikipedia.org/wiki/Emperor_Norton",
-    "extract": "Joshua Abraham Norton (February 4, 1818 – January 8, 1880), commonly known as Emperor Norton, was a resident of San Francisco, California, who declared himself Emperor of the United States in 1859 and Protector of Mexico in 1866, roles that he maintained until his death in 1880. Norton's notable acts include proposing the construction of what opened as the San Francisco–Oakland Bay Bridge in 1936.\nBorn in England and raised in South Africa, Norton left Cape Town in late 1845, sailing from Liverpool to Boston in early 1846 and eventually arriving in San Francisco in late 1849. After a brief period of prosperity, Norton made a business gambit in late 1852 that played out poorly, ultimately forcing him to declare bankruptcy in 1856."
+    "title": "Birdemic: Shock and Terror",
+    "url": "https://en.wikipedia.org/wiki/Birdemic:_Shock_and_Terror",
+    "extract": "Birdemic: Shock and Terror is a 2008 American independent romantic thriller-horror film written, directed, and executive produced by James Nguyen, and starring Alan Bagh and Whitney Moore. Inspired by Alfred Hitchcock's The Birds, Birdemic tells the story of a romance between the two main characters as their small town is attacked by birds. It was also inspired by the environmental documentary An Inconvenient Truth, which led to the film having an environmental message.\nThe film was largely self-financed and was produced through Nguyen's Moviehead Pictures company for a budget of $10,000."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Norton-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Norton-2.jpg",
-    "file": "File:Norton-2.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 1044,
-    "height": 1785,
-    "ok": true
-   }
+   "image": null
   },
   {
    "id": "c16",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Croissant (linguistic zone): Delectable dialects!",
+   "hook": "Hellmouth: The entrance to Hell envisaged as the gaping mouth of a huge monster, an image which first appears in Anglo-Saxon art.",
    "article": {
-    "title": "Croissant (linguistic zone)",
-    "url": "https://en.wikipedia.org/wiki/Croissant_(linguistic_zone)",
-    "extract": "The Croissant (Occitan: lo Creissent; French: le Croissant) is a linguistic transitional zone between the Langue d'oc (also referred to as Occitan) dialects and the Langue d'oïl dialects, situated in the centre of France where Occitan dialects are spoken (Limousin and Auvergnat) that have transitional traits toward French (Langue d'oïl). The name derives from the contours of the zone that resemble a croissant, or crescent.\nThe first author to use the term Croissant was the linguist Jules Ronjat (1864–1925) in 1913.\nThere are two main Croissant dialects:\n\nMarchois, which is closer to the Limousin dialect, is found in the west, going from Confolentais (Charente) to Montluçon and its surrounds (west of Allier/Gorges du Cher) and passing through the north of Creuse and Guéret."
+    "title": "Hellmouth",
+    "url": "https://en.wikipedia.org/wiki/Hellmouth",
+    "extract": "A hellmouth is a depiction of the entrance to Hell as the gaping mouth of a huge monster. Hellmouths are first present in Anglo-Saxon art and often appear in scenes of the Last Judgment and Harrowing of Hell in the late medieval period in Europe and at times, during the Renaissance and later. Hellmouths were used in polemical popular prints after the Protestant Reformation, when figures from the opposite side would be shown disappearing into the mouth. A notable late appearance is in the two versions of a painting by El Greco of about 1578."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Croissant_%28zone_de_transition_linguistique%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Croissant_(zone_de_transition_linguistique).png",
-    "file": "File:Croissant (zone de transition linguistique).png",
-    "artist": "Aavitus",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 742,
-    "height": 341,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Hellmouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hellmouth.jpg",
+    "file": "File:Hellmouth.jpg",
+    "artist": "Master of Catherine of Cleves",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1109,
+    "height": 1120,
     "ok": true
    }
   },
@@ -315,22 +334,22 @@
    "id": "c17",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Ecce Homo (García Martínez and Giménez): An otherwise-unremarkable fresco of Jesus that was \"restored\" by an untrained amateur and now looks like a monkey.",
+   "hook": "Gerbilling: An urban legend about a sexual practice purportedly conducted. It was made popular by South Park.",
    "article": {
-    "title": "Ecce Homo (García Martínez and Giménez)",
-    "url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Garc%C3%ADa_Mart%C3%ADnez_and_Gim%C3%A9nez)",
-    "extract": "The Ecce Homo (Latin: \"Behold the Man\") in the Sanctuary of Mercy church (Santuario de Misericordia)  in Borja, Spain, is a fresco painted circa 1930 by the Spanish painter Elías García Martínez that depicts Jesus crowned with thorns. Both the subject and style were typical of traditional Catholic art.\nWhile press accounts agree that the original painting was artistically unremarkable, its current fame derives from a partial attempt in 2012 to restore the fresco by Cecilia Giménez, then an 81-year-old untrained amateur artist and resident of Borja. Her restoration became at first a local and then international sensation."
+    "title": "Gerbilling",
+    "url": "https://en.wikipedia.org/wiki/Gerbilling",
+    "extract": "Gerbilling, also known as gerbil stuffing or gerbil shooting, is the alleged sexual practice of inserting a gerbil or other small rodent into one's rectum to obtain stimulation. Gerbilling is considered an urban legend and there is no evidence that the practice has ever occurred in real life. Its existence remains highly dubious, as all rodents have long nails and teeth for digging or burrowing and naturally try to burrow out of any small spaces."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Elias_Garcia_Martinez_-_Ecce_Homo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Elias_Garcia_Martinez_-_Ecce_Homo.jpg",
-    "file": "File:Elias Garcia Martinez - Ecce Homo.jpg",
-    "artist": "Elías García Martínez",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 700,
-    "height": 1072,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/2008-02-16_Mongolian_gerbil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2008-02-16_Mongolian_gerbil.jpg",
+    "file": "File:2008-02-16 Mongolian gerbil.jpg",
+    "artist": "Gophi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1280,
+    "height": 960,
     "ok": true
    }
   },
@@ -338,22 +357,22 @@
    "id": "c18",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Celso Daniel: A city mayor in Brazil who was, allegedly, assassinated in 2002 by criminals, but many people say that he was murdered for political reasons. Within five years, seven witnesses were found dead. To this day, the case remains unsolved.",
+   "hook": "Wilson Tucker (politician): The power of group voting tickets brought a man living in America to Australian regional office despite only having gained 98 votes.",
    "article": {
-    "title": "Celso Daniel",
-    "url": "https://en.wikipedia.org/wiki/Celso_Daniel",
-    "extract": "Celso Augusto Daniel (April 16, 1951 – January 18, 2002) was the mayor in 2002 for the third time of the city of Santo André in São Paulo, Brazil, as a representative of the Workers' Party (PT). He was kidnapped and murdered in the same year.\nA civil engineer who graduated in 1973, from the Engenharia Mauá School, in São Caetano do Sul, he followed an academic career and obtained a master's degree in public administration from the Fundação Getúlio Vargas (FGV-SP) and a doctorate in political science from the Pontifícia Universidade Católica (PUC-SP). He acted later as a teacher in both universities."
+    "title": "Wilson Tucker (politician)",
+    "url": "https://en.wikipedia.org/wiki/Wilson_Tucker_(politician)",
+    "extract": "Wilson Robert Tucker (born 29 September 1984) is an Australian former politician who served in the Western Australian Legislative Council, representing the Mining and Pastoral region. He was elected at the 2021 Western Australian state election for the Daylight Saving Party, with 98 primary votes, or 0.18% of the vote – believed to be the lowest percentage of the primary vote for any politician elected to a parliament in Australia."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Celso_Daniel_73440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Celso_Daniel_73440.jpg",
-    "file": "File:Celso Daniel 73440.jpg",
-    "artist": "Portal da Câmara dos Deputados (Brazil)",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "width": 354,
-    "height": 472,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/WilsonTucker_Parliament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:WilsonTucker_Parliament.jpg",
+    "file": "File:WilsonTucker Parliament.jpg",
+    "artist": "Tucwilso",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 290,
+    "height": 430,
     "ok": true
    }
   },
@@ -361,45 +380,36 @@
    "id": "c19",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Kuchisake-onna: A Japanese urban legend (probably). Also known as \"the slit-mouthed woman\", Kuchisake-onna is asking you if you think she's pretty. No matter what you answer, you're doomed. Except if you say \"pomade\" three times.",
+   "hook": "Barack Obama Plaza: A motorway service area in County Tipperary, Ireland celebrating the work and Irish heritage of U.S. President Barack Obama.",
    "article": {
-    "title": "Kuchisake-onna",
-    "url": "https://en.wikipedia.org/wiki/Kuchisake-onna",
-    "extract": "Kuchisake-onna (口裂け女; 'Slit-Mouthed Woman') is a malevolent figure in Japanese urban legends and folklore. Described as the malicious spirit, or onryō, of a woman, she partially covers her face with a mask or other item to hide her scar and carries a pair of scissors, a knife, or some other sharp object. She is most often described as a tall woman of about 175–180 cm (or 5’7-5’9 ft); however, some people believe she is up to 243.84 cm (or 8ft) tall, having long straight black hair, white hands, pale skin, and otherwise being considered beautiful (except for her scar).\nShe has been described as a contemporary yōkai."
+    "title": "Barack Obama Plaza",
+    "url": "https://en.wikipedia.org/wiki/Barack_Obama_Plaza",
+    "extract": "Barack Obama Plaza is a motorway service area on the R445 road at Junction 23, just off the M7 motorway in County Tipperary, Ireland. It is beside the village of Moneygall, which is just across the county border in County Offaly, and is accessed using the Junction 23 slip roads. It is named after U.S. president Barack Obama, whose third great-grandfather, Falmouth Kearney, lived in Moneygall and emigrated to the US in 1850. The Plaza cost €7 million to construct and opened on 30 May 2014."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shungyosai_Tayu-no-kao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Shungyosai_Tayu-no-kao.jpg",
-    "file": "File:Shungyosai Tayu-no-kao.jpg",
-    "artist": "Hayami Shungyōsai (速水春暁斎, Japanese, *1767, †1823)",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 600,
-    "height": 389,
-    "ok": true
-   }
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Bronze sculpture of Barack and Michelle Obama at Barack Obama Plaza - 1.jpg)"
   },
   {
    "id": "c20",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "YOGTZE case: Unemployed German man scrawls \"YOGTZE\" on a piece of paper, disappears into the night, is found dead the next morning.",
+   "hook": "Roland the Farter: If only we were all a jump, whistle & fart away from prosperity!",
    "article": {
-    "title": "YOGTZE case",
-    "url": "https://en.wikipedia.org/wiki/YOGTZE_case",
-    "extract": "The YOGTZE case (German: YOGTZE-Fall, also BAB-Rätsel, \"Autobahn Riddle\") refers to the death of unemployed German food engineer Günther Stoll, which occurred on 26 October 1984. Stoll died under unusual and mysterious circumstances, which gave the case international attention. \nIn April 2025, the case was closed as accidental, after new investigation had revealed that it was most likely a single-car wreck."
+    "title": "Roland the Farter",
+    "url": "https://en.wikipedia.org/wiki/Roland_the_Farter",
+    "extract": "Roland the Farter (known in contemporary records as Roland le Fartere, Roulandus le Fartere, Rollandus le Pettus, or Roland le Petour) was a medieval flatulist who lived in 12th-century England. He was given Hemingstone manor in Suffolk and 30 acres (12 hectares) of land in return for his services as a jester for King Henry II. Each year, he was obliged to perform \"saltum, siffletum, pettum\" (a jump, a whistle, and a fart all done at once) for the king's court at Christmas.\nRoland is listed in the 13th-century English Liber Feodorum (Book of Fees)."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/YOGTZE_case_location_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:YOGTZE_case_location_map.png",
-    "file": "File:YOGTZE case location map.png",
-    "artist": "Jazzman",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flatulenza_medievale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Flatulenza_medievale.jpg",
+    "file": "File:Flatulenza medievale.jpg",
+    "artist": "Carlo1213",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 857,
-    "height": 1013,
+    "width": 259,
+    "height": 194,
     "ok": true
    }
   },
@@ -407,45 +417,39 @@
    "id": "c21",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Jesus nut: Not your local Bible-thumping preacher but the bolt on the top of a helicopter that connects it to the rotor blades.",
+   "hook": "... that Shayok Misha Chowdhury staged his own mother's death in a play they wrote and performed together at The Bushwick Starr?",
    "article": {
-    "title": "Jesus nut",
-    "url": "https://en.wikipedia.org/wiki/Jesus_nut",
-    "extract": "The main rotor retaining nut or mast nut, often colloquially referred to as the Jesus nut, holds the main rotor to the mast of some helicopters. The related slang term Jesus pin refers to the lock pin used to secure the retaining nut. A failure of this nut is likely to result in a crash."
+    "title": "Shayok Misha Chowdhury",
+    "url": "https://en.wikipedia.org/wiki/Shayok_Misha_Chowdhury",
+    "extract": "Shayok Misha Chowdhury (born December 23, 1984) is an American playwright and theater director. He wrote the plays Public Obscenities and Rheology. For Public Obscenities, Chowdhury was a finalist for the 2024 Pulitzer Prize for Drama. Chowdhury has also directed productions of Aleshea Harris's Brother Brother, Jordan Tannahill's Prince Faggot, Jesse Eisenberg's The Ziegfield Files, an outdoor revival of The Gospel at Colonus, and his own plays."
    },
-   "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jesus_nut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Jesus_nut.jpg",
-    "file": "File:Jesus nut.jpg",
-    "artist": "Alan Radecki Akradecki",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 1200,
-    "height": 600,
-    "ok": true
-   }
+   "related": [
+    "Rheology (play)",
+    "The Bushwick Starr"
+   ],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:ShayokMishaChowdury-byPhilipRomano (cropped).jpg)"
   },
   {
    "id": "c22",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "British Israelism: A long discredited form of British nationalism, by way of the idea that the Ten Lost Tribes of Israel made their way to Britain.",
+   "hook": "Tió de Nadal: A log that defecates sweets for Catalan children on Christmas eve.",
    "article": {
-    "title": "British Israelism",
-    "url": "https://en.wikipedia.org/wiki/British_Israelism",
-    "extract": "British Israelism (also called Anglo-Israelism) is a pseudohistorical belief that the people of Great Britain are \"genetically, racially, and linguistically the direct descendants\" of the Ten Lost Tribes of ancient Israel. With roots in the 18th century, British Israelism was inspired by several 19th-century English writings such as John Wilson's 1840 Our Israelitish Origin. From the 1870s onward, numerous independent British Israelite organizations were set up throughout the British Empire as well as in the United States; as of the early 21st century, a number of these organizations are still active. In the United States, the idea gave rise to the Christian Identity movement."
+    "title": "Tió de Nadal",
+    "url": "https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal",
+    "extract": "The Tió de Nadal (Eastern Catalan: [tiˈo ðə nəˈðal], Western Catalan: [tiˈo ðe naˈðal]; 'Christmas Log'), also known simply as tió ('log'), soca or tronc(a) ('trunk'), is a character in Catalan mythology relating to a Christmas tradition practiced in Catalonia, Valencia (occasionally), Mallorca (known as Nadaler), Aragon, Occitania and Andorra. In Aragon it is also called, in Aragonese, Tizón de Nadal, Toza de Nadal or Tronca de Nadal.\nThe Tió de Nadal is related to the tradition of the Germanic Christmas tree, also a bearer of gifts for the little ones, and with the British Yule log (tizón do Nadal in Galicia and Cachafuòc, Cachofio or Soc de Nadal in Occitania)."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Israelinbritainb00garn_0005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Israelinbritainb00garn_0005.jpg",
-    "file": "File:Israelinbritainb00garn 0005.jpg",
-    "artist": "Colonel John Garnier (1838-1929)",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 338,
-    "height": 535,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cagatio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cagatio.jpg",
+    "file": "File:Cagatio.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 614,
+    "height": 800,
     "ok": true
    }
   },
@@ -453,68 +457,49 @@
    "id": "c23",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Pedro Lascuráin: President of Mexico for 45 minutes.",
+   "hook": "Empresa de China: Spain's plan for an Iberian-Filipino-Japanese motley crew to take over China. Cancelled after England sunk the Armada.",
    "article": {
-    "title": "Pedro Lascuráin",
-    "url": "https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in",
-    "extract": "Pedro José Domingo de la Calzada Manuel María Lascuráin Paredes (8 May 1856 – 21 July 1952) was a Mexican politician and lawyer who served as the 38th president of Mexico for 45 minutes on 19 February 1913, the shortest presidency in history. The grandson of Mariano Paredes, the 15th president of Mexico, Lascuráin previously served as Mexico's foreign secretary for two terms and was the director of a small law school in Mexico City for 16 years.\nBorn to a wealthy family in Mexico City, Lascuráin studied law at the Escuela Nacional Preparatoria and became a successful lawyer. He held numerous positions in the city's government."
+    "title": "Empresa de China",
+    "url": "https://en.wikipedia.org/wiki/Empresa_de_China",
+    "extract": "The Empresa de China (\"China Enterprise\") was a long-time projected conquest of China by the Spanish Empire. Proposed repeatedly through the 16th century as a natural culmination of the conquest of the Philippines, it involved the invasion and assimilation of the Ming dynasty by a coalition that would include Spaniards, Portuguese, Spanish subjects of Spanish Philippines, and Japanese allies from the Toyotomi regency, as well as potential masses of ethnic Chinese allies.\nMilitary conquest of China appeared viable by the reports of Christian missionaries and ambassadors, who described the Ming population as demobilized, inefficiently administered and easy to sublevate against their own governors, offering a situation similar to those of the Aztec and Inca Empires where control of the territory could be wrested away. Once conquered, the plan included mass evangelizing activities and the pr"
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pedro_Lascurain_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Pedro_Lascurain_(cropped).jpg",
-    "file": "File:Pedro Lascurain (cropped).jpg",
-    "artist": "Bain News Service",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 659,
-    "height": 802,
-    "ok": true
-   }
+   "image": null,
+   "image_rejected": "CC0 (File:Empresa de China.svg)"
   },
   {
    "id": "c24",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Supernumerary nipple: A condition in which one has an additional nipple. Apparently 1 in 18 people have this condition.",
+   "hook": "The People's Choice Music: Contains \"The Most Unwanted Song\", featuring operatic rapping, a children's choir urging listeners to go to Walmart, bagpipes, cowboy music, and political slogans shouted through a bullhorn. The album's other track, \"The Most Wanted Song\", is even worse.",
    "article": {
-    "title": "Supernumerary nipple",
-    "url": "https://en.wikipedia.org/wiki/Supernumerary_nipple",
-    "extract": "A supernumerary nipple is an additional instance of nipple occurring in mammals, including humans and monkeys. They are often mistaken for moles. Studies variously report the prevalence of supernumerary nipples as approximately 1 in 18 and 1 in 40.\nThe nipples appear along the two vertical \"milk lines\", which start in the armpit on each side, run down through the typical nipples and end at the groin."
+    "title": "The People's Choice Music",
+    "url": "https://en.wikipedia.org/wiki/The_People%27s_Choice_Music",
+    "extract": "The People's Choice Music is an EP by the Russian artists Komar and Melamid and the American scientist and composer Dave Soldier, released in 1997. It comprises two songs, \"The Most Wanted Song\" and \"The Most Unwanted Song\". The former, a pop duet, was written to incorporate lyrical and musical elements that were received favorably by most respondents to an opinion poll. \"The Most Unwanted Song\", meanwhile, features lyrical and musical elements that the same respondents most disliked."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Trzeci_sutek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Trzeci_sutek.jpg",
-    "file": "File:Trzeci sutek.jpg",
-    "artist": "Zureks",
-    "license": "CC BY 3.0",
-    "license_url": "https://creativecommons.org/licenses/by/3.0",
-    "width": 473,
-    "height": 518,
-    "ok": true
-   }
+   "image": null
   },
   {
    "id": "c25",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Parasitic twin: A medical condition where one of two conjoined twins lacks essential organs and must rely on the other for survival, often leeching its blood. An especially rare variant of this, fetus in fetu, involves one partially formed fetus developing within the body of the other.",
+   "hook": "Shani Shingnapur: A holy Hindu village that doesn't have any doors.",
    "article": {
-    "title": "Parasitic twin",
-    "url": "https://en.wikipedia.org/wiki/Parasitic_twin",
-    "extract": "A parasitic twin, also known as an asymmetrical twin or unequal conjoined twin, occurs when a twin embryo begins developing in utero, but the pair does not fully separate, and one embryo maintains dominant development at the expense of the other. It results from the same processes that also produces vanishing twins and conjoined twins, and may represent a continuum between the two. In parasitic twins, one ceases development during gestation and is vestigial to a mostly fully formed, otherwise healthy individual twin. The undeveloped twin is termed as parasitic, because it is incompletely formed or wholly dependent on the body functions of the complete fetus."
+    "title": "Shani Shingnapur",
+    "url": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+    "extract": "Shani Shingnapur or Shani Shinganapur or Shingnapur is a village in the Indian state of Maharashtra. Situated in Nevasa Taluka in Ahmednagar district, the village is known for its popular temple of Shani, the Hindu god associated with the planet (graha) Saturn. The village is 35 kilometres from the city of Ahmednagar."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/JohannSchenk-Twins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:JohannSchenk-Twins.jpg",
-    "file": "File:JohannSchenk-Twins.jpg",
-    "artist": "nieznany autor",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 390,
-    "height": 510,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+    "file": "File:Shani Shignapur renowned for its Shani temple.jpg",
+    "artist": "25 Cents FC",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1056,
+    "height": 1408,
     "ok": true
    }
   },
@@ -522,45 +507,36 @@
    "id": "c26",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Laptop battle: Battle of the Bands, but for EDM.",
+   "hook": "Antiqua–Fraktur dispute: A dispute over which typeface was more \"German\". At first, the Nazis were for Fraktur…",
    "article": {
-    "title": "Laptop battle",
-    "url": "https://en.wikipedia.org/wiki/Laptop_battle",
-    "extract": "A laptop battle is a competitive event for an electronic musician to match their skills against others. Founded in Seattle, Washington in 2003 by Zach Huntting and Kris Moon of the Fourthcity Arts Collective, in collaboration with Steven Ford, and inspired in part by Liz Revision's Laptop Cage Match held in Chicago in 2002, the format caught on quickly and spread worldwide. Within 5 years, there were chapters in the UK, Germany, Italy, France, Japan, New Zealand, Puerto Rico, Canada and across the US. US-based chapters spread from Seattle to Philadelphia, Brooklyn, Boston, DC, Miami, Dallas, Atlanta, Austin, LA, San Francisco, Portland and more. Competition rules vary based on local chapter."
+    "title": "Antiqua–Fraktur dispute",
+    "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+    "extract": "The Antiqua–Fraktur dispute was a typographical dispute in 19th- and early 20th-century Germany.\nIn most European countries, blackletter typefaces like the German Fraktur were displaced by the creation of the Antiqua typefaces in the 15th and 16th centuries. However, in Germany and Austria, the two styles of printing coexisted until the first half of the 20th century.\nDuring that time, both styles gained ideological connotations in Germany, which led to long and heated disputes on what was the \"correct\" typeface to use."
    },
    "related": [],
-   "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Laptop-battle_SIC-copy-300_%281%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Laptop-battle_SIC-copy-300_(1).png",
-    "file": "File:Laptop-battle SIC-copy-300 (1).png",
-    "artist": "Buhlebuhle",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 300,
-    "height": 464,
-    "ok": true
-   }
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Schriftzug Antiqua.svg)"
   },
   {
    "id": "c27",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Great Stork Derby: What could possibly be in the will of a notorious practical joker?",
+   "hook": "Buttered toast phenomenon: But only if you're eating at a table.",
    "article": {
-    "title": "Great Stork Derby",
-    "url": "https://en.wikipedia.org/wiki/Great_Stork_Derby",
-    "extract": "The Great Stork Derby was a contest held from 1926 to 1936. Female residents of Toronto, Ontario, Canada, competed to produce the most babies in order to qualify for an unusual bequest in a will."
+    "title": "Buttered toast phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Buttered_toast_phenomenon",
+    "extract": "The buttered toast phenomenon is an observation that buttered toast tends to land butter-side down after it falls. It is used as an idiom representing pessimistic outlooks. Various people have attempted to determine whether there is an actual tendency for bread to fall in this fashion, with varying results."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Charles_Vance_Millar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Charles_Vance_Millar.jpg",
-    "file": "File:Charles Vance Millar.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 200,
-    "height": 201,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dropped_buttered_toast_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dropped_buttered_toast_(cropped).jpg",
+    "file": "File:Dropped buttered toast (cropped).jpg",
+    "artist": "EgoVolo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1050,
+    "height": 706,
     "ok": true
    }
   },
@@ -568,22 +544,22 @@
    "id": "c28",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Viper (rapper): Has released over 1,927 albums, though a majority contain recycled material. Titles of his work include You'll Cowards Don't Even Smoke Crack and Kill Urself My Man. Arrested in 2024 for allegedly holding a woman captive in his garage in Houston for five years, among other atrocities.",
+   "hook": "Puyi: He became the last Emperor of China at the age of two and died as an ordinary citizen, ending 2,133 years of dynastic rule in China. In his twilight years, he also did community theater.",
    "article": {
-    "title": "Viper (rapper)",
-    "url": "https://en.wikipedia.org/wiki/Viper_(rapper)",
-    "extract": "Lee Arthur Carter (born October 7, 1971), known professionally by his stage name Viper, is an American rapper, record producer, and actor. He is regarded as one of the originators of cloud rap.\nViper began releasing music in 2003, originally under the name Lee Dogg. He released the album You'll Cowards Don't Even Smoke Crack in 2008; it gained popularity in 2013 and became an Internet meme."
+    "title": "Puyi",
+    "url": "https://en.wikipedia.org/wiki/Puyi",
+    "extract": "Puyi (Chinese: 溥儀; pinyin: Pǔ Yí; Wade–Giles: P'u-i; 7 February 1906 – 17 October 1967) was the last emperor of China, having reigned as the Xuantong Emperor of the Qing dynasty (1908–1912, with a brief restoration in 1917) and later as the Kangde Emperor of Manchukuo, a Japanese puppet state during World War II. After the war, he was held as a war criminal in the Soviet Union and China until 1959, when the Chinese Communist Party granted him amnesty and presented him as a model of successful reeducation.\nIn 1908, chosen by Empress Dowager Cixi to succeed the childless Guangxu Emperor, Puyi ascended the throne at age two with his father Prince Chun as regent. Following the Xinhai Revolution, Empress Dowager Longyu signed the abdication edict on Puyi's behalf; in return, the Articles of Favorable Treatment allowed him to retain his imperial title and remain in the Forbidden City. From 1 t"
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Viper_the_Rapper%27s_face.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Viper_the_Rapper%27s_face.jpeg",
-    "file": "File:Viper the Rapper's face.jpeg",
-    "artist": "Lee Carter",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 400,
-    "height": 400,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Puyi%2C_Manchukuo_period_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Puyi,_Manchukuo_period_(cropped).jpg",
+    "file": "File:Puyi, Manchukuo period (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 1000,
     "ok": true
    }
   },
@@ -591,22 +567,22 @@
    "id": "c29",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Execution by elephant: An unusual form of capital punishment used throughout history. (See also History of elephants in Europe.)",
+   "hook": "Tlazōlteōtl: Aztec god of vice, purification, steam baths, lust, filth, and a patroness of adulterers.",
    "article": {
-    "title": "Execution by elephant",
-    "url": "https://en.wikipedia.org/wiki/Execution_by_elephant",
-    "extract": "Execution by elephant, or Gunga Rao, was a method of capital punishment in South and Southeast Asia, particularly in India, where Asian elephants were used to crush, dismember, or torture captives during public executions. The animals were trained to kill victims immediately or to torture them slowly over a prolonged period. Most commonly employed by royalty, the elephants were used to signify both the ruler's power of life and death over his subjects and his ability to control wild animals.\nThe sight of elephants executing captives was recorded in contemporary journals and accounts of life in Asia by European travellers."
+    "title": "Tlazōlteōtl",
+    "url": "https://en.wikipedia.org/wiki/Tlaz%C5%8Dlte%C5%8Dtl",
+    "extract": "In Aztec mythology, Tlahzolteōtl (or Classical Nahuatl: Tlâçolteotl, pronounced [t͡ɬaʔs̻oɬˈteoːt͡ɬ]) is a deity of sex, sexuality, lust, carnality, sin, vice, impurity, temptation, fertility, purification, absolution, steam baths, and a patroness of adulterers. She is known by three names, Tlahēlcuāni (\"she who eats tlahēlli or filthy excrescence [sin]\") and Tlazolmiquiztli (\"the death caused by lust\"), and Ixcuina or Ixcuinan (Huastec: Ix Cuinim, Deity of Cotton), the latter of which refers to a quadripartite association of four sister deities.\nTlazolteōtl is the deity for the 13th trecena of the sacred 260-day calendar Tōnalpōhualli, the one beginning with the day Ce Ōllin, or First Movement. She is associated with the day sign of the jaguar."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Jamal_al-Din_Husayn_Inju_Shirazi_-_Two_Folios_from_the_Akbarnama_-_Walters_W684_-_Detail_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Jamal_al-Din_Husayn_Inju_Shirazi_-_Two_Folios_from_the_Akbarnama_-_Walters_W684_-_Detail_A.jpg",
-    "file": "File:Jamal al-Din Husayn Inju Shirazi - Two Folios from the Akbarnama - Walters W684 - Detail A.jpg",
-    "artist": "nieznany autor",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tlazoteotl_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tlazoteotl_7.jpg",
+    "file": "File:Tlazoteotl 7.jpg",
+    "artist": "Unknown authorUnknown author",
     "license": "Public domain",
     "license_url": null,
-    "width": 1154,
-    "height": 1800,
+    "width": 476,
+    "height": 428,
     "ok": true
    }
   },
@@ -614,22 +590,22 @@
    "id": "c30",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Hannes Þór Halldórsson: An Icelandic filmmaker who also served as the national team's goalkeeper during their most successful period in history and saved a Lionel Messi penalty kick in the World Cup.",
+   "hook": "Shaggy defense: Caught committing a crime, but don't know what to do? Say it wasn't you.",
    "article": {
-    "title": "Hannes Þór Halldórsson",
-    "url": "https://en.wikipedia.org/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson",
-    "extract": "Hannes Þór Halldórsson (born 27 April 1984) is an Icelandic filmmaker and former professional footballer. He was a member of the Iceland national team where he was capped 77 times and appeared at UEFA Euro 2016 and the 2018 FIFA World Cup."
+    "title": "Shaggy defense",
+    "url": "https://en.wikipedia.org/wiki/Shaggy_defense",
+    "extract": "A Shaggy defense is an informal phrase used to describe a legal defense strategy in which the defendant categorically denies any accusations with the simple defense of \"it wasn't me\", despite overwhelming evidence to the contrary. The phrase is derived from reggae musician Shaggy's 2000 single \"It Wasn't Me\", and was coined by Slate writer Josh Levin in 2008 to describe the defense tactics used by singer R. Kelly while on trial for child pornography charges."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson_2018_(cropped).jpg",
-    "file": "File:Hannes Þór Halldórsson 2018 (cropped).jpg",
-    "artist": "Светлана Бекетова",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "width": 284,
-    "height": 451,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Shaggy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shaggy.jpg",
+    "file": "File:Shaggy.jpg",
+    "artist": "https://www.flickr.com/people/adamj4282/",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 454,
+    "height": 561,
     "ok": true
    }
   },
@@ -637,22 +613,22 @@
    "id": "c31",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Disneyland with the Death Penalty: Best way to describe Singapore according to William Gibson.",
+   "hook": "Cornell University pumpkin prank: A Halloween prank in which a pumpkin was placed on the lightning rod of a university clocktower in 1997, lasting over five months before it was accidentally knocked down during a rehearsal for its retrieval. The culprit is still unknown.",
    "article": {
-    "title": "Disneyland with the Death Penalty",
-    "url": "https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty",
-    "extract": "\"Disneyland with the Death Penalty\" is a 4,500-word article about Singapore written by William Gibson. His first major piece of non-fiction, it was first published as the cover story for Wired magazine's September/October 1993 issue (1.4).\nThe article followed Gibson's observations of the architecture, phenomenology and culture of Singapore, and the clean, bland and conformist impression the city-state conveyed during his stay. Its title and central metaphor – Singapore as Disneyland with the death penalty – was a reference to the authoritarian artifice the author perceived the city-state to be."
+    "title": "Cornell University pumpkin prank",
+    "url": "https://en.wikipedia.org/wiki/Cornell_University_pumpkin_prank",
+    "extract": "In October 1997, a pumpkin was placed on the lightning rod of McGraw Tower at Cornell University in Ithaca, New York. Due to attempts to identify the pumpkin, speculation on how it was placed, and the unknown identity of the culprit, the pumpkin acquired national news coverage as well as a dedicated website with a webcam. It was referred to as the Great Pumpkin Mystery.\nThe pumpkin stayed on the top of the tower until March 1998, when it was accidentally knocked down by a crane cage during a rehearsal for its removal."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Disneyland_with_the_Death_Penalty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Disneyland_with_the_Death_Penalty.jpg",
-    "file": "File:Disneyland with the Death Penalty.jpg",
-    "artist": "terence",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "width": 1024,
-    "height": 686,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/McGrawTowerPumpkin_Inset_zoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:McGrawTowerPumpkin_Inset_zoom.jpg",
+    "file": "File:McGrawTowerPumpkin Inset zoom.jpg",
+    "artist": "User:Wasted Time R, User:Beejamjam",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1140,
+    "height": 1704,
     "ok": true
    }
   },
@@ -660,22 +636,22 @@
    "id": "c32",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "North Hollywood shootout: In 1997, two heavily armed men were involved in a bank robbery, which turned into a 44-minute shootout with police officers. 20 people were injured as a result, and only the criminals died.",
+   "hook": "Drunkard's cloak: Attire for the village drunk.",
    "article": {
-    "title": "North Hollywood shootout",
-    "url": "https://en.wikipedia.org/wiki/North_Hollywood_shootout",
-    "extract": "The North Hollywood shootout, also known as the Battle of North Hollywood, was a confrontation between two heavily armed and armored bank robbers, Larry Phillips Jr. and Emil Mătăsăreanu, and police officers in the North Hollywood neighborhood of Los Angeles on February 28, 1997. Both robbers died during the shooting, twelve police officers and eight civilians were injured, and numerous vehicles and other property were damaged or destroyed by the nearly 2,000 rounds of ammunition fired by the robbers and police.\nAt 9:16 a.m., Phillips and Mătăsăreanu entered and robbed Bank of America's North Hollywood branch."
+    "title": "Drunkard's cloak",
+    "url": "https://en.wikipedia.org/wiki/Drunkard%27s_cloak",
+    "extract": "A drunkard's cloak was a type of pillory used in various jurisdictions to punish miscreants."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mugshot_of_Larry_Phillips_Jr._in_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Mugshot_of_Larry_Phillips_Jr._in_1993.jpg",
-    "file": "File:Mugshot of Larry Phillips Jr. in 1993.jpg",
-    "artist": "California Glendale Police Department.",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png",
+    "file": "File:Brank and Drunkard's cloak at newcastle-on-tyne.png",
+    "artist": "William Andrews",
     "license": "Public domain",
     "license_url": null,
-    "width": 651,
-    "height": 1000,
+    "width": 918,
+    "height": 550,
     "ok": true
    }
   },
@@ -683,22 +659,22 @@
    "id": "c33",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Black and white hat symbolism in film: The hat, sir, whatever could it mean?",
+   "hook": "Folgerphone: A woodwind instrument made from a coffee can.",
    "article": {
-    "title": "Black and white hat symbolism in film",
-    "url": "https://en.wikipedia.org/wiki/Black_and_white_hat_symbolism_in_film",
-    "extract": "In American films of the Western genre between the 1920s and the 1940s, white hats were often worn by heroes and black hats by villains to symbolize the contrast in good versus evil. The 1903 short film The Great Train Robbery provides an early example of this convention. Two exceptions to the convention were portrayals by William Boyd (active 1918–1954), who wore dark clothing as Hopalong Cassidy, and Robert Taylor's portrayal in the film The Law and Jake Wade (1958).\nThe book Investigating Information Society said the convention was arbitrarily imposed by filmmakers in the genre with the expectation that audiences would understand the categorizations."
+    "title": "Folgerphone",
+    "url": "https://en.wikipedia.org/wiki/Folgerphone",
+    "extract": "The folgerphone (sometimes Folgerphone) is a wind instrument (or aerophone). Like the saxophone it is classifiable as a woodwind rather than brass instrument despite being made of metal, because it has a reed.  The folgerphone is a modern experimental instrument, using an alto sax mouthpiece, with copper tubing and a coffee can (the name is a reference to Folgers, a common American brand of canned coffee).  The instrument is not commercially produced, but constructed by musicians, and need not use a genuine coffee can, but any sounding box made of metal."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_Bild_102-00053%2C_Tom_Mix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00053,_Tom_Mix.jpg",
-    "file": "File:Bundesarchiv Bild 102-00053, Tom Mix.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "CC BY-SA 3.0 de",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-    "width": 523,
-    "height": 800,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Folgerphone_Nutt_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Folgerphone_Nutt_front.jpg",
+    "file": "File:Folgerphone Nutt front.jpg",
+    "artist": "Craig Nutt",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 784,
     "ok": true
    }
   },
@@ -706,22 +682,22 @@
    "id": "c34",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "The First Blast of the Trumpet Against the Monstruous Regiment of Women: A 1558 diatribe by John Knox against Mary, Queen of Scots and Mary Tudor.",
+   "hook": "Donald Trump and handshakes: Who knew people had this much to say about how Donald Trump gives handshakes?",
    "article": {
-    "title": "The First Blast of the Trumpet Against the Monstruous Regiment of Women",
-    "url": "https://en.wikipedia.org/wiki/The_First_Blast_of_the_Trumpet_Against_the_Monstruous_Regiment_of_Women",
-    "extract": "The First Blast of the Trumpet Against the Monstruous Regiment of Women is a polemical work by the Scottish reformer John Knox, published in 1558. It attacks female monarchs, arguing that rule by women is contrary to the Bible."
+    "title": "Donald Trump and handshakes",
+    "url": "https://en.wikipedia.org/wiki/Donald_Trump_and_handshakes",
+    "extract": "The handshakes of Donald Trump, the 45th and 47th president of the United States, with world leaders have been the subject of extensive commentary. Scholars have noted that politicians' handshakes are usually unnoticed or restricted to silent interpretation by the participants, and only in the case of Trump do they appear to receive widespread media attention.\nNotable incidents of handshakes (and avoidance of handshakes) have included interactions with French president Emmanuel Macron, Japanese prime minister Shinzo Abe, Canadian prime minister Justin Trudeau, German chancellor Angela Merkel, and U.S. leaders including FBI director James Comey and Supreme Court justice nominee Neil Gorsuch. The same characteristic or mannerism was identified during Trump's 2016 presidential campaign, although it was not widely reported on at the time."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Firstblast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Firstblast.jpg",
-    "file": "File:Firstblast.jpg",
-    "artist": "Andrew Steuart (printer)",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 400,
-    "height": 711,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Shinz%C5%8D_Abe_met_with_President-elect_Donald_Trump_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shinz%C5%8D_Abe_met_with_President-elect_Donald_Trump_(1).jpg",
+    "file": "File:Shinzō Abe met with President-elect Donald Trump (1).jpg",
+    "artist": "首相官邸ホームページ",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 600,
+    "height": 448,
     "ok": true
    }
   },
@@ -729,22 +705,22 @@
    "id": "c35",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Teddy bear toss: A Christmas tradition in minor league ice hockey.",
+   "hook": "Trepanning: Making a hole in the skull was previously thought to cure problems like epilepsy or allow a person to enter into a higher state of consciousness.",
    "article": {
-    "title": "Teddy bear toss",
-    "url": "https://en.wikipedia.org/wiki/Teddy_bear_toss",
-    "extract": "The teddy bear toss (French: Le match des toutous) is a popular Christmas season promotion most common at junior ice hockey and minor league hockey games. Fans are encouraged to bring teddy bears or other stuffed toys to the game, and to throw them onto the ice when the home team scores its first goal. The toys are gathered to be donated as presents to hospitals and charities. In many cases, the players themselves personally donate some of the bears to children at area hospitals."
+    "title": "Trepanning",
+    "url": "https://en.wikipedia.org/wiki/Trepanning",
+    "extract": "Trepanning, also known as trepanation, trephination, trephining or making a burr hole (the verb trepan derives from Old French from Medieval Latin trepanum from Greek trúpanon, literally \"borer, auger\"), is a surgical intervention in which a hole is drilled or scraped into the human skull. This procedure is one of the oldest known surgical procedures, mainly performed by priests or \"medicine men.\" Those who performed trepanation used materials such as stone, obsidian, bronze, or bone shaped into hand-held tools. The intentional perforation of the cranium exposes the dura mater to treat health problems related to intracranial diseases or release pressured blood buildup from an injury. It may also refer to any \"burr\" hole created through other body surfaces, including nail beds."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hershey_Bears_Teddy_bear_toss_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Hershey_Bears_Teddy_bear_toss_2025.png",
-    "file": "File:Hershey Bears Teddy bear toss 2025.png",
-    "artist": "45BearsFan",
-    "license": "CC0",
-    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "width": 889,
-    "height": 400,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hieronymus_Bosch_053_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_053_detail.jpg",
+    "file": "File:Hieronymus Bosch 053 detail.jpg",
+    "artist": "Hieronymus Bosch",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 662,
+    "height": 627,
     "ok": true
    }
   },
@@ -752,24 +728,22 @@
    "id": "c36",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "... that a video of letters on a small toy had conspiracy theorists on edge?",
+   "hook": "Mug shot of Donald Trump: How a photo of the 45th and 47th president of the US getting arrested (and released shortly after) became a source of comedy on the internet.",
    "article": {
-    "title": "Rise (zero gravity indicator)",
-    "url": "https://en.wikipedia.org/wiki/Rise_(zero_gravity_indicator)",
-    "extract": "\"Rise\" is a small stuffed toy used as a weightlessness indicator for the Artemis II lunar flyby mission and as a mascot for its crew. The indicator was created based on a design by 8-year-old Californian Lucas Ye, whose work won a NASA-sponsored competition held from March to June 2025. The toy design is inspired by the photograph Earthrise taken by Apollo 8 astronaut William Anders on December 24, 1968, and is copyrighted by NASA.\nThe toy was manufactured by NASA's Goddard Space Flight Center's Thermal Blanket Laboratory. During its flight, which took place April 1–11, 2026, its pocket contained an SD card containing digital photographs of the 25 child finalists, as well as the names of more than 5.6 million people who received virtual \"boarding passes\" for the Orion spacecraft as souvenirs."
+    "title": "Mug shot of Donald Trump",
+    "url": "https://en.wikipedia.org/wiki/Mug_shot_of_Donald_Trump",
+    "extract": "On August 24, 2023, a mug shot of Donald Trump, then a former president of the United States who went on to win the 2024 presidential election, was taken at the Fulton County Jail in Atlanta, Georgia. The mug shot was taken after Trump was indicted on racketeering and related charges, and voluntarily surrendered himself to authorities at the Fulton County Jail. In the photograph, Trump, wearing a blue suit with a white shirt and a red tie, glowers at the camera in front of a gray backdrop. His face is lit from the side and from above."
    },
-   "related": [
-    "Moon landing conspiracy theories"
-   ],
+   "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Rise_Mascot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Rise_Mascot.jpg",
-    "file": "File:Rise Mascot.jpg",
-    "artist": "Lucas Ye",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Donald_Trump_mugshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Donald_Trump_mugshot.jpg",
+    "file": "File:Donald Trump mugshot.jpg",
+    "artist": "Fulton County Sheriff's Office, State of Georgia",
     "license": "Public domain",
     "license_url": null,
-    "width": 1200,
-    "height": 1585,
+    "width": 1080,
+    "height": 1080,
     "ok": true
    }
   },
@@ -777,22 +751,22 @@
    "id": "c37",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Billy Possum: When Taft tried to get his own Teddy Bear.",
+   "hook": "Leaning Tower of Suurhusen: Beating the world-famous Leaning Tower of Pisa by 1.22 degrees.",
    "article": {
-    "title": "Billy Possum",
-    "url": "https://en.wikipedia.org/wiki/Billy_Possum",
-    "extract": "Billy Possum is a type of stuffed toy depicting an opossum. Designed to be the replacement for the Teddy bear after Theodore Roosevelt vacated the office of President of the United States in 1909, the toy's popularity waned quickly, with the trend having lost all momentum by Christmas of that year."
+    "title": "Leaning Tower of Suurhusen",
+    "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Suurhusen",
+    "extract": "The Leaning Tower of Suurhusen (German: Schiefer Turm von Suurhusen) is a late medieval steeple in Suurhusen, a village in the East Frisian region of northwestern Germany. According to the Guinness World Records it was at one time the most tilted tower in the world, although intentionally inclined towers such as the Montreal Tower far surpass it. The Suurhusen steeple as of 2007 claimed to be the unintentionally tilted tower with the greatest angle of lean in the world, 1.22° more than the Leaning Tower of Pisa."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Billy_Possum_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Billy_Possum_advertisement.jpg",
-    "file": "File:Billy Possum advertisement.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 662,
-    "height": 1034,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Suurhusen_kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Suurhusen_kirche.jpg",
+    "file": "File:Suurhusen kirche.jpg",
+    "artist": "Axel Heymann",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1024,
+    "height": 768,
     "ok": true
    }
   },
@@ -800,22 +774,22 @@
    "id": "c38",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Pauli effect: Something in the lab not working? Technical difficulties? Blame this guy.",
+   "hook": "Superhump: When a star thrusts in brightness.",
    "article": {
-    "title": "Pauli effect",
-    "url": "https://en.wikipedia.org/wiki/Pauli_effect",
-    "extract": "The Pauli effect or Pauli's device corollary is the supposed tendency of technical equipment to encounter critical failure in the presence of certain people — originally, Austrian physicist Wolfgang Pauli. The Pauli effect is not related to the Pauli exclusion principle, which is a bona fide physical phenomenon named after Pauli. However the Pauli effect was humorously tagged as a second Pauli exclusion principle, according to which a functioning device and Wolfgang Pauli may not occupy the same room."
+    "title": "Superhump",
+    "url": "https://en.wikipedia.org/wiki/Superhump",
+    "extract": "In astronomy, a superhump is a periodic brightness variation in a cataclysmic variable star system, with a period within a few percent of the orbital period of the system."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg",
-    "file": "File:Wolfgang Pauli.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "width": 935,
-    "height": 1171,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/HT-Cas_LC_Chart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HT-Cas_LC_Chart.jpg",
+    "file": "File:HT-Cas LC Chart.jpg",
+    "artist": "Alan A. Bedard",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1065,
+    "height": 495,
     "ok": true
    }
   },
@@ -823,22 +797,22 @@
    "id": "c39",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "List of prematurely reported obituaries: Weird how much this happens.",
+   "hook": "The Urantia Book: Over two thousand pages of anonymous, religious, subconscious ramblings on religion and \"God\" (whatever that means in the billion planets out there).",
    "article": {
-    "title": "List of prematurely reported obituaries",
-    "url": "https://en.wikipedia.org/wiki/List_of_prematurely_reported_obituaries",
-    "extract": "A prematurely reported obituary is an obituary of someone who was still alive at the time of publication. Examples include that of inventor and philanthropist Alfred Nobel, whose premature obituary condemning him as a \"merchant of death\" for creating military explosives may have prompted him to create the Nobel Prize; black nationalist Marcus Garvey, whose actual death may have been precipitated by reading his own obituary; and actor Abe Vigoda, who was the subject of so many death reports and rumours that a website was created to state whether he was alive or dead.\nThis article lists the recipients of incorrect death reports (not just formal obituaries) from publications, media organisations, official bodies, and widely used information sources; but not mere rumours of deaths. People who were presumed (though not categorically declared) to be dead, and joke death reports that were widel"
+    "title": "The Urantia Book",
+    "url": "https://en.wikipedia.org/wiki/The_Urantia_Book",
+    "extract": "The Urantia Book (sometimes called The Urantia Papers or The Fifth Epochal Revelation) is a spiritual, philosophical, and religious book that originated in Chicago, Illinois, United States, sometime between 1924 and 1955.\nThe text, which claims to have been composed by celestial beings, introduces the word \"Urantia\" as the name of the planet Earth and states that its intent is to \"present enlarged concepts and advanced truth\". The book aims to unite religion, science, and philosophy. Its large amount of content on topics of interest to science is unique among documents said to have been received from celestial beings."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/John_Paul_II_Medal_of_Freedom_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:John_Paul_II_Medal_of_Freedom_2004.jpg",
-    "file": "File:John Paul II Medal of Freedom 2004.jpg",
-    "artist": "Eric Draper",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Urantia_Book.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Urantia_Book.png",
+    "file": "File:The Urantia Book.png",
+    "artist": "Urantia Foundation",
     "license": "Public domain",
     "license_url": null,
-    "width": 515,
-    "height": 772,
+    "width": 1013,
+    "height": 1532,
     "ok": true
    }
   },
@@ -846,22 +820,22 @@
    "id": "c40",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Expanding Earth: A theory that the Earth is growing.",
+   "hook": "Footsies: Did you know? It's possible for a couple to flirt by touching each other's legs.",
    "article": {
-    "title": "Expanding Earth",
-    "url": "https://en.wikipedia.org/wiki/Expanding_Earth",
-    "extract": "The expanding Earth or growing Earth was a hypothesis attempting to explain the position and relative movement of continents by increase in the volume of Earth. With the recognition of plate tectonics in the 20th century, the idea has been abandoned and considered a pseudoscience."
+    "title": "Footsies",
+    "url": "https://en.wikipedia.org/wiki/Footsies",
+    "extract": "Footsies (also footsy or footsie) is a flirting game where two people touch feet under a table or otherwise concealed place, often as a romantic prelude. It is a game played either as an act of flirtatious body language, or simply for enjoyment. Although footsies is not inherently romantic, the nature of it as playful touching is often done between romantic partners as a sign of affection, and most often without discussion. The term comes from a 1940s humorous diminutive of foot."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vom_wachsenden_Erdball.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Vom_wachsenden_Erdball.jpg",
-    "file": "File:Vom wachsenden Erdball.jpg",
-    "artist": "Helge Hilgenberg alias Ninjalakie , Tochter von Ott Christoph Hilgenberg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/083-_Anonym%2C_c.1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:083-_Anonym,_c.1920.jpg",
+    "file": "File:083- Anonym, c.1920.jpg",
+    "artist": "see file name",
     "license": "Public domain",
     "license_url": null,
-    "width": 958,
-    "height": 719,
+    "width": 683,
+    "height": 1062,
     "ok": true
    }
   },
@@ -869,22 +843,22 @@
    "id": "c41",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Spencer M. Clark: Due to a loophole, an obscure civil servant managed to get his face on U.S. currency. Congress was not happy.",
+   "hook": "Flanderization: When a TV character becomes a literal caricature of their initial form.",
    "article": {
-    "title": "Spencer M. Clark",
-    "url": "https://en.wikipedia.org/wiki/Spencer_M._Clark",
-    "extract": "Spencer M. Clark (June 3, 1811  – December 10, 1890) was the first Superintendent of the National Currency Bureau, today known as the Bureau of Engraving and Printing, from 1862 to 1868."
+    "title": "Flanderization",
+    "url": "https://en.wikipedia.org/wiki/Flanderization",
+    "extract": "Flanderization is the process through which a fictional character's essential traits are oversimplified and exaggerated over a serial work. \nThe term Flanderization was coined by TV Tropes in reference to Ned Flanders of The Simpsons, who was increasingly caricatured over the show's run from a friendly and good-hearted Christian neighbor, among other characteristics, into a dogmatic, evangelical \"Bible-thumper\". \nFlanderization is often associated with and cited as a consequence of \"jumping the shark\", a term used to demonstrate a creative work's gradual decline in quality which leads to a sudden decline in popularity."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Spencer_M_Clark_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Spencer_M_Clark_2.jpg",
-    "file": "File:Spencer M Clark 2.jpg",
-    "artist": "U.S. Dept. of the Treasury",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 757,
-    "height": 936,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Winston_Rowntree_-_Sitcom_Flanderization.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Winston_Rowntree_-_Sitcom_Flanderization.png",
+    "file": "File:Winston Rowntree - Sitcom Flanderization.png",
+    "artist": "Winston Rowntree",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1024,
+    "height": 418,
     "ok": true
    }
   },
@@ -892,22 +866,22 @@
    "id": "c42",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Justo Gallego Martínez: A Spanish Catholic priest who, for almost seven decades, single-handedly constructed his own church.",
+   "hook": "Gadsby (novel): A 50,110-word long book famous for (mostly) not using the letter \"e\".",
    "article": {
-    "title": "Justo Gallego Martínez",
-    "url": "https://en.wikipedia.org/wiki/Justo_Gallego_Mart%C3%ADnez",
-    "extract": "Justo Gallego Martínez (20 September 1925 – 28 November 2021); also known by his honorific byname Don Justo, was a Spanish amateur architect and builder who was known for constructing a church building in the dimensions of a cathedral on his own in the town of Mejorada del Campo from 1961 until his death. Most of the construction materials used were recycled or made from \"junk\". Don Justo dedicated the building to Our Lady of the Pillar (Spanish: Nuestra Señora del Pilar)."
+    "title": "Gadsby (novel)",
+    "url": "https://en.wikipedia.org/wiki/Gadsby_(novel)",
+    "extract": "Gadsby is a 1939 novel by Ernest Vincent Wright, written without words that contain the letter E, the most common letter in English. A work that deliberately avoids certain letters is known as a lipogram. The plot revolves around the dying fictional city of Branton Hills, which is revitalized as a result of the efforts of protagonist John Gadsby and a youth organizer.\nThough vanity published and little noticed in its time, the book has since become a favorite of fans of constrained writing and is a sought-after rarity among some book collectors."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Justo-gallego-martinez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Justo-gallego-martinez.jpg",
-    "file": "File:Justo-gallego-martinez.jpg",
-    "artist": "JMPerez",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gadsby_%28book_cover%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gadsby_(book_cover).jpg",
+    "file": "File:Gadsby (book cover).jpg",
+    "artist": "Ernest Vincent Wright",
     "license": "Public domain",
     "license_url": null,
-    "width": 587,
-    "height": 782,
+    "width": 250,
+    "height": 380,
     "ok": true
    }
   },
@@ -915,22 +889,22 @@
    "id": "c43",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Tsar Tank: An Imperial Russian tank designed as a tricycle with nine-metre wheels.",
+   "hook": "Gongoozler: A person who likes to watch British canals.",
    "article": {
-    "title": "Tsar Tank",
-    "url": "https://en.wikipedia.org/wiki/Tsar_Tank",
-    "extract": "The Tsar Tank (Russian: Царь-танк), also known as the Netopyr' (Russian: Нетопырь, literally \"pipistrelle\") or Lebedenko Tank (Russian: танк Лебеденко), was a  Russian armoured vehicle developed by Nikolai Lebedenko, Nikolay Yegorovich Zhukovsky, Boris Stechkin, and Alexander Mikulin from 1914 onwards. The project was cancelled in 1915 after initial tests deemed the vehicle to be underpowered and vulnerable to artillery fire."
+    "title": "Gongoozler",
+    "url": "https://en.wikipedia.org/wiki/Gongoozler",
+    "extract": "A gongoozler is a person who enjoys watching activity on the canals of the United Kingdom. The term is also used more generally to describe those who harbour an interest in canals and canal life, but do not actively participate."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tsar_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Tsar_tank.jpg",
-    "file": "File:Tsar tank.jpg",
-    "artist": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 1024,
-    "height": 767,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/FoxtonLocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:FoxtonLocks.jpg",
+    "file": "File:FoxtonLocks.jpg",
+    "artist": "The original uploader was StephenDawson at English Wikipedia.",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 800,
+    "height": 600,
     "ok": true
    }
   },
@@ -938,22 +912,22 @@
    "id": "c44",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Sea monk: An aquatic hallelujah.",
+   "hook": "Robot jockey: Robots designed to ride dromedary camels.",
    "article": {
-    "title": "Sea monk",
-    "url": "https://en.wikipedia.org/wiki/Sea_monk",
-    "extract": "The sea monk (also monk-fish or monkfish) was a sea creature found off the eastern coast of the Danish island of Zealand in 1546. It was described as a \"fish\" that outwardly resembled a human monk in his habit."
+    "title": "Robot jockey",
+    "url": "https://en.wikipedia.org/wiki/Robot_jockey",
+    "extract": "A robot jockey is commonly used in camel racing as a replacement for human jockeys. Developed in 2004, the robotic jockeys are slowly phasing out the use of human jockeys, which in the case of camel racing in Saudi Arabia, Bahrain, United Arab Emirates, and Qatar, often employs small children who reportedly suffer repeated systemic human rights abuses. In response to international condemnation of such abuses, the nations of Qatar and the UAE have banned the use of human jockeys in favor of robots."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/The_Sea_Monk-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:The_Sea_Monk-1.jpg",
-    "file": "File:The Sea Monk-1.jpg",
-    "artist": "Johannes Sluperius",
-    "license": "Public domain",
-    "license_url": null,
-    "width": 240,
-    "height": 334,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Robotic_camel_jockey_at_Al_Shahaniya_Racetrack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Robotic_camel_jockey_at_Al_Shahaniya_Racetrack.jpg",
+    "file": "File:Robotic camel jockey at Al Shahaniya Racetrack.jpg",
+    "artist": "Alex Sergeev (www.asergeev.com)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1155,
+    "height": 768,
     "ok": true
    }
   },
@@ -961,27 +935,78 @@
    "id": "c45",
    "source": "wiki-en",
    "lang": "en",
-   "hook": "Russian warship, go fuck yourself: An eternalized catchphrase of the Russo-Ukrainian war.",
+   "hook": "New Swabia: The Nazi territory in Antarctica.",
    "article": {
-    "title": "Russian warship, go fuck yourself",
-    "url": "https://en.wikipedia.org/wiki/Russian_warship,_go_fuck_yourself",
-    "extract": "\"Russian warship, go fuck yourself\"  was the final communication made on 24 February, the first day of the 2022 Snake Island campaign, by Ukrainian border guard Roman Hrybov to the Russian missile cruiser Moskva. The phrase was widely adopted as a slogan during the Russian invasion of Ukraine, as well as in pro-Ukrainian protests and demonstrations in the West. Weeks later, the phrase was commemorated on a postage stamp by Ukrposhta, the Ukrainian postal service.\nThe Ukrainian border guards were originally believed to have been all killed, but Hrybov was later confirmed by the Ukrainian Navy to be \"alive and well\" and had surrendered to the Russian Navy in the attack."
+    "title": "New Swabia",
+    "url": "https://en.wikipedia.org/wiki/New_Swabia",
+    "extract": "New Swabia (Norwegian and German: Neuschwabenland) was an area of Antarctica explored, with the intention to claim it, by Nazi Germany between 1938 and 1939, within the Norwegian territorial claim of Queen Maud Land. The region was named after the expedition's ship, Schwabenland, itself named after the German region of Swabia. Although the name \"New Swabia\" is occasionally mentioned in historical contexts, it is not an officially recognized cartographic name in modern use. The area is now part of Queen Maud Land, governed under the Antarctic Treaty System."
    },
    "related": [],
    "image": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russian_ship%2C_go_f_yourself._Bright._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "file_page": "https://commons.wikimedia.org/wiki/File:Russian_ship,_go_f_yourself._Bright._2.jpg",
-    "file": "File:Russian ship, go f yourself. Bright. 2.jpg",
-    "artist": "Alex Blokha",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "width": 1042,
-    "height": 1014,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/NewSwabiaMap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NewSwabiaMap.jpg",
+    "file": "File:NewSwabiaMap.jpg",
+    "artist": "Thomas Blomberg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 714,
+    "height": 714,
     "ok": true
    }
   },
   {
    "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Polandball (AKA Countryballs): A comic genre with balls and other bits for different countries doing what real countries do.",
+   "article": {
+    "title": "Polandball",
+    "url": "https://en.wikipedia.org/wiki/Polandball",
+    "extract": "Polandball, also known as Countryballs, is an internet meme, genre of geopolitical satire, and art style. They are primarily used in webcomics and videos in which countries and other political entities are personified as anthropomorphic balls bearing the design of their national flag—these figures are generally referred to as \"countryballs\". Polandball comics usually feature plots that satirize international relations, historical events, and stereotypes associated with featured countries, and are primarily created with widely available graphic art software such as Microsoft Paint, though comics created with more advanced software are often intentionally made to look crudely drawn.\nThe name \"Polandball\" is derived from the comics' origin as a means to troll a Polish user on the image board Krautchan named Wojak, who often spoke in broken English."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Poland_as_a_countryball.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Poland_as_a_countryball.png",
+    "file": "File:Poland as a countryball.png",
+    "artist": "ChickenScuttleMonkey",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 400,
+    "height": 400,
+    "ok": true
+   }
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Deadtime Stories Books & Gifts in Lansing, Michigan",
+   "article": {
+    "title": "Deadtime Stories Books & Gifts in Lansing, Michigan",
+    "url": "https://www.atlasobscura.com/places/deadtime-stories-books-gifts",
+    "extract": "Deadtime Stories Books & Gifts is a weird little shop in Lansing’s REO Town that is probably best described as equal parts bookstore and spider shop. The store is packed with books both new and old, collectibles, antiques, oddities, and all kinds of strange things that are hard to put into one category. But the spiders are a huge part of what makes Deadtime Stories different. The shop is home to t"
+   },
+   "published": "Fri, 16 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Where to See the World’s Most Famous Preserved Body Parts",
+   "article": {
+    "title": "Where to See the World’s Most Famous Preserved Body Parts",
+    "url": "https://www.atlasobscura.com/articles/preserved-body-parts-around-the-world",
+    "extract": "Sure, you’ve seen a dead body before, but have you ever seen a thumb preserved in salt? How about a saint’s heart shrouded in gold? Beyond the normal displays of skeletons in medical museums and holy leaders’ bodies in churches and temples, there’s a whole world of bits and pieces to explore. Throughout history, body parts have been taken as trophies during wartime, worshipped as miraculous healin"
+   },
+   "published": "Fri, 16 Oct 2026 09:29:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c49",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -995,7 +1020,7 @@
    "image": null
   },
   {
-   "id": "c47",
+   "id": "c50",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1009,7 +1034,7 @@
    "image": null
   },
   {
-   "id": "c48",
+   "id": "c51",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1023,7 +1048,7 @@
    "image": null
   },
   {
-   "id": "c49",
+   "id": "c52",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1037,7 +1062,7 @@
    "image": null
   },
   {
-   "id": "c50",
+   "id": "c53",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1051,7 +1076,7 @@
    "image": null
   },
   {
-   "id": "c51",
+   "id": "c54",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1065,7 +1090,7 @@
    "image": null
   },
   {
-   "id": "c52",
+   "id": "c55",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1079,7 +1104,7 @@
    "image": null
   },
   {
-   "id": "c53",
+   "id": "c56",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1093,7 +1118,7 @@
    "image": null
   },
   {
-   "id": "c54",
+   "id": "c57",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1107,7 +1132,7 @@
    "image": null
   },
   {
-   "id": "c55",
+   "id": "c58",
    "source": "rss",
    "feed": "Atlas Obscura",
    "lang": "en",
@@ -1121,35 +1146,63 @@
    "image": null
   },
   {
-   "id": "c56",
+   "id": "c59",
    "source": "rss",
-   "feed": "Atlas Obscura",
+   "feed": "Mental Floss",
    "lang": "en",
-   "hook": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
+   "hook": "The Biggest Song From Every Year in the 1960s",
    "article": {
-    "title": "‘Birds of the World in the Skies Over Alcorcón’ in Alcorcón, Spain",
-    "url": "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue",
-    "extract": "Look up in Alcorcón and you might spot a flock of birds frozen forever in flight. They won’t migrate, sing, or flap their wings, but these colorful creatures have an important story to tell. Birds of the World in the Skies Over Alcorcón, created in 2009 by Peruvian artist Luis Arias Vera, fills Plaza de la Hispanidad with an exuberant celebration of flight and the natural world. Arias Vera saw bir"
+    "title": "The Biggest Song From Every Year in the 1960s",
+    "url": "https://www.mentalfloss.com/entertainment/music/biggest-song-every-year-1960s?utm_source=RSS",
+    "extract": "From the Beach Boys' “Surfin U.S.A.” to the Beatles' “Hey Jude,” the biggest songs from the 1960s spanned rock and roll, R&B, bubblegum pop, and much more."
    },
-   "published": "Tue, 13 Oct 2026 14:00:00 -0400",
+   "published": "Fri, 16 Oct 2026 14:00:00 +0000",
    "image": null
   },
   {
-   "id": "c57",
+   "id": "c60",
    "source": "rss",
-   "feed": "Atlas Obscura",
+   "feed": "Mental Floss",
    "lang": "en",
-   "hook": "Steaming Tender Restaurant in Palmer, Massachusetts",
+   "hook": "Quiz: Can You Match the Halloween-Themed Song to the Artist Who Wrote It?",
    "article": {
-    "title": "Steaming Tender Restaurant in Palmer, Massachusetts",
-    "url": "https://www.atlasobscura.com/places/steaming-tender-restaurant",
-    "extract": "Palmer, Massachusetts is a relatively small city around 15 miles from the City of Springfield. It’s the smallest city in the state and it’s one of the handfuls of cities that calls itself a town within the official name. The nickname of the city is \"Town of Seven Railroads\", and one location in Palmer helps explain why. When the Industrial Revolution and rail travel began in Massachusetts, Palmer "
+    "title": "Quiz: Can You Match the Halloween-Themed Song to the Artist Who Wrote It?",
+    "url": "https://www.mentalfloss.com/quizzes/music/match-halloween-song-artist?utm_source=RSS",
+    "extract": "How well do you know the artists behind Halloween hits like \"Monster Mash,\" \"Purple People Eater,\" and more? Test your knowledge of Halloween music with this spooky quiz."
    },
-   "published": "Tue, 13 Oct 2026 12:00:00 -0400",
+   "published": "Fri, 16 Oct 2026 12:00:05 +0000",
    "image": null
   },
   {
-   "id": "c58",
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+   "article": {
+    "title": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+    "url": "https://www.mentalfloss.com/entertainment/movies/one-problem-friday-the-13th-writer-had-sequels?utm_source=RSS",
+    "extract": "Victor Miller wrote the ‘Friday the 13th’ movie that gave the world Jason Voorhees, but he never wanted this to happen."
+   },
+   "published": "Fri, 16 Oct 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+   "article": {
+    "title": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+    "url": "https://www.mentalfloss.com/literature/authors/why-jane-austen-first-novel-credited-to-a-lady?utm_source=RSS",
+    "extract": "Discover why Jane Austen’s first novel, \"Sense and Sensibility,\" was published as \"By a Lady\" and why she remained anonymous throughout her lifetime."
+   },
+   "published": "Thu, 15 Oct 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1163,7 +1216,7 @@
    "image": null
   },
   {
-   "id": "c59",
+   "id": "c64",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1177,7 +1230,7 @@
    "image": null
   },
   {
-   "id": "c60",
+   "id": "c65",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1191,7 +1244,7 @@
    "image": null
   },
   {
-   "id": "c61",
+   "id": "c66",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1205,7 +1258,7 @@
    "image": null
   },
   {
-   "id": "c62",
+   "id": "c67",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1219,7 +1272,7 @@
    "image": null
   },
   {
-   "id": "c63",
+   "id": "c68",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1233,7 +1286,7 @@
    "image": null
   },
   {
-   "id": "c64",
+   "id": "c69",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1247,7 +1300,7 @@
    "image": null
   },
   {
-   "id": "c65",
+   "id": "c70",
    "source": "rss",
    "feed": "Mental Floss",
    "lang": "en",
@@ -1261,63 +1314,35 @@
    "image": null
   },
   {
-   "id": "c66",
+   "id": "c71",
    "source": "rss",
-   "feed": "Mental Floss",
+   "feed": "Smithsonian Smart News",
    "lang": "en",
-   "hook": "The Spiritual Meaning of Angel Number 838",
+   "hook": "This Ancient Animal Looked Like a Platypus-Otter Hybrid. It's Providing Clues About the Origins of Mammalian Suckling and Swallowing",
    "article": {
-    "title": "The Spiritual Meaning of Angel Number 838",
-    "url": "https://www.mentalfloss.com/random-facts/angel-number-838-meaning?utm_source=RSS",
-    "extract": "This number is said to be a great sign, especially if you're an artist or creative. Learn more about the meaning of angel number 838."
+    "title": "This Ancient Animal Looked Like a Platypus-Otter Hybrid. It's Providing Clues About the Origins of Mammalian Suckling and Swallowing",
+    "url": "https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/",
+    "extract": "The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern throat structure"
    },
-   "published": "Wed, 14 Oct 2026 22:00:01 +0000",
+   "published": "Fri, 16 Oct 2026 14:00:00 +0000",
    "image": null
   },
   {
-   "id": "c67",
+   "id": "c72",
    "source": "rss",
-   "feed": "Mental Floss",
+   "feed": "Smithsonian Smart News",
    "lang": "en",
-   "hook": "The Snowiest Month in Every State for 2026, Mapped",
+   "hook": "A Monumental 18th-Century Portrait of a Young Polynesian Man—a 'Supreme Work of Art'—Visits the U.S. for the First Time",
    "article": {
-    "title": "The Snowiest Month in Every State for 2026, Mapped",
-    "url": "https://www.mentalfloss.com/science/weather/snowiest-month-by-state-2026-map?utm_source=RSS",
-    "extract": "Discover the snowiest month in every state, from New Mexico’s December peak to March storms in the West."
+    "title": "A Monumental 18th-Century Portrait of a Young Polynesian Man—a 'Supreme Work of Art'—Visits the U.S. for the First Time",
+    "url": "https://www.smithsonianmag.com/smart-news/a-monumental-18th-century-portrait-of-a-young-polynesian-man-a-supreme-work-of-art-visits-the-us-for-the-first-time-180989699/",
+    "extract": "The massive \"Portrait of Mai\" depicts the first Pacific Islander to visit Britain, a young man who became a quasi-celebrity in the 1770s after joining the expedition of explorer James Cook"
    },
-   "published": "Wed, 14 Oct 2026 20:00:01 +0000",
+   "published": "Fri, 16 Oct 2026 12:00:00 +0000",
    "image": null
   },
   {
-   "id": "c68",
-   "source": "rss",
-   "feed": "Mental Floss",
-   "lang": "en",
-   "hook": "The 10 Best Cities in the World for 2026, Ranked",
-   "article": {
-    "title": "The 10 Best Cities in the World for 2026, Ranked",
-    "url": "https://www.mentalfloss.com/geography/cities/10-best-cities-in-world-2026-ranked?utm_source=RSS",
-    "extract": "Tell us: which of these cities would you most like to call home?"
-   },
-   "published": "Wed, 14 Oct 2026 18:00:03 +0000",
-   "image": null
-  },
-  {
-   "id": "c69",
-   "source": "rss",
-   "feed": "Mental Floss",
-   "lang": "en",
-   "hook": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
-   "article": {
-    "title": "The Real Christopher Robin Had a Complicated Relationship With Winnie-the-Pooh",
-    "url": "https://www.mentalfloss.com/literature/books/real-christopher-robin-complicated-relationship-winnie-pooh?utm_source=RSS",
-    "extract": "Christopher Robin was based on A.A. Milne’s real son—and growing up as the face of Winnie-the-Pooh wasn't always a Hundred Acre fairy tale."
-   },
-   "published": "Wed, 14 Oct 2026 17:00:01 +0000",
-   "image": null
-  },
-  {
-   "id": "c70",
+   "id": "c73",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1331,7 +1356,7 @@
    "image": null
   },
   {
-   "id": "c71",
+   "id": "c74",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1345,7 +1370,7 @@
    "image": null
   },
   {
-   "id": "c72",
+   "id": "c75",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1359,7 +1384,7 @@
    "image": null
   },
   {
-   "id": "c73",
+   "id": "c76",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1373,7 +1398,7 @@
    "image": null
   },
   {
-   "id": "c74",
+   "id": "c77",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1387,7 +1412,7 @@
    "image": null
   },
   {
-   "id": "c75",
+   "id": "c78",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1401,7 +1426,7 @@
    "image": null
   },
   {
-   "id": "c76",
+   "id": "c79",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1415,7 +1440,7 @@
    "image": null
   },
   {
-   "id": "c77",
+   "id": "c80",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1429,7 +1454,7 @@
    "image": null
   },
   {
-   "id": "c78",
+   "id": "c81",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1443,7 +1468,7 @@
    "image": null
   },
   {
-   "id": "c79",
+   "id": "c82",
    "source": "rss",
    "feed": "Smithsonian Smart News",
    "lang": "en",
@@ -1457,35 +1482,7 @@
    "image": null
   },
   {
-   "id": "c80",
-   "source": "rss",
-   "feed": "Smithsonian Smart News",
-   "lang": "en",
-   "hook": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
-   "article": {
-    "title": "A New Contender for the World's Oldest Shipwreck Has Been Discovered Off the Coast of Turkey. Its Ancient Cargo Is a 'Time Capsule' From 4,700 Years Ago",
-    "url": "https://www.smithsonianmag.com/smart-news/a-new-contender-for-the-worlds-oldest-shipwreck-has-been-discovered-off-the-coast-of-turkey-its-ancient-cargo-is-a-time-capsule-from-4700-years-ago-180989682/",
-    "extract": "The ship was likely transporting huge jars of olive oil or wine across the Mediterranean when it sank to the seafloor. One archaeologist \"could not believe how much\" residue remained inside"
-   },
-   "published": "Wed, 14 Oct 2026 19:20:10 +0000",
-   "image": null
-  },
-  {
-   "id": "c81",
-   "source": "rss",
-   "feed": "Smithsonian Smart News",
-   "lang": "en",
-   "hook": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
-   "article": {
-    "title": "This Vincent van Gogh Painting Has Not Been Seen in Public for Over 60 Years. It Is Now Poised to Set a Record at an Upcoming Auction",
-    "url": "https://www.smithsonianmag.com/smart-news/this-vincent-van-gogh-painting-has-not-been-seen-in-public-for-over-60-years-it-is-now-poised-to-set-a-record-at-an-upcoming-auction-180989680/",
-    "extract": "The Dutch Post-Impressionist painted \"Chestnut Trees in Blossom\" during the highly productive yet tragic final months of his life. It is heading to auction as part of a \"legendary\" private collection which also includes works from Cézanne and Renoir"
-   },
-   "published": "Wed, 14 Oct 2026 17:28:54 +0000",
-   "image": null
-  },
-  {
-   "id": "c82",
+   "id": "c83",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1499,7 +1496,7 @@
    "image": null
   },
   {
-   "id": "c83",
+   "id": "c84",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1513,7 +1510,7 @@
    "image": null
   },
   {
-   "id": "c84",
+   "id": "c85",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1527,7 +1524,7 @@
    "image": null
   },
   {
-   "id": "c85",
+   "id": "c86",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1541,7 +1538,7 @@
    "image": null
   },
   {
-   "id": "c86",
+   "id": "c87",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1555,7 +1552,7 @@
    "image": null
   },
   {
-   "id": "c87",
+   "id": "c88",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1569,7 +1566,7 @@
    "image": null
   },
   {
-   "id": "c88",
+   "id": "c89",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1583,7 +1580,7 @@
    "image": null
   },
   {
-   "id": "c89",
+   "id": "c90",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1597,7 +1594,7 @@
    "image": null
   },
   {
-   "id": "c90",
+   "id": "c91",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1611,7 +1608,7 @@
    "image": null
   },
   {
-   "id": "c91",
+   "id": "c92",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1625,7 +1622,7 @@
    "image": null
   },
   {
-   "id": "c92",
+   "id": "c93",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
@@ -1639,7 +1636,7 @@
    "image": null
   },
   {
-   "id": "c93",
+   "id": "c94",
    "source": "rss",
    "feed": "Ciekawostki historyczne",
    "lang": "pl",
