@@ -230,7 +230,75 @@ async function feeds(used) {
   return out;
 }
 
+// ---------- drugie źródło: przypisy artykułu sprawdzane automatycznie ----------
+// Dla kandydatów ze zdjęciem bierzemy linki zewnętrzne artykułu Wikipedii (przypisy), pobieramy kilka z nich
+// i sprawdzamy, czy strona zawiera kluczowe słowa i liczby z haczyka. Trafienie = `second_source`,
+// więc sesja wydania nie musi szukać drugiego źródła w sieci (WebFetch tylko, gdy go brak).
+const VERIFY_MAX = 30, REFS_PER = 6;
+const SKIP_REF = /(wikipedia\.org|wikimedia\.org|wikidata\.org|mediawiki\.org|doi\.org|books\.google|google\.[a-z.]+\/(search|books)|worldcat|jstor\.org|viaf\.org|isni|orcid\.org|geohack|toolforge|wmflabs|openstreetmap|archive\.org\/details|catalog|\.pdf($|\?))/i;
+const STOP = new Set(('that the and with from were was which their this have has into after before about over also only than when where while what whose most more first time years year other they them been would could being these those during under such some many during ' +
+  'że czy jak kto gdzie dlaczego ile który która które kiedy jego jej ich oraz przez który była było został została zostało jako jest były także tylko może można przed około według podczas').split(' '));
+const norm = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l').replace(/Ł/g, 'L').toLowerCase();
+export function keyTerms(c) {
+  const text = `${c.hook} ${c.article?.title || ''}`;
+  const nums = [...new Set((text.match(/\d[\d.,]*\d|\d{2,}/g) || []).map(n => n.replace(/[.,]/g, '')))].filter(n => n.length >= 2);
+  const words = [...new Set(norm(text).replace(/\([^)]*\)/g, ' ').split(/[^a-z0-9]+/).filter(w => w.length >= 5 && !STOP.has(w) && !/^\d+$/.test(w)))];
+  return { nums, words: words.slice(0, 12) };
+}
+export function scorePage(page, { nums, words }) {
+  const t = norm(page), tn = t.replace(/(\d)[.,\s](?=\d)/g, '$1');
+  // rdzeń słowa (pierwsze 6 liter), żeby łapać odmianę: „odchodach” ~ „odchody”
+  const hit = words.filter(w => t.includes(w.slice(0, Math.max(5, Math.min(w.length, 6)))));
+  const numHit = nums.filter(n => tn.includes(n));
+  return { hit, numHit, ok: hit.length >= Math.max(2, Math.ceil(words.length * 0.5)) && numHit.length === nums.length };
+}
+async function refsOf(lang, title) {
+  const j = await get(`https://${lang}.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=externallinks&format=json&formatversion=2&redirects=1`);
+  return [...new Set((j.parse?.externallinks || []).map(u => u.startsWith('//') ? 'https:' + u : u).filter(u => /^https?:\/\//.test(u) && !SKIP_REF.test(u)))];
+}
+async function pageText(url) {
+  const r = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'text/html,*/*' }, redirect: 'follow', signal: AbortSignal.timeout(12000) });
+  if (!r.ok || !/text\/html|text\/plain/.test(r.headers.get('content-type') || '')) throw new Error(`HTTP ${r.status}`);
+  const html = (await r.text()).slice(0, 1_500_000);
+  const tytul = strip((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || '').slice(0, 140);
+  return { tytul, text: strip(html.replace(/<(script|style|noscript)[\s\S]*?<\/\1>/gi, ' ')) };
+}
+const siteName = u => new URL(u).hostname.replace(/^www\./, '');
+async function verify(c) {
+  // tylko haczyki z faktem („…że …”, „… that …”); pytania „…co/kto/dlaczego…” nie mówią, co sprawdzać
+  if (!/^(…|\.\.\.)\s*(że|that)\b/i.test(c.hook)) return { status: 'haczyk bez faktu (pytanie)' };
+  const terms = keyTerms(c);
+  if (terms.words.length < 2) return { status: 'za mało słów kluczowych w haczyku' };
+  let refs;
+  try { refs = (await refsOf(c.lang, c.article.title)).slice(0, REFS_PER); } catch (e) { return { status: 'błąd przypisów: ' + e.message }; }
+  if (!refs.length) return { status: 'brak przypisów online' };
+  let best = null;
+  for (const url of refs) {
+    try {
+      const { tytul, text } = await pageText(url);
+      const s = scorePage(text, terms);
+      if (s.ok) return { status: 'ok', url, name: siteName(url), title: tytul, matched: [...s.numHit, ...s.hit] };
+      if (!best || s.hit.length > best.hit) best = { hit: s.hit.length, url };
+    } catch { /* strona nie odpowiada, próbujemy następną */ }
+  }
+  return { status: 'nie potwierdzono automatycznie', tried: refs.length, ...(best && { closest: best.url }) };
+}
+async function verifyAll(cands) {
+  const queue = cands.filter(c => c.image && c.source.startsWith('wiki') && /^(…|\.\.\.)\s*(że|that)\b/i.test(c.hook)).slice(0, VERIFY_MAX);
+  let i = 0, ok = 0;
+  await Promise.all(Array.from({ length: 6 }, async () => {
+    while (i < queue.length) {
+      const c = queue[i++];
+      const v = await verify(c).catch(e => ({ status: 'błąd: ' + e.message }));
+      if (v.status === 'ok') { c.second_source = { name: v.name, url: v.url, title: v.title, matched: v.matched }; ok++; }
+      else c.second_source_check = v;
+    }
+  }));
+  status['drugie-zrodlo'] = `ok ${ok}/${queue.length}`;
+}
+
 // ---------- start ----------
+if (process.argv[1] && path.resolve(process.argv[1]) !== fileURLToPath(import.meta.url)) { /* import w testach: bez uruchamiania */ } else {
 const used = usedKeys();
 const results = await Promise.all([
   wikiCandidates('pl', ['Szablon:Czy wiesz', 'Wikiprojekt:Czy wiesz/ekspozycje'], used, PER_SOURCE['wiki-pl']).catch(e => { status['wiki-pl'] = 'błąd: ' + e.message; return []; }),
@@ -238,11 +306,14 @@ const results = await Promise.all([
   feeds(used),
 ]);
 const candidates = results.flat().map((c, i) => ({ id: `c${i + 1}`, ...c }));
+if (process.env.BEZ_WERYFIKACJI !== '1') await verifyAll(shuffle([...candidates]));
 const withImg = candidates.filter(c => c.image).length;
-const run = { run: { date: today, slot, generated_at: new Date().toISOString(), candidates: candidates.length, with_free_image: withImg }, status, candidates };
+const verified = candidates.filter(c => c.image && c.second_source).length;
+const run = { run: { date: today, slot, generated_at: new Date().toISOString(), candidates: candidates.length, with_free_image: withImg, ready: verified }, status, candidates };
 fs.mkdirSync(outDir, { recursive: true });
 const file = path.join(outDir, `${today}-${slot}.json`);
 fs.writeFileSync(file, JSON.stringify(run, null, 1) + '\n');
 log(`Zapisano ${file}: ${candidates.length} kandydatów, ${withImg} z wolnym zdjęciem.`);
 for (const [k, v] of Object.entries(status)) log(`  ${k}: ${v}`);
 if (!candidates.length) { console.error('::error::Zero kandydatów, sprawdź status źródeł.'); process.exit(1); }
+}

@@ -110,15 +110,31 @@ function facts(file, limit = 60) {
   const run = readRun(file);
   console.log('RUN', JSON.stringify(run.run || {}));
   console.log('STATUS', JSON.stringify(run.status || {}));
-  const list = [...(run.candidates || [])].sort((a, b) => (!!b.image - !!a.image));
-  console.log(`\nKANDYDACI (${list.length}, pokazano ${Math.min(limit, list.length)}) - id | źródło | zdjęcie | ciekawostka | artykuł`);
+  const rank = c => (c.image ? 2 : 0) + (c.second_source ? 1 : 0);
+  const list = [...(run.candidates || [])].sort((a, b) => rank(b) - rank(a));
+  console.log(`\nKANDYDACI (${list.length}, pokazano ${Math.min(limit, list.length)}) - id | źródło | zdjęcie | 2. źródło | ciekawostka`);
+  console.log('GOTOWE = zdjęcie z Commons + drugie źródło sprawdzone przez zbieracza: bierz najpierw te, bez WebFetch.');
   for (const c of list.slice(0, limit))
-    console.log([c.id, c.feed || c.source, c.image ? `FOT ${short(c.image.license, 14)}` : '-', short(c.hook, 200), c.article?.url || ''].join(' | '));
+    console.log([c.id, c.feed || c.source, c.image ? `FOT ${short(c.image.license, 14)}` : '-', c.second_source ? `GOTOWE ${c.second_source.name}` : '-', short(c.hook, 160)].join(' | '));
+}
+// Gotowe pola image i sources do wklejenia w nowe.json (sesja dopisuje tylko tekst, alt i caption).
+export function szkic(c) {
+  const out = { sources: [{ name: `Wikipedia (${c.lang.toUpperCase()})`, url: c.article.url }] };
+  if (c.source === 'rss') out.sources = [{ name: c.feed, url: c.article.url }];
+  if (c.second_source) out.sources.push({ name: c.second_source.name, url: c.second_source.url });
+  if (c.image) out.image = {
+    kind: 'wolne', src: c.image.src.replace(/\?.*$/, ''), href: c.image.file_page,
+    credit: `${c.image.artist} / Wikimedia Commons, ${c.image.license}`, alt: '<opisz, co widać>', caption: '<1 zdanie: co pokazuje zdjęcie>',
+  };
+  return out;
 }
 function fact(file, id) {
   const c = (readRun(file).candidates || []).find(x => x.id === id);
   if (!c) die('nie ma kandydata ' + id);
-  console.log(JSON.stringify(c, null, 1));
+  console.log(JSON.stringify({ ...c, szkic: szkic(c) }, null, 1));
+  console.log(c.second_source
+    ? `\nDrugie źródło potwierdzone automatycznie (${c.second_source.matched.join(', ')}). Bez dodatkowego WebFetch.`
+    : '\nBrak potwierdzonego drugiego źródła: znajdź je sam (WebFetch, pytaj o konkretny fakt) albo wybierz inną ciekawostkę.');
 }
 
 // ---------- add ----------
@@ -148,6 +164,7 @@ function validate(n, where, date) {
   }
   if (n.ig !== undefined && (!Array.isArray(n.ig) || n.ig.some(h => typeof h !== 'string' || !/^[a-z0-9._]{1,30}$/.test(h))))
     err.push('ig = tablica nazw kont IG bez @, małymi literami, np. ["ksiazulo"]');
+  if (/<[^>]*>/.test(JSON.stringify(n.image || {}))) err.push('image: uzupełnij pola z <…> (alt, caption) ze szkicu');
   if ((n.image || n.embed) && !n.caption) err.push('brak caption przy materiale');
   // zdjęcie jest priorytetem: film z YouTube w źródłach = obowiązkowy kadr, chyba że podano powód w noImage
   const ytId = [n.embed, ...(n.sources || []).map(x => x.url)].filter(Boolean)
