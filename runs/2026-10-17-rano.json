@@ -1,0 +1,1798 @@
+{
+ "run": {
+  "date": "2026-10-17",
+  "slot": "rano",
+  "generated_at": "2026-10-17T04:16:58.410Z",
+  "candidates": 82,
+  "with_free_image": 34,
+  "ready": 23
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "wiki-en:Wikipedia:Recent additions": "ok 152",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 8",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4245",
+  "rss:Ciekawostki historyczne": "błąd: fetch failed (https://ciekawostkihistoryczne.pl/feed/)",
+  "drugie-zrodlo": "ok 23/31"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego największy na świecie tunel żeglowny został wyłączony z eksploatacji?",
+   "article": {
+    "title": "Tunel Rove",
+    "url": "https://pl.wikipedia.org/wiki/Tunel_Rove",
+    "extract": "Tunel Rove (fr. Tunnel du Rove) – nieczynny tunel żeglowny na południowym wybrzeżu Francji w departamencie Delta Rodanu, który umożliwiał transport wodny pomiędzy Marsylią a Rodanem z pominięciem wód Morza Śródziemnego."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tunnel-du-Rove72.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tunnel-du-Rove72.JPG",
+    "file": "File:Tunnel-du-Rove72.JPG",
+    "artist": "Fr.Latreille",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1080,
+    "height": 810,
+    "ok": true
+   }
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jaką funkcję pełni późnobarokowa Bazylika w Gößweinsteinie?",
+   "article": {
+    "title": "Bazylika w Gößweinsteinie",
+    "url": "https://pl.wikipedia.org/wiki/Bazylika_w_G%C3%B6%C3%9Fweinsteinie",
+    "extract": "Bazylika w Gößweinsteinie (niem. Basilika Gößweinstein) – barokowa świątynia pełniąca funkcję rzymskokatolickiego sanktuarium Świętej Trójcy, znajdująca się w niemieckiej gminie Gößweinstein. Wzniesiona w latach 1730–1768 według projektu Balthasara Neumanna. Od 1948 roku nosi godność bazyliki mniejszej."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Kath. Wallfahrtsbasilika und Pfarrkirche SS. Trinitatis, von Süden Gößweinstein 20240107 0007.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która doktryna medyczna (błędnie) sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne?",
+   "article": {
+    "title": "Brownizm",
+    "url": "https://pl.wikipedia.org/wiki/Brownizm",
+    "extract": "Brownizm – doktryna medyczna sformułowana przez szkockiego lekarza Johna Browna (1735–1788) i wyłożona w wydanym po łacinie dziele Elementa medicinae (1780). Sprowadzała wszystkie choroby ogólne do jednej przyczyny: nieprawidłowego poziomu pobudzenia organizmu wywoływanego przez bodźce zewnętrzne. Zdrowie miało polegać na umiarkowanym poziomie pobudzenia, choroba zaś na odchyleniu od niego w jedną z dwóch stron – ku nadmiernemu pobudzeniu (stan steniczny) albo ku jego niedostatkowi (stan asteniczny). Z tak uproszczonej patologii wynikała równie prosta terapia: dobieranie słabszych lub silniejszych bodźców zależnie od stanu pobudzenia chorego, przy czym szczególne znaczenie miały alkohol i opium."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Portrait of John Brown in \"Elementa medicinae\" Wellcome M0014836.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego stworzono grę Old School RuneScape?",
+   "article": {
+    "title": "Old School RuneScape",
+    "url": "https://pl.wikipedia.org/wiki/Old_School_RuneScape",
+    "extract": "Old School RuneScape – gra komputerowa z gatunku MMORPG, opracowana i wydana przez Jagex. Gra została wydana 22 lutego 2013 roku jako odrębna wersja gry RuneScape pierwotnie oparta na kopii jej stanu z sierpnia 2007 roku."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co znaleziono w odchodach rudawca orientalnego?",
+   "article": {
+    "title": "Rudawiec orientalny",
+    "url": "https://pl.wikipedia.org/wiki/Rudawiec_orientalny",
+    "extract": "Rudawiec orientalny (Rousettus leschenaultii) – gatunek ssaka, nietoperza z rodziny rudawkowatych, jeden z przynajmniej siedmiu w swoim rodzaju. Ma diploidalną liczbę chromosomów 36. Długość głowy i tułowia 80–125 mm, ogona 13–17,5 mm. Masa 40–92,5 g."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rousettus_leschenaultii_by_Rajesh_Puttaswamaiah.jpg",
+    "file": "File:Rousettus leschenaultii by Rajesh Puttaswamaiah.jpg",
+    "artist": "Rajesh Puttaswamaiah, Bat Conservation India Trust",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 644,
+    "height": 444,
+    "ok": true
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że niemiecki U-Boot SM UB‑94 służył po I wojnie światowej we francuskiej flocie do 1935 roku?",
+   "article": {
+    "title": "SM UB-94",
+    "url": "https://pl.wikipedia.org/wiki/SM_UB-94",
+    "extract": "SM UB-94 – niemiecki okręt podwodny z okresu I wojny światowej, jedna z 96 jednostek typu UB III zbudowanych dla Kaiserliche Marine.\nOkręt miał wyporność 510 ton w położeniu nawodnym i 640 ton w zanurzeniu. Jego główne uzbrojenie stanowiło 10 torped kalibru 500 mm, wystrzeliwanych z pięciu wyrzutni. Napędzana silnikami wysokoprężnymi i elektrycznymi jednostka rozwijała prędkość 13 węzłów na powierzchni i 7,4 węzła w zanurzeniu, osiągając zasięg 7120 Mm przy prędkości 6 węzłów w położeniu nawodnym oraz 55 Mm przy prędkości 4 węzłów pod wodą."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/397_U-Boot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:397_U-Boot.jpg",
+    "file": "File:397 U-Boot.jpg",
+    "artist": "Sendker",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 864,
+    "height": 613,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.naval-history.net/WW1LossesBrMS1918.htm"
+   }
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy wystartowała platforma Koleo?",
+   "article": {
+    "title": "Koleo",
+    "url": "https://pl.wikipedia.org/wiki/Koleo",
+    "extract": "KOLEO – polski serwis internetowy i aplikacja mobilna służące do wyszukiwania połączeń transportu publicznego, w szczególności kolejowych, planowania podróży oraz zakupu biletów kolejowych i biletów na wybrane połączenia autobusowe. Platformę prowadzi warszawska spółka Astarium.\nW lipcu 2025 serwis TransInfo podał, że platforma przekroczyła próg 100 milionów sprzedanych biletów. Według danych operatora opublikowanych 1 września 2026 z Koleo korzystało ponad 7,5 miliona użytkowników, a każdego dnia za jego pośrednictwem bilety kupowało ponad 200 tysięcy osób."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Logo KOLEO.svg)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że Różowa pracownia (widoczna obok) stanowi „autoportret bez twarzy”?",
+   "article": {
+    "title": "Różowa pracownia",
+    "url": "https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCowa_pracownia",
+    "extract": "Różowa pracownia (fr. L’Atelier rose) – obraz olejny Henriego Matisse’a z 1911 roku w kolekcji Muzeum Puszkina w Moskwie."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/L%27Atelier_rose%2C_par_Henri_Matisse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:L%27Atelier_rose,_par_Henri_Matisse.jpg",
+    "file": "File:L'Atelier rose, par Henri Matisse.jpg",
+    "artist": "pushkinmuseum.art (Thierry Caro)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 976,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.newestmuseum.ru/data/authors/m/matisse_henri/the_artists_studio.php?lang=en"
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Thing (listening device): A non-electronic Soviet listening device given to the U.S. Ambassador and proudly displayed in his study.",
+   "article": {
+    "title": "The Thing (listening device)",
+    "url": "https://en.wikipedia.org/wiki/The_Thing_(listening_device)",
+    "extract": "The Thing, also known as the Great Seal bug, was one of the first covert listening devices (or \"bugs\") to use passive techniques to transmit an audio signal. It was concealed inside a gift given by the Soviet Union to W. Averell Harriman, the United States Ambassador to the Soviet Union, on August 4, 1945. Because it was passive, needing electromagnetic energy from an outside source to become energized and active, it is considered a predecessor of radio-frequency identification (RFID) technology.\nThe Thing consisted of a tiny capacitive membrane connected to a small quarter-wavelength antenna; it had no power supply or active electronic components."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Bugged-great-seal-open.jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dock Ellis: Baseball pitcher who, among other things, threw a no-hitter while under influence of LSD, and once tried to hit every batter in the Cincinnati Reds lineup.",
+   "article": {
+    "title": "Dock Ellis",
+    "url": "https://en.wikipedia.org/wiki/Dock_Ellis",
+    "extract": "Dock Phillip Ellis Jr. (March 11, 1945 – December 19, 2008) was an American professional baseball player. He played in Major League Baseball as a right-handed pitcher from 1968 through 1979, most notably as a member of the Pittsburgh Pirates teams that won five National League Eastern Division titles in six years between 1970 and 1975 and won the World Series in 1971. Ellis also played for the New York Yankees, Oakland Athletics, Texas Rangers and New York Mets."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Magic smoke: When a chip fails, it's because the smoke has gotten out.",
+   "article": {
+    "title": "Magic smoke",
+    "url": "https://en.wikipedia.org/wiki/Magic_smoke",
+    "extract": "Magic smoke (also factory smoke, blue smoke, or the genie) is a humorous name for the caustic smoke produced by severe electrical over-stress of electronic circuits or components, causing overheating and an accompanying release of smoke. The smoke typically smells of burning plastic and other chemicals. The color of the smoke depends on which component is overheating, but it is commonly blue, grey, or white. Minor overstress eventually results in component failure, but without pyrotechnic display or release of smoke."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Magic_smoke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Magic_smoke.jpg",
+    "file": "File:Magic smoke.jpg",
+    "artist": "Ninjayeti at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1028,
+    "height": 769,
+    "ok": true
+   },
+   "second_source": {
+    "name": "catb.org",
+    "url": "http://www.catb.org/jargon/html/M/magic-smoke.html",
+    "title": "magic smoke",
+    "matched": [
+     "magic",
+     "smoke",
+     "because"
+    ]
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Empathy in chickens: Have some empathy when eating crunchy chicken nuggets.",
+   "article": {
+    "title": "Empathy in chickens",
+    "url": "https://en.wikipedia.org/wiki/Empathy_in_chickens",
+    "extract": "Empathy in chickens is the ability of a chicken to understand and share the feelings of another chicken. The Biotechnology and Biological Sciences Research Council's (BBSRC) Animal Welfare Initiative defines and recognizes that \"...hens possess a fundamental capacity to empathise...\" These empathetic responses in animals are well documented and are usually discussed along with issues related to cognition. The difference between animal cognition and animal emotion is recognized by ethicists. The specific emotional attribute of empathy in chickens has not been only investigated in terms of its existence but it has applications that have resulted in the designed reduction of stress in farm-raised poultry."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Die Glocke (conspiracy theory): An alleged bell-like device whose greatest power was fueling hundreds of \"Nazis with occult tech win WW2\" stories.",
+   "article": {
+    "title": "Die Glocke (conspiracy theory)",
+    "url": "https://en.wikipedia.org/wiki/Die_Glocke_(conspiracy_theory)",
+    "extract": "Die Glocke (German: [diː ˈɡlɔkə], 'The Bell') was a purported top-secret scientific technological device, wonder weapon, or Wunderwaffe developed in the 1940s in Nazi Germany. Rumors of this device have persisted for decades after WW2 and were used as a plot trope in the fiction novel Lightning by Dean Koontz (1988), in the fiction television series 12 Monkeys (Season 4) and the multimedia franchise Assassin's Creed. First fully described by Polish journalist and author Igor Witkowski in Prawda o Wunderwaffe (2000), it was later popularized by military journalist and author Nick Cook, who associated it with Nazi occultism, anti-gravity, and free energy research. Mainstream reviewers have criticized claims about Die Glocke as being pseudoscientific, recycled rumors, and a hoax."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Die_Glocke_%28the_Nazi_Bell%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Die_Glocke_(the_Nazi_Bell).png",
+    "file": "File:Die Glocke (the Nazi Bell).png",
+    "artist": "Zusurs",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 309,
+    "height": 403,
+    "ok": true
+   },
+   "second_source": {
+    "name": "jasoncolavito.com",
+    "url": "http://www.jasoncolavito.com/blog/review-of-in-search-of-aliens-s01e02-nazi-time-travelers",
+    "title": "Review of In Search of Aliens S01E02 \"Nazi Time Travelers\" - JASON COLAVITO",
+    "matched": [
+     "glocke",
+     "alleged",
+     "device",
+     "greatest",
+     "power",
+     "nazis",
+     "occult",
+     "stories"
+    ]
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of common false etymologies of English words: Believe it or not, \"crap\" did not originate from Thomas Crapper.",
+   "article": {
+    "title": "List of common false etymologies of English words",
+    "url": "https://en.wikipedia.org/wiki/List_of_common_false_etymologies_of_English_words",
+    "extract": "This is a list of common contemporary false etymologies for English words."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Let's trim our hair in accordance with the socialist lifestyle: A television show produced by the North Korean government intended to educate the public on good and bad hairstyles.",
+   "article": {
+    "title": "Let's trim our hair in accordance with the socialist lifestyle",
+    "url": "https://en.wikipedia.org/wiki/Let%27s_trim_our_hair_in_accordance_with_the_socialist_lifestyle",
+    "extract": "Let's trim our hair in accordance with the socialist lifestyle (Korean: 사회주의적생활양식에 맞게 머리단장을 하자; alternatively translated as Let us trim our hair in accordance with Socialist lifestyle) was a television program broadcast on state-run Korean Central Television in North Korea between 2004 and 2005 as part of a longstanding  government propaganda against haircuts and fashions deemed at odds with \"socialist values\". The program claimed that long hair could adversely affect hygiene and human intelligence, as growing it \"consumed nutrition\" which would ultimately starve the brain of energy and reduce human intelligence."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lapland New Forest: It ruined Christmas 2008 in Hampshire.",
+   "article": {
+    "title": "Lapland New Forest",
+    "url": "https://en.wikipedia.org/wiki/Lapland_New_Forest",
+    "extract": "Lapland New Forest was a short-lived winter wonderland theme park near Ringwood, Hampshire, UK, in 2008. The park had been advertised as being a \"winter wonderland\" with a variety of exciting family events such as a Christmas market and a \"magical tunnel of light\", but the majority of the promised attractions either malfunctioned or were of a very low quality. The park closed after a week following complaints from customers and poor press attention, and the organisers were charged with misleading advertising and sentenced to 13 months in prison.\nThe park's disastrous operation gained national news attention in the UK and has since been compared to similar ill-fated events such as Willy's Chocolate Experience."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Advertising_hoarding%2C_Matchams_-_geograph.org.uk_-_1067747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Advertising_hoarding,_Matchams_-_geograph.org.uk_-_1067747.jpg",
+    "file": "File:Advertising hoarding, Matchams - geograph.org.uk - 1067747.jpg",
+    "artist": "Mike Faherty",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "telegraph.co.uk",
+    "url": "https://www.telegraph.co.uk/news/uknews/3549767/Controversial-Lapland-New-Forest-Christmas-attraction-closes.html",
+    "title": "Controversial 'Lapland New Forest' Christmas attraction closes",
+    "matched": [
+     "2008",
+     "lapland",
+     "forest",
+     "christmas"
+    ]
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Adventures of Ninja Nanny & Sherrloch Sheltie: An \"educational\" PC game from 1993… what it was meant to be educating anyone about, we have no idea.",
+   "article": {
+    "title": "The Adventures of Ninja Nanny & Sherrloch Sheltie",
+    "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Ninja_Nanny_%26_Sherrloch_Sheltie",
+    "extract": "The Adventures of Ninja Nanny & Sherrloch Sheltie: No. 11 Downing Street is a 1993 game by Silicon Alley for Windows 3.0 systems, and is an interactive fiction title with multimedia elements integrated into the text. Despite its marketing as an \"educational\" game, Ninja Nanny became notable after its release for its unusual and nonsensical content."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pornocracy: A near-60-year period, also known as Saeculum obscurum or the \"Rule of the Harlots\", where the Popes were controlled by the women of a corrupt noble family.",
+   "article": {
+    "title": "Saeculum obscurum",
+    "url": "https://en.wikipedia.org/wiki/Saeculum_obscurum",
+    "extract": "Saeculum obscurum (Ecclesiastical Latin: [ˈsɛː.ku.lu.m obsˈkuː.rum], \"the dark age/century\"), also known as the Rule of the Harlots or the Pornocracy, was a period in the history of the papacy during the first two thirds of the 10th century, following the chaos after the death of Pope Formosus in 896, and the seven legitimate popes and one illegitimate antipope elected between 896 and 964. It began with the installation of Pope Sergius III in 904 and lasted for 60 years until the death of Pope John XII in 964. During this period, the popes were influenced strongly by a powerful and allegedly corrupt aristocratic family, the Theophylacti, and their relatives and allies. The era is seen as one of the lowest points of the history of the papal office."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Pope-John-XII_print-1742.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pope-John-XII_print-1742.jpg",
+    "file": "File:Pope-John-XII print-1742.jpg",
+    "artist": "Antique Print-POPE JOHN XII-Bollandus-Bouttats-1742",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 366,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://web.archive.org/web/20090201164016/http://users.sbuniv.edu/~hgallatin/hi13le25.html"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of names for the biblical nameless: Where the bible leaves questions, its fans give answers.",
+   "article": {
+    "title": "List of names for the biblical nameless",
+    "url": "https://en.wikipedia.org/wiki/List_of_names_for_the_biblical_nameless",
+    "extract": "Some people who appear in the Bible but whose names are not given there have names that are given in Jewish religious texts, Christian sacred tradition, or apocryphal texts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MosesRescued_FromTheNile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MosesRescued_FromTheNile.JPG",
+    "file": "File:MosesRescued FromTheNile.JPG",
+    "artist": "Nicolas Poussin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 451,
+    "height": 429,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.sefaria.org/Bava_Batra.91a"
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Colonia Dignidad: A rural community in Chile that has a story that not even the most insane writer could think of.",
+   "article": {
+    "title": "Colonia Dignidad",
+    "url": "https://en.wikipedia.org/wiki/Colonia_Dignidad",
+    "extract": "Colonia Dignidad (Spanish pronunciation: [koˈlonja ðiɣniˈðað]; lit. 'Dignity Colony') was an isolated colony established in post-World War II Chile by emigrant Germans which became notorious for the internment, torture, and murder of dissidents during the military dictatorship of General Augusto Pinochet in the 1970s while under the leadership of German emigrant preacher Paul Schäfer. Colonia Dignidad has been described as a \"state within a state\".\n\nSchäfer and members of the colony were deeply religious and followed the teachings of William Branham. The main legal economic activity of the colony was agriculture; at various periods it also was home to a school, a hospital, two airstrips, a restaurant, and a power station."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Villa Baviera.jpg)"
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Silbo Gomero: The inhabitants of La Gomera of the Canary Islands communicate across valleys by whistling in Spanish.",
+   "article": {
+    "title": "Silbo Gomero",
+    "url": "https://en.wikipedia.org/wiki/Silbo_Gomero",
+    "extract": "Silbo Gomero (Spanish: silbo gomero [ˈsilβo ɣoˈmeɾo], \"Gomeran whistle\"), also known as el silbo (\"the whistle\"), is a whistled register of Spanish that is used by inhabitants of La Gomera, in the Canary Islands. It was historically used to communicate across the deep ravines and narrow valleys that radiate through the island and enabled messages to be exchanged over a distance of up to five kilometres. Its loudness causes Silbo Gomero to be generally used for public communication. Messages that are conveyed range from event invitations to public information advisories."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:El Silbo.jpg)"
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Christmas in Nazi Germany: The Nazi Party reinvented Christmas by removing a certain baby boy raised in the Jewish faith.",
+   "article": {
+    "title": "Christmas in Nazi Germany",
+    "url": "https://en.wikipedia.org/wiki/Christmas_in_Nazi_Germany",
+    "extract": "The celebration of Christmas in Nazi Germany included attempts by the regime to bring the Christian religious holiday into line with Nazi ideology. The Jewish origins of Jesus and the commemoration of his birth as the Jewish Messiah was troubling for some members of the Nazi Party and their racialist beliefs. Between 1933 and 1945, some government officials attempted to remove these aspects of Christmas from civil celebrations and concentrate on cultural pre-Christian aspects of the festival. However, church and private celebrations remained Christian in nature."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bundesarchiv_Bild_102-17313%2C_Berlin%2C_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-17313,_Berlin,_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg",
+    "file": "File:Bundesarchiv Bild 102-17313, Berlin, Weihnachtspakete für das Winterhilfswerk.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 800,
+    "height": 536,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theconversation.com",
+    "url": "https://theconversation.com/how-the-nazis-co-opted-christmas-52186",
+    "title": "How the Nazis co-opted Christmas",
+    "matched": [
+     "christmas",
+     "germany",
+     "party",
+     "jewish",
+     "faith"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Panchagavya: A mixture of cow dung, cow urine, milk, curd, and ghee used in some Hindu rituals.",
+   "article": {
+    "title": "Panchagavya",
+    "url": "https://en.wikipedia.org/wiki/Panchagavya",
+    "extract": "Panchagavya or panchakavyam is a mixture used in traditional Hindu rituals that is prepared by mixing five ingredients. The three direct constituents are cow dung, cow urine, and milk; the two derived products are curd and ghee. These are mixed and then allowed to ferment. The Sanskrit word panchagavya means \"five cow-derivatives\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sacred_cow2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sacred_cow2.jpg",
+    "file": "File:Sacred cow2.jpg",
+    "artist": "Fritz Schleicher lithographic transfer of Raja Ravi Varma original.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 450,
+    "height": 330,
+    "ok": true
+   },
+   "second_source": {
+    "name": "frontline.thehindu.com",
+    "url": "https://frontline.thehindu.com/cover-story/of-cowpathy-amp-its-miracles/article8994408.ece",
+    "title": "Of ‘cowpathy’ &amp; its miracles - Frontline",
+    "matched": [
+     "panchagavya",
+     "mixture",
+     "urine",
+     "hindu"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Charles Manson discography: Wait, whose discography??",
+   "article": {
+    "title": "Charles Manson discography",
+    "url": "https://en.wikipedia.org/wiki/Charles_Manson_discography",
+    "extract": "Several recordings by Charles Manson and members of his \"Family\" have been released since Manson was indicted in late 1969 for the Tate–LaBianca murders."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Charles-mansonbookingphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Charles-mansonbookingphoto.jpg",
+    "file": "File:Charles-mansonbookingphoto.jpg",
+    "artist": "San Quentin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 661,
+    "height": 849,
+    "ok": true
+   },
+   "second_source": {
+    "name": "esquarterly.com",
+    "url": "http://www.esquarterly.com/bellagio/unreleased.html",
+    "title": "UNRELEASED",
+    "matched": [
+     "charles",
+     "manson",
+     "discography"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bernd das Brot: The mascot of a German children's television network: a chronically depressed loaf of bread who laments his life and enjoys very boring activities.",
+   "article": {
+    "title": "Bernd das Brot",
+    "url": "https://en.wikipedia.org/wiki/Bernd_das_Brot",
+    "extract": "Bernd das Brot (lit. \"Bernd the Bread\") is a puppet character, star mascot, and pop cultural icon of the German children's television channel KiKA, currently featured in the programs Bernd das Brot, Bravo Bernd, and the KiKA late night loop programme. He is primarily characterised by his chronic depression.\nBernd debuted on KiKA in 2000."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bernddasbrot-puppenspieler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bernddasbrot-puppenspieler.jpg",
+    "file": "File:Bernddasbrot-puppenspieler.jpg",
+    "artist": "Richard Jebe (BissigerWitzbold)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 659,
+    "height": 739,
+    "ok": true
+   },
+   "second_source": {
+    "name": "spiegel.de",
+    "url": "https://www.spiegel.de/international/bernd-das-brot-who-says-germans-aren-t-funny-a-408450.html",
+    "title": "Bernd das Brot: Who Says Germans Aren't Funny? - DER SPIEGEL",
+    "matched": [
+     "bernd",
+     "german",
+     "children",
+     "network",
+     "chronically",
+     "depressed",
+     "bread"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tropical nations at the Winter Olympics: More than just Jamaican bobsledders.",
+   "article": {
+    "title": "Tropical nations at the Winter Olympics",
+    "url": "https://en.wikipedia.org/wiki/Tropical_nations_at_the_Winter_Olympics",
+    "extract": "Several tropical nations have participated in the Winter Olympics despite not having the climate for winter sports. Partly because of that, their entries are a subject of human interest stories during the Games.\nThe first warm-weather, but not fully tropical, nation participating in the Winter Olympics was Mexico. Much of Mexico is at a latitude north of the Tropic of Cancer, and most of the country has a subtropical highland or semi-arid climate, so it is not exclusively a tropical nation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/2010_Opening_Ceremony_-_Ghana_entering.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2010_Opening_Ceremony_-_Ghana_entering.jpg",
+    "file": "File:2010 Opening Ceremony - Ghana entering.jpg",
+    "artist": "Jude Freeman",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1207,
+    "height": 1206,
+    "ok": true
+   },
+   "second_source": {
+    "name": "infoplease.com",
+    "url": "http://www.infoplease.com/spot/winter-olympics-warm-weather.html",
+    "title": "Winter Olympics 2006: Warm Weather Countries",
+    "matched": [
+     "tropical",
+     "nations",
+     "winter",
+     "olympics",
+     "jamaican",
+     "bobsledders"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mothers against decapentaplegic: Actually, it's a protein.",
+   "article": {
+    "title": "Mothers against decapentaplegic",
+    "url": "https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic",
+    "extract": "Mothers against decapentaplegic is a protein from the SMAD family that was discovered in Drosophila. During Drosophila research, it was found that a mutation in the gene in the mother repressed the gene decapentaplegic in the embryo. The phrase \"Mothers against\" was added as a humorous take-off on organizations opposing various issues e.g. Mothers Against Drunk Driving (MADD); and based on a tradition of such unusual naming within the gene research community."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Protein_SMAD2_PDB_1dev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Protein_SMAD2_PDB_1dev.png",
+    "file": "File:Protein SMAD2 PDB 1dev.png",
+    "artist": "Emw",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1138,
+    "height": 686,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thenakedscientists.com",
+    "url": "https://www.thenakedscientists.com/articles/interviews/gene-month-mothers-against-decapentaplegic",
+    "title": "Gene of the month - Mothers Against Decapentaplegic | Interviews",
+    "matched": [
+     "mothers",
+     "against",
+     "decapentaplegic",
+     "protein"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Confessions of an English Opium-Eater: This highly popular autobiographical account about the effects of laudanum led several English authors to opium use.",
+   "article": {
+    "title": "Confessions of an English Opium-Eater",
+    "url": "https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater",
+    "extract": "Confessions of an English Opium-Eater is a memoir by Thomas De Quincey that recounts the circumstances of his addiction to laudanum, his experience of the drug, and its effect on his life. De Quincey was born in 1785. The chronology of his narrative begins with the death of his father in 1793, continues through his opium years beginning in 1804, and concludes after his marriage (in 1817) to a farmer's daughter named Margaret Simpson.\nDe Quincey completed the first edition of Confessions in 1821, at which point he published them anonymously in The London Magazine, where they appeared in two parts (in the September and October issues, respectively)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Confessions_of_an_English_Opium-Eater_cover_1823.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Confessions_of_an_English_Opium-Eater_cover_1823.jpg",
+    "file": "File:Confessions of an English Opium-Eater cover 1823.jpg",
+    "artist": "w:Thomas De Quincey",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 269,
+    "height": 500,
+    "ok": true
+   },
+   "second_source": {
+    "name": "historic-uk.com",
+    "url": "https://www.historic-uk.com/CultureUK/Thomas-De-Quincey/",
+    "title": "Thomas De Quincey - Historic UK",
+    "matched": [
+     "confessions",
+     "english",
+     "opium",
+     "eater",
+     "highly",
+     "popular",
+     "autobiographical",
+     "laudanum",
+     "authors"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that one of the Rhaetian Railway's trains is named after Achilles Schucan, its first director?",
+   "article": {
+    "title": "Achilles Schucan",
+    "url": "https://en.wikipedia.org/wiki/Achilles_Schucan",
+    "extract": "Achilles Schucan (19 January 1844 – 18 July 1927) was a Swiss engineer and rail industry executive. He was the first director of the Rhaetian Railway, which expanded from a single line to a substantial rail network under his direction."
+   },
+   "related": [
+    "Rhaetian Railway"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Achilles_Schucan%2C_erster_Direktor_Rh%C3%A4tische_Bahn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Achilles_Schucan,_erster_Direktor_Rh%C3%A4tische_Bahn.png",
+    "file": "File:Achilles Schucan, erster Direktor Rhätische Bahn.png",
+    "artist": "Unbekannt",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 624,
+    "height": 803,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20250828204421/https://hls-dhs-dss.ch/articles/031664/2011-08-19/"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Israel Epstein: Somehow this Chinese journalist‘s name isn’t the most unusual fact about him.",
+   "article": {
+    "title": "Israel Epstein",
+    "url": "https://en.wikipedia.org/wiki/Israel_Epstein",
+    "extract": "Israel Epstein (20 April 1915 – 26 May 2005), also known by his Chinese nickname \"Aipei\", was a Polish-born Chinese journalist who was one of the few foreign-born members of the Chinese Communist Party.\nBorn into a Polish family which fled to China after Epstein's birth, he covered the Japanese invasion of China for Allied news agencies and was later captured by Japanese forces. After the war, he became editor in chief of China Today."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Israel_Epstein_face_detail%2C_from-_%28BOTTOM%29_MENAHEM_BEGIN_IN_POLISH_ARMY_UNIFORM_OF_GEN._ANDERS_FORCES_WITH_WIFE_ALIZA_AND_DAVID_YUTAN._%28TOP%29_MOSHE_STEIN_AND_ISRAEL_EPSTEIN._%28JABOTINSKYD98-131_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Israel_Epstein_face_detail,_from-_(BOTTOM)_MENAHEM_BEGIN_IN_POLISH_ARMY_UNIFORM_OF_GEN._ANDERS_FORCES_WITH_WIFE_ALIZA_AND_DAVID_YUTAN._(TOP)_MOSHE_STEIN_AND_ISRAEL_EPSTEIN._(JABOTINSKYD98-131_(cropped).jpg",
+    "file": "File:Israel Epstein face detail, from- (BOTTOM) MENAHEM BEGIN IN POLISH ARMY UNIFORM OF GEN. ANDERS FORCES WITH WIFE ALIZA AND DAVID YUTAN. (TOP) MOSHE STEIN AND ISRAEL EPSTEIN. (JABOTINSKYD98-131 (cropped).jpg",
+    "artist": "לשכת העיתונות הממשלתית",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 637,
+    "height": 797,
+    "ok": true
+   },
+   "second_source": {
+    "name": "telegraph.co.uk",
+    "url": "https://www.telegraph.co.uk/news/obituaries/1491973/Israel-Epstein.html",
+    "title": "Israel Epstein",
+    "matched": [
+     "israel",
+     "epstein",
+     "chinese",
+     "journalist"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Momčilo Gruban was convicted of crimes against humanity for his actions as a guard at the Omarska concentration camp during the Bosnian War?",
+   "article": {
+    "title": "Momčilo Gruban",
+    "url": "https://en.wikipedia.org/wiki/Mom%C4%8Dilo_Gruban",
+    "extract": "Momčilo Gruban (Serbian Cyrillic: Момчило Грубан; born 19 June 1961), also known as Čkalja (Чкаља), is a Bosnian Serb who was convicted by the Court of Bosnia and Herzegovina (Court of BiH) of crimes against humanity committed at the Omarska concentration camp near Prijedor, Bosnia and Herzegovina, during the Bosnian War.\nGruban was born near the town of Prijedor. In late May 1992 the Omarska camp opened. It held almost exclusively non-Serb detainees from the surrounding districts who had been rounded up during the ethnic cleansing of central Bosanska Krajina."
+   },
+   "related": [
+    "Omarska concentration camp",
+    "Bosnian War"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mom%C4%8Dilo_Gruban_at_the_ICTY.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mom%C4%8Dilo_Gruban_at_the_ICTY.png",
+    "file": "File:Momčilo Gruban at the ICTY.png",
+    "artist": "United Nations",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 205,
+    "height": 231,
+    "ok": true
+   },
+   "second_source": {
+    "name": "icty.org",
+    "url": "https://www.icty.org/en/about",
+    "title": "About the ICTY | International Criminal Tribunal for the former Yugoslavia",
+    "matched": [
+     "convicted",
+     "crimes",
+     "against",
+     "humanity",
+     "omarska",
+     "bosnian"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dinosaur erotica: Have you ever been Taken by a T-Rex or Ravished by a Triceratops?",
+   "article": {
+    "title": "Dinosaur erotica",
+    "url": "https://en.wikipedia.org/wiki/Dinosaur_erotica",
+    "extract": "Dinosaur erotica, part of the larger genre of bestiality porn, is a subgenre of erotic literature that involves sexual encounters between humans and non-avian dinosaurs. Works include titles such as Taken by the T-Rex, Ravished by Triceratops and A Billionaire Dinosaur Forced Me Gay. Despite being called by some in the media \"the Kardashian of erotica,\" the genre's titles have generated sales and media interest."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/MUJA_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MUJA_04.jpg",
+    "file": "File:MUJA 04.jpg",
+    "artist": "Usuario:NeGRa",
+    "license": "CC BY-SA 2.5 es",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
+    "width": 638,
+    "height": 682,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/books/booksblog/2015/feb/13/rex-appeal-literary-attraction-dinosaur-erotica",
+    "title": "Rex appeal: the literary attraction of dinosaur erotica | Romance books | The Guardian",
+    "matched": [
+     "dinosaur",
+     "erotica",
+     "taken",
+     "ravished",
+     "triceratops"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Intentionally blank page: The self-refuting meta-reference that is \"This page intentionally left blank\".",
+   "article": {
+    "title": "Intentionally blank page",
+    "url": "https://en.wikipedia.org/wiki/Intentionally_blank_page",
+    "extract": "An intentionally blank page is a page that has no content and may be unexpected. Such pages may serve purposes ranging from place-holding to space-filling and content separation. Sometimes, these pages carry a notice such as \"This page was intentionally left blank.\" Such notices typically appear in printed works, such as legal documents, manuals, and exam papers, in which the reader might otherwise suspect that the blank pages are due to a printing error and where missing pages might have serious consequences."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Blank_page_intentionally_end_of_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Blank_page_intentionally_end_of_book.jpg",
+    "file": "File:Blank page intentionally end of book.jpg",
+    "artist": "Roke~commonswiki",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 802,
+    "height": 549,
+    "ok": true
+   },
+   "second_source": {
+    "name": "mercury.lcs.mit.edu",
+    "url": "http://mercury.lcs.mit.edu/~jnc/prints/genji.html",
+    "title": "The Tale of Genji (Genji Monogatari)",
+    "matched": [
+     "intentionally",
+     "blank",
+     "reference"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sky burial: It's not really a form of burial. Also known as jhator which means \"giving alms to the birds.\"",
+   "article": {
+    "title": "Sky burial",
+    "url": "https://en.wikipedia.org/wiki/Sky_burial",
+    "extract": "Sky burial (Tibetan: བྱ་གཏོར་, Wylie: bya gtor, lit. \"bird-scattered\") is a funeral practice in which a corpse is placed on a mountaintop to decompose while exposed to the elements, or to be eaten by scavenging animals, especially crows, vultures, bears and jackals. Comparable excarnation practices are part of Zoroastrian burial rites where deceased are exposed to the elements and scavenger birds on stone structures called Dakhma. Sky burials are endemic to Tibet, Qinghai, Sichuan, and Inner Mongolia, as well as in Mongolia,  Nepal, Bhutan, and parts of India such as Sikkim and Zanskar."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sky_burial_site%2C_Yerpa_Valley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sky_burial_site,_Yerpa_Valley.JPG",
+    "file": "File:Sky burial site, Yerpa Valley.JPG",
+    "artist": "en:User:John Hill",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 878,
+    "height": 578,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20240520204534/https://people.howstuffworks.com/culture-traditions/funerals/sky-burial.htm#pt2",
+    "title": "How Sky Burial Works | HowStuffWorks",
+    "matched": [
+     "burial",
+     "known",
+     "jhator",
+     "giving",
+     "birds"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cannibalism in poultry: See: tastes like chicken.",
+   "article": {
+    "title": "Cannibalism in poultry",
+    "url": "https://en.wikipedia.org/wiki/Cannibalism_in_poultry",
+    "extract": "Cannibalism in poultry is the act of one individual of a poultry species consuming all or part of another individual of the same species as food.  It occurs commonly in flocks of domestic hens reared for egg production, although it can also occur in domestic turkeys, pheasants and other poultry species. Poultry create a social order of dominance known as pecking order. When pressure occurs within the flock, pecking can increase in aggression and escalate to cannibalism."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edward_Brown_Races_of_Domestic_Poultry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Edward_Brown_Races_of_Domestic_Poultry.jpg",
+    "file": "File:Edward Brown Races of Domestic Poultry.jpg",
+    "artist": "Edward Brown",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1275,
+    "height": 1134,
+    "ok": true
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Him (1974 film): One of the most sought-after lost films is a 1974 gay porno about Jesus.",
+   "article": {
+    "title": "Him (1974 film)",
+    "url": "https://en.wikipedia.org/wiki/Him_(1974_film)",
+    "extract": "Him is a lost American gay pornographic feature film produced in 1974 and distributed by Hand in Hand Films. The film focuses on a young gay man who develops an erotic fixation on Jesus Christ. Little is known about the production. It was directed by Ed Lui, a multidisciplinary artist, released under his pseudonym \"Ed D. Louie\" and featured mural artist Gustav \"Tava\" Von Will in the role of Jesus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Him1974-28Mar74.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Him1974-28Mar74.jpg",
+    "file": "File:Him1974-28Mar74.jpg",
+    "artist": "The Village Voice",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1036,
+    "height": 705,
+    "ok": true
+   },
+   "second_source": {
+    "name": "melmagazine.com",
+    "url": "https://melmagazine.com/en-us/story/gay-jesus-movie-him",
+    "title": "The Amateur Detectives Obsessed With Finding ‘Him,’ the Lost Gay Jesus Porn Film",
+    "matched": [
+     "1974",
+     "films",
+     "porno",
+     "jesus"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Zyzyxia: The last plant name and animal name in the dictionary, respectively.",
+   "article": {
+    "title": "Zyzyxia",
+    "url": "https://en.wikipedia.org/wiki/Zyzyxia",
+    "extract": "Zyzyxia is a genus of tropical shrubs in the family Asteraceae native to Central America. There is only one known species, Zyzyxia lundellii."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Zyzyxia_lundelli.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zyzyxia_lundelli.png",
+    "file": "File:Zyzyxia lundelli.png",
+    "artist": "Smithsonian Institution, NMNH, Botany",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 864,
+    "height": 1219,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=13087"
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kuchisake-onna: A Japanese urban legend (probably). Also known as \"the slit-mouthed woman\", Kuchisake-onna is asking you if you think she's pretty. No matter what you answer, you're doomed. Except if you say \"pomade\" three times.",
+   "article": {
+    "title": "Kuchisake-onna",
+    "url": "https://en.wikipedia.org/wiki/Kuchisake-onna",
+    "extract": "Kuchisake-onna (口裂け女; 'Slit-Mouthed Woman') is a malevolent figure in Japanese urban legends and folklore. Described as the malicious spirit, or onryō, of a woman, she partially covers her face with a mask or other item to hide her scar and carries a pair of scissors, a knife, or some other sharp object. She is most often described as a tall woman of about 175–180 cm (or 5’7-5’9 ft); however, some people believe she is up to 243.84 cm (or 8ft) tall, having long straight black hair, white hands, pale skin, and otherwise being considered beautiful (except for her scar).\nShe has been described as a contemporary yōkai."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shungyosai_Tayu-no-kao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shungyosai_Tayu-no-kao.jpg",
+    "file": "File:Shungyosai Tayu-no-kao.jpg",
+    "artist": "Hayami Shungyōsai (速水春暁斎, Japanese, *1767, †1823)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 389,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nippon.com",
+    "url": "https://www.nippon.com/en/japan-topics/g00789/japanese-urban-legends-from-the-slit-mouthed-woman-to-kisaragi-station.html",
+    "title": "Japanese Urban Legends from the “Slit-Mouthed Woman” to “Kisaragi Station” | Nippon.com",
+    "matched": [
+     "kuchisake",
+     "japanese",
+     "urban",
+     "legend",
+     "known",
+     "mouthed",
+     "woman",
+     "think",
+     "pretty",
+     "matter",
+     "answer"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mengenlehreuhr: You'll have to read between the lights to see the time.",
+   "article": {
+    "title": "Mengenlehreuhr",
+    "url": "https://en.wikipedia.org/wiki/Mengenlehreuhr",
+    "extract": "The Mengenlehreuhr (German for \"Set Theory Clock\") or Berlin-Uhr (\"Berlin Clock\") is the first public clock in the world that tells the time by means of illuminated, coloured fields, for which it entered the Guinness Book of Records upon its installation on 17 June 1975. Commissioned by the Senate of Berlin and designed by Dieter Binninger, the original full-sized Mengenlehreuhr was originally located at the Kurfürstendamm on the corner with Uhlandstraße in what was then West Berlin. After the Senate decommissioned it in 1995, the clock was relocated to a site in Budapester Straße in front of Europa-Center, where it stands today."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Berlin_Kurf%C3%BCrstendamm_113714a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Berlin_Kurf%C3%BCrstendamm_113714a.jpg",
+    "file": "File:Berlin Kurfürstendamm 113714a.jpg",
+    "artist": "Willy Pragher",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 413,
+    "height": 647,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20100723162117/http://www.europa-center-berlin.de/en/the-sights/set-theory-clock.html"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bonnie Blue: One of them had sex with around 1000 men, the other with around 100 in one day. Needless to say, Guinness does not do these kinds of records.",
+   "article": {
+    "title": "Bonnie Blue",
+    "url": "https://en.wikipedia.org/wiki/Bonnie_Blue",
+    "extract": "Tia Billinger (born 1999), known professionally as Bonnie Blue, is an English pornographic film actress. After attending 2023's schoolies week, she had sex with large numbers of students at both spring break in Cancún, Mexico, and freshers' week in Derby and Nottingham, England, and went viral for discussing her sex life on GK Barry's podcast Saving Grace. She was criticised during this period for the age of her co-stars (as young as 18) and for comments that critics have described as promoting misogyny and the sexual objectification of women.\nBlue claimed to have had sex with 1,057 men in 12 hours on 11 January 2025, making her the subject of months of media attention and inspiring similar events by Lily Phillips, Annie Knight, and Drake Von."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bonnie_Blue%2C_July_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bonnie_Blue,_July_2025_(cropped).jpg",
+    "file": "File:Bonnie Blue, July 2025 (cropped).jpg",
+    "artist": "Anything Goes With James English",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 736,
+    "height": 975,
+    "ok": true
+   },
+   "second_source": {
+    "name": "the-independent.com",
+    "url": "https://www.the-independent.com/life-style/bonnie-blue-onlyfans-documentary-b2796228.html",
+    "title": "Empowered or degraded? The truth about Bonnie Blue – and what happens behind the scenes | The Independent",
+    "matched": [
+     "1000",
+     "100",
+     "bonnie",
+     "around",
+     "records"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fainting goat: A breed of goat whose muscles freeze for about 10 seconds when it is startled.",
+   "article": {
+    "title": "Fainting goat",
+    "url": "https://en.wikipedia.org/wiki/Fainting_goat",
+    "extract": "The fainting goat or myotonic goat is an American breed of goat. It may also be known as the Tennessee fainting goat, falling goat, stiff-legged goat, nervous goat, or as the Tennessee wooden-leg goat. The fainting goat is characterized by myotonia congenita, a hereditary condition that may cause it to stiffen or fall over when excited or startled.  Four goats of this type were first brought to Tennessee in the 1880s."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Myotonic_Goat_-_17003682370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Myotonic_Goat_-_17003682370.jpg",
+    "file": "File:Myotonic Goat - 17003682370.jpg",
+    "artist": "Jean",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1149,
+    "height": 1179,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nhm.ac.uk",
+    "url": "https://www.nhm.ac.uk/discover/why-do-goats-faint-and-scream.html",
+    "title": "Why do goats faint and scream? | Natural History Museum",
+    "matched": [
+     "10",
+     "fainting",
+     "breed",
+     "muscles",
+     "seconds"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Whipping boy: A boy who received corporal punishment for misdemeanors of a prince; as well as some of his privileges.",
+   "article": {
+    "title": "Whipping boy",
+    "url": "https://en.wikipedia.org/wiki/Whipping_boy",
+    "extract": "A whipping boy was a boy educated alongside a prince (or boy monarch) in early modern Europe who supposedly received corporal punishment for the prince's transgressions in his presence.  The prince was not punished himself because his royal status exceeded that of his tutor; seeing a friend punished would provide an equivalent motivation not to repeat the offence. An archaic proverb which captures a similar idea is \"to beat a dog before a lion\". Whipping was a common punishment administered by tutors at that time."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Whipping-boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Whipping-boy.jpg",
+    "file": "File:Whipping-boy.jpg",
+    "artist": "Walter S. Stacey",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 442,
+    "height": 600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://archive.org/stream/magazineofart06londuoft#page/n153/mode/1up"
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vegetable Lamb of Tartary: Money might not grow on trees, but maybe sheep do.",
+   "article": {
+    "title": "Vegetable Lamb of Tartary",
+    "url": "https://en.wikipedia.org/wiki/Vegetable_Lamb_of_Tartary",
+    "extract": "The Vegetable Lamb of Tartary (Latin: Agnus scythicus or Planta Tartarica Barometz) is a legendary zoophyte of Central Asia, once believed to grow sheep as its fruit. It was believed the sheep were connected to the plant by an umbilical cord and grazed the land around the plant. When all accessible foliage was gone, both the plant and sheep died.\nUnderlying the legend is the cotton plant, which was unknown in Northern Europe before the Norman conquest of Sicily."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Borametz%2C_or_the_Vegetable_Lamb_of_Tartary_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Borametz,_or_the_Vegetable_Lamb_of_Tartary_(cropped).jpg",
+    "file": "File:Borametz, or the Vegetable Lamb of Tartary (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 807,
+    "height": 1127,
+    "ok": true
+   },
+   "second_source": {
+    "name": "laphamsquarterly.org",
+    "url": "https://www.laphamsquarterly.org/roundtable/animal-vegetable-or-both",
+    "title": "Animal, Vegetable, or Both? | Lapham’s Quarterly",
+    "matched": [
+     "vegetable",
+     "tartary",
+     "might",
+     "trees",
+     "sheep"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Russian warship, go fuck yourself: An eternalized catchphrase of the Russo-Ukrainian war.",
+   "article": {
+    "title": "Russian warship, go fuck yourself",
+    "url": "https://en.wikipedia.org/wiki/Russian_warship,_go_fuck_yourself",
+    "extract": "\"Russian warship, go fuck yourself\"  was the final communication made on 24 February, the first day of the 2022 Snake Island campaign, by Ukrainian border guard Roman Hrybov to the Russian missile cruiser Moskva. The phrase was widely adopted as a slogan during the Russian invasion of Ukraine, as well as in pro-Ukrainian protests and demonstrations in the West. Weeks later, the phrase was commemorated on a postage stamp by Ukrposhta, the Ukrainian postal service.\nThe Ukrainian border guards were originally believed to have been all killed, but Hrybov was later confirmed by the Ukrainian Navy to be \"alive and well\" and had surrendered to the Russian Navy in the attack."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Russian_ship%2C_go_f_yourself._Bright._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Russian_ship,_go_f_yourself._Bright._2.jpg",
+    "file": "File:Russian ship, go f yourself. Bright. 2.jpg",
+    "artist": "Alex Blokha",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1042,
+    "height": 1014,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20220312051931/https://www.economist.com/1843/2022/03/11/fighters-with-ukraines-foreign-legion-are-being-asked-to-sign-indefinite-contracts-some-have-refused",
+    "title": "Fighters with Ukraine’s foreign legion are being asked to sign indefinite contracts. Some have refused | The Economist",
+    "matched": [
+     "russian",
+     "warship",
+     "yourself",
+     "ukrainian"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Phantom of Heilbronn: A DNA-traced serial killer, also known as the \"Woman without a face\", who turned out to be nonexistent.",
+   "article": {
+    "title": "Phantom of Heilbronn",
+    "url": "https://en.wikipedia.org/wiki/Phantom_of_Heilbronn",
+    "extract": "The Phantom of Heilbronn, often alternatively referred to as the Woman Without a Face, was a presumed female serial killer whose existence was inferred from DNA evidence found at crime scenes across Austria, France and Germany from 1993 to 2009. The six murders among these included that of police officer Michèle Kiesewetter in Heilbronn, Germany, on 25 April 2007.\nThe only connection between the crimes, which included murders and burglaries, was DNA belonging to the same unidentified woman, which was recovered from 40 crime scenes. In March 2009, investigators concluded that the supposed serial killer did not exist, and the DNA belonged to a woman who worked at a factory that made the cotton swabs used for collecting DNA samples."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hn-gedenktafel-theresienwiese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hn-gedenktafel-theresienwiese.jpg",
+    "file": "File:Hn-gedenktafel-theresienwiese.jpg",
+    "artist": "p.schmelzle",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1200,
+    "height": 900,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/2/hi/europe/7966641.stm",
+    "title": "BBC NEWS | Europe | 'DNA bungle' haunts German police",
+    "matched": [
+     "phantom",
+     "heilbronn",
+     "serial",
+     "killer",
+     "woman",
+     "without"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hans Langseth: A guy who had the longest beard recorded in history.",
+   "article": {
+    "title": "Hans Langseth",
+    "url": "https://en.wikipedia.org/wiki/Hans_Langseth",
+    "extract": "Hans Nilson Langseth (July 14, 1846 – November 10, 1927) was a Norwegian-American who held the record for the world's longest beard."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hans_Langseth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hans_Langseth.jpg",
+    "file": "File:Hans Langseth.jpg",
+    "artist": "Jorgenson, Nils C. (1858–1926)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 500,
+    "ok": true
+   },
+   "second_source": {
+    "name": "guinnessworldrecords.com",
+    "url": "http://www.guinnessworldrecords.com/world-records/longest-beard-male",
+    "title": "Longest natural beard locks ever (male) | Guinness World Records",
+    "matched": [
+     "langseth",
+     "longest",
+     "beard",
+     "recorded"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Smygehuk Fyr in Smygehuk, Sweden",
+   "article": {
+    "title": "Smygehuk Fyr in Smygehuk, Sweden",
+    "url": "https://www.atlasobscura.com/places/smygehuk-fyr",
+    "extract": "This pot-riveted iron lighthouse served as a light beacon for the Swedish coast from 1883 until 1973, to be later restored and re-lit in April 2001. It's tower is open to visitors and has a beautiful view from the top. The lighthouse keeper service spaces have been converted into a boutique restaurant and hostel. The Smygehuk Lighthouse takes part in the annual International Lightship Weekend duri"
+   },
+   "published": "Fri, 16 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
+   "article": {
+    "title": "Commercial Signage on the Façade of Gruta 77 in Madrid, Spain",
+    "url": "https://www.atlasobscura.com/places/commercial-signage-on-the-facade-of-gruta-77",
+    "extract": "For nearly three decades, Gruta 77 has been a haven for Madrid’s rock and roll faithful. Right in the heart of Carabanchel, this legendary concert venue and rehearsal space has given punk rockers, and other musical misfits a place to gather, play loud, and keep the underground alive. But its days may be numbered: Gruta 77 is expected to close for good at the end of 2026. Its façade has also served"
+   },
+   "published": "Fri, 16 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Lubee Bat Conservancy in Gainesville, Florida",
+   "article": {
+    "title": "Lubee Bat Conservancy in Gainesville, Florida",
+    "url": "https://www.atlasobscura.com/places/lubee-bat-conservancy",
+    "extract": "Tucked into the “Are you sure we’re not lost?” countryside north of Gainesville sits Lubee Bat Conservancy, a small but world-renowned organization dedicated to saving bats and their habitats. If you thought the bat houses by the university were cool, wait until you meet the giant fruit bats that call Lubee home. Gainesville may be known for its gators, but Lubee’s upside-down celebrities inspire "
+   },
+   "published": "Fri, 16 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Deadtime Stories Books & Gifts in Lansing, Michigan",
+   "article": {
+    "title": "Deadtime Stories Books & Gifts in Lansing, Michigan",
+    "url": "https://www.atlasobscura.com/places/deadtime-stories-books-gifts",
+    "extract": "Deadtime Stories Books & Gifts is a weird little shop in Lansing’s REO Town that is probably best described as equal parts bookstore and spider shop. The store is packed with books both new and old, collectibles, antiques, oddities, and all kinds of strange things that are hard to put into one category. But the spiders are a huge part of what makes Deadtime Stories different. The shop is home to t"
+   },
+   "published": "Fri, 16 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Where to See the World’s Most Famous Preserved Body Parts",
+   "article": {
+    "title": "Where to See the World’s Most Famous Preserved Body Parts",
+    "url": "https://www.atlasobscura.com/articles/preserved-body-parts-around-the-world",
+    "extract": "Sure, you’ve seen a dead body before, but have you ever seen a thumb preserved in salt? How about a saint’s heart shrouded in gold? Beyond the normal displays of skeletons in medical museums and holy leaders’ bodies in churches and temples, there’s a whole world of bits and pieces to explore. Throughout history, body parts have been taken as trophies during wartime, worshipped as miraculous healin"
+   },
+   "published": "Fri, 16 Oct 2026 09:29:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+   "article": {
+    "title": "Abandoned Agricultural Mill in Śmiałowice, Poland",
+    "url": "https://www.atlasobscura.com/places/abandoned-agricultural-mill-in-poland",
+    "extract": "Tucked away in the Polish countryside stands an impressive early 20th-century agricultural mill complex that looks more like a grand estate than a heavy industrial facility. Dominated by a striking multi-story central tower with a decorative roof, the building represents a era when industrial architecture was built with notable aesthetic ambition. Inside, the structure retains an eerie atmosphere "
+   },
+   "published": "Thu, 15 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Iron Fountain Gyumri in Gyumri, Armenia",
+   "article": {
+    "title": "Iron Fountain Gyumri in Gyumri, Armenia",
+    "url": "https://www.atlasobscura.com/places/iron-fountain-gyumri",
+    "extract": "If you go there in late February, the gray sky matches the mood perfectly. You walk down the cracked concrete of what used to be a grand Soviet boulevard, passing decaying apartment blocks. Just behind some overgrown bushes which look like a makeshift camp. The scale of it is incredibly imposing. Designed by architect Artur Tarkhanyan in 1982. In 1988, a devastating earthquake leveled most of Gyum"
+   },
+   "published": "Thu, 15 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Milton College in Milton, Wisconsin",
+   "article": {
+    "title": "Milton College in Milton, Wisconsin",
+    "url": "https://www.atlasobscura.com/places/milton-college",
+    "extract": "When Milton College finally closed its doors in 1982, it was the oldest institution of higher education in Wisconsin, beating the University of Wisconsin by four years. The college was originally called Du Lac Academy when it was founded in 1844. Main Hall and Goodrich Hall (the original dorm) – built in 1855 and 1857, respectively – are still standing. Milton College was ahead of its time in admi"
+   },
+   "published": "Thu, 15 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grave of John Gray in Hiramsburg, Ohio",
+   "article": {
+    "title": "Grave of John Gray in Hiramsburg, Ohio",
+    "url": "https://www.atlasobscura.com/places/grave-of-john-gray",
+    "extract": "John Gray was born the oldest of eight children on January 6, 1764 on property belonging to George Washington near his Mt. Vernon estate. Clearly a loyal follower of Washington, his father enlisted on the side of the Patriots but was killed at the Battle of White Plains, leaving young John in charge of the family. He was just 13 years old. When he was 17, he joined the army and participated in the"
+   },
+   "published": "Thu, 15 Oct 2026 10:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Rhossili Down Radar Station in Hillend, Wales",
+   "article": {
+    "title": "Rhossili Down Radar Station in Hillend, Wales",
+    "url": "https://www.atlasobscura.com/places/rhossili-down-radar-station",
+    "extract": "Situated atop the north western end of Rhossili Downs, the Rhossili Down radar station was built in 1942, as part of 'Chain Home Low', a network of World War II radar stations covering the Bristol Channel. Operated by the Army and Royal Air Force with the aim of detecting low flying aircraft at 500 feet (150 m), early warning could then be sent to Swansea upon discovering incoming German bombers. "
+   },
+   "published": "Wed, 14 Oct 2026 16:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘Cross-legged’ in Pristina, Kosovo",
+   "article": {
+    "title": "‘Cross-legged’ in Pristina, Kosovo",
+    "url": "https://www.atlasobscura.com/places/cross-legged",
+    "extract": "During the 1990 protests, thousands of Kosovo Albanians gathered peacefully in Pristina to oppose the Serbian regime. Among them was Faik Rexhepi, a chemical engineer from nearby Presheva, who joined the protesters after learning of a visit by a US delegation and the publicity it might bring to the Albanian cause. When Serbian police moved in to disperse the crowd with batons, everyone fled except"
+   },
+   "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Ta Kon Citadel in Vinh Son, Vietnam",
+   "article": {
+    "title": "Ta Kon Citadel in Vinh Son, Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-kon-citadel",
+    "extract": "Hidden deep within the remote mountains of Vinh Son, Ta Kon Citadel looks at first glance like the forgotten ruins of a colossal ancient fortress swallowed by the primeval jungle. The geological centerpiece is a massive stone wall stretching 500 to 600 meters along the mountainside and towering up to 40 meters high. Composed of rectangular, hexagonal, and polygonal stone columns packed so tightly "
+   },
+   "published": "Wed, 14 Oct 2026 12:00:00 -0400",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Regency-Era Etiquette Rules That Would Drive Modern People Mad",
+   "article": {
+    "title": "7 Regency-Era Etiquette Rules That Would Drive Modern People Mad",
+    "url": "https://www.mentalfloss.com/history/regency-era-etiquette-rules-drive-modern-people-mad?utm_source=RSS",
+    "extract": "The social rules of the Regency Era were strict enough that if we had to live them today, most of us would fail miserably."
+   },
+   "published": "Sat, 17 Oct 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Would £500 a Year in 'Sense and Sensibility' Be Worth Today?",
+   "article": {
+    "title": "What Would £500 a Year in 'Sense and Sensibility' Be Worth Today?",
+    "url": "https://www.mentalfloss.com/literature/books/sense-and-sensibility-500-pounds-worth-today?utm_source=RSS",
+    "extract": "In Jane Austen’s Sense and Sensibility, the Dashwood family must live on £500 a year. Here is what that Regency-era sum would actually be worth today."
+   },
+   "published": "Fri, 16 Oct 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best Horror Movie Trivia Questions to Prove You're Final Girl Material",
+   "article": {
+    "title": "The Best Horror Movie Trivia Questions to Prove You're Final Girl Material",
+    "url": "https://www.mentalfloss.com/entertainment/movies/horror-movie-trivia-questions?utm_source=RSS",
+    "extract": "Think you have what it takes to survive horror movie trivia night? Test your knowledge with 100+ questions covering slasher classics, haunted icons, sci-fi terror, and new releases like 'Sinners' and 'Obsession.'"
+   },
+   "published": "Fri, 16 Oct 2026 21:44:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 6 ‘Sense and Sensibility’ Adaptations and Where to Watch Them",
+   "article": {
+    "title": "All 6 ‘Sense and Sensibility’ Adaptations and Where to Watch Them",
+    "url": "https://www.mentalfloss.com/entertainment/movies/sense-and-sensibility-adaptations-where-to-watch?utm_source=RSS",
+    "extract": "Looking forward to catching Georgia Oakley’s ‘Sense and Sensibility’ in theaters? These adaptations should be added to your watch-list next."
+   },
+   "published": "Fri, 16 Oct 2026 20:36:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The U.S. States With the Most Halloween-Themed Street Names, Ranked",
+   "article": {
+    "title": "The U.S. States With the Most Halloween-Themed Street Names, Ranked",
+    "url": "https://www.mentalfloss.com/geography/states/u-s-states-most-halloween-themed-street-names-ranked?utm_source=RSS",
+    "extract": "These 15 states might be the spookiest in America!"
+   },
+   "published": "Fri, 16 Oct 2026 19:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Failed 'Friday the 13th' Stunt That Left an Actor Temporarily Blind",
+   "article": {
+    "title": "The Failed 'Friday the 13th' Stunt That Left an Actor Temporarily Blind",
+    "url": "https://www.mentalfloss.com/entertainment/movies/failed-friday-the-13th-stunt-left-actor-temporarily-blind?utm_source=RSS",
+    "extract": "Discover how a DIY fake blood recipe on the set of 'Friday the 13th' temporarily blinded actor Harry Crosby, son of crooner Bing Crosby."
+   },
+   "published": "Fri, 16 Oct 2026 18:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Biggest Song From Every Year in the 1960s",
+   "article": {
+    "title": "The Biggest Song From Every Year in the 1960s",
+    "url": "https://www.mentalfloss.com/entertainment/music/biggest-song-every-year-1960s?utm_source=RSS",
+    "extract": "From the Beach Boys' “Surfin U.S.A.” to the Beatles' “Hey Jude,” the biggest songs from the 1960s spanned rock and roll, R&B, bubblegum pop, and much more."
+   },
+   "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Quiz: Can You Match the Halloween-Themed Song to the Artist Who Wrote It?",
+   "article": {
+    "title": "Quiz: Can You Match the Halloween-Themed Song to the Artist Who Wrote It?",
+    "url": "https://www.mentalfloss.com/quizzes/music/match-halloween-song-artist?utm_source=RSS",
+    "extract": "How well do you know the artists behind Halloween hits like \"Monster Mash,\" \"Purple People Eater,\" and more? Test your knowledge of Halloween music with this spooky quiz."
+   },
+   "published": "Fri, 16 Oct 2026 12:00:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+   "article": {
+    "title": "The One Major Problem ‘Friday the 13th’ Writer Victor Miller Had With All of the Sequels",
+    "url": "https://www.mentalfloss.com/entertainment/movies/one-problem-friday-the-13th-writer-had-sequels?utm_source=RSS",
+    "extract": "Victor Miller wrote the ‘Friday the 13th’ movie that gave the world Jason Voorhees, but he never wanted this to happen."
+   },
+   "published": "Fri, 16 Oct 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+   "article": {
+    "title": "Why Jane Austen's First Novel Was Credited Only to \"A Lady\"",
+    "url": "https://www.mentalfloss.com/literature/authors/why-jane-austen-first-novel-credited-to-a-lady?utm_source=RSS",
+    "extract": "Discover why Jane Austen’s first novel, \"Sense and Sensibility,\" was published as \"By a Lady\" and why she remained anonymous throughout her lifetime."
+   },
+   "published": "Thu, 15 Oct 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Strange Afterlife of Oscar Wilde's Library Card",
+   "article": {
+    "title": "The Strange Afterlife of Oscar Wilde's Library Card",
+    "url": "https://www.mentalfloss.com/literature/authors/strange-afterlife-oscar-wilde-library-card?utm_source=RSS",
+    "extract": "130 years after having his library card revoked, Oscar Wilde was able to posthumously receive a new one."
+   },
+   "published": "Thu, 15 Oct 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1960s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1960s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1960s-use-today?utm_source=RSS",
+    "extract": "More than six decades later, these 1960s slang terms remain part of our vocabulary and carry nearly the same meaning they did back then."
+   },
+   "published": "Thu, 15 Oct 2026 19:22:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Rembrandt Turned Ancient Myths Into 'Supremely Human' Works of Art. An Upcoming Exhibition Traces the Inspiration He Took From Antiquity",
+   "article": {
+    "title": "Rembrandt Turned Ancient Myths Into 'Supremely Human' Works of Art. An Upcoming Exhibition Traces the Inspiration He Took From Antiquity",
+    "url": "https://www.smithsonianmag.com/smart-news/rembrandt-turned-ancient-myths-into-supremely-human-works-of-art-an-upcoming-exhibition-traces-the-inspiration-he-took-from-antiquity-180989705/",
+    "extract": "\"Rembrandt and the Ancients\" at the Metropolitan Museum of Art will unpack an \"underexplored but vital\" part of the Dutch master's career, putting his paintings and drawings in conversation with the antecedents that inspired them"
+   },
+   "published": "Fri, 16 Oct 2026 20:16:08 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Legend Has It That This Roman Emperor Established a Camp in Wales. A Newly Discovered Fort May Offer Proof That It Really Existed",
+   "article": {
+    "title": "Legend Has It That This Roman Emperor Established a Camp in Wales. A Newly Discovered Fort May Offer Proof That It Really Existed",
+    "url": "https://www.smithsonianmag.com/smart-news/legend-has-it-that-this-roman-emperor-established-camp-wales-newly-discovered-fort-may-offer-proof-that-it-really-existed-180989702/",
+    "extract": "An archaeologist has uncovered an ancient fortification linked to Magnus Maximus, a fourth-century ruler who is immortalized in the medieval \"Mabinogion\" stories as Macsen Wledig"
+   },
+   "published": "Fri, 16 Oct 2026 18:51:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Wildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle",
+   "article": {
+    "title": "Wildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle",
+    "url": "https://www.smithsonianmag.com/smart-news/wildlife-experts-stunned-to-find-that-bird-flu-killed-jackie-the-beloved-internet-famous-bald-eagle-180989703/",
+    "extract": "Jackie died in August after receiving weeks of intensive care at the Ojai Raptor Center in California. The necropsy results are surprising, given that Jackie's symptoms were unusual for bird flu and there is no ongoing outbreak among bald eagles"
+   },
+   "published": "Fri, 16 Oct 2026 18:23:17 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Madrid's Renewed and Expanded Sorolla Museum Lets the Paintings of the Spanish 'Master of Light' Re-emerge Into Public View",
+   "article": {
+    "title": "Madrid's Renewed and Expanded Sorolla Museum Lets the Paintings of the Spanish 'Master of Light' Re-emerge Into Public View",
+    "url": "https://www.smithsonianmag.com/smart-news/madrids-renewed-and-expanded-sorolla-museum-lets-the-paintings-of-the-spanish-master-of-light-reemerge-into-public-view-180989701/",
+    "extract": "Dedicated to the works of Joaquín Sorolla y Bastida, the museum is centered around his historic home and studio. The first phase of its yearslong renovation is complete, featuring expanded exhibition spaces"
+   },
+   "published": "Fri, 16 Oct 2026 18:01:39 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body",
+   "article": {
+    "title": "Microplastics Have Been Linked With Myriad Human Health Problems. Scientists May Have Finally Figured Out How They Harm the Body",
+    "url": "https://www.smithsonianmag.com/smart-news/microplastics-have-been-linked-with-myriad-human-health-problems-scientists-may-have-finally-figured-out-how-they-harm-the-body-180989694/",
+    "extract": "Lab experiments suggest that tiny bits of plastic can react with water inside us to produce highly reactive molecules. They can lead to damaging oxidative stress and inflammation"
+   },
+   "published": "Fri, 16 Oct 2026 17:03:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Small Dogs Tend to Live Longer Than Big Dogs. Scientists Say They Might Finally Know Why—and It Goes to the Molecular Level",
+   "article": {
+    "title": "Small Dogs Tend to Live Longer Than Big Dogs. Scientists Say They Might Finally Know Why—and It Goes to the Molecular Level",
+    "url": "https://www.smithsonianmag.com/smart-news/small-dogs-tend-to-live-longer-than-big-dogs-scientists-say-they-might-finally-know-why-and-it-goes-to-the-molecular-level-180989695/",
+    "extract": "Larger breeds like Great Danes seem to accumulate changes to chemical tags on their DNA more quickly than tinier breeds, such as chihuahuas. These alterations allow potentially harmful 'jumping genes' to move around their genomes"
+   },
+   "published": "Fri, 16 Oct 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Ancient Animal Looked Like a Platypus-Otter Hybrid. It's Providing Clues About the Origins of Mammalian Suckling and Swallowing",
+   "article": {
+    "title": "This Ancient Animal Looked Like a Platypus-Otter Hybrid. It's Providing Clues About the Origins of Mammalian Suckling and Swallowing",
+    "url": "https://www.smithsonianmag.com/smart-news/this-ancient-animal-looked-like-a-platapys-otter-hybrid-its-providing-clues-about-the-origins-of-mammalian-suckling-and-swallowing-180989666/",
+    "extract": "The roughly two- to four-pound predator lived alongside dinosaurs some 165 million years ago. A fossil found in northern China shows the strange creature had a surprisingly modern throat structure"
+   },
+   "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Monumental 18th-Century Portrait of a Young Polynesian Man—a 'Supreme Work of Art'—Visits the U.S. for the First Time",
+   "article": {
+    "title": "A Monumental 18th-Century Portrait of a Young Polynesian Man—a 'Supreme Work of Art'—Visits the U.S. for the First Time",
+    "url": "https://www.smithsonianmag.com/smart-news/a-monumental-18th-century-portrait-of-a-young-polynesian-man-a-supreme-work-of-art-visits-the-us-for-the-first-time-180989699/",
+    "extract": "The massive \"Portrait of Mai\" depicts the first Pacific Islander to visit Britain, a young man who became a quasi-celebrity in the 1770s after joining the expedition of explorer James Cook"
+   },
+   "published": "Fri, 16 Oct 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+   "article": {
+    "title": "It's Official: Timekeepers Have Gotten Rid of the Leap Second—and Introduced the Leap Hour Instead",
+    "url": "https://www.smithsonianmag.com/smart-news/its-official-timekeepers-have-gotten-rid-of-the-leap-second-and-introduced-the-leap-hour-instead-180989685/",
+    "extract": "Since 1972, experts have added 27 seconds to Coordinated Universal Time to keep it aligned with Earth's rotation, but it has been an imperfect fix"
+   },
+   "published": "Thu, 15 Oct 2026 20:43:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+   "article": {
+    "title": "On an Island Outside Paris, a Sprawling Contemporary Arts Center Aptly Called 'Large' Prepares to Open Its Doors",
+    "url": "https://www.smithsonianmag.com/smart-news/on-an-island-outside-paris-a-sprawling-contemporary-arts-center-aptly-called-large-prepares-to-open-its-doors-180989690/",
+    "extract": "The landmark institution’s first exhibition pays homage to a historic Renault automobile plant that once operated on the Île Seguin in the Seine River. \"The project called for a great deal of perseverance,\" one official says"
+   },
+   "published": "Thu, 15 Oct 2026 20:19:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+   "article": {
+    "title": "This Soldier Kept a Diary in the Trenches of World War I. A Child Found It at the Dump Decades Later, Pierced by a Bullet and Stained With Blood",
+    "url": "https://www.smithsonianmag.com/smart-news/this-soldier-kept-a-diary-in-the-trenches-of-world-war-i-a-child-found-it-at-the-dump-decades-later-pierced-by-a-bullet-and-stained-with-blood-180989696/",
+    "extract": "Corporal Claude Nuttall recorded his wartime experiences in the diary. Now, after decades of research, a museum curator is telling the soldier's story in a new book"
+   },
+   "published": "Thu, 15 Oct 2026 19:41:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+   "article": {
+    "title": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
+    "url": "https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/",
+    "extract": "The 18th-century painter was a key practitioner of \"capriccio\" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000"
+   },
+   "published": "Thu, 15 Oct 2026 18:03:46 +0000",
+   "image": null
+  }
+ ]
+}
