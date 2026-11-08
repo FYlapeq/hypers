@@ -430,7 +430,7 @@ async function main() {
         stan.bledy[x.sciezka] = (stan.bledy[x.sciezka] ?? 0) + 1;
         if (stan.bledy[x.sciezka] >= 3) stan.opublikowane[x.sciezka] = { pominiete: `3 nieudane próby: ${e.message.slice(0, 200)}` };
       }
-      process.exitCode = 1; // slot zostaje otwarty, zegar ponowi
+      process.exitCode = 1; // slot zostaje otwarty, ponowi następny przebieg z crona (do maks_opoznienie_min)
     }
     zapiszStan(stan);
     commitStanu(`Instagram: karuzela ${slot.klucz}`);

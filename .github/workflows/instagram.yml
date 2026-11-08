@@ -1,15 +1,15 @@
 # Posty na Instagramie: karuzela 5 newsów + slajd „zostaw follow”, o godzinach z instagram/harmonogram.json (czas Warszawy).
-# Tryb zegar (push wydania, cron, łańcuch): job czeka do pełnej godziny slotu i publikuje o czasie (instagram/zegar.sh).
-# Cron co 15 min to tylko zapas, gdy łańcuch się zerwie (harmonogram GitHuba bywa spóźniony o godziny).
+# Krótkie przebiegi z crona (2 na godzinę w oknie 8:00–23:00); każdy sprawdza, czy przypada slot, publikuje i kończy.
+# Bez czekających jobów i bez samouruchamiania się (to obciążało Actions i mogło być powodem blokady konta, 11.2026).
 # Post wychodzi tylko z oryginalną miniaturą filmu; news bez niej jest pomijany. Instrukcja: instagram/README.md
 name: Instagram
 on:
   workflow_dispatch:
     inputs:
       tryb:
-        description: "proba = podgląd kart dnia, sprawdz = test tokenu, publikuj = slot z harmonogramu (jeśli przypada) albo news z pola tylko, zegar = czekaj na sloty i publikuj o pełnej godzinie"
+        description: "proba = podgląd kart dnia, sprawdz = test tokenu, publikuj = slot z harmonogramu (jeśli przypada) albo news z pola tylko"
         type: choice
-        options: ["proba", "sprawdz", "publikuj", "zegar"]
+        options: ["proba", "sprawdz", "publikuj"]
         default: "proba"
       tylko:
         description: "Opcjonalnie: ścieżka jednego artykułu do opublikowania (np. artykuly/2026-10-15/slug.html), także już pominiętego"
@@ -19,17 +19,13 @@ on:
         description: "Dla trybu proba: dzień do podglądu (RRRR-MM-DD), puste = najnowsze wydanie"
         type: string
         required: false
-  push:
-    branches: [main]
-    paths: ['data/editions.js']      # nowe wydanie uruchamia zegar
   schedule:
-    - cron: '7,22,37,52 * * * *'     # zapas co 15 min (nie o pełnej godzinie, wtedy GitHub najbardziej się spóźnia)
+    - cron: '3,33 6-22 * * *'        # UTC = 8:00–23:00 w Warszawie (zima i lato); poza slotem kończy się po kilku sekundach
     - cron: '17 3 * * 1'             # poniedziałek: odświeżenie tokenu (ważny 60 dni)
 permissions:
   contents: write
-  actions: write   # zegar uruchamia swojego następcę
 concurrency:
-  # Zegar trzyma grupę „instagram” godzinami; próba i test tokenu nic nie publikują, więc mają własną grupę.
+  # Próba i test tokenu nic nie publikują, więc mają własną grupę.
   group: ${{ (github.event_name == 'workflow_dispatch' && (inputs.tryb == 'proba' || inputs.tryb == 'sprawdz')) && 'instagram-proba' || 'instagram' }}
   cancel-in-progress: false
 
@@ -52,10 +48,9 @@ jobs:
   posty:
     if: >-
       (github.event_name == 'schedule' && github.event.schedule != '17 3 * * 1') ||
-      github.event_name == 'push' ||
       (github.event_name == 'workflow_dispatch' && inputs.tryb != 'sprawdz')
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    timeout-minutes: 20
     env:
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -65,7 +60,6 @@ jobs:
       IG_TYLKO: ${{ github.event_name == 'workflow_dispatch' && inputs.tryb == 'publikuj' && inputs.tylko || '' }}
       IG_TRYB: slot
       DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.tryb == 'proba') && '1' || '0' }}
-      ZEGAR: ${{ (github.event_name != 'workflow_dispatch' || inputs.tryb == 'zegar') && '1' || '0' }}
       STAN_DIR: ${{ github.workspace }}/ig-stan
     steps:
       - name: Wyłącznik
@@ -97,11 +91,6 @@ jobs:
         if: steps.wl.outputs.dziala == '1'
         run: |
           if [ "$DRY_RUN" = "1" ] || [ -n "$IG_TYLKO" ] || [ ! -f "$STAN_DIR/opublikowane.json" ]; then echo "teraz=1" >> "$GITHUB_OUTPUT"; exit 0; fi
-          if [ "$ZEGAR" = "1" ]; then
-            N=$(node instagram/slot.mjs nastepny "$STAN_DIR/opublikowane.json")
-            if [ -n "$N" ]; then echo "Zegar: najbliższy slot $N (klucz, sekundy)"; echo "teraz=1" >> "$GITHUB_OUTPUT"; else echo "Zegar: na dziś nic nie zostało."; fi
-            exit 0
-          fi
           K=$(node instagram/slot.mjs "$STAN_DIR/opublikowane.json")
           if [ -n "$K" ]; then echo "Slot do zrobienia: $K"; echo "teraz=1" >> "$GITHUB_OUTPUT"; else echo "Brak slotu teraz."; fi
       - uses: actions/setup-node@v4
@@ -133,14 +122,8 @@ jobs:
           rm -rf .git
           echo "Podgląd kart z dnia $D: gałąź [instagram-podglad](https://github.com/${GITHUB_REPOSITORY}/tree/instagram-podglad)" >> "$GITHUB_STEP_SUMMARY"
       - name: Publikacja
-        if: steps.slot.outputs.teraz == '1' && env.DRY_RUN != '1' && env.ZEGAR != '1'
+        if: steps.slot.outputs.teraz == '1' && env.DRY_RUN != '1'
         run: node instagram/publikuj.mjs
-      - name: Zegar (czeka do pełnej godziny slotu i publikuje)
-        if: steps.slot.outputs.teraz == '1' && env.DRY_RUN != '1' && env.ZEGAR == '1'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        # kopia poza repo: zegar co slot odświeża main, a bash czyta skrypt w trakcie działania
-        run: cp instagram/zegar.sh "$RUNNER_TEMP/zegar.sh" && bash "$RUNNER_TEMP/zegar.sh"
 
   token:
     if: github.event_name == 'schedule' && github.event.schedule == '17 3 * * 1'

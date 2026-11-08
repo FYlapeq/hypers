@@ -4,9 +4,7 @@
 #   gh api -X POST repos/FYlapeq/hypers/actions/workflows/zbieracz-ciekawostek.yml/dispatches -f ref=main -f 'inputs[slot]=rano'
 name: Zbieracz ciekawostek
 on:
-  schedule:
-    - cron: '20 3 * * *'   # ok. 5:20 / 4:20 w Polsce (lato / zima)
-    - cron: '20 11 * * *'  # ok. 13:20 / 12:20 w Polsce
+  # Bez crona (od 11.2026): uruchamia go tylko sesja wydania, gdy potrzebuje danych.
   workflow_dispatch:
     inputs:
       slot:
