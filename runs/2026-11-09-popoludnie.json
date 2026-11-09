@@ -1,0 +1,2013 @@
+{
+ "run": {
+  "date": "2026-11-09",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-09T09:29:25.620Z",
+  "candidates": 96,
+  "with_free_image": 36,
+  "ready": 21
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 2",
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 5",
+  "wiki-en:Wikipedia:Recent additions": "ok 81",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4248",
+  "drugie-zrodlo": "ok 21/31"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że australijsko-chilijski Hong ma „siostrę” w Południowej Afryce?",
+   "article": {
+    "title": "Cathedrana natalensis",
+    "url": "https://pl.wikipedia.org/wiki/Cathedrana_natalensis",
+    "extract": "Cathedrana natalensis – gatunek chrząszcza z rodziny biedronkowatych i podrodziny Microweiseinae. Jedyny z monotypowego rodzaju Cathedrana. Endemit Afryki Południowej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co eleganckiego znaleźć można pod wilczomleczem?",
+   "article": {
+    "title": "Naghamia elegans",
+    "url": "https://pl.wikipedia.org/wiki/Naghamia_elegans",
+    "extract": "Naghamia elegans – gatunek chrząszcza z rodziny ryjkowcowatych i podrodziny Entiminae, jedyny z monotypowego rodzaju Naghamia; endemiczny dla Południowej Afryki."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego fani gry Undertale (obok logo) nękali niektórych youtuberów i streamerów grających w tę grę?",
+   "article": {
+    "title": "Undertale",
+    "url": "https://pl.wikipedia.org/wiki/Undertale",
+    "extract": "Undertale – komputerowa gra fabularna, wyprodukowana przez niezależnego twórcę Toby’ego Foxa. W grze gracz steruje dzieckiem, które wpadło do Podziemi: ogromnego, odosobnionego regionu pod powierzchnią Ziemi, oddzielonego magiczną barierą. Gracz spotyka potwory podczas podróży powrotnej na powierzchnię, z których niektóre mogą wszcząć walkę. System walki opiera się na omijaniu przez gracza ataków w stylu gatunku bullet hell ze strony przeciwnika."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która antologia inspirowana była alternatywną, fantastyczną wizją Europy Środkowej z początku XX wieku?",
+   "article": {
+    "title": "Inne światy (antologia)",
+    "url": "https://pl.wikipedia.org/wiki/Inne_%C5%9Bwiaty_(antologia)",
+    "extract": "Inne światy – antologia dziesięciu polskich opowiadań fantastycznych wydana w 2018 roku przez SQN. Utwory zostały zainspirowane pracami Jakuba Różalskiego.\nW 2023 roku nakładem SQN ukazała się kolejna antologia inspirowana pracami Różalskiego, Inne nieba.\nRecenzenci zwracali uwagę na nierówny poziom antologii oraz niepełne wykorzystanie jej koncepcji opartej na twórczości Różalskiego. Wśród najwyżej ocenianych utworów recenzenci często wymieniali Sforę Orbitowskiego i Imperium chmur Dukaja, natomiast szczególnie krytycznie przyjmowany był Korytarz pełnomorski Mroza."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że wieża artyleryjska Zamku Dartmouth była w chwili ukończenia uważana za najbardziej zaawansowaną budowlę obronną w Anglii?",
+   "article": {
+    "title": "Zamek Dartmouth",
+    "url": "https://pl.wikipedia.org/wiki/Zamek_Dartmouth",
+    "extract": "Zamek Dartmouth (ang. Dartmouth Castle) – twierdza artyleryjska położona na zachodnim brzegu ujścia rzeki Dart w pobliżu miasta Dartmouth w hrabstwie Devon w południowo-zachodniej Anglii. Powstawał w kilku etapach na przestrzeni ponad pięciu stuleci: od obronnego fortalice wzniesionego w 1388 roku, przez wieżę artyleryjską z lat ok. 1481–1493, aż po baterie nadbrzeżne z okresu wiktoriańskiego i II wojny światowej."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dartmouth_Castle_-_geograph.org.uk_-_725989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dartmouth_Castle_-_geograph.org.uk_-_725989.jpg",
+    "file": "File:Dartmouth Castle - geograph.org.uk - 725989.jpg",
+    "artist": "Joanne Davies",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 493,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.english-heritage.org.uk/visit/places/dartmouth-castle/history/"
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Märket: A lighthouse built on this island led to a redefinition of the border between Sweden and Finland.",
+   "article": {
+    "title": "Märket",
+    "url": "https://en.wikipedia.org/wiki/M%C3%A4rket",
+    "extract": "Märket ('The Mark', Swedish pronunciation: [ˈmæ̂rːkɛt]) is a 3.3-hectare (8.2-acre) uninhabited skerry in the Baltic Sea shared by Sweden and Finland (in the area of the autonomous region Åland), with a lighthouse as its salient humanmade feature. Märket has been divided between the two countries since the Treaty of Fredrikshamn of 1809 defined the border between Sweden and Grand Duchy of Finland as going through the middle of the island. The Finnish side of the island is part of the Municipality of Hammarland in the autonomous region of Åland and is the westernmost land point of Finland. The Swedish part of the island is itself divided between two counties of Sweden: Uppsala County (Östhammar Municipality) and Stockholm County (Norrtälje Municipality)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Märket Island map.svg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2 + 2 = 5: …or perhaps it equals 1984…",
+   "article": {
+    "title": "2 + 2 = 5",
+    "url": "https://en.wikipedia.org/wiki/2_%2B_2_%3D_5",
+    "extract": "2 + 2 = 5 or two plus two equals five is a mathematical falsehood which is used as an example of a simple logical error that is obvious to anyone familiar with basic arithmetic.\nThe phrase has been used in various contexts since 1728, but is best known from the 1949 dystopian novel Nineteen Eighty-Four by George Orwell.\nAs a theme and as a subject in the arts, the anti-intellectual slogan 2 + 2 = 5 pre-dates Orwell and has produced literature, such as Deux et deux font cinq (Two and Two Make Five), a collection of absurdist short stories written in 1895 by Alphonse Allais, and the 1920 imagist art manifesto 2 × 2 = 5 by the poet Vadim Shershenevich."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Allais - Deux et deux font cinq (2+2=5).djvu)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "British scientists (meme): According to Russian Internet users, the height of British scientific research is at the University of the Bleedin' Obvious.",
+   "article": {
+    "title": "British scientists (meme)",
+    "url": "https://en.wikipedia.org/wiki/British_scientists_(meme)",
+    "extract": "In modern Russian culture, \"British scientists\" (Russian: Британские учёные, Britanskiye uchyonyye) is a running joke used as an ironic reference to absurd news reports about scientific discoveries: \"British scientists managed to establish that...\" It has also become a Russian internet meme. A similar joke, \"British research\" (Chinese: 英国研究 yīngguó yánjiū), exists in Chinese-speaking countries."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Latter Day Church of Christ: Mormonism's answer to Rod of Iron Ministries (see above). As in, it's a fundamentalist Mormon group that manufactures firearms.",
+   "article": {
+    "title": "Latter Day Church of Christ",
+    "url": "https://en.wikipedia.org/wiki/Latter_Day_Church_of_Christ",
+    "extract": "The Latter Day Church of Christ (LDCC) or Davis County Cooperative Society (DCCS) is a Mormon fundamentalist denomination within the Latter Day Saint movement. The DCCS was established in 1935 by Elden Kingston, son of Charles W. Kingston, and in 1977 members of the DCCS organized the Latter Day Church of Christ. Media outlets often refer to the organization as the Kingston Group, and internally it is known as \"the Order\" or \"the Co-op\".\nThere are approximately 7,500 members (2019 estimate), some of whom are known to practice polygamy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Blue Peacock: A British project to lay nuclear mines in West Germany during the Cold War that were planned to be kept warm by live chickens.",
+   "article": {
+    "title": "Blue Peacock",
+    "url": "https://en.wikipedia.org/wiki/Blue_Peacock",
+    "extract": "Blue Peacock, renamed from Blue Bunny and originally Brown Bunny, was a British tactical nuclear weapon project in the 1950s.\nThe project's goal was to store a number of ten-kiloton nuclear land mines in Germany. These mines were intended to be placed on the North German Plain and detonated by wire or an eight-day timer in the event of Soviet invasion from the east."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "DPMM FC: A Bruneian football club that has played in the Malaysian Super League and Singapore Premier League, despite their home ground being over 1,000 kilometers away from either country.",
+   "article": {
+    "title": "DPMM FC",
+    "url": "https://en.wikipedia.org/wiki/DPMM_FC",
+    "extract": "Duli Pengiran Muda Mahkota Football Club (English: His Royal Highness the Crown Prince of Brunei Football Club; abbrev: DPMM or Brunei DPMM) is a professional football club based in Bandar Seri Begawan, Brunei Darussalam. The club plays in the Malaysia Super League, the top tier of Malaysian football, after previously entering the Singapore Premier League from 2009 to 2025. DPMM is owned by the Crown Prince of Brunei, Prince Al-Muhtadee Billah.\nThe club played in the Brunei Premier League in the early 2000s, winning the league title in 2002 and 2004."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fungie: Ireland's favourite dolphin.",
+   "article": {
+    "title": "Fungie",
+    "url": "https://en.wikipedia.org/wiki/Fungie",
+    "extract": "Fungie (), also known as the Dingle Dolphin, was a male common bottlenose dolphin. He became separated from other wild dolphins and lived in very close contact with the people of Dingle on the southwest coast of Ireland.\nWild bottlenose dolphins are estimated to have a median lifespan between 8.3 and 17.4 years, while one has been observed to live for at least 67 years. Fungie was first seen in Dingle harbour in 1983 and continued to seek out human contact over the following 37 years."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fungie_%281483877277%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fungie_(1483877277).jpg",
+    "file": "File:Fungie (1483877277).jpg",
+    "artist": "Duloup",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1024,
+    "height": 684,
+    "ok": true
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Riding a rail: Not being punished on a train – rather, you'd be paraded to the edge of town on a solitary fence rail and dumped on the roadside.",
+   "article": {
+    "title": "Riding a rail",
+    "url": "https://en.wikipedia.org/wiki/Riding_a_rail",
+    "extract": "Riding the rail (also called being \"run out of town on a rail\") was a punishment most prevalent in the United States in the 18th and 19th centuries in which an offender was made to straddle a fence rail held on the shoulders of two or more bearers.  The subject was then paraded around town or taken to the city limits and dumped by the roadside.\nBeing ridden on a rail was typically a form of extrajudicial punishment administered by a mob, sometimes in connection with tarring and feathering, intended to show community displeasure with the offender so the offender either conformed behavior to the mob's demands or left the community."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Huck_Finn_Travelling_by_Rail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Huck_Finn_Travelling_by_Rail.jpg",
+    "file": "File:Huck Finn Travelling by Rail.jpg",
+    "artist": "E. W. Kemble",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 531,
+    "height": 404,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://web.archive.org/web/20160909022839/https://sites.google.com/site/rockislandmemorialpowcampscv/photos-of-rock-island/PrisonImages_RebsonRail.jpg"
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Xianxingzhe: A Chinese robot, according to the Japanese, that will save its country from corporate capitalism with its crotch cannon.",
+   "article": {
+    "title": "Xianxingzhe",
+    "url": "https://en.wikipedia.org/wiki/Xianxingzhe",
+    "extract": "Xianxingzhe (Chinese: 先行者; pinyin: Xiānxíngzhě; lit. 'forerunner') is the first bipedal humanoid robot in China, created in 2000 by the National University of Defense Technology."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Memphis Pyramid: The tenth-largest pyramid in the world, located in Memphis, Tennessee, and home to a Bass Pro Shops megastore.",
+   "article": {
+    "title": "Memphis Pyramid",
+    "url": "https://en.wikipedia.org/wiki/Memphis_Pyramid",
+    "extract": "The Memphis Pyramid, formerly known as the Great American Pyramid and the Pyramid Arena, and colloquially known as the Bass Pro Shops Pyramid, is a pyramid-shaped building located in downtown Memphis, Tennessee, United States, at the bank of the Mississippi River. Built in 1991 as a 20,142-seat arena, the facility was owned and operated jointly by the city of Memphis and Shelby County until Shelby County sold its share to Memphis in April 2009. Its structure plays on the city's namesake in Egypt, which is known for its ancient pyramids. It is 321 feet (98 m) (about 32 stories) tall and has base sides of 591 feet (180 m); it is by some measures the tenth-tallest pyramid in the world."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Memphis Pyramid (Great American Pyramid) - Memphis, TN.jpg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lily Flagg: A Jersey cow that produced record amounts of butter and got a sizable neighborhood named for her.",
+   "article": {
+    "title": "Lily Flagg",
+    "url": "https://en.wikipedia.org/wiki/Lily_Flagg",
+    "extract": "Signal's Lily Flagg 31035 (1884–?), also spelled Flag, was a Jersey cow, the top butter producer in the world in 1892, owned by W. E. Matthews and General Samuel H. Moore of Huntsville, Alabama.  During her record-breaking year, she weighed 950 pounds (430 kg) and produced 1,047 pounds 3⁄4 ounce (474.93 kg) of butter.  Her parents were sire Georgian 6073 and dam Little Nan 15895.\nThe Sydney Mail reported extensively on Lily Flagg:\n\nSignal's Lily Flagg was bred in Kentucky, and while strictly thoroughbred and a registered cow, she does not belong to any of the fashionable families as the first part of her name would imply, as she is only one-twelfth Signal blood."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lily_Flagg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lily_Flagg.jpg",
+    "file": "File:Lily Flagg.jpg",
+    "artist": "Artist not credited",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 758,
+    "height": 506,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20160818153926/http://huntsville.about.com/library/blstroll.htm",
+    "title": "Huntsville History Comes Alive",
+    "matched": [
+     "flagg",
+     "produced",
+     "record",
+     "butter",
+     "neighborhood"
+    ]
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Naha Great Tug-of-War Festival: Requires thousands of participants and a 40-metric-ton, 1.5-metre diameter rope.",
+   "article": {
+    "title": "Naha Great Tug-of-War Festival",
+    "url": "https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival",
+    "extract": "The Naha Great Tug-of-War Festival (Japanese: 那覇大綱挽まつり, Hepburn: Naha Dai Tsunahiki Matsuri) is an annual event held in Naha, Okinawa Prefecture, Japan. Its roots may be traced back to the 15th century. Held on Route 58, it is a battle between the East and West teams."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Naha_Tsunahiki20081012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Naha_Tsunahiki20081012.JPG",
+    "file": "File:Naha Tsunahiki20081012.JPG",
+    "artist": "投稿者が撮影",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 322,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "dvidshub.net",
+    "url": "https://www.dvidshub.net/news/115324/service-members-okinawa-residents-pull-together",
+    "title": "DVIDS - News - Service members, Okinawa residents pull together",
+    "matched": [
+     "40",
+     "15",
+     "great",
+     "festival",
+     "thousands",
+     "participants"
+    ]
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dishwasher salmon: Salmon cooked using the heat from a dishwasher.",
+   "article": {
+    "title": "Dishwasher salmon",
+    "url": "https://en.wikipedia.org/wiki/Dishwasher_salmon",
+    "extract": "Dishwasher salmon is a fish dish made by a cooking technique where salmon is wrapped in aluminum foil and placed in a dishwasher for a full cycle. Dishwasher companies and Consumer Reports have identified potential issues, including inconsistent temperatures and the risk of food poisoning."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2008-08-05ExtremeCooking010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2008-08-05ExtremeCooking010.jpg",
+    "file": "File:2008-08-05ExtremeCooking010.jpg",
+    "artist": "Wildfeuer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1100,
+    "height": 825,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20080921212820/http://online.wsj.com/article/SB944178306659175983.html#articleTabs_panel_article=1",
+    "title": "A Jaded Cooks Turn To Other AppliancesFrom Toolbox to Kitchen Cabinet - WSJ.com",
+    "matched": [
+     "dishwasher",
+     "salmon",
+     "cooked",
+     "using"
+    ]
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of people who have been pied: A pie to the face, usually as the result of differing political views.",
+   "article": {
+    "title": "List of people who have been pied",
+    "url": "https://en.wikipedia.org/wiki/List_of_people_who_have_been_pied",
+    "extract": "This is a list of well-known people who have been pied without consent. Consensual pieing is excluded from this list."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/09-September_qwest_pie_throwing_0111_%283957684658%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:09-September_qwest_pie_throwing_0111_(3957684658).jpg",
+    "file": "File:09-September qwest pie throwing 0111 (3957684658).jpg",
+    "artist": "Seth Lemmons from Boise, Unites States",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1000,
+    "height": 472,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thelocal.se",
+    "url": "http://www.thelocal.se/20131106/sweden-democrat-leader-ambushed-in-cake-attack",
+    "title": "Sweden Democrat leader ambushed in cake attack",
+    "matched": [
+     "people",
+     "political",
+     "views"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Museum of Failure: A collection of sorts focusing on… well, failed things. Notably includes the Nokia N-Gage, Bic's woman-only pens, and Google Glass.",
+   "article": {
+    "title": "Museum of Failure",
+    "url": "https://en.wikipedia.org/wiki/Museum_of_Failure",
+    "extract": "The Museum of Failure is a museum that features a collection of failed products and services. The touring exhibition provides visitors with a learning experience about the critical role of failure in innovation. According to its founder, Samuel West, the goal of the museum is to help people recognize the \"need to accept failure if we want progress\", and to encourage companies to learn more from their failures without resorting to \"cliches\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/MuseumofFailure_Logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MuseumofFailure_Logo.jpg",
+    "file": "File:MuseumofFailure Logo.jpg",
+    "artist": "Museum of Failure",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 400,
+    "height": 400,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20170503233446/http://museumoffailure.se/",
+    "title": "",
+    "matched": [
+     "museum",
+     "failure",
+     "collection",
+     "failed",
+     "nokia",
+     "google"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Snail racing: Ready, steady, slow!",
+   "article": {
+    "title": "Snail racing",
+    "url": "https://en.wikipedia.org/wiki/Snail_racing",
+    "extract": "Snail racing is a form of humorous entertainment that involves the racing of two or more air-breathing land snails. Usually the garden snail (Cornu aspersum) is used. This species is native to Europe, but has been accidentally introduced to many countries all over the world.\nThere are numerous snail racing events in different places around the world, though the majority take place in the United Kingdom."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Melb_cup_07_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Melb_cup_07_041.jpg",
+    "file": "File:Melb cup 07 041.jpg",
+    "artist": "Simon Jardine",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Floyd Collins: A cave explorer from the early 20th century that got stuck in a cave in Kentucky. Despite a massive rescue effort, he ended up dying there, but that wasn't the end of his story.",
+   "article": {
+    "title": "Floyd Collins",
+    "url": "https://en.wikipedia.org/wiki/Floyd_Collins",
+    "extract": "William Floyd Collins (July 20, 1887 – c. February 13, 1925) was an American cave explorer who became trapped and died in what became Mammoth Cave National Park. The incident garnered major media attention during the efforts to rescue him.\nDuring the early 20th century, in an era known as the Kentucky Cave Wars, spelunkers and property owners entered into bitter competition to utilize the bounty of caves for commercial profit from tourists, who paid to see the caves."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Floyd_Collins_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Floyd_Collins_portrait.jpg",
+    "file": "File:Floyd Collins portrait.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 374,
+    "height": 498,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20171228232653/https://www.newspapers.com/clip/16058689/collins_second_cave_in/",
+    "title": "Collins second cave in - Newspapers.com",
+    "matched": [
+     "20",
+     "floyd",
+     "collins",
+     "explorer",
+     "kentucky",
+     "rescue",
+     "ended"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kilroy was here: A meme from World War II.",
+   "article": {
+    "title": "Kilroy was here",
+    "url": "https://en.wikipedia.org/wiki/Kilroy_was_here",
+    "extract": "Kilroy was here and Mr Chad are graffiti doodles that became popular with servicemen during World War II.   \nThe simple doodle of a man peeking up from behind a wall—with his nose prominently hanging over it—was accompanied by the phrase \"Kilroy was here\" in the United States armed forces. In British military culture, Mr Chad would be seen with text in the form of \"Wot, no petrol?\", bemoaning the absence of some item or commodity, often due to rationing.  \nThe origin of each is uncertain, but both phrases have been documented prior to their combination with the character doodle. Mr Chad's catchphrase is first documented in an American jewellery advertisement in 1932 as \"Wot?--No Pictures?\", suggesting the phrase may have been well-known by that time."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kilroy_Was_Here_-_Washington_DC_WWII_Memorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kilroy_Was_Here_-_Washington_DC_WWII_Memorial.jpg",
+    "file": "File:Kilroy Was Here - Washington DC WWII Memorial.jpg",
+    "artist": "Luis Rubio from Alexandria, VA, USA",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1200,
+    "height": 800,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wicked Bible: A 1631 reprint of the King James Bible, which rendered commandment number 7 as \"Thou shalt commit adultery\".",
+   "article": {
+    "title": "Wicked Bible",
+    "url": "https://en.wikipedia.org/wiki/Wicked_Bible",
+    "extract": "The Wicked Bible, sometimes called the Adulterous Bible or the Sinners' Bible, is an edition of the Bible meant to be a reprint of the King James Bible, published in 1631 by London royal printers Robert Barker and Martin Lucas. The name is derived from a mistake made by the compositors: in the Ten Commandments in Exodus 20:14, the word \"not\" was omitted from the sentence \"Thou shalt not commit adultery\". It is the most prominent example of Bible errata, which are often absent negatives that completely reverse the scriptural meaning."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wicked_Bible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wicked_Bible.jpg",
+    "file": "File:Wicked Bible.jpg",
+    "artist": "Narrington77",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1080,
+    "height": 1080,
+    "ok": true
+   },
+   "second_source": {
+    "name": "sltrib.com",
+    "url": "https://www.sltrib.com/religion/global/2017/11/17/new-museums-wicked-bible-thou-shalt-commit-adultery/",
+    "title": "New museum’s ‘Wicked Bible’: Thou Shalt Commit Adultery",
+    "matched": [
+     "1631",
+     "wicked",
+     "bible",
+     "james",
+     "commandment",
+     "shalt",
+     "commit",
+     "adultery"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2013 Emergency Alert System hijackings: Civil authorities in your area have reported that the bodies of the dead are rising from their graves and attacking the living.",
+   "article": {
+    "title": "2013 Emergency Alert System hijackings",
+    "url": "https://en.wikipedia.org/wiki/2013_Emergency_Alert_System_hijackings",
+    "extract": "On February 11, 2013, the Emergency Alert System (EAS) of five different television stations across the U.S. states of Montana, Michigan, Wisconsin, and New Mexico were hijacked, interrupting each television broadcast with a local area emergency message warning viewers of \"bodies of the dead\" whom are \"attacking the living\". The message was subsequently declared as a hoax by local authorities and was reported to be a result of hackers gaining access to the Emergency Alert System equipment of various television stations.\nThe first incident took place in Great Falls, Montana, during an afternoon airing of The Steve Wilkos Show on CBS affiliate television station KRTV. The television signal was abruptly interrupted by an audible local area emergency alert reading \"Civil authorities in your area have reported that the bodies of the dead are rising from their graves and attacking the living\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Great_falls_montana_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Great_falls_montana_night.jpg",
+    "file": "File:Great falls montana night.jpg",
+    "artist": "Tim1965",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 855,
+    "height": 581,
+    "ok": true
+   },
+   "second_source": {
+    "name": "arstechnica.com",
+    "url": "https://arstechnica.com/information-technology/2013/02/bogus-zombie-apocolypse-warnings-undermine-us-emergency-alert-system/",
+    "title": "Bogus zombie apocalypse warnings undermine US emergency alert system - Ars Technica",
+    "matched": [
+     "2013",
+     "emergency",
+     "alert",
+     "system",
+     "civil",
+     "authorities",
+     "reported",
+     "bodies",
+     "rising",
+     "attacking",
+     "living"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gary Wilson (musician): An experimental musician who sings about stalking girls and plays with duct tape, fake blood, powder, and mannequins when on stage.",
+   "article": {
+    "title": "Gary Wilson (musician)",
+    "url": "https://en.wikipedia.org/wiki/Gary_Wilson_(musician)",
+    "extract": "Gary Wilson (born October 23, 1953) is an American experimental musician and performance artist most notable for his 1977 album You Think You Really Know Me."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Gary_Wilson_%28Far_right%2C_playing_bass%29_in_his_hometown_Endicott%2C_NY_in_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gary_Wilson_(Far_right,_playing_bass)_in_his_hometown_Endicott,_NY_in_1971.jpg",
+    "file": "File:Gary Wilson (Far right, playing bass) in his hometown Endicott, NY in 1971.jpg",
+    "artist": "Bill Sloma",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 959,
+    "height": 959,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20071205222712/http://www.thehighhat.com/Pop&Clicks/002/gary_wilson.html",
+    "title": "THE HIGH HAT | POPS & CLICKS: Gary Wilson",
+    "matched": [
+     "wilson",
+     "experimental",
+     "musician",
+     "sings",
+     "girls",
+     "plays",
+     "mannequins"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Anting (behavior): Not recommended for humans.",
+   "article": {
+    "title": "Anting (behavior)",
+    "url": "https://en.wikipedia.org/wiki/Anting_(behavior)",
+    "extract": "Anting is a maintenance behavior during which birds rub insects, usually ants, on their feathers and skin. A bird may hold a single ant in its beak to rub over the body, or lie in an area of high insect density and wallow as when dust bathing.  Ants secrete chemicals like formic acid to aid in their defense against bacteria and parasites. It has been hypothesized that formic acid may help birds avoid similar ailments by acting as a deterrent."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Black_Drongo_I2_IMG_5683.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Black_Drongo_I2_IMG_5683.jpg",
+    "file": "File:Black Drongo I2 IMG 5683.jpg",
+    "artist": "J.M.Garg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 800,
+    "height": 517,
+    "ok": true
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Epomis: A deceptive beetle larva that entices its own predators by feigning prey-like movements in order to eat its predator.",
+   "article": {
+    "title": "Epomis",
+    "url": "https://en.wikipedia.org/wiki/Epomis",
+    "extract": "Epomis is a subgenus of ground beetle genus Chlaenius. The larvae of this subgenus are notable for being obligate role-reversal predators. Amphibians such as frogs are normally predators of beetles; however, Epomis larvae feed exclusively on amphibians."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Epomis_dejeani.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Epomis_dejeani.JPG",
+    "file": "File:Epomis dejeani.JPG",
+    "artist": "Gil Wizen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 645,
+    "height": 492,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177849",
+    "title": "An Unprecedented Role Reversal: Ground Beetle Larvae (Coleoptera: Carabidae) Lure Amphibians and Prey upon Them - PMC",
+    "matched": [
+     "epomis",
+     "deceptive",
+     "beetle",
+     "larva",
+     "entices",
+     "predators",
+     "movements",
+     "order",
+     "predator"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Borscht Belt: For those who love borscht and find the Bible Belt and Rust Belt too boring.",
+   "article": {
+    "title": "Borscht Belt",
+    "url": "https://en.wikipedia.org/wiki/Borscht_Belt",
+    "extract": "The Borscht Belt, or Yiddish Alps, is a region of the U.S. state of New York that had summer resorts catering to American Jewish vacationers, especially residents of New York City. The resorts, most later defunct, were located in the southern foothills of the Catskill Mountains in parts of Sullivan and Ulster counties, bordering the northern edges of the New York metropolitan area.\nA 2019 review of the history is more specific: \"in its heyday, as many as 500 resorts catered to guests of various incomes.\" These resorts, as well as the Borscht Belt bungalow colonies, were a popular vacation spot for New York City Jews from the 1920s through the 1960s. By the late 1950s, many began closing, with most gone by the 1970s, but some major resorts continued to operate, a few into the 2010s."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Map_of_New_York_highlighting_Borscht_Belt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Map_of_New_York_highlighting_Borscht_Belt.png",
+    "file": "File:Map of New York highlighting Borscht Belt.png",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 232,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.smithsonianmag.com/travel/pop-up-exhibition-on-the-catskills-borscht-belt-to-evolve-into-permanent-museum-180982906/"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Schwerbelastungskörper: A piece of Nazi architecture in Berlin, built with the sole purpose of being heavy.",
+   "article": {
+    "title": "Schwerbelastungskörper",
+    "url": "https://en.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper",
+    "extract": "The Schwerbelastungskörper (German: \"heavy load-exerting body\") is a large concrete cylinder located at the intersection of Dudenstraße, General-Pape-Straße, and Loewenhardtdamm in the northwestern part of the borough of Tempelhof in Berlin, Germany. It was built by Adolf Hitler's chief architect Albert Speer to determine the feasibility of constructing large buildings on the area's marshy, sandy ground. Erected between 1941 and 1942 it was meant to test the ground for a massive triumphal arch on a nearby plot. The arch, in the style of the Nazi architectural movement, was to be more than twice as tall as the Arc de Triomphe in Paris, France."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Berlin_belastungskoerper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Berlin_belastungskoerper.jpg",
+    "file": "File:Berlin belastungskoerper.jpg",
+    "artist": "Dieter Brügmann",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1136,
+    "height": 852,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.com",
+    "url": "https://www.bbc.com/culture/article/20141106-fantastical-buildings-never-built",
+    "title": "Fantastical buildings that were never built",
+    "matched": [
+     "piece",
+     "architecture",
+     "berlin",
+     "built"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Flemish Secession hoax: Our regular programming is now interrupted to declare independence from Belgium.",
+   "article": {
+    "title": "Flemish Secession hoax",
+    "url": "https://en.wikipedia.org/wiki/Flemish_Secession_hoax",
+    "extract": "Tout ça (ne nous rendra pas la Belgique) or Bye Bye Belgium, also called \"The Flemish Secession Hoax,\" was a hoax perpetrated by the French-language Belgian public TV station RTBF on Wednesday, December 13, 2006.  Regular programming on the channel La Une was interrupted for a news bulletin claiming that the Flemish parliament had issued a unilateral declaration of independence from the Kingdom of Belgium, mimicking the Belgian secession from the Netherlands some 175 years earlier.\nInterviews with prominent Belgian politicians (some of whom had been informed about the hoax) as well as staged footage of the evacuation of the royal family as well as cheering crowds holding the Flag of Flanders were included so as to add credence to the news report. \nThe broadcast of the report led to widespread alarm and consternation in French-speaking Belgium."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Geoffroy_Coomans_de_Brach%C3%A8ne_contribuables.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Geoffroy_Coomans_de_Brach%C3%A8ne_contribuables.jpg",
+    "file": "File:Geoffroy Coomans de Brachène contribuables.jpg",
+    "artist": "Fpellissier",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 600,
+    "height": 399,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/1/hi/world/europe/6178671.stm",
+    "title": "BBC NEWS | World | Europe | Viewers fooled by 'Belgium split'",
+    "matched": [
+     "flemish",
+     "regular",
+     "programming",
+     "interrupted",
+     "declare",
+     "independence",
+     "belgium"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shavarsh Karapetyan: Saved twenty people in a trolleybus crash, sustained career-ending injuries because of it, but still managed to set a new world record in finswimming afterward.",
+   "article": {
+    "title": "Shavarsh Karapetyan",
+    "url": "https://en.wikipedia.org/wiki/Shavarsh_Karapetyan",
+    "extract": "Shavarsh Vladimiri (Vladimirovich) Karapetyan (Armenian: Շավարշ Կարապետյան; born 19 May 1953) is a Soviet-Armenian former finswimmer. He was best known for saving the lives of 20 people in a 1976 incident in Yerevan."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Shavarsh_Karapetyan_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shavarsh_Karapetyan_2014.jpg",
+    "file": "File:Shavarsh Karapetyan 2014.jpg",
+    "artist": "Канал Люди",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 586,
+    "height": 749,
+    "ok": true
+   },
+   "second_source": {
+    "name": "auroraprize.com",
+    "url": "https://auroraprize.com/en/twenty-five-seconds-life",
+    "title": "Twenty-Five Seconds Per Life",
+    "matched": [
+     "shavarsh",
+     "karapetyan",
+     "saved",
+     "twenty",
+     "people",
+     "trolleybus",
+     "crash",
+     "career"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Punjabi Mexican Americans: Two groups discriminated against in 1910s California intermarried, creating a unique, dynamic community and a delectable new fusion cuisine.",
+   "article": {
+    "title": "Punjabi Mexican Americans",
+    "url": "https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans",
+    "extract": "Punjabi Mexican Americans or Punjabi Chicanos, originally Punjabi Mexicans, are a distinctive ethnicity holding its roots in a migration pattern that occurred since the British Raj. The first conglomeration of these cultures occurred in the Imperial and Central Valleys in 1907, near the largest irrigation system in the Western Hemisphere. The majority of them localized to Yuba City, California."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/SinghYubaCity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SinghYubaCity.jpg",
+    "file": "File:SinghYubaCity.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 614,
+    "height": 412,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070609180326/http://www.sikhpioneers.org/cpma.html",
+    "title": "California's Punjabi Mexican Americans",
+    "matched": [
+     "1910",
+     "punjabi",
+     "mexican",
+     "americans",
+     "groups",
+     "discriminated",
+     "against",
+     "1910s",
+     "california",
+     "creating"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Curry Shop Shimizu: A famous restaurant known for its \"poo-flavored curry\", also founded by a former porn star.",
+   "article": {
+    "title": "Curry Shop Shimizu",
+    "url": "https://en.wikipedia.org/wiki/Curry_Shop_Shimizu",
+    "extract": "Curry Shop Shimizu (Japanese: カレーショップ志み津, Hepburn: Karēshoppu shimizu) was a restaurant in Tokyo. Owned by Japanese pornographic actor Ken Shimizu, it was infamous for serving feces-flavored curry."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Joypark_Chitose-funabashi_20210811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Joypark_Chitose-funabashi_20210811.jpg",
+    "file": "File:Joypark Chitose-funabashi 20210811.jpg",
+    "artist": "逃亡者",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 936,
+    "height": 640,
+    "ok": true
+   },
+   "second_source": {
+    "name": "philstar.com",
+    "url": "https://www.philstar.com/pang-masa/para-malibang/2016/08/19/1615025/tae-pinagkakitaan-sa-isang-resto-sa-japan",
+    "title": "‘Tae’ pinagkakitaan sa isang resto sa Japan! | Pang-Masa",
+    "matched": [
+     "curry",
+     "shimizu",
+     "restaurant",
+     "flavored"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nongqawuse: During (and likely because of) colonization, a Xhosa teenager became an apocalyptic prophetess, ordering the Xhosa to destroy their own crops and livestock—which they did.",
+   "article": {
+    "title": "Nongqawuse",
+    "url": "https://en.wikipedia.org/wiki/Nongqawuse",
+    "extract": "Nongqawuse (Xhosa pronunciation: [noᵑǃʱawuːse]; c. 1841 – 1898) was a Xhosa prophetess.  Her prophecies resulted in a millenarian belief that culminated in the Xhosa cattle-killing and famine of 1856–1857, in what is now Eastern Cape, South Africa."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nongqawuse_and_Nonkosi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nongqawuse_and_Nonkosi.jpg",
+    "file": "File:Nongqawuse and Nonkosi.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 434,
+    "height": 721,
+    "ok": true
+   },
+   "second_source": {
+    "name": "sahistory.org.za",
+    "url": "https://www.sahistory.org.za/people/nongqawuse",
+    "title": "Nongqawuse | South African History Online",
+    "matched": [
+     "nongqawuse",
+     "colonization",
+     "xhosa",
+     "became",
+     "prophetess",
+     "destroy",
+     "crops"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Lake (Western Australia): A lake that is naturally pink, but suddenly turned blue in 2010.",
+   "article": {
+    "title": "Pink Lake (Western Australia)",
+    "url": "https://en.wikipedia.org/wiki/Pink_Lake_(Western_Australia)",
+    "extract": "Pink Lake (previously known as Lake Spencer) is a salt lake in the Goldfields–Esperance region of Western Australia.  Although historically the water in the lake was visibly pink, as of 2017, it had not been pink for over 10 years. Salt concentration is vital to Pink Lake's pink hue, and Pink Lake may turn pink again as conditions change. It lies about 3 kilometres (2 mi) west of Esperance and is bounded to the east by the South Coast Highway."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pink_Lake_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pink_Lake_Sunset.jpg",
+    "file": "File:Pink Lake Sunset.jpg",
+    "artist": "Halok",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 640,
+    "height": 483,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.abc.net.au/news/2017-11-18/famous-esperance-pink-lake-fades-leaving-tourists-confused/9161964"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Writing in space: How do you write in space?",
+   "article": {
+    "title": "Writing in space",
+    "url": "https://en.wikipedia.org/wiki/Writing_in_space",
+    "extract": "Several instruments have been used to write in outer space, including different types of pencils and pens. Some of them have been unmodified versions of conventional writing instruments; others have been invented specifically to counter the problems with writing in space conditions.\nA common misconception states that, faced with the fact that ball-point pens would not write in zero-gravity, the Fisher Space Pen was devised as the result of millions of dollars of unnecessary spending on NASA's part when the Soviet Union took the simpler and cheaper route of just using pencils, making the pen an example of overengineering.\nIn reality, the space pen was independently developed by Paul C. Fisher, founder of the Fisher Pen Company, with $1 million of his own funds."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Apollo_11_map_notations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Apollo_11_map_notations.jpg",
+    "file": "File:Apollo 11 map notations.jpg",
+    "artist": "derivative work: Wronkiew (talk) LAM2_CMP-flown.jpg: NASA, Michael Collins",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 484,
+    "height": 635,
+    "ok": true
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Trimethylaminuria: Do you smell something fishy? It may be you!",
+   "article": {
+    "title": "Trimethylaminuria",
+    "url": "https://en.wikipedia.org/wiki/Trimethylaminuria",
+    "extract": "Trimethylaminuria (TMAU), also known as fish odor syndrome or fish malodor syndrome, is a rare metabolic disorder that causes a defect in the normal production of an enzyme named flavin-containing monooxygenase 3 (FMO3). When FMO3 is not working correctly or if not enough enzyme is produced, the body loses the ability to properly convert the rotting fish-smelling chemical trimethylamine (TMA) from precursor compounds in food digestion into trimethylamine oxide (TMAO), through a process called N-oxidation.\nTrimethylamine can temporarily build up in the bloodstream and is released in the person's urine, sweat, and breath, giving off a rotten fish odor. Primary trimethylaminuria is caused by genetic mutations that affect the FMO3 function of the liver."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Trimethylamine_chemical_structure.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Trimethylamine_chemical_structure.png",
+    "file": "File:Trimethylamine chemical structure.png",
+    "artist": "User Cacycle on en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 144,
+    "height": 121,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.nature.com/articles/ng1297-491"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moebius syndrome: A disease, most envied by poker players, that makes facial expressions impossible.",
+   "article": {
+    "title": "Moebius syndrome",
+    "url": "https://en.wikipedia.org/wiki/Moebius_syndrome",
+    "extract": "Möbius syndrome or Moebius syndrome is a rare congenital neurological disorder which is characterized by facial paralysis and the inability to move the eyes from side to side. Most people with Möbius syndrome are born with complete facial paralysis and cannot close their eyes or form facial expressions. Limb and chest wall abnormalities sometimes occur with the syndrome. People with Möbius syndrome have normal intelligence, although their lack of facial expression is sometimes incorrectly taken to be due to dullness or unfriendliness."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Infant_with_M%C3%B6bius_syndrome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Infant_with_M%C3%B6bius_syndrome.jpg",
+    "file": "File:Infant with Möbius syndrome.jpg",
+    "artist": "see above",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1200,
+    "height": 900,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://moebiussyndrome.org/who-we-are/mission-and-history/"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Therac-25: Top tip for anyone developing a new revolutionary radiotherapy machine: double check the code.",
+   "article": {
+    "title": "Therac-25",
+    "url": "https://en.wikipedia.org/wiki/Therac-25",
+    "extract": "The Therac-25 was a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 (neptune) and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France).\nThe Therac-25 was involved in at least six incident overdoses of radiation between 1985 and 1987, leading to patient death in what was described as \"the worst series of radiation accidents in the 35-year history of medical accelerators\".  Because of concurrent programming errors (also known as race conditions), it sometimes gave its patients radiation doses that were up to 250 times higher than normal, resulting in death or serious injury. These accidents highlighted the dangers of software control of safety-critical systems."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Therac_25.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Therac_25.png",
+    "file": "File:Therac 25.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 850,
+    "height": 1138,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://openlibrary.org/books/OL25355635M"
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Goose pulling: Hang a live goose from a rope, gallop under it on a horse and pull its head off. What could be simpler?",
+   "article": {
+    "title": "Goose pulling",
+    "url": "https://en.wikipedia.org/wiki/Goose_pulling",
+    "extract": "Goose pulling (also called gander pulling, goose riding, pulling the goose or goose neck tearing) was a blood sport practiced in parts of the Netherlands, Belgium, England, and North America from the 17th to the 19th centuries. It originated in the 12th century in Spain and was spread around Europe by the Spanish Third. The sport involved fastening a live goose with a well-greased head to a rope or pole that was stretched across a road. A man riding on horseback at a full gallop would attempt to grab the bird by the neck in order to pull the head off."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Remington_-_A_Gander-Pull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Remington_-_A_Gander-Pull.jpg",
+    "file": "File:Remington - A Gander-Pull.jpg",
+    "artist": "Frederic Remington",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 780,
+    "height": 488,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.hartvannederland.nl/nieuws/2019/geen-koppen-meer-van-echte-ganzen-afgetrokken-in-grevenbicht/"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Embryo space colonization: A proposal for colonizing space using embryos raised by robots.",
+   "article": {
+    "title": "Embryo space colonization",
+    "url": "https://en.wikipedia.org/wiki/Embryo_space_colonization",
+    "extract": "Embryo space colonization is a theoretical interstellar space colonization concept that involves sending a robotic mission to a habitable exoplanet or other viable target for terraforming transporting frozen early-stage human embryos or the technological or biological means to create human embryos. The proposal circumvents the cost and scale demands of other interstellar colonization concepts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Embryo%2C_8_cells.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg",
+    "file": "File:Embryo, 8 cells.jpg",
+    "artist": "ekem, Courtesy: RWJMS IVF Program",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20061114040746/http://www.strangehorizons.com/2004/20040621/travel.shtml",
+    "title": "Articles: Cruising the Infinite: Strategies for Human Interstellar Travel, by Paul Lucas",
+    "matched": [
+     "space",
+     "colonization",
+     "proposal",
+     "colonizing",
+     "using",
+     "robots"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Siachen Glacier: The world's highest battlefield, with very predictable terrain.",
+   "article": {
+    "title": "Siachen Glacier",
+    "url": "https://en.wikipedia.org/wiki/Siachen_Glacier",
+    "extract": "The Siachen Glacier is a glacier located in the eastern Karakoram range of the Himalayas, in Indian-administered Ladakh. It is situated just northeast of the terminal point NJ9842 of the Line of Control between India and Pakistan, and to the south of the Line of Actual Control between India and China, in the disputed Kashmir region. At 76 km (47 mi) long, it is the longest glacier in the Karakoram and second-longest in the world's non-polar areas. It falls from an altitude of 5,753 m (18,875 ft) above sea level at its head at Indira Col on the India–China border down to 3,620 m (11,875 ft) at its terminus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Siachen_Glacier_Satellite_Image%2C_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Siachen_Glacier_Satellite_Image,_1.jpg",
+    "file": "File:Siachen Glacier Satellite Image, 1.jpg",
+    "artist": "Ravi Baghel, Marcus Nüsser",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 713,
+    "height": 660,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20090114104526/http://www.time.com/time/magazine/article/0,9171,958254-2,00.html",
+    "title": "The Himalayas War at the Top Of the World - TIME",
+    "matched": [
+     "siachen",
+     "glacier",
+     "world",
+     "battlefield",
+     "terrain"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tokyo Sexwale: Despite not being Japanese or a sperm whale, he has control over the global diamond industry.",
+   "article": {
+    "title": "Tokyo Sexwale",
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Sexwale",
+    "extract": "Mosima Gabriel \"Tokyo\" Sexwale (pronounced  seh-KHWAH-lay, Venda: [sexwále]; born 5 March 1953) is a South African businessman, politician, anti-apartheid activist, and former political prisoner. For many years, Sexwale was imprisoned on Robben Island for his anti-apartheid activities, alongside figures such as Nelson Mandela. After the 1994 general election—the first fully democratic election in South Africa—Sexwale became the Premier of Gauteng Province."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tokyo_Sexwale-wef-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tokyo_Sexwale-wef-crop.jpg",
+    "file": "File:Tokyo Sexwale-wef-crop.jpg",
+    "artist": "Tokyo_Sexwale_and_Li_Ruogu,_World_Economic_Forum_on_Africa_2007.jpg: Copyright by World Economic Forum (www.weforum.org)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 456,
+    "height": 534,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20160315040341/http://www.cbsnews.com/news/comrade-capitalist/"
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yungas Road: An incredibly deadly mountainside road in Bolivia, only 3 meters wide in places and with no guardrails.",
+   "article": {
+    "title": "Yungas Road",
+    "url": "https://en.wikipedia.org/wiki/Yungas_Road",
+    "extract": "The Yungas Road (Spanish: Camino a los Yungas), commonly referred to as Death Road (Spanish: Camino de la Muerte), is a 64-kilometer (40 mi) long cycle and vehicle route linking La Paz, Bolivia, with the Yungas region. It was built in the 1930s by the Bolivian government. Large amounts of its construction were done by Paraguayan prisoners during the Chaco War. Several sections of the road are less than 3 meters (9.8 ft) wide."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Camino_a_los_Yungas_%28detall%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Camino_a_los_Yungas_(detall).png",
+    "file": "File:Camino a los Yungas (detall).png",
+    "artist": "OpenStreetMap contributors",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 831,
+    "height": 754,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/6136268.stm",
+    "title": "BBC NEWS | Programmes | From Our Own Correspondent | The world's most dangerous road",
+    "matched": [
+     "yungas",
+     "incredibly",
+     "mountainside",
+     "bolivia",
+     "places"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cynocephaly: A kind of human-wolf hybrid where only the head is dog-like.",
+   "article": {
+    "title": "Cynocephaly",
+    "url": "https://en.wikipedia.org/wiki/Cynocephaly",
+    "extract": "The characteristic of cynocephaly, or cynocephalus (), having the head of a canid, typically that of a dog or jackal, is a widely attested mythical phenomenon existing in many different forms and contexts. The literal meaning of cynocephaly is \"dog-headedness\", though it is implied that this refers to a human body with a canine head. Such cynocephalics are known in mythology and legend from many parts of the world, including ancient Egypt, Libya, Greece, India and China. Further mentions come from the medieval East and Europe."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Schedel%27sche_Weltchronik-Dog_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Schedel%27sche_Weltchronik-Dog_head.jpg",
+    "file": "File:Schedel'sche Weltchronik-Dog head.jpg",
+    "artist": "Hartmann Schedel (1440-1514),",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 843,
+    "height": 756,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=6:chapter=35"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Human: An article that reads as if non-humans wrote it.",
+   "article": {
+    "title": "Human",
+    "url": "https://en.wikipedia.org/wiki/Human",
+    "extract": "Humans (Homo sapiens, meaning 'thinking man' or 'wise man') are the most abundant and widespread species of primates, characterized by bipedalism, minimal body hair, and large, complex brains enabling the development of advanced technology, culture, and language. Humans are highly social beings and tend to live in complex social structures composed of many cooperating and competing groups, from families and kinship networks to political states. Social interactions between humans have established a wide variety of values, social norms, and rituals, which bolster human society. Curiosity and the human desire to understand and influence the environment have motivated humanity's development of art, science, philosophy, religion, mythology, and other fields of knowledge."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Akha_cropped_hires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
+    "file": "File:Akha cropped hires.JPG",
+    "artist": "Weltenbummler84",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "width": 331,
+    "height": 554,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009795",
+    "title": "Consciousness of subjective time in the brain - PMC",
+    "matched": [
+     "human",
+     "article",
+     "humans",
+     "wrote"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Crocker Land Expedition: An expedition to a non-existent island created to swindle a businessman.",
+   "article": {
+    "title": "Crocker Land Expedition",
+    "url": "https://en.wikipedia.org/wiki/Crocker_Land_Expedition",
+    "extract": "The Crocker Land Expedition took place in 1913. Its purpose was to investigate the existence of Crocker Land, a huge island supposedly sighted by the explorer Robert Peary from the top of Cape Colgate in 1906. It is now believed that Peary fraudulently invented the island."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crocker_Land_Expedition_Members.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Crocker_Land_Expedition_Members.jpg",
+    "file": "File:Crocker Land Expedition Members.jpg",
+    "artist": "Not stated",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 564,
+    "height": 844,
+    "ok": true
+   },
+   "second_source": {
+    "name": "dioi.org",
+    "url": "http://www.dioi.org/cot.htm#crck",
+    "title": "Dennis Rawlins: Contributions",
+    "matched": [
+     "crocker",
+     "expedition",
+     "existent",
+     "island",
+     "created",
+     "swindle",
+     "businessman"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Fuente de los Niños Miones in Guadalajara, Mexico",
+   "article": {
+    "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+    "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+    "extract": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982. It sits on Morelo"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+   "article": {
+    "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+    "url": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
+    "extract": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death. More than 30 Portuguese inmates "
+   },
+   "published": "Fri, 06 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+   "article": {
+    "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+    "url": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
+    "extract": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years."
+   },
+   "published": "Fri, 06 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Statue of Lord Laddu Gopal in Agra, India",
+   "article": {
+    "title": "Statue of Lord Laddu Gopal in Agra, India",
+    "url": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
+    "extract": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded iron and steel, turning scrap metal into a striking piece of public art. It features a striking peacock feather that towers over the Ambedk"
+   },
+   "published": "Fri, 06 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
+   "article": {
+    "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
+    "extract": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the 19th century. Born in 1825 on the Isle of Berneray in Scotland's Outer Hebrides, MacAskill immigrated to Nova Scotia with his family as a c"
+   },
+   "published": "Thu, 05 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
+   "article": {
+    "title": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
+    "extract": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site. The Mi’kmaq have lived, hunted, and fished in the Kejimkujik area since time immemorial. Their enduring presence is documented through oral histories and numerous archaeological sites, including ancient campsites, fish weirs,"
+   },
+   "published": "Thu, 05 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tà Má Stream in Vietnam",
+   "article": {
+    "title": "Tà Má Stream in Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-ma-stream",
+    "extract": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guarded for generations by the indigenous Ba Na community of Ha Ri village. Its most surreal transformation occurs around March, when an ancient "
+   },
+   "published": "Thu, 05 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Gods House Tower in Southampton, England",
+   "article": {
+    "title": "Gods House Tower in Southampton, England",
+    "url": "https://www.atlasobscura.com/places/gods-house-tower",
+    "extract": "GHT as we know it today was constructed over several hundred years and has held many different uses over that time. The oldest part of the building – originally known as God’s House Gate – was built in 1189 and named due to its proximity to the nearby God’s House Hospital. The original gate was built to give access to the Platform Quay and was used to guard the town from attack by sea. In 1338 Sou"
+   },
+   "published": "Thu, 05 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Andrew Phung’s Favorite Calgary Spots",
+   "article": {
+    "title": "Andrew Phung’s Favorite Calgary Spots",
+    "url": "https://www.atlasobscura.com/articles/podcast-andrew-phung-favorite-calgary-spots",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. Andrew Phung: My friend and I were in Calgary at the same time, and I was like, “Yo, let me take you out for dinner.” And I remember getting to his hotel, and he’s like, “How’d you get here so fast?” I’m like, “It’s Calgary. There’s not that much traffic.” He’s blown away. And we went to this restaurant, CHARCUT, get a ta"
+   },
+   "published": "Thu, 05 Nov 2026 08:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Living Museum in Queens, New York",
+   "article": {
+    "title": "The Living Museum in Queens, New York",
+    "url": "https://www.atlasobscura.com/places/the-living-museum",
+    "extract": "Tucked inside a building on the grounds of the Creedmoor Psychiatric Center, the Living Museum is a collection of artists’ work that feels nothing like a conventional museum. Established in 1983, it is a working creative space where psychiatric patients can create paintings, sculptures, installations, and mixed-media works. Artwork fills walls, rooms, and exhibition spaces, while individual artist"
+   },
+   "published": "Wed, 04 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Barryscourt Castle in Cork, Ireland",
+   "article": {
+    "title": "Barryscourt Castle in Cork, Ireland",
+    "url": "https://www.atlasobscura.com/places/barryscourt-castle",
+    "extract": "Barryscourt Castle is one of those places in Cork where the landscape can make history feel surprisingly close. Just outside Carrigtwohill, the castle sits quietly behind its walls, but its stones contain traces of medieval power, rebellion, domestic life and even fragments of writing that reach back to Ireland’s much older tradition of Ogham. The castle we see today dates principally from the lat"
+   },
+   "published": "Wed, 04 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Gallery O on H Street in Washington, D.C.",
+   "article": {
+    "title": "Gallery O on H Street in Washington, D.C.",
+    "url": "https://www.atlasobscura.com/places/gallery-o-on-h-street",
+    "extract": "From the outside, Gallery O on H looks like an unassuming row of Washington, D.C. houses. But behind their ordinary facades lies a series of interconnected galleries, courtyards, and unexpected spaces filled with an extraordinary collection of art, unusual objects, and pieces of forgotten history. For more than 15 years, this unconventional art space has been part of the city's H Street corridor. "
+   },
+   "published": "Wed, 04 Nov 2026 12:36:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "From 'Dollar Princess' to 'The Four Hundred,' Decoding the Gilded Age's High-Society Slang",
+   "article": {
+    "title": "From 'Dollar Princess' to 'The Four Hundred,' Decoding the Gilded Age's High-Society Slang",
+    "url": "https://www.mentalfloss.com/language/slang/gilded-age-society-slang-decoded?utm_source=RSS",
+    "extract": "Ever wondered what Gilded Age high society meant by \"dollar princess\" or \"the alum\"? Decode the 19th-century slang used in HBO’s 'The Gilded Age.'"
+   },
+   "published": "Sun, 08 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+   "article": {
+    "title": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+    "url": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world?utm_source=RSS",
+    "extract": "Culture and schedule differences make the U.S. unique in when dinner takes place."
+   },
+   "published": "Sun, 08 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Hidden Italy: Meet Don Giacomo, the Priest of a Sacred Medieval Sanctuary in Calabria",
+   "article": {
+    "title": "Hidden Italy: Meet Don Giacomo, the Priest of a Sacred Medieval Sanctuary in Calabria",
+    "url": "https://www.mentalfloss.com/culture/religion/hidden-italy-meet-don-giacomo-priest-sacred-medieval-sanctuary-calabria?utm_source=RSS",
+    "extract": "Beyond medieval artwork and centuries-old history, this Italian parish is a place of reflection and meaningful encounters, where Don Giacomo welcomes you to share in its story."
+   },
+   "published": "Sun, 08 Nov 2026 18:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Readers Thought of 'Dracula' When It Was Published in 1897",
+   "article": {
+    "title": "What Readers Thought of 'Dracula' When It Was Published in 1897",
+    "url": "https://www.mentalfloss.com/literature/books/what-readers-thought-dracula-when-published-1897?utm_source=RSS",
+    "extract": "'We would not, however, recommend it to nervous persons for evening reading.'"
+   },
+   "published": "Sun, 08 Nov 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Facts You Might Not Know About the Real Pocahontas",
+   "article": {
+    "title": "5 Facts You Might Not Know About the Real Pocahontas",
+    "url": "https://www.mentalfloss.com/history/misconceptions/real-pocahontas-facts?utm_source=RSS",
+    "extract": "Find out the real history of Pocahontas, from her true names (Matoaka and Amonute) to the truth behind John Smith’s famous execution story."
+   },
+   "published": "Sun, 08 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "100 Funny Jokes for Kids That Will Make the Whole Family Laugh",
+   "article": {
+    "title": "100 Funny Jokes for Kids That Will Make the Whole Family Laugh",
+    "url": "https://www.mentalfloss.com/entertainment/funny-jokes-kids-make-whole-family-laugh?utm_source=RSS",
+    "extract": "From animal jokes to knock-knock classics you can't resist, these G-rated giggles are sure to entertain your whole family!"
+   },
+   "published": "Sun, 08 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Does “Diwali” Mean—and Why Is It Also Called Deepavali?",
+   "article": {
+    "title": "What Does “Diwali” Mean—and Why Is It Also Called Deepavali?",
+    "url": "https://www.mentalfloss.com/holidays/diwali-name-meaning?utm_source=RSS",
+    "extract": "This Hindu holiday is celebrated in many different ways, but it always revolves around one theme: the victory of light over darkness."
+   },
+   "published": "Sun, 08 Nov 2026 12:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Foods Families Really Ate During the Gilded Age",
+   "article": {
+    "title": "6 Foods Families Really Ate During the Gilded Age",
+    "url": "https://www.mentalfloss.com/food/foods-families-ate-during-gilded-age?utm_source=RSS",
+    "extract": "From potted ham and boiled cabbage to diamondback terrapin and celery, discover what high society—and working-class families—actually ate during the Gilded Age."
+   },
+   "published": "Sun, 08 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "110 Thanksgiving Jokes That Are Surprisingly Easy to Digest",
+   "article": {
+    "title": "110 Thanksgiving Jokes That Are Surprisingly Easy to Digest",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/thanksgiving-jokes?utm_source=RSS",
+    "extract": "Keep the dinner table laughing with 110 hilarious Thanksgiving jokes, puns, and one-liners that are easy to digest—no matter how dry the turkey is."
+   },
+   "published": "Sun, 08 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Real-Life Historical Figures in HBO’s 'The Gilded Age'",
+   "article": {
+    "title": "10 Real-Life Historical Figures in HBO’s 'The Gilded Age'",
+    "url": "https://www.mentalfloss.com/entertainment/tv/real-historical-figures-gilded-ag?utm_source=RSS",
+    "extract": "The HBO show 'The Gilded Age' features a number of people who really did live during the Gilded Age, from the real Mrs. Catherine Astor to Booker T. Washington."
+   },
+   "published": "Sat, 07 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Bram Stoker’s 'Dracula' Almost Had a Very Different Name",
+   "article": {
+    "title": "Why Bram Stoker’s 'Dracula' Almost Had a Very Different Name",
+    "url": "https://www.mentalfloss.com/literature/authors/why-bram-stoker-dracula-almost-had-different-name?utm_source=RSS",
+    "extract": "The novel had a different title until the last few weeks before publication, but nobody knows for sure who renamed it."
+   },
+   "published": "Sat, 07 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Is Diwali Celebrated on Different Dates Every Year?",
+   "article": {
+    "title": "Why Is Diwali Celebrated on Different Dates Every Year?",
+    "url": "https://www.mentalfloss.com/culture/religion/why-diwali-different-dates-every-year?utm_source=RSS",
+    "extract": "It all comes down to the calendar it follows. Learn more about the five-day celebration of Diwali."
+   },
+   "published": "Sat, 07 Nov 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+   "article": {
+    "title": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+    "url": "https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/",
+    "extract": "A comprehensive investigation of the sandstone megalith’s \"geological fingerprint\" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins"
+   },
+   "published": "Fri, 06 Nov 2026 21:41:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
+   "article": {
+    "title": "This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
+    "url": "https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/",
+    "extract": "The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts"
+   },
+   "published": "Fri, 06 Nov 2026 21:13:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory",
+   "article": {
+    "title": "For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory",
+    "url": "https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/",
+    "extract": "Prior to the discovery, rock art in northeastern Spain was \"very scarce,\" one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles"
+   },
+   "published": "Fri, 06 Nov 2026 18:57:53 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
+   "article": {
+    "title": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
+    "url": "https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/",
+    "extract": "Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged"
+   },
+   "published": "Fri, 06 Nov 2026 17:13:33 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+   "article": {
+    "title": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+    "url": "https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/",
+    "extract": "New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Arctic Polar Vortex Is Collapsing Earlier in the Season Than Ever Documented—but We Don't Know How It'll Affect Global Weather",
+   "article": {
+    "title": "The Arctic Polar Vortex Is Collapsing Earlier in the Season Than Ever Documented—but We Don't Know How It'll Affect Global Weather",
+    "url": "https://www.smithsonianmag.com/smart-news/the-arctic-polar-vortex-is-collapsing-earlier-in-the-season-than-ever-documented-but-we-dont-know-how-itll-affect-global-weather-180989818/",
+    "extract": "A previous polar vortex disruption contributed to the Great Texas Freeze in 2021. This time, the ongoing \"super\" El Niño might offset some of the collapse's influence"
+   },
+   "published": "Fri, 06 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Michelangelo Used These Custom, Multi-Headed Brushes While Painting 'The Last Judgment' to Replicate His Intricate Sculpting Techniques",
+   "article": {
+    "title": "Michelangelo Used These Custom, Multi-Headed Brushes While Painting 'The Last Judgment' to Replicate His Intricate Sculpting Techniques",
+    "url": "https://www.smithsonianmag.com/smart-news/michelangelo-used-these-custom-multi-headed-brushes-while-painting-the-last-judgment-to-replicate-his-intricate-sculpting-techniques-180989816/",
+    "extract": "While restoring the Sistine Chapel, researchers discovered wavy groupings of brushstrokes which indicated that the artist used the special brushes to create a distinct crosshatching pattern"
+   },
+   "published": "Fri, 06 Nov 2026 14:42:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface",
+   "article": {
+    "title": "A Nazi Submarine Torpedoed a Merchant Ship Just Off the Coast of Maine in 1944. Divers Have Finally Located the Wreckage, 400 Feet Below the Surface",
+    "url": "https://www.smithsonianmag.com/smart-news/a-nazi-submarine-torpedoed-a-merchant-ship-just-off-the-coast-of-maine-in-1944-divers-have-finally-located-the-wreckage-400-feet-below-the-surface-180989822/",
+    "extract": "The SS \"Cornwallis\" was traveling between Barbados and Canada when it was sunk by a German U-boat that had delivered Nazi spies to American soil just days earlier"
+   },
+   "published": "Thu, 05 Nov 2026 22:40:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So",
+   "article": {
+    "title": "Was the British King Who Urged the Romans to Invade Actually a Queen? One Archaeologist Thinks So",
+    "url": "https://www.smithsonianmag.com/smart-news/was-the-british-king-who-urged-the-roman-invasion-of-britain-actually-a-queen-one-archaeologist-thinks-so-180989821/",
+    "extract": "Linguistic clues and ancient coins could suggest that Verica—a ruler who fled Britain and convinced Roman Emperor Claudius to launch an invasion across the English Channel—has been misgendered for centuries"
+   },
+   "published": "Thu, 05 Nov 2026 21:38:09 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
+   "article": {
+    "title": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
+    "url": "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/",
+    "extract": "The country intends to launch three uncrewed test missions followed by a human lunar landing within the next few years. NASA hopes to send humans to the moon in 2028, though some experts have expressed doubt about that timeline"
+   },
+   "published": "Thu, 05 Nov 2026 19:32:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds",
+   "article": {
+    "title": "This Bull and Male Donkey Have a Surprisingly Sexual Relationship, Providing Insights Into Interspecies and Same-Sex Bonds",
+    "url": "https://www.smithsonianmag.com/smart-news/this-bull-and-male-donkey-have-a-surprisingly-sexual-relationship-revealing-insights-into-interspecies-and-same-sex-bonds-180989803/",
+    "extract": "The ungulates, dubbed Achille and Patroclo, chose each other repeatedly and showed affection before and after each rendezvous. Same-sex sexual encounters are common among animals of the same species, but less so between different ones"
+   },
+   "published": "Thu, 05 Nov 2026 18:47:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Ancient 'Hell Chicken' Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle",
+   "article": {
+    "title": "This Ancient 'Hell Chicken' Might Be the First Known Fruit-Loving Dinosaur, Revealing a Whole New Cretaceous Lifestyle",
+    "url": "https://www.smithsonianmag.com/smart-news/this-ancient-hell-chicken-might-be-the-first-known-fruit-loving-dinosaur-revealing-a-whole-new-cretaceous-lifestyle-180989801/",
+    "extract": "Infernogallus jamesi had beak and mouth adaptations that hint it could mash soft foods, like today's frugivorous birds. The dinosaur probably munched on fruits resembling modern-day cherries and peaches, and may have helped spread seeds via its poop"
+   },
+   "published": "Thu, 05 Nov 2026 16:01:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+   "article": {
+    "title": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/04/przebaczamy-i-prosimy-o-przebaczenie-dlaczego-komunisci-oskarzyli-polskich-biskupow-o-zdrade/",
+    "extract": "W 1965 roku polscy biskupi skierowali do niemieckich duchownych historyczne orędzie, w którym padły słowa o przebaczeniu i pojednaniu. Reakcja władz PRL była gwałtowna. Prymasa Stefana Wyszyńskiego oskarżono o zdradę, a komunistyczna propaganda rozpętała kampanię przeciwko Kościołowi. Dlaczego gest pojednania z Niemcami wywołał tak wielkie oburzenie? The post „Przebaczamy i prosimy o przebaczenie”"
+   },
+   "published": "Wed, 04 Nov 2026 11:53:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "PRL. Największe katastrofy",
+   "article": {
+    "title": "PRL. Największe katastrofy",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/03/prl-najwieksze-katastrofy/",
+    "extract": "Po sukcesie książki PRL od kuchni Sławomir Koper i Mariusz Mucha postanowili przybliżyć czytelnikom największe katastrofy epoki PRL-u. The post PRL. Największe katastrofy first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 03 Nov 2026 14:06:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+   "article": {
+    "title": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/02/miala-leczyc-brezniewa-oglosila-sie-krolowa-asyrii-kim-byla-tajemnicza-dzuna/",
+    "extract": "Twierdziła, że potrafi uzdrawiać dotykiem i przepowiadać przyszłość. Bywała na moskiewskich salonach, obracała się wśród polityków i artystów, a jej niezwykłe zdolności miały pomagać nawet najważniejszym ludziom Związku Radzieckiego. Dżuna Dawitaszwili stała się jedną z najbardziej zagadkowych postaci swojej epoki. Gdzie kończyła się prawda, a zaczynała starannie budowana legenda? The post Miała l"
+   },
+   "published": "Mon, 02 Nov 2026 21:34:13 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I",
+   "article": {
+    "title": "Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/31/nowe-imperium-rzymskie-przebudzenie-wschodu-historia-bizancjum-tom-i/",
+    "extract": "Nowa historia Bizancjum. Nowa historia Rzymu. The post Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 31 Oct 2026 12:53:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Chrześcijański cesarz, pogańscy bogowie. Zaskakujące początki Konstantynopola",
+   "article": {
+    "title": "Chrześcijański cesarz, pogańscy bogowie. Zaskakujące początki Konstantynopola",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/31/chrzescijanski-cesarz-poganscy-bogowie-zaskakujace-poczatki-konstantynopola/",
+    "extract": "11 maja 330 roku cesarz Konstantyn uroczyście zainaugurował nową stolicę imperium. Choć sam był chrześcijaninem, podczas narodzin Konstantynopola nie zabrakło pogańskich rytuałów, posągów dawnych bogów i odwołań do rzymskich tradycji. Nad miastem górował zaś monumentalny posąg cesarza przypominającego Apollina. Jak wyglądały początki Nowego Rzymu? The post Chrześcijański cesarz, pogańscy bogowie. "
+   },
+   "published": "Sat, 31 Oct 2026 12:26:11 +0000",
+   "image": null
+  }
+ ]
+}
