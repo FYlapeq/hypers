@@ -1,5 +1,22 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-09": {
+  "luz": [
+   "artykuly/2026-11-09/jacob-dostal-wlasna-emotke-i-graffiti-w-fortnite-premiera-w-nocy.html",
+   "artykuly/2026-11-09/marcin-miller-z-acapulco-w-finale-twoja-twarz-brzmi-znajomo-a-dzien.html",
+   "artykuly/2026-11-09/amar-wydal-ep-angelo-promuje-ja-klipem-co-u-cb-bby.html",
+   "artykuly/2026-11-09/young-multi-wypuscil-singiel-red-alabaster-fani-w-komentarzach.html",
+   "artykuly/2026-11-09/kai-cenat-przechodzi-po-kolei-wszystkie-czesci-gta-nagrania.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-09/samica-pipy-amerykanskiej-nosi-jaja-wrosniete-w-skore-grzbietu.html",
+   "artykuly/2026-11-09/na-antarktydzie-sa-doliny-w-ktorych-od-ponad-2-mln-lat-nie-spadl.html",
+   "artykuly/2026-11-09/kocie-organy-to-wymyslony-instrument-w-ktorym-klawisze-mialy-sprawiac.html",
+   "artykuly/2026-11-09/w-xviii-wiecznej-rosji-za-noszenie-brody-trzeba-bylo-placic-podatek.html",
+   "artykuly/2026-11-09/slon-lin-wang-sluzyl-w-chinskiej-armii-podczas-wojny-z-japonia.html",
+   "artykuly/2026-11-09/angielski-ksiaze-odludek-kazal-wykopac-pod-swoja-posiadloscia-ogromny.html"
+  ]
+ },
  "2026-10-16": {
   "luz": [
    "artykuly/2026-10-16/avi-i-louis-villain-swietuja-10-lat-wspolpracy-singlem.html",

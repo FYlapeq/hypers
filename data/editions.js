@@ -1,5 +1,436 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-09": {
+    "date": "2026-11-09",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-08",
+        "who": "Jacob",
+        "initials": "JA",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "Jacob dostał własną emotkę i graffiti w Fortnite. Premiera w nocy z poniedziałku na wtorek",
+        "summary": "Jacob ogłosił, że Epic Games dodało do Fortnite emotkę i graffiti z jego twarzą. Sam przyznaje, że liczył na pełny skin z serii Icon, a obecna premiera to dla polskiej społeczności „sprawdzian”.",
+        "body": [
+          "Jacob, jeden z najpopularniejszych polskich twórców związanych z Fortnite, opublikował w niedzielę 8 listopada film „DODALI MOJĄ TWARZ DO FORTNITE”. W opisie zapowiedział nocną transmisję na YouTube 10 listopada o 1:00, czyli w nocy z poniedziałku na wtorek, gdy w sklepie gry pojawią się jego emotka i graffiti.",
+          "W przypiętym komentarzu twórca wyjaśnił, że też żałuje, że nie jest to skin z serii Icon. Według niego Epic Games chce najpierw sprawdzić, czy taki skin polskiego twórcy miałby sens, więc obecna premiera jest dla społeczności czymś w rodzaju testu. Na transmisji mają się pojawić goście, szukanie tokena i nagrody.",
+          "Do 9 listopada, 6:16 film miał ok. 349 tys. wyświetleń, 13,5 tys. polubień i ponad 1,1 tys. komentarzy. Widzowie gratulują twórcy, a część pisze, że ogląda go od dzieciństwa i czeka na pierwszy polski skin z serii Icon."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=yoMjgTLYFfk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=yoMjgTLYFfk",
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Film, w którym Jacob ogłasza emotkę i graffiti w Fortnite. W opisie i przypiętym komentarzu podaje datę premiery i tłumaczy, dlaczego to jeszcze nie skin z serii Icon."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/yoMjgTLYFfk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/yoMjgTLYFfk/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=yoMjgTLYFfk",
+          "alt": "Miniatura filmu Jacoba „DODALI MOJĄ TWARZ DO FORTNITE”",
+          "caption": "Miniatura filmu, w którym Jacob zapowiada swoją emotkę w Fortnite."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-08",
+        "who": "Marcin Miller",
+        "initials": "MM",
+        "category": "Muzyka i TV",
+        "hype": 3,
+        "title": "Marcin Miller z „Acapulco” w finale „Twoja Twarz Brzmi Znajomo”, a dzień później w „Hit Ster” z Czadomanem",
+        "summary": "Lider zespołu Boys wrzucił na swój kanał występ z Gabrielem Fleszarem z finału 23. edycji „Twoja Twarz Brzmi Znajomo”. Dzień później pojawił się w Polsacie w 11. odcinku „Hit Ster. Gra przebojów” razem z Czadomanem.",
+        "body": [
+          "Na oficjalnym kanale MarcinMillerBOYS 7 listopada pojawiło się nagranie z finału 23. edycji „Twoja Twarz Brzmi Znajomo”, wyemitowanego 6 listopada. Marcin Miller wystąpił w nim z Gabrielem Fleszarem w przeboju „Acapulco” z repertuaru Ricchi e Poveri.",
+          "W niedzielę 8 listopada kanał opublikował też cały występ z 11. odcinka programu „Hit Ster. Gra przebojów”, wyemitowanego w Polsacie 7 listopada, w którym Miller grał razem z Czadomanem.",
+          "Nagranie z finału TTBZ miało do 9 listopada, 6:16 ok. 30 tys. wyświetleń. Widzowie w komentarzach chwalą wokalistę za cały sezon i różne wcielenia sceniczne, a część osób pisze, że nie słucha disco polo, ale program przekonał ich do Millera."
+        ],
+        "sources": [
+          {
+            "name": "MarcinMillerBOYS / YouTube (TTBZ)",
+            "url": "https://www.youtube.com/watch?v=3NYt4k8jsG4",
+            "origin": true
+          },
+          {
+            "name": "MarcinMillerBOYS / YouTube (Hit Ster)",
+            "url": "https://www.youtube.com/watch?v=z3bekMs4b4Y",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=3NYt4k8jsG4",
+        "caption": {
+          "credit": "MarcinMillerBOYS / YouTube",
+          "text": "Występ Marcina Millera i Gabriela Fleszara z finału 23. edycji „Twoja Twarz Brzmi Znajomo”, opublikowany na oficjalnym kanale zespołu Boys."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/3NYt4k8jsG4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/3NYt4k8jsG4/hqdefault.jpg",
+          "credit": "MarcinMillerBOYS / YouTube",
+          "href": "https://www.youtube.com/watch?v=3NYt4k8jsG4",
+          "alt": "Miniatura nagrania występu Marcina Millera i Gabriela Fleszara w finale TTBZ",
+          "caption": "Miniatura nagrania z finału „Twoja Twarz Brzmi Znajomo”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-08",
+        "who": "Amar",
+        "initials": "AM",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Amar wydał EP „ANGELO”. Promuje ją klipem „CO U CB BBY?”",
+        "summary": "Raper i streamer Amar ogłosił, że jego EP „ANGELO” jest już w serwisach streamingowych. Na YouTube wrzucił klip do utworu „CO U CB BBY?”.",
+        "body": [
+          "Amar opublikował 8 listopada na YouTube krótki klip „CO U CB BBY?”. W opisie poinformował, że jego EP „ANGELO” jest już dostępna w serwisach streamingowych, i podlinkował stronę z wydawnictwem.",
+          "Według opisu za obraz odpowiada Oskar Piechocki, a za miks, mastering i realizację wokali Eryq dla Palisie Studio.",
+          "Do 9 listopada, 6:16 klip miał ok. 31,6 tys. wyświetleń i 1,3 tys. polubień. W komentarzach widzowie cytują fragmenty numeru i odpowiadają na pytanie z tytułu."
+        ],
+        "sources": [
+          {
+            "name": "Amar / YouTube",
+            "url": "https://www.youtube.com/shorts/itAlsNYmU8o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/itAlsNYmU8o",
+        "ig": [
+          "amar_8yg"
+        ],
+        "caption": {
+          "credit": "Amar / YouTube",
+          "text": "Klip „CO U CB BBY?”, którym Amar promuje EP „ANGELO”. Informację o premierze wydawnictwa podał w opisie filmu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/itAlsNYmU8o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/itAlsNYmU8o/hqdefault.jpg",
+          "credit": "Amar / YouTube",
+          "href": "https://www.youtube.com/shorts/itAlsNYmU8o",
+          "alt": "Kadr z klipu Amara „CO U CB BBY?”",
+          "caption": "Kadr z klipu promującego EP „ANGELO”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-07",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Young Multi wypuścił singiel „Red Alabaster”. Fani w komentarzach dopytują o album",
+        "summary": "Young Multi ogłosił na swoim kanale, że singiel „Red Alabaster” jest już dostępny we wszystkich serwisach. Widzowie w komentarzach piszą głównie o długo wyczekiwanym albumie.",
+        "body": [
+          "Na kanale YOUNG MULTI LIVE 7 listopada pojawił się krótki film zatytułowany „Nowy singiel »Red Alabaster« dostępny wszędzie!”. To zapowiedź nowego utworu rapera i streamera.",
+          "Do 9 listopada, 6:16 nagranie miało ok. 13,7 tys. wyświetleń i ok. 1,3 tys. polubień, czyli bardzo wysoki odsetek reakcji jak na krótki film.",
+          "W najwyżej ocenianych komentarzach fani piszą, że czekają na nowy album i że długo na niego czekali. Sam twórca w opisie filmu nie podał daty płyty."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/shorts/DeQ80YAQ9Hs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/DeQ80YAQ9Hs",
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Krótki film, w którym Young Multi ogłasza premierę singla „Red Alabaster”. Pod nim fani dopytują o album."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/DeQ80YAQ9Hs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/DeQ80YAQ9Hs/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/shorts/DeQ80YAQ9Hs",
+          "alt": "Kadr z zapowiedzi singla Young Multiego „Red Alabaster”",
+          "caption": "Kadr z zapowiedzi singla „Red Alabaster”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-08",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Streaming",
+        "hype": 4,
+        "title": "Kai Cenat przechodzi po kolei wszystkie części GTA. Nagrania z maratonu mają po 3 mln wyświetleń",
+        "summary": "Kai Cenat prowadzi maraton „Playing every GTA until I beat it”, w którym przechodzi kolejne części serii. Kilkunastogodzinne nagrania z San Andreas i GTA 4 mają już po ok. 3 mln wyświetleń.",
+        "body": [
+          "Na kanale Kai Cenat Live od 7 listopada pojawiają się kolejne wielogodzinne nagrania z serii „Playing every GTA until I beat it”. Amerykański streamer przechodzi w nich po kolei części Grand Theft Auto.",
+          "Trzy nagrania z San Andreas, opublikowane 7 i 8 listopada, miały do 9 listopada, 6:16 od 2,4 do 3,1 mln wyświetleń. Nagranie z GTA 4, wrzucone w niedzielę wieczorem, ok. 3 mln. Każde trwa blisko 12 godzin.",
+          "Z maratonu powstają też krótsze klipy, m.in. „I Took Big Smoke To McDonald’s In Real Life”. Widzowie w komentarzach chwalą maraton, spierają się, która część jest najlepsza, i zauważają, że streamer chce przejść wszystkie gry z serii przed GTA 6."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube (GTA 4)",
+            "url": "https://www.youtube.com/watch?v=n3GlNNBwMcg",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube (San Andreas)",
+            "url": "https://www.youtube.com/watch?v=esFGDLr8rSQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=n3GlNNBwMcg",
+        "ig": [
+          "kaicenat"
+        ],
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Nagranie z części maratonu poświęconej GTA 4. Razem z wcześniejszymi transmisjami z San Andreas pokazuje skalę całego przedsięwzięcia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/n3GlNNBwMcg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/n3GlNNBwMcg/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=n3GlNNBwMcg",
+          "alt": "Miniatura transmisji Kaia Cenata z GTA 4",
+          "caption": "Miniatura nagrania z maratonu GTA."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Pipa amerykańska",
+        "initials": "PA",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Samica pipy amerykańskiej nosi jaja wrośnięte w skórę grzbietu. Wychodzą z nich gotowe żabki",
+        "summary": "Jaja tej południowoamerykańskiej żaby rozwijają się w zagłębieniach skóry na plecach matki. Po 4–5 miesiącach wychodzą z nich w pełni ukształtowane młode.",
+        "body": [
+          "Pipa amerykańska (Pipa pipa) żyje wyłącznie w wodzie, w tropikalnej Ameryce Południowej i na Trynidadzie. Samice „wysiadują” jaja w przypominających plaster miodu zagłębieniach bezpośrednio w skórze grzbietu. Młode nie przechodzą swobodnego etapu kijanki w wodzie: po 4–5 miesiącach z pleców matki wychodzą od razu małe żabki.",
+          "Płaskie ciało i ciemne ubarwienie sprawiają, że w mętnej wodzie żaba wygląda jak martwy liść. Poluje z zasadzki, wsysając ofiary, które podpłyną zbyt blisko."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Common_Surinam_toad"
+          },
+          {
+            "name": "animaldiversity.org",
+            "url": "https://animaldiversity.org/accounts/Pipa_pipa/"
+          }
+        ],
+        "caption": {
+          "credit": "Hugo Claessen / Wikimedia Commons, CC BY-SA 2.5",
+          "text": "Pipa amerykańska. Płaskie ciało pomaga jej udawać liść na dnie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pipa_pipa01.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Pipa_pipa01.jpg",
+          "credit": "Hugo Claessen / Wikimedia Commons, CC BY-SA 2.5",
+          "alt": "Pipa amerykańska, płaska brązowa żaba",
+          "caption": "Pipa amerykańska (Pipa pipa)."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Antarktyda",
+        "initials": "AN",
+        "category": "Geografia",
+        "hype": 4,
+        "title": "Na Antarktydzie są doliny, w których od ponad 2 mln lat nie spadł deszcz",
+        "summary": "Suche Doliny McMurdo to najzimniejsza i najsuchsza pustynia świata. To także największy obszar Antarktydy wolny od lodu.",
+        "body": [
+          "Suche Doliny McMurdo leżą na wybrzeżu Ziemi Wiktorii, między lądolodem wschodnioantarktycznym a Cieśniną McMurdo. Są w większości wolne od śniegu, bo silne wiatry katabatyczne zdmuchują opady i wilgoć, a otaczające góry blokują napływ lodu z lodowców.",
+          "Według źródeł deszcz nie padał tam od ponad dwóch milionów lat. W dolinach znajduje się też skrajnie zasolony zbiornik wody. Warunki są tak nietypowe, że obszar stał się jednym z głównych poligonów badań naukowych na Antarktydzie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/McMurdo_Dry_Valleys"
+          },
+          {
+            "name": "universetoday.com",
+            "url": "https://www.universetoday.com/15031/driest-place-on-earth/"
+          }
+        ],
+        "caption": {
+          "credit": "Meile / Wikimedia Commons, domena publiczna",
+          "text": "Mapa Cieśniny McMurdo i okolic, gdzie leżą Suche Doliny."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mcmurdo_sound_USGS_map.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mcmurdo_sound_USGS_map.jpg",
+          "credit": "Meile / Wikimedia Commons, Public domain",
+          "alt": "Mapa okolic Cieśniny McMurdo na Antarktydzie",
+          "caption": "Mapa rejonu Cieśniny McMurdo (USGS)."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Kocie organy",
+        "initials": "KO",
+        "category": "Historia",
+        "hype": 4,
+        "title": "„Kocie organy” to wymyślony instrument, w którym klawisze miały sprawiać, że koty miauczą",
+        "summary": "Opisy i rysunki „kocich organów” krążyły przez wieki jako makabryczna ciekawostka. Koty miały być ułożone według naturalnej wysokości głosu.",
+        "body": [
+          "Kocie organy (niem. Katzenorgel, fr. orgue à chats), nazywane też kocim pianinem, to hipotetyczny instrument: rząd unieruchomionych kotów z ogonami pod klawiaturą, które miałyby miauczeć po naciśnięciu klawisza. Zwierzęta układano by według naturalnego tonu ich głosu, tak by dało się zagrać melodię.",
+          "To pomysł znany z opisów i ilustracji, a nie zbudowany instrument. Bywa przywoływany jako dziwaczny „przodek” samplowania, czyli grania z klawiatury nagranymi dźwiękami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cat_organ"
+          },
+          {
+            "name": "Vague Terrain (archiwum)",
+            "url": "https://web.archive.org/web/20130602011022/http://vagueterrain.net/content/2011/05/birth-sampling"
+          }
+        ],
+        "caption": {
+          "credit": "La Nature / Wikimedia Commons, domena publiczna",
+          "text": "Ilustracja kociego pianina z francuskiego pisma La Nature z 1883 roku."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cat_piano_1883.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Cat_piano_1883.jpg",
+          "credit": "La Nature / Wikimedia Commons, Public domain",
+          "alt": "XIX-wieczna ilustracja kociego pianina",
+          "caption": "Kocie pianino na ilustracji z 1883 roku."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Rosja",
+        "initials": "RO",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W XVIII-wiecznej Rosji za noszenie brody trzeba było płacić podatek",
+        "summary": "Podatek od brody to opłata za przywilej jej noszenia. Najlepiej udokumentowany obowiązywał w Rosji w XVIII wieku, podobne opłaty znano też w Anglii.",
+        "body": [
+          "Podatek od brody polegał na tym, że mężczyzna musiał zapłacić państwu, jeśli chciał zachować zarost. Najlepiej opisany przypadek to XVIII-wieczna Rosja.",
+          "Takie daniny pojawiały się też w Anglii. Na zdjęciu żeton związany z tym podatkiem: dowód, że opłatę za brodę uiszczono."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Beard_tax"
+          },
+          {
+            "name": "Cahiers du monde russe (OpenEdition)",
+            "url": "https://journals.openedition.org/monderusse/11923"
+          }
+        ],
+        "caption": {
+          "credit": "U.S. State Department / Wikimedia Commons, domena publiczna",
+          "text": "Żeton związany z podatkiem od brody."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Beard_token.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Beard_token.jpg",
+          "credit": "U.S. State Department / Wikimedia Commons, Public domain",
+          "alt": "Metalowy żeton potwierdzający opłacenie podatku od brody",
+          "caption": "Żeton za opłacony podatek od brody."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Lin Wang",
+        "initials": "LW",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Słoń Lin Wang służył w chińskiej armii podczas wojny z Japonią, a potem zamieszkał w zoo w Tajpej",
+        "summary": "Lin Wang był słoniem indyjskim, który służył w Chińskich Siłach Ekspedycyjnych. Zmarł w 2003 roku jako najsłynniejsze zwierzę zoo w Tajpej.",
+        "body": [
+          "Lin Wang urodził się w 1917 roku. W czasie II wojny chińsko-japońskiej (1937–1945) służył w Chińskich Siłach Ekspedycyjnych, a później razem z oddziałami Kuomintangu trafił na Tajwan.",
+          "Większość życia spędził w zoo w Tajpej, gdzie stał się jego najsłynniejszym mieszkańcem. Zmarł 26 lutego 2003 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lin_Wang"
+          },
+          {
+            "name": "Taipei Times",
+            "url": "https://www.taipeitimes.com/News/feat/archives/2025/04/06/2003834690"
+          }
+        ],
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "text": "Archiwalne zdjęcie słonia Lin Wanga."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Lin_Wang_and_Sun.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Lin_Wang_and_Sun.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Archiwalne zdjęcie słonia Lin Wanga",
+          "caption": "Słoń Lin Wang na archiwalnym zdjęciu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Angielski książę-odludek kazał wykopać pod swoją posiadłością ogromny podziemny labirynt",
+        "summary": "John Bentinck, 5. książę Portland, słynął z ekscentrycznego trybu życia. Pod posiadłością Welbeck Abbey kazał wydrążyć rozbudowaną sieć podziemnych przejść.",
+        "body": [
+          "William John Cavendish-Scott-Bentinck, 5. książę Portland (1800–1879), był brytyjskim oficerem i politykiem, ale zapamiętano go głównie z dziwactw. Unikał ludzi i wolał żyć w odosobnieniu.",
+          "Pod swoją posiadłością Welbeck Abbey w hrabstwie Nottinghamshire kazał wykopać rozbudowany podziemny labirynt."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/John_Bentinck,_5th_Duke_of_Portland"
+          },
+          {
+            "name": "University of Nottingham",
+            "url": "http://www.nottingham.ac.uk/manuscriptsandspecialcollections/collectionsindepth/family/portland/biographies/biographyofwilliamjohncavendish-bentinck-scott,5thdukeofportland(1800-1879).aspx"
+          }
+        ],
+        "caption": {
+          "credit": "University of Nottingham / Wikimedia Commons, CC BY-SA 4.0",
+          "text": "Popiersie 5. księcia Portland, autora podziemnego labiryntu pod Welbeck Abbey."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/5th_Duke_of_Portland_bust.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:5th_Duke_of_Portland_bust.jpg",
+          "credit": "University of Nottingham / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Popiersie 5. księcia Portland",
+          "caption": "Popiersie Johna Bentincka, 5. księcia Portland."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-16": {
     "date": "2026-10-16",
     "ryby": [],
