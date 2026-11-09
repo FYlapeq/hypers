@@ -1,6 +1,7 @@
 # Posty na Instagramie: karuzela 5 newsów + slajd „zostaw follow”, o godzinach z instagram/harmonogram.json (czas Warszawy).
-# Krótkie przebiegi z crona (2 na godzinę w oknie 8:00–23:00); każdy sprawdza, czy przypada slot, publikuje i kończy.
-# Bez czekających jobów i bez samouruchamiania się (to obciążało Actions i mogło być powodem blokady konta, 11.2026).
+# Krótkie przebiegi z crona (1 na godzinę w oknie 8:00–23:00); każdy sprawdza, czy przypada slot, publikuje i kończy.
+# ZAKAZ: żadnych czekających jobów i żadnego uruchamiania workflowów z workflowów. 16–17.10.2026 tryb „zegar”
+# wpadł w pętlę (99 samouruchomień w 80 min) i to była najpewniej przyczyna blokady konta GitHub.
 # Post wychodzi tylko z oryginalną miniaturą filmu; news bez niej jest pomijany. Instrukcja: instagram/README.md
 name: Instagram
 on:
@@ -20,10 +21,11 @@ on:
         type: string
         required: false
   schedule:
-    - cron: '3,33 6-22 * * *'        # UTC = 8:00–23:00 w Warszawie (zima i lato); poza slotem kończy się po kilku sekundach
+    - cron: '3 6-22 * * *'           # raz na godzinę; UTC 6–22 pokrywa 8:00–23:00 w Warszawie (zima i lato); poza slotem kończy się po kilku sekundach
     - cron: '17 3 * * 1'             # poniedziałek: odświeżenie tokenu (ważny 60 dni)
 permissions:
   contents: write
+  actions: none   # workflow nie może uruchamiać innych workflowów (patrz ZAKAZ wyżej)
 concurrency:
   # Próba i test tokenu nic nie publikują, więc mają własną grupę.
   group: ${{ (github.event_name == 'workflow_dispatch' && (inputs.tryb == 'proba' || inputs.tryb == 'sprawdz')) && 'instagram-proba' || 'instagram' }}
@@ -33,6 +35,7 @@ jobs:
   sprawdz:
     if: github.event_name == 'workflow_dispatch' && inputs.tryb == 'sprawdz'
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
@@ -128,6 +131,7 @@ jobs:
   token:
     if: github.event_name == 'schedule' && github.event.schedule == '17 3 * * 1'
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Odśwież token Instagrama
         env:

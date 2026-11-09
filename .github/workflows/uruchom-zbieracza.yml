@@ -14,6 +14,7 @@ permissions: {}
 jobs:
   start:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
     steps:
       - name: Start zbieracza w hypers-data
         env:

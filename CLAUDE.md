@@ -2,6 +2,11 @@
 
 Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w `CNAME`). Newsy w `data/editions.js` (`window.HYPERS_EDITIONS`, klucz = data `RRRR-MM-DD`, czas Europe/Warsaw). Cudzych zdjęć nie hostujemy: obrazy są wczytywane ze źródła (hotlink), a w artykule osadzany jest oryginalny post twórcy.
 
+## GitHub Actions: twarde zasady (po blokadzie konta 17.10.2026)
+- Workflow nigdy nie uruchamia innego workflow ani samego siebie (żadnych `dispatches` z jobów, żadnych łańcuchów, `sleep` do godziny ani jobów trwających dłużej niż kilka minut). Pętla trybu „zegar” w nocy 16/17.10 (99 samouruchomień w 80 min) najpewniej spowodowała blokadę konta.
+- Każdy job ma `timeout-minutes`. Nowy cron częściej niż raz na godzinę tylko po zgodzie Filipa.
+- Sesja wydania uruchamia ręcznie najwyżej po jednym przebiegu zbieracza i zbieracza ciekawostek na slot. Nie ponawiaj w pętli: przy braku danych zrób research w sieci.
+
 ## Tryb pracy (oszczędność tokenów, obowiązkowy)
 - NIE czytaj i NIE edytuj ręcznie `data/editions.js` (ok. 80 kB). Używaj `scripts/edition.mjs`:
   - `node scripts/edition.mjs recent 7`: co już było (sprawdzanie duplikatów).
@@ -90,7 +95,7 @@ Slot `rano` = 7:00, `popoludnie` = 15:00. Pracujesz bez nadzoru: bez pytań, dec
 - Workflow `.github/workflows/build-articles.yml` przebudowuje strony po pushu zmieniającym `data/editions.js`.
 
 ## Instagram
-- Workflow `.github/workflows/instagram.yml` (krótkie przebiegi z crona 2× na godzinę, bez czekających jobów) sam wrzuca na IG karuzele co godzinę (godziny z `instagram/harmonogram.json`, 8:00–23:00): 3 slajdy (newsy o twórcach albo ciekawostki, na zmianę) + slajd „Zostaw follow”, wybierając najświeższe nieopublikowane. Sesja wydania nic tu nie robi.
+- Workflow `.github/workflows/instagram.yml` (krótki przebieg z crona raz na godzinę, bez czekających jobów) sam wrzuca na IG karuzele co godzinę (godziny z `instagram/harmonogram.json`, 8:00–23:00): 3 slajdy (newsy o twórcach albo ciekawostki, na zmianę) + slajd „Zostaw follow”, wybierając najświeższe nieopublikowane. Sesja wydania nic tu nie robi.
 - Treści dla dzieci nie idą na IG: automat pomija newsy ze słowami z `bez_dla_dzieci` w `instagram/harmonogram.json` (Roblox, Minecraft, Brawl Stars, Brainrot…), a pojedyncze artykuły można wykluczyć ścieżką w `wykluczone`.
 - Post wychodzi tylko z prawdziwym obrazem z pola `image` (kadr, prasowe albo wolne z Commons dla Ciekawostek); news z `noImage` nie trafi na IG.
 - Oznaczanie twórców (od 16.10.2026): każdy news o twórcy/osobie dostaje pole `ig` = konta Instagram osób z `who` (bez @, małe litery, np. `["ksiazulo"]`). Automat dopisuje @konto przy tytule w opisie i oznacza je na slajdzie. Konto bierz tylko z pewnego miejsca: link z kanału YouTube twórcy, jego strony, posta będącego źródłem albo zweryfikowanego profilu; przy wątpliwości (fan-konto, podobne nazwy) pomiń pole, nigdy nie zgaduj. Nowo potwierdzone konto dopisz też do `instagram/konta.json` (`"Nazwa jak w who": "konto"`), żeby kolejne newsy oznaczały się same. Ciekawostki i marki bez konta osoby: bez `ig`.
