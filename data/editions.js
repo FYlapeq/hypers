@@ -1,5 +1,2939 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-08": {
+    "date": "2026-11-08",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-08",
+        "who": "izak",
+        "initials": "IZ",
+        "category": "E-sport",
+        "hype": 3,
+        "title": "Wielki finał IEM Beijing 2026 po polsku u izaka. Transmisja trwała ponad 7 godzin",
+        "summary": "izak zakończył polską transmisję turnieju CS2 IEM Beijing 2026 wielkim finałem. Wcześniej jego studio relacjonowało także PGL Masters Bucharest.",
+        "body": [
+          "8 listopada na kanale izak LIVE pojawiło się nagranie „IEM Beijing 2026 | 18+ | Wielki Finał”, trwające ponad 7 godzin. Wcześniej studio transmitowało ćwierćfinały i półfinały.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 101 tys. wyświetleń, 1 tys. polubień i 1 komentarzy.",
+          "To drugi duży turniej CS2, który izak relacjonował po polsku w ciągu kilku tygodni, po PGL Masters Bucharest pod koniec października."
+        ],
+        "sources": [
+          {
+            "name": "izak LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=-Q6EZ45Iq0o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=-Q6EZ45Iq0o",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-Q6EZ45Iq0o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-Q6EZ45Iq0o/hqdefault.jpg",
+          "credit": "izak LIVE / YouTube",
+          "href": "https://www.youtube.com/watch?v=-Q6EZ45Iq0o",
+          "alt": "Miniatura transmisji izaka z wielkiego finału IEM Beijing 2026",
+          "caption": "Miniatura transmisji wielkiego finału IEM Beijing"
+        },
+        "caption": {
+          "credit": "izak LIVE / YouTube",
+          "text": "Miniatura nagrania z finału turnieju. Opisujemy tytuł i statystyki nagrania."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-08",
+        "who": "Sidemen",
+        "initials": "SI",
+        "category": "Programy",
+        "hype": 3,
+        "title": "Sidemen zrobili quiz dla youtuberów. Widzom brakuje stałej uczestniczki",
+        "summary": "Sidemen opublikowali nowy odcinek „pub quizu” z youtuberami. Komentujący zwracają uwagę na nieobecność jednej z dawnych uczestniczek.",
+        "body": [
+          "8 listopada na kanale Sidemen pojawił się 70-minutowy film „SIDEMEN YOUTUBER PUB QUIZ”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,5 mln wyświetleń, 42 tys. polubień i 1778 komentarzy.",
+          "Najpopularniejsze komentarze chwalą metamorfozę jednego z uczestników i piszą, że quiz bez BambinoBecky wydaje się dziwny."
+        ],
+        "sources": [
+          {
+            "name": "Sidemen / YouTube",
+            "url": "https://www.youtube.com/watch?v=BcOP1ZEOTo0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=BcOP1ZEOTo0",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BcOP1ZEOTo0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BcOP1ZEOTo0/hqdefault.jpg",
+          "credit": "Sidemen / YouTube",
+          "href": "https://www.youtube.com/watch?v=BcOP1ZEOTo0",
+          "alt": "Miniatura filmu Sidemen „YouTuber Pub Quiz”",
+          "caption": "Miniatura quizu Sidemen"
+        },
+        "caption": {
+          "credit": "Sidemen / YouTube",
+          "text": "Miniatura odcinka z quizem dla youtuberów. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "sidemen"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-08",
+        "who": "Berlin",
+        "initials": "BE",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W Berlinie stoi betonowy walec, który zbudowano tylko po to, żeby był ciężki",
+        "summary": "Schwerbelastungskörper to wielki betonowy cylinder z lat 1941–1942. Miał sprawdzić, czy grunt utrzyma gigantyczny łuk triumfalny.",
+        "body": [
+          "Betonowy walec stoi w dzielnicy Tempelhof w Berlinie. Postawiono go w latach 1941–1942 na polecenie architekta Alberta Speera.",
+          "Miał sprawdzić, czy podmokły, piaszczysty grunt utrzyma planowany łuk triumfalny ponad dwa razy wyższy od paryskiego. Łuku nigdy nie zbudowano."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Schwerbelastungsk%C3%B6rper"
+          },
+          {
+            "name": "bbc.com",
+            "url": "https://www.bbc.com/culture/article/20141106-fantastical-buildings-never-built"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Berlin_belastungskoerper.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Berlin_belastungskoerper.jpg",
+          "credit": "Dieter Brügmann / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Betonowy walec Schwerbelastungskörper w Berlinie",
+          "caption": "Schwerbelastungskörper w Berlinie"
+        },
+        "caption": {
+          "credit": "Dieter Brügmann / Wikimedia Commons",
+          "text": "Zdjęcie betonowego walca w Berlinie. Jego jedynym zadaniem było obciążać grunt."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-11-07": {
+    "date": "2026-11-07",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-07",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 4,
+        "title": "Ostatni odcinek „Mafii IRL” przed finałem. Finał 10 listopada",
+        "summary": "Friz opublikował dziewiąty odcinek piątego sezonu. Wielki finał zaplanował na 10 listopada, a potem cztery dni materiałów dodatkowych.",
+        "body": [
+          "7 listopada ukazał się odcinek „NAJTRUDNIEJSZA DECYZJA OBYWATELI!! (MAFIA IRL SEZON 5 odc.9)”. W opisie Friz potwierdził finał 10 listopada oraz odcinek łączony, najlepsze momenty, kłamstwa i wycięte sceny w kolejnych dniach.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,4 mln wyświetleń, 41 tys. polubień i 1889 komentarzy.",
+          "Widzowie proponują w komentarzach, by w przyszłej edycji gwiazd mafię wybierać losowo."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=-PLzr29VVqg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=-PLzr29VVqg",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-PLzr29VVqg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-PLzr29VVqg/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=-PLzr29VVqg",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 9”",
+          "caption": "Miniatura 9. odcinka Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura ostatniego odcinka przed finałem sezonu. Daty kolejnych materiałów podaje opis filmu."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-07",
+        "who": "PewDiePie",
+        "initials": "PD",
+        "category": "Życie",
+        "hype": 4,
+        "title": "PewDiePie: „I Failed”. Nowy film ma 3,3 mln wyświetleń",
+        "summary": "PewDiePie opublikował 10-minutowy film zatytułowany „I Failed”. Widzowie porównują w komentarzach jego projekty z filmami innych twórców.",
+        "body": [
+          "7 listopada na kanale PewDiePie pojawił się film „I Failed”. W opisie są linki sponsorów i rodzinnego newslettera.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 3,3 mln wyświetleń, 83 tys. polubień i 5245 komentarzy.",
+          "Najpopularniejszy komentarz żartuje z tytułu w listopadzie. Inny zestawia projekty twórców: Markiplier zrobił film, Jacksepticeye go robi, a PewDiePie woła wrony."
+        ],
+        "sources": [
+          {
+            "name": "PewDiePie / YouTube",
+            "url": "https://www.youtube.com/watch?v=I7IaqRJMi9w",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=I7IaqRJMi9w",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/I7IaqRJMi9w/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/I7IaqRJMi9w/hqdefault.jpg",
+          "credit": "PewDiePie / YouTube",
+          "href": "https://www.youtube.com/watch?v=I7IaqRJMi9w",
+          "alt": "Miniatura filmu PewDiePie „I Failed”",
+          "caption": "Miniatura filmu PewDiePie „I Failed”"
+        },
+        "caption": {
+          "credit": "PewDiePie / YouTube",
+          "text": "Miniatura filmu PewDiePie. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-07",
+        "who": "moreleTV",
+        "initials": "MO",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "moreleTV i TekTesters pytają: czy bańka AI właśnie pęka?",
+        "summary": "Kanał moreleTV wspólnie z TekTesters opublikował materiał o tym, czy boom na sztuczną inteligencję się kończy. Pod filmem jest ponad 270 komentarzy.",
+        "body": [
+          "7 listopada na kanale moreleTV ukazał się 11-minutowy film „Czy bańka AI właśnie pęka? (ft. TekTesters)”. W opisie są też zestawy komputerowe polecane przez prowadzącego „w obecnej sytuacji”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 92 tys. wyświetleń, 2 tys. polubień i 274 komentarzy.",
+          "Widzowie żartują, że mamy już „bańkę mówienia o bańce”, i że wszystko wróci do normy na premierę Half-Life 3."
+        ],
+        "sources": [
+          {
+            "name": "moreleTV / YouTube",
+            "url": "https://www.youtube.com/watch?v=sMKD2kjdb5Q",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=sMKD2kjdb5Q",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/sMKD2kjdb5Q/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/sMKD2kjdb5Q/hqdefault.jpg",
+          "credit": "moreleTV / YouTube",
+          "href": "https://www.youtube.com/watch?v=sMKD2kjdb5Q",
+          "alt": "Miniatura filmu moreleTV „Czy bańka AI właśnie pęka?”",
+          "caption": "Miniatura filmu moreleTV o bańce AI"
+        },
+        "caption": {
+          "credit": "moreleTV / YouTube",
+          "text": "Miniatura materiału o rynku AI. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-11-06": {
+    "date": "2026-11-06",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-06",
+        "who": "bambi",
+        "initials": "BA",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "bambi wydała „WRÓĆ DO MNIE”. Fani są zaskoczeni mroczniejszym klimatem",
+        "summary": "bambi opublikowała teledysk do utworu „WRÓĆ DO MNIE”, wyreżyserowany przez kolektyw BIURO. Komentujący piszą o zmianie jej wizerunku.",
+        "body": [
+          "6 listopada na kanale bambi ukazał się klip „bambi - WRÓĆ DO MNIE”. Według opisu tekst napisała Michalina Włodarczyk, muzykę wyprodukował Szymon Frąckowiak, a teledysk wyreżyserowało BIURO.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 141 tys. wyświetleń, 5 tys. polubień i 196 komentarzy.",
+          "Widzowie zauważają, że artystka przeszła od słodkiego wizerunku do wyrażania „przerażających emocji”, i chwalą teledyski z ostatnich miesięcy."
+        ],
+        "sources": [
+          {
+            "name": "bambi / YouTube",
+            "url": "https://www.youtube.com/shorts/epe7oErCNRM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/epe7oErCNRM",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/epe7oErCNRM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/epe7oErCNRM/hqdefault.jpg",
+          "credit": "bambi / YouTube",
+          "href": "https://www.youtube.com/shorts/epe7oErCNRM",
+          "alt": "Miniatura teledysku bambi „Wróć do mnie”",
+          "caption": "Kadr z klipu „WRÓĆ DO MNIE”"
+        },
+        "caption": {
+          "credit": "bambi / YouTube",
+          "text": "Miniatura teledysku bambi. Twórców utworu i klipu podaje opis filmu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-06",
+        "who": "The Outlawz",
+        "initials": "TO",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Sajmon, Kobra i Olka nagrali „FLEX” dla The Outlawz",
+        "summary": "Na kanale The Outlawz ukazał się wspólny numer Sajmona, Kobry i Olki. Klip zrealizował OG.Jerzyk.",
+        "body": [
+          "6 listopada ukazał się teledysk „SAJMON X KOBRA X OLKA - FLEX”. Za wideo odpowiada OG.Jerzyk.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 70 tys. wyświetleń, 3 tys. polubień i 111 komentarzy.",
+          "Fani chwalą w komentarzach zwrotkę Olki i proszą o jej kolejny numer."
+        ],
+        "sources": [
+          {
+            "name": "THEOUTLAWZ / YouTube",
+            "url": "https://www.youtube.com/watch?v=CwbUPNQrksI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=CwbUPNQrksI",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/CwbUPNQrksI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/CwbUPNQrksI/hqdefault.jpg",
+          "credit": "THEOUTLAWZ / YouTube",
+          "href": "https://www.youtube.com/watch?v=CwbUPNQrksI",
+          "alt": "Miniatura teledysku „FLEX” Sajmona, Kobry i Olki",
+          "caption": "Kadr z klipu „FLEX”"
+        },
+        "caption": {
+          "credit": "THEOUTLAWZ / YouTube",
+          "text": "Miniatura teledysku „FLEX”. Wykonawców i realizatora podaje opis filmu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-06",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Programy",
+        "hype": 4,
+        "title": "MrBeast sam zagrał w „ruletkę z zapadnią”. Short ma blisko 60 mln wyświetleń",
+        "summary": "MrBeast tym razem sam stanął na zapadni w jednej ze swoich gier. Widzowie żartują, że w końcu poczuł się jak uczestnik.",
+        "body": [
+          "6 listopada na kanale MrBeasta pojawił się short „Trap Door Roulette”. Film nie ma opisu.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 58,5 mln wyświetleń, 920 tys. polubień i 8158 komentarzy.",
+          "Najpopularniejsze komentarze piszą, że wyzwanie było straszniejsze, niż wygląda, i że twórca wreszcie wie, co czują jego uczestnicy."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/shorts/kPI9Mc35mOg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/kPI9Mc35mOg",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/kPI9Mc35mOg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/kPI9Mc35mOg/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/shorts/kPI9Mc35mOg",
+          "alt": "Miniatura shorta MrBeasta „Trap Door Roulette”",
+          "caption": "Miniatura shorta MrBeasta „Trap Door Roulette”"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura shorta z ruletką z zapadnią. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "mrbeast"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-06",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W Biblii z 1631 r. zabrakło jednego słowa. Przykazanie brzmiało: „Cudzołóż”",
+        "summary": "Tzw. Grzeszna Biblia to wydanie z 1631 r., w którym z siódmego przykazania wypadło słowo „nie”. To najsłynniejszy błąd drukarski w historii Biblii.",
+        "body": [
+          "W 1631 r. londyńscy drukarze królewscy Robert Barker i Martin Lucas wydali przedruk Biblii króla Jakuba. W przykazaniu z Księgi Wyjścia 20:14 pominięto słowo „not”.",
+          "W efekcie wydanie nakazywało cudzołóstwo. Nazywa się je Grzeszną albo Niegodziwą Biblią."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Wicked_Bible"
+          },
+          {
+            "name": "sltrib.com",
+            "url": "https://www.sltrib.com/religion/global/2017/11/17/new-museums-wicked-bible-thou-shalt-commit-adultery/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wicked_Bible.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Wicked_Bible.jpg",
+          "credit": "Narrington77 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Strona Biblii z 1631 roku z błędnym przykazaniem",
+          "caption": "Grzeszna Biblia z 1631 r."
+        },
+        "caption": {
+          "credit": "Narrington77 / Wikimedia Commons",
+          "text": "Zdjęcie strony Grzesznej Biblii z 1631 r. To w tym wydaniu z przykazania zniknęło słowo „nie”."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-11-05": {
+    "date": "2026-11-05",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-05",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 4,
+        "title": "„Mafia IRL” przed finałem. Pod ósmym odcinkiem widzowie krytykują atmosferę w programie",
+        "summary": "Friz wypuścił ósmy odcinek piątego sezonu „Mafii IRL”. Najpopularniejsze komentarze dotyczą tego, że część uczestników nie bawi się dobrze.",
+        "body": [
+          "5 listopada ukazał się odcinek „TO BYŁO NAJLEPSZE ZAGRANIE OBYWATELI!!! (MAFIA IRL SEZON 5 odc.8)”. Do finału 10 listopada został jeszcze jeden odcinek.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,9 mln wyświetleń, 50 tys. polubień i 5133 komentarzy.",
+          "Najwyżej oceniony komentarz chwali jedną z uczestniczek za to, że otwarcie mówi Frizowi, co jej się nie podoba. Inny ocenia, że oglądanie programu, w którym połowa graczy się nie bawi, jest męczące."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=qd9fTOSrK6Q",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qd9fTOSrK6Q",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qd9fTOSrK6Q/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qd9fTOSrK6Q/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=qd9fTOSrK6Q",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 8”",
+          "caption": "Miniatura 8. odcinka Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura przedostatniego odcinka przed finałem. Opisujemy tytuł, harmonogram i reakcje widzów."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-05",
+        "who": "Szwecja",
+        "initials": "MF",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "Istnieje muzeum nieudanych produktów. Są tam Google Glass i Nokia N-Gage",
+        "summary": "Museum of Failure to objazdowa wystawa produktów i usług, które poniosły porażkę. Ma uczyć, że porażka jest częścią innowacji.",
+        "body": [
+          "Museum of Failure to wystawa nieudanych produktów i usług. Wśród eksponatów są m.in. Nokia N-Gage i Google Glass.",
+          "Jej założyciel Samuel West chce pokazać, że bez akceptowania porażek nie ma postępu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Museum_of_Failure"
+          },
+          {
+            "name": "web.archive.org",
+            "url": "https://web.archive.org/web/20170503233446/http://museumoffailure.se/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/MuseumofFailure_Logo.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:MuseumofFailure_Logo.jpg",
+          "credit": "Museum of Failure / Wikimedia Commons, Public domain",
+          "alt": "Logo Museum of Failure",
+          "caption": "Logo muzeum porażek"
+        },
+        "caption": {
+          "credit": "Museum of Failure / Wikimedia Commons",
+          "text": "Logo Museum of Failure. To muzeum gromadzi produkty, które nie odniosły sukcesu."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-11-04": {
+    "date": "2026-11-04",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-04",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Biznes",
+        "hype": 5,
+        "title": "Napój Kalucha FLORIDE już w Żabkach. Twórca ogłosił konkurs dla kupujących",
+        "summary": "Od 4 listopada FLORIDE jest dostępny w Żabkach. Kaluch opublikował tego dnia film o tym, jak GTA 5 zmieniło jego życie, i ogłosił konkurs.",
+        "body": [
+          "4 listopada Kaluch wrzucił 46-minutowy film „GTA 5 ZMIENIŁO MOJE ŻYCIE...”. W opisie pisze, że FLORIDE jest dostępny od tego dnia w każdej Żabce.",
+          "Zasady konkursu z opisu: kupić napój, zachować paragon, nagrać film ze swoją pasją i napojem, opublikować go na Instagramie lub TikToku i oznaczyć twórcę. Pełny regulamin jest pod linkiem.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 460 tys. wyświetleń, 20 tys. polubień i 1185 komentarzy. Widzowie piszą, że już kupili napój, i gratulują twórcy drogi od nagrywania gier do własnego produktu."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=GPiXIqLjxrA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=GPiXIqLjxrA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/GPiXIqLjxrA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/GPiXIqLjxrA/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=GPiXIqLjxrA",
+          "alt": "Miniatura filmu Kalucha „GTA 5 zmieniło moje życie...”",
+          "caption": "Miniatura filmu Kalucha z dnia premiery FLORIDE"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura filmu z dnia premiery napoju. Opis tego filmu zawiera zasady konkursu."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-04",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 5,
+        "title": "Książulo sprawdził 10 kebabów z naklejką Muala. Widzowie proszą o datę na naklejce",
+        "summary": "W godzinnym filmie Książulo wrócił do lokali, którym wcześniej przyznał rekomendację Muala. Widzowie proponują, by na naklejkach pojawiał się rok oceny.",
+        "body": [
+          "4 listopada na kanale Książula pojawił się film „WERYFIKACJA KEBABA MUALA”. Według rozdziałów w opisie twórca odwiedził 10 kebabów, m.in. Sztüka Kebab, Haris Kebab, Drwal Kebab i Yolo Kebab.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,9 mln wyświetleń, 29 tys. polubień i 1835 komentarzy.",
+          "Najpopularniejszy komentarz proponuje, by do naklejki Muala dodawać rok, żeby klienci wiedzieli, kiedy lokal był oceniany."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=2gDf8XkwDmI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=2gDf8XkwDmI",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/2gDf8XkwDmI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/2gDf8XkwDmI/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=2gDf8XkwDmI",
+          "alt": "Miniatura filmu Książula „Weryfikacja kebaba Muala”",
+          "caption": "Miniatura weryfikacji kebabów Muala"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura filmu, w którym Książulo ponownie ocenia polecane kebaby. Listę lokali podaje opis filmu."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-04",
+        "who": "Vin Vinci",
+        "initials": "VV",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Vin Vinci zapowiada czwartą solówkę „Veni Vidi Vinci”. Jest utwór tytułowy",
+        "summary": "Vin Vinci wydał tytułowy utwór z nadchodzącego albumu „VENI VIDI VINCI”, swojej czwartej solowej płyty. Trwa preorder.",
+        "body": [
+          "4 listopada ukazał się klip „Vin Vinci - Veni Vidi Vinci” z produkcją Phono CoZaBit. W opisie raper pisze, że to jego czwarte solo i podsumowanie drogi, którą przeszedł z fanami.",
+          "Album można zamawiać w przedsprzedaży na stronie artysty, a singiel jest już w serwisach streamingowych.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 123 tys. wyświetleń, 4 tys. polubień i 124 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Vin Vinci / YouTube",
+            "url": "https://www.youtube.com/watch?v=D87tk15B30U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=D87tk15B30U",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/D87tk15B30U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/D87tk15B30U/hqdefault.jpg",
+          "credit": "Vin Vinci / YouTube",
+          "href": "https://www.youtube.com/watch?v=D87tk15B30U",
+          "alt": "Miniatura klipu Vin Vinciego „Veni Vidi Vinci”",
+          "caption": "Kadr z klipu „Veni Vidi Vinci”"
+        },
+        "caption": {
+          "credit": "Vin Vinci / YouTube",
+          "text": "Miniatura tytułowego singla z nowego albumu Vin Vinciego. Opis podaje producenta i informacje o płycie."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-04",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Sport",
+        "hype": 4,
+        "title": "IShowSpeed spróbował zostać zawodowym baseballistą. Oceniał go Derek Jeter",
+        "summary": "IShowSpeed w nowym odcinku serii „Speed Goes Pro” trenował baseball, a jego postępy oceniał członek Galerii Sław Derek Jeter.",
+        "body": [
+          "4 listopada ukazał się 27-minutowy film „I Tried Becoming a Pro Baseball Player ft. Derek Jeter!”. Według opisu twórcę trenował shortstop Masyn Winn, a sprawdzian z pięciu umiejętności baseballowych oceniał Derek Jeter.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,0 mln wyświetleń, 26 tys. polubień i 1727 komentarzy.",
+          "Komentujący piszą, że baseball to jeden z najtrudniejszych sportów, i chwalą Jetera za szczerą ocenę."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=vYuLOp5GISE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vYuLOp5GISE",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vYuLOp5GISE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vYuLOp5GISE/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=vYuLOp5GISE",
+          "alt": "Miniatura filmu IShowSpeeda z Derekiem Jeterem",
+          "caption": "Miniatura filmu IShowSpeeda o baseballu"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura odcinka z treningu baseballu. Nazwiska trenera i jurora podaje opis filmu."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-11-03": {
+    "date": "2026-11-03",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-03",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Jschlatt zaśpiewał Ludwigowi serenadę. Short ma 2,3 mln wyświetleń",
+        "summary": "Ludwig wrzucił short, w którym nie spodziewał się serenady od jschlatta. Widzowie żartują z wokalnych ćwiczeń przed jego świątecznym albumem.",
+        "body": [
+          "3 listopada na kanale Ludwiga ukazał się short „I just didn’t expect him to serenade me...”, oznaczony hasztagiem jschlatt.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,3 mln wyświetleń, 119 tys. polubień i 546 komentarzy.",
+          "Najpopularniejsze komentarze żartują, że trening głosu przed świątecznym albumem to dla jschlatta niezawodny żart, i z przesadnie wymawianego „r”."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/shorts/BTpkUXjo4T8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/BTpkUXjo4T8",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BTpkUXjo4T8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BTpkUXjo4T8/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/shorts/BTpkUXjo4T8",
+          "alt": "Miniatura shorta Ludwiga „I just didn’t expect him to serenade me”",
+          "caption": "Miniatura shorta Ludwiga z jschlattem"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura shorta Ludwiga. Opisujemy tytuł, hasztagi i reakcje widzów."
+        },
+        "ig": [
+          "ludwigahgren"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-03",
+        "who": "Kanada",
+        "initials": "KA",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1943 r. Niemcy postawili w Kanadzie stację pogodową. Odkryto ją dopiero w 1977 roku",
+        "summary": "Załoga U-Boota zainstalowała automatyczną stację meteorologiczną na Labradorze. To jedyna znana zbrojna operacja Niemiec na lądzie Ameryki Północnej w czasie II wojny światowej.",
+        "body": [
+          "W październiku 1943 r. załoga niemieckiego okrętu podwodnego postawiła automatyczną stację pogodową w zatoce Martin na północy Labradoru.",
+          "To jedyna znana zbrojna operacja niemieckiego wojska na lądzie Ameryki Północnej (poza Grenlandią) w czasie II wojny światowej. Po wojnie o stacji zapomniano, aż odnaleziono ją w 1977 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Weather_Station_Kurt"
+          },
+          {
+            "name": "nunatsiaq.com",
+            "url": "https://nunatsiaq.com/stories/article/who-really-discovered-this-remote-nazi-weather-station-on-the-northern-tip-of-labrador/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Weather_Station_Kurt%2C_Labrador.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Weather_Station_Kurt,_Labrador.jpg",
+          "credit": "Bundesarchiv / Wikimedia Commons, CC0",
+          "alt": "Elementy stacji pogodowej Kurt na Labradorze",
+          "caption": "Stacja pogodowa Kurt na Labradorze"
+        },
+        "caption": {
+          "credit": "Bundesarchiv / Wikimedia Commons",
+          "text": "Zdjęcie stacji meteorologicznej Kurt. To ona stała przez dekady zapomniana na Labradorze."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-11-02": {
+    "date": "2026-11-02",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-02",
+        "who": "EKIPA WK",
+        "initials": "WK",
+        "category": "Programy",
+        "hype": 4,
+        "title": "EKIPA WK i White 2115 w grze „1 lekarz wśród 6 pacjentów”. Prawie milion wyświetleń",
+        "summary": "Warszawski Koks i ekipa nagrali nowy format towarzyski z raperem White 2115. Widzowie chwalą w komentarzach jednego z członków ekipy.",
+        "body": [
+          "2 listopada na kanale EKIPA WK pojawił się ponad godzinny film „1 LEKARZ wśród 6 PACJENTÓW (z White 2115)”. W opisie, jak zwykle, autopromocja marki DZIK.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 993 tys. wyświetleń, 17 tys. polubień i 346 komentarzy.",
+          "Najpopularniejsze komentarze zauważają, że Saker bez Owcy przejmuje rolę lidera i dobrze sobie w niej radzi."
+        ],
+        "sources": [
+          {
+            "name": "EKIPA WK / YouTube",
+            "url": "https://www.youtube.com/watch?v=BvmdHbYPPCM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=BvmdHbYPPCM",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BvmdHbYPPCM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BvmdHbYPPCM/hqdefault.jpg",
+          "credit": "EKIPA WK / YouTube",
+          "href": "https://www.youtube.com/watch?v=BvmdHbYPPCM",
+          "alt": "Miniatura filmu EKIPY WK „1 lekarz wśród 6 pacjentów”",
+          "caption": "Miniatura filmu EKIPY WK z White 2115"
+        },
+        "caption": {
+          "credit": "EKIPA WK / YouTube",
+          "text": "Miniatura odcinka z udziałem White 2115. Gościa wymienia tytuł filmu."
+        },
+        "ig": [
+          "wkdzik"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-02",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Życie",
+        "hype": 4,
+        "title": "Kaluch wyremontował swój stary pokój, w którym nagrywał pierwsze serie",
+        "summary": "Kaluch pokazał remont pokoju, z którego przez lata nagrywał. Widzowie wspominają serie, na których się wychowali.",
+        "body": [
+          "2 listopada Kaluch opublikował 28-minutowy film „REMONT STAREGO POKOJU KALUCHA!”. W opisie znów przypomina, że jego napój FLORIDE trafia do Żabek w środę 4 listopada.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 305 tys. wyświetleń, 13 tys. polubień i 683 komentarzy.",
+          "Najpopularniejsze komentarze wyliczają stare serie twórcy i proszą o powrót do dawnego stylu nagrań w odnowionym pokoju."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=ZqcLhibJgXc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ZqcLhibJgXc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ZqcLhibJgXc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ZqcLhibJgXc/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=ZqcLhibJgXc",
+          "alt": "Miniatura filmu Kalucha „Remont starego pokoju Kalucha!”",
+          "caption": "Miniatura filmu o remoncie pokoju Kalucha"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura filmu z remontu pokoju, w którym Kaluch nagrywał dawne serie."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-02",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Programy",
+        "hype": 3,
+        "title": "Young Multi zapowiedział projekt „Lost Media”. Premiera 5 listopada",
+        "summary": "Young Multi wrzucił pierwszy zwiastun projektu „Lost Media” z datą 5 listopada i adresem strony. Fani długo czekali na zapowiedź.",
+        "body": [
+          "2 listopada na kanale YOUNG MULTI LIVE pojawił się short „LOST MEDIA TRAILER 1”. Opis zawiera tylko datę 5/11 i adres strony projektu.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 119 tys. wyświetleń, 8 tys. polubień i 250 komentarzy.",
+          "Widzowie w komentarzach chwalą klimat zwiastuna i żartują, jak długo musieli na niego czekać."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/shorts/6uUXnsIfH5s",
+            "origin": true
+          },
+          {
+            "name": "lostmedia.cc",
+            "url": "https://lostmedia.cc/"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/6uUXnsIfH5s",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/6uUXnsIfH5s/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/6uUXnsIfH5s/hqdefault.jpg",
+          "credit": "YOUNG MULTI LIVE / YouTube",
+          "href": "https://www.youtube.com/shorts/6uUXnsIfH5s",
+          "alt": "Miniatura zwiastuna „Lost Media” Young Multiego",
+          "caption": "Kadr ze zwiastuna Lost Media"
+        },
+        "caption": {
+          "credit": "YOUNG MULTI LIVE / YouTube",
+          "text": "Miniatura pierwszego zwiastuna projektu Young Multiego. Datę premiery podaje opis filmu."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-02",
+        "who": "Arktyka",
+        "initials": "CL",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W 1913 r. wyruszyła wyprawa na wyspę, której nie było. Najpewniej wymyślił ją odkrywca",
+        "summary": "Ekspedycja Crocker Land miała zbadać wielką wyspę, którą rzekomo widział Robert Peary. Dziś uważa się, że Peary ją zmyślił.",
+        "body": [
+          "W 1913 r. wyruszyła wyprawa na poszukiwanie Crocker Land, wielkiej wyspy, którą Robert Peary miał zobaczyć w 1906 r. ze szczytu przylądka Colgate.",
+          "Wyspy nie znaleziono. Obecnie przyjmuje się, że Peary celowo ją wymyślił."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Crocker_Land_Expedition"
+          },
+          {
+            "name": "dioi.org",
+            "url": "http://www.dioi.org/cot.htm#crck"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crocker_Land_Expedition_Members.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Crocker_Land_Expedition_Members.jpg",
+          "credit": "Not stated / Wikimedia Commons, Public domain",
+          "alt": "Zdjęcie grupowe uczestników wyprawy Crocker Land",
+          "caption": "Uczestnicy wyprawy Crocker Land"
+        },
+        "caption": {
+          "credit": "Not stated / Wikimedia Commons",
+          "text": "Zdjęcie członków wyprawy Crocker Land. To oni szukali wyspy, której nie było."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-11-01": {
+    "date": "2026-11-01",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-01",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 5,
+        "title": "Książulo odwiedził jarmark przy cmentarzu na Wszystkich Świętych. 2,7 mln wyświetleń",
+        "summary": "W dniu Wszystkich Świętych Książulo pokazał stoiska z kebabami, grillem i zabawkami przy cmentarzu. Widzowie dyskutują, czy takie jarmarki pasują do tego miejsca.",
+        "body": [
+          "1 listopada na kanale Książula pojawił się 42-minutowy film „WSZYSTKICH ŚWIĘTYCH: KEBABY, GRILL, ZABAWKI (JARMARK NA CMENTARZU)”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,7 mln wyświetleń, 41 tys. polubień i 2308 komentarzy.",
+          "Najpopularniejszy komentarz przyznaje, że jarmark z jedzeniem przy cmentarzu kompletnie nie pasuje autorowi do tego święta. Inni wyłapali baner „Smakuj w spokoju” przy cmentarzu i chwalą obecność stałego współpracownika twórcy."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=_PQBE0W7b-A",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=_PQBE0W7b-A",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/_PQBE0W7b-A/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/_PQBE0W7b-A/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=_PQBE0W7b-A",
+          "alt": "Miniatura filmu Książula „Wszystkich Świętych: kebaby, grill, zabawki”",
+          "caption": "Miniatura filmu Książula z jarmarku przy cmentarzu"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura filmu z jarmarku na Wszystkich Świętych. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-01",
+        "who": "Sidemen",
+        "initials": "SI",
+        "category": "Programy",
+        "hype": 3,
+        "title": "Sidemen rywalizowali, kto pierwszy ucieknie z rezydencji. Widzowie kłócą się o werdykt",
+        "summary": "Nowy odcinek Sidemen to wyścig drużyn o ucieczkę z rezydencji. Fani w komentarzach uważają, że jedna z drużyn została skrzywdzona.",
+        "body": [
+          "1 listopada na kanale Sidemen ukazał się 81-minutowy film „SIDEMEN FIRST TO ESCAPE THE MANSION”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 3,7 mln wyświetleń, 64 tys. polubień i 2541 komentarzy.",
+          "Najwyżej oceniane komentarze twierdzą, że drużyna, która pierwsza rozwiązała zagadkę, „została okradziona”, a zwycięzcom pomógł prowadzący."
+        ],
+        "sources": [
+          {
+            "name": "Sidemen / YouTube",
+            "url": "https://www.youtube.com/watch?v=lTd6YiA8WDI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=lTd6YiA8WDI",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/lTd6YiA8WDI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/lTd6YiA8WDI/hqdefault.jpg",
+          "credit": "Sidemen / YouTube",
+          "href": "https://www.youtube.com/watch?v=lTd6YiA8WDI",
+          "alt": "Miniatura filmu Sidemen „First to Escape the Mansion”",
+          "caption": "Miniatura odcinka Sidemen z rezydencji"
+        },
+        "caption": {
+          "credit": "Sidemen / YouTube",
+          "text": "Miniatura odcinka z ucieczką z rezydencji. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "sidemen"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-01",
+        "who": "Kuchnia",
+        "initials": "KU",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "Łososia da się upiec w zmywarce. Producenci zmywarek ostrzegają przed tym pomysłem",
+        "summary": "Łosoś ze zmywarki to danie przygotowywane w folii aluminiowej podczas pełnego cyklu zmywania. Producenci i testerzy wskazują ryzyko zatrucia.",
+        "body": [
+          "Na tę metodę łososia owija się szczelnie folią aluminiową i wkłada do zmywarki na pełny cykl.",
+          "Producenci zmywarek i Consumer Reports zwracają uwagę na nierówną temperaturę i ryzyko zatrucia pokarmowego."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Dishwasher_salmon"
+          },
+          {
+            "name": "web.archive.org",
+            "url": "https://web.archive.org/web/20080921212820/http://online.wsj.com/article/SB944178306659175983.html#articleTabs_panel_article=1"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/2008-08-05ExtremeCooking010.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:2008-08-05ExtremeCooking010.jpg",
+          "credit": "Wildfeuer / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Pakunek z folii aluminiowej w zmywarce",
+          "caption": "Łosoś w folii w zmywarce"
+        },
+        "caption": {
+          "credit": "Wildfeuer / Wikimedia Commons",
+          "text": "Zdjęcie dania przygotowywanego w zmywarce. Tak wygląda metoda, o której piszemy."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-31": {
+    "date": "2026-10-31",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-31",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Programy",
+        "hype": 4,
+        "title": "„Dom strachu” ReZigiusza z Wojtkiem Golą, Nieuczesaną i Klaudią Sadownik",
+        "summary": "ReZigiusz pokazał drugą edycję „Domu strachu” na żywo, tym razem ze znanymi gośćmi. Widzowie wciąż wolą dawny format odcinków.",
+        "body": [
+          "31 października na kanale ReZigiusza ukazał się godzinny film „DOM STRACHU EDYCJA „XD””. Jak czytamy w opisie, gośćmi byli Wojtek Gola, Nieuczesana i Klaudia Sadownik, a zadaniem było wydostać się w czwórkę z hotelu.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 394 tys. wyświetleń, 5 tys. polubień i 156 komentarzy.",
+          "Najpopularniejsze komentarze piszą, że seria odcinków oglądała się lepiej niż wersja na żywo. Część widzów broni jednak nowej formuły."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/watch?v=hqvRFzdsECU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=hqvRFzdsECU",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/hqvRFzdsECU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/hqvRFzdsECU/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=hqvRFzdsECU",
+          "alt": "Miniatura filmu ReZigiusza „Dom strachu edycja XD”",
+          "caption": "Miniatura Domu Strachu w edycji z gośćmi"
+        },
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Miniatura odcinka z gośćmi. Ich nazwiska podaje opis filmu."
+        },
+        "ig": [
+          "rezigiusz"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-31",
+        "who": "Dizowskyy",
+        "initials": "DI",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Dizowskyy zagrał w polski horror „CH13: Rest Stop”. Akcja dzieje się na Lubelszczyźnie",
+        "summary": "Dizowskyy w halloweenowym odcinku przeszedł polski horror psychologiczny o ojcu w trasie przez Lubelszczyznę i zachęcił do wspierania polskich produkcji.",
+        "body": [
+          "31 października na kanale Dizowskyy’ego pojawił się film „CZŁOWIEK KOZA W POLSCE?! | CH13: REST STOP *POLSKI HORROR*”. W opisie twórca streszcza, że gracz wciela się w ojca w trasie na Lubelszczyźnie, i linkuje stronę gry na Steamie.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 162 tys. wyświetleń, 5 tys. polubień i 224 komentarzy.",
+          "Widzowie chwalą grę i klimat, choć część brakuje innego zakończenia."
+        ],
+        "sources": [
+          {
+            "name": "Dizowskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=oGDVZQRgGfQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=oGDVZQRgGfQ",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/oGDVZQRgGfQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/oGDVZQRgGfQ/hqdefault.jpg",
+          "credit": "Dizowskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=oGDVZQRgGfQ",
+          "alt": "Miniatura filmu Dizowskyy’ego „CH13: Rest Stop”",
+          "caption": "Miniatura filmu Dizowskyy’ego o grze CH13: Rest Stop"
+        },
+        "caption": {
+          "credit": "Dizowskyy / YouTube",
+          "text": "Miniatura filmu o polskim horrorze. Opis filmu podaje fabułę i link do gry."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-31",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Sport",
+        "hype": 5,
+        "title": "MrBeast zmierzył się z zawodowymi sportowcami o 100 tys. dolarów. Blisko 85 mln wyświetleń",
+        "summary": "Nowy film MrBeasta to seria pojedynków z najlepszymi sportowcami świata. W ciągu tygodnia obejrzało go blisko 85 mln osób.",
+        "body": [
+          "31 października MrBeast opublikował 22-minutowy film „Beat Professional Athlete, Win $100,000”. W opisie pyta, czy da się pokonać najlepszych sportowców świata jeden na jednego.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 85,0 mln wyświetleń, 1,2 mln polubień i 59813 komentarzy.",
+          "MrBeast w przypiętym komentarzu pyta, z kim zmierzyć się następnym razem. Wśród najpopularniejszych odpowiedzi są fani indyjskiego krykiecisty Hardika Pandyi."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/watch?v=_c2e1NcI3Sc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=_c2e1NcI3Sc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/_c2e1NcI3Sc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/_c2e1NcI3Sc/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/watch?v=_c2e1NcI3Sc",
+          "alt": "Miniatura filmu MrBeasta „Beat Professional Athlete, Win $100,000”",
+          "caption": "Miniatura filmu MrBeasta ze sportowcami"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura filmu, w którym MrBeast rywalizuje ze sportowcami. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "mrbeast"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-31",
+        "who": "Japonia",
+        "initials": "NA",
+        "category": "Tradycje",
+        "hype": 4,
+        "title": "W Japonii co roku przeciąga się linę ważącą ok. 40 ton. Ciągną ją tysiące ludzi",
+        "summary": "Wielki festiwal przeciągania liny w Naha na Okinawie sięga korzeniami XV wieku. Lina ma ok. 1,5 m średnicy.",
+        "body": [
+          "Coroczny festiwal w Naha na Okinawie to pojedynek drużyn Wschodu i Zachodu na jednej z głównych dróg miasta. Tradycja może sięgać XV wieku.",
+          "Lina waży ok. 40 ton i ma około 1,5 m średnicy, a do jej przeciągania potrzeba tysięcy uczestników."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Naha_Great_Tug-of-War_Festival"
+          },
+          {
+            "name": "dvidshub.net",
+            "url": "https://www.dvidshub.net/news/115324/service-members-okinawa-residents-pull-together"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Naha_Tsunahiki20081012.JPG",
+          "href": "https://commons.wikimedia.org/wiki/File:Naha_Tsunahiki20081012.JPG",
+          "credit": "投稿者が撮影 / Wikimedia Commons, Public domain",
+          "alt": "Tłum ludzi przy ogromnej linie na ulicy w Naha",
+          "caption": "Przeciąganie liny w Naha"
+        },
+        "caption": {
+          "credit": "投稿者が撮影 / Wikimedia Commons",
+          "text": "Zdjęcie z festiwalu w Naha z ogromną liną. Widać, ilu ludzi potrzeba do jej przeciągania."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-30": {
+    "date": "2026-10-30",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-10-30",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "MrBeast sprawdził, czy robot posprząta za niego. Short ma ponad 70 mln wyświetleń",
+        "summary": "MrBeast wrzucił short z robotem, który wykonuje domowe obowiązki. Najczęściej polubiany merytoryczny komentarz zwraca uwagę, że takim robotem steruje człowiek.",
+        "body": [
+          "30 października MrBeast opublikował short „Can A Robot Do My Chores?”. Film nie ma opisu.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 70,7 mln wyświetleń, 1,1 mln polubień i 17201 komentarzy.",
+          "Widzowie cieszą się, że nie będą już musieli sprzątać. Jeden z popularnych komentarzy studzi entuzjazm: według niego robot przez najbliższe lata będzie sterowany zdalnie przez człowieka. Tej informacji film nie potwierdza."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/shorts/41UzbuW6wJs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/41UzbuW6wJs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/41UzbuW6wJs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/41UzbuW6wJs/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/shorts/41UzbuW6wJs",
+          "alt": "Miniatura shorta MrBeasta „Can A Robot Do My Chores?”",
+          "caption": "Miniatura shorta MrBeasta z robotem"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura shorta z robotem do prac domowych. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "mrbeast"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-30",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 4,
+        "title": "Friz rozpisał, co po finale „Mafii IRL”: odcinek łączony, kłamstwa i wycięte sceny",
+        "summary": "Wraz z piątym odcinkiem sezonu Friz podał plan materiałów dodatkowych po finale 10 listopada.",
+        "body": [
+          "30 października ukazał się odcinek „CZY TO KONIEC MAFII? (MAFIA IRL SEZON 5 odc.5)”. W opisie Friz wymienia daty: odcinek łączony 11 listopada, najlepsze momenty 12 listopada, „Wszystkie kłamstwa w Mafii” 13 listopada i wycięte sceny 14 listopada.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,8 mln wyświetleń, 51 tys. polubień i 2475 komentarzy.",
+          "Najpopularniejszy komentarz uważa, że podpowiedź z liczbą liter w imionach zepsuła rozgrywkę mafii. Inni tęsknią za graczem, który odpadł."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=RpJN1oR2Jc4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=RpJN1oR2Jc4",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RpJN1oR2Jc4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RpJN1oR2Jc4/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=RpJN1oR2Jc4",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 5”",
+          "caption": "Miniatura 5. odcinka Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura piątego odcinka. W opisie tego filmu Friz podał plan materiałów po finale."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-30",
+        "who": "Anglia",
+        "initials": "RB",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Angielka twierdziła, że zmarli kompozytorzy dyktują jej nowe utwory. Wśród nich Beethoven i Chopin",
+        "summary": "Rosemary Brown w latach 70. wywołała medialną sensację, prezentując utwory rzekomo podyktowane przez nieżyjących mistrzów.",
+        "body": [
+          "Rosemary Brown (1916–2001) była angielską pianistką i medium. Twierdziła, że nieżyjący kompozytorzy dyktują jej nowe utwory.",
+          "W latach 70. przedstawiała dzieła przypisywane m.in. Beethovenowi, Chopinowi, Lisztowi, Schubertowi i Bachowi, co wywołało niemałą sensację w mediach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Rosemary_Brown_(spiritualist)"
+          },
+          {
+            "name": "theguardian.com",
+            "url": "https://www.theguardian.com/music/2019/dec/05/rosemary-brown-liszt-beethoven-pianist"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rosemary_pho_2.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Rosemary_pho_2.jpg",
+          "credit": "Louis-Maxime-Dubois / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Portret Rosemary Brown",
+          "caption": "Rosemary Brown"
+        },
+        "caption": {
+          "credit": "Louis-Maxime-Dubois / Wikimedia Commons",
+          "text": "Zdjęcie Rosemary Brown. To ona twierdziła, że muzykę dyktują jej zmarli kompozytorzy."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-29": {
+    "date": "2026-10-29",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-29",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Biznes",
+        "hype": 5,
+        "title": "Kaluch ma własny napój. FLORIDE od 4 listopada w każdej Żabce",
+        "summary": "Kaluch pokazał swój pierwszy produkt pod marką własną: napój FLORIDE. Według twórcy trafi on do wszystkich sklepów Żabka 4 listopada.",
+        "body": [
+          "29 października na kanale Kalucha pojawił się film „OTO MÓJ PRODUKT!”. W opisie twórca dwukrotnie powtarza, że FLORIDE będzie dostępny od 4 listopada w każdej Żabce w Polsce, i oznacza go jako markę własną.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 151 tys. wyświetleń, 9 tys. polubień i 632 komentarzy.",
+          "Widzowie umawiają się w komentarzach na testy 4 listopada i żartują, że Kaluch wypuścił swój produkt jeszcze przed premierą GTA 6. Tydzień wcześniej twórca ogłosił też narodziny syna."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=2OelpfLKBfk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=2OelpfLKBfk",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/2OelpfLKBfk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/2OelpfLKBfk/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=2OelpfLKBfk",
+          "alt": "Miniatura filmu Kalucha „Oto mój produkt!”",
+          "caption": "Miniatura filmu Kalucha o napoju FLORIDE"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura filmu, w którym Kaluch prezentuje własny napój. Datę premiery w Żabce podaje opis filmu."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-29",
+        "who": "Major SPZ",
+        "initials": "MS",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Major SPZ i Natis w klipie „Alko i kwiaty”. To zapowiedź imprezowej EP-ki",
+        "summary": "Major SPZ wydał drugi singiel z nadchodzącej EP „Nie spać. Zwiedzać. Zapier...”. Gościnnie zaśpiewała Natis.",
+        "body": [
+          "29 października ukazał się klip „Major SPZ - Alko i kwiaty ft. Natis”. Według opisu to drugi numer zapowiadający siedmioutworową EP-kę o imprezowym charakterze.",
+          "Za produkcję odpowiadają Ślimak i Wojno, a za wideo Filop. Singiel jest też w serwisach streamingowych.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 971 tys. wyświetleń, 10 tys. polubień i 215 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Major SPZ / YouTube",
+            "url": "https://www.youtube.com/shorts/DfAw1djpMlo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/DfAw1djpMlo",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/DfAw1djpMlo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/DfAw1djpMlo/hqdefault.jpg",
+          "credit": "Major SPZ / YouTube",
+          "href": "https://www.youtube.com/shorts/DfAw1djpMlo",
+          "alt": "Miniatura klipu Majora SPZ „Alko i kwiaty” ft. Natis",
+          "caption": "Kadr z klipu „Alko i kwiaty”"
+        },
+        "caption": {
+          "credit": "Major SPZ / YouTube",
+          "text": "Miniatura klipu Majora SPZ z Natis. Opis filmu podaje szczegóły nadchodzącej EP-ki."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-29",
+        "who": "Cypis",
+        "initials": "CY",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Cypis, Diho i Majki nagrali „Nudeski”. Ruszył preorder albumu „mOralne Salto”",
+        "summary": "Cypis wypuścił wspólny klip z Diho i Majkim. Utwór promuje jego nadchodzący album „mOralne Salto”.",
+        "body": [
+          "29 października na kanale Cypisa ukazał się teledysk „Cypis x Diho x Majki - Nudeski”. W opisie raper zachęca do preorderu albumu „mOralne Salto”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 672 tys. wyświetleń, 9 tys. polubień i 164 komentarzy.",
+          "Komentujący chwalą, że w numerze nie ma przekleństw, i żartują, że to muzyka do słuchania w skodzie."
+        ],
+        "sources": [
+          {
+            "name": "Cypisolo / YouTube",
+            "url": "https://www.youtube.com/shorts/I2af-JDkILE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/I2af-JDkILE",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/I2af-JDkILE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/I2af-JDkILE/hqdefault.jpg",
+          "credit": "Cypisolo / YouTube",
+          "href": "https://www.youtube.com/shorts/I2af-JDkILE",
+          "alt": "Miniatura klipu „Nudeski” Cypisa, Diho i Majkiego",
+          "caption": "Kadr z klipu „Nudeski”"
+        },
+        "caption": {
+          "credit": "Cypisolo / YouTube",
+          "text": "Miniatura klipu Cypisa z Diho i Majkim. Opis filmu potwierdza preorder nowego albumu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-29",
+        "who": "Graf",
+        "initials": "GR",
+        "category": "Podróże",
+        "hype": 3,
+        "title": "Graf pojechał do Kostaryki. „Zakochałem się w nim”, pisze w tytule",
+        "summary": "Graf opublikował godzinny film z podróży do Kostaryki. Widzowie zachwycają się, że w czwartej minucie mówi już w czwartym języku.",
+        "body": [
+          "29 października na kanale Grafa pojawił się 57-minutowy film „Zakochałem się w nim...” z flagą Kostaryki w tytule.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 167 tys. wyświetleń, 4 tys. polubień i 197 komentarzy.",
+          "W komentarzach widzowie cieszą się, że twórca w końcu jest na wakacjach, i chwalą jego znajomość języków."
+        ],
+        "sources": [
+          {
+            "name": "Graf / YouTube",
+            "url": "https://www.youtube.com/watch?v=suvauxCuLOA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=suvauxCuLOA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/suvauxCuLOA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/suvauxCuLOA/hqdefault.jpg",
+          "credit": "Graf / YouTube",
+          "href": "https://www.youtube.com/watch?v=suvauxCuLOA",
+          "alt": "Miniatura filmu Grafa „Zakochałem się w nim...” z Kostaryki",
+          "caption": "Miniatura filmu Grafa z Kostaryki"
+        },
+        "caption": {
+          "credit": "Graf / YouTube",
+          "text": "Miniatura filmu z podróży Grafa. Kraj wskazuje flaga w tytule filmu."
+        },
+        "ig": [
+          "graf_irl"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-29",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy",
+        "hype": 4,
+        "title": "GothamChess zagrał w szachy z Harrym Kane’em i Michaelem Olise",
+        "summary": "Levy Rozman spotkał piłkarzy Harry’ego Kane’a i Michaela Olise i zagrał z nimi w szachy. Film ma 1,7 mln wyświetleń.",
+        "body": [
+          "29 października na kanale GothamChess ukazał się film „HARRY KANE IS 3000 at CHESS”. W opisie Rozman pisze, że spotkał zdobywcę Złotej Piłki Harry’ego Kane’a i Michaela Olise.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,7 mln wyświetleń, 35 tys. polubień i 1416 komentarzy.",
+          "Najpopularniejszy komentarz żartuje, że Rozmanowi udało się rozśmieszyć Olise, który zwykle się nie uśmiecha."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=WqeygINVf3Y",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=WqeygINVf3Y",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/WqeygINVf3Y/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/WqeygINVf3Y/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=WqeygINVf3Y",
+          "alt": "Miniatura filmu GothamChess z Harrym Kane’em",
+          "caption": "Miniatura filmu GothamChess z Harrym Kane’em"
+        },
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura filmu, w którym GothamChess gra z piłkarzami. Opis filmu wymienia obu gości."
+        },
+        "ig": [
+          "gothamchess"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-28": {
+    "date": "2026-10-28",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-28",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 5,
+        "title": "„Mafia IRL” na półmetku. Czwarty odcinek ma 2,4 mln wyświetleń, widzowie kłócą się o uczestników",
+        "summary": "Friz wypuścił czwarty odcinek piątego sezonu „Mafii IRL”. W komentarzach widzowie ostro oceniają zachowanie części graczy.",
+        "body": [
+          "28 października na kanale Friza pojawił się odcinek „POCZĄTKI PROBLEMÓW MAFII!! (MAFIA IRL SEZON 5 odc.4)”. Zgodnie z harmonogramem z opisu kolejne odcinki wychodzą co dwa dni, a finał 10 listopada.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,4 mln wyświetleń, 59 tys. polubień i 3052 komentarzy.",
+          "Najpopularniejsze komentarze krytykują zachowanie jednej z uczestniczek wobec produkcji i innych graczy oraz żałują, że z gry odpadł inny zawodnik."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=vSeNtJx_Z6M",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vSeNtJx_Z6M",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vSeNtJx_Z6M/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vSeNtJx_Z6M/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=vSeNtJx_Z6M",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 4”",
+          "caption": "Miniatura 4. odcinka Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura czwartego odcinka sezonu. Opisujemy tytuł, harmonogram z opisu i reakcje widzów."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-28",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 5,
+        "title": "Książulo znalazł bar z „porcjami jak dla świnów i cenami jak kiedyś”. Film ma 1,9 mln wyświetleń",
+        "summary": "Tym razem Książulo chwali: w nowym filmie trafił do baru z dużymi porcjami i niskimi cenami. Widzowie zwrócili uwagę także na jego elegancki strój.",
+        "body": [
+          "28 października na kanale Książula ukazał się 41-minutowy film „PORCJE jak dla świnów, pysznie i ceny jak kiedyś”. Już tytuł zdradza, że ocena wypadła dobrze.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,9 mln wyświetleń, 34 tys. polubień i 2590 komentarzy.",
+          "Najpopularniejsze komentarze dotyczą stroju twórcy: jedni myśleli, że oglądają przeróbkę z AI, inni porównują go do gazeciarza z dawnego Birmingham. Część widzów pisze, że z takim barem obok przestałaby gotować."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=PzFbnwEq95U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=PzFbnwEq95U",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/PzFbnwEq95U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/PzFbnwEq95U/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=PzFbnwEq95U",
+          "alt": "Miniatura filmu Książula „Porcje jak dla świnów, pysznie i ceny jak kiedyś”",
+          "caption": "Miniatura filmu Książula o barze z dużymi porcjami"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura filmu, w którym Książulo poleca bar z dużymi porcjami. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-28",
+        "who": "Białas",
+        "initials": "BI",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Białas wypuścił freestyle „Młody Białas”. To drugi jego numer w tydzień",
+        "summary": "Kilka dni po „ANDRZEJ GOATa” Białas opublikował krótki freestyle. Fani piszą, że raper jest w formie.",
+        "body": [
+          "28 października na kanale SBM pojawił się freestyle „Białas - Młody Białas”, nagrany na bicie GotBarss. W opisie znów jest link do biletów na drugi termin koncertu „THE END OF H8ME”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 602 tys. wyświetleń, 14 tys. polubień i 430 komentarzy.",
+          "W komentarzach fani żartują, że to jedyny kryzys wieku średniego, który szanują, i przypominają jego starszy utwór o podobnym tytule."
+        ],
+        "sources": [
+          {
+            "name": "SBM / YouTube",
+            "url": "https://www.youtube.com/shorts/LyjUZYD09Ek",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/LyjUZYD09Ek",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/LyjUZYD09Ek/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/LyjUZYD09Ek/hqdefault.jpg",
+          "credit": "SBM / YouTube",
+          "href": "https://www.youtube.com/shorts/LyjUZYD09Ek",
+          "alt": "Miniatura freestyle’u Białasa „Młody Białas”",
+          "caption": "Kadr z freestyle’u „Młody Białas”"
+        },
+        "caption": {
+          "credit": "SBM / YouTube",
+          "text": "Miniatura freestyle’u Białasa wydanego przez SBM. Opis podaje producenta bitu i realizatora."
+        },
+        "ig": [
+          "bialas_h8m6"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-28",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Programy",
+        "hype": 4,
+        "title": "ReZigiusz zrobił „Dom strachu” na żywo. Część widzów czuje niedosyt",
+        "summary": "ReZigiusz pokazał na żywo specjalną edycję swojej serii „Dom strachu”: czwórka uczestników miała wydostać się z zamkniętego, strasznego hotelu.",
+        "body": [
+          "28 października na kanale ReZigiusza pojawił się blisko trzygodzinny zapis transmisji „DOM STRACHU IRL”. Według opisu celem było wydostanie się w czwórkę z zamkniętego hotelu, w którym uczestnicy nie byli sami.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 524 tys. wyświetleń, 10 tys. polubień i 207 komentarzy.",
+          "Najwyżej oceniane komentarze są krytyczne: widzowie piszą o niedosycie i o tym, że wolą montowane odcinki serii od wersji na żywo."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/watch?v=rTv59L2ZID0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=rTv59L2ZID0",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/rTv59L2ZID0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/rTv59L2ZID0/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=rTv59L2ZID0",
+          "alt": "Miniatura filmu ReZigiusza „Dom strachu IRL – zapis z live”",
+          "caption": "Miniatura zapisu transmisji Dom Strachu IRL"
+        },
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Miniatura zapisu transmisji ReZigiusza. Opis filmu wyjaśnia zasady tej edycji."
+        },
+        "ig": [
+          "rezigiusz"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-28",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Kino",
+        "hype": 4,
+        "title": "IShowSpeed szedł na premierę swojego filmu i rozdawał 250 tys. dolarów temu, kto go znajdzie",
+        "summary": "IShowSpeed transmitował drogę na premierę swojego filmu połączoną z zabawą „znajdź mnie i wygraj”. Nagranie trwa niemal cztery godziny.",
+        "body": [
+          "28 października na kanale IShowSpeeda pojawiło się nagranie „FIND ME WIN MONEY $250,000 - Going To My Movie Premiere!”. Tego samego dnia twórca promował zabawę osobnym shortem.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 3,4 mln wyświetleń, 50 tys. polubień i 745 komentarzy.",
+          "Komentujący gratulują osobie, która wygrała 250 tys. dolarów, i chwalą stream za kontakt twórcy z fanami na ulicy."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=G36NRLWdjzE",
+            "origin": true
+          },
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/shorts/FLkdWK-01EY"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=G36NRLWdjzE",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/G36NRLWdjzE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/G36NRLWdjzE/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=G36NRLWdjzE",
+          "alt": "Miniatura nagrania IShowSpeeda „Find me win money $250,000”",
+          "caption": "Miniatura streamu IShowSpeeda przed premierą"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura nagrania z drogi IShowSpeeda na premierę filmu. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-27": {
+    "date": "2026-10-27",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-10-27",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Vlog",
+        "hype": 4,
+        "title": "IShowSpeed nocował w domu z „Obecności”. Widzowie liczą, że wytrzymał tam ok. 2 godzin, nie 24",
+        "summary": "IShowSpeed opublikował short o nocy w słynnym nawiedzonym domu z filmu „Obecność”. Dłuższa relacja z najstraszniejszego domu świata ukazała się tego samego dnia.",
+        "body": [
+          "27 października IShowSpeed wrzucił short „I SPENT 24 HOURS IN THE CONJURING HOUSE!”, a obok pełny film „SPENDING THE NIGHT IN THE WORLD’S SCARIEST HAUNTED HOUSE!”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,3 mln wyświetleń, 85 tys. polubień i 1578 komentarzy.",
+          "Najpopularniejsze komentarze wytykają, że zamiast zapowiadanych 24 godzin twórca spędził w domu ok. dwóch. Część widzów zauważa też, że w shortach jest znacznie spokojniejszy niż na streamach."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/shorts/kNzT5aWaDgg",
+            "origin": true
+          },
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=uQlACpbi4WM"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/kNzT5aWaDgg",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/kNzT5aWaDgg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/kNzT5aWaDgg/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/shorts/kNzT5aWaDgg",
+          "alt": "Miniatura shorta IShowSpeeda „I spent 24 hours in the Conjuring House”",
+          "caption": "Miniatura shorta IShowSpeeda z domu z „Obecności”"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura shorta z nocy w domu znanym z horroru „Obecność”. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-27",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Jedzenie",
+        "hype": 2,
+        "title": "Blowek porównał czekolady z Polski i Ukrainy. Który kraj robi lepszą?",
+        "summary": "Blowek opublikował krótki film z porównaniem czekolad z Polski i Ukrainy. Widzowie bronią w komentarzach ulubionych marek.",
+        "body": [
+          "27 października na kanale Blowka pojawił się short „Polska czy Ukraina? Który kraj robi najlepszą czekoladę?”. Film nie ma opisu, więc relacjonujemy tytuł i reakcje.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 105 tys. wyświetleń, 2 tys. polubień i 31 komentarzy.",
+          "W komentarzach widzowie wskazują swoje ulubione słodycze i żartują z maseczki, którą twórca ma w filmie."
+        ],
+        "sources": [
+          {
+            "name": "Blowek / YouTube",
+            "url": "https://www.youtube.com/shorts/1CXx3Pn_RII",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/1CXx3Pn_RII",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/1CXx3Pn_RII/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/1CXx3Pn_RII/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/shorts/1CXx3Pn_RII",
+          "alt": "Miniatura shorta Blowka o czekoladach z Polski i Ukrainy",
+          "caption": "Miniatura shorta Blowka o czekoladach"
+        },
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Miniatura shorta z porównaniem czekolad z dwóch krajów. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-27",
+        "who": "Nullizmatyka",
+        "initials": "NU",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Nullizmatyka wydała singiel „BlaBla”. Pierwszy w pełni autorski album składu ma 13 utworów",
+        "summary": "Skład Nullizmatyka wypuścił drugi singiel z płyty „W świecie brudnej poezji”. Ruszył też preorder albumu.",
+        "body": [
+          "27 października ukazał się utwór „NULLIZMATYKA - BlaBla”. Według opisu to drugi singiel promujący album „W świecie brudnej poezji”, pierwszy w pełni autorski materiał zespołu.",
+          "Płyta ma liczyć 13 utworów łączących klasyczny hip-hop z żywymi instrumentami, samplami i scratchami. Preorder jest dostępny w sklepie wydawcy. W komentarzu muzycy wyjaśnili, że planowany klip do singla nie powstał.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 45 tys. wyświetleń, 2 tys. polubień i 175 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "NULLIZMATYKA / YouTube",
+            "url": "https://www.youtube.com/watch?v=iXI46KnNmSk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=iXI46KnNmSk",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/iXI46KnNmSk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/iXI46KnNmSk/hqdefault.jpg",
+          "credit": "NULLIZMATYKA / YouTube",
+          "href": "https://www.youtube.com/watch?v=iXI46KnNmSk",
+          "alt": "Miniatura publikacji singla Nullizmatyki „BlaBla”",
+          "caption": "Okładka singla „BlaBla”"
+        },
+        "caption": {
+          "credit": "NULLIZMATYKA / YouTube",
+          "text": "Miniatura publikacji singla Nullizmatyki. Opis filmu podaje szczegóły nadchodzącego albumu."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-27",
+        "who": "USA",
+        "initials": "US",
+        "category": "Rekordy",
+        "hype": 4,
+        "title": "Dwaj szwagrowie przez 24 lata dawali sobie na święta te same spodnie. Coraz dziwniej zapakowane",
+        "summary": "Żart „Pesky Pants” trwał od 1965 do 1989 r. Skończył się, gdy spodnie przypadkiem zniszczono.",
+        "body": [
+          "Od 1965 r. dwaj szwagrowie na zmianę wręczali sobie tę samą parę spodni jako prezent gwiazdkowy. Co roku opakowanie było coraz bardziej wymyślne.",
+          "Tradycja skończyła się w 1989 r., kiedy spodnie zostały przypadkiem zniszczone."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pesky_Pants"
+          },
+          {
+            "name": "web.archive.org",
+            "url": "https://web.archive.org/web/20201225143741/https://apnews.com/article/2ce0c65416cd7e4548d97893a073aa68"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Roy_Collette_with_recovered_trousers.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Roy_Collette_with_recovered_trousers.jpg",
+          "credit": "Sliptonic / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Mężczyzna trzymający odzyskane spodnie",
+          "caption": "Jeden z uczestników żartu ze spodniami"
+        },
+        "caption": {
+          "credit": "Sliptonic / Wikimedia Commons",
+          "text": "Zdjęcie jednego z uczestników żartu ze słynnymi spodniami. To wokół nich przez 24 lata kręciła się świąteczna tradycja."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-26": {
+    "date": "2026-10-26",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-26",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo sprawdził „schabowego z TikToka”. Widzowie śmieją się z cennika lokalu",
+        "summary": "Książulo wrzucił krótki film, w którym konfrontuje popularnego w sieci schabowego z rzeczywistością. Short ma blisko pół miliona wyświetleń.",
+        "body": [
+          "26 października na kanale Książula pojawił się dwuminutowy short „Schabowy z TikToka w prawdziwym życiu”. Film nie ma napisów, więc opieramy się na tytule i reakcjach widzów.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 476 tys. wyświetleń, 10 tys. polubień i 495 komentarzy.",
+          "Widzowie żartują, że w takim lokalu płaci się nawet za „dzień dobry”. Jeden z komentujących, który mieszka obok, broni miejsca i zachęca, by wrócić i zjeść tam normalnie."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/shorts/kzbwpUYj4R8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/kzbwpUYj4R8",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/kzbwpUYj4R8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/kzbwpUYj4R8/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/shorts/kzbwpUYj4R8",
+          "alt": "Miniatura shorta Książula „Schabowy z TikToka w prawdziwym życiu”",
+          "caption": "Miniatura shorta o schabowym z TikToka"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura shorta Książula o schabowym znanym z TikToka. Opisujemy tylko tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-26",
+        "who": "Jacob",
+        "initials": "JA",
+        "category": "Programy",
+        "hype": 3,
+        "title": "Jacob rusza z nową serią „Sprawdzam”. W pierwszym odcinku QLN, SzamanFN i Kebcio",
+        "summary": "Jacob zapowiedział na swoim kanale nową serię z youtuberami, streamerami i zawodowymi graczami. Pierwszy odcinek ma blisko 400 tys. wyświetleń.",
+        "body": [
+          "26 października Jacob opublikował 33-minutowy film „SPRAWDZAM | NOWA SERIA”. Jak pisze w opisie, to nowy cykl, w którym sprawdza umiejętności twórców i proplayerów, a w pierwszym odcinku gościli QLN, SzamanFN i Kebcio.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 391 tys. wyświetleń, 11 tys. polubień i 694 komentarzy.",
+          "Sam twórca zapytał w przypiętym komentarzu, jak widzom podoba się nowa seria. Odpowiedzi są w większości pozytywne, a część widzów prosi o więcej odcinków z zawodowcami."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=xRyn5YkYSqc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=xRyn5YkYSqc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/xRyn5YkYSqc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/xRyn5YkYSqc/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=xRyn5YkYSqc",
+          "alt": "Miniatura filmu Jacoba „Sprawdzam | nowa seria”",
+          "caption": "Miniatura pierwszego odcinka serii Sprawdzam"
+        },
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Miniatura premierowego odcinka nowej serii Jacoba. Opis filmu wymienia gości pierwszego odcinka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-26",
+        "who": "miedzinsky",
+        "initials": "MI",
+        "category": "Kino",
+        "hype": 3,
+        "title": "miedzinsky wrócił z serią „prosto z kina”. Siódmy odcinek ma ponad 300 komentarzy",
+        "summary": "miedzinsky, twórca znany z omówień filmów, opublikował siódmy odcinek serii recenzji kinowych premier. Widzowie cieszą się z jej powrotu.",
+        "body": [
+          "26 października na kanale miedzinsky’ego ukazał się 7-minutowy film „Zobaczysz Wszystko | prosto z kina #7”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 97 tys. wyświetleń, 5 tys. polubień i 324 komentarzy.",
+          "Komentujący nazywają ją z przymrużeniem oka „najbardziej regularną serią” na kanale i wyliczają, ile dni czekają na zapowiadane wcześniej omówienia innych filmów."
+        ],
+        "sources": [
+          {
+            "name": "miedzinsky / YouTube",
+            "url": "https://www.youtube.com/watch?v=HEjjRHpY5Bw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=HEjjRHpY5Bw",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/HEjjRHpY5Bw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/HEjjRHpY5Bw/hqdefault.jpg",
+          "credit": "miedzinsky / YouTube",
+          "href": "https://www.youtube.com/watch?v=HEjjRHpY5Bw",
+          "alt": "Miniatura filmu miedzinsky’ego „Zobaczysz Wszystko | prosto z kina #7”",
+          "caption": "Miniatura odcinka „prosto z kina #7”"
+        },
+        "caption": {
+          "credit": "miedzinsky / YouTube",
+          "text": "Miniatura siódmego odcinka serii miedzinsky’ego. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "miedzinsky_"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-26",
+        "who": "Azja Wschodnia",
+        "initials": "AZ",
+        "category": "Kultura",
+        "hype": 4,
+        "title": "W wielu budynkach w Azji Wschodniej nie ma czwartego piętra. Powodem jest strach przed liczbą 4",
+        "summary": "Tetrafobia to unikanie cyfry 4, która w części krajów Azji Wschodniej kojarzy się ze śmiercią. Widać ją nawet w numeracji pięter.",
+        "body": [
+          "Tetrafobia to przesąd polegający na unikaniu cyfry 4. Najczęściej spotyka się go w krajach Azji Wschodniej, gdzie liczba ta kojarzy się ze śmiercią.",
+          "W Japonii źle kojarzy się też liczba 49. Przesąd wpływa nawet na numerację pięter w budynkach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tetraphobia"
+          },
+          {
+            "name": "web.archive.org",
+            "url": "https://web.archive.org/web/20160310111927/http://www.acclaro.com/blog/tetraphobia-and-doing-business-in-asia/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ShanghaiMissingFloors_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:ShanghaiMissingFloors_(cropped).jpg",
+          "credit": "Chrisobyrne at English Wikipedia / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Panel windy w Szanghaju bez niektórych numerów pięter",
+          "caption": "Panel windy w Szanghaju z pominiętymi piętrami"
+        },
+        "caption": {
+          "credit": "Chrisobyrne at English Wikipedia / Wikimedia Commons",
+          "text": "Zdjęcie panelu windy w Szanghaju, na którym brakuje niektórych numerów pięter. Tak w praktyce wygląda tetrafobia."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-25": {
+    "date": "2026-10-25",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-25",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 5,
+        "title": "„Właścicielowi restauracji puściły nerwy”. Nowy film Książula ma 2,4 mln wyświetleń",
+        "summary": "Książulo opublikował 38-minutowy film o wizycie w restauracji, w której według tytułu nie wytrzymał właściciel. Komentarze są pełne zdziwienia lokalem.",
+        "body": [
+          "25 października na kanale Książula pojawił się film „WŁAŚCICIELOWI RESTAURACJI PUŚCIŁY NERWY”. Opis ogranicza się do żartobliwego dopisku, więc opieramy się na tytule i reakcjach.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 2,4 mln wyświetleń, 40 tys. polubień i 2844 komentarzy.",
+          "Widzowie w najpopularniejszych komentarzach piszą, że dzieci czekające na zdjęcie z twórcą zachowały się kulturalniej niż wielu dorosłych, a sam lokal porównują do eksperymentu społecznego."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=E5mSwrJjg0g",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=E5mSwrJjg0g",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/E5mSwrJjg0g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/E5mSwrJjg0g/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=E5mSwrJjg0g",
+          "alt": "Miniatura filmu Książula „Właścicielowi restauracji puściły nerwy”",
+          "caption": "Miniatura filmu Książula o restauracji"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura filmu, w którym Książulo odwiedza restaurację z tytułu. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-25",
+        "who": "EKIPA WK",
+        "initials": "WK",
+        "category": "Programy",
+        "hype": 4,
+        "title": "EKIPA WK zrobiła teleturniej „Impostor influencerów”. Godzinny odcinek ma 1,3 mln wyświetleń",
+        "summary": "Warszawski Koks i ekipa WK opublikowali teleturniej, w którym influencerzy szukają oszusta wśród siebie. Film zawiera autopromocję marki DZIK.",
+        "body": [
+          "25 października na kanale EKIPA WK pojawił się ponad godzinny odcinek „Teleturniej IMPOSTOR INFLUENCERÓW!”. W opisie zaznaczono autopromocję marki DZIK i sieci siłowni DZIK GYM.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,3 mln wyświetleń, 22 tys. polubień i 518 komentarzy.",
+          "W komentarzach widzowie żartują z reklamy w filmie i cytują okrzyki uczestników."
+        ],
+        "sources": [
+          {
+            "name": "EKIPA WK / YouTube",
+            "url": "https://www.youtube.com/watch?v=TLSfdISFkxc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=TLSfdISFkxc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/TLSfdISFkxc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/TLSfdISFkxc/hqdefault.jpg",
+          "credit": "EKIPA WK / YouTube",
+          "href": "https://www.youtube.com/watch?v=TLSfdISFkxc",
+          "alt": "Miniatura filmu EKIPY WK „Teleturniej Impostor influencerów”",
+          "caption": "Miniatura teleturnieju EKIPY WK"
+        },
+        "caption": {
+          "credit": "EKIPA WK / YouTube",
+          "text": "Miniatura odcinka „Impostor influencerów”. Opis filmu potwierdza format i autopromocję marki."
+        },
+        "ig": [
+          "wkdzik"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-25",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Blowek przejechał Polskę i ocenił 9 restauracji influencerów. Lokale odpisują w komentarzach",
+        "summary": "Blowek sprawdził nowe lokale znanych twórców, w tym stację Skolima. Pod filmem odezwały się same restauracje.",
+        "body": [
+          "25 października Blowek opublikował film „TESTUJĘ 9 RESTAURACJI INFLUENCERÓW! (czy to scam?)”. W opisie pisze, że przejechał całą Polskę, by sprawdzić, czy lokale znanych twórców mają coś więcej niż znaną twarz. Wymienia m.in. stację Skolima.",
+          "Pod filmem pojawiły się komentarze lokali, które dziękują za odwiedziny i za wręczony dyplom. Twórca obiecuje kolejne odcinki, jeśli film zbierze 20 tys. polubień.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 647 tys. wyświetleń, 6 tys. polubień i 217 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Blowek / YouTube",
+            "url": "https://www.youtube.com/watch?v=mc1a9PTbU1g",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=mc1a9PTbU1g",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/mc1a9PTbU1g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/mc1a9PTbU1g/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/watch?v=mc1a9PTbU1g",
+          "alt": "Miniatura filmu Blowka „Testuję 9 restauracji influencerów”",
+          "caption": "Miniatura filmu Blowka o restauracjach influencerów"
+        },
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Miniatura testu restauracji twórców. Opis filmu wymienia część odwiedzonych lokali."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-25",
+        "who": "Graf",
+        "initials": "GR",
+        "category": "Programy",
+        "hype": 3,
+        "title": "Ósmy odcinek „Teleturnieju o grach” Grafa. Grali Bladii, Dobrodziej, Kacpir i Cichy Wuj",
+        "summary": "Graf opublikował kolejny odcinek drugiego sezonu swojego teleturnieju. Tym razem zmierzyły się dwie pary twórców.",
+        "body": [
+          "25 października na kanale Grafa pojawił się 48-minutowy „Teleturniej o Grach S2E8”. W tytule oznaczeni są uczestnicy: Bladii309 i Dobrodziej przeciwko Kacpirowi i Cichemu Wujowi.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 213 tys. wyświetleń, 5 tys. polubień i 210 komentarzy.",
+          "Widzowie żartują w komentarzach, że pytania przypominały im egzamin, na który przyszli niewyspani."
+        ],
+        "sources": [
+          {
+            "name": "Graf / YouTube",
+            "url": "https://www.youtube.com/watch?v=h3CKGGFa29o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=h3CKGGFa29o",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/h3CKGGFa29o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/h3CKGGFa29o/hqdefault.jpg",
+          "credit": "Graf / YouTube",
+          "href": "https://www.youtube.com/watch?v=h3CKGGFa29o",
+          "alt": "Miniatura filmu Grafa „Teleturniej o Grach S2E8”",
+          "caption": "Miniatura odcinka Teleturnieju o Grach"
+        },
+        "caption": {
+          "credit": "Graf / YouTube",
+          "text": "Miniatura ósmego odcinka drugiego sezonu. Tytuł filmu wymienia wszystkich uczestników."
+        },
+        "ig": [
+          "graf_irl"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-25",
+        "who": "Sidemen",
+        "initials": "SI",
+        "category": "Programy",
+        "hype": 4,
+        "title": "Sidemen ruszyli w trasę: „jak daleko dojedziesz”. Odcinek ma 5,5 mln wyświetleń",
+        "summary": "Brytyjska grupa Sidemen opublikowała nową edycję formatu „How Far Can You Get” w wersji road trip. Film trwa ponad półtorej godziny.",
+        "body": [
+          "25 października na kanale Sidemen ukazał się odcinek „SIDEMEN HOW FAR CAN YOU GET (ROAD TRIP EDITION)”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 5,5 mln wyświetleń, 88 tys. polubień i 2673 komentarzy.",
+          "Widzowie śmieją się w komentarzach z drużyny, która trafiała na zamknięte lokale, i porównują przejechane przez zespoły mile. Najpopularniejszy komentarz domaga się drugiej części innego formatu grupy."
+        ],
+        "sources": [
+          {
+            "name": "Sidemen / YouTube",
+            "url": "https://www.youtube.com/watch?v=LTiGuCOPITQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=LTiGuCOPITQ",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/LTiGuCOPITQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/LTiGuCOPITQ/hqdefault.jpg",
+          "credit": "Sidemen / YouTube",
+          "href": "https://www.youtube.com/watch?v=LTiGuCOPITQ",
+          "alt": "Miniatura filmu Sidemen „How Far Can You Get (Road Trip Edition)”",
+          "caption": "Miniatura odcinka Sidemen"
+        },
+        "caption": {
+          "credit": "Sidemen / YouTube",
+          "text": "Miniatura odcinka Sidemen w formule road trip. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "sidemen"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-25",
+        "who": "Przyroda",
+        "initials": "EP",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Larwy tego chrząszcza zjadają żaby. Wabią je, udając łatwą zdobycz",
+        "summary": "Zwykle to żaby polują na chrząszcze. Larwy z podrodzaju Epomis odwracają role i żywią się wyłącznie płazami.",
+        "body": [
+          "Epomis to podrodzaj chrząszczy biegaczowatych. Ich larwy są drapieżnikami, które odwracają typowy układ: zjadają płazy, choć zwykle to płazy jedzą chrząszcze.",
+          "Według badań larwy wabią żaby ruchami przypominającymi zdobycz, a potem same je atakują."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Epomis"
+          },
+          {
+            "name": "ncbi.nlm.nih.gov",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3177849"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Epomis_dejeani.JPG",
+          "href": "https://commons.wikimedia.org/wiki/File:Epomis_dejeani.JPG",
+          "credit": "Gil Wizen / Wikimedia Commons, CC BY 3.0",
+          "alt": "Chrząszcz z rodzaju Epomis",
+          "caption": "Chrząszcz Epomis"
+        },
+        "caption": {
+          "credit": "Gil Wizen / Wikimedia Commons",
+          "text": "Zdjęcie chrząszcza z podrodzaju Epomis. To jego larwy polują na żaby."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-24": {
+    "date": "2026-10-24",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-24",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 5,
+        "title": "Drugi odcinek „Mafii IRL”. Friz rozpisał cały sezon: finał 10 listopada",
+        "summary": "Friz opublikował drugi odcinek piątego sezonu „Mafii IRL” i podał w opisie daty wszystkich kolejnych. Nowe odcinki mają wychodzić co dwa dni.",
+        "body": [
+          "24 października na kanale Friza ukazał się odcinek „NIE WYTRZYMAŁA TAKIEGO NAPIĘCIA!! (MAFIA IRL SEZON 5 odc.2)”, trwający ponad półtorej godziny.",
+          "W opisie twórca rozpisał harmonogram: kolejne odcinki 26, 28 i 30 października oraz 1, 3, 5 i 7 listopada, finał 10 listopada, a dzień później odcinek łączony.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 3,0 mln wyświetleń, 61 tys. polubień i 2120 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=aQvw8dJhAew",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=aQvw8dJhAew",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/aQvw8dJhAew/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/aQvw8dJhAew/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=aQvw8dJhAew",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 2”",
+          "caption": "Miniatura drugiego odcinka Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura drugiego odcinka 5. sezonu. W opisie tego filmu Friz podał daty całego sezonu."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-24",
+        "who": "izak",
+        "initials": "IZ",
+        "category": "E-sport",
+        "hype": 3,
+        "title": "Polska transmisja PGL Masters Bucharest 2026 ruszyła u izaka. Pierwszy dzień trwał niemal 12 godzin",
+        "summary": "izak transmitował po polsku turniej CS2 PGL Masters Bucharest 2026. Nagranie pierwszego dnia ma ponad 200 tys. wyświetleń.",
+        "body": [
+          "24 października na kanale izak LIVE pojawiło się nagranie „PGL Masters Bucharest 2026 | 18+ | Dzień 1”. Transmisja trwała blisko 12 godzin.",
+          "Dzień wcześniej Officialhyper relacjonował na swoim kanale awans polskiej drużyny na turniej w Bukareszcie. izak zachęca też w opisie do śledzenia konta studia na X.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 211 tys. wyświetleń, 1 tys. polubień i 3 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "izak LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=OlSXLy4FtTw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=OlSXLy4FtTw",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/OlSXLy4FtTw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/OlSXLy4FtTw/hqdefault.jpg",
+          "credit": "izak LIVE / YouTube",
+          "href": "https://www.youtube.com/watch?v=OlSXLy4FtTw",
+          "alt": "Miniatura transmisji izaka z PGL Masters Bucharest 2026",
+          "caption": "Miniatura transmisji izaka z Bukaresztu"
+        },
+        "caption": {
+          "credit": "izak LIVE / YouTube",
+          "text": "Miniatura nagrania transmisji z pierwszego dnia PGL Masters Bucharest. Opisujemy tytuł i statystyki nagrania."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-24",
+        "who": "KSI",
+        "initials": "KS",
+        "category": "Programy",
+        "hype": 3,
+        "title": "KSI spróbował „najtrudniejszych prac świata”. Widzowie: jeden z jego lepszych filmów od dawna",
+        "summary": "KSI wrzucił 45-minutowy film, w którym próbuje wymagających zawodów. W opisie zaznacza, że oceny wynikają tylko z jednego dnia pracy.",
+        "body": [
+          "24 października na kanale KSI ukazał się film „I Tried the World’s Hardest Jobs”. Pod spodem twórca dopisał, że szanuje ludzi, którzy wykonują te prace na co dzień, a jego oceny dotyczą tylko jednego dnia.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,7 mln wyświetleń, 26 tys. polubień i 1273 komentarzy.",
+          "Najwyżej oceniane komentarze chwalą powrót do takiego formatu i żart ekipy budowlanej na końcu filmu."
+        ],
+        "sources": [
+          {
+            "name": "KSI / YouTube",
+            "url": "https://www.youtube.com/watch?v=BAs4pPGB890",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=BAs4pPGB890",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BAs4pPGB890/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BAs4pPGB890/hqdefault.jpg",
+          "credit": "KSI / YouTube",
+          "href": "https://www.youtube.com/watch?v=BAs4pPGB890",
+          "alt": "Miniatura filmu KSI „I Tried the World’s Hardest Jobs”",
+          "caption": "Miniatura filmu KSI"
+        },
+        "caption": {
+          "credit": "KSI / YouTube",
+          "text": "Miniatura filmu KSI o próbowaniu ciężkich zawodów. Opis filmu wyjaśnia, jak twórca ocenia każdą pracę."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-24",
+        "who": "USA",
+        "initials": "LF",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Krowa dała w rok ponad 470 kg masła. Jej imieniem nazwano dzielnicę w Alabamie",
+        "summary": "Lily Flagg była krową rasy Jersey i w 1892 r. najlepszą producentką masła na świecie. Upamiętnia ją dzielnica w Huntsville.",
+        "body": [
+          "Krowa rasy Jersey o imieniu Lily Flagg w rekordowym 1892 r. ważyła ok. 430 kg i dała mleko na ok. 475 kg masła. Należała do hodowców z Huntsville w Alabamie.",
+          "Jej imię nosi dziś jedna z dzielnic tego miasta."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lily_Flagg"
+          },
+          {
+            "name": "web.archive.org",
+            "url": "https://web.archive.org/web/20160818153926/http://huntsville.about.com/library/blstroll.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lily_Flagg.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Lily_Flagg.jpg",
+          "credit": "Artist not credited / Wikimedia Commons, Public domain",
+          "alt": "Dawna ilustracja krowy Lily Flagg",
+          "caption": "Krowa Lily Flagg"
+        },
+        "caption": {
+          "credit": "Artist not credited / Wikimedia Commons",
+          "text": "Dawna ilustracja krowy Lily Flagg. To ona była w 1892 r. rekordzistką w produkcji masła."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-23": {
+    "date": "2026-10-23",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-23",
+        "who": "Białas",
+        "initials": "BI",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Białas wrócił z numerem „ANDRZEJ GOATa”. Klip ma blisko 1,4 mln wyświetleń",
+        "summary": "SBM wypuściło teledysk Białasa „ANDRZEJ GOATa”. W opisie raper zapowiada też drugi termin koncertu „The End of H8ME”.",
+        "body": [
+          "23 października na kanale SBM ukazał się klip „Białas - ANDRZEJ GOATa”, wyreżyserowany przez Igora Ignacego Leśniewskiego. Utwór trafił równocześnie do serwisów streamingowych.",
+          "W opisie podano link do biletów na drugi termin koncertu „THE END OF H8ME”.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,4 mln wyświetleń, 29 tys. polubień i 1032 komentarzy. Fani w komentarzach chwalą zwrotki bez refrenu i cieszą się z powrotu rapera."
+        ],
+        "sources": [
+          {
+            "name": "SBM / YouTube",
+            "url": "https://www.youtube.com/watch?v=OaGkrXrxYns",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=OaGkrXrxYns",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/OaGkrXrxYns/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/OaGkrXrxYns/hqdefault.jpg",
+          "credit": "SBM / YouTube",
+          "href": "https://www.youtube.com/watch?v=OaGkrXrxYns",
+          "alt": "Miniatura teledysku Białasa „ANDRZEJ GOATa”",
+          "caption": "Kadr z klipu „ANDRZEJ GOATa”"
+        },
+        "caption": {
+          "credit": "SBM / YouTube",
+          "text": "Miniatura teledysku Białasa wydanego przez SBM. To ten klip zapowiadał też drugi termin koncertu."
+        },
+        "ig": [
+          "bialas_h8m6"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-23",
+        "who": "ENZO",
+        "initials": "EN",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "ENZO i Malik Montana wydali wspólny singiel „DYMI CZACHA”",
+        "summary": "Na kanale Eastern Block Klan ukazał się numer ENZO z Malikiem Montaną. Premiera wypadła tuż przed koncertem ENZO w Łodzi.",
+        "body": [
+          "W nocy z 22 na 23 października ukazał się klip „ENZO x Malik Montana - DYMI CZACHA”. Za muzykę odpowiadają SWIZZY i OLEK, a za wideo uglyassocho.",
+          "W opisie ENZO zaprasza na koncert w Łodzi 23 października. Utwór jest dostępny także w serwisach streamingowych.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 350 tys. wyświetleń, 5 tys. polubień i 138 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Eastern Block Klan / YouTube",
+            "url": "https://www.youtube.com/shorts/9ILmNUUVcsc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/9ILmNUUVcsc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/9ILmNUUVcsc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/9ILmNUUVcsc/hqdefault.jpg",
+          "credit": "Eastern Block Klan / YouTube",
+          "href": "https://www.youtube.com/shorts/9ILmNUUVcsc",
+          "alt": "Miniatura klipu „DYMI CZACHA” ENZO i Malika Montany",
+          "caption": "Kadr z klipu „DYMI CZACHA”"
+        },
+        "caption": {
+          "credit": "Eastern Block Klan / YouTube",
+          "text": "Miniatura klipu ENZO i Malika Montany. Opis filmu podaje twórców muzyki i obrazu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-23",
+        "who": "PLKD",
+        "initials": "PL",
+        "category": "E-sport",
+        "hype": 3,
+        "title": "PLKD poprowadził finał akademickiej ligi Red Bull Wings Cup. Najlepszy student powalczy o Miami",
+        "summary": "PLKD transmitował na YouTube finał ligi akademickiej turnieju Red Bull Wings Cup w EA FC. Dzień później poprowadził finał ligi otwartej.",
+        "body": [
+          "23 października na kanale PLKD pojawiła się ponad czterogodzinna transmisja „RED BULL WINGS CUP - FINAŁ LIGI AKADEMICKIEJ”.",
+          "Jak czytamy w opisie, finał miał wyłonić najlepszego studenta w Polsce, który powalczy o wyjazd do Miami na wielki finał. Transmisja zawiera lokowanie produktu.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 90 tys. wyświetleń, 1 tys. polubień i 3 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "PLKD / YouTube",
+            "url": "https://www.youtube.com/watch?v=wwCz01uKfgo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=wwCz01uKfgo",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wwCz01uKfgo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wwCz01uKfgo/hqdefault.jpg",
+          "credit": "PLKD / YouTube",
+          "href": "https://www.youtube.com/watch?v=wwCz01uKfgo",
+          "alt": "Miniatura transmisji PLKD z finału ligi akademickiej Red Bull Wings Cup",
+          "caption": "Miniatura transmisji z finału Red Bull Wings Cup"
+        },
+        "caption": {
+          "credit": "PLKD / YouTube",
+          "text": "Miniatura transmisji PLKD z finału ligi akademickiej. Opis transmisji potwierdza stawkę: wyjazd do Miami."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-23",
+        "who": "PewDiePie",
+        "initials": "PD",
+        "category": "Życie",
+        "hype": 4,
+        "title": "PewDiePie wpisał swoje nazwisko w Google. Fani piszą, że to najbardziej „stary Pewds” od lat",
+        "summary": "PewDiePie opublikował film „I Google Myself..”, w którym sprawdza, co wyszukiwarka mówi o nim samym. Film ma ponad 3 mln wyświetleń.",
+        "body": [
+          "23 października na kanale PewDiePie pojawił się 11-minutowy film „I Google Myself..”. W opisie są reklamy sponsorów i link do rodzinnego newslettera.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 3,1 mln wyświetleń, 81 tys. polubień i 5082 komentarzy.",
+          "Najpopularniejsze komentarze żartobliwie dziękują sponsorowi za to, że PewDiePie wrzucił nowy film. Inni piszą, że dawno nie był tak podobny do siebie sprzed lat."
+        ],
+        "sources": [
+          {
+            "name": "PewDiePie / YouTube",
+            "url": "https://www.youtube.com/watch?v=U6I5PkZjWZU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=U6I5PkZjWZU",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/U6I5PkZjWZU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/U6I5PkZjWZU/hqdefault.jpg",
+          "credit": "PewDiePie / YouTube",
+          "href": "https://www.youtube.com/watch?v=U6I5PkZjWZU",
+          "alt": "Miniatura filmu PewDiePie „I Google Myself”",
+          "caption": "Miniatura filmu PewDiePie"
+        },
+        "caption": {
+          "credit": "PewDiePie / YouTube",
+          "text": "Miniatura filmu, w którym PewDiePie wyszukuje informacje o sobie. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-23",
+        "who": "CIA",
+        "initials": "KR",
+        "category": "Zagadki",
+        "hype": 4,
+        "title": "Przed siedzibą CIA stoi rzeźba z czterema szyframi. Jednego nikt nie złamał od 1990 roku",
+        "summary": "Rzeźba Kryptos Jima Sanborna kryje cztery zaszyfrowane wiadomości. Trzy rozwiązano, czwarta to jeden z najsłynniejszych nierozwiązanych szyfrów świata.",
+        "body": [
+          "Kryptos to rzeźba amerykańskiego artysty Jima Sanborna na terenie siedziby CIA w Langley w Wirginii. Odsłonięto ją 3 listopada 1990 r.",
+          "Z czterech zaszyfrowanych na niej wiadomości trzy zostały rozwiązane. Czwarta wciąż czeka na rozszyfrowanie, a autor sugerował, że po rozwiązaniu wszystkich ujawni się jeszcze piąta."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Kryptos"
+          },
+          {
+            "name": "kryptosfan.wordpress.com",
+            "url": "https://kryptosfan.wordpress.com/morse-code/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kryptos_sculptor.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Kryptos_sculptor.jpg",
+          "credit": "Jim Sanborn / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Rzeźba Kryptos z wyciętymi literami szyfru",
+          "caption": "Rzeźba Kryptos i jej autor"
+        },
+        "caption": {
+          "credit": "Jim Sanborn / Wikimedia Commons",
+          "text": "Zdjęcie rzeźby Kryptos z wyciętymi literami szyfru. To właśnie na niej znajduje się nierozwiązana czwarta wiadomość."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
+  "2026-10-22": {
+    "date": "2026-10-22",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-22",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Programy",
+        "hype": 5,
+        "title": "Ruszył piąty sezon „Mafii IRL” Friza. Pierwszy odcinek trwa 80 minut",
+        "summary": "Friz wypuścił pierwszy odcinek piątego sezonu „Mafii w prawdziwym życiu”. Widzowie od razu typują w komentarzach, kto z uczestników jest mafią.",
+        "body": [
+          "W środę 22 października na kanale Friza pojawił się odcinek „MAFIA W PRAWDZIWYM ŻYCIU! (MAFIA IRL SEZON 5 odc.1)”. Materiał trwa około 80 minut i otwiera nowy sezon jednego z najpopularniejszych formatów Ekipy.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 4,0 mln wyświetleń, 78 tys. polubień i 3546 komentarzy.",
+          "Najwyżej oceniane komentarze to typy widzów, kogo z uczestników można uznać za bezpiecznego, a kogo podejrzewać. W opisie Friz odsyła do sklepu z merchem programu."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=bN8CcP11Hgs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=bN8CcP11Hgs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bN8CcP11Hgs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bN8CcP11Hgs/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=bN8CcP11Hgs",
+          "alt": "Miniatura filmu Friza „Mafia IRL sezon 5 odc. 1”",
+          "caption": "Miniatura pierwszego odcinka 5. sezonu Mafii IRL"
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura otwierającego odcinka nowego sezonu „Mafii IRL”. To od tego materiału zaczyna się sezon, o którym piszemy."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-22",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Życie",
+        "hype": 5,
+        "title": "Kaluch został ojcem. „Urodził mi się syn”, napisał pod nowym filmem",
+        "summary": "Kaluch, jeden z najdłużej działających polskich youtuberów, ogłosił na swoim kanale narodziny syna. Widzowie zasypali go gratulacjami.",
+        "body": [
+          "W środę 22 października na kanale Kalucha pojawił się film „ZOSTAŁEM OJCEM!”. W opisie twórca napisał wprost, że urodził mu się syn i że jest szczęśliwy.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 408 tys. wyświetleń, 18 tys. polubień i 1391 komentarzy.",
+          "W komentarzach dominują gratulacje. Wielu widzów przypomina, że wychowało się na jego filmach, i żartuje, że teraz Kaluch zrobi dzieciństwo własnemu dziecku."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=jKmtgN-dP4k",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=jKmtgN-dP4k",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/jKmtgN-dP4k/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/jKmtgN-dP4k/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=jKmtgN-dP4k",
+          "alt": "Miniatura filmu Kalucha „Zostałem ojcem!”",
+          "caption": "Miniatura filmu Kalucha o narodzinach syna"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura filmu, w którym Kaluch ogłasza, że został ojcem. Informację potwierdza opis filmu napisany przez samego twórcę."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-22",
+        "who": "Hinol",
+        "initials": "HI",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Hinol z Polskiej Wersji nagrał „Mój kawałek podłogi”. Sięgnął po klasyk Mr. Zoob",
+        "summary": "Hinol wydał singiel „MÓJ KAWAŁEK PODŁOGI”, który łączy jego rap z kultowym utworem Mr. Zoob. Ruszył też preorder limitowanego wydania.",
+        "body": [
+          "22 października na kanale Polskiej Wersji ukazał się teledysk „Hinol Polska Wersja - MÓJ KAWAŁEK PODŁOGI” z produkcją PSR i Dizzmy.",
+          "Według opisu to kolejny singiel po „Krainie wolnych dusz”, a utwór opowiada o rozstaniach, trudnych emocjach i zmianach. Fani mogą zamawiać limitowany preorder w sklepie wydawcy.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 662 tys. wyświetleń, 13 tys. polubień i 382 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Polska Wersja / YouTube",
+            "url": "https://www.youtube.com/watch?v=ZPDzp6EGccA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ZPDzp6EGccA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ZPDzp6EGccA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ZPDzp6EGccA/hqdefault.jpg",
+          "credit": "Polska Wersja / YouTube",
+          "href": "https://www.youtube.com/watch?v=ZPDzp6EGccA",
+          "alt": "Miniatura teledysku Hinola „Mój kawałek podłogi”",
+          "caption": "Kadr z teledysku „Mój kawałek podłogi”"
+        },
+        "caption": {
+          "credit": "Polska Wersja / YouTube",
+          "text": "Miniatura teledysku do nowego singla Hinola. Opis filmu potwierdza, że numer nawiązuje do utworu Mr. Zoob."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-22",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo zjadł „kanapeczkę za 120 zł”. Short ma ponad milion wyświetleń",
+        "summary": "Książulo wrzucił krótki film o kanapce za 120 zł. Widzowie znów dyskutują w komentarzach, ile warte jest jedzenie w drogich lokalach.",
+        "body": [
+          "22 października na kanale Książula pojawił się short „Kanapeczka za 120 zł”. Film nie ma napisów, więc opisujemy go po tytule i reakcjach widzów.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,2 mln wyświetleń, 18 tys. polubień i 1094 komentarzy.",
+          "Komentujący przeliczają cenę na mrożone pizze i chwalą reakcję twórcy przy ocenie smaku. To kolejny materiał Książula o wyjątkowo drogim jedzeniu."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/shorts/XK_v-KqGBSQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/XK_v-KqGBSQ",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/XK_v-KqGBSQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/XK_v-KqGBSQ/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/shorts/XK_v-KqGBSQ",
+          "alt": "Miniatura shorta Książula „Kanapeczka za 120 zł”",
+          "caption": "Miniatura shorta Książula o kanapce za 120 zł"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura shorta, w którym Książulo testuje kanapkę za 120 zł. Opisujemy tylko tytuł, statystyki i reakcje widzów."
+        },
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-22",
+        "who": "Zalewskyy",
+        "initials": "ZA",
+        "category": "E-sport",
+        "hype": 3,
+        "title": "Zalewskyy i PLKD walczą w kwalifikacjach Red Bull Wings Cup. Stawką jest wyjazd do Miami",
+        "summary": "Zalewskyy pokazał swój udział w kwalifikacjach turnieju Red Bull Wings Cup w EA FC. Zwycięzca reprezentuje Polskę na finale w Miami.",
+        "body": [
+          "22 października Zalewskyy opublikował film „POLECĘ Z PLKD DO MIAMI?! - KWALIFIKACJE DO RED BULL WINGS CUP”. W opisie żartobliwie każe PLKD pakować walizki do Miami.",
+          "Red Bull Wings Cup to turniej w EA FC, którego polski finał wyłania reprezentanta kraju na wielki finał w Miami. Finały ligi akademickiej i otwartej PLKD transmitował 23 i 24 października.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 24 tys. wyświetleń, 0 tys. polubień i 16 komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Zalewskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=vok5Gc_TpLA",
+            "origin": true
+          },
+          {
+            "name": "PLKD / YouTube",
+            "url": "https://www.youtube.com/watch?v=_zqLxDcv4II"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vok5Gc_TpLA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vok5Gc_TpLA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vok5Gc_TpLA/hqdefault.jpg",
+          "credit": "Zalewskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=vok5Gc_TpLA",
+          "alt": "Miniatura filmu Zalewskyy’ego o kwalifikacjach do Red Bull Wings Cup",
+          "caption": "Miniatura filmu Zalewskyy’ego z kwalifikacji"
+        },
+        "caption": {
+          "credit": "Zalewskyy / YouTube",
+          "text": "Miniatura filmu z kwalifikacji do Red Bull Wings Cup. W materiale twórca gra o awans do polskiego finału turnieju."
+        },
+        "ig": [
+          "_zalewskyy"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-22",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "Życie",
+        "hype": 3,
+        "title": "Ludwig żartuje, że Maya próbowała zepsuć mu ślub. Short ma 1,8 mln wyświetleń",
+        "summary": "Ludwig Ahgren wrzucił krótki film o tym, jak ktoś „próbował zepsuć mu dzień ślubu”. Z podpisu filmu wynika, że chodzi o jego partnerkę Mayę Higę.",
+        "body": [
+          "W nocy z 21 na 22 października na kanale Ludwiga pojawił się short „She tried to ruin my wedding day...”. W hasztagach twórca oznaczył Mayę Higę.",
+          "Do 9 listopada (godz. 10:18) film miał ok. 1,8 mln wyświetleń, 46 tys. polubień i 112 komentarzy.",
+          "Widzowie wyjaśniają sobie w komentarzach, że chodzi o Mayę, i żartują z instrumentu dętego, który pojawia się w nagraniu. Ludwig jest jednym z najpopularniejszych amerykańskich streamerów."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/shorts/5sKRZd5Pqxs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/5sKRZd5Pqxs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/5sKRZd5Pqxs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/5sKRZd5Pqxs/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/shorts/5sKRZd5Pqxs",
+          "alt": "Miniatura shorta Ludwiga o dniu ślubu",
+          "caption": "Miniatura shorta Ludwiga"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura shorta Ludwiga o dniu ślubu. Opisujemy tytuł, hasztagi i reakcje widzów, bez treści, której nie da się potwierdzić."
+        },
+        "ig": [
+          "ludwigahgren"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-22",
+        "who": "Walia",
+        "initials": "WA",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "Walijczyk wyrzucił na wysypisko dysk z kluczem do 8 tys. bitcoinów. Miasto nie pozwala go szukać",
+        "summary": "W 2013 r. James Howells przez pomyłkę wyrzucił dysk z kluczem do 8000 bitcoinów. Rada Newport odmawia zgody na przekopanie wysypiska.",
+        "body": [
+          "Informatyk z Walii przez pomyłkę wyrzucił w 2013 r. twardy dysk z kluczem prywatnym do 8000 bitcoinów. Dysk trafił na wysypisko Docksway w Newport.",
+          "Howells zebrał ekspertów i pieniądze na poszukiwania, ale rada miasta nie zgodziła się na wykopaliska, powołując się m.in. na zagrożenia dla zdrowia i środowiska."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bitcoin_buried_in_Newport_landfill"
+          },
+          {
+            "name": "bbc.co.uk",
+            "url": "https://www.bbc.co.uk/news/uk-wales-south-east-wales-25134289"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Newport_City_Landfill_Site_-_geograph.org.uk_-_471790.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Newport_City_Landfill_Site_-_geograph.org.uk_-_471790.jpg",
+          "credit": "Robin Drayton / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Wysypisko śmieci w Newport w Walii",
+          "caption": "Wysypisko w Newport, gdzie trafił dysk z bitcoinami"
+        },
+        "caption": {
+          "credit": "Robin Drayton / Wikimedia Commons",
+          "text": "Zdjęcie wysypiska w Newport. To tam według źródeł leży dysk z kluczem do bitcoinów."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-09": {
     "date": "2026-11-09",
     "ryby": [],

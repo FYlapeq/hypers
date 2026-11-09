@@ -17,6 +17,178 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-09/angielski-ksiaze-odludek-kazal-wykopac-pod-swoja-posiadloscia-ogromny.html"
   ]
  },
+ "2026-11-08": {
+  "luz": [
+   "artykuly/2026-11-08/wielki-final-iem-beijing-2026-po-polsku-u-izaka-transmisja-trwala.html",
+   "artykuly/2026-11-08/sidemen-zrobili-quiz-dla-youtuberow-widzom-brakuje-stalej-uczestniczki.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-08/w-berlinie-stoi-betonowy-walec-ktory-zbudowano-tylko-po-to-zeby-byl.html"
+  ]
+ },
+ "2026-11-07": {
+  "luz": [
+   "artykuly/2026-11-07/ostatni-odcinek-mafii-irl-przed-finalem-final-10-listopada.html",
+   "artykuly/2026-11-07/pewdiepie-i-failed-nowy-film-ma-3-3-mln-wyswietlen.html",
+   "artykuly/2026-11-07/moreletv-i-tektesters-pytaja-czy-banka-ai-wlasnie-peka.html"
+  ]
+ },
+ "2026-11-06": {
+  "luz": [
+   "artykuly/2026-11-06/bambi-wydala-wroc-do-mnie-fani-sa-zaskoczeni-mroczniejszym-klimatem.html",
+   "artykuly/2026-11-06/sajmon-kobra-i-olka-nagrali-flex-dla-the-outlawz.html",
+   "artykuly/2026-11-06/mrbeast-sam-zagral-w-ruletke-z-zapadnia-short-ma-blisko-60-mln.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-06/w-biblii-z-1631-r-zabraklo-jednego-slowa-przykazanie-brzmialo-cudzoloz.html"
+  ]
+ },
+ "2026-11-05": {
+  "luz": [
+   "artykuly/2026-11-05/mafia-irl-przed-finalem-pod-osmym-odcinkiem-widzowie-krytykuja.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-05/istnieje-muzeum-nieudanych-produktow-sa-tam-google-glass-i-nokia.html"
+  ]
+ },
+ "2026-11-04": {
+  "luz": [
+   "artykuly/2026-11-04/napoj-kalucha-floride-juz-w-zabkach-tworca-oglosil-konkurs-dla.html",
+   "artykuly/2026-11-04/ksiazulo-sprawdzil-10-kebabow-z-naklejka-muala-widzowie-prosza-o-date.html",
+   "artykuly/2026-11-04/vin-vinci-zapowiada-czwarta-solowke-veni-vidi-vinci-jest-utwor.html",
+   "artykuly/2026-11-04/ishowspeed-sprobowal-zostac-zawodowym-baseballista-ocenial-go-derek.html"
+  ]
+ },
+ "2026-11-03": {
+  "luz": [
+   "artykuly/2026-11-03/jschlatt-zaspiewal-ludwigowi-serenade-short-ma-2-3-mln-wyswietlen.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-03/w-1943-r-niemcy-postawili-w-kanadzie-stacje-pogodowa-odkryto.html"
+  ]
+ },
+ "2026-11-02": {
+  "luz": [
+   "artykuly/2026-11-02/ekipa-wk-i-white-2115-w-grze-1-lekarz-wsrod-6-pacjentow-prawie-milion.html",
+   "artykuly/2026-11-02/kaluch-wyremontowal-swoj-stary-pokoj-w-ktorym-nagrywal-pierwsze-serie.html",
+   "artykuly/2026-11-02/young-multi-zapowiedzial-projekt-lost-media-premiera-5-listopada.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-02/w-1913-r-wyruszyla-wyprawa-na-wyspe-ktorej-nie-bylo-najpewniej.html"
+  ]
+ },
+ "2026-11-01": {
+  "luz": [
+   "artykuly/2026-11-01/ksiazulo-odwiedzil-jarmark-przy-cmentarzu-na-wszystkich-swietych-2-7.html",
+   "artykuly/2026-11-01/sidemen-rywalizowali-kto-pierwszy-ucieknie-z-rezydencji-widzowie.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-01/lososia-da-sie-upiec-w-zmywarce-producenci-zmywarek-ostrzegaja-przed.html"
+  ]
+ },
+ "2026-10-31": {
+  "luz": [
+   "artykuly/2026-10-31/dom-strachu-rezigiusza-z-wojtkiem-gola-nieuczesana-i-klaudia-sadownik.html",
+   "artykuly/2026-10-31/dizowskyy-zagral-w-polski-horror-ch13-rest-stop-akcja-dzieje-sie.html",
+   "artykuly/2026-10-31/mrbeast-zmierzyl-sie-z-zawodowymi-sportowcami-o-100-tys-dolarow.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-31/w-japonii-co-roku-przeciaga-sie-line-wazaca-ok-40-ton-ciagna.html"
+  ]
+ },
+ "2026-10-30": {
+  "luz": [
+   "artykuly/2026-10-30/mrbeast-sprawdzil-czy-robot-posprzata-za-niego-short-ma-ponad-70-mln.html",
+   "artykuly/2026-10-30/friz-rozpisal-co-po-finale-mafii-irl-odcinek-laczony-klamstwa.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-30/angielka-twierdzila-ze-zmarli-kompozytorzy-dyktuja-jej-nowe-utwory.html"
+  ]
+ },
+ "2026-10-29": {
+  "luz": [
+   "artykuly/2026-10-29/kaluch-ma-wlasny-napoj-floride-od-4-listopada-w-kazdej-zabce.html",
+   "artykuly/2026-10-29/major-spz-i-natis-w-klipie-alko-i-kwiaty-to-zapowiedz-imprezowej-ep-ki.html",
+   "artykuly/2026-10-29/cypis-diho-i-majki-nagrali-nudeski-ruszyl-preorder-albumu-moralne.html",
+   "artykuly/2026-10-29/graf-pojechal-do-kostaryki-zakochalem-sie-w-nim-pisze-w-tytule.html",
+   "artykuly/2026-10-29/gothamchess-zagral-w-szachy-z-harrym-kane-em-i-michaelem-olise.html"
+  ]
+ },
+ "2026-10-28": {
+  "luz": [
+   "artykuly/2026-10-28/mafia-irl-na-polmetku-czwarty-odcinek-ma-2-4-mln-wyswietlen-widzowie.html",
+   "artykuly/2026-10-28/ksiazulo-znalazl-bar-z-porcjami-jak-dla-swinow-i-cenami-jak-kiedys.html",
+   "artykuly/2026-10-28/bialas-wypuscil-freestyle-mlody-bialas-to-drugi-jego-numer-w-tydzien.html",
+   "artykuly/2026-10-28/rezigiusz-zrobil-dom-strachu-na-zywo-czesc-widzow-czuje-niedosyt.html",
+   "artykuly/2026-10-28/ishowspeed-szedl-na-premiere-swojego-filmu-i-rozdawal-250-tys-dolarow.html"
+  ]
+ },
+ "2026-10-27": {
+  "luz": [
+   "artykuly/2026-10-27/ishowspeed-nocowal-w-domu-z-obecnosci-widzowie-licza-ze-wytrzymal-tam.html",
+   "artykuly/2026-10-27/blowek-porownal-czekolady-z-polski-i-ukrainy-ktory-kraj-robi-lepsza.html",
+   "artykuly/2026-10-27/nullizmatyka-wydala-singiel-blabla-pierwszy-w-pelni-autorski-album.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-27/dwaj-szwagrowie-przez-24-lata-dawali-sobie-na-swieta-te-same-spodnie.html"
+  ]
+ },
+ "2026-10-26": {
+  "luz": [
+   "artykuly/2026-10-26/ksiazulo-sprawdzil-schabowego-z-tiktoka-widzowie-smieja-sie-z-cennika.html",
+   "artykuly/2026-10-26/jacob-rusza-z-nowa-seria-sprawdzam-w-pierwszym-odcinku-qln-szamanfn.html",
+   "artykuly/2026-10-26/miedzinsky-wrocil-z-seria-prosto-z-kina-siodmy-odcinek-ma-ponad-300.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-26/w-wielu-budynkach-w-azji-wschodniej-nie-ma-czwartego-pietra-powodem.html"
+  ]
+ },
+ "2026-10-25": {
+  "luz": [
+   "artykuly/2026-10-25/wlascicielowi-restauracji-puscily-nerwy-nowy-film-ksiazula-ma-2-4-mln.html",
+   "artykuly/2026-10-25/ekipa-wk-zrobila-teleturniej-impostor-influencerow-godzinny-odcinek.html",
+   "artykuly/2026-10-25/blowek-przejechal-polske-i-ocenil-9-restauracji-influencerow-lokale.html",
+   "artykuly/2026-10-25/osmy-odcinek-teleturnieju-o-grach-grafa-grali-bladii-dobrodziej.html",
+   "artykuly/2026-10-25/sidemen-ruszyli-w-trase-jak-daleko-dojedziesz-odcinek-ma-5-5-mln.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-25/larwy-tego-chrzaszcza-zjadaja-zaby-wabia-je-udajac-latwa-zdobycz.html"
+  ]
+ },
+ "2026-10-24": {
+  "luz": [
+   "artykuly/2026-10-24/drugi-odcinek-mafii-irl-friz-rozpisal-caly-sezon-final-10-listopada.html",
+   "artykuly/2026-10-24/polska-transmisja-pgl-masters-bucharest-2026-ruszyla-u-izaka-pierwszy.html",
+   "artykuly/2026-10-24/ksi-sprobowal-najtrudniejszych-prac-swiata-widzowie-jeden-z-jego.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-24/krowa-dala-w-rok-ponad-470-kg-masla-jej-imieniem-nazwano-dzielnice.html"
+  ]
+ },
+ "2026-10-23": {
+  "luz": [
+   "artykuly/2026-10-23/bialas-wrocil-z-numerem-andrzej-goata-klip-ma-blisko-1-4-mln.html",
+   "artykuly/2026-10-23/enzo-i-malik-montana-wydali-wspolny-singiel-dymi-czacha.html",
+   "artykuly/2026-10-23/plkd-poprowadzil-final-akademickiej-ligi-red-bull-wings-cup-najlepszy.html",
+   "artykuly/2026-10-23/pewdiepie-wpisal-swoje-nazwisko-w-google-fani-pisza-ze-to-najbardziej.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-23/przed-siedziba-cia-stoi-rzezba-z-czterema-szyframi-jednego-nikt-nie.html"
+  ]
+ },
+ "2026-10-22": {
+  "luz": [
+   "artykuly/2026-10-22/ruszyl-piaty-sezon-mafii-irl-friza-pierwszy-odcinek-trwa-80-minut.html",
+   "artykuly/2026-10-22/kaluch-zostal-ojcem-urodzil-mi-sie-syn-napisal-pod-nowym-filmem.html",
+   "artykuly/2026-10-22/hinol-z-polskiej-wersji-nagral-moj-kawalek-podlogi-siegnal-po-klasyk.html",
+   "artykuly/2026-10-22/ksiazulo-zjadl-kanapeczke-za-120-zl-short-ma-ponad-milion-wyswietlen.html",
+   "artykuly/2026-10-22/zalewskyy-i-plkd-walcza-w-kwalifikacjach-red-bull-wings-cup-stawka.html",
+   "artykuly/2026-10-22/ludwig-zartuje-ze-maya-probowala-zepsuc-mu-slub-short-ma-1-8-mln.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-22/walijczyk-wyrzucil-na-wysypisko-dysk-z-kluczem-do-8-tys-bitcoinow.html"
+  ]
+ },
  "2026-10-16": {
   "luz": [
    "artykuly/2026-10-16/avi-i-louis-villain-swietuja-10-lat-wspolpracy-singlem.html",
