@@ -1,5 +1,1610 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-10-20": {
+    "date": "2026-10-20",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Patrycjusz Wyżga",
+        "initials": "PW",
+        "category": "Media",
+        "hype": 4,
+        "title": "Wyżga usunął odcinek „Didaskaliów” i przeprosił. Gość miał tatuaż z hasłem SS",
+        "summary": "Z kanału „Didaskalia” zniknął wywiad z weteranem Legii Cudzoziemskiej Sebastianem Cybulskim. Widzowie zauważyli na jego przedramieniu tatuaż z mottem Waffen-SS, a Patrycjusz Wyżga przyznał na X, że nie złapał kontekstu.",
+        "body": [
+          "Odcinek z pisarzem i weteranem Legii Cudzoziemskiej Sebastianem Cybulskim ukazał się w niedzielę 18 października na kanale „Didaskalia”, który ma ok. 450 tys. subskrybentów i należy do grupy Wirtualnej Polski.",
+          "Widzowie zwrócili uwagę na tatuaż gościa z niemieckim hasłem „Meine Ehre heißt Treue”, które było mottem nazistowskiej Waffen-SS. Na X pytali Wyżgę, dlaczego przedstawił taką osobę jako polskiego patriotę.",
+          "W poniedziałek odcinka nie było już na YouTube, a jego zapowiedź zniknęła z WP.pl. Wyżga napisał na X: „Nie połączyłem kropek, nie wykazałem się refleksem, nie złapałem kontekstu. Przepraszam”.",
+          "Zapytany, czy rozmowa wróci z zamazanym tatuażem, odpisał, że zespół to rozważał, ale zdecydował, że nie."
+        ],
+        "sources": [
+          {
+            "name": "Wirtualnemedia.pl",
+            "url": "https://www.wirtualnemedia.pl/didaskalia-youtube-wywiad-usuniety-sebastian-cybulski-legia-cudzoziemska-patrycjusz-wyzga-przeprasza,7341976750065760a"
+          },
+          {
+            "name": "Do Rzeczy",
+            "url": "https://dorzeczy.pl/opinie/959302/afera-wokol-didaskaliow-wyzga-usunal-odcinek-i-przeprosil.html"
+          },
+          {
+            "name": "Press.pl",
+            "url": "https://www.press.pl/tresc/95562,odcinek-cyklu-_didaskalia_-patrycjusza-wyzgi-usuniety_-powodem-nazistowski-tatuaz-goscia"
+          }
+        ],
+        "noImage": "odcinek usunięty, brak legalnego kadru",
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Krzysztof Stanowski",
+        "initials": "KS",
+        "category": "Polityka",
+        "hype": 4,
+        "title": "Tusk chwali się polityką migracyjną, Stanowski pyta: „czy ktoś się jeszcze na to łapie?”",
+        "summary": "Premier w nagraniu przekonywał, że Polska uniknęła problemów z migracją dzięki jego rządowi. Krzysztof Stanowski odpowiedział na X serią pytań, a Robert Mazurek zestawił słowa Tuska z jego wypowiedziami z 2022 roku.",
+        "body": [
+          "Donald Tusk opublikował nagranie, w którym mówił, że Polska nie ma takich problemów z migracją jak część Zachodu dzięki pracy jego rządu, a nie szczęściu. Wspomniał m.in. o zamieszkach we Francji i ostatnim szczycie UE.",
+          "Premier zaatakował przy tym PiS: według niego w latach 2018–2023 Polska wydawała ok. miliona wiz rocznie. Przypomniał też, że jego rząd wprowadził przepisy pozwalające nie przyjmować wniosków o azyl.",
+          "Krzysztof Stanowski odpowiedział 19 października na X. Zapytał, czy sytuacja w Europie ma coś wspólnego z Unią, w której władzach Tusk wcześniej zasiadał, od kiedy „biedni ludzie” stali się wrogami i czy ktoś się jeszcze na ten przekaz łapie.",
+          "Dzień później Kanał Zero opublikował komentarz Roberta Mazurka, który porównuje obecną, twardą retorykę premiera z jego słowami z 2022 roku. Sprawę opisały też m.in. wPolityce.pl i Do Rzeczy."
+        ],
+        "sources": [
+          {
+            "name": "Krzysztof Stanowski / X",
+            "url": "https://x.com/K_Stanowski/status/2112239666602668038",
+            "origin": true
+          },
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=RUJ4-r_rCuE"
+          },
+          {
+            "name": "wPolityce.pl",
+            "url": "https://wpolityce.pl/polityka/bezczelna-manipulacja-tuska-ws-migrantow-stanowski-nie-wytrzymal-,280666"
+          },
+          {
+            "name": "Do Rzeczy",
+            "url": "https://dorzeczy.pl/opinie/959359/stanowski-punktuje-premiera-tuska-poszlo-o-migrantow.html"
+          }
+        ],
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura komentarza Roberta Mazurka o wystąpieniu premiera. To ten materiał zestawia nagranie Tuska z jego wcześniejszymi wypowiedziami."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RUJ4-r_rCuE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RUJ4-r_rCuE/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=RUJ4-r_rCuE",
+          "alt": "Miniatura komentarza Kanału Zero „Mazurek: Tusk, migranci, Paryż i deportacja”",
+          "caption": "Kadr z komentarza w Kanale Zero (prawo cytatu)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Polska Organizacja Turystyczna",
+        "initials": "PO",
+        "category": "Kampania",
+        "hype": 4,
+        "title": "Trzeci spot promujący Polskę znów oberwał od internautów. Tym razem chodzi o Kraków",
+        "summary": "Ostatni odcinek kampanii „Poland. More than you expected” z Lewandowskim, Eisenbergiem i Rodowicz miał zachęcać do odwiedzin Krakowa. Internauci piszą, że miasta prawie w nim nie widać, a kampania kosztuje 7 mln zł.",
+        "body": [
+          "Polska Organizacja Turystyczna opublikowała 19 października trzeci, ostatni spot z serii „Poland. More than you expected”. Wcześniejsze dotyczyły Warszawy i Trójmiasta.",
+          "W 30-sekundowym filmie występują Nikodem Rozbicki jako król Polski, Robert Lewandowski, Jesse Eisenberg i Maryla Rodowicz. Pojawiają się Wawel, Smocza Jama i „Dama z gronostajem”. Kampania na zlecenie Ministerstwa Sportu i Turystyki ma budżet 7 mln zł i potrwa do grudnia.",
+          "Internauci krytykują, że Krakowa jest w spocie mało, a gwiazdy go przysłaniają. Piszą o mrocznych kolorach i braku klimatu miasta, część uważa, że wygląda to jak antyreklama.",
+          "Do krytyki dołączyli politycy: posłanka Lewicy Anna Maria Żukowska napisała, że autorzy „naprawdę się uparli, żeby Polacy ich znienawidzili, a obcokrajowcy wyśmiali”."
+        ],
+        "sources": [
+          {
+            "name": "Wirtualnemedia.pl",
+            "url": "https://www.wirtualnemedia.pl/jest-trzeci-spot-promujacy-polske-rodowicz-lewandowski-i-eisenberg-zapraszaja-do-krakowa,7342020272941152a"
+          },
+          {
+            "name": "Interia",
+            "url": "https://wydarzenia.interia.pl/kraj/news-nowy-spot-promujacy-polske-tak-pokazali-kolejne-miasto-czy-w,nId,23561164"
+          },
+          {
+            "name": "Do Rzeczy",
+            "url": "https://dorzeczy.pl/opinie/959437/ostatni-spot-promujacy-polske-komentarze-mowia-same-za-siebie.html"
+          },
+          {
+            "name": "Poland Travel / YouTube",
+            "url": "https://www.youtube.com/watch?v=9_H3htziRbU",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/9_H3htziRbU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/9_H3htziRbU/hqdefault.jpg",
+          "credit": "Poland Travel / YouTube",
+          "href": "https://www.youtube.com/watch?v=9_H3htziRbU",
+          "alt": "Kadr ze spotu POLAND. More than you expected, Episode 3: Krakow",
+          "caption": "Kadr ze spotu Polskiej Organizacji Turystycznej (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "Poland Travel / YouTube",
+          "text": "Miniatura krytykowanego spotu „Episode 3: Krakow” z oficjalnego kanału POT."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Hubert Kłoda",
+        "initials": "HK",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "Zakaz reklamy piwa może uderzyć w browary rzemieślnicze. Kanał Zero pyta piwowarów",
+        "summary": "Nowelizacja ustawy o wychowaniu w trzeźwości przewiduje m.in. zakaz reklamy. Małe browary mówią Hubertowi Kłodzie, że to może zachwiać ich biznesem i utrudnić konkurowanie z dużymi koncernami.",
+        "body": [
+          "Trwają prace nad nowelizacją ustawy o wychowaniu w trzeźwości. Wśród proponowanych zmian jest zakaz reklamy alkoholu i inne ograniczenia.",
+          "20 października Kanał Zero opublikował reportaż Huberta Kłody, który rozmawiał o tym z właścicielami polskich browarów rzemieślniczych.",
+          "Jak czytamy w opisie materiału, piwowarzy obawiają się, że zmiany utrudnią im konkurowanie z dużymi producentami, a część rodzinnych firm może przez to upaść."
+        ],
+        "sources": [
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=vMtqTJL23AY",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura reportażu o nowelizacji i browarach rzemieślniczych. Tekst streszcza opis tego materiału."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vMtqTJL23AY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vMtqTJL23AY/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=vMtqTJL23AY",
+          "alt": "Miniatura reportażu Kanału Zero „Ustawa antyalkoholowa. Polskie browary rzemieślnicze upadną?”",
+          "caption": "Kadr z reportażu Kanału Zero (prawo cytatu)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Rafał Brzoska",
+        "initials": "RB",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "„Efekt Brzoski”: Polacy coraz częściej proszą Google o usunięcie linków na swój temat",
+        "summary": "W tym roku wnioski z Polski objęły już ok. 16,1 tys. adresów, więcej niż w całym 2024 roku. Eksperci łączą to z głośną walką Rafała Brzoski z fałszywymi reklamami.",
+        "body": [
+          "Rzeczpospolita przeanalizowała raport przejrzystości Google. Od stycznia do połowy października 2026 roku wnioski z Polski dotyczyły ok. 16,1 tys. adresów URL, wobec 13,8 tys. w całym 2024 roku.",
+          "Wzrost przyspieszył latem: w lipcu było to ok. 1,2 tys. linków, a we wrześniu już ok. 2,1 tys. Ponad 90 proc. wniosków składają osoby prywatne, a połowa dotyczy fałszywych informacji w mediach i social mediach.",
+          "Robert Niczewski z Bellini Market Research ocenia, że to efekt kampanii przeciw deepfake'om, m.in. tej prowadzonej przez szefa InPostu. Google nie kasuje stron, tylko odcina je od wyników wyszukiwania po nazwisku.",
+          "Na początku listopada ma wejść w życie pierwsza polska ustawa wdrażająca unijny akt o usługach cyfrowych (DSA)."
+        ],
+        "sources": [
+          {
+            "name": "Rzeczpospolita",
+            "url": "https://cyfrowa.rp.pl/technologie/art45356511-efekt-brzoski-internauci-chca-znikac-z-sieci"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rafa%C5%82_Brzoska.png",
+          "credit": "Warsaw PhotoProton Studio / Wikimedia Commons, CC0",
+          "href": "https://commons.wikimedia.org/wiki/File:Rafał_Brzoska.png",
+          "alt": "Rafał Brzoska, prezes InPostu",
+          "caption": "Rafał Brzoska, od którego nazwiska wziął się „efekt”"
+        },
+        "caption": {
+          "credit": "Warsaw PhotoProton Studio / Wikimedia Commons",
+          "text": "Rafał Brzoska, od którego nazwiska wziął się „efekt”. Zdjęcie na wolnej licencji z Wikimedia Commons."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-20",
+        "who": "Bonson",
+        "initials": "BO",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "Bonson otwiera własny barbershop w Szczecinie. Szuka już fryzjerów",
+        "summary": "Raper, który od 2024 roku pracuje jako barber, ogłosił, że otwiera własny salon. Nazwy ani adresu jeszcze nie podał, ale kompletuje zespół.",
+        "body": [
+          "„Otwieram Barbershop w Szczecinie” – ogłosił Bonson. Raper szuka do zespołu barberów ze Szczecina i okolic i prosi chętnych o kontakt w prywatnej wiadomości.",
+          "Na początku 2024 roku mówił, że chce spróbować czegoś nowego, nauczył się strzyc i zaczął pracę w szczecińskim Red Cut Barbershop. Tłumaczył wtedy, że muzyka nie daje mu już szczęścia i nie chce, by była jedynym źródłem dochodu.",
+          "Nazwy, adresu ani daty otwarcia salonu jeszcze nie ujawnił. Zapowiada tylko, że ma to być coś więcej niż zwykły barbershop."
+        ],
+        "sources": [
+          {
+            "name": "GlamRap",
+            "url": "https://glamrap.pl/bonson-otwiera-wlasny-barbershop-nowy-biznes-poza-rapem/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/bonson-otwiera-wlasny-barbershop-raper-rozwija-biznes-poza-muzyka/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bonson_rapper.jpg",
+          "credit": "Kamil Tarniu Tarnowski / Wikimedia Commons, CC BY-SA 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Bonson_rapper.jpg",
+          "alt": "Raper Bonson na scenie Hip-Hop Fest w Nysie",
+          "caption": "Bonson na Hip-Hop Fest Nysa (zdjęcie z 2012 r.)"
+        },
+        "caption": {
+          "credit": "Kamil Tarniu Tarnowski / Wikimedia Commons",
+          "text": "Bonson na Hip-Hop Fest Nysa (zdjęcie z 2012 r.). Zdjęcie na wolnej licencji z Wikimedia Commons."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-20",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "Firma powiązana z MrBeastem zastrzega znaki „MrBeast Financial”. W opisie są krypto i kredyty",
+        "summary": "Beast Holdings złożyła w USA wnioski o znaki MRBEAST FINANCIAL i BEAST FINANCIAL. Obejmują m.in. bankowość mobilną, karty, pożyczki i giełdy kryptowalut, choć firma nie zapowiedziała takiej usługi.",
+        "body": [
+          "Wnioski złożono w amerykańskim urzędzie patentowym w październiku 2025 roku. 6 października 2026 roku oba znaki dostały zawiadomienie o dopuszczeniu, ale nie są jeszcze zarejestrowane: firma ma czas do kwietnia 2027 roku, by pokazać, że faktycznie ich używa.",
+          "Lista usług jest szeroka: obsługa płatności kryptowalutami, giełdy, także zdecentralizowane, aplikacje do bankowości i inwestowania, wydawanie kart, małe pożyczki i doradztwo inwestycyjne.",
+          "Jak zaznacza crypto.news, Beast Holdings nie potwierdziła planów uruchomienia platformy, a sam wniosek nie oznacza zgód regulatorów. W styczniu firma BitMine zainwestowała 200 mln dolarów w Beast Industries, a jej szef mówił o pomyśle dodania DeFi do przyszłej usługi finansowej."
+        ],
+        "sources": [
+          {
+            "name": "crypto.news",
+            "url": "https://crypto.news/mrbeast-linked-firm-files-trademarks-covering-crypto-exchanges-and-banking/"
+          },
+          {
+            "name": "Bloomingbit",
+            "url": "https://en.bloomingbit.io/feed/news/122552"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MrBeast_2023_%28cropped%29.jpg/1280px-MrBeast_2023_%28cropped%29.jpg",
+          "credit": "Steven Khan / Wikimedia Commons, CC BY 4.0",
+          "href": "https://commons.wikimedia.org/wiki/File:MrBeast_2023_(cropped).jpg",
+          "alt": "MrBeast, zdjęcie z 2023 roku",
+          "caption": "MrBeast (zdjęcie z 2023 r.)"
+        },
+        "caption": {
+          "credit": "Steven Khan / Wikimedia Commons",
+          "text": "MrBeast (zdjęcie z 2023 r.). Zdjęcie na wolnej licencji z Wikimedia Commons."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-20",
+        "who": "Westside Gunn",
+        "initials": "WG",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Westside Gunn wraca do Polski. Zagra w Progresji w lutym 2027",
+        "summary": "Współzałożyciel Griselda Records wystąpi 18 lutego 2027 roku w warszawskiej Progresji w ramach europejskiej trasy „Still Heeling!”. Bilety kosztują od 249 zł.",
+        "body": [
+          "Koncert odbędzie się w czwartek 18 lutego 2027 roku w Progresji przy Fort Wola 22. Wydarzenie startuje o 19:00, a Westside Gunn ma wejść na scenę o 21:15.",
+          "Wystąpią też Smoke DZA, Feed The Family, Brother Tom SOS i DJ Relly Rell. Bilety są już w sprzedaży, od 249 zł przed opłatami serwisowymi.",
+          "Warszawa to jeden z kilkunastu przystanków trasy „Still Heeling!” po Europie i Wielkiej Brytanii, m.in. obok Brukseli, Glasgow, Zurychu, Hamburga i Kopenhagi."
+        ],
+        "sources": [
+          {
+            "name": "Polskie Radio Czwórka",
+            "url": "https://www.polskieradio.pl/10/218/Artykul/3743951,westside-gunn-wraca-do-polski-raper-zagra-w-warszawskiej-progresji"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Westside_Gunn.png",
+          "credit": "AK Reed Films / Wikimedia Commons, CC BY 3.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Westside_Gunn.png",
+          "alt": "Raper Westside Gunn",
+          "caption": "Westside Gunn, współzałożyciel Griselda Records"
+        },
+        "caption": {
+          "credit": "AK Reed Films / Wikimedia Commons",
+          "text": "Westside Gunn, współzałożyciel Griselda Records. Zdjęcie na wolnej licencji z Wikimedia Commons."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-21": {
+    "date": "2026-10-21",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Gimper",
+        "initials": "GI",
+        "category": "Sprawa sądowa",
+        "hype": 5,
+        "title": "Fagata złożyła prywatny akt oskarżenia przeciwko Gimperowi. Chodzi o trzy jego filmy",
+        "summary": "Gimper pokazał widzom, że dostał z sądu prywatny akt oskarżenia od Fagaty. Według jego relacji to dziewięć zarzutów zniesławienia i znieważenia oraz żądanie łącznie 160 tys. zł. Twórca zapowiada, że nie wycofa się ze swoich ocen.",
+        "body": [
+          "Gimper opublikował 20 października film „Fagata mnie pozwała”. Do 21 października w południe obejrzało go ponad 720 tys. osób. Jak relacjonują CGM, Donald i Zawód Typer, youtuber dostał z sądu odpis prywatnego aktu oskarżenia złożonego przez Agatę „Fagatę” Fąk.",
+          "Według relacji Gimpera akt obejmuje dziewięć zarzutów zniesławienia i znieważenia, które dotyczą trzech jego filmów. Sześć zarzutów odnosi się do materiału „Prawdziwy powód obsesji Fagaty”. Pozostałe dotyczą filmów o niepublikowanych nagraniach i o rzekomych kłamstwach z jej oświadczenia. Kwestionowane mają być m.in. sformułowania „obsesja” i „stalking”.",
+          "Fagata ma żądać 100 tys. zł dla siebie i 60 tys. zł na Fundusz Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, a w razie skazania także publikacji wyroku na kanale Gimpera. Wszystkie te informacje pochodzą z relacji Gimpera. Sprawa jest na etapie sądowym i nie ma w niej rozstrzygnięcia.",
+          "Gimper zapowiedział, że będzie bronił swoich wypowiedzi, i zaproponował, by Fagata wnioskowała o jawną rozprawę. Według Donalda Fagata nazwała tę propozycję na transmisji manipulacją, argumentując, że sądy rzadko zgadzają się na jawność takich procesów."
+        ],
+        "sources": [
+          {
+            "name": "Gimper / YouTube",
+            "url": "https://www.youtube.com/watch?v=wyy1e7sKPrM",
+            "origin": true
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/fagata-pozwala-gimpera-i-zada-od-niego-160-tysiecy-zlotych-w-tle-pojawiaja-sie-zabson-i-sentino/"
+          },
+          {
+            "name": "Donald.pl",
+            "url": "https://www.donald.pl/artykuly/EVtkmUwU/fagata-chce-100-tys-kary-dla-gimpera-za-znieslawienie-gimper-zada-otwartej-rozprawy"
+          },
+          {
+            "name": "Zawód Typer",
+            "url": "https://zawodtyper.pl/fagata-pozwala-gimpera-oczekuje-100-tys-zlotych/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=wyy1e7sKPrM",
+        "ig": [
+          "gimperowski"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wyy1e7sKPrM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wyy1e7sKPrM/hqdefault.jpg",
+          "credit": "Gimper / YouTube",
+          "href": "https://www.youtube.com/watch?v=wyy1e7sKPrM",
+          "alt": "Miniatura filmu Gimpera „Fagata mnie pozwała”",
+          "caption": "Miniatura filmu, w którym Gimper omawia akt oskarżenia."
+        },
+        "caption": {
+          "credit": "Gimper / YouTube",
+          "text": "W tym filmie Gimper przedstawia swoją relację z aktu oskarżenia, omawiając po kolei trzy zakwestionowane materiały. Na tym filmie opierają się kwoty i liczba zarzutów podawane w mediach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Tede",
+        "initials": "TE",
+        "category": "Film",
+        "hype": 3,
+        "title": "Jest oficjalny zwiastun „TEDE. Forever Rap”. Dokument już wygrał nagrodę publiczności WFF",
+        "summary": "Na kanale TEDEWIZJA pojawił się zwiastun dokumentu Krystiana Kuczkowskiego o Tede i pierwszym pokoleniu polskiego rapu. Film zdobył Nagrodę Publiczności dla najlepszego dokumentu 42. Warszawskiego Festiwalu Filmowego, a do kin wchodzi 20 listopada.",
+        "body": [
+          "20 października TEDEWIZJA opublikowała oficjalny zwiastun pełnometrażowego dokumentu „TEDE. Forever Rap”. Film wyreżyserował Krystian Kuczkowski, a opowiada o Jacku „Tede” Granieckim i początkach polskiego rapu.",
+          "Według Filmwebu i Interii dokument zdobył Nagrodę Publiczności dla najlepszego filmu dokumentalnego 42. Warszawskiego Festiwalu Filmowego, ex aequo z filmem „Tymczasem w Namibii”. Pokazywano go w sekcji Pokazy Specjalne. W opisie zwiastuna twórcy dodają, że oba festiwalowe seanse były wyprzedane.",
+          "Reżyser przyznał w rozmowie z GlamRapem, że nagroda wybrana głosami widzów była dla twórców dużym zaskoczeniem. Premiera kinowa jest zaplanowana na 20 listopada 2026 r. w sieciach Multikino, Cinema City i Helios."
+        ],
+        "sources": [
+          {
+            "name": "TEDEWIZJA / YouTube",
+            "url": "https://www.youtube.com/watch?v=NBh7943WO3k",
+            "origin": true
+          },
+          {
+            "name": "Filmweb",
+            "url": "https://www.filmweb.pl/news/%22Josephine%22+ulubionym+filmem+widz%C3%B3w+Znamy+Nagrody+Publiczno%C5%9Bci+42.+WMFF-169171"
+          },
+          {
+            "name": "Interia Muzyka",
+            "url": "https://muzyka.interia.pl/hip-hop/news-tede-forever-rap-doceniony-na-warszawskim-festiwalu-filmowym,nId,23561221"
+          },
+          {
+            "name": "GlamRap.pl",
+            "url": "https://glamrap.pl/film-o-tede-z-pierwsza-nagroda-wielkie-zaskoczenie/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=NBh7943WO3k",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/NBh7943WO3k/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/NBh7943WO3k/hqdefault.jpg",
+          "credit": "TEDEWIZJA / YouTube",
+          "href": "https://www.youtube.com/watch?v=NBh7943WO3k",
+          "alt": "Miniatura oficjalnego zwiastuna filmu „TEDE. Forever Rap”",
+          "caption": "Miniatura oficjalnego zwiastuna dokumentu."
+        },
+        "caption": {
+          "credit": "TEDEWIZJA / YouTube",
+          "text": "Oficjalny zwiastun opublikowany na kanale Tede miesiąc przed premierą. Opis filmu potwierdza nagrodę z WFF i datę wejścia do kin."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Lifestyle",
+        "hype": 3,
+        "title": "Książulo na zakupach w Louis Vuitton. Krótki film ma już prawie pół miliona wyświetleń",
+        "summary": "Książulo wrzucił na kanał trzyminutowy materiał „Książulo wydaje w Louis Vuitton”. W niecałą dobę obejrzało go ponad 450 tys. osób, co czyni go jednym z najchętniej oglądanych filmów polskiego YouTube’a ostatnich dni.",
+        "body": [
+          "20 października wieczorem Książulo opublikował na swoim kanale film „Książulo wydaje w Louis Vuitton”. To krótki, niespełna trzyminutowy materiał, wyraźnie lżejszy od jego zwykłych recenzji jedzenia.",
+          "Do 21 października w południe film miał ok. 460 tys. wyświetleń. To dobry wynik nawet jak na Książula, któremu ostatnio dużo miejsca w sieci zajmuje własna pizza Muala i dyskusja o niej."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=r4B06-NJUkI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=r4B06-NJUkI",
+        "ig": [
+          "ksiazulo"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/r4B06-NJUkI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/r4B06-NJUkI/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=r4B06-NJUkI",
+          "alt": "Miniatura filmu „Książulo wydaje w Louis Vuitton”",
+          "caption": "Miniatura omawianego filmu Książula."
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "To ten krótki film z zakupów w Louis Vuitton, o którym piszemy. Liczba wyświetleń odczytana 21 października ok. 13:30."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Marcin Najman",
+        "initials": "MN",
+        "category": "Nowy format",
+        "hype": 3,
+        "title": "Donald.pl wchodzi na YouTube z „Pierogami prawdy”. Pierwszym gościem Paczula jest Najman",
+        "summary": "Serwis Donald.pl wystartował na YouTube z formatem, w którym gość odpowiada szczerze albo je pieroga z nieprzyjemnym nadzieniem. W pierwszym odcinku Paweł Paczul pyta Marcina Najmana m.in. o konflikt ze Stanowskim i pieniądze z freak fightów.",
+        "body": [
+          "20 października na kanale Donald pojawił się pierwszy odcinek „Pierogów prawdy”. To prawie 50-minutowa rozmowa, którą prowadzi Paweł Paczul, debiutujący w roli gospodarza.",
+          "Zasada jest prosta: gość odpowiada na trudne pytanie albo zjada pieroga z nieoczywistym, np. bardzo ostrym lub gorzkim nadzieniem. Według opisu odcinka Najman rozmawia o konflikcie z Krzysztofem Stanowskim, współpracy ze Słowikiem, pieniądzach z freak fightów i swoim wizerunku w internecie. Pojawiają się też Edyta Górniak, Unia Europejska i fizyka kwantowa.",
+          "Do 21 października odcinek miał ponad 60 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Donald / YouTube",
+            "url": "https://www.youtube.com/watch?v=gQklIDjQ0l0",
+            "origin": true
+          },
+          {
+            "name": "Donald.pl",
+            "url": "https://www.donald.pl/artykuly/ZVsg7hJc/mozna-juz-obejrzec-pierogi-prawdy-na-youtube-w-pierwszym-odcinku-najman-wyjasnia-swoja-droge-fizyke-kwantowa-i-plan-naprawy-kraju"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=gQklIDjQ0l0",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/gQklIDjQ0l0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/gQklIDjQ0l0/hqdefault.jpg",
+          "credit": "Donald / YouTube",
+          "href": "https://www.youtube.com/watch?v=gQklIDjQ0l0",
+          "alt": "Miniatura pierwszego odcinka „Pierogów prawdy” z Marcinem Najmanem",
+          "caption": "Miniatura pierwszego odcinka nowego formatu."
+        },
+        "caption": {
+          "credit": "Donald / YouTube",
+          "text": "Pierwszy odcinek „Pierogów prawdy”, czyli debiut Donalda na YouTube. Tematy rozmowy podajemy za opisem i rozdziałami odcinka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Kanał Zero",
+        "initials": "KZ",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "Jan Rokita w Kanale Zero: czy zmiana ordynacji zakończy polski duopol?",
+        "summary": "Kanał Zero opublikował nową polityczną gawędę Jana Rokity. Publicysta zastanawia się, czy zmiana ordynacji wyborczej i nowy układ wokół paktu senackiego mogą zakończyć system dwupartyjny i kto może stracić na zmianie reguł.",
+        "body": [
+          "21 października rano Kanał Zero opublikował prawie 40-minutowy materiał Jana Rokity „Koniec układu Tuska? Zmiana ordynacji, wybory, pakt senacki”.",
+          "Według opisu Rokita pyta, czy system dwupartyjny w Polsce przejdzie do historii i dlaczego dotychczasowy duopol się wypalił. Zastanawia się też, czy zmiana ordynacji i nowe układy wokół paktu senackiego mogą stać się pułapką dla Donalda Tuska. To autorski komentarz publicysty, nie stanowisko którejkolwiek partii.",
+          "Do 21 października w południe materiał miał ponad 30 tys. wyświetleń i był najchętniej oglądanym dzisiejszym filmem kanału."
+        ],
+        "sources": [
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=GurAo6g1-TM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=GurAo6g1-TM",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/GurAo6g1-TM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/GurAo6g1-TM/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=GurAo6g1-TM",
+          "alt": "Miniatura materiału Jana Rokity w Kanale Zero",
+          "caption": "Miniatura omawianego materiału Kanału Zero."
+        },
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "To materiał Jana Rokity, o którym piszemy. Tezy podajemy za opisem filmu, jako opinię autora."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-21",
+        "who": "Robert Gwiazdowski",
+        "initials": "RG",
+        "category": "Społeczeństwo",
+        "hype": 2,
+        "title": "Gwiazdowski w Kanale Zero o warszawskim ZDM: „władza ważniejsza niż ludzie”",
+        "summary": "Prof. Robert Gwiazdowski przygotował dla Kanału Zero materiał o działaniach warszawskiego Zarządu Dróg Miejskich. Pyta, komu tak naprawdę służą decyzje urzędników, po których mieszkańcy czują się ich zakładnikami.",
+        "body": [
+          "21 października Kanał Zero opublikował prawie 20-minutowy materiał prof. Roberta Gwiazdowskiego „Absurdy urzędników ZDM. Władza ważniejsza niż ludzie”.",
+          "Według opisu punktem wyjścia są ostatnie decyzje warszawskiego Zarządu Dróg Miejskich. Gwiazdowski zastanawia się, komu i czemu służą takie działania, skoro zwykli ludzie coraz częściej stają się zakładnikami urzędników działających w imieniu państwa. To komentarz autora. Stanowiska ZDM materiał w opisie nie przytacza.",
+          "Kanał Zero od kilku dni dużo miejsca poświęca sporom obywateli z urzędami. Wcześniej opisywał m.in. sprawę piekarni ukaranej za wystający szyld."
+        ],
+        "sources": [
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=4BZLYGAKgk8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=4BZLYGAKgk8",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/4BZLYGAKgk8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/4BZLYGAKgk8/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=4BZLYGAKgk8",
+          "alt": "Miniatura materiału Roberta Gwiazdowskiego o ZDM w Kanale Zero",
+          "caption": "Miniatura omawianego materiału Kanału Zero."
+        },
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "To materiał prof. Gwiazdowskiego, o którym piszemy. Jego tezy przedstawiamy jako opinię autora."
+        },
+        "slot": "15:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-19": {
+    "date": "2026-10-19",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Żabka",
+        "initials": "ŻA",
+        "category": "Biznes",
+        "hype": 4,
+        "title": "Właściciel Circle K chce kupić Żabkę za ponad 32 mld zł. Kanał Zero tłumaczy, o co chodzi",
+        "summary": "Kanadyjski koncern Alimentation Couche-Tard chce przejąć 100 proc. akcji Żabka Group. Według „Biznesowego Zera” Kanadyjczyków bardziej niż same sklepy interesuje system, który zbudowała Żabka.",
+        "body": [
+          "Alimentation Couche-Tard, kanadyjski koncern, do którego należy sieć stacji Circle K, chce kupić wszystkie akcje Żabka Group. Wartość oferty to ponad 32 mld zł.",
+          "Temat wziął na warsztat Andrzej Borcz w programie „Biznesowe Zero” na Kanale Zero. Jak czytamy w opisie odcinka z 19 października, Kanadyjczykom chodzi przede wszystkim o model działania sieci, a nie o same punkty.",
+          "Borcz opisuje w nim, jak działa system Żabki i jak wygląda on z perspektywy partnerów prowadzących sklepy. Odcinek ma ponad 250 tys. wyświetleń (odczyt 20 października).",
+          "Żabka to w ostatnich tygodniach także temat internetu: na jej półkach pojawiają się produkty influencerów, w tym mrożona pizza Książula."
+        ],
+        "sources": [
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=n0IIRcFsGe8",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura odcinka „Biznesowego Zera” o ofercie Couche-Tard. Na opisie tego materiału opiera się tekst."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/n0IIRcFsGe8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/n0IIRcFsGe8/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=n0IIRcFsGe8",
+          "alt": "Miniatura odcinka Kanału Zero „Żabka za 32 miliardy”",
+          "caption": "Kadr z programu „Biznesowe Zero” (prawo cytatu)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Interwencja Zero",
+        "initials": "IZ",
+        "category": "Wiral",
+        "hype": 4,
+        "title": "41 tys. zł kary za szyld, który wystawał o 2 cm. Po materiale Kanału Zero sprawa piekarni wraca",
+        "summary": "Właścicielka piekarni na warszawskim Mokotowie ma zapłacić ponad 41 tys. zł, bo jej szyld wisiał w pasie drogowym bez zezwolenia. Historię nagłośniła Interwencja Zero, a Zarząd Dróg Miejskich zmienia podejście.",
+        "body": [
+          "Chodzi o sklep „Galeria Wypieków” przy ul. Domaniewskiej, prowadzony od 12 lat. Według właścicielki szyld wystawał poza elewację o ok. 2 cm i zawisł za zgodą spółdzielni, ale bez zgody zarządcy drogi.",
+          "Postępowanie ruszyło w 2023 roku po zgłoszeniu mieszkańca w systemie 19115. ZDM tłumaczy, że obowiązek zezwolenia i opłaty wynika z ustawy o drogach publicznych, a kara wynosi dziesięciokrotność zwykłej opłaty.",
+          "Właścicielka mówi TVN Warszawa, że o sprawie dowiedziała się dopiero w lutym 2024 roku, bo pisma trafiały do sieci dostarczającej jej pieczywo. Szyld poprawiła w dwa dni, co potwierdziła kontrola.",
+          "Sprawę pokazała Interwencja Zero na Kanale Zero. Zero.pl pisze, że po nagłośnieniu ZDM zmienia zdanie, a przepisy od początku pozwalały złagodzić skutki postępowania."
+        ],
+        "sources": [
+          {
+            "name": "TVN Warszawa",
+            "url": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-szyld-piekarni-wystawal-poza-sciane-ogromna-kara-st9293748"
+          },
+          {
+            "name": "Zero.pl",
+            "url": "https://zero.pl/news/kara-40-tys-zl-dla-piekarni-za-szyld-zdm-zmienia-zdanie-po-interwencji-mediow"
+          },
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=wlNzwT-wpKk",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wlNzwT-wpKk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wlNzwT-wpKk/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=wlNzwT-wpKk",
+          "alt": "Miniatura reportażu Interwencji Zero „Kara 40 tys. za szyld może zamknąć piekarnię”",
+          "caption": "Kadr z reportażu Interwencji Zero (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura reportażu Interwencji Zero o karze dla piekarni. Od tego materiału zaczęło się nagłośnienie sprawy."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Vkie",
+        "initials": "VK",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Vkie: Quebonafide to najbardziej przehajpowany polski raper. „Nie trafia do mnie jego muzyka”",
+        "summary": "W podcaście „Mój świat” Vkie bez wahania wskazał Quebonafide jako rapera, wokół którego jest więcej szumu, niż wynika z jego muzyki. Zastrzegł, że nie uważa go za słabego rapera.",
+        "body": [
+          "Vkie był gościem podcastu „Mój świat”. Na pytanie, który polski raper jest najbardziej przehajpowany, od razu odpowiedział: Quebonafide.",
+          "Jak relacjonują GlamRap i CGM, uzasadnienie dotyczyło gustu: „Nie trafia do mnie jego muzyka. Po prostu”. Vkie podkreślił, że nie nazywa Quebo złym raperem i nie podważa jego umiejętności ani sukcesu.",
+          "Portale nie odnotowały odpowiedzi Quebonafide."
+        ],
+        "sources": [
+          {
+            "name": "GlamRap",
+            "url": "https://glamrap.pl/vkie-uderza-w-quebonafide-jest-przehajpowany/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/vkie-twierdzi-ze-quebo-jest-najbardziej-przehajpowanym-raperem-w-polsce/"
+          },
+          {
+            "name": "Mój Świat / YouTube",
+            "url": "https://www.youtube.com/watch?v=p50qlTSTzuE",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/p50qlTSTzuE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/p50qlTSTzuE/hqdefault.jpg",
+          "credit": "Mój Świat / YouTube",
+          "href": "https://www.youtube.com/watch?v=p50qlTSTzuE",
+          "alt": "Vkie w podcaście Mój Świat, miniatura odcinka",
+          "caption": "Kadr z podcastu „Mój Świat” (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "Mój Świat / YouTube",
+          "text": "Miniatura odcinka podcastu „Mój Świat” z Vkiem, w którym padła wypowiedź o Quebonafide."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Mariusz Pudzianowski",
+        "initials": "MP",
+        "category": "Freak fight",
+        "hype": 4,
+        "title": "Boxdel: Pudzianowski „w 100 proc. na tak” do FAME. Jedynym rywalem widzi Natana Marconia",
+        "summary": "Michał „Boxdel” Baron powiedział w Kanale Sportowym, że Mariusz Pudzianowski chce walczyć we FAME. Jako jedynego pasującego przeciwnika wskazał Natana Marconia, który dotąd zapowiadał, że do federacji nie wróci.",
+        "body": [
+          "Michał „Boxdel” Baron, twarz FAME MMA, był gościem programu „Freak Show” w Kanale Sportowym dzień po gali FAME 33. Zapytany o Mariusza Pudzianowskiego, stwierdził, że szanse na jego walkę we FAME są „w 100 proc. na tak”.",
+          "Baron dodał, że Pudzianowski nie zawalczy za małe pieniądze, więc taki pojedynek ma sens tylko z rywalem, który przyciągnie widzów. Jedynym, kogo widzi w tej roli, jest Natan Marcoń.",
+          "Marcoń wielokrotnie mówił, że nie wróci do FAME. Ostatni raz walczył tam w lutym 2024 roku i przegrał z Piotrem Szeligą. Baron uważa, że przy takim rywalu Marcoń zmieni zdanie.",
+          "Federacja nie potwierdziła ani kontraktu, ani daty walki. Według MMA.pl konkrety mają być znane w 2027 roku."
+        ],
+        "sources": [
+          {
+            "name": "KanalSportowy.pl",
+            "url": "https://kanalsportowy.pl/freak-fight/fame/pudzian-zawalczy-w-fame-boxdel-widze-tylko-jednego-przeciwnika/"
+          },
+          {
+            "name": "MMA.pl",
+            "url": "https://mma.pl/szef-fame-twierdzi-ze-pudzian-to-pewniak-podal-nazwisko-potencjalnego-rywala/"
+          },
+          {
+            "name": "SportoweFakty",
+            "url": "https://sportowefakty.wp.pl/sportowybar/1280075/padlo-nazwisko-to-bedzie-kolejny-rywal-pudzianowskiego"
+          },
+          {
+            "name": "Kanał Sportowy / YouTube",
+            "url": "https://www.youtube.com/watch?v=8nbvA-aIY50",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/8nbvA-aIY50/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/8nbvA-aIY50/hqdefault.jpg",
+          "credit": "Kanał Sportowy / YouTube",
+          "href": "https://www.youtube.com/watch?v=8nbvA-aIY50",
+          "alt": "Boxdel w studiu Kanału Sportowego, miniatura programu Freak Show",
+          "caption": "Kadr z programu „Freak Show” (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "Kanał Sportowy / YouTube",
+          "text": "Miniatura odcinka „Freak Show” z Boxdelem w studiu. To w tym programie padły słowa o Pudzianowskim i Marconiu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Marcin Matczak",
+        "initials": "MM",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "Nawrocki otworzył dyskusję o dostępie do broni. Prof. Matczak w Kanale Zero: to zły pomysł",
+        "summary": "Prezydent Karol Nawrocki zaproponował debatę o szerszym dostępie do broni. Prof. Marcin Matczak w komentarzu dla Kanału Zero odpowiada, że przykład USA pokazuje, dokąd to prowadzi.",
+        "body": [
+          "Prezydent Karol Nawrocki otworzył dyskusję na temat szerszego dostępu Polaków do broni.",
+          "19 października Kanał Zero opublikował komentarz prof. Marcina Matczaka. Według opisu nagrania prawnik uważa ten pomysł za zły, zwłaszcza po niedawnych atakach w szkołach.",
+          "Matczak powołuje się na Stany Zjednoczone: jego zdaniem powszechne posiadanie broni sprzyja brutalizacji życia publicznego. Komentarz ma ponad 100 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=Lj4KqmGjXUE",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura komentarza prof. Matczaka o propozycji prezydenta. Tekst streszcza opis tego nagrania."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Lj4KqmGjXUE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Lj4KqmGjXUE/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=Lj4KqmGjXUE",
+          "alt": "Miniatura nagrania Kanału Zero „Matczak kontra Nawrocki”",
+          "caption": "Kadr z komentarza w Kanale Zero (prawo cytatu)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-19",
+        "who": "Kanał Zero",
+        "initials": "KZ",
+        "category": "Media",
+        "hype": 2,
+        "title": "Małgorzata Frydrych z „Interwencji” Polsatu przechodzi do Kanału Zero",
+        "summary": "Wieloletnia reporterka „Interwencji” dołączyła do zespołu Interwencji Zero. Polsat zakończył swój program latem, a jego dawny prowadzący Michał Bebło jest już w Kanale Zero.",
+        "body": [
+          "Małgorzata Frydrych przez wiele lat była reporterką „Interwencji” w Polsacie, a wcześniej pracowała m.in. w TVP3 Katowice. Teraz przygotowuje reportaże dla Interwencji Zero.",
+          "Program nadaje Kanał Zero od 5 października w dni powszednie o 8:00. Głównym prowadzącym jest Michał Bebło, także dawniej związany z „Interwencją”.",
+          "Polsat latem zrezygnował z programu, tłumacząc, że jego dotychczasowa formuła wyczerpała potencjał. Frydrych w Kanale Zero przygotowała już m.in. materiał o karze dla warszawskiej piekarni za szyld."
+        ],
+        "sources": [
+          {
+            "name": "Press.pl",
+            "url": "https://www.press.pl/tresc/95549,malgorzata-frydrych-w-kanale-zero_-wczesniej-pracowala-w-_interwencji_-polsatu"
+          },
+          {
+            "name": "Wirtualnemedia.pl",
+            "url": "https://www.wirtualnemedia.pl/kanal-zero-youtube-interwencja-zero-dziennikarka-malgorzata-frydrych-poprzednio-interwencja-polsat,7341678524561408a"
+          },
+          {
+            "name": "Kanał Zero / YouTube",
+            "url": "https://www.youtube.com/watch?v=PE2gdW7c3JU"
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/PE2gdW7c3JU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/PE2gdW7c3JU/hqdefault.jpg",
+          "credit": "Kanał Zero / YouTube",
+          "href": "https://www.youtube.com/watch?v=PE2gdW7c3JU",
+          "alt": "Miniatura wydania Interwencji Zero „41 tysięcy złotych kary za 2 cm szyldu”",
+          "caption": "Kadr z programu Interwencja Zero (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "Kanał Zero / YouTube",
+          "text": "Miniatura wydania Interwencji Zero o karze za szyld, czyli programu, do którego dołączyła Frydrych."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-18": {
+    "date": "2026-10-18",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-18",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Rodzina",
+        "hype": 4,
+        "title": "Kaluch i Wiktoria Kalińska zostali rodzicami. „Witaj w domu, Synku”",
+        "summary": "Kamil „Kaluch” Kaliński i jego żona Wiktoria ogłosili na Instagramie narodziny pierwszego dziecka, syna. Imienia ani twarzy dziecka nie pokazali.",
+        "body": [
+          "Youtuber i streamer Kaluch opublikował 18 października na Instagramie serię zdjęć z podpisem „Witaj w domu, Synku 🧸”. To pierwsze dziecko jego i Wiktorii Kalińskiej.",
+          "Para nie podała imienia syna i nie pokazała jego twarzy. Na zdjęciach widać m.in. rodzinne ujęcie wśród niebieskich balonów i polaroidy ze szpitala.",
+          "O ciąży poinformowali na początku maja, płeć dziecka zdradzili w czerwcu, a pod koniec sierpnia urządzili baby shower. Post z narodzinami ma ponad 150 tys. polubień (odczyt 20 października)."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / Instagram",
+            "url": "https://www.instagram.com/p/Deo__u9Dt-b/",
+            "origin": true
+          },
+          {
+            "name": "4FUN.TV",
+            "url": "https://4fun.tv/news/kaluch-wiktoria-kalinska-dziecko-syn-zdjecia"
+          }
+        ],
+        "embed": "https://www.instagram.com/p/Deo__u9Dt-b/",
+        "caption": {
+          "credit": "Kaluch / Instagram",
+          "text": "Post, w którym Kaluch ogłosił narodziny syna. To jedyne źródło tej informacji, dlatego osadzamy go w całości zamiast kadru."
+        },
+        "noImage": "zdjęcia z niemowlęciem, tylko osadzony post twórcy",
+        "ig": [
+          "kaluch_"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-18",
+        "who": "FAME MMA",
+        "initials": "FM",
+        "category": "Freak fight",
+        "hype": 4,
+        "title": "Rezerwowy wygrał turniej FAME 33. Finał przerwano po trafieniu w oko",
+        "summary": "Patryk „Black Panther” Akinyeye wygrał sobotni turniej K-1 Grand Freaks, choć wszedł do niego jako rezerwowy. Finał ze Scarfacem zakończył się w trzeciej rundzie decyzją techniczną.",
+        "body": [
+          "Gala FAME 33: Grand Freaks odbyła się 17 października w Warszawie. Jej główną atrakcją był jednodniowy turniej w formule K-1.",
+          "Akinyeye zaczynał jako rezerwowy. W półfinale zastąpił kontuzjowanego Dawida Załęckiego i przegrał po dogrywce z Michałem „Wampirem” Pasternakiem. Pasternak nie mógł jednak wyjść do finału ze względów zdrowotnych i miejsce przypadło Akinyeye.",
+          "W finale rywalem był Sebastian „Scarface” Skiermański, znany z gal na gołe pięści. W drugiej rundzie Akinyeye dwa razy posłał go na deski lewymi sierpowymi.",
+          "Na początku trzeciej rundy Skiermański zgłosił uraz oka po przypadkowym trafieniu palcem i nie mógł kontynuować. Faul uznano za niezamierzony, więc o wyniku zdecydowały karty sędziowskie, jednogłośnie dla Akinyeye.",
+          "Na tej samej gali Julia Stasiuk pokonała Martę Linkiewicz, a Piotr „Bestia” Piechowiak wygrał dwie walki jednego wieczoru.",
+          "Po walce MMA.pl opublikowało rozmowę ze Scarface'em, w której na gorąco komentuje kontrowersyjną dla niego porażkę w finale."
+        ],
+        "sources": [
+          {
+            "name": "FightSport.pl",
+            "url": "https://fightsport.pl/newsy/patryk-akinyeye-zwycieza-w-turnieju-i-pokonuje-sebastiana-skiermanskiego"
+          },
+          {
+            "name": "MMA.pl",
+            "url": "https://mma.pl/dramatyczny-final-turnieju-fame-33/"
+          },
+          {
+            "name": "KanalSportowy.pl",
+            "url": "https://kanalsportowy.pl/freak-fight/fame/gala-fame-mma-33-grand-freaks-tournament-relacja-na-zywo/"
+          },
+          {
+            "name": "MMAPLtv / YouTube",
+            "url": "https://www.youtube.com/watch?v=MCcobi4xQn4"
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/MCcobi4xQn4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/MCcobi4xQn4/hqdefault.jpg",
+          "credit": "MMAPLtv / YouTube",
+          "href": "https://www.youtube.com/watch?v=MCcobi4xQn4",
+          "alt": "Scarface komentuje przegraną w finale turnieju FAME 33, miniatura wywiadu",
+          "caption": "Kadr z wywiadu MMAPLtv (prawo cytatu)"
+        },
+        "caption": {
+          "credit": "MMAPLtv / YouTube",
+          "text": "Miniatura rozmowy ze Scarface'em tuż po przegranym finale. To ten wywiad pokazuje reakcję zawodnika na zakończenie walki."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-18",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo sprawdził restaurację Kuby Wojewódzkiego. Ponad milion wyświetleń w dwa dni",
+        "summary": "Książulo z ekipą odwiedził Marzycieli, nowy lokal w gdańskiej Hali Targowej współtworzony przez Kubę Wojewódzkiego. W filmie oceniają dania, ceny i organizację pracy.",
+        "body": [
+          "Na kanale Książula 18 października pojawił się film „NOWA RESTAURACJA KUBY WOJEWÓDZKIEGO”. Recenzent pojechał w nim do Gdańska, do lokalu Marzyciele w Hali Targowej.",
+          "Jak czytamy w opisie filmu, restauracja jest współtworzona przez Kubę Wojewódzkiego. Książulo i towarzyszący mu znajomi testują różne pozycje z menu i oceniają jakość dań, ceny oraz to, jak działa lokal.",
+          "To pierwszy duży odcinek recenzencki od czasu dyskusji o jego mrożonej pizzy Muala w Żabce. Do 20 października film obejrzało ponad 1,08 mln osób."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=XQkR3IQJ8BE",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura odcinka z wizyty w Marzycielach. Opis filmu potwierdza, że chodzi o lokal współtworzony przez Kubę Wojewódzkiego."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/XQkR3IQJ8BE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/XQkR3IQJ8BE/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=XQkR3IQJ8BE",
+          "alt": "Miniatura filmu Książula „Nowa restauracja Kuby Wojewódzkiego”",
+          "caption": "Kadr z filmu Książula (prawo cytatu)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-17",
+        "who": "OjWojtek",
+        "initials": "OW",
+        "category": "Lifestyle",
+        "hype": 3,
+        "title": "OjWojtek próbował przejść pieszo przez morze. W Marszu Śledzia szedł z Markiem Kamińskim",
+        "summary": "W nowym filmie OjWojtek bierze udział w Marszu Śledzia przez Zatokę Pucką razem z polarnikiem Markiem Kamińskim. Po drodze zwiedza Kaszuby, od Muzeum Hymnu Narodowego po bar w Czarlinie.",
+        "body": [
+          "Film „Spróbowałem przejść PIESZO PRZEZ MORZE” trafił na kanał OjWojtka 17 października. Do 20 października ma prawie 900 tys. wyświetleń.",
+          "Głównym punktem odcinka jest Marsz Śledzia, czyli przejście przez płytkie wody Zatoki Puckiej. Youtuber idzie w nim z Markiem Kamińskim, którego oznaczył w opisie filmu.",
+          "Jak opisuje Dziennik Bałtycki, po drodze twórca odwiedza m.in. Muzeum Hymnu Narodowego w Będominie, fabrykę porcelany Lubiana i bar w Czarlinie-Osadzie, gdzie próbuje kaszubskich specjałów: ruchanek i tabaki."
+        ],
+        "sources": [
+          {
+            "name": "OjWojtek / YouTube",
+            "url": "https://www.youtube.com/watch?v=T_btZeNeZcI",
+            "origin": true
+          },
+          {
+            "name": "Dziennik Bałtycki",
+            "url": "https://dziennikbaltycki.pl/znany-youtuber-ojwojtek-na-kaszubach-ruchanki-tabaka-i-nalewka-bursztynowa-co-go-zaskoczylo/ar/c1p2-29451019"
+          }
+        ],
+        "caption": {
+          "credit": "OjWojtek / YouTube",
+          "text": "Miniatura odcinka o Marszu Śledzia. Pokazuje twórcę w stroju do przejścia przez zatokę, o którym jest ten tekst."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/T_btZeNeZcI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/T_btZeNeZcI/hqdefault.jpg",
+          "credit": "OjWojtek / YouTube",
+          "href": "https://www.youtube.com/watch?v=T_btZeNeZcI",
+          "alt": "OjWojtek w morzu podczas Marszu Śledzia, miniatura filmu",
+          "caption": "Kadr z filmu OjWojtka (prawo cytatu)"
+        },
+        "ig": [
+          "ojwojtek"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-18",
+        "who": "Krzysztof Stanowski",
+        "initials": "KS",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Stanowski zdradził, jak płaci piłkarzom KTS Weszło. Część pensji dostaną tylko za miejsce w czołowej dwójce",
+        "summary": "Prawie wszyscy zawodnicy trzecioligowego KTS Weszło mają zamrożoną część comiesięcznej pensji. Pieniądze trafiają do nich dopiero, gdy drużyna skończy rundę lub sezon w pierwszej dwójce.",
+        "body": [
+          "Krzysztof Stanowski, twórca Kanału Zero i właściciel KTS Weszło, opisał 18 października na X system wynagrodzeń w swoim klubie.",
+          "Zawodnicy wybierają między wyższą pensją gwarantowaną a niższą podstawą z doliczaną częścią zamrożoną. Ta druga część jest wypłacana tylko wtedy, gdy zespół zajmie jedno z dwóch pierwszych miejsc po rundzie jesiennej albo na koniec sezonu. Jeśli cel uda się dopiero na koniec sezonu, piłkarze dostają zaległości za cały rok.",
+          "SportMarketing.pl podaje przykład: zawodnik, który chciał 4 tys. zł miesięcznie, wybrał 3,5 tys. zł podstawy i 1 tys. zł warunkowo. Gdy drużyna osiągnie cel, wyjdzie mu 4,5 tys. zł miesięcznie.",
+          "Według Stanowskiego KTS ma dziewięć punktów przewagi nad trzecią drużyną, a do końca rundy zostały cztery mecze. W poprzednim sezonie klub był trzeci po jesieni, a ligę wygrał."
+        ],
+        "sources": [
+          {
+            "name": "Krzysztof Stanowski / X",
+            "url": "https://x.com/K_Stanowski/status/2111870098227016040",
+            "origin": true
+          },
+          {
+            "name": "SportMarketing.pl",
+            "url": "https://www.sportmarketing.pl/finanse/122150/nietypowy-sposob-wynagradzania-pilkarzy-w-trzecioligowym-klubie/"
+          },
+          {
+            "name": "Super Express",
+            "url": "https://www.se.pl/wiadomosci/po-godzinach/krzysztof-stanowski-ujawnil-jak-placi-pilkarzom-ciekawy-system-motywacyjny-aa-Mzez-fztj-FKim.html"
+          },
+          {
+            "name": "ESKA",
+            "url": "https://www.eska.pl/news/sport/krzysztof-stanowski-zdradza-zasady-w-kts-weszlo-zaskakujacy-model-wyplat-dla-pilkarzy-aa-S1JE-Yoae-uv1X.html"
+          }
+        ],
+        "embed": "https://x.com/K_Stanowski/status/2111870098227016040",
+        "caption": {
+          "credit": "Krzysztof Stanowski / X",
+          "text": "Wpis, w którym Stanowski opisuje zamrożone pensje w KTS Weszło. Z niego pochodzą dane o przewadze punktowej i zasadach wypłat."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Krzysztof_Stanowski_%282025%29_%28cropped%29.jpg",
+          "credit": "Tony Montana / Wikimedia Commons, CC0",
+          "href": "https://commons.wikimedia.org/wiki/File:Krzysztof_Stanowski_(2025)_(cropped).jpg",
+          "alt": "Krzysztof Stanowski, zdjęcie z 2025 roku",
+          "caption": "Krzysztof Stanowski, właściciel KTS Weszło (zdjęcie z 2025 r.)"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-17",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Nagrody",
+        "hype": 4,
+        "title": "Young Multi jako pierwszy Polak z nominacją do The Streamer Awards",
+        "summary": "Young Multi jest nominowany w kategorii najlepszy międzynarodowy streamer. To pierwsza nominacja dla twórcy z Polski w historii tego plebiscytu.",
+        "body": [
+          "Organizatorzy The Streamer Awards 2026 ogłosili nominacje. Young Multi (Michał Rychlik) znalazł się w kategorii dla najlepszego międzynarodowego streamera, czyli twórcy nadającego spoza USA.",
+          "Jak zauważa Interia, to pierwsza nominacja dla polskiego twórcy w historii nagrody, niezależnie od platformy: Twitcha, Kicka czy YouTube'a.",
+          "Zwycięzców wybierają internauci w głosowaniu na stronie plebiscytu. Wyniki mają być ogłoszone 12 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Interia Gry",
+            "url": "https://gry.interia.pl/viral/news-polski-streamer-z-wielkim-wyroznieniem-moze-wygrac-prestizow,nId,23560780"
+          },
+          {
+            "name": "BOOP.PL",
+            "url": "https://boop.pl/rozrywka/young-multi-nominowany-najlepszego-streamera-miedzynarodowego-na-the-streamer-awards"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Young_Multi_w_Czw%C3%B3rce.jpg/1280px-Young_Multi_w_Czw%C3%B3rce.jpg",
+          "credit": "Kamil Jasieński / Wikimedia Commons, CC BY-SA 4.0",
+          "href": "https://commons.wikimedia.org/wiki/File:Young_Multi_w_Czwórce.jpg",
+          "alt": "Young Multi w studiu radiowej Czwórki",
+          "caption": "Young Multi w radiowej Czwórce"
+        },
+        "caption": {
+          "credit": "Kamil Jasieński / Wikimedia Commons",
+          "text": "Young Multi podczas wizyty w radiowej Czwórce. Zdjęcie na wolnej licencji pokazuje nominowanego streamera."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-18",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "MrBeast zadebiutował w „Shark Tank”. Za 250 tys. dolarów kupił 55 proc. firmy od piłki z AI",
+        "summary": "W swoim pierwszym odcinku jako jeden z „rekinów” MrBeast zainwestował w Ball 2, piłkę z czujnikami i aplikacją, w której AI wymyśla nowe gry. Wynalazcami są kuzyni z Pensylwanii.",
+        "body": [
+          "MrBeast dołączył do amerykańskiego programu „Shark Tank”, w którym inwestorzy oceniają pomysły przedsiębiorców. W debiutanckim odcinku zainwestował 250 tys. dolarów w zamian za 55 proc. udziałów w Ball 2.",
+          "Ball 2 to piłka z czujnikami, które zbierają dane przy rzucaniu, toczeniu i odbijaniu, i przesyłają je do aplikacji. Wbudowane AI pozwala na bieżąco tworzyć nowe zasady gry. Twórcami są kuzyni Andrew Brown i Kevin Langdon.",
+          "Jak opisuje Kotaku, Lori Greiner wątpiła w zainteresowanie klientów, a Kevin O'Leary uznał, że produkt obroni się tylko dzięki viralowi. MrBeast po pokazie przyznał, że piłka działa lepiej, niż się spodziewał."
+        ],
+        "sources": [
+          {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/mrbeast-joins-shark-tank-invests-quarter-million-in-ai-powered-ball-2-2000747308"
+          },
+          {
+            "name": "PennLive",
+            "url": "https://www.pennlive.com/life/2026/10/pa-inventors-win-big-as-mrbeast-backs-ai-powered-toy-on-shark-tank.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MrBeast_2023_%28cropped%29.jpg/1280px-MrBeast_2023_%28cropped%29.jpg",
+          "credit": "Steven Khan / Wikimedia Commons, CC BY 4.0",
+          "href": "https://commons.wikimedia.org/wiki/File:MrBeast_2023_(cropped).jpg",
+          "alt": "MrBeast, zdjęcie z 2023 roku",
+          "caption": "MrBeast (zdjęcie z 2023 r.)"
+        },
+        "caption": {
+          "credit": "Steven Khan / Wikimedia Commons",
+          "text": "MrBeast na zdjęciu z 2023 roku. To on jest nowym inwestorem w programie."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": []
+  },
+  "2026-10-17": {
+    "date": "2026-10-17",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-10-17",
+        "who": "FAME MMA",
+        "initials": "FM",
+        "category": "Gale",
+        "hype": 4,
+        "title": "FAME 33: Grand Freaks dziś w ATM Studio. Ośmiu zawodników w turnieju K-1 o jeden wieczór",
+        "summary": "Jubileuszowa gala FAME 33 odbędzie się w sobotę 17 października w warszawskim ATM Studio. Główną atrakcją jest ośmioosobowy turniej Grand Freaks w formule K-1 w małych rękawicach.",
+        "body": [
+          "FAME MMA organizuje dziś galę FAME 33: Grand Freaks w ATM Studio w Warszawie. Według zapowiedzi start zaplanowano na 20:00, a transmisja jest w systemie PPV na famemma.tv.",
+          "Trzonem wieczoru jest turniej ośmiu zawodników w formule K-1 w małych rękawicach. W pierwszej rundzie turnieju zmierzą się: Dawid „Crazy” Załęcki z Kacprem „Legionistą” Musiałem, Michał „Wampir” Pasternak z Erko Junem, Alberto Simao z Sebastianem „Scarface” Skiermańskim oraz Paweł Tyburski z Marcinem „Polish Zombie” Wrzoskiem. Zwycięzcy walczą dalej tego samego wieczoru, aż do finału, który zamyka galę.",
+          "Poza turniejem w karcie są m.in. bokserskie starcie Marty Linkiewicz z Julią Stasiuk, walka MMA Kamila „LeQu” Rosika z Markiem „Bad Boy Jr.” Frankiem, pojedynek K-1 Marcina „Blendusiaka” Jędrusiaka z Karolem Rybką oraz nietypowa walka bokserska Piotra „Bestii” Piechowiaka z duetem Anglik i Klon (jeden na dwóch).",
+          "Rezerwowym starciem jest walka Bogusława Zielińskiego z Patrykiem Akinyeye, na wypadek gdyby któryś z uczestników turnieju nie mógł kontynuować. Ważenie odbyło się w piątek 16 października. Wyniki gali opiszemy w kolejnym wydaniu."
+        ],
+        "sources": [
+          {
+            "name": "FAME MMA",
+            "url": "https://famemma.com/wydarzenia/fame-33-grand-freaks/",
+            "origin": true
+          },
+          {
+            "name": "Meczyki.pl",
+            "url": "https://www.meczyki.pl/newsy/sporty-walki/oto-karta-walk-fame-mma-33-beda-grzmoty/315380"
+          },
+          {
+            "name": "Zawodtyper.pl",
+            "url": "https://zawodtyper.pl/fame-mma-33-karta-walk-sprawdz-kto-zawalczy/"
+          }
+        ],
+        "noImage": "brak oficjalnego filmu FAME MMA z ID ani newsroomu ze zdjęciami prasowymi",
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Kaz Bałagane",
+        "initials": "KB",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Kaz Bałagane wydał album „Fish & Tits”. 24 utwory, wśród gości Quebonafide, Pezet i Słoń",
+        "summary": "16 października ukazał się album „Fish & Tits” Kaza Bałagane. Na 24 utworach pojawiają się m.in. Quebonafide, Pezet z HAŁASTRĄ, Słoń, Otsochodzi, Oki i vkie.",
+        "body": [
+          "Kaz Bałagane wydał w piątek 16 października album „Fish & Tits”. W serwisach streamingowych płyta liczy 24 utwory; zamyka ją numer „RED BULL 64 BARS”.",
+          "Lista gości jest długa: Polskiiego w „Side Eye”, Słoń w „Gdybym był żulem”, Otsochodzi w „Dziwaku”, Pezet z HAŁASTRĄ w „Overboost”, vkie w „Moja wina”, Quebonafide w „Przez sen” i Oki w „Easy”.",
+          "Album był zapowiadany od czerwca, kiedy wystartował preorder i ukazał się teledysk do tytułowego singla, wyprodukowanego przez Leśnego i PSR. Wcześniej jako datę premiery podawano 2 października."
+        ],
+        "sources": [
+          {
+            "name": "Spotify",
+            "url": "https://open.spotify.com/album/7gF7ieVaUoVdMktq6D58ez",
+            "origin": true
+          },
+          {
+            "name": "eBilet NOW",
+            "url": "https://www.ebilet.pl/now/kaz-balagane-wydal-album-fish-tits-dobor-gosci-zaskakuje/"
+          },
+          {
+            "name": "CGM.pl",
+            "url": "https://cgm.pl/news/kaz-balagane-publikuje-nowy-teledysk-i-rusza-z-preorderem-albumu-fish-tits/"
+          },
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/watch?v=6ymvu1j2b3Q"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=6ymvu1j2b3Q",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/6ymvu1j2b3Q/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/6ymvu1j2b3Q/hqdefault.jpg",
+          "credit": "Kaz Bałagane / YouTube",
+          "href": "https://www.youtube.com/watch?v=6ymvu1j2b3Q",
+          "alt": "Kadr z teledysku do utworu „Fish & Tits” Kaza Bałagane",
+          "caption": "Teledysk do tytułowego singla"
+        },
+        "caption": {
+          "credit": "Kaz Bałagane / YouTube",
+          "text": "Teledysk do tytułowego „Fish & Tits” otworzył w czerwcu preorder płyty. Ten sam utwór daje nazwę albumowi, który ukazał się 16 października."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "Książulo testuje chleb za 230 zł. „Ciężka odklejka”, ocenia w tytule",
+        "summary": "Książulo wrzucił krótki film o bochenku chleba za 230 zł. W kilkanaście godzin short obejrzało blisko 350 tys. osób, a widzowie dyskutują, czy taka cena ma jakikolwiek sens.",
+        "body": [
+          "W piątek po południu na kanale Książula pojawił się ponad dwuminutowy short „230zł za zwykły chleb czyli ciężka odklejka”. Już sam tytuł pokazuje, co twórca sądzi o cenie.",
+          "Do soboty, godz. 6:16, film miał ok. 348 tys. wyświetleń, 6,8 tys. polubień i ponad 700 komentarzy.",
+          "Widzowie w komentarzach żartują, że taki bochenek trzeba zamrozić na zapas, porównują lokal do galerii sztuki dla snobów i przeliczają cenę na mrożone pizze. Część broni jednak ciężkiego, zbitego chleba żytniego jako rzemieślniczego wyrobu, za który ktoś po prostu chce zapłacić."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/shorts/RX_XNrvs4Dc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/RX_XNrvs4Dc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RX_XNrvs4Dc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RX_XNrvs4Dc/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/shorts/RX_XNrvs4Dc",
+          "alt": "Miniatura shorta Książula o chlebie za 230 zł",
+          "caption": "Short Książula o chlebie za 230 zł"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura shorta, w którym Książulo sprawdza chleb za 230 zł. Film nie ma napisów, więc opisujemy tylko tytuł, statystyki i reakcje widzów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-16",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy i AI",
+        "hype": 3,
+        "title": "GothamChess przegrał z modelem Gemini Argon 4. „Mam dość”, pisze w tytule",
+        "summary": "Levy Rozman, czyli GothamChess, zagrał partię z modelem AI Google’a i według tytułu został rozbity. Film w kilkanaście godzin obejrzało ponad pół miliona osób.",
+        "body": [
+          "Na kanale GothamChess pojawił się w piątek po południu 27-minutowy film „Gemini Argon 4 destroyed me in chess. I'm done.”. Levy Rozman, jeden z najpopularniejszych szachowych twórców na świecie, tym razem sam usiadł do partii z modelem językowym.",
+          "Do soboty, godz. 6:16, film miał ok. 557 tys. wyświetleń, 10 tys. polubień i ponad 840 komentarzy.",
+          "Widzowie w komentarzach żartują, że model mógłby przegrać tylko wtedy, gdy skończą mu się tokeny, i wytykają Rozmanowi, że mówił o swojej przewadze, gdy silnik szachowy pokazywał coś odwrotnego. Kilka dni wcześniej w innym filmie kazał zagrać przeciwko sobie dwóm modelom AI."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=qT_tTWOCb-Y",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qT_tTWOCb-Y",
+        "ig": [
+          "gothamchess"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qT_tTWOCb-Y/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qT_tTWOCb-Y/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=qT_tTWOCb-Y",
+          "alt": "Miniatura filmu GothamChess o partii z Gemini Argon 4",
+          "caption": "GothamChess kontra Gemini Argon 4"
+        },
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura filmu, w którym Levy Rozman gra z modelem Gemini Argon 4. To kolejny jego materiał o szachowych umiejętnościach modeli AI w tym tygodniu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-10-16",
+        "who": "Graf",
+        "initials": "GR",
+        "category": "Geografia",
+        "hype": 3,
+        "title": "GeoGuessr testuje mapę Chin opartą na Baidu. Graf i Kamil Sus sprawdzili ją jako jedni z pierwszych",
+        "summary": "Do GeoGuessra trafiła testowa mapa Chin, zbudowana na mapach Baidu zamiast Google Street View. Graf zagrał na niej z Kamilem Susem; film ma blisko 80 tys. wyświetleń.",
+        "body": [
+          "Chiny przez lata były w GeoGuessrze białą plamą, bo Google Street View praktycznie tam nie działa. Jak pisze Graf w opisie nowego filmu, gra dostała testową mapę Chin, opartą na zdjęciach z map Baidu.",
+          "Graf przetestował ją razem z Kamilem Susem w 26-minutowym materiale „Dodano Chiny do GeoGuessr (ft. Kamil Sus)”. Do soboty, godz. 6:16, film miał ok. 79 tys. wyświetleń i 2 tys. polubień.",
+          "Widzowie w komentarzach chwalą duet, porównują Kamila Susa do innego geoguessrowego twórcy i żartują, że na ich oczach rodzi się polska wiedza o tym, jak rozpoznawać chińskie drogi."
+        ],
+        "sources": [
+          {
+            "name": "Graf / YouTube",
+            "url": "https://www.youtube.com/watch?v=oLe5HjZXljs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=oLe5HjZXljs",
+        "ig": [
+          "graf_irl"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/oLe5HjZXljs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/oLe5HjZXljs/hqdefault.jpg",
+          "credit": "Graf / YouTube",
+          "href": "https://www.youtube.com/watch?v=oLe5HjZXljs",
+          "alt": "Miniatura filmu Grafa o mapie Chin w GeoGuessr",
+          "caption": "Graf i Kamil Sus na nowej mapie Chin"
+        },
+        "caption": {
+          "credit": "Graf / YouTube",
+          "text": "Miniatura filmu, w którym Graf i Kamil Sus grają na testowej mapie Chin. Opis filmu potwierdza, że mapa korzysta z danych Baidu."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "USA",
+        "initials": "KZ",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Istnieje rasa kóz, które ze strachu sztywnieją na ok. 10 sekund i przewracają się na bok",
+        "summary": "Kozy omdlewające mają dziedziczną miotonię: gdy się wystraszą, ich mięśnie na chwilę się blokują. Wyglądają, jakby mdlały, choć nie tracą przytomności.",
+        "body": [
+          "Koza miotoniczna, zwana też omdlewającą albo tennessijską, to amerykańska rasa, której pierwsze cztery osobniki trafiły do Tennessee w latach 80. XIX wieku.",
+          "Za „omdlenia” odpowiada wrodzona miotonia: przy nagłym przestraszeniu mięśnie nie rozluźniają się od razu i sztywnieją na ok. 10 sekund, przez co zwierzę często przewraca się na bok."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Fainting_goat"
+          },
+          {
+            "name": "Natural History Museum",
+            "url": "https://www.nhm.ac.uk/discover/why-do-goats-faint-and-scream.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Myotonic_Goat_-_17003682370.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Myotonic_Goat_-_17003682370.jpg",
+          "credit": "Jean / Wikimedia Commons, CC BY 2.0",
+          "alt": "Koza miotoniczna stojąca na trawie",
+          "caption": "Koza miotoniczna, zwana omdlewającą"
+        },
+        "caption": {
+          "credit": "Jean / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje kozę rasy miotonicznej. To ta rasa, u której przestraszenie wywołuje kilkusekundowe zesztywnienie mięśni."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Hans Langseth",
+        "initials": "HL",
+        "category": "Rekordy",
+        "hype": 4,
+        "title": "Najdłuższą brodę w historii miał Norweg z USA. Księga Guinnessa wciąż uznaje jego rekord",
+        "summary": "Hans Langseth (1846–1927) to według Księgi rekordów Guinnessa właściciel najdłuższej zarejestrowanej brody. Nikt go dotąd nie pobił.",
+        "body": [
+          "Hans Nilson Langseth urodził się w 1846 roku w Norwegii, a później zamieszkał w Stanach Zjednoczonych. Zmarł w 1927 roku.",
+          "Księga rekordów Guinnessa wciąż prowadzi go jako rekordzistę w kategorii najdłuższej brody u mężczyzny."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hans_Langseth"
+          },
+          {
+            "name": "Guinness World Records",
+            "url": "http://www.guinnessworldrecords.com/world-records/longest-beard-male"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hans_Langseth.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Hans_Langseth.jpg",
+          "credit": "Nils C. Jorgenson / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie Hansa Langsetha z bardzo długą brodą",
+          "caption": "Hans Langseth i jego rekordowa broda"
+        },
+        "caption": {
+          "credit": "Nils C. Jorgenson / Wikimedia Commons",
+          "text": "Archiwalna fotografia Hansa Langsetha. To on według Guinnessa miał najdłuższą brodę w historii."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Wielka Brytania",
+        "initials": "WB",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Świąteczny park „Laponia” w Anglii był tak zły, że zamknięto go po tygodniu, a organizatorów skazano",
+        "summary": "W 2008 roku pod Ringwood otwarto zimową krainę z jarmarkiem i „magicznym tunelem światła”. Atrakcje psuły się albo wyglądały fatalnie i park szybko upadł.",
+        "body": [
+          "Lapland New Forest w hrabstwie Hampshire reklamował się jako zimowa kraina czarów z jarmarkiem świątecznym i świetlnym tunelem. Większość obiecanych atrakcji nie działała albo była bardzo niskiej jakości.",
+          "Po skargach klientów i fali krytyki w mediach park zamknięto po tygodniu. Organizatorów oskarżono o wprowadzającą w błąd reklamę i skazano na 13 miesięcy więzienia. Dziś porównuje się go do wpadki „Willy's Chocolate Experience”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lapland_New_Forest"
+          },
+          {
+            "name": "The Telegraph",
+            "url": "https://www.telegraph.co.uk/news/uknews/3549767/Controversial-Lapland-New-Forest-Christmas-attraction-closes.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Advertising_hoarding%2C_Matchams_-_geograph.org.uk_-_1067747.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Advertising_hoarding,_Matchams_-_geograph.org.uk_-_1067747.jpg",
+          "credit": "Mike Faherty / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Billboard reklamowy przy drodze w Matchams w Hampshire",
+          "caption": "Billboard w Matchams w Hampshire"
+        },
+        "caption": {
+          "credit": "Mike Faherty / Wikimedia Commons",
+          "text": "Zdjęcie billboardu przy drodze w Matchams, okolicy, w której działał park. Plik na Commons jest przypisany do artykułu o Lapland New Forest."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Azja Środkowa",
+        "initials": "AS",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Europejczycy wierzyli kiedyś w roślinę, na której zamiast owoców rosną owce",
+        "summary": "Legendarny „baranek tatarski” miał być połączony z łodygą pępowiną i paść się wokół rośliny. Za mitem stała bawełna, nieznana wtedy w północnej Europie.",
+        "body": [
+          "Według legendy w Azji Środkowej rosła roślina, której owocami były żywe owce. Zwierzęta miały być przyczepione do niej czymś w rodzaju pępowiny i skubać trawę dookoła. Gdy jedzenie się kończyło, umierały i owca, i roślina.",
+          "Źródłem mitu była bawełna: włókno z rośliny, które wyglądało jak wełna, a którego w północnej Europie nie znano przed podbojem Sycylii przez Normanów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Vegetable_Lamb_of_Tartary"
+          },
+          {
+            "name": "Lapham’s Quarterly",
+            "url": "https://www.laphamsquarterly.org/roundtable/animal-vegetable-or-both"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Borametz%2C_or_the_Vegetable_Lamb_of_Tartary_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Borametz,_or_the_Vegetable_Lamb_of_Tartary_(cropped).jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Dawna rycina przedstawiająca owcę wyrastającą z łodygi rośliny",
+          "caption": "Dawna rycina „baranka tatarskiego”"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Dawna ilustracja legendarnej rośliny z owcą zamiast owocu. Tak wyobrażano sobie „baranka tatarskiego”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Genetyka",
+        "initials": "GE",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Jedno z białek nazywa się „Matki przeciwko decapentaplegic”. To żart genetyków",
+        "summary": "Białko odkryte u muszki owocowej dostało nazwę Mothers against decapentaplegic. To nawiązanie do amerykańskiej organizacji Mothers Against Drunk Driving.",
+        "body": [
+          "Naukowcy badający muszkę owocową zauważyli, że mutacja pewnego genu u matki tłumi działanie genu decapentaplegic u zarodka. Stąd nazwa: Mothers against decapentaplegic, w skrócie MAD.",
+          "Człon „Mothers against” to żartobliwe nawiązanie do organizacji w rodzaju Mothers Against Drunk Driving i część tradycji nietypowych nazw genów. Białko należy do rodziny SMAD."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mothers_against_decapentaplegic"
+          },
+          {
+            "name": "The Naked Scientists",
+            "url": "https://www.thenakedscientists.com/articles/interviews/gene-month-mothers-against-decapentaplegic"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Protein_SMAD2_PDB_1dev.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Protein_SMAD2_PDB_1dev.png",
+          "credit": "Emw / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Model struktury białka SMAD2",
+          "caption": "Struktura białka SMAD2"
+        },
+        "caption": {
+          "credit": "Emw / Wikimedia Commons",
+          "text": "Model białka SMAD2, ludzkiego krewnego białka MAD. Rodzina SMAD wzięła nazwę właśnie od żartobliwej nazwy z badań muszki."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Niemcy",
+        "initials": "NI",
+        "category": "Telewizja",
+        "hype": 3,
+        "title": "Gwiazdą niemieckiej telewizji jest od 2000 roku chleb w depresji, który lubi nudne zajęcia",
+        "summary": "Bernd das Brot to kukiełkowy bochenek, maskotka kanału KiKA. Najbardziej znany jest z wiecznego narzekania na życie.",
+        "body": [
+          "Bernd das Brot, czyli „Bernd Chleb”, zadebiutował w kanale KiKA w 2000 roku. Ma własne programy i stał się w Niemczech ikoną popkultury.",
+          "Jego cechą rozpoznawczą jest chroniczna depresja: Bernd narzeka na swój los i najchętniej zajmuje się bardzo nudnymi rzeczami. Pokazuje się też w nocnej pętli programowej kanału."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bernd_das_Brot"
+          },
+          {
+            "name": "Der Spiegel",
+            "url": "https://www.spiegel.de/international/bernd-das-brot-who-says-germans-aren-t-funny-a-408450.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Bernddasbrot-puppenspieler.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Bernddasbrot-puppenspieler.jpg",
+          "credit": "Richard Jebe (BissigerWitzbold) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Kukiełka Bernd das Brot z lalkarzem",
+          "caption": "Bernd das Brot i jego lalkarz"
+        },
+        "caption": {
+          "credit": "Richard Jebe / Wikimedia Commons",
+          "text": "Kukiełka Bernda das Brot razem z lalkarzem, który ją prowadzi. To ta postać od ponad 25 lat narzeka na życie w niemieckiej telewizji."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-10-17",
+        "who": "Igrzyska zimowe",
+        "initials": "IZ",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Na zimowe igrzyska jeżdżą też kraje tropikalne. Jamajscy bobsleiści to tylko najsłynniejszy przykład",
+        "summary": "Wiele państw bez śniegu i zimy wystawia sportowców na zimowych igrzyskach. Ich starty to stały temat reportaży w czasie każdych igrzysk.",
+        "body": [
+          "Kilka krajów tropikalnych startuje w zimowych igrzyskach, mimo że nie ma klimatu do sportów zimowych. Dlatego ich reprezentanci stają się bohaterami historii „z ludzką twarzą” podczas każdej imprezy.",
+          "Pierwszym krajem z ciepłym, choć nie w pełni tropikalnym klimatem, który wystartował w zimowych igrzyskach, był Meksyk. Na zdjęciu reprezentacja Ghany na otwarciu igrzysk w Vancouver w 2010 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tropical_nations_at_the_Winter_Olympics"
+          },
+          {
+            "name": "Infoplease",
+            "url": "http://www.infoplease.com/spot/winter-olympics-warm-weather.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/2010_Opening_Ceremony_-_Ghana_entering.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:2010_Opening_Ceremony_-_Ghana_entering.jpg",
+          "credit": "Jude Freeman / Wikimedia Commons, CC BY 2.0",
+          "alt": "Reprezentacja Ghany wchodzi na stadion podczas ceremonii otwarcia igrzysk 2010",
+          "caption": "Ghana na otwarciu igrzysk w Vancouver 2010"
+        },
+        "caption": {
+          "credit": "Jude Freeman / Wikimedia Commons",
+          "text": "Ekipa Ghany wchodzi na ceremonię otwarcia zimowych igrzysk w 2010 roku. To przykład kraju tropikalnego na zimowej imprezie."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-08": {
     "date": "2026-11-08",
     "ryby": [],

@@ -189,6 +189,67 @@ window.HYPERS_URLS = {
    "artykuly/2026-10-22/walijczyk-wyrzucil-na-wysypisko-dysk-z-kluczem-do-8-tys-bitcoinow.html"
   ]
  },
+ "2026-10-21": {
+  "luz": [
+   "artykuly/2026-10-21/fagata-zlozyla-prywatny-akt-oskarzenia-przeciwko-gimperowi-chodzi.html",
+   "artykuly/2026-10-21/jest-oficjalny-zwiastun-tede-forever-rap-dokument-juz-wygral-nagrode.html",
+   "artykuly/2026-10-21/ksiazulo-na-zakupach-w-louis-vuitton-krotki-film-ma-juz-prawie-pol.html",
+   "artykuly/2026-10-21/donald-pl-wchodzi-na-youtube-z-pierogami-prawdy-pierwszym-gosciem.html",
+   "artykuly/2026-10-21/jan-rokita-w-kanale-zero-czy-zmiana-ordynacji-zakonczy-polski-duopol.html",
+   "artykuly/2026-10-21/gwiazdowski-w-kanale-zero-o-warszawskim-zdm-wladza-wazniejsza-niz.html"
+  ]
+ },
+ "2026-10-20": {
+  "luz": [
+   "artykuly/2026-10-20/wyzga-usunal-odcinek-didaskaliow-i-przeprosil-gosc-mial-tatuaz.html",
+   "artykuly/2026-10-20/tusk-chwali-sie-polityka-migracyjna-stanowski-pyta-czy-ktos-sie.html",
+   "artykuly/2026-10-20/trzeci-spot-promujacy-polske-znow-oberwal-od-internautow-tym-razem.html",
+   "artykuly/2026-10-20/zakaz-reklamy-piwa-moze-uderzyc-w-browary-rzemieslnicze-kanal-zero.html",
+   "artykuly/2026-10-20/efekt-brzoski-polacy-coraz-czesciej-prosza-google-o-usuniecie-linkow.html",
+   "artykuly/2026-10-20/bonson-otwiera-wlasny-barbershop-w-szczecinie-szuka-juz-fryzjerow.html",
+   "artykuly/2026-10-20/firma-powiazana-z-mrbeastem-zastrzega-znaki-mrbeast-financial.html",
+   "artykuly/2026-10-20/westside-gunn-wraca-do-polski-zagra-w-progresji-w-lutym-2027.html"
+  ]
+ },
+ "2026-10-19": {
+  "luz": [
+   "artykuly/2026-10-19/wlasciciel-circle-k-chce-kupic-zabke-za-ponad-32-mld-zl-kanal-zero.html",
+   "artykuly/2026-10-19/41-tys-zl-kary-za-szyld-ktory-wystawal-o-2-cm-po-materiale-kanalu.html",
+   "artykuly/2026-10-19/vkie-quebonafide-to-najbardziej-przehajpowany-polski-raper-nie-trafia.html",
+   "artykuly/2026-10-19/boxdel-pudzianowski-w-100-proc-na-tak-do-fame-jedynym-rywalem-widzi.html",
+   "artykuly/2026-10-19/nawrocki-otworzyl-dyskusje-o-dostepie-do-broni-prof-matczak-w-kanale.html",
+   "artykuly/2026-10-19/malgorzata-frydrych-z-interwencji-polsatu-przechodzi-do-kanalu-zero.html"
+  ]
+ },
+ "2026-10-18": {
+  "luz": [
+   "artykuly/2026-10-18/kaluch-i-wiktoria-kalinska-zostali-rodzicami-witaj-w-domu-synku.html",
+   "artykuly/2026-10-18/rezerwowy-wygral-turniej-fame-33-final-przerwano-po-trafieniu-w-oko.html",
+   "artykuly/2026-10-18/ksiazulo-sprawdzil-restauracje-kuby-wojewodzkiego-ponad-milion.html",
+   "artykuly/2026-10-18/ojwojtek-probowal-przejsc-pieszo-przez-morze-w-marszu-sledzia-szedl.html",
+   "artykuly/2026-10-18/stanowski-zdradzil-jak-placi-pilkarzom-kts-weszlo-czesc-pensji.html",
+   "artykuly/2026-10-18/young-multi-jako-pierwszy-polak-z-nominacja-do-the-streamer-awards.html",
+   "artykuly/2026-10-18/mrbeast-zadebiutowal-w-shark-tank-za-250-tys-dolarow-kupil-55-proc.html"
+  ]
+ },
+ "2026-10-17": {
+  "luz": [
+   "artykuly/2026-10-17/fame-33-grand-freaks-dzis-w-atm-studio-osmiu-zawodnikow-w-turnieju.html",
+   "artykuly/2026-10-17/kaz-balagane-wydal-album-fish-tits-24-utwory-wsrod-gosci-quebonafide.html",
+   "artykuly/2026-10-17/ksiazulo-testuje-chleb-za-230-zl-ciezka-odklejka-ocenia-w-tytule.html",
+   "artykuly/2026-10-17/gothamchess-przegral-z-modelem-gemini-argon-4-mam-dosc-pisze-w-tytule.html",
+   "artykuly/2026-10-17/geoguessr-testuje-mape-chin-oparta-na-baidu-graf-i-kamil-sus.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-10-17/istnieje-rasa-koz-ktore-ze-strachu-sztywnieja-na-ok-10-sekund.html",
+   "artykuly/2026-10-17/najdluzsza-brode-w-historii-mial-norweg-z-usa-ksiega-guinnessa-wciaz.html",
+   "artykuly/2026-10-17/swiateczny-park-laponia-w-anglii-byl-tak-zly-ze-zamknieto.html",
+   "artykuly/2026-10-17/europejczycy-wierzyli-kiedys-w-rosline-na-ktorej-zamiast-owocow-rosna.html",
+   "artykuly/2026-10-17/jedno-z-bialek-nazywa-sie-matki-przeciwko-decapentaplegic-to-zart.html",
+   "artykuly/2026-10-17/gwiazda-niemieckiej-telewizji-jest-od-2000-roku-chleb-w-depresji.html",
+   "artykuly/2026-10-17/na-zimowe-igrzyska-jezdza-tez-kraje-tropikalne-jamajscy-bobsleisci.html"
+  ]
+ },
  "2026-10-16": {
   "luz": [
    "artykuly/2026-10-16/avi-i-louis-villain-swietuja-10-lat-wspolpracy-singlem.html",
