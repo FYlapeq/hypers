@@ -2,6 +2,8 @@
 window.HYPERS_URLS = {
  "2026-11-09": {
   "luz": [
+   "artykuly/2026-11-09/tamae-zmierzyl-sie-z-finalem-mlodziezowego-slowa-roku-2026-w-stawce.html",
+   "artykuly/2026-11-09/jetlagz-wydali-ostatni-gasi-swiatlo-z-klipem-z-motion-capture.html",
    "artykuly/2026-11-09/jacob-dostal-wlasna-emotke-i-graffiti-w-fortnite-premiera-w-nocy.html",
    "artykuly/2026-11-09/marcin-miller-z-acapulco-w-finale-twoja-twarz-brzmi-znajomo-a-dzien.html",
    "artykuly/2026-11-09/amar-wydal-ep-angelo-promuje-ja-klipem-co-u-cb-bby.html",
@@ -9,6 +11,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-09/kai-cenat-przechodzi-po-kolei-wszystkie-czesci-gta-nagrania.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-09/na-pomniku-ii-wojny-swiatowej-w-waszyngtonie-ukryto-dwa-rysunki.html",
+   "artykuly/2026-11-09/jeden-z-pomyslow-na-kolonizacje-kosmosu-zaklada-wyslanie-zamrozonych.html",
+   "artykuly/2026-11-09/slynne-rozowe-jezioro-w-australii-od-lat-nie-jest-rozowe.html",
+   "artykuly/2026-11-09/dziki-delfin-fungie-przez-37-lat-mieszkal-w-jednej-irlandzkiej-zatoce.html",
+   "artykuly/2026-11-09/ponad-200-gatunkow-ptakow-naciera-sobie-piora-zywymi-mrowkami.html",
+   "artykuly/2026-11-09/angielska-wikipedia-ma-osobna-liste-znanych-ludzi-ktorzy-bez-zgody.html",
    "artykuly/2026-11-09/samica-pipy-amerykanskiej-nosi-jaja-wrosniete-w-skore-grzbietu.html",
    "artykuly/2026-11-09/na-antarktydzie-sa-doliny-w-ktorych-od-ponad-2-mln-lat-nie-spadl.html",
    "artykuly/2026-11-09/kocie-organy-to-wymyslony-instrument-w-ktorym-klawisze-mialy-sprawiac.html",

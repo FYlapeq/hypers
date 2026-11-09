@@ -4546,6 +4546,97 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-11-08",
+        "who": "Tamae",
+        "initials": "TA",
+        "category": "Internet",
+        "hype": 3,
+        "title": "Tamae zmierzył się z finałem Młodzieżowego Słowa Roku 2026. W stawce „kukiriniarz”, „slop” i „unc”",
+        "summary": "Tamae wrzucił shorta „Tamae vs Młodzieżowe Słowo Roku 2026”. Trwa właśnie głosowanie w plebiscycie PWN, w którym o tytuł walczy 12 słów, a wynik poznamy w grudniu.",
+        "body": [
+          "Tamae opublikował 8 listopada krótki film „Tamae vs Młodzieżowe Słowo Roku 2026”. W poniedziałek o 10:18 miał ok. 12,3 tys. wyświetleń i 265 polubień.",
+          "Widzowie w komentarzach zauważają, że część słów to powroty sprzed lat, bo moda językowa wraca co kilka dekad. Pojawiają się też głosy, że tytuł powinien dostać „slop”.",
+          "Plebiscyt organizuje Wydawnictwo Naukowe PWN. Finałową dwunastkę ogłoszono 3 listopada: aura (aura farming), bro, brokuł, kukiriniarz, larp (larpować), son, peak, płakał, slop, spływka, tuff i unc.",
+          "„Kukiriniarz” to fan hulajnóg elektrycznych, zwłaszcza marki KuKirin, „slop” to masowo produkowane przez AI treści niskiej jakości, a „unc” (od angielskiego „uncle”) to ktoś, kto nie nadąża za trendami. Głosować można na stronie PWN do 30 listopada, a zwycięzcę poznamy w grudniu na gali finałowej."
+        ],
+        "sources": [
+          {
+            "name": "Tamae / YouTube",
+            "url": "https://www.youtube.com/shorts/vDz4_Mi0YVE",
+            "origin": true
+          },
+          {
+            "name": "Antyweb",
+            "url": "https://antyweb.pl/brokul-kukiriniarz-i-slop-znamy-finalistow-mlodziezowego-slowa-roku-2026"
+          },
+          {
+            "name": "Super Express",
+            "url": "https://www.se.pl/warszawa/mlodziezowe-slowo-roku-2026-znamy-finalowa-12-plebiscytu-aa-uAVf-9HEP-1B5F.html"
+          },
+          {
+            "name": "TVP Info",
+            "url": "https://www.tvp.info/96276811/mlodziezowe-slowo-roku-2026-finalowe-slowa-w-plebiscycie"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/vDz4_Mi0YVE",
+        "caption": {
+          "credit": "Tamae / YouTube",
+          "text": "Short Tamae o tegorocznym finale plebiscytu PWN. To z niego wzięliśmy temat: twórca bierze na warsztat słowa, na które do końca listopada głosują internauci."
+        },
+        "ig": [
+          "tamae_0"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vDz4_Mi0YVE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vDz4_Mi0YVE/hqdefault.jpg",
+          "credit": "Tamae / YouTube",
+          "href": "https://www.youtube.com/shorts/vDz4_Mi0YVE",
+          "alt": "Miniatura shorta Tamae o Młodzieżowym Słowie Roku 2026",
+          "caption": "Miniatura shorta „Tamae vs Młodzieżowe Słowo Roku 2026”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-09",
+        "who": "Jetlagz",
+        "initials": "JL",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Jetlagz wydali „Ostatni gasi światło” z klipem z motion capture i ruszyli z przedsprzedażą albumu",
+        "summary": "Łajzol i Kosi opublikowali nowy numer „Ostatni gasi światło”. W opisie klipu zapraszają do zamawiania nowego albumu Jetlagz.",
+        "body": [
+          "Duet Jetlagz wrzucił 9 listopada na YouTube utwór „Ostatni gasi światło”. Rapują Łajzol i Kosi, a bit przygotował Szczur JWP.",
+          "Teledysk jest animowany: w opisie wymieniono studio motion design Abra Network, reżysera Bartka Kalinowskiego i sesję motion capture w Bones Studio, w której ruchy nagrali sami Kosi i Łajzol.",
+          "Za realizację, miks i mastering odpowiada Filip Flawless z Czarna Wiśnia Studio. Pierwszy link w opisie prowadzi do zamówień nowego albumu na stronie zespołu.",
+          "Klip wyszedł kilkadziesiąt minut przed odczytem statystyk (14:24) i miał wtedy 287 wyświetleń i 52 polubienia. Pierwsi widzowie chwalą refren Łajzola."
+        ],
+        "sources": [
+          {
+            "name": "Jetlagz / YouTube",
+            "url": "https://www.youtube.com/watch?v=p0Vh1khyIWc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=p0Vh1khyIWc",
+        "caption": {
+          "credit": "Jetlagz / YouTube",
+          "text": "Oficjalny klip „Ostatni gasi światło”. Animację zbudowano na nagraniach motion capture z udziałem obu raperów, o czym mówi opis filmu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/p0Vh1khyIWc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/p0Vh1khyIWc/hqdefault.jpg",
+          "credit": "Jetlagz / YouTube",
+          "href": "https://www.youtube.com/watch?v=p0Vh1khyIWc",
+          "alt": "Miniatura klipu Jetlagz „Ostatni gasi światło”",
+          "caption": "Miniatura teledysku „Ostatni gasi światło”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-08",
         "who": "Jacob",
         "initials": "JA",
         "category": "Gaming",
@@ -4746,6 +4837,228 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Kilroy",
+        "initials": "KI",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Na pomniku II wojny światowej w Waszyngtonie ukryto dwa rysunki „Kilroy was here”, wojennego memu",
+        "summary": "Rysunek łysego ludzika zaglądającego zza muru żołnierze USA zostawiali wszędzie, gdzie dotarli. Twórcy pomnika schowali dwa takie graffiti w jego zakamarkach.",
+        "body": [
+          "„Kilroy was here” to prosty rysunek mężczyzny wyglądającego zza muru, z długim nosem przewieszonym przez krawędź. W czasie II wojny światowej amerykańscy żołnierze rysowali go najpierw w Europie, a potem na Pacyfiku, aż można go było znaleźć praktycznie wszędzie. W wojsku brytyjskim podobny ludzik nazywał się Mr Chad.",
+          "Według amerykańskiej służby parków narodowych w Narodowym Pomniku II Wojny Światowej w Waszyngtonie ukryto dwa wyryte Kilroye, w narożnikach części atlantyckiej i pacyficznej. Pochodzenie rysunku jest niepewne, najczęściej łączy się go z brytyjską kreskówką i nazwiskiem inspektora z amerykańskiej stoczni."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Kilroy_was_here"
+          },
+          {
+            "name": "National Park Service",
+            "url": "https://www.nps.gov/places/https-www-nps-gov-wwii-kilroy-was-here.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kilroy_Was_Here_-_Washington_DC_WWII_Memorial.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Kilroy_Was_Here_-_Washington_DC_WWII_Memorial.jpg",
+          "credit": "Luis Rubio / Wikimedia Commons, CC BY 2.0",
+          "alt": "Wyryty w kamieniu rysunek „Kilroy was here” na pomniku w Waszyngtonie",
+          "caption": "Kilroy ukryty w Narodowym Pomniku II Wojny Światowej w Waszyngtonie."
+        },
+        "caption": {
+          "credit": "Luis Rubio / Wikimedia Commons",
+          "text": "Na zdjęciu jeden z dwóch Kilroyów wyrytych w waszyngtońskim pomniku. Widać charakterystyczny nos przewieszony przez mur, ten sam motyw, który żołnierze rysowali w czasie wojny."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Kosmos",
+        "initials": "KO",
+        "category": "Kosmos",
+        "hype": 3,
+        "title": "Jeden z pomysłów na kolonizację kosmosu zakłada wysłanie zamrożonych ludzkich zarodków z robotami",
+        "summary": "Zamiast lotu z ludźmi na pokładzie robotyczna misja zabrałaby na odległą planetę zamrożone zarodki albo technologię do ich stworzenia.",
+        "body": [
+          "Kolonizacja kosmosu za pomocą zarodków to teoretyczna koncepcja: robotyczna misja leci do nadającej się do życia egzoplanety i zabiera zamrożone ludzkie zarodki we wczesnym stadium albo środki techniczne i biologiczne do ich wytworzenia. Na miejscu wychowaniem mieliby się zająć roboty.",
+          "Pomysł ma omijać koszty i skalę klasycznych projektów kolonizacji, które wymagają przewiezienia żywych ludzi przez wiele lat podróży."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Embryo_space_colonization"
+          },
+          {
+            "name": "Strange Horizons, Paul Lucas (archiwum)",
+            "url": "https://web.archive.org/web/20061114040746/http://www.strangehorizons.com/2004/20040621/travel.shtml"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Embryo%2C_8_cells.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Embryo,_8_cells.jpg",
+          "credit": "ekem, Courtesy: RWJMS IVF Program / Wikimedia Commons, Public domain",
+          "alt": "Ludzki zarodek w stadium ośmiu komórek pod mikroskopem",
+          "caption": "Ludzki zarodek w stadium ośmiu komórek."
+        },
+        "caption": {
+          "credit": "ekem / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje ludzki zarodek w stadium ośmiu komórek, czyli to, co według koncepcji miałoby lecieć zamrożone w statku zamiast dorosłych kolonistów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Słynne Różowe Jezioro w Australii od lat nie jest różowe",
+        "summary": "Pink Lake koło Esperance zawdzięczało kolor glonom, które potrzebują bardzo słonej wody. Gdy warunki się zmieniły, różowa barwa zniknęła.",
+        "body": [
+          "Pink Lake to słone jezioro ok. 3 km na zachód od Esperance w Australii Zachodniej. Kiedyś jego woda była wyraźnie różowa, ale w 2017 r. nie miała tego koloru już od ponad 10 lat.",
+          "Barwę dawały zielone glony wytwarzające beta-karoten, a do tego potrzebują bardzo wysokiego zasolenia. Eksperci wskazują, że dopływ wody do systemu słonych jezior odcięły wcześniej droga i linia kolejowa, a swoje zrobiło też dawne wydobycie soli. Jezioro może znów zróżowieć, jeśli warunki się zmienią."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pink_Lake_(Western_Australia)"
+          },
+          {
+            "name": "American Name Society",
+            "url": "https://www.americannamesociety.org/the-pink-lake-isnt-pink/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pink_Lake_Sunset.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Pink_Lake_Sunset.jpg",
+          "credit": "Halok / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Pink Lake koło Esperance o zachodzie słońca",
+          "caption": "Pink Lake w Australii Zachodniej o zachodzie słońca."
+        },
+        "caption": {
+          "credit": "Halok / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje Pink Lake, o którym jest ciekawostka. Jezioro wciąż nosi nazwę od koloru, którego od dawna nie ma na co dzień."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Irlandia",
+        "initials": "IE",
+        "category": "Zwierzęta",
+        "hype": 3,
+        "title": "Dziki delfin Fungie przez 37 lat mieszkał w jednej irlandzkiej zatoce i szukał towarzystwa ludzi",
+        "summary": "Samiec butlonosa pojawił się w zatoce Dingle w 1983 r. i został w niej na blisko cztery dekady, stając się atrakcją miasteczka.",
+        "body": [
+          "Fungie był samcem delfina butlonosego, który odłączył się od innych dzikich delfinów i zamieszkał w zatoce przy miasteczku Dingle na południowo-zachodnim wybrzeżu Irlandii. Pierwszy raz widziano go tam w 1983 r., a przez kolejne 37 lat sam szukał kontaktu z ludźmi.",
+          "Nazywano go najstarszym samotnym dzikim delfinem na świecie. W październiku 2020 r. zniknął, choć wcześniej nigdy nie oddalał się na dłużej niż kilka godzin."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Fungie"
+          },
+          {
+            "name": "The Irish Post",
+            "url": "https://www.irishpost.com/news/search-for-fungie-makes-headlines-across-the-globe-195891"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Fungie_%281483877277%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Fungie_(1483877277).jpg",
+          "credit": "Duloup / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Delfin Fungie wynurzający się z wody w zatoce Dingle",
+          "caption": "Delfin Fungie w zatoce Dingle."
+        },
+        "caption": {
+          "credit": "Duloup / Wikimedia Commons",
+          "text": "Na zdjęciu sam Fungie w wodach zatoki Dingle, gdzie spędził 37 lat i gdzie turyści wypływali łodziami, żeby go zobaczyć."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Ptaki",
+        "initials": "PT",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Ponad 200 gatunków ptaków naciera sobie pióra żywymi mrówkami",
+        "summary": "To zachowanie nazywa się mrówkowaniem. Naukowcy wciąż nie są zgodni, po co ptaki to robią.",
+        "body": [
+          "Mrówkowanie (anting) polega na tym, że ptak pociera pióra i skórę owadami, zwykle mrówkami. Czasem trzyma jedną mrówkę w dziobie, a czasem kładzie się w mrowisku i tarza jak w kąpieli piaskowej. Zaobserwowano to u ponad 200 gatunków.",
+          "Jedna z hipotez mówi, że kwas mrówkowy wydzielany przez mrówki chroni ptaki przed pasożytami i bakteriami. Inne wyjaśnienia to łagodzenie podrażnień przy pierzeniu albo przygotowanie mrówek do zjedzenia przez pozbycie się kwasu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Anting_(behavior)"
+          },
+          {
+            "name": "Atlas Obscura",
+            "url": "https://atlasobscura.com/articles/mystery-bird-anting"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Black_Drongo_I2_IMG_5683.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Black_Drongo_I2_IMG_5683.jpg",
+          "credit": "J.M.Garg / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Drongo czarny na ziemi z rozpostartymi piórami",
+          "caption": "Drongo czarny, zdjęcie ilustrujące hasło o mrówkowaniu w Wikipedii."
+        },
+        "caption": {
+          "credit": "J.M.Garg / Wikimedia Commons",
+          "text": "To zdjęcie ilustruje w Wikipedii hasło o mrówkowaniu. Drongo czarny to jeden z ptaków, u których opisywano to zachowanie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-09",
+        "who": "Wikipedia",
+        "initials": "WI",
+        "category": "Internet",
+        "hype": 3,
+        "title": "Angielska Wikipedia ma osobną listę znanych ludzi, którzy bez zgody dostali tortem w twarz",
+        "summary": "Lista obejmuje tylko przypadki bez zgody ofiary. Najczęściej tort leciał w twarz jako forma protestu.",
+        "body": [
+          "Na angielskiej Wikipedii istnieje hasło „List of people who have been pied”, czyli lista znanych osób trafionych tortem. Autorzy wprost wykluczają z niej zabawy, na które ofiara się zgodziła.",
+          "Najczęściej taki rzut był formą protestu, zwykle z powodu poglądów politycznych. Jeden z opisanych przypadków dotyczy lidera szwedzkiej partii, którego w 2013 r. zaatakowano ciastem."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/List_of_people_who_have_been_pied"
+          },
+          {
+            "name": "The Local Sweden",
+            "url": "http://www.thelocal.se/20131106/sweden-democrat-leader-ambushed-in-cake-attack"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/09-September_qwest_pie_throwing_0111_%283957684658%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:09-September_qwest_pie_throwing_0111_(3957684658).jpg",
+          "credit": "Seth Lemmons / Wikimedia Commons, CC BY 2.0",
+          "alt": "Osoba trafiona tortem w twarz podczas imprezy",
+          "caption": "Rzut tortem w twarz, zdjęcie z Boise w USA."
+        },
+        "caption": {
+          "credit": "Seth Lemmons / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje, jak wygląda „pieing”, czyli tort prosto w twarz. To ten sam gest, który na liście Wikipedii spotyka znane osoby bez ich zgody."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-09",

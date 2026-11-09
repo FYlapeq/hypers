@@ -2,6 +2,7 @@
   "_info": "Sprawdzone konta IG twórców: nazwa z pola who → konto bez @ (albo lista kont). Automat IG oznacza je, gdy news nie ma pola ig. Dopisuj tylko konta potwierdzone (link z kanału YT, strony twórcy albo niebieski znaczek), nigdy z domysłu.",
   "konta": {
     "Amar": "amar_8yg",
-    "Kai Cenat": "kaicenat"
+    "Kai Cenat": "kaicenat",
+    "Tamae": "tamae_0"
   }
 }
