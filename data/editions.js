@@ -121,6 +121,302 @@ window.HYPERS_EDITIONS = {
       {
         "region": "world",
         "published": "2026-11-10",
+        "who": "Wyspy Diomedesa",
+        "initials": "WY",
+        "category": "Geografia",
+        "hype": 4,
+        "title": "Dwie wyspy dzielą 4 km, a różnica czasu między nimi to prawie cała doba",
+        "summary": "Wielka Diomedes należy do Rosji, Mała Diomedes do USA. Leżą w Cieśninie Beringa po dwóch stronach linii zmiany daty.",
+        "body": [
+          "Wyspy Diomedesa to dwie skaliste wyspy na środku Cieśniny Beringa, między Alaską a Syberią. Większa jest rosyjska (Czukotka), mniejsza amerykańska (Alaska).",
+          "Między nimi przebiega granica państw i linia zmiany daty, dlatego mimo ok. 4 km odległości na zegarkach dzieli je około 21 godzin. NASA opisuje je jako „wyspy wczoraj i jutro”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Diomede_Islands"
+          },
+          {
+            "name": "NASA Earth Observatory",
+            "url": "https://earthobservatory.nasa.gov/images/91638/yesterday-and-tomorrow-islands"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BeringSt-close-VE.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:BeringSt-close-VE.jpg",
+          "credit": "NASA / Wikimedia Commons, Public domain",
+          "alt": "Zdjęcie satelitarne Cieśniny Beringa z dwiema wyspami Diomedesa pośrodku",
+          "caption": "Zdjęcie NASA z orbity: dwie wyspy Diomedesa na środku Cieśniny Beringa, między Alaską a Syberią."
+        },
+        "caption": {
+          "credit": "NASA / Wikimedia Commons",
+          "text": "Zdjęcie NASA z orbity: dwie wyspy Diomedesa na środku Cieśniny Beringa, między Alaską a Syberią."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Dymaxion",
+        "initials": "DY",
+        "category": "Motoryzacja",
+        "hype": 3,
+        "title": "W 1933 r. zbudowano trzykołowe auto na 11 osób, które miało jechać nawet 190 km/h",
+        "summary": "Samochód Dymaxion zaprojektował wynalazca Buckminster Fuller. Powstały tylko trzy prototypy.",
+        "body": [
+          "Dymaxion zaprojektował amerykański wynalazca Buckminster Fuller w czasie Wielkiego Kryzysu. Auto miało trzy koła, ok. 6,1 m długości i mieściło do 11 pasażerów; według opisów mogło rozpędzać się do ok. 190 km/h.",
+          "Pojazd pokazano na wystawie światowej w Chicago w latach 1933–1934. Fuller zbudował trzy prototypy razem z konstruktorem jachtów Starlingiem Burgessem."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Dymaxion_car"
+          },
+          {
+            "name": "Slate",
+            "url": "https://slate.com/technology/2022/08/the-dymaxion-car-the-true-history-of-buckminster-fullers-failed-automobile.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Dynamixion_car_by_Buckminster_Fuller_1933_(side_views).jpg",
+          "credit": "Starysatyr / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Rysunek boczny opływowego, trzykołowego samochodu Dymaxion",
+          "caption": "Widok z boku samochodu Dymaxion z 1933 r.: kroplowy kształt i trzy koła."
+        },
+        "caption": {
+          "credit": "Starysatyr / Wikimedia Commons",
+          "text": "Widok z boku samochodu Dymaxion z 1933 r.: kroplowy kształt i trzy koła."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Szwajcaria",
+        "initials": "SZ",
+        "category": "Gospodarka",
+        "hype": 4,
+        "title": "Szwajcaria nie ma dostępu do morza, a ma flotę handlową pływającą po oceanach",
+        "summary": "To największa flota handlowa spośród państw bez dostępu do morza. Statki pod szwajcarską banderą pływają po całym świecie.",
+        "body": [
+          "Szwajcarska marynarka handlowa jest największą wśród krajów śródlądowych. Kraj ma długą tradycję żeglugi cywilnej na jeziorach i rzekach, ale także na otwartym morzu.",
+          "W 2016 r. szwajcarska flota pełnomorska obchodziła 75-lecie, o czym pisał serwis swissinfo.ch."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Merchant_Marine_of_Switzerland"
+          },
+          {
+            "name": "swissinfo.ch",
+            "url": "http://www.swissinfo.ch/eng/storms-on-the-high-seas_swiss-merchant-navy-celebrates-75th-anniversary/42192838"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Villars_DM-SD-98-03391.JPEG",
+          "href": "https://commons.wikimedia.org/wiki/File:Villars_DM-SD-98-03391.JPEG",
+          "credit": "LCPL. E. J. YOUNG / Wikimedia Commons, Public domain",
+          "alt": "Statek handlowy Villars na morzu",
+          "caption": "Statek Villars, jeden z frachtowców związanych ze szwajcarską flotą handlową."
+        },
+        "caption": {
+          "credit": "LCPL. E. J. YOUNG / Wikimedia Commons",
+          "text": "Statek Villars, jeden z frachtowców związanych ze szwajcarską flotą handlową."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Pawian Jack",
+        "initials": "PA",
+        "category": "Zwierzęta",
+        "hype": 5,
+        "title": "W XIX wieku pawian Jack pomagał obsługiwać sygnały na kolei w RPA",
+        "summary": "Jack był pawianem niedźwiedzim, który pomagał niepełnosprawnemu dróżnikowi Jamesowi Wide. Zmarł w 1890 r.",
+        "body": [
+          "James Wide pracował jako sygnalista na kolei w Kolonii Przylądkowej (dzisiejsza RPA). Po wypadku, w którym stracił nogi, w codziennej pracy pomagał mu pawian Jack.",
+          "Historia małpy, która przestawiała sygnały kolejowe, była opisywana jako jedna z najdziwniejszych w dziejach kolei. Jack zmarł w 1890 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Jack_(baboon)"
+          },
+          {
+            "name": "Knoxville Daily Sun (archiwum)",
+            "url": "https://web.archive.org/web/20200119153126/http://www.knoxvilledailysun.com/news/2012/august/jack-the-signalman.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jack.signalman.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Jack.signalman.jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Archiwalne zdjęcie pawiana Jacka przy dźwigniach nastawni kolejowej",
+          "caption": "Archiwalne zdjęcie: pawian Jack przy dźwigniach sygnałowych kolei."
+        },
+        "caption": {
+          "credit": "Autor nieznany / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie: pawian Jack przy dźwigniach sygnałowych kolei."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Malezja",
+        "initials": "MA",
+        "category": "Religia",
+        "hype": 4,
+        "title": "W Malezji jest świątynia, w której mieszkają żywe węże, a obok działa ich hodowla",
+        "summary": "Świątynia Węży w Penang uważa węże za odrodzonych uczniów mnicha Qingshui. Ma też własną strefę hodowli.",
+        "body": [
+          "Świątynia Węży (Świątynia Lazurowych Obłoków) stoi w Bayan Lepas na wyspie Penang w Malezji. Jest poświęcona buddyjskiemu mnichowi Qingshui, a mieszkające w niej węże mają być jego odrodzonymi uczniami.",
+          "W urodziny mnicha przyjeżdżają tu wierni nawet z Singapuru, Tajwanu i Chin. Przy świątyni działa też strefa hodowli węży."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Snake_Temple"
+          },
+          {
+            "name": "The Star",
+            "url": "https://www.thestar.com.my/news/nation/2005/07/09/new-lure-at-snake-temple-in-penang/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Snake_Temple%2C_Penang.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Snake_Temple,_Penang.jpg",
+          "credit": "Khalzuri Yazid from Petaling Jaya, Malaysia / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Fasada Świątyni Węży w Penang z czerwonymi zdobieniami",
+          "caption": "Świątynia Węży w Penang, w której żywe węże mieszkają przy ołtarzach."
+        },
+        "caption": {
+          "credit": "Khalzuri Yazid from Petaling Jaya, Malaysia / Wikimedia Commons",
+          "text": "Świątynia Węży w Penang, w której żywe węże mieszkają przy ołtarzach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Robert Shields",
+        "initials": "RO",
+        "category": "Rekordy",
+        "hype": 5,
+        "title": "Amerykanin przez 25 lat zapisywał w dzienniku każde 5 minut swojego życia: 37,5 mln słów",
+        "summary": "Robert Shields prowadził dziennik od 1972 do 1997 r. Zajął 91 pudeł i jest 30 razy dłuższy niż słynny dziennik Samuela Pepysa.",
+        "body": [
+          "Robert Shields był pastorem i nauczycielem angielskiego. Od 1972 r. opisywał w dzienniku każde pięć minut swojego życia, aż w 1997 r. przestał po udarze.",
+          "Dziennik liczy ok. 37,5 mln słów i wypełnił 91 pudeł. To więcej niż dzienniki Edwarda Robba Ellisa (21 mln słów) i 30 razy więcej niż Samuela Pepysa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Robert_Shields_(diarist)"
+          },
+          {
+            "name": "Sound Portraits (archiwum)",
+            "url": "https://web.archive.org/web/20160303230810/http://www.soundportraits.org/on-air/worlds_longest_diary/transcript.php"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Robert_Shields_1942_yearbook_photo.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Robert_Shields_1942_yearbook_photo.png",
+          "credit": "Franklin College / Wikimedia Commons, Public domain",
+          "alt": "Czarno-białe zdjęcie młodego Roberta Shieldsa z księgi pamiątkowej",
+          "caption": "Robert Shields na zdjęciu z księgi pamiątkowej Franklin College z 1942 r."
+        },
+        "caption": {
+          "credit": "Franklin College / Wikimedia Commons",
+          "text": "Robert Shields na zdjęciu z księgi pamiątkowej Franklin College z 1942 r."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Bałkany",
+        "initials": "BA",
+        "category": "Folklor",
+        "hype": 4,
+        "title": "W bałkańskiej legendzie arbuzy i dynie mogą stać się wampirami",
+        "summary": "Według ludowych wierzeń z Kosowa owoc zostawiony zbyt długo „przemienia się”, a znakiem są krwawe plamy.",
+        "body": [
+          "Wierzenie opisał etnolog Tatomir Vukanović. Wampirzy owoc wygląda jak zwykły arbuz czy dynia, ale ślad „krwi” na nim ma świadczyć o przemianie.",
+          "Motyw wampirzych arbuzów trafił do popkultury: nawiązuje do niego m.in. powieść Terry’ego Pratchetta „Carpe Jugulum”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Vampire_pumpkins_and_watermelons"
+          },
+          {
+            "name": "The Annotated Pratchett File (archiwum)",
+            "url": "https://web.archive.org/web/20041009214208/http://www.ie.lspace.org/books/apf/carpe-jugulum.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Vampire_watermelon_closeup.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Vampire_watermelon_closeup.jpg",
+          "credit": "Ke4roh / Wikimedia Commons, Public domain",
+          "alt": "Zbliżenie przekrojonego arbuza z czerwonym miąższem",
+          "caption": "Przekrojony arbuz: czerwony miąższ, który w legendzie bywał brany za ślad krwi."
+        },
+        "caption": {
+          "credit": "Ke4roh / Wikimedia Commons",
+          "text": "Przekrojony arbuz: czerwony miąższ, który w legendzie bywał brany za ślad krwi."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Papież Michał",
+        "initials": "PA",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1990 r. Amerykanin ogłosił się papieżem. Wybrało go 6 osób, w tym on sam i jego rodzice",
+        "summary": "David Bawden przyjął imię Michał i do śmierci w 2022 r. uważał się za papieża. W chwili „wyboru” nie był nawet księdzem.",
+        "body": [
+          "David Bawden uważał, że po Soborze Watykańskim II Kościół nie miał prawowitych papieży. W 1990 r. grupa sześciu świeckich, w tym on i jego rodzice, „wybrała” go na papieża.",
+          "Święcenia kapłańskie i biskupie otrzymał dopiero w 2011 r. od niezależnego biskupa. Zmarł w 2022 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/David_Bawden"
+          },
+          {
+            "name": "Lawrence Journal-World",
+            "url": "https://www2.ljworld.com/news/2009/oct/17/gospel-pope-michael-kansan-stakes-own-claim-cathol/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Portrait_of_Pope_Michael_in_Home_Chapel_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Michael_in_Home_Chapel_(cropped).jpg",
+          "credit": "PhilipDeslippe / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "David Bawden w białej papieskiej szacie w domowej kaplicy",
+          "caption": "David Bawden jako „papież Michał” w swojej domowej kaplicy."
+        },
+        "caption": {
+          "credit": "PhilipDeslippe / Wikimedia Commons",
+          "text": "David Bawden jako „papież Michał” w swojej domowej kaplicy."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
         "who": "Titanic",
         "initials": "TI",
         "category": "Historia",

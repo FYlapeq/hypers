@@ -7,6 +7,14 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-10/moreletv-jaki-pc-da-sie-zlozyc-za-2000-zl-w-listopadzie-2026.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-10/dwie-wyspy-dziela-4-km-a-roznica-czasu-miedzy-nimi-to-prawie-cala-doba.html",
+   "artykuly/2026-11-10/w-1933-r-zbudowano-trzykolowe-auto-na-11-osob-ktore-mialo-jechac.html",
+   "artykuly/2026-11-10/szwajcaria-nie-ma-dostepu-do-morza-a-ma-flote-handlowa-plywajaca.html",
+   "artykuly/2026-11-10/w-xix-wieku-pawian-jack-pomagal-obslugiwac-sygnaly-na-kolei-w-rpa.html",
+   "artykuly/2026-11-10/w-malezji-jest-swiatynia-w-ktorej-mieszkaja-zywe-weze-a-obok-dziala.html",
+   "artykuly/2026-11-10/amerykanin-przez-25-lat-zapisywal-w-dzienniku-kazde-5-minut-swojego.html",
+   "artykuly/2026-11-10/w-balkanskiej-legendzie-arbuzy-i-dynie-moga-stac-sie-wampirami.html",
+   "artykuly/2026-11-10/w-1990-r-amerykanin-oglosil-sie-papiezem-wybralo-go-6-osob-w-tym.html",
    "artykuly/2026-11-10/14-lat-przed-titanikiem-wyszla-powiesc-o-liniowcu-titan-ktory-tonie.html",
    "artykuly/2026-11-10/w-katarze-i-zea-wielblady-w-wyscigach-dosiadaja-roboty-zamiast-ludzi.html",
    "artykuly/2026-11-10/istnieja-mistrzostwa-swiata-w-excelu-transmitowane-jak-e-sport.html",
