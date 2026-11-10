@@ -1,0 +1,2045 @@
+{
+ "run": {
+  "date": "2026-11-10",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-10T13:23:31.187Z",
+  "candidates": 97,
+  "with_free_image": 35,
+  "ready": 23
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Szablon:Czy wiesz": "ok 3",
+  "wiki-en:Wikipedia:Recent additions": "ok 99",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4249",
+  "drugie-zrodlo": "ok 23/34"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która antologia inspirowana była alternatywną, fantastyczną wizją Europy Środkowej z początku XX wieku?",
+   "article": {
+    "title": "Inne światy (antologia)",
+    "url": "https://pl.wikipedia.org/wiki/Inne_%C5%9Bwiaty_(antologia)",
+    "extract": "Inne światy – antologia dziesięciu polskich opowiadań fantastycznych wydana w 2018 roku przez SQN. Utwory zostały zainspirowane pracami Jakuba Różalskiego.\nW 2023 roku nakładem SQN ukazała się kolejna antologia inspirowana pracami Różalskiego, Inne nieba.\nRecenzenci zwracali uwagę na nierówny poziom antologii oraz niepełne wykorzystanie jej koncepcji opartej na twórczości Różalskiego. Wśród najwyżej ocenianych utworów recenzenci często wymieniali Sforę Orbitowskiego i Imperium chmur Dukaja, natomiast szczególnie krytycznie przyjmowany był Korytarz pełnomorski Mroza."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który zesłaniec syberyjski po II wojnie światowej związał się z kinematografią argentyńską?",
+   "article": {
+    "title": "Tadeusz Bortnowski",
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Bortnowski",
+    "extract": "Tadeusz Bortnowski, znany również jako Tadeo Bortnowski (ur. 25 maja 1924 w Pińsku, zm. 21 listopada 2015) – polski operator filmowy, dokumentalista i korespondent wojenny, zesłaniec syberyjski, po II wojnie światowej związany z kinematografią argentyńską.\nWalczył przeciwko okupacji sowieckiej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że wieża artyleryjska Zamku Dartmouth była w chwili ukończenia uważana za najbardziej zaawansowaną budowlę obronną w Anglii?",
+   "article": {
+    "title": "Zamek Dartmouth",
+    "url": "https://pl.wikipedia.org/wiki/Zamek_Dartmouth",
+    "extract": "Zamek Dartmouth (ang. Dartmouth Castle) – twierdza artyleryjska położona na zachodnim brzegu ujścia rzeki Dart w pobliżu miasta Dartmouth w hrabstwie Devon w południowo-zachodniej Anglii. Powstawał w kilku etapach na przestrzeni ponad pięciu stuleci: od obronnego fortalice wzniesionego w 1388 roku, przez wieżę artyleryjską z lat ok. 1481–1493, aż po baterie nadbrzeżne z okresu wiktoriańskiego i II wojny światowej."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dartmouth_Castle_-_geograph.org.uk_-_725989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dartmouth_Castle_-_geograph.org.uk_-_725989.jpg",
+    "file": "File:Dartmouth Castle - geograph.org.uk - 725989.jpg",
+    "artist": "Joanne Davies",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 493,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.english-heritage.org.uk/visit/places/dartmouth-castle/history/"
+   }
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że tegoroczny festiwal w Gdyni wygrał film o wystukiwaniu uczuć alfabetem Morse’a?",
+   "article": {
+    "title": "Przez ścianę",
+    "url": "https://pl.wikipedia.org/wiki/Przez_%C5%9Bcian%C4%99",
+    "extract": "Przez ścianę – polski melodramat filmowy z 2026 roku w reżyserii i według scenariusza Macieja Sobieszczańskiego, oparty na autentycznej historii miłości Wiesławy Pajdak i Jerzego Śmiechowskiego, która zrodziła się w warszawskim więzieniu przy ulicy Rakowieckiej na przełomie lat 40. i 50. XX wieku. W rolach głównych wystąpili Maria Dębska i Jakub Gierszał."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto zaprojektował rozbudowę Hotelu Diament Plaza w Katowicach?",
+   "article": {
+    "title": "Hotel Diament Plaza w Katowicach",
+    "url": "https://pl.wikipedia.org/wiki/Hotel_Diament_Plaza_w_Katowicach",
+    "extract": "Hotel Diament Plaza w Katowicach (właśc. Hotel Diament Plaza Katowice) – czterogwiazdkowy hotel w Katowicach, położony przy ulicy Dworcowej 9 i 11, na terenie dzielnicy Śródmieście, naprzeciwko kompleksu starego dworca kolejowego.\nPowstał w latach 60. XIX wieku jako hotel „Barisch”, a w kolejnych latach był wielokrotnie przebudowany."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Katowice Hotel Diament Plaza front 2026.jpg)"
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego w lipcu 1910 roku Ignacy Jan Paderewski zastąpił Adama Asnyka jako patrona krakowskiej ulicy?",
+   "article": {
+    "title": "Ulica Ignacego Paderewskiego w Krakowie",
+    "url": "https://pl.wikipedia.org/wiki/Ulica_Ignacego_Paderewskiego_w_Krakowie",
+    "extract": "Ulica Ignacego Paderewskiego – ulica w Krakowie, w Dzielnicy I Stare Miasto, na Kleparzu.\nŁączy Rynek Kleparski z Placem Jana Matejki. Jest jednojezdniowa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:UlicaIgnacegoPaderewskiego-WidokNaWschód-POL, Kraków.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego fani gry Undertale (obok logo) nękali niektórych youtuberów i streamerów grających w tę grę?",
+   "article": {
+    "title": "Undertale",
+    "url": "https://pl.wikipedia.org/wiki/Undertale",
+    "extract": "Undertale – komputerowa gra fabularna wyprodukowana przez niezależnego twórcę Toby’ego Foxa. Gracz kieruje dzieckiem, które trafia do Podziemi – rozległej krainy pod powierzchnią Ziemi, odizolowanej od świata magiczną barierą. W drodze na powierzchnię bohater napotyka potwory, z których część podejmuje z nim walkę. Podczas starć gracz unika ataków przeciwników, podobnie jak w grach typu bullet hell."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Helengrad: A nonexistent communist dystopia that supposedly gripped Wellington, New Zealand between 1999 and 2008.",
+   "article": {
+    "title": "Helengrad",
+    "url": "https://en.wikipedia.org/wiki/Helengrad",
+    "extract": "Helengrad is a satirical or pejorative term applied to New Zealand's capital city Wellington as the seat of Helen Clark's Fifth Labour Government. It was employed by the Labour Party's opponents and critics to underscore the perceived characteristics and political climate of Wellington during Clark's tenure, often extending to reflect the entirety of New Zealand at the time.\nIn January 2008, the neologism Helengrad, \"a noun used to describe the iron grip of New Zealand's prime minister over Wellington\", was reported as having entered Australia's Macquarie online dictionary, along with 85 other new words."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Society for the Prevention of Calling Sleeping Car Porters \"George\": Created, sadly, by non-porters called George who didn't want to be linked with the mostly-Black porter workforce.",
+   "article": {
+    "title": "Society for the Prevention of Calling Sleeping Car Porters \"George\"",
+    "url": "https://en.wikipedia.org/wiki/Society_for_the_Prevention_of_Calling_Sleeping_Car_Porters_%22George%22",
+    "extract": "The Society for the Prevention of Calling Sleeping Car Porters \"George\" (SPCSCPG) was founded as a joke by lumber baron George W. Dulany in 1914. Membership was open to all those whose first or last name was George. Its early members included Admiral George Dewey, who served as the group's first president, and writer George Ade. Dulany's secretary filled out and mailed more than 45,000 membership cards to people named \"George\" throughout the world, before Dulany retired from public life."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:PullmanPorter.jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Antikythera mechanism: An analog computer built in Ancient Greece.",
+   "article": {
+    "title": "Antikythera mechanism",
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "extract": "The Antikythera mechanism ( AN-tik-ih-THEER-ə, US also  AN-ty-kih-) is an ancient Greek hand-powered orrery (model of the Solar System) built in the 2nd century BC and discovered in 1901. It is the oldest known example of an analogue computer. It could be used to predict astronomical positions and eclipses decades in advance. It could also be used to track the four-year cycle of athletic games similar to an olympiad, the cycle of the ancient Olympic Games."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Antikythera Fragment A (Front).webp)"
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vin Mariani: A drink made from cocaine and consumed by Thomas Edison, Pope Leo XIII, Ulysses S. Grant and French prime minister Jules Méline.",
+   "article": {
+    "title": "Vin Mariani",
+    "url": "https://en.wikipedia.org/wiki/Vin_Mariani",
+    "extract": "Vin Mariani (French: Mariani wine) was a coca wine and patent medicine created in the 1860s by Angelo Mariani, a French chemist from the island of Corsica. Mariani became intrigued with coca and its medical and economic potential after reading Paolo Mantegazza's paper on the effects of coca. Between 1863 and 1868 Mariani started marketing a coca wine called Vin Tonique Mariani (à la Coca du Pérou) which was made from Bordeaux wine and coca leaves.\nThe ethanol in the wine acted as a solvent and extracted the cocaine from the coca leaves."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vin_mariani_publicite156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vin_mariani_publicite156.jpg",
+    "file": "File:Vin mariani publicite156.jpg",
+    "artist": "Jules Chéret",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 297,
+    "height": 425,
+    "ok": true
+   },
+   "second_source": {
+    "name": "euvs.org",
+    "url": "http://www.euvs.org/en/discover/man-behind-the-bottle/mariani",
+    "title": "Angelo Mariani – Man Behind The Bottle – Discover – Exposition Universelle des Vins et Spiritueux",
+    "matched": [
+     "mariani",
+     "drink",
+     "cocaine",
+     "thomas",
+     "edison",
+     "french",
+     "jules"
+    ]
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Great Tower Neuwerk: The oldest standing building \"in\" Hamburg is a lighthouse over 100 km away.",
+   "article": {
+    "title": "Great Tower Neuwerk",
+    "url": "https://en.wikipedia.org/wiki/Great_Tower_Neuwerk",
+    "extract": "The Great Tower Neuwerk is a historical building located on Neuwerk island, belonging to Hamburg. Completed in 1310, the structure is one of the oldest worldwide that was used as lighthouse (1814–2014) and still standing. This former beacon, watchtower and lighthouse is also the oldest building in Hamburg and oldest secular building on the German coast."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Leuchtturm Neuwerk 2018.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "David Bawden: Elected \"Pope Michael\" in 1990 (by six people, including his parents) as a conclavist opponent to the current Pope, while not even an ordained priest.",
+   "article": {
+    "title": "David Bawden",
+    "url": "https://en.wikipedia.org/wiki/David_Bawden",
+    "extract": "David Allen Bawden (September 22, 1959 – August 2, 2022), who took the name Pope Michael, was an American conclavist claimant to the papacy. Bawden believed that the Catholic Church had apostatized from the Catholic faith after the Second Vatican Council and that there had been no legitimate popes elected since the death of Pope Pius XII in 1958. In 1990, he was elected pope by a group of six laypeople, including himself and his parents. In 2011, he was ordained a priest and consecrated a bishop by an Independent Catholic bishop."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Portrait_of_Pope_Michael_in_Home_Chapel_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Michael_in_Home_Chapel_(cropped).jpg",
+    "file": "File:Portrait of Pope Michael in Home Chapel (cropped).jpg",
+    "artist": "PhilipDeslippe",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 827,
+    "height": 1068,
+    "ok": true
+   },
+   "second_source": {
+    "name": "www2.ljworld.com",
+    "url": "https://www2.ljworld.com/news/2009/oct/17/gospel-pope-michael-kansan-stakes-own-claim-cathol/",
+    "title": "The gospel of Pope Michael: Kansan stakes own claim to Catholic Church | News, Sports, Jobs - Lawrence Journal-World: news, information, hea",
+    "matched": [
+     "1990",
+     "david",
+     "bawden",
+     "elected",
+     "michael",
+     "ordained",
+     "priest"
+    ]
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tiberius Julius Abdes Pantera: Was Jesus' father buried in Germany?",
+   "article": {
+    "title": "Tiberius Julius Abdes Pantera",
+    "url": "https://en.wikipedia.org/wiki/Tiberius_Julius_Abdes_Pantera",
+    "extract": "Tiberius Julius Abdes Pantera (; c. 22 BC– AD 40) was a Roman-Phoenician soldier born in Sidon, whose tombstone was found by railworkers in Bingerbrück, Germany, in 1859."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Römerhalle, Bad Kreuznach - Tiberius Iulius Abdes Pantera tombstone.JPG)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Great Canadian Maple Syrup Heist: Thieves stole 3,000 tons of it! Is it really that valuable?",
+   "article": {
+    "title": "Great Canadian Maple Syrup Heist",
+    "url": "https://en.wikipedia.org/wiki/Great_Canadian_Maple_Syrup_Heist",
+    "extract": "The Great Canadian Maple Syrup Heist (French: vol de sirop d'érable du siècle, lit. 'maple syrup heist of the century') was the theft over several months in 2011 and 2012 of nearly 3,000 tonnes (3,000 long tons; 3,300 short tons) of maple syrup, valued at C$18.7 million (equivalent to C$25.2 million in 2025) from a storage facility in Quebec. The facility was operated by the Federation of Quebec Maple Syrup Producers (French: Fédération des producteurs acéricoles du Québec, FPAQ) which represents 77 percent of the global maple syrup supply.\nAdjusted for inflation, the heist was the most valuable in Canadian history until the 2023 Toronto Pearson International Airport gold heist."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Karni Mata Temple: A marble temple famous for 25,000 revered black rats that live in the temple who are considered the ancestors of Charans.",
+   "article": {
+    "title": "Karni Mata Temple",
+    "url": "https://en.wikipedia.org/wiki/Karni_Mata_Temple",
+    "extract": "Karni Mata Temple of Deshnoke (Hindi: करणी माता मंदिर), also known as Madh Deshnoke, is a prominent Hindu temple dedicated to Karni Mata at the town of Deshnoke, located 30 km south of Bikaner, in Rajasthan. It has become the most important pilgrimage site for devotees of Charani sagatis after access to Hinglaj was restricted following the partition of India. The temple is also a popular destination for tourists and pilgrims and is renowned, both in India and internationally, as the \"Temple of Rats\" due to the numerous rodents known as kābā which are considered holy and treated with utmost care by devotees. This is sometimes upheld as exemplary of an \"environmentally conscious Hindu ethos\"."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:20191212 Świątynia Karni Maty w Deśnok 1031 8078 DxO.jpg)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Armin Meiwes: Wanting to be eaten is one thing, but actually having it done to you is quite another.",
+   "article": {
+    "title": "Armin Meiwes",
+    "url": "https://en.wikipedia.org/wiki/Armin_Meiwes",
+    "extract": "Armin Meiwes (German: [ˈmaɪvəs]; born 1 December 1961) is a German former computer repair technician who received international attention for murdering and cannibalising Bernd Brandes, whom he had found via the Internet as a voluntary victim, in March 2001.\nAfter Meiwes and the victim jointly attempted to eat the victim's severed penis, Meiwes murdered his victim and proceeded to eat a large amount of his flesh. He was arrested in December 2002. In January 2004, Meiwes was convicted of manslaughter and sentenced to eight years and six months in prison."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Punk ferox: Even the molluscs are joining the punk movement!",
+   "article": {
+    "title": "Punk ferox",
+    "url": "https://en.wikipedia.org/wiki/Punk_ferox",
+    "extract": "Punk ferox is a species of aplacophoran mollusc known from the Homerian Coalbrookdale Formation of England. It is the only species within the genus Punk."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Punk_ferox_holotype.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Punk_ferox_holotype.webp",
+    "file": "File:Punk ferox holotype.webp",
+    "artist": "Mark D. Sutton, Julia D. Sigwart, Derek E. G. Briggs, Pierre Gueriau, Andrew King, David J. Siveter & Derek J. Siveter",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 685,
+    "height": 865,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11735398",
+    "title": "New Silurian aculiferan fossils reveal complex early history of Mollusca - PMC",
+    "matched": [
+     "ferox",
+     "molluscs",
+     "movement"
+    ]
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vampire pumpkins and watermelons: In Balkan legend, an explanation for the blood-red streaks across these fruits: that they'd been left out on a full moon night, and thus turned by vampires.",
+   "article": {
+    "title": "Vampire pumpkins and watermelons",
+    "url": "https://en.wikipedia.org/wiki/Vampire_pumpkins_and_watermelons",
+    "extract": "Vampire pumpkins and watermelons (and melons) are a part of Muslim Romani (Gypsie) vampire legend from the Kosovo-Metohija province, Serbia, described by ethnologist Tatomir Vukanović.\nThe transformation of a pumpkin or melon (of all kinds) occur when they fight each other. The vampirized pumpkin/melon retains the original appearance as vegetable, but if a trace of blood could be detected on it this is a sign it has turned vampire.\nAccording to the superstition among the Muslim Gypsies in the Podrima/Podrimlje and Prizrenski Podgor regions, it is claimed that a pumpkin kept in the field for ten days before gathering can turn vampire."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Vampire_watermelon_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vampire_watermelon_closeup.jpg",
+    "file": "File:Vampire watermelon closeup.jpg",
+    "artist": "The original uploader was Ke4roh at English Wikipedia.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 858,
+    "height": 971,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20041009214208/http://www.ie.lspace.org/books/apf/carpe-jugulum.html",
+    "title": "The Annotated Pratchett File v9.0 - Carpe Jugulum",
+    "matched": [
+     "vampire",
+     "watermelons",
+     "legend",
+     "blood",
+     "across",
+     "night",
+     "turned"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chrismukkah: A pop-culture Christmas-Hanukkah hybrid, popularized by the television show The O.C..",
+   "article": {
+    "title": "Chrismukkah",
+    "url": "https://en.wikipedia.org/wiki/Chrismukkah",
+    "extract": "Chrismukkah is a pop-culture portmanteau neologism referring to the merging of the holidays of Christianity's Christmas and Judaism's Hanukkah. It first arose in the German-speaking countries within middle-class Jews of the 19th century. After World War II, Chrismukkah became particularly popular in the United States, but is also celebrated in other countries.\nThe term was popularized beginning in December 2003 by the TV drama The O.C., wherein character Seth Cohen creates the holiday to signify his upbringing in an interfaith household with a Jewish father and Protestant mother."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hanukkah_bush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanukkah_bush.jpg",
+    "file": "File:Hanukkah bush.jpg",
+    "artist": "Jonah Green",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 768,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source": {
+    "name": "vice.com",
+    "url": "https://www.vice.com/en/article/how-the-oc-chrismukkah-real-life-holiday/",
+    "title": "How ‘The O.C.’s Chrismukkah Became a Real Life Holiday",
+    "matched": [
+     "chrismukkah",
+     "culture",
+     "christmas",
+     "hanukkah",
+     "hybrid",
+     "television"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bananadine: Exactly how psychedelic are those dried banana peels?",
+   "article": {
+    "title": "Bananadine",
+    "url": "https://en.wikipedia.org/wiki/Bananadine",
+    "extract": "Bananadine is a fictional psychoactive substance which is supposedly extracted from banana peels. A hoax recipe for its \"extraction\" from banana peel was originally published in the Berkeley Barb in March 1967. The Barb claimed that the recipe was excerpted from an upcoming San Francisco Oracle issue, likely to add credibility to the hoax."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Smoke-in_was_a_Success_%28Berkeley_Barb%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Smoke-in_was_a_Success_(Berkeley_Barb).png",
+    "file": "File:Smoke-in was a Success (Berkeley Barb).png",
+    "artist": "The Berkeley Barb",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1252,
+    "height": 1016,
+    "ok": true
+   },
+   "second_source": {
+    "name": "straightdope.com",
+    "url": "https://www.straightdope.com/21343525/will-smoking-banana-peels-get-you-high",
+    "title": "Will smoking banana peels get you high? - The Straight Dope",
+    "matched": [
+     "bananadine",
+     "dried",
+     "banana",
+     "peels"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pep (dog): A dog jokingly sentenced to a life sentence in prison to help improve prisoners' morale- though many publications took the sentence literally.",
+   "article": {
+    "title": "Pep (dog)",
+    "url": "https://en.wikipedia.org/wiki/Pep_(dog)",
+    "extract": "Pep (c. 1923 – 1930) was a black Labrador Retriever who was falsely accused of murdering a cat. On August 31, 1924, Pep was sent to the Eastern State Penitentiary where he received inmate number C-2559 and had his mugshot and paw prints taken. His log into the prison ledger indicates life sentence for murder, a tongue-in-cheek gesture that prompted widespread outrage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pep_%28inmate_C-2559%29_mugshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pep_(inmate_C-2559)_mugshot.jpg",
+    "file": "File:Pep (inmate C-2559) mugshot.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 990,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20230924211827/https://www.nytimes.com/1926/01/15/archives/the-penitentiary-dog.html"
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dymaxion car: A 1933 concept car with 3 wheels. It was 20 feet (6.1 m) long, carried up to 11 passengers, could go at speeds of up to 120 miles per hour (190 km/h), and had a steering wheel that turned the car in the opposite direction. One of Buckminster Fuller's Dymaxion concepts.",
+   "article": {
+    "title": "Dymaxion car",
+    "url": "https://en.wikipedia.org/wiki/Dymaxion_car",
+    "extract": "The Dymaxion car was designed by American inventor Buckminster Fuller during the Great Depression and featured prominently at Chicago's 1933/1934 World's Fair. Fuller built three experimental prototypes with naval architect Starling Burgess – using donated money as well as a family inheritance – to explore not an automobile per se, but the 'ground-taxiing phase' of a vehicle that might one day be designed to fly, land and drive – an \"Omni-Medium Transport\". Fuller associated the word Dymaxion with much of his work, a portmanteau of the words dynamic, maximum, and tension, to summarize his goal to do more with less. It could hold 11 passengers, reach speeds of up to 90 mph (140 km/h), and had a fuel economy of 30 mpg‑US (8 L/100 km; 36 mpg‑imp)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Dynamixion_car_by_Buckminster_Fuller_1933_%28side_views%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dynamixion_car_by_Buckminster_Fuller_1933_(side_views).jpg",
+    "file": "File:Dynamixion car by Buckminster Fuller 1933 (side views).jpg",
+    "artist": "Starysatyr",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 802,
+    "height": 401,
+    "ok": true
+   },
+   "second_source": {
+    "name": "slate.com",
+    "url": "https://slate.com/technology/2022/08/the-dymaxion-car-the-true-history-of-buckminster-fullers-failed-automobile.html",
+    "title": "The Dymaxion car: The true history of Buckminster Fuller’s failed automobile.",
+    "matched": [
+     "1933",
+     "20",
+     "120",
+     "dymaxion",
+     "concept",
+     "wheels",
+     "passengers",
+     "speeds",
+     "miles",
+     "steering",
+     "wheel",
+     "turned",
+     "direction"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Beast of Gévaudan: A mammal(s) that went on a killing spree in southern France in the 1700s, causing significant and expensive Royal intervention.",
+   "article": {
+    "title": "Beast of Gévaudan",
+    "url": "https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan",
+    "extract": "The Beast of Gévaudan (French: La Bête du Gévaudan, IPA: [la bɛt dy ʒevodɑ̃]; Occitan: La Bèstia de Gavaudan) is the historic name associated with a man-eating animal or animals that terrorized the former province of Gévaudan (consisting of the modern-day department of Lozère and part of Haute-Loire), in the Margeride Mountains of south-central France between 30 June 1764 and 19 June 1767.\nThe attacks, which covered an area spanning 90 by 80 kilometres (56 by 50 mi), were said to have been committed by one or more beasts of a tawny/russet colour with dark streaks/stripes and a dark stripe down its back, a tail \"longer than a wolf's\" ending in a tuft according to contemporary eyewitnesses. It was said to attack with formidable teeth and claws, and appeared to be the size of a calf or cow and seemed to fly or bound across fields towards its victims. These descriptions from the period could"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gevaudanwolf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gevaudanwolf.jpg",
+    "file": "File:Gevaudanwolf.jpg",
+    "artist": "\"AF\"",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 514,
+    "height": 419,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.smithsonianmag.com/history/beast-gevaudan-terrorized-france-countryside-180963820/"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eyes (cheese): There are eyes in the cheese, but no cheese in the eyes.",
+   "article": {
+    "title": "Eyes (cheese)",
+    "url": "https://en.wikipedia.org/wiki/Eyes_(cheese)",
+    "extract": "Eyes are the round holes that are a characteristic feature of some Swiss-type cheeses (e.g. Emmentaler cheese) and some Dutch-type cheeses. The eyes are formed by bubbles of carbon dioxide gas during the cheesemaking process. The gas is produced by various species of bacteria in the cheese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emmentaler_aoc_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg",
+    "file": "File:Emmentaler aoc block.jpg",
+    "artist": "Dieter Seeger",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 672,
+    "height": 896,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20160826155845/http://www.genoscope.cns.fr/spip/Propionibacterium-freudenreichii,467.html"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bull of Heaven (band): A group that is known for their extremely long albums. Most known for 210: Like a Wall in Which An Insect Lives and Gnaws at a runtime of 5.7 years; their longest album is 310: ΩΣPx0(2^18×5^18)p*k*k*k at 3.343 quindecillion years long.",
+   "article": {
+    "title": "Bull of Heaven (band)",
+    "url": "https://en.wikipedia.org/wiki/Bull_of_Heaven_(band)",
+    "extract": "Bull of Heaven is an American experimental music project formed in Denver, Colorado in 2008. The project originally consisted of Neil Keener and Clayton Counts with help from various contributors. Since Counts' death in 2016, Keener has been the only member.\nBull of Heaven is mainly known for their extremely and exaggeratedly long pieces of music, mainly produced by Counts, with several pieces in their discography ranging from milliseconds to many millions of years long."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Photograph_of_Bull_of_Heaven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Bull_of_Heaven.jpg",
+    "file": "File:Photograph of Bull of Heaven.jpg",
+    "artist": "Clayton Counts",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 423,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://bubblesofvenus.blogspot.com/2022/07/interview-with-neil-keener-of-bull-of.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Robot fetishism: \"Are you attracted to humanoid robots?\"",
+   "article": {
+    "title": "Robot fetishism",
+    "url": "https://en.wikipedia.org/wiki/Robot_fetishism",
+    "extract": "Robot fetishism (also ASFR, robosexuality, and robophilia) is a fetishistic attraction to humanoid robots; also to people acting like robots or people dressed in robot costumes. A less common fantasy involves transformation into a robot. In these ways, it is similar to agalmatophilia, which involves attraction to or transformation into statues or mannequins.\nRobot fetishism can be viewed as a form of erotic anthropomorphism."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Actroid-DER_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Actroid-DER_01.jpg",
+    "file": "File:Actroid-DER 01.jpg",
+    "artist": "Photo by Gnsin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1200,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20170903053021/http://www.fembotcentral.net/viewtopic.php?f=2&t=4722&sid=7fbd9288b5c9a9cf615ae2615060f37f",
+    "title": "Fembot Central &bull; View topic - Quasi-scientific poll",
+    "matched": [
+     "robot",
+     "fetishism",
+     "robots"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Diomede Islands: Two islands in the Bering Strait separated by 4 kilometres (2.5 mi) and 21 hours' time difference.",
+   "article": {
+    "title": "Diomede Islands",
+    "url": "https://en.wikipedia.org/wiki/Diomede_Islands",
+    "extract": "The Diomede Islands (; Russian: острова́ Диоми́да, romanized: ostrova Diomida), also known in Russia as Gvozdev Islands (Russian: острова́ Гво́здева, romanized: ostrova Gvozdeva), consist of two rocky, mesa-like islands. One is the Russian island of Big Diomede (part of Chukotka). The other is the U.S. island of Little Diomede (part of Alaska). The Diomede Islands are located in the middle of the Bering Strait between mainland Alaska and Siberia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BeringSt-close-VE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:BeringSt-close-VE.jpg",
+    "file": "File:BeringSt-close-VE.jpg",
+    "artist": "NASA",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1043,
+    "height": 653,
+    "ok": true
+   },
+   "second_source": {
+    "name": "earthobservatory.nasa.gov",
+    "url": "https://earthobservatory.nasa.gov/images/91638/yesterday-and-tomorrow-islands",
+    "title": "Yesterday and Tomorrow Islands - NASA Science",
+    "matched": [
+     "25",
+     "diomede",
+     "islands",
+     "bering",
+     "strait",
+     "separated",
+     "kilometres",
+     "hours"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Croissant (linguistic zone): Delectable dialects!",
+   "article": {
+    "title": "Croissant (linguistic zone)",
+    "url": "https://en.wikipedia.org/wiki/Croissant_(linguistic_zone)",
+    "extract": "The Croissant (Occitan: lo Creissent; French: le Croissant) is a linguistic transitional zone between the Langue d'oc (also referred to as Occitan) dialects and the Langue d'oïl dialects, situated in the centre of France where Occitan dialects are spoken (Limousin and Auvergnat) that have transitional traits toward French (Langue d'oïl). The name derives from the contours of the zone that resemble a croissant, or crescent.\nThe first author to use the term Croissant was the linguist Jules Ronjat (1864–1925) in 1913.\nThere are two main Croissant dialects:\n\nMarchois, which is closer to the Limousin dialect, is found in the west, going from Confolentais (Charente) to Montluçon and its surrounds (west of Allier/Gorges du Cher) and passing through the north of Creuse and Guéret."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Croissant_%28zone_de_transition_linguistique%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Croissant_(zone_de_transition_linguistique).png",
+    "file": "File:Croissant (zone de transition linguistique).png",
+    "artist": "Aavitus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 742,
+    "height": 341,
+    "ok": true
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Poole versus HAL 9000: \"I'm sorry, Frank, I think you missed it…\"",
+   "article": {
+    "title": "Poole versus HAL 9000",
+    "url": "https://en.wikipedia.org/wiki/Poole_versus_HAL_9000",
+    "extract": "Poole vs. HAL 9000 is a chess game depicted in the 1968 science fiction film 2001: A Space Odyssey.  Astronaut Frank Poole (White) plays the supercomputer HAL 9000 (Black) using a video screen as a chessboard.  Each player takes turns during a game in progress, making their moves orally using descriptive notation and natural language."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Roesch_vs_Schlage%2C_1910.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Roesch_vs_Schlage,_1910.gif",
+    "file": "File:Roesch vs Schlage, 1910.gif",
+    "artist": "Morn",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 800,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "billwall.phpwebhosting.com",
+    "url": "http://billwall.phpwebhosting.com/articles/Kubrick.htm",
+    "title": "",
+    "matched": [
+     "9000",
+     "poole",
+     "sorry",
+     "frank",
+     "think",
+     "missed"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dinosaur erotica: Have you ever been Taken by a T-Rex or Ravished by a Triceratops?",
+   "article": {
+    "title": "Dinosaur erotica",
+    "url": "https://en.wikipedia.org/wiki/Dinosaur_erotica",
+    "extract": "Dinosaur erotica, part of the larger genre of bestiality porn, is a subgenre of erotic literature that involves sexual encounters between humans and non-avian dinosaurs. Works include titles such as Taken by the T-Rex, Ravished by Triceratops and A Billionaire Dinosaur Forced Me Gay. Despite being called by some in the media \"the Kardashian of erotica,\" the genre's titles have generated sales and media interest."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/MUJA_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MUJA_04.jpg",
+    "file": "File:MUJA 04.jpg",
+    "artist": "Usuario:NeGRa",
+    "license": "CC BY-SA 2.5 es",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
+    "width": 638,
+    "height": 682,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/books/booksblog/2015/feb/13/rex-appeal-literary-attraction-dinosaur-erotica",
+    "title": "Rex appeal: the literary attraction of dinosaur erotica | Romance books | The Guardian",
+    "matched": [
+     "dinosaur",
+     "erotica",
+     "taken",
+     "ravished",
+     "triceratops"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Affair of the Dancing Lamas: They danced in the UK for a documentary; it made Tibet cut off relations and isolate themselves, which left them unprepared when the Chinese PLA marched in.",
+   "article": {
+    "title": "Affair of the Dancing Lamas",
+    "url": "https://en.wikipedia.org/wiki/Affair_of_the_Dancing_Lamas",
+    "extract": "The Affair of the Dancing Lamas was an Anglo–Tibetan diplomatic controversy stemming mainly from the visit to Britain in 1924–25 of a party of Tibetan monks (only one of whom was a lama) as part of a publicity stunt for The Epic of Everest – the official film of the 1924 British Mount Everest Expedition.\nThe 13th Dalai Lama and the government of Tibet felt that the film and the pseudo-religious performances required of the monks ridiculed Tibetan culture, and as a diplomatic protest they banned future Everest expeditions. The film had been the responsibility of John Noel, the expedition's photographer, but the mountaineering establishment was closely involved and to avoid embarrassment they shifted the blame for the ban on expeditions onto John de Vars Hazard, another member of the team, who had gone exploring off the authorised route. The true cause of the diplomatic fuss was kept secre"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Tibetan_monks_visiting_Britain_in_1924.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tibetan_monks_visiting_Britain_in_1924.jpg",
+    "file": "File:Tibetan monks visiting Britain in 1924.jpg",
+    "artist": "L.N.A.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 872,
+    "height": 591,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.nationalgeographic.com/adventure/article/sandy-irvine-body-found-everest"
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tiger Mask donation phenomenon: The other time manga's most famous pro wrestler entered the real world.",
+   "article": {
+    "title": "Tiger Mask donation phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Tiger_Mask_donation_phenomenon",
+    "extract": "The Tiger Mask donation phenomenon is a series of donations of randoseru (school backpacks) and other items to orphanages around Japan. The first donation happened when someone left ten 30,000-yen backpacks at a child guidance center in Gunma Prefecture on Christmas Day in 2010. A note attached to the bags was signed \"Naoto Date\", the real name of the titular character of Tiger Mask, a popular 1960s and 1970s manga about a wrestler who fought for orphans, being raised in an orphanage himself. Since the initial donation, copycat donations have appeared around Japan at various facilities for children, ranging from more backpacks to toys, food, and monetary gifts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/JapaneseBackpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JapaneseBackpack.jpg",
+    "file": "File:JapaneseBackpack.jpg",
+    "artist": "Kanko* from Nagasaki, JAPAN",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "animenewsnetwork.com",
+    "url": "http://www.animenewsnetwork.com/interest/2010-12-27/manga/anime-hero-leaves-gifts-on-christmas-morning",
+    "title": "Manga/Anime Hero Leaves Gifts on Christmas Morning - Interest - Anime News Network",
+    "matched": [
+     "tiger",
+     "manga",
+     "wrestler",
+     "world"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "John Lennon Park: A park with a statue of John Lennon, in a country that used to ban his music in the 60s as it was a Western bloc cultural import. Also noteworthy for the fact that his statue doesn't normally wear glasses, as the glasses on the statue keep getting removed or vandalized, although the park now has a security guard whose job is to hang around near the statue and give him a pair of glasses upon request.",
+   "article": {
+    "title": "John Lennon Park",
+    "url": "https://en.wikipedia.org/wiki/John_Lennon_Park",
+    "extract": "John Lennon Park or Parque John Lennon (formerly known as Parque Menocal) is a public park, located in the Vedado district in Havana, Cuba."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/John_Lennon_Statue_in_Cuba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:John_Lennon_Statue_in_Cuba.png",
+    "file": "File:John Lennon Statue in Cuba.png",
+    "artist": "Miss Bono at English Wikipedia",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 550,
+    "height": 1070,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1,
+    "closest": "https://web.archive.org/web/20050319093517/http://archives.cnn.com/2000/WORLD/americas/12/08/lennon.cuba.reut/"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Robert Shields (diarist): You think you are hooked on recording every detail of your life…?",
+   "article": {
+    "title": "Robert Shields (diarist)",
+    "url": "https://en.wikipedia.org/wiki/Robert_Shields_(diarist)",
+    "extract": "Robert William Shields (May 17, 1918 – October 15, 2007) was an American minister and high school English teacher best known for writing a diary of 37.5 million words, which chronicled every five minutes of his life from 1972 until a stroke disabled him in 1997. Shields's diary, which filled 91 boxes, was longer than those kept by the journalist Edward Robb Ellis (21 million words) and the poet Arthur Crew Inman (17 million words), and 30 times longer than that of Samuel Pepys (1.25 million words)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Robert_Shields_1942_yearbook_photo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Robert_Shields_1942_yearbook_photo.png",
+    "file": "File:Robert Shields 1942 yearbook photo.png",
+    "artist": "Franklin College",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 511,
+    "height": 613,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20160303230810/http://www.soundportraits.org/on-air/worlds_longest_diary/transcript.php",
+    "title": "Robert Shields, World's Longest Diary [Transcript]: Radio Documentary by Sound Portraits",
+    "matched": [
+     "robert",
+     "shields",
+     "think",
+     "recording",
+     "every"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Flex (singer): A Panamanian singer adopted the name “Nigga” after being told he sang like a Jamaican. Renamed himself Flex in 2009.",
+   "article": {
+    "title": "Flex (singer)",
+    "url": "https://en.wikipedia.org/wiki/Flex_(singer)",
+    "extract": "Félix Danilo Gómez Bosquez (born 29 August 1980), known by his stage name Flex (formerly Nigga), is a Panamanian reggaeton singer. He originally adopted the name  Nigga after being told by another Panamanian artist that he \"sings like a black guy from Jamaica.\" Before releasing his debut album in the United States in 2010, Flex removed references to his nickname in songs, and his albums were reissued with the new name, \"Flex\" and he permanently adopted the moniker in 2016."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flex_cantante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Flex_cantante.png",
+    "file": "File:Flex cantante.png",
+    "artist": "107.1 La Z",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 844,
+    "height": 809,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20100128131046/http://www.holamun2.com/news/versus-flex-vs-eddy-lover"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mehran Karimi Nasseri: An Iranian refugee who lived in Charles de Gaulle Airport from 1988 until 2006 and again from September 2022 until his death in November that year.",
+   "article": {
+    "title": "Mehran Karimi Nasseri",
+    "url": "https://en.wikipedia.org/wiki/Mehran_Karimi_Nasseri",
+    "extract": "Mehran Karimi Nasseri (Persian: مهران کریمی ناصری, pronounced [mehˈrɒn kæriˈmi nɒseˈri]; 1945 – 12 November 2022), also known as Sir, Alfred Mehran, was an Iranian refugee who lived in the departure lounge of Terminal 1 at Charles de Gaulle Airport from 26 August 1988 until July 2006. Initially stranded due to lack of valid travel documents, he chose to remain at the airport despite being granted residency in Belgium in 1995 and France in 1999.\nNasseri was hospitalized in 2006 due to declining health and lived in various shelters in Paris for the following sixteen years. He returned to live at the Charles de Gaulle Airport in September 2022 and died there of a heart attack two months later."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/MKNasseri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MKNasseri.jpg",
+    "file": "File:MKNasseri.jpg",
+    "artist": "Saint Martin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 501,
+    "height": 360,
+    "ok": true
+   },
+   "second_source": {
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/travel/airline/airport.asp",
+    "title": "Man Living at Paris Airport | Snopes.com",
+    "matched": [
+     "1988",
+     "2006",
+     "mehran",
+     "karimi",
+     "nasseri",
+     "iranian",
+     "refugee",
+     "lived",
+     "charles",
+     "gaulle",
+     "airport",
+     "until",
+     "again",
+     "september"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Taiping Rebellion: One of the most lethal wars in history centers around a Chinese man claiming to be the brother of Jesus Christ.",
+   "article": {
+    "title": "Taiping Rebellion",
+    "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+    "extract": "The Taiping Rebellion (1850–1864) was a civil war in late imperial China fought between the ruling Qing dynasty and the rebelling Taiping Heavenly Kingdom. It was the deadliest civil war in history and the second-deadliest conflict in history overall. Estimates of the war's death toll range from 20–30 million, around 5–10% of the total Chinese population at the time, to 73–100 million, around 25% of the population. The Rebellion is widely considered to be the most important event in 19th-century Chinese history, and although the kingdom was defeated, the victory came at a great cost to the Qing dynasty's economy and political stability."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Regaining_the_Provincial_City_Anqing2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Regaining_the_Provincial_City_Anqing2.jpg",
+    "file": "File:Regaining the Provincial City Anqing2.jpg",
+    "artist": "Wu Youru",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 595,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://researchonline.lse.ac.uk/id/eprint/124690/"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wise Men of Gotham: So-named after they acted like idiots so the king would go away.",
+   "article": {
+    "title": "Wise Men of Gotham",
+    "url": "https://en.wikipedia.org/wiki/Wise_Men_of_Gotham",
+    "extract": "Wise Men of Gotham is the early name given to the people of the village of Gotham, Nottinghamshire, in allusion to an incident where they supposedly feigned idiocy to avoid a Royal visit."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wise_Men_of_Gotham_1_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wise_Men_of_Gotham_1_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg",
+    "file": "File:Wise Men of Gotham 1 - WW Denslow - Project Gutenberg etext 18546.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 385,
+    "height": 500,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-24760791"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jack (baboon): A Baboon who took over for his disabled owner as an employee of the Cape government railway.",
+   "article": {
+    "title": "Jack (baboon)",
+    "url": "https://en.wikipedia.org/wiki/Jack_(baboon)",
+    "extract": "Jack (died 1890) was a chacma baboon who assisted a disabled railway signalman, James Wide, in South Africa."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jack.signalman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jack.signalman.jpg",
+    "file": "File:Jack.signalman.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1197,
+    "height": 769,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20200119153126/http://www.knoxvilledailysun.com/news/2012/august/jack-the-signalman.html",
+    "title": "Stranger Than Fiction: Jack the Signalman",
+    "matched": [
+     "baboon",
+     "owner",
+     "employee",
+     "government",
+     "railway"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Snake Temple: A Chinese temple most notable for having living snakes within its compounds. It also has a snake breeding area.",
+   "article": {
+    "title": "Snake Temple",
+    "url": "https://en.wikipedia.org/wiki/Snake_Temple",
+    "extract": "The Snake Temple (Chinese: 蛇庙; pinyin: Shé Miào; Pe̍h-ōe-jī: Tsuâ-biō), also known as the Temple of the Azure Clouds, is a Chinese temple within George Town in the Malaysian state of Penang. Located at Bayan Lepas, the temple is well-known for being a refuge of resident snakes, said to be reincarnated disciples of the deified Buddhist monk Master Qingshui, to whom the temple is dedicated.\nDevotees from as far away as Singapore, Taiwan and China come to pray in the temple on the monk's birthday (the sixth day of the first lunar month). It was also featured during the 8th leg of The Amazing Race 16 and become a backdrop of Tan Twan Eng's novel The Gift of Rain (book 1, chapter 4)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Snake_Temple%2C_Penang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Snake_Temple,_Penang.jpg",
+    "file": "File:Snake Temple, Penang.jpg",
+    "artist": "Khalzuri Yazid from Petaling Jaya, Malaysia",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1024,
+    "height": 685,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thestar.com.my",
+    "url": "https://www.thestar.com.my/news/nation/2005/07/09/new-lure-at-snake-temple-in-penang/",
+    "title": "New lure at snake temple in Penang | The Star",
+    "matched": [
+     "snake",
+     "temple",
+     "living",
+     "snakes",
+     "breeding"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MTV Movie Award for Best Shirtless Performance: Only awarded three times.",
+   "article": {
+    "title": "MTV Movie Award for Best Shirtless Performance",
+    "url": "https://en.wikipedia.org/wiki/MTV_Movie_Award_for_Best_Shirtless_Performance",
+    "extract": "This is a following list for the MTV Movie Award winners for Best Shirtless Performance. The award was first given out in 2013, and was last given out in 2015."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Taylor_Lautner_2011_Abduction_premiere_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Taylor_Lautner_2011_Abduction_premiere_(cropped).jpg",
+    "file": "File:Taylor Lautner 2011 Abduction premiere (cropped).jpg",
+    "artist": "Eva Rinaldi",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 881,
+    "height": 1134,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20130203191500/http://www.mtv.com/ontv/movieawards/2013/",
+    "title": "2013 MTV Movie Awards | MTV.com",
+    "matched": [
+     "movie",
+     "award",
+     "performance",
+     "times"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Merchant Marine of Switzerland: A landlocked country with a significant commercial fleet.",
+   "article": {
+    "title": "Merchant Marine of Switzerland",
+    "url": "https://en.wikipedia.org/wiki/Merchant_Marine_of_Switzerland",
+    "extract": "The Merchant Marine of Switzerland is the largest merchant navy of a landlocked country. Somewhat unusual for a landlocked country, Switzerland has a long tradition of civilian navigation, both on its lakes and rivers, and on the high seas."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Villars_DM-SD-98-03391.JPEG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Villars_DM-SD-98-03391.JPEG",
+    "file": "File:Villars DM-SD-98-03391.JPEG",
+    "artist": "LCPL. E. J. YOUNG",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 867,
+    "height": 576,
+    "ok": true
+   },
+   "second_source": {
+    "name": "swissinfo.ch",
+    "url": "http://www.swissinfo.ch/eng/storms-on-the-high-seas_swiss-merchant-navy-celebrates-75th-anniversary/42192838",
+    "title": "Swiss merchant navy celebrates 75th anniversary - SWI swissinfo.ch",
+    "matched": [
+     "merchant",
+     "marine",
+     "switzerland",
+     "landlocked",
+     "country",
+     "commercial",
+     "fleet"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hobby Lobby smuggling scandal: A craft store chain purchases stolen Iraqi artifacts.",
+   "article": {
+    "title": "Hobby Lobby smuggling scandal",
+    "url": "https://en.wikipedia.org/wiki/Hobby_Lobby_smuggling_scandal",
+    "extract": "The Hobby Lobby smuggling scandal started in 2009 when representatives of the Hobby Lobby chain of craft stores received a large number of clay bullae and tablets originating in the ancient Near East. The artifacts were intended for the Museum of the Bible, funded by the Evangelical Christian Green family, which owns the Hobby Lobby chain. Internal staff had warned superiors that the items had dubious provenance and were potentially looted from Iraq.\nSeveral shipments of the artifacts were seized by US customs agents in 2011, triggering a struggle between Hobby Lobby and the federal government that culminated in a 2017 civil forfeiture case United States of America v."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg",
+    "file": "File:United States versus Approximately 450 Ancient Cuneiform Tablets - smuggled artifact 1.jpg",
+    "artist": "United States District Court for the Eastern District of New York",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 368,
+    "height": 651,
+    "ok": true
+   },
+   "second_source": {
+    "name": "businessinsider.com",
+    "url": "https://www.businessinsider.com/what-to-know-about-hobby-lobby-president-backed-museum-of-the-bible-2017-7",
+    "title": "Visiting the Museum of the Bible Founded by Hobby Lobby's President - Business Insider",
+    "matched": [
+     "hobby",
+     "lobby",
+     "smuggling",
+     "scandal",
+     "chain",
+     "iraqi",
+     "artifacts"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MP4 (band): Rock music and Members of Parliament do mix.",
+   "article": {
+    "title": "MP4 (band)",
+    "url": "https://en.wikipedia.org/wiki/MP4_(band)",
+    "extract": "MP4 are a British rock band made up of four current and former British Members of Parliament."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mp4theband.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mp4theband.jpg",
+    "file": "File:Mp4theband.jpg",
+    "artist": "Matthew Thomas",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 500,
+    "height": 311,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/humber/content/articles/2005/05/11/mp4_music_feature.shtml",
+    "title": "BBC - Humber - Entertainment - MP4 strike a chord with voters",
+    "matched": [
+     "music",
+     "members",
+     "parliament"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gerbilling: An urban legend about a sexual practice purportedly conducted. It was made popular by South Park.",
+   "article": {
+    "title": "Gerbilling",
+    "url": "https://en.wikipedia.org/wiki/Gerbilling",
+    "extract": "Gerbilling, also known as gerbil stuffing or gerbil shooting, is the alleged sexual practice of inserting a gerbil or other small rodent into one's rectum to obtain stimulation. Gerbilling is considered an urban legend and there is no evidence that the practice has ever occurred in real life. Its existence remains highly dubious, as all rodents have long nails and teeth for digging or burrowing and naturally try to burrow out of any small spaces."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/2008-02-16_Mongolian_gerbil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2008-02-16_Mongolian_gerbil.jpg",
+    "file": "File:2008-02-16 Mongolian gerbil.jpg",
+    "artist": "Gophi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/risque/homosex/gerbil.asp",
+    "title": "Richard Gere and the Gerbil | Snopes.com",
+    "matched": [
+     "gerbilling",
+     "urban",
+     "legend",
+     "sexual",
+     "practice",
+     "purportedly",
+     "popular"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Llanfairpwllgwyngyll: Or Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch, if you want to get technical.",
+   "article": {
+    "title": "Llanfairpwllgwyngyll",
+    "url": "https://en.wikipedia.org/wiki/Llanfairpwllgwyngyll",
+    "extract": "Llanfairpwllgwyngyll or Llanfair Pwllgwyngyll (Welsh: [ɬan.ˌvair.puɬˈɡwɨ̞n.ɡɨ̞ɬ]), often shortened to Llanfairpwll and sometimes to Llanfair PG, is a village and community on the Isle of Anglesey, Wales. It is located on the Menai Strait, next to the Britannia Bridge. At the 2011 Census the population was 3,107, of whom 71% could speak Welsh. As of the 2021 census, the population had decreased to 2,900 (rounded to the nearest 100)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Llanfair_Pwllgwyngyll_roofscape_(1)_-_geograph.org.uk_-_1058331.jpg",
+    "file": "File:Llanfair Pwllgwyngyll roofscape (1) - geograph.org.uk - 1058331.jpg",
+    "artist": "Robin Drayton",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20190207015655/http://www.llanfairpwll.org/community-council/"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vril: A book by the \"dark and stormy night\" guy that spawned rumours about German secret societies, a real master race living underground, and Nazi UFOs.",
+   "article": {
+    "title": "Vril",
+    "url": "https://en.wikipedia.org/wiki/Vril",
+    "extract": "Vril: The Power of the Coming Race, originally published as The Coming Race, is a science and subterranean fiction novel by the British politician and writer Edward Bulwer-Lytton, published anonymously in 1871.\nSome readers have believed the account of a superior subterranean master race and the energy-form called \"Vril\" to be, at least partially, true. Some theosophists, notably Helena Blavatsky, William Scott-Elliot, and Rudolf Steiner, accepted the book as based on occult truth. The 1960 book The Morning of the Magicians by Jacques Bergier and Louis Pauwels suggested that a secret Vril Society existed in Weimar Berlin."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Coming_Race_%281871%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Coming_Race_(1871).png",
+    "file": "File:The Coming Race (1871).png",
+    "artist": "Edward Bulwer-Lytton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 537,
+    "height": 810,
+    "ok": true
+   },
+   "second_source": {
+    "name": "alpenfestung.com",
+    "url": "http://www.alpenfestung.com/ley_pseudoscience.htm",
+    "title": "Alpenfestung - PSEUDOSCIENCE IN NAZILAND",
+    "matched": [
+     "night",
+     "german",
+     "secret",
+     "societies",
+     "master"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Toronto circus riot: Firefighters fought clowns and set their circus tent on fire.",
+   "article": {
+    "title": "Toronto circus riot",
+    "url": "https://en.wikipedia.org/wiki/Toronto_circus_riot",
+    "extract": "The Toronto circus riot occurred on 13 July 1855, a few blocks east of the St. Lawrence Market in Toronto, in the British Province of Canada. It began as a brothel fight between American circus clowns traveling with the S. B. Howes' Star Troupe Menagerie & Circus and local firefighters associated with the Hook & Ladder company, and resulted in the firefighters destroying the circus. The Toronto Police Service was present at the riot, but, showing favoritism to members of the Orange Order, refused to identify any of the rioters."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/St._Lawrence_Market_by_Micklethwaite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:St._Lawrence_Market_by_Micklethwaite.jpg",
+    "file": "File:St. Lawrence Market by Micklethwaite.jpg",
+    "artist": "F. W. Micklethwaite",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 919,
+    "height": 651,
+    "ok": true
+   },
+   "second_source": {
+    "name": "spacing.ca",
+    "url": "https://spacing.ca/toronto/2012/10/02/the-toronto-circus-riot-of-1855-the-day-the-clowns-picked-the-wrong-toronto-brothel/",
+    "title": "The Toronto Circus Riot of 1855 — the day the clowns picked the wrong Toronto brothel - Spacing Toronto | Spacing Toronto",
+    "matched": [
+     "toronto",
+     "circus",
+     "firefighters",
+     "clowns"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Check Out the Playlist for Our New Book",
+   "article": {
+    "title": "Check Out the Playlist for Our New Book",
+    "url": "https://www.atlasobscura.com/articles/check-out-the-playlist-for-our-new-book",
+    "extract": "Our latest book, “America Obscura: An Explorer’s Guide to the Hidden Wonders of the United States,” has just been published. But it doesn’t just take you to Texas or Maine or Michigan. It takes you to a town called Hell, to a desert in one of the greenest states, to a sundial on the exact spot where America's day begins, and to a seven-story Jesus nicknamed “Our Milk Carton with Arms.” These are r"
+   },
+   "published": "Tue, 10 Nov 2026 06:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Drunken Lampposts in Halifax, Nova Scotia",
+   "article": {
+    "title": "Drunken Lampposts in Halifax, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/drunken-lampposts-halifax",
+    "extract": "Along the Halifax Waterfront in Nova Scotia, a group of lampposts appears to have had a little too much to drink. Commonly known as the \"Drunken Lampposts,\" these unusual public art installations bring a humorous twist to the city's lively nightlife. Created by NSCAD University alumni Chris Hanson and Hendrika Sonnenberg, the installations are officially titled \"Fountain: and :Get Drunk, Fall Down"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+   "article": {
+    "title": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+    "url": "https://www.atlasobscura.com/places/jurassic-jungle-boat-ride",
+    "extract": "Just outside of Dollywood is a relatively nondescript building squished between many other independently operated tourist traps and minor amusement park attractions. Out of all of these offerings for family vacationers though, the Jurassic Jungle Boat Ride seems to be particularly infamous among theme park enthusiasts. This ride has often been touted among thrill seekers and ride enthusiasts as on"
+   },
+   "published": "Mon, 09 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+   "article": {
+    "title": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/marvin-the-mastodon",
+    "extract": "Standing high above the highway in Stewiacke, Nova Scotia, is Marvin the Mastodon, a life-sized replica of a prehistoric giant that once roamed the region. Measuring 14 feet tall and 22 feet long, the enormous statue was erected at Mastodon Ridge in January 1995 to commemorate a remarkable discovery made just a few years earlier. In 1991, while excavating a sinkhole at the National Gypsum Quarry n"
+   },
+   "published": "Mon, 09 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+   "article": {
+    "title": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+    "url": "https://www.atlasobscura.com/places/mussel-village-bruinisse",
+    "extract": "On the edge of the lowlands of Zeeland lies a village dedicated to celebrating the mussel fishing industry. A vital part of life in Bruinisse for centuries, mussel farming has long been one of the main sources of income for the local area. Bruinisse harbour is the heart of the village and is home to a large, active mussel fleet. The mussel season runs from July to April, with mussel cutters settin"
+   },
+   "published": "Mon, 09 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Fuente de los Niños Miones in Guadalajara, Mexico",
+   "article": {
+    "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+    "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+    "extract": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982. It sits on Morelo"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+   "article": {
+    "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+    "url": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
+    "extract": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death. More than 30 Portuguese inmates "
+   },
+   "published": "Fri, 06 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+   "article": {
+    "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+    "url": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
+    "extract": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years."
+   },
+   "published": "Fri, 06 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Statue of Lord Laddu Gopal in Agra, India",
+   "article": {
+    "title": "Statue of Lord Laddu Gopal in Agra, India",
+    "url": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
+    "extract": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded iron and steel, turning scrap metal into a striking piece of public art. It features a striking peacock feather that towers over the Ambedk"
+   },
+   "published": "Fri, 06 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
+   "article": {
+    "title": "Giant MacAskill’s Grave in Englishtown, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/giant-macaskill-s-grave",
+    "extract": "Tucked away in a small cemetery in the Cape Breton community of Englishtown lies the grave of Angus MacAskill, better known as the Giant MacAskill or the Cape Breton Giant, a man whose extraordinary height and strength brought him international fame during the 19th century. Born in 1825 on the Isle of Berneray in Scotland's Outer Hebrides, MacAskill immigrated to Nova Scotia with his family as a c"
+   },
+   "published": "Thu, 05 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
+   "article": {
+    "title": "Kejimkujik Petroglyphs in Jakes Landing, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/kejimkujik-petroglyphs",
+    "extract": "Along the shores of Kejimkujik Lake in Nova Scotia, more than 500 petroglyphs are etched into the smooth slate bedrock of Kejimkujik National Park and National Historic Site. The Mi’kmaq have lived, hunted, and fished in the Kejimkujik area since time immemorial. Their enduring presence is documented through oral histories and numerous archaeological sites, including ancient campsites, fish weirs,"
+   },
+   "published": "Thu, 05 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tà Má Stream in Vietnam",
+   "article": {
+    "title": "Tà Má Stream in Vietnam",
+    "url": "https://www.atlasobscura.com/places/ta-ma-stream",
+    "extract": "Hidden deep within the remote highlands of Vinh Thanh district, Ta Ma Stream offers an arresting departure from the sun-drenched beaches of the coast. Flowing with icy, crystal-clear water year-round, the stream carves its way through a primeval woodland guarded for generations by the indigenous Ba Na community of Ha Ri village. Its most surreal transformation occurs around March, when an ancient "
+   },
+   "published": "Thu, 05 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Map Shows America's Favorite Thanksgiving Desserts",
+   "article": {
+    "title": "Map Shows America's Favorite Thanksgiving Desserts",
+    "url": "https://www.mentalfloss.com/geography/maps/most-popular-thanksgiving-desserts-by-state-map?utm_source=RSS",
+    "extract": "DoorDash data reveals the most popular Thanksgiving desserts in every state, from classic pumpkin pie to surprising chocolate cake."
+   },
+   "published": "Tue, 10 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1980s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1980s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1980s-still-use-today?utm_source=RSS",
+    "extract": "The decade of MTV, shoulder pads, and big hair gave us some of our favorite and most expressive words."
+   },
+   "published": "Mon, 09 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best Cities in the U.S. For Veterans, Mapped",
+   "article": {
+    "title": "The Best Cities in the U.S. For Veterans, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-cities-for-veterans?utm_source=RSS",
+    "extract": "Discover the best and worst cities for veterans in the U.S. in 2026, based on job opportunities, healthcare, and more."
+   },
+   "published": "Mon, 09 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why ‘Sesame Street’s Oscar the Grouch Was Originally a Different Color",
+   "article": {
+    "title": "Why ‘Sesame Street’s Oscar the Grouch Was Originally a Different Color",
+    "url": "https://www.mentalfloss.com/entertainment/tv/sesame-street-oscar-the-grouch-originally-different-color?utm_source=RSS",
+    "extract": "The beloved children’s show turns 57 on November 10. Learn this behind-the-scenes story about Oscar the Grouch from ‘Sesame Street.’"
+   },
+   "published": "Mon, 09 Nov 2026 19:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Foods Families Really Ate During the Gilded Age",
+   "article": {
+    "title": "6 Foods Families Really Ate During the Gilded Age",
+    "url": "https://www.mentalfloss.com/food/foods-families-ate-during-gilded-age?utm_source=RSS",
+    "extract": "From potted ham and boiled cabbage to diamondback terrapin and celery, discover what high society—and working-class families—actually ate during the Gilded Age."
+   },
+   "published": "Sun, 08 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Are Creepy Things Called 'Uncanny Valley'?",
+   "article": {
+    "title": "Why Are Creepy Things Called 'Uncanny Valley'?",
+    "url": "https://www.mentalfloss.com/technology/robots/why-creepy-things-called-uncanny-valley?utm_source=RSS",
+    "extract": "It might look almost human, but something about it just feels eerie."
+   },
+   "published": "Mon, 09 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 One-Hit Wonders From the 1970s You Still Know Every Word To",
+   "article": {
+    "title": "20 One-Hit Wonders From the 1970s You Still Know Every Word To",
+    "url": "https://www.mentalfloss.com/entertainment/music/1970s-one-hit-wonders?utm_source=RSS",
+    "extract": "Warning: These songs will be stuck in your head for at least a week. These 20 one-hit wonders from the ‘70s are still great."
+   },
+   "published": "Mon, 09 Nov 2026 13:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "From 'Dollar Princess' to 'The Four Hundred,' Decoding the Gilded Age's High-Society Slang",
+   "article": {
+    "title": "From 'Dollar Princess' to 'The Four Hundred,' Decoding the Gilded Age's High-Society Slang",
+    "url": "https://www.mentalfloss.com/language/slang/gilded-age-society-slang-decoded?utm_source=RSS",
+    "extract": "Ever wondered what Gilded Age high society meant by \"dollar princess\" or \"the alum\"? Decode the 19th-century slang used in HBO’s 'The Gilded Age.'"
+   },
+   "published": "Sun, 08 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+   "article": {
+    "title": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+    "url": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world?utm_source=RSS",
+    "extract": "Culture and schedule differences make the U.S. unique in when dinner takes place."
+   },
+   "published": "Sun, 08 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Hidden Italy: Meet Don Giacomo, the Priest of a Sacred Medieval Sanctuary in Calabria",
+   "article": {
+    "title": "Hidden Italy: Meet Don Giacomo, the Priest of a Sacred Medieval Sanctuary in Calabria",
+    "url": "https://www.mentalfloss.com/culture/religion/hidden-italy-meet-don-giacomo-priest-sacred-medieval-sanctuary-calabria?utm_source=RSS",
+    "extract": "Beyond medieval artwork and centuries-old history, this Italian parish is a place of reflection and meaningful encounters, where Don Giacomo welcomes you to share in its story."
+   },
+   "published": "Sun, 08 Nov 2026 18:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Readers Thought of 'Dracula' When It Was Published in 1897",
+   "article": {
+    "title": "What Readers Thought of 'Dracula' When It Was Published in 1897",
+    "url": "https://www.mentalfloss.com/literature/books/what-readers-thought-dracula-when-published-1897?utm_source=RSS",
+    "extract": "'We would not, however, recommend it to nervous persons for evening reading.'"
+   },
+   "published": "Sun, 08 Nov 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Facts You Might Not Know About the Real Pocahontas",
+   "article": {
+    "title": "5 Facts You Might Not Know About the Real Pocahontas",
+    "url": "https://www.mentalfloss.com/history/misconceptions/real-pocahontas-facts?utm_source=RSS",
+    "extract": "Find out the real history of Pocahontas, from her true names (Matoaka and Amonute) to the truth behind John Smith’s famous execution story."
+   },
+   "published": "Sun, 08 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+   "article": {
+    "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+    "url": "https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851/",
+    "extract": "Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed \"crazy\" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization"
+   },
+   "published": "Tue, 10 Nov 2026 12:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+   "article": {
+    "title": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+    "url": "https://www.smithsonianmag.com/smart-news/while-cleaning-out-her-aunts-manhattan-apartment-a-woman-found-a-long-lost-georgia-okeeffe-painting-buried-beneath-fur-coats-in-the-closet-180989848/",
+    "extract": "Painted in 1930, \"Near Abiquiu, New Mexico I\" sat in the closet for 40 years, with only a single photograph, by O'Keeffe’s husband, Alfred Stieglitz, attesting to its existence. It could fetch upwards of $3 million at auction this month"
+   },
+   "published": "Mon, 09 Nov 2026 19:55:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+   "article": {
+    "title": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+    "url": "https://www.smithsonianmag.com/smart-news/neolithic-cannibalism-wasnt-an-act-of-desperation-almost-1000-skeletal-fragments-from-caves-in-southern-spain-show-how-eating-human-flesh-was-a-continual-practice-180989849/",
+    "extract": "More than five decades after hordes of prehistoric bones were unearthed from three caves in Granada, new forensic techniques show how communities continued to consume their dead across distinct cultural eras"
+   },
+   "published": "Mon, 09 Nov 2026 18:11:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+   "article": {
+    "title": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+    "url": "https://www.smithsonianmag.com/smart-news/the-great-pacific-garbage-patch-has-accumulated-so-many-microplastics-they-might-be-changing-the-color-of-the-ocean-180989828/",
+    "extract": "Satellite data suggests water in and around the huge area filled with human-made debris has become more blue-green over the past two decades. Computer simulations suggest microplastics are to blame, but researchers need samples to confirm their hypothesis"
+   },
+   "published": "Mon, 09 Nov 2026 16:36:58 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+   "article": {
+    "title": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+    "url": "https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/",
+    "extract": "A tomb discovered in Siberia and associated with Scythians—a nomadic, horse-riding people that once roamed the Eurasian steppe—might provide the earliest direct evidence of cannabis use"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+   "article": {
+    "title": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+    "url": "https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/",
+    "extract": "More people are swapping animal products with vegan milks, yogurts and cheeses, so scientists wanted to investigate the potential public health effects. Their findings hint that consumers should look for items with extra nutrients added, called fortified foods"
+   },
+   "published": "Mon, 09 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+   "article": {
+    "title": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+    "url": "https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/",
+    "extract": "A comprehensive investigation of the sandstone megalith’s \"geological fingerprint\" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins"
+   },
+   "published": "Fri, 06 Nov 2026 21:41:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
+   "article": {
+    "title": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
+    "url": "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/",
+    "extract": "The Musée des Beaux-Arts d'Orléans is on a mission to retrieve hundreds of missing artworks from its collections. It recently tracked down a 17th-century painting by Dutch artist Willem Cornelisz Duyster right before it went to auction in Switzerland"
+   },
+   "published": "Fri, 06 Nov 2026 21:24:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
+   "article": {
+    "title": "This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time",
+    "url": "https://www.smithsonianmag.com/smart-news/this-wooden-wardrobe-in-pompeii-remained-sealed-for-nearly-2000-years-archaeologists-just-opened-it-for-the-first-time-180989831/",
+    "extract": "The ancient cabinet held a pair of tweezers, a perfume bottle, an incense burner and ceramic vessels. But the most impressive find was a necklace sporting at least 24 amulets shaped like deities, plants and body parts"
+   },
+   "published": "Fri, 06 Nov 2026 21:13:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory",
+   "article": {
+    "title": "For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory",
+    "url": "https://www.smithsonianmag.com/smart-news/for-centuries-visitors-walked-right-by-280-ice-age-engravings-in-a-catalan-cave-the-newly-discovered-rock-art-is-rewriting-catalonias-prehistory-180989827/",
+    "extract": "Prior to the discovery, rock art in northeastern Spain was \"very scarce,\" one archaeologist says. The drawings show dozens of animals, as well as more abstract shapes, which are distinct from other Paleolithic styles"
+   },
+   "published": "Fri, 06 Nov 2026 18:57:53 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
+   "article": {
+    "title": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
+    "url": "https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/",
+    "extract": "Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged"
+   },
+   "published": "Fri, 06 Nov 2026 17:13:33 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+   "article": {
+    "title": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+    "url": "https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/",
+    "extract": "New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+   "article": {
+    "title": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/04/przebaczamy-i-prosimy-o-przebaczenie-dlaczego-komunisci-oskarzyli-polskich-biskupow-o-zdrade/",
+    "extract": "W 1965 roku polscy biskupi skierowali do niemieckich duchownych historyczne orędzie, w którym padły słowa o przebaczeniu i pojednaniu. Reakcja władz PRL była gwałtowna. Prymasa Stefana Wyszyńskiego oskarżono o zdradę, a komunistyczna propaganda rozpętała kampanię przeciwko Kościołowi. Dlaczego gest pojednania z Niemcami wywołał tak wielkie oburzenie? The post „Przebaczamy i prosimy o przebaczenie”"
+   },
+   "published": "Wed, 04 Nov 2026 11:53:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "PRL. Największe katastrofy",
+   "article": {
+    "title": "PRL. Największe katastrofy",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/03/prl-najwieksze-katastrofy/",
+    "extract": "Po sukcesie książki PRL od kuchni Sławomir Koper i Mariusz Mucha postanowili przybliżyć czytelnikom największe katastrofy epoki PRL-u. The post PRL. Największe katastrofy first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 03 Nov 2026 14:06:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+   "article": {
+    "title": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/02/miala-leczyc-brezniewa-oglosila-sie-krolowa-asyrii-kim-byla-tajemnicza-dzuna/",
+    "extract": "Twierdziła, że potrafi uzdrawiać dotykiem i przepowiadać przyszłość. Bywała na moskiewskich salonach, obracała się wśród polityków i artystów, a jej niezwykłe zdolności miały pomagać nawet najważniejszym ludziom Związku Radzieckiego. Dżuna Dawitaszwili stała się jedną z najbardziej zagadkowych postaci swojej epoki. Gdzie kończyła się prawda, a zaczynała starannie budowana legenda? The post Miała l"
+   },
+   "published": "Mon, 02 Nov 2026 21:34:13 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I",
+   "article": {
+    "title": "Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I",
+    "url": "https://ciekawostkihistoryczne.pl/2026/10/31/nowe-imperium-rzymskie-przebudzenie-wschodu-historia-bizancjum-tom-i/",
+    "extract": "Nowa historia Bizancjum. Nowa historia Rzymu. The post Nowe Imperium Rzymskie. Przebudzenie Wschodu. Historia Bizancjum. Tom I first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 31 Oct 2026 12:53:35 +0000",
+   "image": null
+  }
+ ]
+}
