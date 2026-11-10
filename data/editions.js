@@ -1,5 +1,421 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-10": {
+    "date": "2026-11-10",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-09",
+        "who": "To Znowu Oni",
+        "initials": "TZO",
+        "category": "Gry",
+        "hype": 3,
+        "title": "To Znowu Oni: jak Bethesda uprościła swoje otwarte światy. Analiza Araszkiewicza ma 129 tys. wyświetleń",
+        "summary": "Na kanale To Znowu Oni wyszedł niemal półgodzinny materiał o tym, jak przez 30 lat zmieniały się otwarte światy gier Bethesdy. Autorem analizy jest Mateusz Araszkiewicz.",
+        "body": [
+          "W poniedziałek wieczorem kanał To Znowu Oni opublikował film „Jak Bethesda ogłupiła swoje otwarte światy”. Materiał trwa niecałe 30 minut, a w opisie kanał zapowiada go jako analizę Mateusza Araszkiewicza.",
+          "Według opisu film pokazuje, jak studio od ponad 30 lat eksperymentuje z rozległymi otwartymi światami i jak jego podejście zmieniło się po premierach Obliviona i Fallouta 3. Pytanie przewodnie brzmi: dlaczego ogromne obszary w kolejnych grach stawały się płytsze, a mechanizmy świata prostsze.",
+          "We wtorek ok. 6:20 film miał ok. 129 tys. wyświetleń, ok. 2,1 tys. polubień i ponad 170 komentarzy. Widzowie wspominają w nich pierwsze zetknięcie z Morrowindem, porównują serię The Elder Scrolls z innymi RPG i proszą o kolejne odcinki o modach do gier Bethesdy."
+        ],
+        "sources": [
+          {
+            "name": "To Znowu Oni / YouTube",
+            "url": "https://www.youtube.com/watch?v=ocKhq10PvXQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ocKhq10PvXQ",
+        "ig": [
+          "toznowuoni"
+        ],
+        "caption": {
+          "credit": "To Znowu Oni / YouTube",
+          "text": "Miniatura analizy o grach Bethesdy z kanału To Znowu Oni. Film opisuje zmiany w projektowaniu otwartych światów od pierwszych części The Elder Scrolls po nowsze tytuły studia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ocKhq10PvXQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ocKhq10PvXQ/hqdefault.jpg",
+          "credit": "To Znowu Oni / YouTube",
+          "href": "https://www.youtube.com/watch?v=ocKhq10PvXQ",
+          "alt": "Miniatura filmu To Znowu Oni o otwartych światach Bethesdy",
+          "caption": "Miniatura filmu „Jak Bethesda ogłupiła swoje otwarte światy”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-09",
+        "who": "Nullizmatyka",
+        "initials": "NZ",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Nullizmatyka zapowiada trzeci singiel „Niedosyt”. Premiera 12 listopada o 13:00",
+        "summary": "Nullizmatyka ogłosiła kolejny singiel z albumu „W świecie brudnej poezji”. Utwór „Niedosyt” ukaże się w czwartek, 12 listopada.",
+        "body": [
+          "W poniedziałek na kanale Nullizmatyki pojawił się krótki zwiastun utworu „Niedosyt”. Według opisu to trzeci singiel z albumu „W świecie brudnej poezji”, a premiera zaplanowana jest na 12 listopada 2026 r. o 13:00.",
+          "Wcześniej z tej płyty ukazały się single „Muzyka pisze te historie” i „BlaBla”. Pod zapowiedzią twórcy zachęcają, by przed premierą nadrobić oba utwory."
+        ],
+        "sources": [
+          {
+            "name": "Nullizmatyka / YouTube",
+            "url": "https://www.youtube.com/shorts/nMOraLhkCqc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/nMOraLhkCqc",
+        "caption": {
+          "credit": "Nullizmatyka / YouTube",
+          "text": "Kadr z 10-sekundowej zapowiedzi singla „Niedosyt”. W opisie zwiastuna skład podaje datę i godzinę premiery oraz tytuł albumu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/nMOraLhkCqc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/nMOraLhkCqc/hqdefault.jpg",
+          "credit": "Nullizmatyka / YouTube",
+          "href": "https://www.youtube.com/shorts/nMOraLhkCqc",
+          "alt": "Kadr z zapowiedzi singla Niedosyt Nullizmatyki",
+          "caption": "Zapowiedź singla „Niedosyt”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-09",
+        "who": "moreleTV",
+        "initials": "MT",
+        "category": "Technologia",
+        "hype": 2,
+        "title": "moreleTV: jaki PC da się złożyć za 2000 zł w listopadzie 2026? TekTesters i ZMASLO ruszyli na rynek wtórny",
+        "summary": "moreleTV pokazało w krótkim filmie, co TekTesters i ZMASLO złożyli w listopadzie za 2000 zł. Według kanału taki budżet starcza dziś tylko na używane części.",
+        "body": [
+          "W poniedziałek kanał moreleTV opublikował krótki film „Jaki PC złożymy za 2000 zł w listopadzie 2026 roku?”. Komputery składali twórcy kanałów TekTesters i ZMASLO.",
+          "W opisie moreleTV zaznacza, że budżet 2000 zł jest dziś możliwy tylko na rynku wtórnym, dlatego zestawy powstały z używanych części. We wtorek ok. 6:20 film miał ok. 6,7 tys. wyświetleń. Widzowie w komentarzach podają własne pomysły na tanie zestawy."
+        ],
+        "sources": [
+          {
+            "name": "moreleTV / YouTube",
+            "url": "https://www.youtube.com/shorts/pBiuU6I0cKM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/pBiuU6I0cKM",
+        "caption": {
+          "credit": "moreleTV / YouTube",
+          "text": "Kadr z krótkiego filmu moreleTV o składaniu komputera za 2000 zł. Materiał pokazuje zestawy przygotowane przez TekTesters i ZMASLO."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/pBiuU6I0cKM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/pBiuU6I0cKM/hqdefault.jpg",
+          "credit": "moreleTV / YouTube",
+          "href": "https://www.youtube.com/shorts/pBiuU6I0cKM",
+          "alt": "Kadr z filmu moreleTV o komputerze za 2000 zł",
+          "caption": "Film moreleTV o PC za 2000 zł."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Titanic",
+        "initials": "TI",
+        "category": "Historia",
+        "hype": 4,
+        "title": "14 lat przed Titanikiem wyszła powieść o liniowcu „Titan”, który tonie po zderzeniu z górą lodową",
+        "summary": "Nowelę „Futility” Morgana Robertsona wydano w 1898 r. Jej fikcyjny liniowiec Titan tonie na Północnym Atlantyku po uderzeniu w górę lodową.",
+        "body": [
+          "Amerykański pisarz Morgan Robertson opublikował „Futility” w 1898 r. Fabuła dotyczy ogromnego liniowca Titan, który tonie na Północnym Atlantyku po zderzeniu z górą lodową. Podobieństwa do prawdziwego RMS Titanic, zatopionego 14 lat później, od lat zadziwiają czytelników.",
+          "Po katastrofie Titanica książkę wznowiono pod tytułem „The Wreck of the Titan” i wprowadzono do niej zmiany, m.in. w wyporności statku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/The_Wreck_of_the_Titan:_Or,_Futility"
+          },
+          {
+            "name": "Project Gutenberg",
+            "url": "https://www.gutenberg.org/files/24880/24880-h/24880-h.htm"
+          }
+        ],
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Okładka pierwszego wydania „Futility” z 1898 r., czyli książki, której fabuła przypomina losy Titanica."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Futility_Original_First_Edition_Cover.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Futility_Original_First_Edition_Cover.jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Okładka pierwszego wydania powieści Futility z 1898 roku",
+          "caption": "Okładka pierwszego wydania „Futility”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Wyścigi wielbłądów",
+        "initials": "WW",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "W Katarze i ZEA wielbłądy w wyścigach dosiadają roboty zamiast ludzi",
+        "summary": "Od 2004 r. w wyścigach wielbłądów używa się robotów-dżokejów. Katar i Zjednoczone Emiraty Arabskie zakazały startów z ludzkimi dżokejami.",
+        "body": [
+          "Roboty-dżokeje powstały w 2004 r. jako zastępstwo dla ludzi w wyścigach wielbłądów. Wcześniej w krajach Zatoki Perskiej dosiadali ich często mali chłopcy, co wywoływało międzynarodową krytykę.",
+          "W odpowiedzi na tę krytykę Katar i Zjednoczone Emiraty Arabskie zakazały ludzkich dżokejów na rzecz robotów, które stopniowo wypierają ludzi z tego sportu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Robot_jockey"
+          },
+          {
+            "name": "USA Today (archiwum)",
+            "url": "https://web.archive.org/web/20120704000437/http://www.usatoday.com/tech/news/robotics/2005-04-19-qatar-camalbots_x.htm"
+          }
+        ],
+        "caption": {
+          "credit": "Alex Sergeev / Wikimedia Commons",
+          "text": "Robot-dżokej na wielbłądzie na torze Al Shahaniya w Katarze. Tak wyglądają dziś wyścigi, w których ludzi zastąpiły maszyny."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Robotic_camel_jockey_at_Al_Shahaniya_Racetrack.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Robotic_camel_jockey_at_Al_Shahaniya_Racetrack.jpg",
+          "credit": "Alex Sergeev (www.asergeev.com) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Wielbłąd z robotem-dżokejem na grzbiecie na torze wyścigowym",
+          "caption": "Robot-dżokej na torze Al Shahaniya."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Excel",
+        "initials": "EX",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Istnieją mistrzostwa świata w Excelu, transmitowane jak e-sport",
+        "summary": "Financial Modeling World Cup organizuje zawody, w których uczestnicy na czas rozwiązują zadania w Microsoft Excel. Rywalizację pokazywano nawet w ESPN.",
+        "body": [
+          "Financial Modeling World Cup to organizacja, która prowadzi turnieje oparte na Microsoft Excel. Zawodnicy dostają zadania z modelowania i analizy danych i rywalizują o czas oraz poprawność wyników.",
+          "O zawodach pisały media technologiczne, a rozgrywki pokazywano w telewizji sportowej ESPN, obok typowych transmisji e-sportowych."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Financial_Modeling_World_Cup"
+          },
+          {
+            "name": "PCWorld",
+            "url": "https://www.pcworld.com/article/559001/the-future-of-esports-is-microsoft-excel-and-its-on-espn.html"
+          }
+        ],
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Logo Financial Modeling World Cup, organizatora zawodów w Excelu."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Financial_Modeling_World_Cup_logo.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Financial_Modeling_World_Cup_logo.jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Logo Financial Modeling World Cup",
+          "caption": "Logo Financial Modeling World Cup."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Zegar słoneczny",
+        "initials": "ZS",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Istnieje cyfrowy zegar słoneczny: światło słońca samo układa się w cyfry godziny",
+        "summary": "Cyfrowy zegar słoneczny pokazuje czas cyframi utworzonymi przez promienie słońca. Nie ma ruchomych części ani zasilania.",
+        "body": [
+          "Klasyczny zegar słoneczny wskazuje godzinę cieniem. W cyfrowej wersji promienie słońca padające na urządzenie tworzą na tarczy cyfry aktualnej godziny.",
+          "Urządzenie nie ma ruchomych części i nie potrzebuje prądu. Wyświetlane cyfry zmieniają się w miarę, jak słońce przesuwa się po niebie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Digital_sundial"
+          },
+          {
+            "name": "Hines Lab",
+            "url": "http://www.hineslab.com/digital-sundial/"
+          }
+        ],
+        "caption": {
+          "credit": "Hans Scharstein / Wikimedia Commons",
+          "text": "Ilustracja z patentu cyfrowego zegara słonecznego. Pokazuje, jak promienie słońca tworzą na tarczy cyfry godziny."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/DigitalSundialPatentIllustration.png",
+          "href": "https://commons.wikimedia.org/wiki/File:DigitalSundialPatentIllustration.png",
+          "credit": "Hans Scharstein / Wikimedia Commons, domena publiczna",
+          "alt": "Rysunek patentowy cyfrowego zegara słonecznego",
+          "caption": "Rysunek patentowy cyfrowego zegara słonecznego."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Łódź konna",
+        "initials": "ŁK",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Na początku XIX wieku zbudowano łódź napędzaną przez osiem koni",
+        "summary": "„Experiment” była łodzią napędzaną siłą koni. Wykorzystywała też śrubę napędową, wtedy nowinkę.",
+        "body": [
+          "„Experiment” to łódź z początku XIX wieku. Zamiast pary czy wioseł napędzały ją konie, a według opisów z epoki było ich osiem.",
+          "Konstrukcja łączyła siłę zwierząt z pomysłem śruby napędowej, który w tamtym czasie był jeszcze nowością."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Experiment_(horse-powered_boat)"
+          },
+          {
+            "name": "Sheaff Ephemera",
+            "url": "http://www.sheaff-ephemera.com/list/powered_boats.html"
+          }
+        ],
+        "caption": {
+          "credit": "William Hamlin / Wikimedia Commons",
+          "text": "Rycina z 1808 r. przedstawiająca łódź napędzaną przez konie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/1808_horse_paddle-boat.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:1808_horse_paddle-boat.jpg",
+          "credit": "William Hamlin / Wikimedia Commons, domena publiczna",
+          "alt": "Rycina łodzi z końmi na pokładzie z 1808 roku",
+          "caption": "Łódź napędzana przez konie, rycina z 1808 r."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "USA",
+        "initials": "TT",
+        "category": "Zagadki",
+        "hype": 4,
+        "title": "W asfalcie ulic USA od lat 80. pojawiają się tajemnicze płytki z napisami. Nie wiadomo, kto je kładzie",
+        "summary": "Płytki Toynbee'ego znaleziono w asfalcie w ok. dwudziestu kilku miastach USA i trzech w Ameryce Południowej. Ich autor pozostaje nieznany.",
+        "body": [
+          "Od lat 80. na ulicach znaleziono kilkaset takich płytek. Zwykle mają rozmiar amerykańskiej tablicy rejestracyjnej, ok. 30 na 15 cm, i zawierają podobny napis, w którym pada nazwisko historyka Arnolda Toynbee'ego.",
+          "Niektóre płytki mają dodatkowe, zagadkowe hasła i zachęcają czytelników do tworzenia własnych. Kto zaczął je kłaść, do dziś nie zostało potwierdzone."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Toynbee_tiles"
+          },
+          {
+            "name": "toynbee.net (archiwum)",
+            "url": "https://web.archive.org/web/20071218004343/http://www.toynbee.net/"
+          }
+        ],
+        "caption": {
+          "credit": "Erifnam / Wikimedia Commons",
+          "text": "Płytka Toynbee'ego w asfalcie przy Franklin Square w Filadelfii, sfotografowana w 2002 r."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Toynbee_tile_at_franklin_square_2002.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Toynbee_tile_at_franklin_square_2002.jpg",
+          "credit": "Erifnam (English Wikipedia) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Płytka z napisem wtopiona w asfalt ulicy",
+          "caption": "Płytka Toynbee'ego przy Franklin Square."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Hokej",
+        "initials": "HK",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Na meczach hokeja w okresie świąt kibice po pierwszym golu rzucają na lód tysiące pluszowych misiów",
+        "summary": "Teddy bear toss to świąteczna tradycja w niższych ligach hokeja. Zebrane pluszaki trafiają do szpitali i organizacji charytatywnych.",
+        "body": [
+          "Kibice przynoszą na mecz pluszowe zabawki i rzucają je na lód, gdy gospodarze strzelą pierwszego gola. Tradycja jest najpopularniejsza w hokeju juniorskim i w niższych ligach.",
+          "Zabawki zbiera się i przekazuje jako prezenty szpitalom oraz organizacjom charytatywnym. Klub Hershey Bears z ligi AHL kilka razy bił rekord liczby rzuconych misiów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Teddy_bear_toss"
+          },
+          {
+            "name": "TheAHL.com",
+            "url": "https://theahl.com/news/hershey-breaks-teddy-bear-toss-record-again"
+          }
+        ],
+        "caption": {
+          "credit": "45BearsFan / Wikimedia Commons",
+          "text": "Lodowisko zasypane pluszakami podczas meczu Hershey Bears w 2025 r."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hershey_Bears_Teddy_bear_toss_2025.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Hershey_Bears_Teddy_bear_toss_2025.png",
+          "credit": "45BearsFan / Wikimedia Commons, CC0",
+          "alt": "Tafla lodowiska pokryta pluszowymi misiami",
+          "caption": "Teddy bear toss na meczu Hershey Bears."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Wielka Brytania",
+        "initials": "GB",
+        "category": "Język",
+        "hype": 3,
+        "title": "W angielskim jest osobne słowo na kogoś, kto lubi przyglądać się kanałom: „gongoozler”",
+        "summary": "Gongoozler to osoba, która z przyjemnością obserwuje ruch na brytyjskich kanałach. Słowo opisuje też miłośników kanałów, którzy sami nimi nie pływają.",
+        "body": [
+          "Słowo „gongoozler” oznacza kogoś, kto lubi patrzeć na życie na kanałach w Wielkiej Brytanii: przepływające łodzie, pracę śluz i ludzi na brzegu.",
+          "Używa się go też szerzej, wobec osób zainteresowanych kanałami i ich historią, ale nieuczestniczących w żegludze."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Gongoozler"
+          },
+          {
+            "name": "World Wide Words",
+            "url": "http://www.worldwidewords.org/weirdwords/ww-gon1.htm"
+          }
+        ],
+        "caption": {
+          "credit": "StephenDawson / Wikimedia Commons",
+          "text": "Śluzy Foxton Locks w Anglii, miejsce, które przyciąga obserwatorów kanałów."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/FoxtonLocks.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:FoxtonLocks.jpg",
+          "credit": "StephenDawson (English Wikipedia) / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Schodkowe śluzy kanału Foxton Locks z łodziami",
+          "caption": "Foxton Locks w Anglii."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-10-20": {
     "date": "2026-10-20",
     "ryby": [],

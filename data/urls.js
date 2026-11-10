@@ -1,5 +1,22 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-10": {
+  "luz": [
+   "artykuly/2026-11-10/to-znowu-oni-jak-bethesda-uproscila-swoje-otwarte-swiaty-analiza.html",
+   "artykuly/2026-11-10/nullizmatyka-zapowiada-trzeci-singiel-niedosyt-premiera-12-listopada.html",
+   "artykuly/2026-11-10/moreletv-jaki-pc-da-sie-zlozyc-za-2000-zl-w-listopadzie-2026.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-10/14-lat-przed-titanikiem-wyszla-powiesc-o-liniowcu-titan-ktory-tonie.html",
+   "artykuly/2026-11-10/w-katarze-i-zea-wielblady-w-wyscigach-dosiadaja-roboty-zamiast-ludzi.html",
+   "artykuly/2026-11-10/istnieja-mistrzostwa-swiata-w-excelu-transmitowane-jak-e-sport.html",
+   "artykuly/2026-11-10/istnieje-cyfrowy-zegar-sloneczny-swiatlo-slonca-samo-uklada-sie.html",
+   "artykuly/2026-11-10/na-poczatku-xix-wieku-zbudowano-lodz-napedzana-przez-osiem-koni.html",
+   "artykuly/2026-11-10/w-asfalcie-ulic-usa-od-lat-80-pojawiaja-sie-tajemnicze-plytki.html",
+   "artykuly/2026-11-10/na-meczach-hokeja-w-okresie-swiat-kibice-po-pierwszym-golu-rzucaja.html",
+   "artykuly/2026-11-10/w-angielskim-jest-osobne-slowo-na-kogos-kto-lubi-przygladac-sie.html"
+  ]
+ },
  "2026-11-09": {
   "luz": [
    "artykuly/2026-11-09/tamae-zmierzyl-sie-z-finalem-mlodziezowego-slowa-roku-2026-w-stawce.html",
