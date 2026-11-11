@@ -1,0 +1,2200 @@
+{
+ "run": {
+  "date": "2026-11-11",
+  "slot": "rano",
+  "generated_at": "2026-11-11T05:16:38.109Z",
+  "candidates": 101,
+  "with_free_image": 38,
+  "ready": 26
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 108",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4251",
+  "drugie-zrodlo": "ok 26/38"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że tegoroczny festiwal w Gdyni wygrał film o wystukiwaniu uczuć alfabetem Morse’a?",
+   "article": {
+    "title": "Przez ścianę",
+    "url": "https://pl.wikipedia.org/wiki/Przez_%C5%9Bcian%C4%99",
+    "extract": "Przez ścianę – polski melodramat filmowy z 2026 roku w reżyserii i według scenariusza Macieja Sobieszczańskiego, oparty na autentycznej historii miłości Wiesławy Pajdak i Jerzego Śmiechowskiego, która zrodziła się w warszawskim więzieniu przy ulicy Rakowieckiej na przełomie lat 40. i 50. XX wieku. W rolach głównych wystąpili Maria Dębska i Jakub Gierszał."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego w lipcu 1910 roku Ignacy Jan Paderewski zastąpił Adama Asnyka jako patrona krakowskiej ulicy?",
+   "article": {
+    "title": "Ulica Ignacego Paderewskiego w Krakowie",
+    "url": "https://pl.wikipedia.org/wiki/Ulica_Ignacego_Paderewskiego_w_Krakowie",
+    "extract": "Ulica Ignacego Paderewskiego – ulica w Krakowie, w Dzielnicy I Stare Miasto, na Kleparzu.\nŁączy Rynek Kleparski z Placem Jana Matejki. Jest jednojezdniowa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:UlicaIgnacegoPaderewskiego-WidokNaWschód-POL, Kraków.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który zesłaniec syberyjski po II wojnie światowej związał się z kinematografią argentyńską?",
+   "article": {
+    "title": "Tadeusz Bortnowski",
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Bortnowski",
+    "extract": "Tadeusz Bortnowski, znany również jako Tadeo Bortnowski (ur. 25 maja 1924 w Pińsku, zm. 21 listopada 2015) – polski operator filmowy, dokumentalista i korespondent wojenny, zesłaniec syberyjski, po II wojnie światowej związany z kinematografią argentyńską.\nWalczył przeciwko okupacji sowieckiej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że w jednym z odcinków japońskiej antologii filmów A Piece of Phantasmagoria słupy telegraficzne biegają po szklanym oceanie?",
+   "article": {
+    "title": "A Piece of Phantasmagoria",
+    "url": "https://pl.wikipedia.org/wiki/A_Piece_of_Phantasmagoria",
+    "extract": "A Piece of Phantasmagoria (jap. ア・ピース・オブ ファンタスマゴリア, stylizowane jako a piece of PHANTASMAGORIA) – seria piętnastu japońskich krótkometrażowych filmów animowanych stworzonych przez ilustratora Shigeru Tamurę w 1995 roku. Ich akcja rozgrywa się na fikcyjnej planecie Phantasmagoria, a filmy powstały jako część multimedialnego dzieła wydanego na CD-ROM-ie, opartego na ilustrowanej książce Tamury Phantasmagoria z 1989 roku. W 1995 roku były także emitowane w japońskiej telewizji satelitarnej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego stacja Cartoon Network w 1999 roku wycofała z emisji wszystkie filmy ze Speedym Gonzalesem?",
+   "article": {
+    "title": "Speedy Gonzales",
+    "url": "https://pl.wikipedia.org/wiki/Speedy_Gonzales",
+    "extract": "Speedy Gonzales – postać fikcyjna z serii kreskówek Warner Brothers, stworzona przez Roberta McKimsona i Friza Frelenga.\nOryginalnie głosu użyczali mu m.in. Mel Blanc, Joe Alaskey, Fred Armisen i Dino Andrade, a w wersji polskiej Tomasz Kozłowicz (w większości odcinków Zwariowanych melodii, filmów i seriali)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Speedy Gonzales at Celebration Parade, Six Flags Magic Mountain 2007-07 1.JPG)"
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co parodiował serial Niesamowity świat Gumballa?",
+   "article": {
+    "title": "Niesamowity świat Gumballa",
+    "url": "https://pl.wikipedia.org/wiki/Niesamowity_%C5%9Bwiat_Gumballa",
+    "extract": "Niesamowity świat Gumballa (ang. The Amazing World of Gumball) – amerykańsko-brytyjski serial animowany stworzony przez Bena Bocqueleta. Ogólnoświatowa premiera serialu odbyła się 2 maja 2011 roku na antenie Cartoon Network."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto zaprojektował rozbudowę Hotelu Diament Plaza w Katowicach?",
+   "article": {
+    "title": "Hotel Diament Plaza w Katowicach",
+    "url": "https://pl.wikipedia.org/wiki/Hotel_Diament_Plaza_w_Katowicach",
+    "extract": "Hotel Diament Plaza w Katowicach (właśc. Hotel Diament Plaza Katowice) – czterogwiazdkowy hotel w Katowicach, położony przy ulicy Dworcowej 9 i 11, na terenie dzielnicy Śródmieście, naprzeciwko kompleksu starego dworca kolejowego.\nPowstał w latach 60. XIX wieku jako hotel „Barisch”, a w kolejnych latach był wielokrotnie przebudowany."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Katowice Hotel Diament Plaza front 2026.jpg)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Christo and Jeanne-Claude: A pair of 20th century artists that became famous for their colossal environmental artworks, such as 1972's Valley Curtain and 2012's The Floating Piers.",
+   "article": {
+    "title": "Christo and Jeanne-Claude",
+    "url": "https://en.wikipedia.org/wiki/Christo_and_Jeanne-Claude",
+    "extract": "Christo Vladimirov Javacheff (1935–2020; Bulgarian: Христо Владимиров Явашев) and Jeanne-Claude Denat de Guillebon (1935–2009), known as Christo and Jeanne-Claude, were artists noted for their large-scale, site-specific environmental installations, often large landmarks and landscape elements wrapped in fabric, including the Wrapped Reichstag, The Pont Neuf Wrapped, Running Fence in California, and The Gates in New York City's Central Park.\nChristo and Jeanne-Claude were both born on June 13, 1935, in Bulgaria and Morocco, respectively. The pair met and married in Paris in the late 1950s. Originally working under Christo's name, they later credited their installations to both \"Christo and Jeanne-Claude\"."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Jean-Claude and Christo, May 2009 (4) (cropped).jpg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Doge (meme): very readers, such article, much wiki",
+   "article": {
+    "title": "Doge (meme)",
+    "url": "https://en.wikipedia.org/wiki/Doge_(meme)",
+    "extract": "Doge (usually  DOHJ,  DOHG or  DOHZH) is an Internet meme that became popular in 2013. It consists of a picture of a Shiba Inu dog that is accompanied in the foreground by multicolored text in the font Comic Sans. The text, representing a kind of internal monologue, is deliberately written in a form of broken English. The meme originally and most frequently uses an image of a Shiba Inu named Kabosu, though versions with other Shiba Inus are also popular."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Doge meme example.jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pepsi fruit juice flood: A PepsiCo warehouse collapse flooded the streets of Russia with an assortment of juices.",
+   "article": {
+    "title": "Pepsi fruit juice flood",
+    "url": "https://en.wikipedia.org/wiki/Pepsi_fruit_juice_flood",
+    "extract": "The Pepsi fruit juice flood was a flood of 94,000 barrels (14 million litres; 14,000 cubic meters; 3.4 million US gallons) of fruit and vegetable juices into the streets of Lebedyan, Russia, and the Don River, caused by the collapse of a PepsiCo warehouse."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Tale of Two Lovers: A 15th century erotic novel written by a future pope.",
+   "article": {
+    "title": "The Tale of Two Lovers",
+    "url": "https://en.wikipedia.org/wiki/The_Tale_of_Two_Lovers",
+    "extract": "The Tale of Two Lovers (Latin: Historia de duobus amantibus) (1444) is a novel by Aeneas Sylvius Piccolomini, the future Pope Pius II. It is one of the earliest examples of an epistolary novel, full of erotic imagery. The first printed edition was published by Ulrich Zell in Cologne between 1467 and 1470.\nThe novel is set in Siena, Italy, and centres on the love story of Lucretia, a married woman, and Euryalus, one of the men waiting on the Duke of Austria. After an uncertain beginning, in which each is in love but unaware that it is reciprocated, they begin a correspondence, which takes up much of the rest of the novel."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Euryalus Sends His First Letter to Lucretia - Google Art Project.jpg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Maidstone (film): A film notable for a real, bloody fight between its director and its star actor that was kept in the final edit.",
+   "article": {
+    "title": "Maidstone (film)",
+    "url": "https://en.wikipedia.org/wiki/Maidstone_(film)",
+    "extract": "Maidstone is a 1970 American independent drama film written, produced and directed by Norman Mailer. It stars Mailer, Rip Torn and Ultra Violet. The film focuses on a famous film director Norman Kingsley, who runs for president while a group of friends, relatives, employees and lobbyists gather to discuss possible assassination plots against him. The title refers to a private country club in East Hampton, New York."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "London Underground mosquito: A species of mosquito that lives in underground railways.",
+   "article": {
+    "title": "London Underground mosquito",
+    "url": "https://en.wikipedia.org/wiki/London_Underground_mosquito",
+    "extract": "The London Underground mosquito, Culex pipiens f. molestus, is a form of mosquito. It is named for its biting of people sleeping in the London Underground railway system during the Blitz, but it has a worldwide distribution and long predates the existence of the London Underground. It was first described in the 18th century based on Egyptian specimens by the biologist Peter Forsskål (1732–1763)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Culex Molestus.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2025 Africa Cup of Nations final: \"Won\" by Morocco, despite their loss to Senegal, under suspicious circumstances.",
+   "article": {
+    "title": "2025 Africa Cup of Nations final",
+    "url": "https://en.wikipedia.org/wiki/2025_Africa_Cup_of_Nations_final",
+    "extract": "The 2025 Africa Cup of Nations final was a football match played on 18 January 2026 at the Prince Moulay Abdellah Stadium in Rabat, Morocco. It determined the winners of the 2025 Africa Cup of Nations (AFCON), the 35th edition of the biennial African tournament organised by the Confederation of African Football (CAF), and was contested between Senegal and hosts Morocco.\nThe match was marred by controversies, most notably Senegal's decision to walk off the field in protest at a disallowed goal and detrimental VAR decision in stoppage time. Senegal later returned to the pitch, and played out the match, winning 1–0 after extra time."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Moulay Abdellah Stadium.jpg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Heladería Coromoto: Want a scoop of macaroni and cheese ice cream? How about beef? Chili? Cheese? Crab? Mushrooms in wine? British Airways? Viagra Hope?",
+   "article": {
+    "title": "Heladería Coromoto",
+    "url": "https://en.wikipedia.org/wiki/Helader%C3%ADa_Coromoto",
+    "extract": "Heladería Coromoto, commonly known as Coromoto, is an ice cream parlor in Merida, Venezuela, known for offering 860 flavors, a former Guinness World Record. However, it was topped by a record of 985 ice cream flavors by Matt and Mike Casarez of Migg and Mutts Craft Creamery in Black Hawk, Colorado, USA on July 17, 2011. Coromoto was established by Manuel da Silva Oliveira, who began his ice cream career at well-established ice cream firms, before founding the store in a bid to create more appealing ice cream flavors. Coromoto sells 60 different ice cream flavors in accordance with factors such as the weather."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Neon sign at Heladería Coromoto.jpg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Stinky tofu: Fermented soybean curd is apparently a delicacy for some people. One external link describes its scent as \"a used tampon baking in the desert.\"",
+   "article": {
+    "title": "Stinky tofu",
+    "url": "https://en.wikipedia.org/wiki/Stinky_tofu",
+    "extract": "Stinky tofu (Chinese: 臭豆腐; pinyin: chòu dòufu) is a traditional Chinese delicacy made from fermented tofu, renowned for its distinctive and pungent aroma. Despite its strong odor, it typically has a surprisingly mild and savoury flavour. \nIt is commonly sold as a snack at night markets or roadside stalls, or served as a side dish in casual eateries rather than in formal restaurants. Traditionally, stinky tofu is fermented for several months in a brine containing vegetables and meat."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Stinkender_Tofu_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stinkender_Tofu_1.JPG",
+    "file": "File:Stinkender Tofu 1.JPG",
+    "artist": "Pilzland",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1280,
+    "height": 957,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20130828190544/http://paper.sznews.com/szdaily/20060602/ca2324508.htm"
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pier Paolo Pasolini: Director of both one of the most beautiful films about Jesus ever made (which is kinda ironic considering he was a gay Marxist atheist) and one of the most disturbing movies ever made. He was one of the very few communists during the protests of 1968 to side with the police over the students. He naturally made a lot of enemies, and he got murdered by getting run over by his own car in 1975, with his assassins being, depending on who you ask, either a sole teenage prostitute or a team of neo-fascist terrorists.",
+   "article": {
+    "title": "Pier Paolo Pasolini",
+    "url": "https://en.wikipedia.org/wiki/Pier_Paolo_Pasolini",
+    "extract": "Pier Paolo Pasolini (Italian: [ˌpjɛr ˈpaːolo pazoˈliːni]; 5 March 1922 – 2 November 1975) was an Italian poet, revolutionary, writer, film director, actor and playwright. He is considered one of the defining public intellectuals in 20th-century Italian history, influential both as an artist and a political figure. He is known for directing The Gospel According to St. Matthew, Teorema, the films from Trilogy of Life (The Decameron, The Canterbury Tales and Arabian Nights) and Salò, or the 120 Days of Sodom."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/PierPaoloPasolini_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:PierPaoloPasolini_(crop).jpg",
+    "file": "File:PierPaoloPasolini (crop).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 713,
+    "height": 1006,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.repubblica.it/cultura/2021/11/15/news/pier_paolo_pasolini_l_uomo_l_artista_l_intellettuale_un_volume_in_digitale_dell_espresso-325751209/"
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "John B. Goodenough: Being good enough, this guy invented random access memory and the lithium-ion battery.",
+   "article": {
+    "title": "John B. Goodenough",
+    "url": "https://en.wikipedia.org/wiki/John_B._Goodenough",
+    "extract": "John Bannister Goodenough ( GUUD-in-uf; July 25, 1922 – June 25, 2023) was an American materials scientist, a solid-state physicist, and a Nobel laureate in chemistry. From 1986 he was a professor of Materials Science, Electrical Engineering and Mechanical Engineering,  at the University of Texas at Austin. He is credited with\nidentifying the Goodenough–Kanamori rules of the sign of the magnetic superexchange in materials, with developing materials for computer random-access magnetic memory and with inventing cathode materials for lithium-ion batteries.\nGoodenough was awarded the National Medal of Science, the Copley Medal, the Fermi Award, the Draper Prize, and the Japan Prize."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nobel_9_Dec_2019_029_copy_(49204051647)_(cropped).jpg",
+    "file": "File:Nobel 9 Dec 2019 029 copy (49204051647) (cropped).jpg",
+    "artist": "US Embassy Sweden",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 957,
+    "height": 1291,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nobelprize.org",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2019/goodenough/biographical/",
+    "title": "John B. Goodenough – Biographical - NobelPrize.org",
+    "matched": [
+     "goodenough",
+     "enough",
+     "invented",
+     "random",
+     "access",
+     "memory",
+     "lithium",
+     "battery"
+    ]
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Creeper and Reaper: The world's very first computer virus and computer antivirus, respectively.",
+   "article": {
+    "title": "Creeper and Reaper",
+    "url": "https://en.wikipedia.org/wiki/Creeper_and_Reaper",
+    "extract": "Creeper was the first computer worm, while Reaper was the first antivirus software, designed to eliminate Creeper."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/CreeperWorm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CreeperWorm.jpg",
+    "file": "File:CreeperWorm.jpg",
+    "artist": "Screenshot von User Worm&Virus",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 400,
+    "height": 300,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/technology/2009/oct/23/internet-history",
+    "title": "From the first email to the first YouTube video: a definitive internet history | Internet | The Guardian",
+    "matched": [
+     "creeper",
+     "reaper",
+     "world",
+     "computer",
+     "virus"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "James Strang: The polygamist Mormon pirate king of Beaver Island.",
+   "article": {
+    "title": "James Strang",
+    "url": "https://en.wikipedia.org/wiki/James_Strang",
+    "extract": "James Jesse Strang (March 21, 1813 – July 9, 1856) was an American religious leader, politician and self-proclaimed monarch. He served as a member of the Michigan House of Representatives from 1853 until his assassination.\nIn 1844, he said he had been appointed as the successor of Joseph Smith as leader of the Church of Jesus Christ of Latter Day Saints (Strangite), a faction of the Latter Day Saint movement. Strang testified that he had possession of a letter from Smith naming him as his successor, and furthermore reported that he had been ordained to the prophetic office by an angel."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Picture_of_James_Strang.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Picture_of_James_Strang.png",
+    "file": "File:Picture of James Strang.png",
+    "artist": "WasTNOT",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 341,
+    "height": 569,
+    "ok": true
+   },
+   "second_source": {
+    "name": "strangite.org",
+    "url": "http://www.strangite.org",
+    "title": "Church of Jesus Christ of Latter Day Saints · Faith, History, and Original Records",
+    "matched": [
+     "james",
+     "strang",
+     "mormon",
+     "beaver",
+     "island"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Weasel war dance: The behavior of extremely excited ferrets who are enjoying themselves too much.",
+   "article": {
+    "title": "Weasel war dance",
+    "url": "https://en.wikipedia.org/wiki/Weasel_war_dance",
+    "extract": "The weasel war dance or mustelid war dance is a colloquial term for the behavior of excited ferrets and other members of the weasel subfamily. Naturalists speculate that weasels in the wild use the dance to confuse or disorient prey."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vinnie_the_Ferret_in_a_War_Dance_Jump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vinnie_the_Ferret_in_a_War_Dance_Jump.jpg",
+    "file": "File:Vinnie the Ferret in a War Dance Jump.jpg",
+    "artist": "Inkrat773 (talk · contribs)",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 462,
+    "height": 378,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ghostarchive.org",
+    "url": "https://ghostarchive.org/varchive/youtube/20211212/VdRXuyBOyow",
+    "title": "Ozzy the Weasel's War Dance. This is how weasels hunt. | Ghostarchive",
+    "matched": [
+     "weasel",
+     "dance",
+     "behavior",
+     "excited",
+     "ferrets",
+     "enjoying"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Owl House (museum): Not the acclaimed cartoon that aired on Disney Channel; this is an outdoor museum that was created by a reclusive outsider artist who decorated her inherited house with over 300 glass and concrete sculptures of owls, camels, peacocks, pyramids, and other forms.",
+   "article": {
+    "title": "The Owl House (museum)",
+    "url": "https://en.wikipedia.org/wiki/The_Owl_House_(museum)",
+    "extract": "The Owl House is a museum in Nieu-Bethesda, Eastern Cape, South Africa. The owner, Helen Martins, turned her house and the area around it into a visionary environment, elaborately decorated with ground glass and containing more than 300 concrete sculptures including owls, camels, peacocks, pyramids, and people. She inherited the house from her parents and began its transformation after they died."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Owl_house_2003_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Owl_house_2003_18.JPG",
+    "file": "File:Owl house 2003 18.JPG",
+    "artist": "Robin Tweedie",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 432,
+    "height": 576,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20061213111508/http://www.pbs.org/independentlens/offthemap/html/travelogue_artist_8.htm"
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sebastián Abreu: Prolific Uruguayan striker, most known for switching through clubs like his underwear.",
+   "article": {
+    "title": "Sebastián Abreu",
+    "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Abreu",
+    "extract": "Washington Sebastián Abreu Gallo (Spanish pronunciation: [seβasˈtjan aˈβɾew]; is a Uruguayan professional football manager and former player who is currently the head coach of Liga MX club Tijuana. Nicknamed \"El Loco\" (lit. 'the Madman'), over a 26-year playing career he carved out a place in football history as one of the game's most well-travelled figures, representing 32 clubs across 11 countries. \nA former striker, across 700 league appearances Abreu scored 338 goals, collecting honours with San Lorenzo and River Plate in Argentina, Nacional in Uruguay, Botafogo in Brazil and Santa Tecla in El Salvador. His prolific scoring also saw him finish as the top scorer in Mexico's top division on four separate occasions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SEBASTIAN_ABREU_%2816821761936%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SEBASTIAN_ABREU_(16821761936)_(cropped).jpg",
+    "file": "File:SEBASTIAN ABREU (16821761936) (cropped).jpg",
+    "artist": "Agencia de Noticias ANDES",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 487,
+    "height": 730,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20261011104246/https://www.espn.com.sg/soccer/story/_/id/46085889/the-unique-careers-soccers-greatest-journeyman-players",
+    "title": "The unique careers of soccer's greatest journeyman players - ESPN",
+    "matched": [
+     "sebastian",
+     "abreu",
+     "uruguayan",
+     "striker",
+     "switching",
+     "through",
+     "clubs"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "DATE World: An official alternate history scenario created by the United States Army to be used as a detailed military exercise simulation.",
+   "article": {
+    "title": "DATE World",
+    "url": "https://en.wikipedia.org/wiki/DATE_World",
+    "extract": "The Decisive Action Training Environment, or DATE World, is a fictional universe created by the U.S. Army to serve as a medium for training the U.S. Military and its allies. It is an alternate history of Earth with a similar, but distinctly different political geography. Certain areas of the world are nearly identical to real life, while others contain entirely made-up countries, each with its own detailed political, social, economic, and military structures. The reason for maintaining a complex fictional universe is said to be that \"real-world countries cannot be an adversarial country\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/U.S._Army_logo_of_the_Decisive_Action_Training_Environment.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:U.S._Army_logo_of_the_Decisive_Action_Training_Environment.png",
+    "file": "File:U.S. Army logo of the Decisive Action Training Environment.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 200,
+    "height": 200,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20250714112905/https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2025/Training-Environment-Indo-Pacific/",
+    "title": "The Army's Training Environment: Enabling Indo-Pacific Integrated Deterrence",
+    "matched": [
+     "world",
+     "official",
+     "alternate",
+     "history",
+     "scenario",
+     "created",
+     "united",
+     "states",
+     "detailed",
+     "military",
+     "exercise",
+     "simulation"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tzuyu Incident: A K-pop idol is accused of supporting Taiwanese separatism and ends up influencing the Taiwanese presidential election.",
+   "article": {
+    "title": "Tzuyu Incident",
+    "url": "https://en.wikipedia.org/wiki/Tzuyu_Incident",
+    "extract": "The Tzuyu Incident or Tzuyu Scandal happened in late 2015 when Huang An, a pro-unification Taiwanese entertainer, accused Tzuyu, a Taiwanese member of South Korean girl group Twice who carried the flag of Taiwan on an episode of My Little Television, of supporting Taiwanese Separatists. Huang's post on Weibo sparked anti-Taiwanese sentiment among mainland Chinese netizens, which led to a boycott of Tzuyu, Twice, and their management company JYP Entertainment. This resulted in the cancellation of Tzuyu's mobile advertising model contract, and Twice's pre-booked performance in China. An apology video was uploaded to JYP Entertainment's official YouTube channel on January 15 in which she described herself as \"Chinese\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Chou_Tzu-yu_performing_at_SAC_2016_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chou_Tzu-yu_performing_at_SAC_2016_03.jpg",
+    "file": "File:Chou Tzu-yu performing at SAC 2016 03.jpg",
+    "artist": "Hey Day",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 623,
+    "height": 938,
+    "ok": true
+   },
+   "second_source": {
+    "name": "newbloommag.net",
+    "url": "https://newbloommag.net/2016/01/19/chou-tzuyu-incident/",
+    "title": "The Chou Tzuyu Incident and Entertainment as a Site of Conflict About National Identity | New Bloom Magazine",
+    "matched": [
+     "tzuyu",
+     "incident",
+     "accused",
+     "supporting",
+     "taiwanese",
+     "influencing",
+     "presidential",
+     "election"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "NI tank: 69 improvised tanks made due to Soviet shortages during the Siege of Odessa; almost all were captured after the city fell to Romania.",
+   "article": {
+    "title": "NI tank",
+    "url": "https://en.wikipedia.org/wiki/NI_tank",
+    "extract": "The NI tank also known as the Odessa tank (; Russian: Танк НИ tank NI, abbr."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NI_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NI_tank.jpg",
+    "file": "File:NI tank.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 850,
+    "height": 619,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tanks-encyclopedia.com",
+    "url": "http://www.tanks-encyclopedia.com/ww2/soviet/soviet_NI_Odessa_tank.php",
+    "title": "Odessa Tank / NI - Tank Encyclopedia",
+    "matched": [
+     "69",
+     "improvised",
+     "tanks",
+     "soviet",
+     "shortages",
+     "siege",
+     "odessa",
+     "almost",
+     "captured",
+     "romania"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Wizard of New Zealand: The Prime Minister of New Zealand gave a friend the title of \"Wizard of New Zealand.\"",
+   "article": {
+    "title": "The Wizard of New Zealand",
+    "url": "https://en.wikipedia.org/wiki/The_Wizard_of_New_Zealand",
+    "extract": "The Wizard of New Zealand (born Ian Brackenbury Channell; 4 December 1932) is a British-born New Zealand educator, comedian, illusionist, and politician. He is also known by his shorter name, The Wizard."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Christchurchwizard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Christchurchwizard.jpg",
+    "file": "File:Christchurchwizard.jpg",
+    "artist": "Lossenelin (talk) (Uploads)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 580,
+    "height": 736,
+    "ok": true
+   },
+   "second_source": {
+    "name": "edition.cnn.com",
+    "url": "https://edition.cnn.com/2020/08/08/asia/new-zealand-wizard-intl-hnk-dst/index.html",
+    "title": "This New Zealand man gets paid $10,000 a year to be a city’s official wizard | CNN",
+    "matched": [
+     "wizard",
+     "zealand",
+     "title"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bob Lemon: A below-average MLB hitter suddenly gets put on pitching duty after other players said he was good at it when they fought in World War II together. Now he's in the Hall of Fame.",
+   "article": {
+    "title": "Bob Lemon",
+    "url": "https://en.wikipedia.org/wiki/Bob_Lemon",
+    "extract": "Robert Granville Lemon (September 22, 1920 – January 11, 2000) was an American right-handed pitcher and manager in Major League Baseball (MLB). He was elected to the National Baseball Hall of Fame in 1976.\nLemon grew up in Long Beach, California where he played high school baseball and was the state player of the year in 1938. At the age of 17, he began a professional baseball career playing in the Cleveland Indians organization, with whom he played for his entire professional career."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/BobLemonCLE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:BobLemonCLE.png",
+    "file": "File:BobLemonCLE.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 656,
+    "height": 946,
+    "ok": true
+   },
+   "second_source": {
+    "name": "sabr.org",
+    "url": "https://sabr.org/bioproj/person/bob-lemon/",
+    "title": "Bob Lemon – Society for American Baseball Research",
+    "matched": [
+     "lemon",
+     "below",
+     "average",
+     "hitter",
+     "pitching",
+     "players",
+     "world",
+     "together"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kanchō: Popular among East Asian children, this \"game\" is played by going up to someone and sneakily poking them in the ass.",
+   "article": {
+    "title": "Kanchō",
+    "url": "https://en.wikipedia.org/wiki/Kanch%C5%8D",
+    "extract": "Kanchō (カンチョー; pronounced [kaɲtɕoː]) is a prank performed by clasping the hands together in the shape of a finger gun and poking the anus of an unsuspecting person, often while exclaiming \"Kan-cho!\" It is a common prank in East Asian countries such as Japan. In Korea, it is called ttongchim (똥침; 똥針, pronounced [t͈oŋ.tɕʰim]), and in China, qiānnián shā (千年殺, \"thousand-year kill\" or \"immortal kill\"). The word \"kanchō\" is a slang adoption of the Japanese word for enema (浣腸, kanchō). In accordance with widespread practice, the word is generally written in katakana when used in its slang sense and in kanji when used for enemas in the medical sense."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kancho_2021-08-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kancho_2021-08-20.jpg",
+    "file": "File:Kancho 2021-08-20.jpg",
+    "artist": "Asanagi",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 650,
+    "height": 366,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110531012338/http://www.newsreview.com/reno/stranger-in-a-strange-land/content?oid=1361861",
+    "title": "Stranger in a strange land - Feature Story - Local Stories - January 28, 2010 - Reno News & Review",
+    "matched": [
+     "among",
+     "children",
+     "going",
+     "someone",
+     "sneakily"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Guerrilla gardening: \"Quick… torch on… plant those carrots!\"",
+   "article": {
+    "title": "Guerrilla gardening",
+    "url": "https://en.wikipedia.org/wiki/Guerrilla_gardening",
+    "extract": "Guerrilla gardening is the act of gardening – raising food, plants, or flowers – on land that gardeners do not have the legal right to cultivate, such as abandoned sites, neglected public spaces, or private property. It encompasses a diverse range of people and motivations, ranging from gardeners who garden beyond their legal boundaries in defiance of state or local property laws, to gardeners with a deliberate political purpose, who seek to initiate change by using guerrilla gardening methods as a form of protest or direct action.\nThe term, \"guerrilla gardening\" blends the Spanish word guerrilla (meaning \"little war\") with gardening to symbolize grassroots, activist-style tactics used to help nature reclaim public or private space.\nGuerrilla gardening often challenges social norms concerning land rights, aiming to promote criticism of how public institutions or private land owners manag"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Guerilla_Gardening_in_front_of_Flying_Pigeon_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Guerilla_Gardening_in_front_of_Flying_Pigeon_LA.jpg",
+    "file": "File:Guerilla Gardening in front of Flying Pigeon LA.jpg",
+    "artist": "Umberto Brayj",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 480,
+    "height": 640,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20100430234621/http://guerrillagardening.org/community/index.php",
+    "title": "guerrillagardening.org - Index",
+    "matched": [
+     "guerrilla",
+     "gardening",
+     "plant"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Disappearance of Frederick Valentich: An Australian pilot disappeared in the ocean, having seen a strange object above his aircraft. No trace of either his body or the aircraft have been found.",
+   "article": {
+    "title": "Disappearance of Frederick Valentich",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich",
+    "extract": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait. On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\".\nThere were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance, and some of their officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Valentich_disappearance.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png",
+    "file": "File:Valentich disappearance.png",
+    "artist": "Bass-Strasse.png: The original uploader was Ulfl at German Wikipedia. derivative work: TVJunkie",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 551,
+    "height": 561,
+    "ok": true
+   },
+   "second_source": {
+    "name": "skepticalinquirer.org",
+    "url": "https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/",
+    "title": "The Valentich Disappearance: Another UFO Cold Case Solved | Skeptical Inquirer",
+    "matched": [
+     "disappearance",
+     "frederick",
+     "valentich",
+     "australian",
+     "pilot",
+     "disappeared",
+     "having",
+     "strange",
+     "object",
+     "above",
+     "aircraft"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hyper Text Coffee Pot Control Protocol: Protocol for controlling and monitoring coffee pots. Attempting to use a teapot while brewing coffee will yield you the \"HTTP 418: I'm a teapot\" error message.",
+   "article": {
+    "title": "Hyper Text Coffee Pot Control Protocol",
+    "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol",
+    "extract": "The Hyper Text Coffee Pot Control Protocol (HTCPCP) is a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. As part of Internet Engineering Task Force's Request for Comments, RFC 2324 is published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank. An extension, HTCPCP-TEA, was published as RFC 7168 on 1 April 2014 to support brewing teas, also as an April Fools' Day RFC in error 418.\nIn June 2022, the IETF published RFC 9110 which included a change marking HTTP 418 as unused."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Htcpcp_teapot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Htcpcp_teapot.jpg",
+    "file": "File:Htcpcp teapot.jpg",
+    "artist": "A.cilia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 800,
+    "height": 535,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tools.ietf.org",
+    "url": "http://tools.ietf.org/html/rfc2324",
+    "title": "RFC 2324: Hyper Text Coffee Pot Control Protocol (HTCPCP&#x2F;1.0) | RFC Editor",
+    "matched": [
+     "418",
+     "hyper",
+     "coffee",
+     "control",
+     "protocol",
+     "controlling",
+     "monitoring",
+     "attempting",
+     "teapot",
+     "brewing",
+     "error",
+     "message"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "DNA origami: Two different types of nanoscale origami.",
+   "article": {
+    "title": "DNA origami",
+    "url": "https://en.wikipedia.org/wiki/DNA_origami",
+    "extract": "DNA origami is the nanoscale folding of DNA to create arbitrary two- and three-dimensional shapes at the nanoscale. The specificity of the interactions between complementary base pairs makes DNA a useful construction material, through the design of its base sequences. DNA is a well-understood material that is suitable for creating scaffolds that hold other molecules in place or to create structures all on its own.\nDNA origami was the cover story of Nature on March 16, 2006."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:DNA_Origami.png",
+    "file": "File:DNA Origami.png",
+    "artist": "Origamimonkey",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 240,
+    "height": 419,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3523823",
+    "title": "Cryo-EM structure of a 3D DNA-origami object - PMC",
+    "matched": [
+     "origami",
+     "different",
+     "nanoscale"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rocket mail: The delivery of mail by rocket or missile, attempted by various organisations in many different countries, with varying levels of success.",
+   "article": {
+    "title": "Rocket mail",
+    "url": "https://en.wikipedia.org/wiki/Rocket_mail",
+    "extract": "Rocket mail is the delivery of mail by rocket or missile.  The rocket lands by deploying an internal parachute upon arrival.  It has been attempted by various organizations in many countries, with varying levels of success. It has never become widely seen as being a viable option for delivering mail, due to the cost of the schemes and numerous failures."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Regulus_missile.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Regulus_missile.png",
+    "file": "File:Regulus missile.png",
+    "artist": "US Navy",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 290,
+    "height": 219,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20201126130715/https://www.postaltimes.com/postalnews/the-rise-and-fall-of-rocket-mail/"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Candiru (fish): Barbed fish allegedly attracted to, lodged in, and extracted from human penises.",
+   "article": {
+    "title": "Candiru (fish)",
+    "url": "https://en.wikipedia.org/wiki/Candiru_(fish)",
+    "extract": "Candiru are South American catfish of a parasitic or scavenging niche. The species known as candiru are not necessarily closely related."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Candiru_catfishes_in_Brazil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Candiru_catfishes_in_Brazil.jpg",
+    "file": "File:Candiru catfishes in Brazil.jpg",
+    "artist": "Ivan Sazima, Jansen Zuanon, Efrem J. G. Ferreira",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1256,
+    "height": 946,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5501477"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Boris Skossyreff: Belarusian adventurer, who tried to seize the monarchy of Andorra and called himself Boris I of Andorra.",
+   "article": {
+    "title": "Boris Skossyreff",
+    "url": "https://en.wikipedia.org/wiki/Boris_Skossyreff",
+    "extract": "Boris Mikhailovich Skossyreff (12 June 1896 – 27 February 1989) was a Belarusian adventurer, con artist and pretender who attempted to seize the monarchy of the Principality of Andorra during the early 1930s, styling himself King Boris I of Andorra.\nSkossyreff was born in Lithuania to a family of lower nobility from Belarus. Following the outbreak of the 1917 Russian Revolution, Skossyreff was able to seek political asylum in England, where he enlisted in the British army for the end of World War I. This was followed by his work in the British Foreign Office. He moved to the Netherlands in the mid-1920s, where he was in a list of Prominent Foreign Revolutionaries in 1924, prepared by the General Intelligence and Security Service, in which he was noted as an international swindler."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Boris_I_Andorra_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Boris_I_Andorra_(cropped).jpg",
+    "file": "File:Boris I Andorra (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 509,
+    "height": 652,
+    "ok": true
+   },
+   "second_source": {
+    "name": "historyfiles.co.uk",
+    "url": "https://www.historyfiles.co.uk/FeaturesEurope/EasternRussia_Skossyreff01.htm",
+    "title": "Boris Skossyreff",
+    "matched": [
+     "boris",
+     "skossyreff",
+     "belarusian",
+     "adventurer",
+     "tried",
+     "seize",
+     "monarchy",
+     "andorra",
+     "himself"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ugly stick: An instrument in Newfoundland, an insult everywhere else.",
+   "article": {
+    "title": "Ugly stick",
+    "url": "https://en.wikipedia.org/wiki/Ugly_stick",
+    "extract": "The ugly stick is a Newfoundland musical instrument fashioned out of household and tool shed items, typically a mop handle with bottle caps, tin cans, small bells and other noise makers. The instrument is played with a drum stick or notched stick and has a distinctive sound."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anchor_Aweigh_Band_-_Ugly_Stick_Demo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Anchor_Aweigh_Band_-_Ugly_Stick_Demo_(cropped).jpg",
+    "file": "File:Anchor Aweigh Band - Ugly Stick Demo (cropped).jpg",
+    "artist": "Todd Wight",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 312,
+    "height": 507,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://research.library.mun.ca/6154/"
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Chanel suit of Jacqueline Kennedy: Made iconic by being worn during her husband's assassination.",
+   "article": {
+    "title": "Pink Chanel suit of Jacqueline Kennedy",
+    "url": "https://en.wikipedia.org/wiki/Pink_Chanel_suit_of_Jacqueline_Kennedy",
+    "extract": "Jacqueline Bouvier Kennedy was wearing a pink suit that was styled in the fashion of Chanel when her husband, U.S. president John F. Kennedy, was assassinated in Dallas, Texas, on November 22, 1963. She insisted on wearing the suit, stained with his blood, during the swearing-in of Lyndon B. Johnson that afternoon and for the flight back to Washington, D.C. Jacqueline Kennedy was a fashion icon, and the suit is the most referenced and revisited among her clothing items.\nMade of wool bouclé, the double-breasted raspberry pink and navy trim collared suit was matched with a trademark pink pillbox hat and white gloves. A long-time question among fashion historians and experts, about whether the suit was made by Chanel in France or a quality copy purchased from New York's semiannual Chez Ninon collections, was resolved by a Coco Chanel biographer, Justine Picardie."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_and_Mrs_Kennedy_deplane_from_Air_Force_One_%283083217259%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:President_and_Mrs_Kennedy_deplane_from_Air_Force_One_(3083217259)_(cropped).jpg",
+    "file": "File:President and Mrs Kennedy deplane from Air Force One (3083217259) (cropped).jpg",
+    "artist": "Cecil W. Stoughton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 356,
+    "height": 548,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150629220544/http://fashion.telegraph.co.uk/columns/belinda-white/TMG8422114/Giorgio-Armani-made-a-Chanel-suit-for-Katie-Holmes.html",
+    "title": "Giorgio Armani made a Chanel suit for Katie Holmes - Telegraph",
+    "matched": [
+     "chanel",
+     "jacqueline",
+     "kennedy",
+     "iconic",
+     "assassination"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Iván Buhajeruk: An Argentine YouTuber who in 2024 signed a contract with the Deportivo Riestra club to play a professional soccer match……and possibly the person with the shortest professional football career in history, as he was substituted after 59 seconds.",
+   "article": {
+    "title": "Spreen",
+    "url": "https://en.wikipedia.org/wiki/Spreen",
+    "extract": "Iván Raúl Buhajeruk Fernández (born 11 October 2000), better known as Spreen, is an Argentine streamer, YouTuber and exfootballer."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Spreen_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Spreen_2024.jpg",
+    "file": "File:Spreen 2024.jpg",
+    "artist": "CapitanTick3",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 420,
+    "height": 560,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.clarin.com/tecnologia/spreen-streamer-argentino-metio-podio-populares-habla-hispana_0_AwxfEGf2Ib.html"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Toluca were unable to host an international tournament at their stadium because it lacked floodlights?",
+   "article": {
+    "title": "1969 Copa Interamericana",
+    "url": "https://en.wikipedia.org/wiki/1969_Copa_Interamericana",
+    "extract": "The 1969 Copa Interamericana was the first edition of the Copa Interamericana, a football cup contested between the winners of the CONCACAF Champions Cup, representing North America, and the Copa Libertadores, representing South America. The cup was contested by Argentine club Estudiantes de La Plata, winners of the 1968 Copa Libertadores, and Mexican club Toluca, winners of the 1968 CONCACAF Champions' Cup. It was played across three games in February 1969.\nIn the first leg, hosted at Estadio Azteca in Mexico City, Estudiantes defeated Toluca 2–1."
+   },
+   "related": [
+    "Toluca FC"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Plantel_de_Estudiantes_de_La_Plata_festejando_la_obtenci%C3%B3n_de_la_Copa_Interamericana_-_19690221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Plantel_de_Estudiantes_de_La_Plata_festejando_la_obtenci%C3%B3n_de_la_Copa_Interamericana_-_19690221.jpg",
+    "file": "File:Plantel de Estudiantes de La Plata festejando la obtención de la Copa Interamericana - 19690221.jpg",
+    "artist": "Unknown authorUnknown author.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 998,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.rsssf.org/tablesi/intam.html"
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Love Land (South Korea): An erotic-themed sculpture park on Jeju Island in South Korea.",
+   "article": {
+    "title": "Love Land (South Korea)",
+    "url": "https://en.wikipedia.org/wiki/Love_Land_(South_Korea)",
+    "extract": "Jeju Loveland (Korean: 제주러브랜드; also \"Love Land\") is an outdoor sculpture park which opened in 2004 in Jeju Province, South Korea. The park is themed around sex. It plays sex education films and has 140 sculptures of humans in various sex positions. It also has other elements such as large phallus statues, stone labia, and hands-on exhibits such as a \"masturbation-cycle\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Love_Land_interactive_articulated_puppet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Love_Land_interactive_articulated_puppet.jpg",
+    "file": "File:Love Land interactive articulated puppet.jpg",
+    "artist": "gdimension",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 500,
+    "height": 375,
+    "ok": true
+   },
+   "second_source": {
+    "name": "spiegel.de",
+    "url": "https://www.spiegel.de/international/spiegel/sex-education-in-korea-a-phallus-garden-in-love-land-a-431224.html",
+    "title": "Sex Education in Korea: A Phallus Garden in \"Love Land\" - DER SPIEGEL",
+    "matched": [
+     "sculpture",
+     "island",
+     "south",
+     "korea"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Scarlett's Magic: Given the Key to the City of Corona, California for being the world's tallest and longest cat.",
+   "article": {
+    "title": "Scarlett's Magic",
+    "url": "https://en.wikipedia.org/wiki/Scarlett%27s_Magic",
+    "extract": "Scarlett's Magic (born 6 March 2008) is a black spotted tabby F1 Savannah cat from the US, acclaimed by the Guinness World Records as the former world's tallest living domestic cat. The record has since been broken by Arcturus Aldebaran Powers who stands 48.5 cm (19.1 in) tall."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Guinness_Cat_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Guinness_Cat_6.jpg",
+    "file": "File:Guinness Cat 6.jpg",
+    "artist": "Leekimbud",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 575,
+    "height": 428,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nbclosangeles.com",
+    "url": "https://www.nbclosangeles.com/news/local/Worlds-Tallest-Pet-Cat-Scarletts-Magic-60308722.html",
+    "title": "Exotic Cat Takes World Height Record – NBC Los Angeles",
+    "matched": [
+     "scarlett",
+     "magic",
+     "corona",
+     "california",
+     "world",
+     "tallest"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Baldwin Street: A short suburban road in Dunedin, New Zealand, reputedly the world's steepest street.",
+   "article": {
+    "title": "Baldwin Street",
+    "url": "https://en.wikipedia.org/wiki/Baldwin_Street",
+    "extract": "Baldwin Street, in Dunedin, New Zealand, is located in the residential suburb of North East Valley, 3.5 kilometres (2.2 mi) northeast of Dunedin's central business district. Guinness World Records calls it the steepest street in the world, meaning no street gains more altitude in 10 horizontal metres (33 ft), measured along the street's centreline."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Baldwinstreet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Baldwinstreet.jpg",
+    "file": "File:Baldwinstreet.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "guinnessworldrecords.com",
+    "url": "https://www.guinnessworldrecords.com/news/2020/4/baldwin-street-in-new-zealand-reinstated-as-the-worlds-steepest-street-614287",
+    "title": "Baldwin Street in New Zealand reinstated as the world’s steepest street | Guinness World Records",
+    "matched": [
+     "baldwin",
+     "street",
+     "dunedin",
+     "zealand",
+     "world",
+     "steepest"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bolivian Navy: A 5,000 man navy for a landlocked country who really miss having a coastline.",
+   "article": {
+    "title": "Bolivian Navy",
+    "url": "https://en.wikipedia.org/wiki/Bolivian_Navy",
+    "extract": "The Bolivian Navy (Spanish: Armada Boliviana) is a branch of the Armed Forces of Bolivia. As of 2018, the Bolivian Navy had approximately 5,000 personnel. Although Bolivia has been landlocked since the War of the Pacific and the Treaty of Peace and Friendship (1904), Bolivia established a River and Lake Force (Fuerza Fluvial y Lacustre) in January 1963 under the Ministry of National Defense. It consisted of four boats supplied from the United States and 1,800 personnel recruited largely from the Bolivian Army."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/ArmadaAB.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:ArmadaAB.png",
+    "file": "File:ArmadaAB.png",
+    "artist": "Ministerio de Defensa de Bolivia",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 487,
+    "height": 473,
+    "ok": true
+   },
+   "second_source": {
+    "name": "wired.com",
+    "url": "https://www.wired.com/story/bolivian-navy/",
+    "title": "Bolivia Is Landlocked. Don&#x27;t Tell That to Its Navy | WIRED",
+    "matched": [
+     "5000",
+     "bolivian",
+     "landlocked",
+     "country",
+     "coastline"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1935 Prince Edward Island general election: When you win so much, you have to have your own party members act as the opposition.",
+   "article": {
+    "title": "1935 Prince Edward Island general election",
+    "url": "https://en.wikipedia.org/wiki/1935_Prince_Edward_Island_general_election",
+    "extract": "The 1935 Prince Edward Island general election was held in the Canadian province of Prince Edward Island on 23 July 1935. The Liberal Party led by Walter Lea swept the board by winning every seat in every constituency. This was the first time that a government in the British Commonwealth would face no opposition in an elected chamber.  To date, that feat has only been accomplished one other time in Canadian history, the 1987 New Brunswick election."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Walter_Maxfield_Lea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Walter_Maxfield_Lea.jpg",
+    "file": "File:Walter Maxfield Lea.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 653,
+    "height": 859,
+    "ok": true
+   },
+   "second_source": {
+    "name": "canadashistory.ca",
+    "url": "http://www.canadashistory.ca/Magazine/Online-Exclusive/Articles/Lea-s-Landslide#.UpdiUwJGBJc.email",
+    "title": "Lea&#x27;s Landslide - Canada&#x27;s History",
+    "matched": [
+     "1935",
+     "prince",
+     "edward",
+     "island",
+     "general",
+     "election",
+     "party",
+     "members",
+     "opposition"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "27 Club: A number of prominent musicians have died at this age, though statisticians attribute the \"club\" to apophenia – seeing patterns in random data. (See also the related white lighter myth.)",
+   "article": {
+    "title": "27 Club",
+    "url": "https://en.wikipedia.org/wiki/27_Club",
+    "extract": "The 27 Club is an informal list consisting mostly of popular musicians who died at age 27. As a pop-cultural phenomenon, it is closely linked to the urban myth that musicians' deaths are unusually common at 27. Although this claim has been refuted by scientific research, it remains a common cultural conception that the phenomenon exists, with many celebrities who die at 27 noted for their high-risk lifestyles. \nThe original basis for the notion was a cluster of prominent musicians' deaths at the age of 27 between 1969 and 1971, including Brian Jones, Jimi Hendrix, Janis Joplin, and Jim Morrison; but only after the death of Kurt Cobain in 1994 was the notion of a \"club\" established, and the death of Amy Winehouse in 2011 enhanced its prominence."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jim_Morrison_-_Young_Lion_%281967%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jim_Morrison_-_Young_Lion_(1967)_(1).jpg",
+    "file": "File:Jim Morrison - Young Lion (1967) (1).jpg",
+    "artist": "Joel Brodsky, Distributed by Elektra Records",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1135,
+    "height": 1475,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://theconversation.com/the-27-club-is-a-myth-56-is-the-bum-note-for-musicians-33586"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Witch window: A superstitious practice in the State of Vermont to prevent witches from flying through open windows at night.",
+   "article": {
+    "title": "Witch window",
+    "url": "https://en.wikipedia.org/wiki/Witch_window",
+    "extract": "In American vernacular architecture, a witch window (also known as a Vermont window, among other names) is a window (usually a double-hung sash window, occasionally a single-sided casement window) placed in the gable-end wall of a house and rotated approximately 1/8 of a turn (45 degrees) from the vertical, leaving it diagonal, with its long edge parallel to the roof slope. This technique allows a builder to fit a full-sized window into the long, narrow wall space between two adjacent roof lines, where a window would not otherwise fit.\nWitch windows are found almost exclusively in or near the U.S. state of Vermont, generally in the central and northern parts of the state. They are principally installed in farmhouses from the 19th century, and can be found less frequently in new construction."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vermont_window.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vermont_window.jpg",
+    "file": "File:Vermont window.jpg",
+    "artist": "Piledhigheranddeeper at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 980,
+    "height": 790,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20200407003128/https://www.timesargus.com/news/building-blocks-exploring-witch-windows-in-vt/article_e688c115-858d-5cd7-9c53-5228b9e25e40.html",
+    "title": "Building Blocks Exploring witch windows in Vt. | News | timesargus.com",
+    "matched": [
+     "witch",
+     "window",
+     "superstitious",
+     "practice",
+     "state",
+     "vermont",
+     "witches",
+     "through",
+     "windows",
+     "night"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cagot: A group that were a persecuted minority in France and Spain into the 20th century, and nobody really knows why.",
+   "article": {
+    "title": "Cagot",
+    "url": "https://en.wikipedia.org/wiki/Cagot",
+    "extract": "The Cagots (pronounced [ka.ɡo]) were a persecuted minority who lived in the west of France and northern Spain: the Navarrese Pyrenees, Basque provinces, Béarn, Aragón, Gascony and Brittany. Evidence of the group exists as far back as 1000 CE. The name they were known by varied across the regions where they lived.\nThe origins of the Cagots remain uncertain, with various hypotheses proposed throughout history. Some theories suggest they were descendants of biblical or legendary figures cursed by God, or the descendants of medieval lepers, while others propose they were related to the Cathars or even a fallen guild of carpenters."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Agotes_Navarre_espagnole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Agotes_Navarre_espagnole.jpg",
+    "file": "File:Agotes Navarre espagnole.jpg",
+    "artist": "Jmenj",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 500,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20201020235639/https://newrepublic.com/article/61993/bicycle-history",
+    "title": "David A. Bell: Bicycle History | The New Republic",
+    "matched": [
+     "20",
+     "cagot",
+     "group",
+     "france",
+     "spain",
+     "century",
+     "really",
+     "knows"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Myra Clark Gaines: The woman who initiated the longest-running court case, lasting 57 years.",
+   "article": {
+    "title": "Myra Clark Gaines",
+    "url": "https://en.wikipedia.org/wiki/Myra_Clark_Gaines",
+    "extract": "Myra Clark Gaines (June 5, 1805 – January 9, 1885) was an American socialite and plaintiff in the longest-running lawsuit in the history of the United States court system. From 1834 to 1891, Gaines was at the center of a legal battle to recognize her legal status as the sole heir of her deceased father's estate and remedy to recover valuable land in New Orleans. During its 57-year history in the courtroom, the Gaines cases appeared before the Supreme Court seventeen times and the Louisiana state and federal court at least seventy times. The Gaines cases are notable not only because of their length and complexity but also due to the controversial image and perseverance of Myra Clark Gaines herself, particularly at a time when women were confined to a domestic, dutiful ideal of femininity."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Myra_Clak_Gaines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Myra_Clak_Gaines.jpg",
+    "file": "File:Myra Clak Gaines.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 885,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://lasc.libguides.com/Myra-Clark-Gaines"
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dick Butkus: A Pro Football Hall of Famer who played 9 years for the Chicago Bears.",
+   "article": {
+    "title": "Dick Butkus",
+    "url": "https://en.wikipedia.org/wiki/Dick_Butkus",
+    "extract": "Richard Marvin Butkus (December 9, 1942 – October 5, 2023) was an American professional football player, sports commentator, and actor. He was a linebacker for the Chicago Bears of the National Football League (NFL) from 1965 to 1973. He was invited to eight Pro Bowls in nine seasons, named a first-team All-Pro five times, and was twice recognized by his peers as the NFL's Defensive Player of the Year. Butkus was renowned as a fierce tackler and for the relentless effort with which he played."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dickbutkus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dickbutkus.jpg",
+    "file": "File:Dickbutkus.jpg",
+    "artist": "Alan Light",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 806,
+    "height": 1172,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://content.usatoday.com/communities/thehuddle/post/2010/11/who-is-nfls-greatest-player-nfl-network-reveals-no-1-thursday-night/1"
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tulip mania: The first recorded asset bubble was for Dutch tulips, which at the peak of the mania sold for 10 times a skilled artisan's income. Disputed to have ever occurred by some.",
+   "article": {
+    "title": "Tulip mania",
+    "url": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "extract": "Tulip mania (Dutch: tulpenmanie) was a period during the Dutch Golden Age when contract prices for some bulbs of the recently introduced and fashionable tulip reached extraordinarily high levels. The major acceleration started in 1634 and then dramatically collapsed in February 1637. It is generally considered to have been the first recorded speculative bubble or asset bubble in history.\nIn many ways, the tulip mania was more of a socio-economic phenomenon than a significant economic crisis."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg",
+    "file": "File:Jan Brueghel the Younger, Satire on Tulip Mania, c. 1640.jpg",
+    "artist": "Jan Brueghel the Younger",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 767,
+    "ok": true
+   },
+   "second_source": {
+    "name": "amsterdammuseum.nl",
+    "url": "https://www.amsterdammuseum.nl/en/exhibition/in-de-ban-van-de-tulp/85592",
+    "title": "Mini-expo: Under the Tulip&#x27;s Spell | Amsterdam Museum",
+    "matched": [
+     "10",
+     "tulip",
+     "mania",
+     "bubble",
+     "dutch",
+     "tulips",
+     "times"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yasuke: An African man who ended up becoming a retainer for Oda Nobunaga, one of Japan's most important feudal lords, in 1581.",
+   "article": {
+    "title": "Yasuke",
+    "url": "https://en.wikipedia.org/wiki/Yasuke",
+    "extract": "Yasuke (Japanese: 弥助 / 弥介; pronounced [jasɯ̥ke]) was a samurai of African origin who served Oda Nobunaga between 1581 and 1582, during the Sengoku period, until Nobunaga's death.\nAccording to historical accounts, Yasuke first arrived in Japan in the service of Italian Jesuit Alessandro Valignano. Nobunaga summoned him out of a desire to see a black man. Subsequently, Nobunaga took him into his service and gave him the name Yasuke."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rinpa_style_ink-stone_box_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rinpa_style_ink-stone_box_(cropped).jpg",
+    "file": "File:Rinpa style ink-stone box (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 506,
+    "height": 496,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20240716194719/https://www.britannica.com/biography/Yasuke",
+    "title": "Yasuke | African Samurai, History, Oda Nobunaga, & Japan | Britannica",
+    "matched": [
+     "1581",
+     "yasuke",
+     "african",
+     "ended",
+     "retainer",
+     "nobunaga",
+     "japan"
+    ]
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Centennial Light: A light bulb that has been burning nonstop for 124 years.",
+   "article": {
+    "title": "Centennial Light",
+    "url": "https://en.wikipedia.org/wiki/Centennial_Light",
+    "extract": "The Centennial Light is an incandescent light bulb recognized as the oldest known operating light bulb. It was first illuminated in 1901, and has only been turned off a few brief times since. It is located at 4550 East Avenue, Livermore, California, and is open to public viewing. Due to its longevity, the bulb has been noted by The Guinness Book of World Records, Ripley's Believe It or Not!, and General Electric."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Livermore_Centennial_Light_Bulb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Livermore_Centennial_Light_Bulb.jpg",
+    "file": "File:Livermore Centennial Light Bulb.jpg",
+    "artist": "LPS.1",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1024,
+    "height": 1536,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.guinnessworldrecords.com/world-records/longest-burning-light-bulb"
+   }
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+   "article": {
+    "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+    "url": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+    "extract": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War. In 1775, Congress appointed Putnam as one of the first four major generals of the Continental Army. He commanded the New England m"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bundesbüdchen in Bonn, Germany",
+   "article": {
+    "title": "Bundesbüdchen in Bonn, Germany",
+    "url": "https://www.atlasobscura.com/places/bundesbudchen",
+    "extract": "In 1949, West Germany was debating the location for its provisional government. After lengthy back-and-forth—the mayor of Frankfurt, Walter Kolb, had even pre-recorded a victory speech—the choice came to Bonn. A university town known as little more than the birthplace of Beethoven, Bonn had seen little wartime damage, had few ties to the Third Reich, and lacked the gravitas that a larger city migh"
+   },
+   "published": "Tue, 10 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grissom Air Museum in Peru, Indiana",
+   "article": {
+    "title": "Grissom Air Museum in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/grissom-air-museum",
+    "extract": "If you've seen the movie “Top Gun: Maverick,” there are so many references and jokes to be made here. This is, after all, an air museum built near a former active air base. There are four loosely worded references to quotes from “Top Gun: Maverick” contained within this report. Can you find them all? The Grissom Air Museum opened in 1991 and is primarily focused on military aviation during the Col"
+   },
+   "published": "Tue, 10 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Check Out the Playlist for Our New Book",
+   "article": {
+    "title": "Check Out the Playlist for Our New Book",
+    "url": "https://www.atlasobscura.com/articles/check-out-the-playlist-for-our-new-book",
+    "extract": "Our latest book, “America Obscura: An Explorer’s Guide to the Hidden Wonders of the United States,” has just been published. But it doesn’t just take you to Texas or Maine or Michigan. It takes you to a town called Hell, to a desert in one of the greenest states, to a sundial on the exact spot where America's day begins, and to a seven-story Jesus nicknamed “Our Milk Carton with Arms.” These are r"
+   },
+   "published": "Tue, 10 Nov 2026 06:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Drunken Lampposts in Halifax, Nova Scotia",
+   "article": {
+    "title": "Drunken Lampposts in Halifax, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/drunken-lampposts-halifax",
+    "extract": "Along the Halifax Waterfront in Nova Scotia, a group of lampposts appears to have had a little too much to drink. Commonly known as the \"Drunken Lampposts,\" these unusual public art installations bring a humorous twist to the city's lively nightlife. Created by NSCAD University alumni Chris Hanson and Hendrika Sonnenberg, the installations are officially titled \"Fountain: and :Get Drunk, Fall Down"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+   "article": {
+    "title": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+    "url": "https://www.atlasobscura.com/places/jurassic-jungle-boat-ride",
+    "extract": "Just outside of Dollywood is a relatively nondescript building squished between many other independently operated tourist traps and minor amusement park attractions. Out of all of these offerings for family vacationers though, the Jurassic Jungle Boat Ride seems to be particularly infamous among theme park enthusiasts. This ride has often been touted among thrill seekers and ride enthusiasts as on"
+   },
+   "published": "Mon, 09 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+   "article": {
+    "title": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/marvin-the-mastodon",
+    "extract": "Standing high above the highway in Stewiacke, Nova Scotia, is Marvin the Mastodon, a life-sized replica of a prehistoric giant that once roamed the region. Measuring 14 feet tall and 22 feet long, the enormous statue was erected at Mastodon Ridge in January 1995 to commemorate a remarkable discovery made just a few years earlier. In 1991, while excavating a sinkhole at the National Gypsum Quarry n"
+   },
+   "published": "Mon, 09 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+   "article": {
+    "title": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+    "url": "https://www.atlasobscura.com/places/mussel-village-bruinisse",
+    "extract": "On the edge of the lowlands of Zeeland lies a village dedicated to celebrating the mussel fishing industry. A vital part of life in Bruinisse for centuries, mussel farming has long been one of the main sources of income for the local area. Bruinisse harbour is the heart of the village and is home to a large, active mussel fleet. The mussel season runs from July to April, with mussel cutters settin"
+   },
+   "published": "Mon, 09 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Fuente de los Niños Miones in Guadalajara, Mexico",
+   "article": {
+    "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+    "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+    "extract": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982. It sits on Morelo"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+   "article": {
+    "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+    "url": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
+    "extract": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death. More than 30 Portuguese inmates "
+   },
+   "published": "Fri, 06 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+   "article": {
+    "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+    "url": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
+    "extract": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years."
+   },
+   "published": "Fri, 06 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Statue of Lord Laddu Gopal in Agra, India",
+   "article": {
+    "title": "Statue of Lord Laddu Gopal in Agra, India",
+    "url": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
+    "extract": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded iron and steel, turning scrap metal into a striking piece of public art. It features a striking peacock feather that towers over the Ambedk"
+   },
+   "published": "Fri, 06 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+   "article": {
+    "title": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+    "url": "https://www.mentalfloss.com/literature/books/colin-meloy-wildwood-interview?utm_source=RSS",
+    "extract": "The author and Decemberists frontman talks Portland, AI, and the universal stories behind his novel, now a movie from Laika Studios."
+   },
+   "published": "Wed, 11 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Books Kurt Vonnegut Considered His Best—and Worst",
+   "article": {
+    "title": "The Books Kurt Vonnegut Considered His Best—and Worst",
+    "url": "https://www.mentalfloss.com/literature/books/kurt-vonnegut-best-worst-books?utm_source=RSS",
+    "extract": "In 1981, Kurt Vonnegut gave his own books a report card from A+ to D. Here is how he graded his best work—and the self-portrait that got his lowest mark."
+   },
+   "published": "Wed, 11 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Surprising Daily Routine Jane Austen Followed While Writing Her Novels",
+   "article": {
+    "title": "The Surprising Daily Routine Jane Austen Followed While Writing Her Novels",
+    "url": "https://www.mentalfloss.com/literature/authors/jane-austen-daily-routine?utm_source=RSS",
+    "extract": "Jane Austen never had a room of her own. Instead, she completed all of her published works in the middle of her family's bustling sitting room in their Chawton cottage."
+   },
+   "published": "Tue, 10 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "8 Famous Musicians Who Appeared on ‘Sesame Street’",
+   "article": {
+    "title": "8 Famous Musicians Who Appeared on ‘Sesame Street’",
+    "url": "https://www.mentalfloss.com/entertainment/tv/famous-musicians-on-sesame-street?utm_source=RSS",
+    "extract": "From Johnny Cash's song for Oscar the Grouch to B. B. King's ode to the letter \"b,\" these 'Sesame Street' appearances by famous musicians were unforgettable."
+   },
+   "published": "Tue, 10 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "75 Holiday Jokes That Are So Funny, You'll Want to Share Them With Everyone",
+   "article": {
+    "title": "75 Holiday Jokes That Are So Funny, You'll Want to Share Them With Everyone",
+    "url": "https://www.mentalfloss.com/holidays/holiday-jokes-funny-share-with-everyone?utm_source=RSS",
+    "extract": "These jokes are sure to add a little laughter to your Thanksgiving, Christmas, and New Year's celebrations!"
+   },
+   "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Surprising Facts About ‘Bridgerton’",
+   "article": {
+    "title": "20 Surprising Facts About ‘Bridgerton’",
+    "url": "https://www.mentalfloss.com/entertainment/tv/bridgerton-netflix-tv-show-facts?utm_source=RSS",
+    "extract": "Netflix’s period hit ‘Bridgerton’ has taken the world by storm. Learn about the series while you wait for season 5."
+   },
+   "published": "Fri, 22 Jan 2021 10:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Original Name for ‘Sesame Street’ Wasn't Nearly as Catchy",
+   "article": {
+    "title": "The Original Name for ‘Sesame Street’ Wasn't Nearly as Catchy",
+    "url": "https://www.mentalfloss.com/entertainment/tv/original-name-sesame-street-wasn-t-as-catchy?utm_source=RSS",
+    "extract": "The beloved show's first title was the name of an actual street in the East Village."
+   },
+   "published": "Tue, 10 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Veterans Day Was Originally Called Armistice Day",
+   "article": {
+    "title": "Why Veterans Day Was Originally Called Armistice Day",
+    "url": "https://www.mentalfloss.com/holidays/why-veterans-day-originally-called-armistice-day?utm_source=RSS",
+    "extract": "The name and the meaning of Veterans Day have changed throughout history to include all those who have served in the military."
+   },
+   "published": "Tue, 10 Nov 2026 15:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Map Shows America's Favorite Thanksgiving Desserts",
+   "article": {
+    "title": "Map Shows America's Favorite Thanksgiving Desserts",
+    "url": "https://www.mentalfloss.com/geography/maps/most-popular-thanksgiving-desserts-by-state-map?utm_source=RSS",
+    "extract": "DoorDash data reveals the most popular Thanksgiving desserts in every state, from classic pumpkin pie to surprising chocolate cake."
+   },
+   "published": "Tue, 10 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1980s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1980s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1980s-still-use-today?utm_source=RSS",
+    "extract": "The decade of MTV, shoulder pads, and big hair gave us some of our favorite and most expressive words."
+   },
+   "published": "Mon, 09 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best Cities in the U.S. For Veterans, Mapped",
+   "article": {
+    "title": "The Best Cities in the U.S. For Veterans, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-cities-for-veterans?utm_source=RSS",
+    "extract": "Discover the best and worst cities for veterans in the U.S. in 2026, based on job opportunities, healthcare, and more."
+   },
+   "published": "Mon, 09 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why ‘Sesame Street’s Oscar the Grouch Was Originally a Different Color",
+   "article": {
+    "title": "Why ‘Sesame Street’s Oscar the Grouch Was Originally a Different Color",
+    "url": "https://www.mentalfloss.com/entertainment/tv/sesame-street-oscar-the-grouch-originally-different-color?utm_source=RSS",
+    "extract": "The beloved children’s show turns 57 on November 10. Learn this behind-the-scenes story about Oscar the Grouch from ‘Sesame Street.’"
+   },
+   "published": "Mon, 09 Nov 2026 19:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+   "article": {
+    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+    "extract": "Across seven yellow notepad pages, King is seen wrestling with word choice and revising his remarks the night before the March on Washington. The manuscript will head to auction in January and is expected to pull in more than $10 million"
+   },
+   "published": "Tue, 10 Nov 2026 21:45:09 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+   "article": {
+    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+    "extract": "A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions"
+   },
+   "published": "Tue, 10 Nov 2026 21:17:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+   "article": {
+    "title": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+    "url": "https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853/",
+    "extract": "First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction"
+   },
+   "published": "Tue, 10 Nov 2026 17:27:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+   "article": {
+    "title": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+    "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/",
+    "extract": "The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+   "article": {
+    "title": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+    "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/",
+    "extract": "The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+   "article": {
+    "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+    "url": "https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851/",
+    "extract": "Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed \"crazy\" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization"
+   },
+   "published": "Tue, 10 Nov 2026 12:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+   "article": {
+    "title": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+    "url": "https://www.smithsonianmag.com/smart-news/while-cleaning-out-her-aunts-manhattan-apartment-a-woman-found-a-long-lost-georgia-okeeffe-painting-buried-beneath-fur-coats-in-the-closet-180989848/",
+    "extract": "Painted in 1930, \"Near Abiquiu, New Mexico I\" sat in the closet for 40 years, with only a single photograph, by O'Keeffe’s husband, Alfred Stieglitz, attesting to its existence. It could fetch upwards of $3 million at auction this month"
+   },
+   "published": "Mon, 09 Nov 2026 19:55:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+   "article": {
+    "title": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+    "url": "https://www.smithsonianmag.com/smart-news/neolithic-cannibalism-wasnt-an-act-of-desperation-almost-1000-skeletal-fragments-from-caves-in-southern-spain-show-how-eating-human-flesh-was-a-continual-practice-180989849/",
+    "extract": "More than five decades after hordes of prehistoric bones were unearthed from three caves in Granada, new forensic techniques show how communities continued to consume their dead across distinct cultural eras"
+   },
+   "published": "Mon, 09 Nov 2026 18:11:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+   "article": {
+    "title": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+    "url": "https://www.smithsonianmag.com/smart-news/the-great-pacific-garbage-patch-has-accumulated-so-many-microplastics-they-might-be-changing-the-color-of-the-ocean-180989828/",
+    "extract": "Satellite data suggests water in and around the huge area filled with human-made debris has become more blue-green over the past two decades. Computer simulations suggest microplastics are to blame, but researchers need samples to confirm their hypothesis"
+   },
+   "published": "Mon, 09 Nov 2026 16:36:58 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+   "article": {
+    "title": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+    "url": "https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/",
+    "extract": "A tomb discovered in Siberia and associated with Scythians—a nomadic, horse-riding people that once roamed the Eurasian steppe—might provide the earliest direct evidence of cannabis use"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+   "article": {
+    "title": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+    "url": "https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/",
+    "extract": "More people are swapping animal products with vegan milks, yogurts and cheeses, so scientists wanted to investigate the potential public health effects. Their findings hint that consumers should look for items with extra nutrients added, called fortified foods"
+   },
+   "published": "Mon, 09 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+   "article": {
+    "title": "Where Did Stonehenge's Mysterious, Six-Ton Altar Stone Really Come From? Geologists Rule Out the Scottish Hypothesis as the Search Deepens",
+    "url": "https://www.smithsonianmag.com/smart-news/where-did-stonehenges-mysterious-six-ton-altar-stone-really-come-from-geologists-rule-out-the-scottish-hypothesis-as-search-deepens-180989833/",
+    "extract": "A comprehensive investigation of the sandstone megalith’s \"geological fingerprint\" suggests it did not originate in northeast Scotland, as a surprising study concluded in 2024, sending scientists back into the field to track down the enigmatic slab's origins"
+   },
+   "published": "Fri, 06 Nov 2026 21:41:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+   "article": {
+    "title": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/04/przebaczamy-i-prosimy-o-przebaczenie-dlaczego-komunisci-oskarzyli-polskich-biskupow-o-zdrade/",
+    "extract": "W 1965 roku polscy biskupi skierowali do niemieckich duchownych historyczne orędzie, w którym padły słowa o przebaczeniu i pojednaniu. Reakcja władz PRL była gwałtowna. Prymasa Stefana Wyszyńskiego oskarżono o zdradę, a komunistyczna propaganda rozpętała kampanię przeciwko Kościołowi. Dlaczego gest pojednania z Niemcami wywołał tak wielkie oburzenie? The post „Przebaczamy i prosimy o przebaczenie”"
+   },
+   "published": "Wed, 04 Nov 2026 11:53:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "PRL. Największe katastrofy",
+   "article": {
+    "title": "PRL. Największe katastrofy",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/03/prl-najwieksze-katastrofy/",
+    "extract": "Po sukcesie książki PRL od kuchni Sławomir Koper i Mariusz Mucha postanowili przybliżyć czytelnikom największe katastrofy epoki PRL-u. The post PRL. Największe katastrofy first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 03 Nov 2026 14:06:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+   "article": {
+    "title": "Miała leczyć Breżniewa, ogłosiła się królową Asyrii. Kim była tajemnicza Dżuna?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/02/miala-leczyc-brezniewa-oglosila-sie-krolowa-asyrii-kim-byla-tajemnicza-dzuna/",
+    "extract": "Twierdziła, że potrafi uzdrawiać dotykiem i przepowiadać przyszłość. Bywała na moskiewskich salonach, obracała się wśród polityków i artystów, a jej niezwykłe zdolności miały pomagać nawet najważniejszym ludziom Związku Radzieckiego. Dżuna Dawitaszwili stała się jedną z najbardziej zagadkowych postaci swojej epoki. Gdzie kończyła się prawda, a zaczynała starannie budowana legenda? The post Miała l"
+   },
+   "published": "Mon, 02 Nov 2026 21:34:13 +0000",
+   "image": null
+  }
+ ]
+}
