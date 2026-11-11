@@ -186,18 +186,18 @@ async function opublikuj(imageUrl, caption) {
     const { status_code } = await api(kontener, { params: { fields: 'status_code' } });
     if (status_code === 'FINISHED') break;
     if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`Kontener ${kontener}: ${status_code}`);
-    await sleep(5000);
+    await sleep(8000);
   }
   const { id } = await api(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kontener } });
   return id;
 }
 
 async function czekajNaKontener(kontener) {
-  for (let i = 0; i < 30; i++) {
+  for (let i = 0; i < 20; i++) {
     const { status_code } = await api(kontener, { params: { fields: 'status_code' } });
     if (status_code === 'FINISHED') return;
     if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`Kontener ${kontener}: ${status_code}`);
-    await sleep(5000);
+    await sleep(8000);
   }
   throw new Error(`Kontener ${kontener}: Instagram nie przetworzył obrazu w 150 s`);
 }
@@ -229,6 +229,25 @@ async function opublikujKaruzele(slajdy, caption) {
   const { id } = await api(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kontener } });
   return id;
 }
+
+// Ostatnie posty z profilu. Meta potrafi zwrócić błąd przy media_publish (np. „Application request limit
+// reached”), a post i tak wychodzi. 9–10.11.2026 przez to każda karuzela poszła 3 razy. Dlatego przed publikacją
+// i po każdym błędzie sprawdzamy profil. null = nie udało się sprawdzić (wtedy nie publikujemy, żeby nie zdublować).
+async function ostatniePosty() {
+  try {
+    const { data = [] } = await api(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp', limit: '30' } });
+    return data;
+  } catch (e) { log('Nie udało się pobrać ostatnich postów z profilu:', e.message); return null; }
+}
+// Post z profilu, w którego opisie jest tytuł newsa (opis karuzeli zawiera tytuły wszystkich newsów).
+export function postZNewsem(news, posty) {
+  const t = news?.title?.trim();
+  if (!t || !posty) return null;
+  return posty.find((p) => (p.caption ?? '').includes(t)) ?? null;
+}
+// Limity Meta (kody 4, 17, 32, 613): to nie błąd newsa, tylko „spróbuj później”.
+export const toLimitApi = (msg = '') => /request limit|rate limit|too many calls|limit reached/i.test(msg);
+const ostrzezenie = (m) => console.log(`::warning title=Instagram::${m}`);
 
 async function wolnyLimit() {
   try {
@@ -333,6 +352,31 @@ async function main() {
   } else {
     kandydaci = wszystkie.filter((x) => !stan.opublikowane[x.sciezka]);
   }
+  // Przed wyborem: newsy, które już są na profilu (np. po fałszywym błędzie Meta), oznaczamy jako opublikowane.
+  if (!DRY) {
+    if (!env.IG_TOKEN) throw new Error('Brak sekretu IG_TOKEN w repo.');
+    // IG_USER_ID jest opcjonalny: bez niego pytamy API, do kogo należy token.
+    if (!env.IG_USER_ID) {
+      const ja = await api('me', { params: { fields: 'user_id,username' } });
+      env.IG_USER_ID = ja.user_id;
+      log(`Konto: @${ja.username} (${ja.user_id})`);
+    }
+    const posty = await ostatniePosty();
+    if (!posty) {
+      ostrzezenie('Nie da się teraz sprawdzić profilu (pewnie limit API Meta). Nic nie publikuję, żeby nie zdublować postów; newsy czekają na następną godzinę.');
+      return;
+    }
+    let odzyskane = 0;
+    kandydaci = kandydaci.filter((x) => {
+      const p = postZNewsem(x.news, posty);
+      if (!p) return true;
+      stan.opublikowane[x.sciezka] = { media_id: p.id, kiedy: p.timestamp, odzyskane: true };
+      odzyskane++;
+      log(`= już jest na profilu, nie wrzucam drugi raz: ${x.news.title}`);
+      return false;
+    });
+    if (odzyskane) zapiszStan(stan);
+  }
   const karuzela = !!slot;
   const W_POSCIE = harmonogram().newsow_w_poscie ?? 5;
   const limit = karuzela ? W_POSCIE : env.IG_TYLKO ? 1 : MAKS;
@@ -402,20 +446,13 @@ async function main() {
     return;
   }
 
-  if (!env.IG_TOKEN) throw new Error('Brak sekretu IG_TOKEN w repo.');
-  // IG_USER_ID jest opcjonalny: bez niego pytamy API, do kogo należy token.
-  if (!env.IG_USER_ID) {
-    const ja = await api('me', { params: { fields: 'user_id,username' } });
-    env.IG_USER_ID = ja.user_id;
-    log(`Konto: @${ja.username} (${ja.user_id})`);
-  }
   const sha = commitStanu(`Instagram: karty (${nowe.length})`);
   let wolne = await wolnyLimit();
   let bledy = 0;
   const raw = (plik) => `https://raw.githubusercontent.com/${REPO}/${sha}/karty/${encodeURIComponent(plik)}`;
 
   if (karuzela) {
-    if (wolne <= 2) { log('Limit publikacji Instagrama na 24 h prawie wyczerpany, slot zostaje otwarty.'); process.exitCode = 1; return; }
+    if (wolne <= 2) { ostrzezenie('Limit publikacji Instagrama na 24 h prawie wyczerpany, newsy czekają na następną godzinę.'); return; }
     try {
       const id = await opublikujKaruzele([...nowe.map((x) => ({ url: raw(nazwa(x)), oznacz: oznaczenia(x.news) })), { url: raw(FOLLOW) }], opisK);
       const kiedy = new Date().toISOString();
@@ -425,12 +462,26 @@ async function main() {
       log(`✓ karuzela ${slot.klucz} (${nowe.length} newsów) → ${id}`);
     } catch (e) {
       log(`✗ karuzela ${slot.klucz}: ${e.message}`);
-      stan.bledy ??= {};
-      for (const x of nowe) {
-        stan.bledy[x.sciezka] = (stan.bledy[x.sciezka] ?? 0) + 1;
-        if (stan.bledy[x.sciezka] >= 3) stan.opublikowane[x.sciezka] = { pominiete: `3 nieudane próby: ${e.message.slice(0, 200)}` };
+      // Meta bywa w błędzie, a post i tak wychodzi: chwila przerwy i sprawdzenie profilu.
+      await sleep(30_000);
+      const posty = await ostatniePosty();
+      const p = postZNewsem(nowe[0].news, posty);
+      if (p) {
+        for (const x of nowe) stan.opublikowane[x.sciezka] = { media_id: p.id, kiedy: p.timestamp, slot: slot.klucz };
+        stan.sloty ??= {};
+        stan.sloty[slot.klucz] = { sciezki: nowe.map((x) => x.sciezka), media_id: p.id, ...(typ && { typ }) };
+        log(`✓ mimo błędu karuzela ${slot.klucz} jest na profilu → ${p.id}`);
+      } else if (toLimitApi(e.message) || !posty) {
+        // Limit Meta: nie liczymy próby (newsy nie przepadają). Następna godzina i tak najpierw sprawdzi profil.
+        ostrzezenie(`Limit API Meta (${e.message.slice(0, 150)}). Karuzela ${slot.klucz} nie wyszła, newsy czekają na następną godzinę.`);
+      } else {
+        stan.bledy ??= {};
+        for (const x of nowe) {
+          stan.bledy[x.sciezka] = (stan.bledy[x.sciezka] ?? 0) + 1;
+          if (stan.bledy[x.sciezka] >= 3) stan.opublikowane[x.sciezka] = { pominiete: `3 nieudane próby: ${e.message.slice(0, 200)}` };
+        }
+        process.exitCode = 1; // prawdziwy błąd: run na czerwono (mail z GitHuba), newsy spróbują w kolejnej godzinie
       }
-      process.exitCode = 1; // slot zostaje otwarty, ponowi następny przebieg z crona (do maks_opoznienie_min)
     }
     zapiszStan(stan);
     commitStanu(`Instagram: karuzela ${slot.klucz}`);
