@@ -1,5 +1,23 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-11": {
+  "luz": [
+   "artykuly/2026-11-11/final-piatego-sezonu-mafii-irl-u-friza-ponad-milion-wyswietlen.html",
+   "artykuly/2026-11-11/jake-paul-i-cedric-doumbe-pierwszy-raz-twarza-w-twarz-konferencja.html",
+   "artykuly/2026-11-11/young-multi-ruszyl-z-zamowieniami-albumu-lost-media-promowal.html",
+   "artykuly/2026-11-11/blowek-znowu-kupil-wszystko-z-reklam-ai-czwarta-czesc-serii-w-ktorej.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-11/boliwia-nie-ma-dostepu-do-morza-ale-ma-marynarke-wojenna-z-ok-5-tys.html",
+   "artykuly/2026-11-11/internet-ma-oficjalny-protokol-do-parzenia-kawy-stad-wzial-sie-blad.html",
+   "artykuly/2026-11-11/najbardziej-stroma-ulica-swiata-wedlug-guinnessa-jest-w-nowej-zelandii.html",
+   "artykuly/2026-11-11/w-vermont-montowano-okna-na-skos-bo-czarownice-podobno-nie-umieja.html",
+   "artykuly/2026-11-11/w-kalifornii-kot-dostal-klucz-do-miasta-za-to-ze-byl-najwyzszym-kotem.html",
+   "artykuly/2026-11-11/pierwszy-robak-komputerowy-nazywal-sie-creeper-a-pierwszy-antywirus.html",
+   "artykuly/2026-11-11/nowa-zelandia-ma-oficjalnego-czarodzieja-miasto-christchurch-placilo.html",
+   "artykuly/2026-11-11/podekscytowane-fretki-wykonuja-wojenny-taniec-lasicy-tak-nazywa-sie.html"
+  ]
+ },
  "2026-11-10": {
   "luz": [
    "artykuly/2026-11-10/to-znowu-oni-jak-bethesda-uproscila-swoje-otwarte-swiaty-analiza.html",

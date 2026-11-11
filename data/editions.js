@@ -1,5 +1,476 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-11": {
+    "date": "2026-11-11",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-10",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Program",
+        "hype": 4,
+        "title": "Finał piątego sezonu „Mafii IRL” u Friza. Ponad milion wyświetleń w niecałą dobę, a dodatkowe odcinki codziennie do 14 listopada",
+        "summary": "Friz opublikował finał piątego sezonu „Mafii IRL”, a odcinek w niecałą dobę przekroczył milion wyświetleń. Do 14 listopada na kanale będą codziennie wychodzić dodatki: odcinek łączony, najlepsze momenty, wszystkie kłamstwa i wycięte sceny.",
+        "body": [
+          "We wtorek po południu na kanale Friza pojawił się finałowy, dziesiąty odcinek piątego sezonu „Mafii IRL” pod tytułem „Mafia vs Obywatele”. Materiał trwa ponad 75 minut.",
+          "W środę o 6:16 odcinek miał ok. 1,11 mln wyświetleń, 40,8 tys. polubień i ponad 3,5 tys. komentarzy. W opisie twórcy wymieniają m.in. Zoję Skubis, Alibukę, Polę, Milenę Takuską i Wujka Łukiego, a finałowe zadanie nagrano na lotnisku Aeroklubu Lubelskiego w Radawcu.",
+          "Friz zapowiedział, że program jeszcze się nie kończy: 11 listopada wychodzi odcinek łączony, 12 listopada najlepsze momenty, 13 listopada „Wszystkie kłamstwa w Mafii”, a 14 listopada wycięte sceny.",
+          "Reakcje widzów są podzielone. Wielu chwali zaangażowanie części uczestników, ale wśród najwyżej ocenianych komentarzy sporo jest krytyki prowadzenia programu i finałowych zadań. Część widzów uważa ten sezon za jeden ze słabszych."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=EwwSTSomKqI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=EwwSTSomKqI",
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "Miniatura finałowego odcinka piątego sezonu „Mafii IRL”. To ten materiał przekroczył milion wyświetleń w niecałą dobę i otwiera serię dodatkowych odcinków."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/EwwSTSomKqI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/EwwSTSomKqI/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=EwwSTSomKqI",
+          "alt": "Miniatura finałowego odcinka Mafii IRL sezon 5",
+          "caption": "Finał piątego sezonu „Mafii IRL” na kanale Friza."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-10",
+        "who": "Jake Paul",
+        "initials": "JP",
+        "category": "Boks",
+        "hype": 4,
+        "title": "Jake Paul i Cédric Doumbé pierwszy raz twarzą w twarz. Konferencja w Paryżu przed walką w Dubaju w Wigilię",
+        "summary": "Jake Paul spotkał się z Cédrikiem Doumbé na pierwszej konferencji przed ich walką bokserską. Pojedynek odbędzie się 24 grudnia w Dubaju.",
+        "body": [
+          "Jake Paul opublikował na swoim kanale zapis konferencji prasowej z Paryża, na której pierwszy raz stanął naprzeciw Cédrica Doumbé. Spotkanie odbyło się w Pavillon Cambon.",
+          "Walkę ogłoszono na początku listopada: Paul zmierzy się z francuskim byłym wielokrotnym mistrzem kickboxingu i zawodnikiem MMA 24 grudnia w Dubaju. Informację podały m.in. Al Jazeera i The National.",
+          "W środę o 6:16 nagranie konferencji miało ok. 96 tys. wyświetleń. W komentarzach widzowie dyskutują głównie o atmosferze na sali, reakcjach francuskiej publiczności i pracy tłumaczki.",
+          "Paul promuje walkę także krótkimi filmami z Paryża, m.in. nagraniem na tle wieży Eiffla."
+        ],
+        "sources": [
+          {
+            "name": "Jake Paul / YouTube",
+            "url": "https://www.youtube.com/watch?v=Lk6gTkEOBwM",
+            "origin": true
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe"
+          },
+          {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/sport/combat-sports/2026/11/02/jake-paul-to-fight-cedric-doumbe-in-dubai-on-christmas-eve/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Lk6gTkEOBwM",
+        "caption": {
+          "credit": "Jake Paul / YouTube",
+          "text": "Miniatura zapisu konferencji z Paryża, na której Paul i Doumbé pierwszy raz stanęli naprzeciw siebie. To start promocji walki zaplanowanej na 24 grudnia."
+        },
+        "ig": [
+          "jakepaul"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Lk6gTkEOBwM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Lk6gTkEOBwM/hqdefault.jpg",
+          "credit": "Jake Paul / YouTube",
+          "href": "https://www.youtube.com/watch?v=Lk6gTkEOBwM",
+          "alt": "Miniatura konferencji Jake Paul vs Cédric Doumbé w Paryżu",
+          "caption": "Konferencja Jake Paul vs Cédric Doumbé w Paryżu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-10",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Young Multi ruszył z zamówieniami albumu „Lost Media”. Promował go na ponad 2,5-godzinnym streamie",
+        "summary": "Young Multi zbiera zamówienia na album „Lost Media” w sklepie YFL. Płytę promował na długim streamie z pogadankami, którego zapis zostawił na YouTube.",
+        "body": [
+          "We wtorek wieczorem Young Multi poprowadził na kanale YOUNG MULTI LIVE stream z pogadankami, zatytułowany wprost jako zachęta do zamówienia albumu „Lost Media” w sklepie sklep.yfl.pl.",
+          "W opisie zapisu raper linkuje sklep z płytą i swój najnowszy numer „Red Alabaster”, który wyszedł kilka dni wcześniej. Pod singlem fani dopytywali właśnie o album.",
+          "Zapis trwa ponad 2,5 godziny. W środę o 6:16 miał ok. 93 tys. wyświetleń. Widzowie w komentarzach cieszą się, że nagranie zostało na kanale, bo część z nich przegapiła transmisję."
+        ],
+        "sources": [
+          {
+            "name": "Young Multi / YouTube",
+            "url": "https://www.youtube.com/watch?v=-RZoUtfWPgo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=-RZoUtfWPgo",
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Miniatura zapisu streamu, którym Young Multi promował zamówienia albumu „Lost Media”. Tytuł transmisji odsyła wprost do sklepu z płytą."
+        },
+        "ig": [
+          "youngmulti"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-RZoUtfWPgo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-RZoUtfWPgo/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/watch?v=-RZoUtfWPgo",
+          "alt": "Miniatura streamu Young Multi o albumie Lost Media",
+          "caption": "Stream Young Multiego promujący album „Lost Media”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-10",
+        "who": "Blowek",
+        "initials": "BL",
+        "category": "Testy",
+        "hype": 3,
+        "title": "Blowek znowu kupił wszystko z reklam AI. Czwarta część serii, w której sprawdza, czy to scam",
+        "summary": "Blowek wrzucił czwarty odcinek serii, w której zamawia produkty z reklam wygenerowanych przez AI i sprawdza, co faktycznie przychodzi. Rzeczy z odcinka oddaje widzom.",
+        "body": [
+          "Na kanale Blowka pojawił się film „Kupiłem wszystko z reklam AI 4”. Jak pisze w opisie, poprzednia część bardzo spodobała się widzom, więc wraca z kolejnymi „scamami (?) z AI” i sprawdza, czy cokolwiek okazało się prawdziwe.",
+          "Twórca podaje też, skąd wziął się format: jako pierwszy miał go zrobić Sambucha, w Polsce Yoshi, a pomysł na miniaturę zaczerpnął od LawByMike.",
+          "Widzowie mogą w komentarzach napisać, którą rzecz z odcinka chcieliby dostać. W środę o 6:16 film miał ok. 56 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Blowek / YouTube",
+            "url": "https://www.youtube.com/watch?v=lzg07xIyZ-8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=lzg07xIyZ-8",
+        "caption": {
+          "credit": "Blowek / YouTube",
+          "text": "Miniatura czwartej części serii o zakupach z reklam AI. Blowek sprawdza w niej, które produkty odpowiadają reklamom."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/lzg07xIyZ-8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/lzg07xIyZ-8/hqdefault.jpg",
+          "credit": "Blowek / YouTube",
+          "href": "https://www.youtube.com/watch?v=lzg07xIyZ-8",
+          "alt": "Miniatura filmu Blowka Kupiłem wszystko z reklam AI 4",
+          "caption": "Blowek testuje produkty z reklam AI."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Boliwia",
+        "initials": "BO",
+        "category": "Kraje",
+        "hype": 4,
+        "title": "Boliwia nie ma dostępu do morza, ale ma marynarkę wojenną z ok. 5 tys. ludzi",
+        "summary": "Boliwia straciła wybrzeże ponad sto lat temu, a mimo to utrzymuje marynarkę wojenną. Według danych z 2018 r. służyło w niej ok. 5 tys. osób.",
+        "body": [
+          "Boliwia jest krajem śródlądowym od wojny o Pacyfik i traktatu pokojowego z 1904 r. W 1963 r. powołała jednak siły rzeczne i jeziorne, z których wyrosła dzisiejsza Armada Boliviana.",
+          "Marynarka działa na rzekach i jeziorach, m.in. na Titicace. W 2018 r. miała ok. 5 tys. ludzi."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bolivian_Navy"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/story/bolivian-navy/"
+          }
+        ],
+        "caption": {
+          "credit": "Ministerio de Defensa de Bolivia / Wikimedia Commons",
+          "text": "Godło boliwijskiej marynarki wojennej. Formacja istnieje, choć kraj od ponad stu lat nie ma wybrzeża."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/ArmadaAB.png",
+          "href": "https://commons.wikimedia.org/wiki/File:ArmadaAB.png",
+          "credit": "Ministerio de Defensa de Bolivia / Wikimedia Commons, CC0",
+          "alt": "Godło Armada Boliviana",
+          "caption": "Godło boliwijskiej marynarki wojennej."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Internet",
+        "initials": "IN",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "Internet ma oficjalny protokół do parzenia kawy. Stąd wziął się błąd 418 „Jestem czajniczkiem”",
+        "summary": "W 1998 r. jako żart primaaprilisowy opublikowano standard HTCPCP do sterowania ekspresami do kawy. Próba zaparzenia kawy w czajniczku do herbaty kończy się w nim błędem 418.",
+        "body": [
+          "Hyper Text Coffee Pot Control Protocol opisano w dokumencie RFC 2324, wydanym 1 kwietnia 1998 r. przez IETF, organizację tworzącą standardy internetu. Protokół służy do sterowania, monitorowania i diagnozowania dzbanków z kawą.",
+          "Najsłynniejszy jego element to kod „418 I'm a teapot”. W 2014 r. dopisano rozszerzenie do parzenia herbaty, a w 2022 r. IETF oznaczył kod 418 jako nieużywany w HTTP."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol"
+          },
+          {
+            "name": "IETF RFC 2324",
+            "url": "http://tools.ietf.org/html/rfc2324"
+          }
+        ],
+        "caption": {
+          "credit": "A.cilia / Wikimedia Commons",
+          "text": "Czajniczek z motywem HTCPCP. To on jest bohaterem żartobliwego błędu 418."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Htcpcp_teapot.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Htcpcp_teapot.jpg",
+          "credit": "A.cilia / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Czajniczek związany z protokołem HTCPCP",
+          "caption": "Czajniczek, symbol błędu 418."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Nowa Zelandia",
+        "initials": "NZ",
+        "category": "Rekordy",
+        "hype": 4,
+        "title": "Najbardziej stroma ulica świata według Guinnessa jest w Nowej Zelandii",
+        "summary": "Baldwin Street w Dunedin to według Księgi Rekordów Guinnessa najbardziej stroma ulica na świecie. W 2020 r. odzyskała tytuł, który na krótko straciła.",
+        "body": [
+          "Baldwin Street leży w dzielnicy mieszkalnej North East Valley, ok. 3,5 km od centrum Dunedin. Guinness mierzy, jak bardzo ulica wznosi się na 10 metrach w poziomie, wzdłuż jej osi.",
+          "Tytuł na chwilę przejęła ulica w walijskim Harlech, ale w 2020 r. Guinness przywrócił rekord Baldwin Street."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Baldwin_Street"
+          },
+          {
+            "name": "Guinness World Records",
+            "url": "https://www.guinnessworldrecords.com/news/2020/4/baldwin-street-in-new-zealand-reinstated-as-the-worlds-steepest-street-614287"
+          }
+        ],
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Baldwin Street w Dunedin. Widać, jak mocno domy po bokach muszą dopasować się do nachylenia."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Baldwinstreet.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Baldwinstreet.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, domena publiczna",
+          "alt": "Stroma Baldwin Street w Dunedin",
+          "caption": "Baldwin Street, Dunedin."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Vermont",
+        "initials": "VT",
+        "category": "Architektura",
+        "hype": 3,
+        "title": "W Vermont montowano okna na skos, bo czarownice podobno nie umieją przez nie wlecieć",
+        "summary": "„Okno czarownicy” to okno obrócone o ok. 45 stopni w szczycie domu. Według miejscowego przesądu czarownice nie przelecą przez nie na miotle.",
+        "body": [
+          "Takie okna, zwane też oknami z Vermont, występują niemal wyłącznie w tym amerykańskim stanie. Okno stawia się po skosie, równolegle do linii dachu, bo w wąskim miejscu między dwoma dachami zwykłe by się nie zmieściło.",
+          "Wokół tego praktycznego rozwiązania narósł przesąd: czarownica na miotle nie da rady wlecieć do domu przez krzywe okno."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Witch_window"
+          },
+          {
+            "name": "Times Argus (archiwum)",
+            "url": "https://web.archive.org/web/20200407003128/https://www.timesargus.com/news/building-blocks-exploring-witch-windows-in-vt/article_e688c115-858d-5cd7-9c53-5228b9e25e40.html"
+          }
+        ],
+        "caption": {
+          "credit": "Piledhigheranddeeper / Wikimedia Commons",
+          "text": "Okno czarownicy w domu w Vermont. Widać ukośne ustawienie równoległe do dachu."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vermont_window.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Vermont_window.jpg",
+          "credit": "Piledhigheranddeeper at English Wikipedia / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Ukośne okno w ścianie domu w Vermont",
+          "caption": "Okno czarownicy w Vermont."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Kalifornia",
+        "initials": "KA",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "W Kalifornii kot dostał klucz do miasta za to, że był najwyższym kotem domowym świata",
+        "summary": "Scarlett's Magic, kot rasy savannah, był według Guinnessa najwyższym żyjącym kotem domowym. Miasto Corona w Kalifornii przyznało mu klucz do miasta.",
+        "body": [
+          "Scarlett's Magic urodził się w 2008 r. To czarny cętkowany kot savannah, czyli mieszaniec kota domowego z dzikim serwalem.",
+          "Rekord wzrostu odebrał mu później Arcturus Aldebaran Powers, który mierzył 48,5 cm."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Scarlett%27s_Magic"
+          },
+          {
+            "name": "NBC Los Angeles",
+            "url": "https://www.nbclosangeles.com/news/local/Worlds-Tallest-Pet-Cat-Scarletts-Magic-60308722.html"
+          }
+        ],
+        "caption": {
+          "credit": "Leekimbud / Wikimedia Commons",
+          "text": "Scarlett's Magic, rekordowo wysoki kot savannah. Widać jego długie łapy i cętkowane futro."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Guinness_Cat_6.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Guinness_Cat_6.jpg",
+          "credit": "Leekimbud / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Wysoki cętkowany kot savannah",
+          "caption": "Scarlett's Magic."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Komputery",
+        "initials": "KO",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "Pierwszy robak komputerowy nazywał się Creeper, a pierwszy antywirus powstał tylko po to, żeby go usunąć",
+        "summary": "Creeper uznaje się za pierwszego robaka komputerowego w historii. Reaper, pierwszy program antywirusowy, napisano, żeby go wyeliminować.",
+        "body": [
+          "Creeper krążył między komputerami w sieci ARPANET, poprzedniczce internetu, i wyświetlał komunikat w stylu „Jestem Creeper, złap mnie, jeśli potrafisz”.",
+          "W odpowiedzi powstał Reaper, który sam przemieszczał się po sieci, szukał Creepera i go usuwał."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Creeper_and_Reaper"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/technology/2009/oct/23/internet-history"
+          }
+        ],
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Zrzut ekranu z komunikatem robaka Creeper. Tak wyglądał pierwszy „wirus” w historii sieci."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/CreeperWorm.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:CreeperWorm.jpg",
+          "credit": "Screenshot von User Worm&Virus / Wikimedia Commons, CC0",
+          "alt": "Ekran terminala z komunikatem Creepera",
+          "caption": "Komunikat robaka Creeper."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Nowa Zelandia",
+        "initials": "NZ",
+        "category": "Ludzie",
+        "hype": 4,
+        "title": "Nowa Zelandia ma oficjalnego Czarodzieja. Miasto Christchurch płaciło mu za to pensję",
+        "summary": "Ian Brackenbury Channell od lat występuje jako „Czarodziej Nowej Zelandii”. Tytuł nadał mu premier kraju, a Christchurch płaciło mu za tę rolę.",
+        "body": [
+          "Urodzony w Wielkiej Brytanii nauczyciel, komik i iluzjonista przez dekady występował w Christchurch w stroju czarodzieja. Premier Nowej Zelandii nadał mu tytuł Czarodzieja Nowej Zelandii.",
+          "W 2020 r. CNN pisał, że miasto płaci mu 10 tys. dolarów rocznie za bycie oficjalnym czarodziejem."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/The_Wizard_of_New_Zealand"
+          },
+          {
+            "name": "CNN",
+            "url": "https://edition.cnn.com/2020/08/08/asia/new-zealand-wizard-intl-hnk-dst/index.html"
+          }
+        ],
+        "caption": {
+          "credit": "Lossenelin / Wikimedia Commons",
+          "text": "Czarodziej w Christchurch, w stroju, w którym występuje od lat."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Christchurchwizard.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Christchurchwizard.jpg",
+          "credit": "Lossenelin / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mężczyzna w stroju czarodzieja w Christchurch",
+          "caption": "Czarodziej Nowej Zelandii."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Fretki",
+        "initials": "FR",
+        "category": "Zwierzęta",
+        "hype": 3,
+        "title": "Podekscytowane fretki wykonują „wojenny taniec łasicy”. Tak nazywa się ich szalone podskoki",
+        "summary": "„Wojenny taniec łasicy” to potoczna nazwa zachowania podekscytowanych fretek i innych łasicowatych. Przyrodnicy przypuszczają, że dzikie łasice używają go, by zdezorientować ofiarę.",
+        "body": [
+          "Tak potocznie nazywa się zachowanie rozbawionych fretek i innych łasicowatych: serie gwałtownych podskoków i skoków na boki.",
+          "Według przyrodników dzikie łasice mogą tańczyć w ten sposób, żeby zmylić albo zdezorientować upatrzoną ofiarę."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Weasel_war_dance"
+          },
+          {
+            "name": "Ghostarchive (nagranie)",
+            "url": "https://ghostarchive.org/varchive/youtube/20211212/VdRXuyBOyow"
+          }
+        ],
+        "caption": {
+          "credit": "Inkrat773 / Wikimedia Commons",
+          "text": "Fretka uchwycona w skoku w trakcie wojennego tańca."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vinnie_the_Ferret_in_a_War_Dance_Jump.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Vinnie_the_Ferret_in_a_War_Dance_Jump.jpg",
+          "credit": "Inkrat773 / Wikimedia Commons, CC BY-SA 2.5",
+          "alt": "Fretka w skoku",
+          "caption": "Fretka w wojennym tańcu."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-10": {
     "date": "2026-11-10",
     "ryby": [],
