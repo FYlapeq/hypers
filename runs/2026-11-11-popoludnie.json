@@ -1,0 +1,1931 @@
+{
+ "run": {
+  "date": "2026-11-11",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-11T13:21:12.042Z",
+  "candidates": 94,
+  "with_free_image": 31,
+  "ready": 23
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "wiki-en:Wikipedia:Recent additions": "ok 117",
+  "rss:Atlas Obscura": "ok 12",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4251",
+  "drugie-zrodlo": "ok 23/29"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że tegoroczny festiwal w Gdyni wygrał film o wystukiwaniu uczuć alfabetem Morse’a?",
+   "article": {
+    "title": "Przez ścianę",
+    "url": "https://pl.wikipedia.org/wiki/Przez_%C5%9Bcian%C4%99",
+    "extract": "Przez ścianę – polski melodramat filmowy z 2026 roku w reżyserii i według scenariusza Macieja Sobieszczańskiego, oparty na autentycznej historii miłości Wiesławy Pajdak i Jerzego Śmiechowskiego, która zrodziła się w warszawskim więzieniu przy ulicy Rakowieckiej na przełomie lat 40. i 50. XX wieku. W rolach głównych wystąpili Maria Dębska i Jakub Gierszał."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co parodiował serial Niesamowity świat Gumballa?",
+   "article": {
+    "title": "Niesamowity świat Gumballa",
+    "url": "https://pl.wikipedia.org/wiki/Niesamowity_%C5%9Bwiat_Gumballa",
+    "extract": "Niesamowity świat Gumballa (ang. The Amazing World of Gumball) – amerykańsko-brytyjski serial animowany stworzony przez Bena Bocqueleta. Ogólnoświatowa premiera serialu odbyła się 2 maja 2011 roku na antenie Cartoon Network."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto zaprojektował rozbudowę Hotelu Diament Plaza w Katowicach?",
+   "article": {
+    "title": "Hotel Diament Plaza w Katowicach",
+    "url": "https://pl.wikipedia.org/wiki/Hotel_Diament_Plaza_w_Katowicach",
+    "extract": "Hotel Diament Plaza w Katowicach (właśc. Hotel Diament Plaza Katowice) – czterogwiazdkowy hotel w Katowicach, położony przy ulicy Dworcowej 9 i 11, na terenie dzielnicy Śródmieście, naprzeciwko kompleksu starego dworca kolejowego.\nPowstał w latach 60. XIX wieku jako hotel „Barisch”, a w kolejnych latach był wielokrotnie przebudowany."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Katowice Hotel Diament Plaza front 2026.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego stacja Cartoon Network w 1999 roku wycofała z emisji wszystkie filmy ze Speedym Gonzalesem?",
+   "article": {
+    "title": "Speedy Gonzales",
+    "url": "https://pl.wikipedia.org/wiki/Speedy_Gonzales",
+    "extract": "Speedy Gonzales – postać fikcyjna z serii kreskówek Warner Brothers, stworzona przez Roberta McKimsona i Friza Frelenga.\nOryginalnie głosu użyczali mu m.in. Mel Blanc, Joe Alaskey, Fred Armisen i Dino Andrade, a w wersji polskiej Tomasz Kozłowicz (w większości odcinków Zwariowanych melodii, filmów i seriali)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Speedy Gonzales at Celebration Parade, Six Flags Magic Mountain 2007-07 1.JPG)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który zesłaniec syberyjski po II wojnie światowej związał się z kinematografią argentyńską?",
+   "article": {
+    "title": "Tadeusz Bortnowski",
+    "url": "https://pl.wikipedia.org/wiki/Tadeusz_Bortnowski",
+    "extract": "Tadeusz Bortnowski, znany również jako Tadeo Bortnowski (ur. 25 maja 1924 w Pińsku, zm. 21 listopada 2015) – polski operator filmowy, dokumentalista i korespondent wojenny, zesłaniec syberyjski, po II wojnie światowej związany z kinematografią argentyńską.\nWalczył przeciwko okupacji sowieckiej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego w lipcu 1910 roku Ignacy Jan Paderewski zastąpił Adama Asnyka jako patrona krakowskiej ulicy?",
+   "article": {
+    "title": "Ulica Ignacego Paderewskiego w Krakowie",
+    "url": "https://pl.wikipedia.org/wiki/Ulica_Ignacego_Paderewskiego_w_Krakowie",
+    "extract": "Ulica Ignacego Paderewskiego – ulica w Krakowie, w Dzielnicy I Stare Miasto, na Kleparzu.\nŁączy Rynek Kleparski z Placem Jana Matejki. Jest jednojezdniowa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:UlicaIgnacegoPaderewskiego-WidokNaWschód-POL, Kraków.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że w jednym z odcinków japońskiej antologii filmów A Piece of Phantasmagoria słupy telegraficzne biegają po szklanym oceanie?",
+   "article": {
+    "title": "A Piece of Phantasmagoria",
+    "url": "https://pl.wikipedia.org/wiki/A_Piece_of_Phantasmagoria",
+    "extract": "A Piece of Phantasmagoria (jap. ア・ピース・オブ ファンタスマゴリア, stylizowane jako a piece of PHANTASMAGORIA) – seria piętnastu japońskich krótkometrażowych filmów animowanych stworzonych przez ilustratora Shigeru Tamurę w 1995 roku. Ich akcja rozgrywa się na fikcyjnej planecie Phantasmagoria, a filmy powstały jako część multimedialnego dzieła wydanego na CD-ROM-ie, opartego na ilustrowanej książce Tamury Phantasmagoria z 1989 roku. W 1995 roku były także emitowane w japońskiej telewizji satelitarnej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "TISM: Not the slang word meaning autism, but an (extremely) Australian rock band whose members are anonymous, perform wearing balaclavas and use pseudonyms like \"Eugene de la Hot Croix Bun\" and \"Ron Hitler-Barassi\". Known for their confrontational dark comedy, their song titles include \"Defecate on My Face\", \"I Might Be a Cunt, But I'm Not a Fucking Cunt\", \"Martin Scorsese Is Really Quite a Jovial Fellow\", \"What Nationality Is Les Murray?\", \"Whatareya? (You're a Yob or You're a Wanker)\" and \"Everyone Else Has Had More Sex Than Me\".",
+   "article": {
+    "title": "TISM",
+    "url": "https://en.wikipedia.org/wiki/TISM",
+    "extract": "TISM ( TIZ-əm; an acronym of This Is Serious Mum) are a seven-piece anonymous alternative rock band, formed in Melbourne, Australia, on 30 December 1982 by vocalist/drummer Humphrey B. Flaubert, bassist/vocalist Jock Cheese, vocalist Ron Hitler-Barassi and keyboardist/vocalist Eugene de la Hot Croix Bun. These four members have formed the core of the band since their inception, with the line-up being rounded out by guitarists Leak Van Vlalen (1982–1991), Tokin' Blackman (1991–2004; died 2008) and Vladimir Lenin-McCartney (2022–present), as well as backing vocalists/dancers Les Miserables and Jon St. Peenis.\nNoted for their dark humour, sarcastic delivery and melodic songwriting, the seven members of TISM appear in public as a pseudonymous, semi-paramilitary collective masked in a variety of balaclavas (usually as part of a more elaborate costume), and are known for their \"chaotic\" appear"
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:TISM-band.jpg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "John Thomas sign: The position of a penis on a pelvic X-ray can be a positive portent. Also known as a Throckmorton sign.",
+   "article": {
+    "title": "John Thomas sign",
+    "url": "https://en.wikipedia.org/wiki/John_Thomas_sign",
+    "extract": "The John Thomas sign, also known as the Throckmorton sign, is a slang or joke term used in the field of radiology. It refers to the position of a penis as it relates to pathology on an X-ray of a pelvis. When the penis (visible on the X-ray as a shadow) points towards the same side as a unilateral medical condition such as a broken bone, this is considered a \"positive John Thomas sign,\" and if the shadow points to the other side, it is a \"negative John Thomas sign.\"\nStudies have shown that the \"sign\" is no better than chance at identifying the location of a hip fracture. In those cases where the John Thomas sign is positive, it has been proposed that a person with a displaced hip fracture may try to lie on the injured side to immobilize the fracture and reduce pain; the penis then inclines toward the downward (injured) side."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bf37c777e88ab1729e6725e42fb85e_big_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bf37c777e88ab1729e6725e42fb85e_big_gallery.jpg",
+    "file": "File:Bf37c777e88ab1729e6725e42fb85e big gallery.jpg",
+    "artist": "KaplanMDlv",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 630,
+    "height": 509,
+    "ok": true
+   },
+   "second_source": {
+    "name": "radiopaedia.org",
+    "url": "http://radiopaedia.org/articles/throckmorton-sign",
+    "title": "Throckmorton sign (pelvis) | Radiology Reference Article | Radiopaedia.org",
+    "matched": [
+     "thomas",
+     "position",
+     "penis",
+     "pelvic",
+     "positive",
+     "known",
+     "throckmorton"
+    ]
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dump months: The opposite of the summer movie season.",
+   "article": {
+    "title": "Dump months",
+    "url": "https://en.wikipedia.org/wiki/Dump_months",
+    "extract": "Before the era of streaming television, the dump months were two periods of the year when there have been lowered commercial and critical expectations for most new theatrical releases from American filmmakers and distributors. During these periods domestic audiences are smaller than the rest of the year, so no tentpole movies are released. January and February are usually most commonly described this way, with August and September sometimes included. Releases during those times primarily include films that would have been released at other times of year had they performed better at test screenings, films with less prominent stars, genre films (particularly horror), movies that cannot be easily marketed and films intended for a teenage audience, which has fewer entertainment options outside the home."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:January 2014 movie marquee.jpg)"
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Algonquian–Basque pidgin: The linguistic fruit of the travels of Basque whalers.",
+   "article": {
+    "title": "Algonquian–Basque pidgin",
+    "url": "https://en.wikipedia.org/wiki/Algonquian%E2%80%93Basque_pidgin",
+    "extract": "Algonquian–Basque pidgin, also known as Souriquois, is a Basque-based pidgin that linguist Peter Bakker proposed was spoken by ethnic Basque whalers and various Algonquian peoples around the Gulf of St. Lawrence; it was in use from at least 1580 until 1635, and was last attested in 1711.\nThere were three Indigenous groups distinguished by the Basques. They had good relations with the Montagnais and the St."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Basques_Newfoundland.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Basques_Newfoundland.gif",
+    "file": "File:Basques Newfoundland.gif",
+    "artist": "This image has been made by Zorion (User:Zorion) and released under the licenses stated above. You are free to use this ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 665,
+    "height": 522,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ojs.library.carleton.ca",
+    "url": "https://ojs.library.carleton.ca/index.php/ALGQP/article/view/967",
+    "title": "Basque Pidgin Vocabulary in European-Algonquian Trade Contacts | Algonquian Papers - Archive",
+    "matched": [
+     "algonquian",
+     "basque",
+     "pidgin",
+     "linguistic"
+    ]
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "New Guinea singing dog: Not only that, but it climbs trees too!",
+   "article": {
+    "title": "New Guinea singing dog",
+    "url": "https://en.wikipedia.org/wiki/New_Guinea_singing_dog",
+    "extract": "The New Guinea singing dog or New Guinea Highland dog (Canis familiaris or Canis lupus dingo) is an ancient (basal) lineage of dog native to the New Guinea Highlands, on the island of New Guinea. Once considered to be a separate species in its own right, under the name Canis hallstromi, it is closely related to the Australian dingo. The dog is relatively unusual among canines; it is one of the few to be considered \"barkless\", and is known for the unusual \"yodel\" style of vocalizing that gives it its name.\nIn 1989, the Australian mammalogist Tim Flannery took a photo of a black-and-tan dog in Telefomin District."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/New_Guinea_Singing_Dog_on_trail-Cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:New_Guinea_Singing_Dog_on_trail-Cropped.jpg",
+    "file": "File:New Guinea Singing Dog on trail-Cropped.jpg",
+    "artist": "Patti McNeal",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 751,
+    "height": 617,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116352",
+    "title": "Origins and Genetic Legacy of Prehistoric Dogs - PMC",
+    "matched": [
+     "guinea",
+     "singing",
+     "trees"
+    ]
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Man in Business Suit Levitating emoji: Why exactly did they feel the need to include this?",
+   "article": {
+    "title": "Man in Business Suit Levitating emoji",
+    "url": "https://en.wikipedia.org/wiki/Man_in_Business_Suit_Levitating_emoji",
+    "extract": "Man in Business Suit Levitating (U+1F574 🕴 MAN IN BUSINESS SUIT LEVITATING) is an emoji depicting a man wearing a suit and fedora while levitating. Initially created as part of Webdings, the icon was made an emoji by the Unicode Consortium in 2014. The appearance of Man in Business Suit Levitating was originally based on the logo of 2 Tone Records; the logo was itself a depiction of reggae musician Peter Tosh, and is unrelated to The Matrix despite the superficial similarities in appearance."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Apache License 2.0 (File:Noto Emoji Pie 1f574.svg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Superstar USA: A music competition looking for the worst singers America has to offer.",
+   "article": {
+    "title": "Superstar USA",
+    "url": "https://en.wikipedia.org/wiki/Superstar_USA",
+    "extract": "The WB's Superstar USA is a television show that spoofed the popular show American Idol and aired on The WB from May 17 to June 14, 2004. Essentially its polar opposite, Superstar USA judges told contestants they were looking for the best singer when in fact they were secretly looking for the worst."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Municipalities of Liechtenstein: The blotchy, angular borders between these divisions seem almost arbitrarily strange. The UAE's are similarly weird.",
+   "article": {
+    "title": "Municipalities of Liechtenstein",
+    "url": "https://en.wikipedia.org/wiki/Municipalities_of_Liechtenstein",
+    "extract": "The principality of Liechtenstein is divided into eleven municipalities (German: Gemeinden, singular Gemeinde), most consisting of only a single town. Five of the Gemeinden fall within the electoral district of Unterland (lower country), while the other six are within the Oberland (upper country).\nSince 2003, Liechtenstein's constitution has given individual municipalities the right to secede from the country. However, this has never been applied."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.5 (File:Liechtenstein - Gemeinden mit Exklaven.png)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Leone Sextus Tollemache: Somehow, it's not even the longest or most extravagant name among his family.",
+   "article": {
+    "title": "Leone Sextus Tollemache",
+    "url": "https://en.wikipedia.org/wiki/Leone_Sextus_Tollemache",
+    "extract": "Leone Sextus Denys Oswolf Fraudatifilius Tollemache-Tollemache de Orellana Plantagenet Tollemache-Tollemache ( TOOL-mayk-TOL-mak; 10 June 1884 – 20 February 1917) was a captain in the British Army who died during the First World War."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "London Necropolis railway station: Single tickets only, unless you're a mourner or other visitor.",
+   "article": {
+    "title": "London Necropolis railway station",
+    "url": "https://en.wikipedia.org/wiki/London_Necropolis_railway_station",
+    "extract": "London Necropolis railway station was the terminus at Waterloo, London, of the London Necropolis Railway. The London Necropolis was opened in 1854 in response to severe overcrowding in London's existing graveyards and cemeteries. It aimed to use the recently developed technology of the railway to move as many burials as possible to the newly built Brookwood Cemetery in Brookwood, Surrey. This location was within easy travelling distance of London, but distant enough for the dead not to pose any risk to public hygiene."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sneeze Achiu: The first person of Asian descent and first Native Hawaiian to play in the NFL earned his nickname upon informing his teammates of how to pronounce his surname: \"Sneeze it and you'll get it.\"",
+   "article": {
+    "title": "Sneeze Achiu",
+    "url": "https://en.wikipedia.org/wiki/Sneeze_Achiu",
+    "extract": "Walter Tin Kit \"Sneeze\" Achiu ( ah-CHOO; August 3, 1902 – March 21, 1989) was an American athlete and the first person of Asian descent and the first Native Hawaiian to play in the National Football League (NFL). He had a successful four-sport collegiate career at the University of Dayton, after which Achiu played two seasons with the NFL's Dayton Triangles. He mostly played halfback, but served as kicker, defensive back, and return specialist as well. Following his football career, Achiu spent the next thirty years as a wrestler, mostly on the West Coast and in the Miami Valley."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Sneeze Achiu.jpg)"
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pierre-sur-Haute military radio station: An unassuming military station in France became a cause célèbre after French Intelligence tried to threaten Wikipedia into deleting its article on it.",
+   "article": {
+    "title": "Pierre-sur-Haute military radio station",
+    "url": "https://en.wikipedia.org/wiki/Pierre-sur-Haute_military_radio_station",
+    "extract": "The Pierre-sur-Haute military radio station is a French military communications site that has been in use since 1913. The 30-hectare (74-acre) station is located on a hilltop in the Sauvain and Job communes 45.6531°N 3.8084°E. The site contains three towers, the tallest of which is a 55-metre-high civilian telecommunication tower owned by Télédiffusion de France.\nIn April 2013, the French interior intelligence agency DCRI pressured the president of Wikimedia France, Rémi Mathis, into deleting the French-language Wikipedia article about the station. It was then promptly restored by another Wikipedia contributor living in Switzerland."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Base_militaire_de_Pierre-sur-Haute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Base_militaire_de_Pierre-sur-Haute.jpg",
+    "file": "File:Base militaire de Pierre-sur-Haute.jpg",
+    "artist": "S. RIMBAUD",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "subbrit.org.uk",
+    "url": "http://www.subbrit.org.uk/rsg/features/ace_high/index.html",
+    "title": "ACE High NATO Communications System &ndash; Subterranea Britannica",
+    "matched": [
+     "military",
+     "radio",
+     "station",
+     "france",
+     "cause",
+     "celebre",
+     "french",
+     "intelligence"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Adrian Carton de Wiart: Fought in two World Wars, shot repeatedly, survived two plane crashes, escaped a POW camp, married a countess, and amputated his own fingers when his doctor refused. Also looked like a pirate.",
+   "article": {
+    "title": "Adrian Carton de Wiart",
+    "url": "https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart",
+    "extract": "Lieutenant-General Sir Adrian Paul Ghislain Carton de Wiart,  (; 5 May 1880 – 5 June 1963) was a British Army officer of Belgian and Irish descent. He was awarded the Victoria Cross, the highest military decoration awarded for valour \"in the face of the enemy\" in various Commonwealth countries. He served in the Boer War, First World War, and Second World War. He was shot in the face, head, stomach, groin, ankle, leg, hip, and ear."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg",
+    "file": "File:Lieutenant Colonel Adrian Carton de Wiart.jpg",
+    "artist": "Henry Walter Barnett",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 609,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "gov.uk",
+    "url": "https://www.gov.uk/government/case-studies/ww1-belgian-vc-recipient-sir-adrian-ghislain-carton-de-wiart",
+    "title": "WW1 Belgian VC recipient Sir Adrian Ghislain Carton de Wiart - Case study - GOV.UK",
+    "matched": [
+     "adrian",
+     "carton",
+     "wiart",
+     "world",
+     "survived",
+     "plane",
+     "crashes"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Phantom of Heilbronn: A DNA-traced serial killer, also known as the \"Woman without a face\", who turned out to be nonexistent.",
+   "article": {
+    "title": "Phantom of Heilbronn",
+    "url": "https://en.wikipedia.org/wiki/Phantom_of_Heilbronn",
+    "extract": "The Phantom of Heilbronn, often alternatively referred to as the Woman Without a Face, was a presumed female serial killer whose existence was inferred from DNA evidence found at crime scenes across Austria, France and Germany from 1993 to 2009. The six murders among these included that of police officer Michèle Kiesewetter in Heilbronn, Germany, on 25 April 2007.\nThe only connection between the crimes, which included murders and burglaries, was DNA belonging to the same unidentified woman, which was recovered from 40 crime scenes. In March 2009, investigators concluded that the supposed serial killer did not exist, and the DNA belonged to a woman who worked at a factory that made the cotton swabs used for collecting DNA samples."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hn-gedenktafel-theresienwiese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hn-gedenktafel-theresienwiese.jpg",
+    "file": "File:Hn-gedenktafel-theresienwiese.jpg",
+    "artist": "p.schmelzle",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1200,
+    "height": 900,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/2/hi/europe/7966641.stm",
+    "title": "BBC NEWS | Europe | 'DNA bungle' haunts German police",
+    "matched": [
+     "phantom",
+     "heilbronn",
+     "serial",
+     "killer",
+     "woman",
+     "without"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Zeppelin LZ 66: Real-life sky pirates.",
+   "article": {
+    "title": "Zeppelin LZ 66",
+    "url": "https://en.wikipedia.org/wiki/Zeppelin_LZ_66",
+    "extract": "Zeppelin LZ 66, Imperial German Navy serial  L 23, took part in 51 reconnaissance missions during World War I and on 21 August 1917 it was shot down by Second Lt Bernard A. Smart, flying a Sopwith Pup."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/LZ-66_Zeppelin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:LZ-66_Zeppelin.jpg",
+    "file": "File:LZ-66 Zeppelin.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 891,
+    "height": 500,
+    "ok": true
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tamworth Two: Two pigs who, in 1998, escaped an abattoir in England and attracted media attraction. Thanks to a newspaper, they were never made into bacon, ham or sausages.",
+   "article": {
+    "title": "Tamworth Two",
+    "url": "https://en.wikipedia.org/wiki/Tamworth_Two",
+    "extract": "The Tamworth Two were a pair of pigs that escaped while being unloaded from a lorry at an abattoir in the English town of Malmesbury, Wiltshire in January 1998. The pigs (later named Butch and Sundance after Butch Cassidy and the Sundance Kid) were on the run for more than a week, and the search for them caused a huge media sensation, as well as immense public interest, both in Britain and abroad."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tamworth_pigs_at_the_Rare_Breeds_Centre%2C_Woodchurch%2C_Kent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tamworth_pigs_at_the_Rare_Breeds_Centre,_Woodchurch,_Kent.jpg",
+    "file": "File:Tamworth pigs at the Rare Breeds Centre, Woodchurch, Kent.jpg",
+    "artist": "Oast House Archive",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 832,
+    "height": 638,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/1/hi/uk/47671.stm",
+    "title": "BBC News | UK | Happy ever after for Butch and Sundance ?",
+    "matched": [
+     "1998",
+     "tamworth",
+     "escaped",
+     "abattoir",
+     "england",
+     "media",
+     "newspaper",
+     "bacon"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Richard Chase: The only way to stop the Nazi-controlled UFOs from poisoning your macaroni and cheese is to inject yourself with animal blood and eat human brains.",
+   "article": {
+    "title": "Richard Chase",
+    "url": "https://en.wikipedia.org/wiki/Richard_Chase",
+    "extract": "Richard Trenton Chase (May 23, 1950 – December 26, 1980) was an American serial killer, cannibal, and necrophile known as the Vampire of Sacramento, the Dracula Killer, and the Vampire Killer, who killed six people between December 1977 and January 1978 in Sacramento, California.\nAll of Chase's victims were chosen at random. His first victim was killed in a drive-by shooting; his subsequent victims were murdered inside their own homes, with the primary motive behind these murders being the mutilation of their bodies and the consumption of their blood and organs. Tried and convicted of six counts of first-degree murder, Chase was sentenced to death on May 8, 1979, with the jury ruling he was legally sane at the time of the commission of the crimes."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/RichardTrentonChase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:RichardTrentonChase.jpg",
+    "file": "File:RichardTrentonChase.jpg",
+    "artist": "Sacramento Police Department booking officer. January 28, 1978",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 299,
+    "height": 341,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nydailynews.com",
+    "url": "https://www.nydailynews.com/2010/01/02/just-crazy-for-blood-richard-trenton-chase-aka-the-vampire-of-sacramento",
+    "title": "Just crazy for blood: Richard Trenton Chase, a.k.a. the Vampire of Sacramento – New York Daily News",
+    "matched": [
+     "richard",
+     "chase",
+     "poisoning",
+     "inject",
+     "animal",
+     "blood",
+     "human"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of \"Weird Al\" Yankovic polka medleys: Popular songs turned into polka melodies.",
+   "article": {
+    "title": "List of \"Weird Al\" Yankovic polka medleys",
+    "url": "https://en.wikipedia.org/wiki/List_of_%22Weird_Al%22_Yankovic_polka_medleys",
+    "extract": "Polka-style medleys of cover songs are a distinguishing part of American musician, satirist, parodist, and songwriter \"Weird Al\" Yankovic's catalog. Twelve of his fourteen albums contain them; his self-titled debut and Even Worse omit them.\n\nThe medleys are composed of various popular songs, each one reinterpreted as a polka (generally an instrumentation of accordion, banjo, tuba, clarinet, and muted brass interspersed with sound effects) with the choruses or memorable lines of various songs juxtaposed for humorous effect and profane lyrics are covered with cartoon sound effects. Yankovic has been known to say that converting these songs to polka was \"...the way God intended\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Yankovic-TheSagaBegins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yankovic-TheSagaBegins.jpg",
+    "file": "File:Yankovic-TheSagaBegins.jpg",
+    "artist": "pudd_nz",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 435,
+    "height": 663,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20061026150255/http://www.mtv.com/news/articles/1541761/20060926/yankovic_weird_al.jhtml",
+    "title": "MTV News | Music News, Movie News, Features and Interviews, Artist Photos",
+    "matched": [
+     "weird",
+     "yankovic",
+     "polka",
+     "medleys",
+     "songs"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Harold Holt: He goes swimming, and then missing. In a strange turn of events, this also led to a swimming pool being named in his honor.",
+   "article": {
+    "title": "Harold Holt",
+    "url": "https://en.wikipedia.org/wiki/Harold_Holt",
+    "extract": "Harold Edward Holt (5 August 1908 – 17 December 1967) was the 17th prime minister of Australia, serving from 1966 until his disappearance and presumed death in 1967. He held office as leader of the Liberal Party of Australia and held various ministerial positions from 1949 to 1966 in the governments of Robert Menzies and Arthur Fadden.\nHolt was born in Sydney and moved to Melbourne in childhood, studying law at the University of Melbourne. Before entering politics, he practised law and was a lobbyist for cinema operators."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harold_Holt_SEATO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Harold_Holt_SEATO.jpg",
+    "file": "File:Harold Holt SEATO.jpg",
+    "artist": "Frank Wolfe, White House Photo Office",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 500,
+    "height": 700,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.nine.com.au/australia-news/harold-holt-an-extraordinary-life-in-australian-politics-20171216-p5w3ho.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Owl House (museum): Not the acclaimed cartoon that aired on Disney Channel; this is an outdoor museum that was created by a reclusive outsider artist who decorated her inherited house with over 300 glass and concrete sculptures of owls, camels, peacocks, pyramids, and other forms.",
+   "article": {
+    "title": "The Owl House (museum)",
+    "url": "https://en.wikipedia.org/wiki/The_Owl_House_(museum)",
+    "extract": "The Owl House is a museum in Nieu-Bethesda, Eastern Cape, South Africa. The owner, Helen Martins, turned her house and the area around it into a visionary environment, elaborately decorated with ground glass and containing more than 300 concrete sculptures including owls, camels, peacocks, pyramids, and people. She inherited the house from her parents and began its transformation after they died."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Owl_house_2003_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Owl_house_2003_18.JPG",
+    "file": "File:Owl house 2003 18.JPG",
+    "artist": "Robin Tweedie",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 432,
+    "height": 576,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20061213111508/http://www.pbs.org/independentlens/offthemap/html/travelogue_artist_8.htm"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Non-human electoral candidate: Why be ruled by some monkey, RINO or pig when you can get a real chimp, rhino or pig into office?",
+   "article": {
+    "title": "Non-human electoral candidate",
+    "url": "https://en.wikipedia.org/wiki/Non-human_electoral_candidate",
+    "extract": "Non-human electoral candidates have been found in a number of countries. Often, the candidacies are a means of casting a protest vote or satirizing the political system. At other times, it is simply done for entertainment value.\nElectoral regulations may explicitly require candidates to be human (or equivalent wording), or they may require candidates to do things which animals cannot reasonably do (such as sign their names legibly on legal forms); most constituencies require candidates to be of the age of a legal adult, which eliminates many animals whose life expectancies usually make them too young to ever qualify."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mayor_Stubbs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mayor_Stubbs.jpg",
+    "file": "File:Mayor Stubbs.jpg",
+    "artist": "Jenni Konrad",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1181,
+    "height": 522,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bundeswahlleiterin.de",
+    "url": "https://www.bundeswahlleiterin.de/en/info/presse/mitteilungen/europawahl-2024/11_24_eingereichte-wahlvorschlaege.html",
+    "title": "2024 European election: 59 lists of nominated candidates submitted within the prescribed time limit - The Federal Returning Officer",
+    "matched": [
+     "human",
+     "electoral",
+     "candidate",
+     "office"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Senator, you're no Jack Kennedy\": A roast of JFK wannabe Dan Quayle by his vice-presidential election opponent. Didn't stop Quayle winning…",
+   "article": {
+    "title": "Senator, you're no Jack Kennedy",
+    "url": "https://en.wikipedia.org/wiki/Senator,_you%27re_no_Jack_Kennedy",
+    "extract": "\"Senator, you're no Jack Kennedy\" was a remark made during the 1988 United States vice presidential debate by Democratic nominee Senator Lloyd Bentsen to Republican nominee Senator Dan Quayle in response to Quayle's comparison of his experience in Congress to that of John F. Kennedy, the Democratic 35th president of the United States, whom Bentsen knew from their time as congressmen from the 80th to 82nd Congresses. Since then, the words \"You're no Jack Kennedy,\" or some variation on the remark, have become a part of the political lexicon as a way to deflate politicians or other individuals perceived as thinking too highly of themselves. Michael Dukakis (the Democratic presidential nominee) and Bentsen later went on to lose the 1988 United States presidential election to George H. W. Bush and Quayle, who thus succeeded Bush as vice president of the United States."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lloyd_Bentsen_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lloyd_Bentsen_(1).jpg",
+    "file": "File:Lloyd Bentsen (1).jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1204,
+    "height": 1504,
+    "ok": true
+   },
+   "second_source": {
+    "name": "content.time.com",
+    "url": "https://content.time.com/time/specials/packages/article/0,28804,1844704_1844706_1844605,00.html",
+    "title": "Quayle's Unwelcome Analogy - Top 10 Memorable Debate Moments - TIME",
+    "matched": [
+     "senator",
+     "kennedy",
+     "quayle",
+     "presidential",
+     "opponent"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Writing in space: How do you write in space?",
+   "article": {
+    "title": "Writing in space",
+    "url": "https://en.wikipedia.org/wiki/Writing_in_space",
+    "extract": "Several instruments have been used to write in outer space, including different types of pencils and pens. Some of them have been unmodified versions of conventional writing instruments; others have been invented specifically to counter the problems with writing in space conditions.\nA common misconception states that, faced with the fact that ball-point pens would not write in zero-gravity, the Fisher Space Pen was devised as the result of millions of dollars of unnecessary spending on NASA's part when the Soviet Union took the simpler and cheaper route of just using pencils, making the pen an example of overengineering.\nIn reality, the space pen was independently developed by Paul C. Fisher, founder of the Fisher Pen Company, with $1 million of his own funds."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Apollo_11_map_notations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Apollo_11_map_notations.jpg",
+    "file": "File:Apollo 11 map notations.jpg",
+    "artist": "derivative work: Wronkiew (talk) LAM2_CMP-flown.jpg: NASA, Michael Collins",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 484,
+    "height": 635,
+    "ok": true
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shani Shingnapur: A holy Hindu village that doesn't have any doors.",
+   "article": {
+    "title": "Shani Shingnapur",
+    "url": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+    "extract": "Shani Shingnapur or Shani Shinganapur or Shingnapur is a village in the Indian state of Maharashtra. Situated in Nevasa Taluka in Ahmednagar district, the village is known for its popular temple of Shani, the Hindu god associated with the planet (graha) Saturn. The village is 35 kilometres from the city of Ahmednagar."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+    "file": "File:Shani Shignapur renowned for its Shani temple.jpg",
+    "artist": "25 Cents FC",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1056,
+    "height": 1408,
+    "ok": true
+   },
+   "second_source": {
+    "name": "timesofindia.indiatimes.com",
+    "url": "http://timesofindia.indiatimes.com/articleshow/3096822.cms",
+    "title": "Dismal crowd on Shani Jayanti at famous shrine in Maharashtra | Mumbai News - Times of India",
+    "matched": [
+     "shani",
+     "shingnapur",
+     "hindu",
+     "doesn"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "May 1605 conclave: Cardinal fight! An argument led to this becoming the only conclave that ended with someone's bones being broken.",
+   "article": {
+    "title": "May 1605 conclave",
+    "url": "https://en.wikipedia.org/wiki/May_1605_conclave",
+    "extract": "The May 1605 conclave held from 8 to 16 May 1605; Cardinal Camillo Borghese was elected to succeed Leo XI as pope. Borghese took the name Paul V. This was the second conclave of 1605, with the one that had elected Leo XI having concluded just 37 days earlier. It had the only recorded case of an injury at a conclave, which was the result of a physical fight amongst the cardinals over who should be elected pope."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pope_Paul_V_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pope_Paul_V_(cropped_2).jpg",
+    "file": "File:Pope Paul V (cropped 2).jpg",
+    "artist": "Attributed to Caravaggio",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 545,
+    "height": 804,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1,
+    "closest": "https://www.newadvent.org/cathen/09166a.htm"
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Turnspit dog: An extinct dog breed created specifically to run on wheels used to power a spinning machine used to roast meat.",
+   "article": {
+    "title": "Turnspit dog",
+    "url": "https://en.wikipedia.org/wiki/Turnspit_dog",
+    "extract": "The turnspit dog was a short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat as it cooked. It is mentioned in Of English Dogs in 1576 under the name \"Turnespete\". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It was also known as the Kitchen Dog, the Cooking Dog, or the Wheeling Dog."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Turnspit_Dog_Working.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Turnspit_Dog_Working.jpg",
+    "file": "File:Turnspit Dog Working.jpg",
+    "artist": "Henry Wigstead",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1157,
+    "height": 762,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/ahistoryoftheworld/objects/ryKLhLRqRF6MGhynjUCqjQ",
+    "title": "BBC - A History of the World - Object : Wooden case containing Whiskey",
+    "matched": [
+     "turnspit",
+     "extinct",
+     "breed",
+     "created",
+     "specifically"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sky burial: It's not really a form of burial. Also known as jhator which means \"giving alms to the birds.\"",
+   "article": {
+    "title": "Sky burial",
+    "url": "https://en.wikipedia.org/wiki/Sky_burial",
+    "extract": "Sky burial (Tibetan: བྱ་གཏོར་, Wylie: bya gtor, lit. \"bird-scattered\") is a funeral practice in which a corpse is placed on a mountaintop to decompose while exposed to the elements, or to be eaten by scavenging animals, especially crows, vultures, bears and jackals. Comparable excarnation practices are part of Zoroastrian burial rites where deceased are exposed to the elements and scavenger birds on stone structures called Dakhma. Sky burials are endemic to Tibet, Qinghai, Sichuan, and Inner Mongolia, as well as in Mongolia,  Nepal, Bhutan, and parts of India such as Sikkim and Zanskar."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sky_burial_site%2C_Yerpa_Valley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sky_burial_site,_Yerpa_Valley.JPG",
+    "file": "File:Sky burial site, Yerpa Valley.JPG",
+    "artist": "en:User:John Hill",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 878,
+    "height": 578,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20240520204534/https://people.howstuffworks.com/culture-traditions/funerals/sky-burial.htm#pt2",
+    "title": "How Sky Burial Works | HowStuffWorks",
+    "matched": [
+     "burial",
+     "known",
+     "jhator",
+     "giving",
+     "birds"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Huh Kyung-young: A perennial South Korean political candidate who owns a palace filled with portraits of himself, claims to be able to levitate and teleport, and that he has an IQ of 430. Got 0.8% of the vote for President in 2022.",
+   "article": {
+    "title": "Huh Kyung-young",
+    "url": "https://en.wikipedia.org/wiki/Huh_Kyung-young",
+    "extract": "Huh Kyung-young (Korean: 허경영; born July 13, 1947) is a South Korean politician, founder of the National Revolutionary Party, cult leader, and singer."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Huhkyungyoungin2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Huhkyungyoungin2021.png",
+    "file": "File:Huhkyungyoungin2021.png",
+    "artist": "E허경영세상",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 420,
+    "height": 496,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.koreatimes.co.kr/www/news/nation/2009/10/113_50074.html"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Spiral Island: An artificial island, now destroyed, built from thousands of empty floating plastic bottles.",
+   "article": {
+    "title": "Spiral Island",
+    "url": "https://en.wikipedia.org/wiki/Spiral_Island",
+    "extract": "Spiral Island was a floating artificial island built in Mexico by British artist Richart \"Reishee\" Sowa. It was destroyed by Hurricane Emily in 2005. A replacement, Joyxee Island, had been open for tours since 2008, but closed after it was damaged by storms and the local authority ordered its removal.\nSpiral Island was featured in newspapers and TV documentaries around the world, including in Japan and South Korea, as well as an episode of the Ripley's Believe It or Not!"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/SpiralIsland2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SpiralIsland2000.jpg",
+    "file": "File:SpiralIsland2000.jpg",
+    "artist": "RandyMac McCallum",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 425,
+    "height": 318,
+    "ok": true
+   },
+   "second_source": {
+    "name": "atlasobscura.com",
+    "url": "https://www.atlasobscura.com/places/joyxee-island",
+    "title": "Joyxee Island in Isla Mujeres - Atlas Obscura",
+    "matched": [
+     "spiral",
+     "island",
+     "artificial",
+     "destroyed",
+     "built",
+     "thousands",
+     "floating",
+     "plastic",
+     "bottles"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "COCONUTS-2b: The size of that planet's orbit is nuts!",
+   "article": {
+    "title": "COCONUTS-2b",
+    "url": "https://en.wikipedia.org/wiki/COCONUTS-2b",
+    "extract": "COCONUTS-2 b is a gas giant exoplanet that orbits the M-type star L 34-26. With a mass of 7.3 Jupiters, it takes over one million years to complete one orbit around the star orbiting 7,500 AU away from it.\nThe planet was discovered in 2011 and was initially identified as a T9 free-floating brown dwarf WISEPA J075108.79−763449.6. During the COol Companions ON Ultrawide orbiTS (COCONUTS) survey, its association with L 34-26 was announced in 2021."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coconuts-2b_unwise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Coconuts-2b_unwise.png",
+    "file": "File:Coconuts-2b unwise.png",
+    "artist": "Meli thev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 900,
+    "height": 864,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hawaii.edu",
+    "url": "https://www.hawaii.edu/news/2021/07/27/massive-coconuts-exoplanet-discovery-uh-grad-student/",
+    "title": "Massive COCONUTS exoplanet discovery led by UH grad student | University of Hawaiʻi System News",
+    "matched": [
+     "coconuts",
+     "planet",
+     "orbit"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nicolás Zúñiga y Miranda: Mexican eccentric who repeatedly ran for president, lost, and claimed he'd won. Sound familiar?",
+   "article": {
+    "title": "Nicolás Zúñiga y Miranda",
+    "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Z%C3%BA%C3%B1iga_y_Miranda",
+    "extract": "Nicolás Zúñiga y Miranda (13 May 1865 – 29 March 1925) was a Mexican eccentric who was a perennial candidate in multiple presidential elections from 1896 to 1924. He considered himself the legitimate president of Mexico despite never winning any of the elections. Prior to his political career he made earthquake predictions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg",
+    "file": "File:Nicolás Zuñiga y Miranda.jpg",
+    "artist": "Agustín Casasola",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 900,
+    "height": 1297,
+    "ok": true
+   },
+   "second_source": {
+    "name": "mexiconewsdaily.com",
+    "url": "https://mexiconewsdaily.com/culture/huckster-madman-candidate-the-unusual-life-of-nicolas-zuniga/",
+    "title": "Huckster, madman, candidate: the unusual life of Nicolás Zuñiga",
+    "matched": [
+     "nicolas",
+     "zuniga",
+     "miranda",
+     "mexican",
+     "president",
+     "claimed"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Winterval: An attempt to erase Christmas? No, just a word for Birmingham City Council's collective festive plans, but that didn't stop the UK media from going wild.",
+   "article": {
+    "title": "Winterval",
+    "url": "https://en.wikipedia.org/wiki/Winterval",
+    "extract": "Winterval was a season of public events in Birmingham, England, organised by Birmingham City Council in each of two consecutive winters: first from 20 November to 31 December 1997, and then again from mid-October 1998 to mid-January 1999. The intention was to encourage people into the newly rejuvenated city centre, with secular and religious events marking religious and other occasions, including Christmas, during the relevant period. The name \"Winterval\" has since become used in the UK as shorthand for what are misrepresented as attempts to  \"rebrand\" Christmas so as not to exclude non-Christians."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Christmas_in_Birmingham_-_Winterval_poster_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Christmas_in_Birmingham_-_Winterval_poster_1998.jpg",
+    "file": "File:Christmas in Birmingham - Winterval poster 1998.jpg",
+    "artist": "Trinity Mirror Midlands",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 821,
+    "height": 1155,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/world/2006/dec/08/religion.communities",
+    "title": "The phoney war on Christmas | Religion | The Guardian",
+    "matched": [
+     "winterval",
+     "attempt",
+     "erase",
+     "christmas",
+     "birmingham",
+     "council",
+     "festive",
+     "media",
+     "going"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Religion in Antarctica: There's no continent on Earth without organized religion.",
+   "article": {
+    "title": "Religion in Antarctica",
+    "url": "https://en.wikipedia.org/wiki/Religion_in_Antarctica",
+    "extract": "Religion in Antarctica is largely dominated by Christianity, with churches being the only religious buildings on the continent. Although used regularly for Christian worship, the Chapel of the Snows has also been used for Buddhist and Baháʼí Faith ceremonies. Some of the early religious buildings are now protected as important historical monuments."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Chapel_of_the_Snows_-_Antarctica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Snows_-_Antarctica.jpg",
+    "file": "File:Chapel of the Snows - Antarctica.jpg",
+    "artist": "Gdr05a at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 136,
+    "height": 196,
+    "ok": true
+   },
+   "second_source": {
+    "name": "worldatlas.com",
+    "url": "https://www.worldatlas.com/articles/religious-composition-of-antarctica.html",
+    "title": "Religious Composition Of Antarctica",
+    "matched": [
+     "religion",
+     "antarctica",
+     "there",
+     "continent"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Paul Gosar: A representative for Arizona's 9th congressional district who is similar to Jamal Bowman (above) in that he was censured for doing something amusing, namely, posting an Attack on Titan anime video depicting himself killing Alexandria Ocasio-Cortez and injuring Joe Biden.",
+   "article": {
+    "title": "Paul Gosar",
+    "url": "https://en.wikipedia.org/wiki/Paul_Gosar",
+    "extract": "Paul Anthony Gosar ( GOH-sar; born November 27, 1958) is an American politician and former dentist serving in the U.S. House of Representatives since 2011. Representing Arizona's 9th congressional district since 2023, he previously represented the 4th district (2013–2023) and the 1st district (2011–2013). He is a member of the Republican Party.\nGosar was first elected to Congress in 2010."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_Gosar_118th_Congress_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paul_Gosar_118th_Congress_portrait.jpg",
+    "file": "File:Paul Gosar 118th Congress portrait.jpg",
+    "artist": "U.S. House of Representatives",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 335,
+    "height": 410,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20121021201635/http://hosted.ap.org/dynamic/external/pre-election/bios/61002.html?SITE=NPRELN&SECTION=PREELECTION&TEMPLATE=DEFAULT"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Will Rogers phenomenon: When moving an element from one set to another set raises – counter-intuitively – the average values of both sets. Also known as the Will Rogers paradox.",
+   "article": {
+    "title": "Will Rogers phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Will_Rogers_phenomenon",
+    "extract": "The Will Rogers phenomenon, also rarely called the Okie paradox, is when moving an observation from one group to another increases the average of both groups.  It is named after a joke attributed to the comedian Will Rogers about Dust Bowl migration during the Great Depression:\n\nWhen the Okies left Oklahoma and moved to California, they raised the average intelligence level in both states.\nThe joke's premise is that Okies (Dust Bowl migrants from Oklahoma) were not as bright as the average Oklahoman, but smarter than the average Californian. This quotation was first attributed to native Oklahoman Rogers decades after his death; versions of the same joke with different places and people circulated at least 15 years before it can be linked to Okies."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Will_Rogers_1922.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Will_Rogers_1922.jpg",
+    "file": "File:Will Rogers 1922.jpg",
+    "artist": "Melbourne Spurr",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 926,
+    "height": 1234,
+    "ok": true
+   },
+   "second_source": {
+    "name": "quoteinvestigator.com",
+    "url": "https://quoteinvestigator.com/2021/10/16/iq/",
+    "title": "Quote Origin: When the Okies Migrated To California, It Raised the I.Q. in Both States – Quote Investigator®",
+    "matched": [
+     "rogers",
+     "phenomenon",
+     "moving",
+     "another",
+     "raises",
+     "average",
+     "known",
+     "paradox"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chubby bunny: A common (but sometimes lethal) game played with marshmallows.",
+   "article": {
+    "title": "Chubby bunny",
+    "url": "https://en.wikipedia.org/wiki/Chubby_bunny",
+    "extract": "Chubby bunny is an informal recreational and hazing game, or theater game, that involves the placement of an increasing number of marshmallows or similar items such as cotton balls into one's own mouth and stating a phrase that is intended to be difficult to say clearly with a filled mouth. The game is often played where marshmallows are readily available, such as around a campfire. Variations include similar-sounding phrases such as pudgy bunny, fluffy bunny, fuzzy bunny, chubby monkey, jungle bunny and chubby buddy.\nAlthough the origins of the game are unknown, a 1959 Peanuts comic strip shows Snoopy's mouth being filled with an increasing number of marshmallows while Charlie Brown keeps count."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chad_Brassil_Bunny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chad_Brassil_Bunny.jpg",
+    "file": "File:Chad Brassil Bunny.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 870,
+    "height": 651,
+    "ok": true
+   },
+   "second_source": {
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/horrors/parental/chubbybunny.asp",
+    "title": "Chubby Bunny Marshmallows Choking Death | Snopes.com",
+    "matched": [
+     "chubby",
+     "bunny",
+     "marshmallows"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Herbert Mullin: Haven't had any earthquakes recently? Thank this man.",
+   "article": {
+    "title": "Herbert Mullin",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Mullin",
+    "extract": "Herbert William Mullin (April 18, 1947 – August 18, 2022) was an American serial killer who killed 13 people in California in the early 1970s. He confessed to the killings, which he claimed prevented earthquakes. In 1973, after a trial to determine whether he was legally insane or culpable, he was convicted of two murders in the first-degree and nine in the second-degree and sentenced to life imprisonment. During his imprisonment, he was denied parole eight times."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Herbert_Mullin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Herbert_Mullin.jpg",
+    "file": "File:Herbert Mullin.jpg",
+    "artist": "California Department of Corrections",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 270,
+    "height": 360,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20121210085548/http://www.trutv.com/library/crime/serial_killers/weird/mullin/index_1.html",
+    "title": "Herb Mullin &mdash; Unnatural Disasters &mdash; Crime Library on truTV.com",
+    "matched": [
+     "herbert",
+     "mullin",
+     "earthquakes"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aptostichus barackobamai: A trapdoor spider named after former U.S. President Barack Obama.",
+   "article": {
+    "title": "Aptostichus barackobamai",
+    "url": "https://en.wikipedia.org/wiki/Aptostichus_barackobamai",
+    "extract": "Aptostichus barackobamai (also known as the Barack Obama trapdoor spider) is a large species of trapdoor spider in the family Euctenizidae named after the 44th President of the United States, Barack Obama. The species was first reported by Jason Bond of Auburn University in December 2012 as one of 33 new species of the genus Aptostichus. The species is endemic throughout northern California, forming burrows out of silk, dirt, and sand, from which it attacks prey. This spider is identified by its dark red to red-brown coloration with a stripped or chevron patterned abdomen."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aptostichus_barackobamai_holotype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aptostichus_barackobamai_holotype.jpg",
+    "file": "File:Aptostichus barackobamai holotype.jpg",
+    "artist": "Jason E. Bond",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 1028,
+    "height": 974,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20230401203105/https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1284285",
+    "title": "Taxonomy browser (Aptostichus barackobamai)",
+    "matched": [
+     "aptostichus",
+     "barackobamai",
+     "spider",
+     "barack",
+     "obama"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jesus nut: Not your local Bible-thumping preacher but the bolt on the top of a helicopter that connects it to the rotor blades.",
+   "article": {
+    "title": "Jesus nut",
+    "url": "https://en.wikipedia.org/wiki/Jesus_nut",
+    "extract": "The main rotor retaining nut or mast nut, often colloquially referred to as the Jesus nut, holds the main rotor to the mast of some helicopters. The related slang term Jesus pin refers to the lock pin used to secure the retaining nut. A failure of this nut is likely to result in a crash."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jesus_nut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jesus_nut.jpg",
+    "file": "File:Jesus nut.jpg",
+    "artist": "Alan Radecki Akradecki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20130517054200/http://www.tc.gc.ca/eng/civilaviation/publications/tp3658-1-02-001-4667.htm"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+   "article": {
+    "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+    "url": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+    "extract": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War. In 1775, Congress appointed Putnam as one of the first four major generals of the Continental Army. He commanded the New England m"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bundesbüdchen in Bonn, Germany",
+   "article": {
+    "title": "Bundesbüdchen in Bonn, Germany",
+    "url": "https://www.atlasobscura.com/places/bundesbudchen",
+    "extract": "In 1949, West Germany was debating the location for its provisional government. After lengthy back-and-forth—the mayor of Frankfurt, Walter Kolb, had even pre-recorded a victory speech—the choice came to Bonn. A university town known as little more than the birthplace of Beethoven, Bonn had seen little wartime damage, had few ties to the Third Reich, and lacked the gravitas that a larger city migh"
+   },
+   "published": "Tue, 10 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grissom Air Museum in Peru, Indiana",
+   "article": {
+    "title": "Grissom Air Museum in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/grissom-air-museum",
+    "extract": "If you've seen the movie “Top Gun: Maverick,” there are so many references and jokes to be made here. This is, after all, an air museum built near a former active air base. There are four loosely worded references to quotes from “Top Gun: Maverick” contained within this report. Can you find them all? The Grissom Air Museum opened in 1991 and is primarily focused on military aviation during the Col"
+   },
+   "published": "Tue, 10 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Check Out the Playlist for Our New Book",
+   "article": {
+    "title": "Check Out the Playlist for Our New Book",
+    "url": "https://www.atlasobscura.com/articles/check-out-the-playlist-for-our-new-book",
+    "extract": "Our latest book, “America Obscura: An Explorer’s Guide to the Hidden Wonders of the United States,” has just been published. But it doesn’t just take you to Texas or Maine or Michigan. It takes you to a town called Hell, to a desert in one of the greenest states, to a sundial on the exact spot where America's day begins, and to a seven-story Jesus nicknamed “Our Milk Carton with Arms.” These are r"
+   },
+   "published": "Tue, 10 Nov 2026 06:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Drunken Lampposts in Halifax, Nova Scotia",
+   "article": {
+    "title": "Drunken Lampposts in Halifax, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/drunken-lampposts-halifax",
+    "extract": "Along the Halifax Waterfront in Nova Scotia, a group of lampposts appears to have had a little too much to drink. Commonly known as the \"Drunken Lampposts,\" these unusual public art installations bring a humorous twist to the city's lively nightlife. Created by NSCAD University alumni Chris Hanson and Hendrika Sonnenberg, the installations are officially titled \"Fountain: and :Get Drunk, Fall Down"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+   "article": {
+    "title": "Jurassic Jungle Boat Ride in Pigeon Forge, Tennessee",
+    "url": "https://www.atlasobscura.com/places/jurassic-jungle-boat-ride",
+    "extract": "Just outside of Dollywood is a relatively nondescript building squished between many other independently operated tourist traps and minor amusement park attractions. Out of all of these offerings for family vacationers though, the Jurassic Jungle Boat Ride seems to be particularly infamous among theme park enthusiasts. This ride has often been touted among thrill seekers and ride enthusiasts as on"
+   },
+   "published": "Mon, 09 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+   "article": {
+    "title": "Marvin the Mastodon in Stewiacke, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/marvin-the-mastodon",
+    "extract": "Standing high above the highway in Stewiacke, Nova Scotia, is Marvin the Mastodon, a life-sized replica of a prehistoric giant that once roamed the region. Measuring 14 feet tall and 22 feet long, the enormous statue was erected at Mastodon Ridge in January 1995 to commemorate a remarkable discovery made just a few years earlier. In 1991, while excavating a sinkhole at the National Gypsum Quarry n"
+   },
+   "published": "Mon, 09 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+   "article": {
+    "title": "Mussel Village Bruinisse in Bruinisse, Netherlands",
+    "url": "https://www.atlasobscura.com/places/mussel-village-bruinisse",
+    "extract": "On the edge of the lowlands of Zeeland lies a village dedicated to celebrating the mussel fishing industry. A vital part of life in Bruinisse for centuries, mussel farming has long been one of the main sources of income for the local area. Bruinisse harbour is the heart of the village and is home to a large, active mussel fleet. The mussel season runs from July to April, with mussel cutters settin"
+   },
+   "published": "Mon, 09 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Fuente de los Niños Miones in Guadalajara, Mexico",
+   "article": {
+    "title": "Fuente de los Niños Miones in Guadalajara, Mexico",
+    "url": "https://www.atlasobscura.com/places/fuente-de-los-ninos-miones",
+    "extract": "Framed by traditional black wrought ironwork, the Fuente de los Niños Miones delights passersby in Guadalajara's Historic Center, right in the Plaza Tapatía. This sculptural gem attracts curious travelers with its peculiar charm and a touch of urban cheekiness. Designed to celebrate the joy of childhood, the artwork was created by sculptor Miguel Miramontes and installed in 1982. It sits on Morelo"
+   },
+   "published": "Fri, 06 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+   "article": {
+    "title": "Tarrafal Concentration Camp in Chão Bom, Cabo Verde",
+    "url": "https://www.atlasobscura.com/places/tarrafal-concentration-camp",
+    "extract": "The camp opened in 1936, when the first group of about 150 prisoners arrived from Lisbon: communists, anarchists, trade unionists and sailors who had mutinied against Salazar's dictatorship. The location was chosen deliberately. It was isolated, hot, short on clean water and plagued by malaria. Prisoners called it the \"Campo da Morte Lenta,\" the Camp of Slow Death. More than 30 Portuguese inmates "
+   },
+   "published": "Fri, 06 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+   "article": {
+    "title": "Al Qasr Al Ghamedh (Al Qassimi Palace) in Ras Al-Khaimah, United Arab Emirates",
+    "url": "https://www.atlasobscura.com/places/al-qasr-al-ghamedh-al-qassimi-palace",
+    "extract": "Sitting upon one of the hills in Ras Al Khaimah, Al Qasimi Palace, also known as Al Qasr Al Ghamedh (the Haunted Palace), is one of the UAE's most fascinating landmarks. Commissioned by the late Sheikh Abdulaziz bin Humaid Al Qasimi, construction began in 1975 and took years to complete. Although the palace was built as a grand private residence, it remained largely unoccupied for around 35 years."
+   },
+   "published": "Fri, 06 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Statue of Lord Laddu Gopal in Agra, India",
+   "article": {
+    "title": "Statue of Lord Laddu Gopal in Agra, India",
+    "url": "https://www.atlasobscura.com/places/26-foot-statue-of-lord-laddu-gopal",
+    "extract": "Standing along Agra’s Yamuna River Promenade, the giant 26-foot-tall Lord Laddu Gopal statue is hard to miss. Created by the Agra Municipal Corporation as part of its \"Waste to Wonder\" initiative, the sculpture was built using more than two tonnes of discarded iron and steel, turning scrap metal into a striking piece of public art. It features a striking peacock feather that towers over the Ambedk"
+   },
+   "published": "Fri, 06 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 9 Quentin Tarantino Movies, Ranked",
+   "article": {
+    "title": "All 9 Quentin Tarantino Movies, Ranked",
+    "url": "https://www.mentalfloss.com/entertainment/movies/quentin-tarantino-movies-ranked?utm_source=RSS",
+    "extract": "With his tenth and possibly final movie still on the horizon, there's no better time to revisit Quentin Tarantino's filmography."
+   },
+   "published": "Wed, 11 Nov 2026 13:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+   "article": {
+    "title": "Colin Meloy on the Folklore, Forests, and Political Message of 'Wildwood'",
+    "url": "https://www.mentalfloss.com/literature/books/colin-meloy-wildwood-interview?utm_source=RSS",
+    "extract": "The author and Decemberists frontman talks Portland, AI, and the universal stories behind his novel, now a movie from Laika Studios."
+   },
+   "published": "Wed, 11 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Books Kurt Vonnegut Considered His Best—and Worst",
+   "article": {
+    "title": "The Books Kurt Vonnegut Considered His Best—and Worst",
+    "url": "https://www.mentalfloss.com/literature/books/kurt-vonnegut-best-worst-books?utm_source=RSS",
+    "extract": "In 1981, Kurt Vonnegut gave his own books a report card from A+ to D. Here is how he graded his best work—and the self-portrait that got his lowest mark."
+   },
+   "published": "Wed, 11 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Surprising Daily Routine Jane Austen Followed While Writing Her Novels",
+   "article": {
+    "title": "The Surprising Daily Routine Jane Austen Followed While Writing Her Novels",
+    "url": "https://www.mentalfloss.com/literature/authors/jane-austen-daily-routine?utm_source=RSS",
+    "extract": "Jane Austen never had a room of her own. Instead, she completed all of her published works in the middle of her family's bustling sitting room in their Chawton cottage."
+   },
+   "published": "Tue, 10 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "8 Famous Musicians Who Appeared on ‘Sesame Street’",
+   "article": {
+    "title": "8 Famous Musicians Who Appeared on ‘Sesame Street’",
+    "url": "https://www.mentalfloss.com/entertainment/tv/famous-musicians-on-sesame-street?utm_source=RSS",
+    "extract": "From Johnny Cash's song for Oscar the Grouch to B. B. King's ode to the letter \"b,\" these 'Sesame Street' appearances by famous musicians were unforgettable."
+   },
+   "published": "Tue, 10 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "75 Holiday Jokes That Are So Funny, You'll Want to Share Them With Everyone",
+   "article": {
+    "title": "75 Holiday Jokes That Are So Funny, You'll Want to Share Them With Everyone",
+    "url": "https://www.mentalfloss.com/holidays/holiday-jokes-funny-share-with-everyone?utm_source=RSS",
+    "extract": "These jokes are sure to add a little laughter to your Thanksgiving, Christmas, and New Year's celebrations!"
+   },
+   "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Surprising Facts About ‘Bridgerton’",
+   "article": {
+    "title": "20 Surprising Facts About ‘Bridgerton’",
+    "url": "https://www.mentalfloss.com/entertainment/tv/bridgerton-netflix-tv-show-facts?utm_source=RSS",
+    "extract": "Netflix’s period hit ‘Bridgerton’ has taken the world by storm. Learn about the series while you wait for season 5."
+   },
+   "published": "Fri, 22 Jan 2021 10:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Original Name for ‘Sesame Street’ Wasn't Nearly as Catchy",
+   "article": {
+    "title": "The Original Name for ‘Sesame Street’ Wasn't Nearly as Catchy",
+    "url": "https://www.mentalfloss.com/entertainment/tv/original-name-sesame-street-wasn-t-as-catchy?utm_source=RSS",
+    "extract": "The beloved show's first title was the name of an actual street in the East Village."
+   },
+   "published": "Tue, 10 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Veterans Day Was Originally Called Armistice Day",
+   "article": {
+    "title": "Why Veterans Day Was Originally Called Armistice Day",
+    "url": "https://www.mentalfloss.com/holidays/why-veterans-day-originally-called-armistice-day?utm_source=RSS",
+    "extract": "The name and the meaning of Veterans Day have changed throughout history to include all those who have served in the military."
+   },
+   "published": "Tue, 10 Nov 2026 15:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Map Shows America's Favorite Thanksgiving Desserts",
+   "article": {
+    "title": "Map Shows America's Favorite Thanksgiving Desserts",
+    "url": "https://www.mentalfloss.com/geography/maps/most-popular-thanksgiving-desserts-by-state-map?utm_source=RSS",
+    "extract": "DoorDash data reveals the most popular Thanksgiving desserts in every state, from classic pumpkin pie to surprising chocolate cake."
+   },
+   "published": "Tue, 10 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Slang Words From the 1980s We Still Use Today",
+   "article": {
+    "title": "9 Slang Words From the 1980s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1980s-still-use-today?utm_source=RSS",
+    "extract": "The decade of MTV, shoulder pads, and big hair gave us some of our favorite and most expressive words."
+   },
+   "published": "Mon, 09 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best Cities in the U.S. For Veterans, Mapped",
+   "article": {
+    "title": "The Best Cities in the U.S. For Veterans, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-cities-for-veterans?utm_source=RSS",
+    "extract": "Discover the best and worst cities for veterans in the U.S. in 2026, based on job opportunities, healthcare, and more."
+   },
+   "published": "Mon, 09 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+   "article": {
+    "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+    "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+    "extract": "Recently obtained by the Library of Congress, the 1760 letter offers positive news about the health of four-year-old Martha Parke Custis, known as Patsy, the stepdaughter of George Washington"
+   },
+   "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+   "article": {
+    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+    "extract": "Across seven yellow notepad pages, King is seen wrestling with word choice and revising his remarks the night before the March on Washington. The manuscript will head to auction in January and is expected to pull in more than $10 million"
+   },
+   "published": "Tue, 10 Nov 2026 21:45:09 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+   "article": {
+    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+    "extract": "A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions"
+   },
+   "published": "Tue, 10 Nov 2026 21:17:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+   "article": {
+    "title": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+    "url": "https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853/",
+    "extract": "First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction"
+   },
+   "published": "Tue, 10 Nov 2026 17:27:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+   "article": {
+    "title": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+    "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/",
+    "extract": "The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+   "article": {
+    "title": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+    "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/",
+    "extract": "The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+   "article": {
+    "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
+    "url": "https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851/",
+    "extract": "Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed \"crazy\" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization"
+   },
+   "published": "Tue, 10 Nov 2026 12:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+   "article": {
+    "title": "While Cleaning Out Her Aunt's Manhattan Apartment, a Woman Found a Long-Lost Georgia O'Keeffe Painting Buried Beneath Fur Coats in the Closet",
+    "url": "https://www.smithsonianmag.com/smart-news/while-cleaning-out-her-aunts-manhattan-apartment-a-woman-found-a-long-lost-georgia-okeeffe-painting-buried-beneath-fur-coats-in-the-closet-180989848/",
+    "extract": "Painted in 1930, \"Near Abiquiu, New Mexico I\" sat in the closet for 40 years, with only a single photograph, by O'Keeffe’s husband, Alfred Stieglitz, attesting to its existence. It could fetch upwards of $3 million at auction this month"
+   },
+   "published": "Mon, 09 Nov 2026 19:55:32 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+   "article": {
+    "title": "Neolithic Cannibalism Wasn't an Act of Desperation. Almost 1,000 Skeletal Fragments From Caves in Southern Spain Show How Eating Human Flesh Was a Continual Practice",
+    "url": "https://www.smithsonianmag.com/smart-news/neolithic-cannibalism-wasnt-an-act-of-desperation-almost-1000-skeletal-fragments-from-caves-in-southern-spain-show-how-eating-human-flesh-was-a-continual-practice-180989849/",
+    "extract": "More than five decades after hordes of prehistoric bones were unearthed from three caves in Granada, new forensic techniques show how communities continued to consume their dead across distinct cultural eras"
+   },
+   "published": "Mon, 09 Nov 2026 18:11:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+   "article": {
+    "title": "The Great Pacific Garbage Patch Has Accumulated So Many Microplastics They Might Be Changing the Color of the Ocean",
+    "url": "https://www.smithsonianmag.com/smart-news/the-great-pacific-garbage-patch-has-accumulated-so-many-microplastics-they-might-be-changing-the-color-of-the-ocean-180989828/",
+    "extract": "Satellite data suggests water in and around the huge area filled with human-made debris has become more blue-green over the past two decades. Computer simulations suggest microplastics are to blame, but researchers need samples to confirm their hypothesis"
+   },
+   "published": "Mon, 09 Nov 2026 16:36:58 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+   "article": {
+    "title": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+    "url": "https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/",
+    "extract": "A tomb discovered in Siberia and associated with Scythians—a nomadic, horse-riding people that once roamed the Eurasian steppe—might provide the earliest direct evidence of cannabis use"
+   },
+   "published": "Mon, 09 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+   "article": {
+    "title": "Even Replacing Some of Your Dietary Dairy With Plant-Based Alternatives Can Lead to Nutrient Deficiencies, Study Suggests",
+    "url": "https://www.smithsonianmag.com/smart-news/even-replacing-some-of-your-dietary-dairy-with-plant-based-alternatives-can-lead-to-nutrient-deficiencies-study-suggests-180989825/",
+    "extract": "More people are swapping animal products with vegan milks, yogurts and cheeses, so scientists wanted to investigate the potential public health effects. Their findings hint that consumers should look for items with extra nutrients added, called fortified foods"
+   },
+   "published": "Mon, 09 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+   "article": {
+    "title": "„Przebaczamy i prosimy o przebaczenie”. Dlaczego komuniści oskarżyli polskich biskupów o zdradę?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/04/przebaczamy-i-prosimy-o-przebaczenie-dlaczego-komunisci-oskarzyli-polskich-biskupow-o-zdrade/",
+    "extract": "W 1965 roku polscy biskupi skierowali do niemieckich duchownych historyczne orędzie, w którym padły słowa o przebaczeniu i pojednaniu. Reakcja władz PRL była gwałtowna. Prymasa Stefana Wyszyńskiego oskarżono o zdradę, a komunistyczna propaganda rozpętała kampanię przeciwko Kościołowi. Dlaczego gest pojednania z Niemcami wywołał tak wielkie oburzenie? The post „Przebaczamy i prosimy o przebaczenie”"
+   },
+   "published": "Wed, 04 Nov 2026 11:53:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "PRL. Największe katastrofy",
+   "article": {
+    "title": "PRL. Największe katastrofy",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/03/prl-najwieksze-katastrofy/",
+    "extract": "Po sukcesie książki PRL od kuchni Sławomir Koper i Mariusz Mucha postanowili przybliżyć czytelnikom największe katastrofy epoki PRL-u. The post PRL. Największe katastrofy first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 03 Nov 2026 14:06:21 +0000",
+   "image": null
+  }
+ ]
+}
