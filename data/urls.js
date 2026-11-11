@@ -2,12 +2,20 @@
 window.HYPERS_URLS = {
  "2026-11-11": {
   "luz": [
+   "artykuly/2026-11-11/gra-wojtka-goli-akademia-pana-kleksa-wchodzi-jutro-na-steama-tydzien.html",
    "artykuly/2026-11-11/final-piatego-sezonu-mafii-irl-u-friza-ponad-milion-wyswietlen.html",
    "artykuly/2026-11-11/jake-paul-i-cedric-doumbe-pierwszy-raz-twarza-w-twarz-konferencja.html",
    "artykuly/2026-11-11/young-multi-ruszyl-z-zamowieniami-albumu-lost-media-promowal.html",
    "artykuly/2026-11-11/blowek-znowu-kupil-wszystko-z-reklam-ai-czwarta-czesc-serii-w-ktorej.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-11/na-nowej-gwinei-zyje-pies-ktory-prawie-nie-szczeka-za-to-spiewa.html",
+   "artykuly/2026-11-11/kiedys-istniala-rasa-psow-hodowana-tylko-po-to-by-biegac-w-kole.html",
+   "artykuly/2026-11-11/brytyjczyk-zbudowal-w-meksyku-plywajaca-wyspe-z-tysiecy-pustych.html",
+   "artykuly/2026-11-11/w-kalifornii-zyje-pajak-nazwany-na-czesc-baracka-obamy.html",
+   "artykuly/2026-11-11/planeta-coconuts-2b-potrzebuje-ponad-miliona-lat-zeby-raz-okrazyc.html",
+   "artykuly/2026-11-11/francuski-wywiad-kazal-usunac-artykul-z-wikipedii-o-bazie-wojskowej.html",
+   "artykuly/2026-11-11/w-indyjskiej-wiosce-shani-shingnapur-domy-nie-maja-drzwi.html",
    "artykuly/2026-11-11/boliwia-nie-ma-dostepu-do-morza-ale-ma-marynarke-wojenna-z-ok-5-tys.html",
    "artykuly/2026-11-11/internet-ma-oficjalny-protokol-do-parzenia-kawy-stad-wzial-sie-blad.html",
    "artykuly/2026-11-11/najbardziej-stroma-ulica-swiata-wedlug-guinnessa-jest-w-nowej-zelandii.html",

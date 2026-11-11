@@ -6,6 +6,55 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-11-11",
+        "who": "Wojtek Gola",
+        "initials": "WG",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Gra Wojtka Goli „Akademia Pana Kleksa” wchodzi jutro na Steama. Tydzień przed GTA 6",
+        "summary": "12 listopada „Akademia Pana Kleksa” (Kleks Academy) startuje na Steamie we wczesnym dostępie. Grę promuje Wojtek Gola, a Tamae zdążył już zagrać w demo na swoim kanale.",
+        "body": [
+          "Wojtek Gola ogłosił datę premiery „Akademii Pana Kleksa”, gry inspirowanej twórczością Jana Brzechwy. Tytuł trafi na Steama 12 listopada 2026 roku we wczesnym dostępie, który według zapowiedzi ma potrwać około pół roku. Na razie gra jest tylko na PC.",
+          "Za produkcję odpowiada Raccoons Studio, a wydawcą jest grupa BeardedBrothers.Games, z którą Gola jest związany. Portale opisują ją jako logiczną platformówkę, w której gracz rysuje mosty i schody. Wersja z wczesnego dostępu ma zawierać tryb dla jednego gracza na ok. 20 godzin, a tryb wieloosobowy i nowe poziomy mają dojść w pełnej wersji.",
+          "Na Steamie od dłuższego czasu jest darmowe demo. Premiera wypada tydzień przed zapowiedzianą na 19 listopada konsolową premierą GTA 6, na co zwróciły uwagę media. Gra od początku budzi w sieci mieszane reakcje, a porównania do Hogwarts Legacy część redakcji uznaje za przesadzone.",
+          "Grę sprawdził już Tamae. Jego film „Sprawdziłem Nową Grę WOJKTA GOLI..” z 10 listopada miał ok. 21,7 tys. wyświetleń (odczyt 11.11, rano), a widzowie w komentarzach żartują głównie z samego Goli i jego pomysłów."
+        ],
+        "sources": [
+          {
+            "name": "Gram.pl",
+            "url": "https://www.gram.pl/news/polska-odpowiedz-na-hogwarts-legacy-wraca-po-dlugiej-ciszy-premiera-juz-za-trzy-dni"
+          },
+          {
+            "name": "Obcas.pl",
+            "url": "https://obcas.pl/gra-wojtka-goli/"
+          },
+          {
+            "name": "GRY-Online",
+            "url": "https://www.gry-online.pl/newsroom/premiera-ogloszona-4-dni-wczesniej-i-finansowe-klopoty-wydawcy-ak/z8322a0"
+          },
+          {
+            "name": "Tamae / YouTube",
+            "url": "https://www.youtube.com/watch?v=Wf2rGPNKELg"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Wf2rGPNKELg",
+        "caption": {
+          "credit": "Tamae / YouTube",
+          "text": "Tamae gra w demo „Akademii Pana Kleksa” dzień przed oficjalnym ogłoszeniem szczegółów w mediach. Materiał pokazuje grę, która jutro trafia do wczesnego dostępu na Steamie."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Wf2rGPNKELg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Wf2rGPNKELg/hqdefault.jpg",
+          "credit": "Tamae / YouTube",
+          "href": "https://www.youtube.com/watch?v=Wf2rGPNKELg",
+          "alt": "Miniatura filmu Tamae o grze Akademia Pana Kleksa",
+          "caption": "Miniatura filmu, w którym Tamae sprawdza grę Wojtka Goli."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-11-10",
         "who": "Friz",
         "initials": "FR",
@@ -173,6 +222,265 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Nowa Gwinea",
+        "initials": "NG",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Na Nowej Gwinei żyje pies, który prawie nie szczeka, za to „śpiewa” i wspina się na drzewa",
+        "summary": "Śpiewający pies z Nowej Gwinei to jedna z najstarszych linii psów. Zamiast szczekać, wydaje zawodzące dźwięki przypominające jodłowanie.",
+        "body": [
+          "Śpiewający pies z Nowej Gwinei pochodzi z wyżyn tej wyspy i jest bliskim krewnym australijskiego dingo. Kiedyś uznawano go nawet za osobny gatunek.",
+          "Należy do nielicznych psów uznawanych za „nieszczekające”. Nazwę zawdzięcza charakterystycznemu, jodłującemu wyciu, a do tego potrafi wspinać się na drzewa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/New_Guinea_singing_dog"
+          },
+          {
+            "name": "PMC / NCBI",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116352"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/New_Guinea_Singing_Dog_on_trail-Cropped.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:New_Guinea_Singing_Dog_on_trail-Cropped.jpg",
+          "credit": "Patti McNeal / Wikimedia Commons, CC BY 2.0",
+          "alt": "Rudy śpiewający pies z Nowej Gwinei stojący na ścieżce",
+          "caption": "Śpiewający pies z Nowej Gwinei na leśnej ścieżce."
+        },
+        "caption": {
+          "credit": "Patti McNeal / Wikimedia Commons",
+          "text": "Śpiewający pies z Nowej Gwinei na leśnej ścieżce. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Psy",
+        "initials": "PS",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Kiedyś istniała rasa psów hodowana tylko po to, by biegać w kole i obracać mięso na rożnie",
+        "summary": "Turnspit dog, czyli „pies od rożna”, biegał w drewnianym kole w kuchni, a koło obracało pieczone mięso. Ta rasa już wymarła.",
+        "body": [
+          "Turnspit dog był psem o krótkich łapach i długim tułowiu, wyhodowanym do biegania w kole napędzającym rożen. Wspomina o nim już książka „Of English Dogs” z 1576 roku pod nazwą „Turnespete”.",
+          "Nazywano go też psem kuchennym. Gdy kuchnie zmieniły się i rożna przestały potrzebować psiej siły, rasa wymarła."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Turnspit_dog"
+          },
+          {
+            "name": "BBC A History of the World",
+            "url": "https://www.bbc.co.uk/ahistoryoftheworld/objects/ryKLhLRqRF6MGhynjUCqjQ"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Turnspit_Dog_Working.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Turnspit_Dog_Working.jpg",
+          "credit": "Henry Wigstead / Wikimedia Commons, domena publiczna",
+          "alt": "Dawna rycina: pies biegnie w kole zawieszonym na ścianie kuchni przy palenisku",
+          "caption": "Rycina Henry'ego Wigsteada pokazuje psa przy pracy w kole obracającym rożen."
+        },
+        "caption": {
+          "credit": "Henry Wigstead / Wikimedia Commons",
+          "text": "Rycina Henry'ego Wigsteada pokazuje psa przy pracy w kole obracającym rożen. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Meksyk",
+        "initials": "MX",
+        "category": "Ciekawe miejsca",
+        "hype": 4,
+        "title": "Brytyjczyk zbudował w Meksyku pływającą wyspę z tysięcy pustych plastikowych butelek",
+        "summary": "Spiral Island stworzył artysta Richart „Reishee” Sowa. Wyspa unosiła się na plastikowych butelkach, aż zniszczył ją huragan Emily w 2005 roku.",
+        "body": [
+          "Spiral Island to sztuczna, pływająca wyspa zbudowana w Meksyku przez brytyjskiego artystę Richarta „Reishee” Sowę. Jej podstawą były tysiące pustych plastikowych butelek.",
+          "Wyspę zniszczył huragan Emily w 2005 roku. Następczynię, Joyxee Island, udostępniano turystom od 2008 roku, ale po zniszczeniach przez sztormy lokalne władze nakazały jej usunięcie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Spiral_Island"
+          },
+          {
+            "name": "Atlas Obscura",
+            "url": "https://www.atlasobscura.com/places/joyxee-island"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/SpiralIsland2000.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:SpiralIsland2000.jpg",
+          "credit": "RandyMac McCallum / Wikimedia Commons, domena publiczna",
+          "alt": "Porośnięta roślinami pływająca wyspa Spiral Island na wodzie",
+          "caption": "Spiral Island w 2000 roku, jeszcze przed huraganem."
+        },
+        "caption": {
+          "credit": "RandyMac McCallum / Wikimedia Commons",
+          "text": "Spiral Island w 2000 roku, jeszcze przed huraganem. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Pająki",
+        "initials": "PJ",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "W Kalifornii żyje pająk nazwany na cześć Baracka Obamy",
+        "summary": "Aptostichus barackobamai to pająk z rodziny ptaszników zapadkowych. Opisano go w 2012 roku razem z 32 innymi nowymi gatunkami.",
+        "body": [
+          "Aptostichus barackobamai to spory pająk z północnej Kalifornii, nazwany na cześć 44. prezydenta USA. Opisał go Jason Bond z Auburn University w grudniu 2012 roku jako jeden z 33 nowych gatunków z rodzaju Aptostichus.",
+          "Pająk buduje norki z jedwabiu, ziemi i piasku, z których atakuje ofiary. Ma ciemnoczerwone do czerwonobrązowego ubarwienie i wzór w jodełkę na odwłoku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Aptostichus_barackobamai"
+          },
+          {
+            "name": "NCBI Taxonomy (archiwum)",
+            "url": "https://web.archive.org/web/20230401203105/https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1284285"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aptostichus_barackobamai_holotype.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Aptostichus_barackobamai_holotype.jpg",
+          "credit": "Jason E. Bond / Wikimedia Commons, CC BY 3.0",
+          "alt": "Czerwonobrązowy pająk Aptostichus barackobamai na jasnym tle",
+          "caption": "Okaz typowy gatunku sfotografowany przez autora opisu, Jasona Bonda."
+        },
+        "caption": {
+          "credit": "Jason E. Bond / Wikimedia Commons",
+          "text": "Okaz typowy gatunku sfotografowany przez autora opisu, Jasona Bonda. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Kosmos",
+        "initials": "KS",
+        "category": "Kosmos",
+        "hype": 4,
+        "title": "Planeta COCONUTS-2b potrzebuje ponad miliona lat, żeby raz okrążyć swoją gwiazdę",
+        "summary": "Ten gazowy olbrzym krąży 7500 jednostek astronomicznych od gwiazdy. Przez lata uważano go za samotnego brązowego karła.",
+        "body": [
+          "COCONUTS-2b to gazowy olbrzym o masie 7,3 Jowisza, krążący wokół czerwonego karła L 34-26 w odległości ok. 7500 jednostek astronomicznych. Jedno okrążenie zajmuje mu ponad milion lat.",
+          "Obiekt odkryto w 2011 roku i początkowo uznano za swobodnie dryfującego brązowego karła. Dopiero w 2021 roku przegląd COCONUTS ogłosił, że jest związany z gwiazdą."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/COCONUTS-2b"
+          },
+          {
+            "name": "University of Hawaiʻi",
+            "url": "https://www.hawaii.edu/news/2021/07/27/massive-coconuts-exoplanet-discovery-uh-grad-student/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Coconuts-2b_unwise.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Coconuts-2b_unwise.png",
+          "credit": "Meli thev / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Zdjęcie w podczerwieni z teleskopu WISE z zaznaczoną planetą COCONUTS-2b i jej gwiazdą",
+          "caption": "Obraz z danych unWISE pokazujący COCONUTS-2b i gwiazdę L 34-26."
+        },
+        "caption": {
+          "credit": "Meli thev / Wikimedia Commons",
+          "text": "Obraz z danych unWISE pokazujący COCONUTS-2b i gwiazdę L 34-26. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Francja",
+        "initials": "FR",
+        "category": "Internet",
+        "hype": 4,
+        "title": "Francuski wywiad kazał usunąć artykuł z Wikipedii o bazie wojskowej. Przez to stał się sławny",
+        "summary": "W 2013 roku służba DCRI naciskała na szefa Wikimedia France, by usunął hasło o stacji radiowej Pierre-sur-Haute. Artykuł szybko przywrócono, a sprawa obiegła media.",
+        "body": [
+          "Pierre-sur-Haute to francuska wojskowa stacja łączności działająca od 1913 roku na szczycie wzgórza w Masywie Centralnym. Stoją tam trzy wieże, w tym 55-metrowa wieża telekomunikacyjna.",
+          "W kwietniu 2013 roku francuski kontrwywiad DCRI wywarł nacisk na Rémiego Mathisa, przewodniczącego Wikimedia France, by usunął francuskojęzyczny artykuł o stacji. Hasło szybko przywrócił inny wikipedysta, a cała sprawa stała się głośna."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pierre-sur-Haute_military_radio_station"
+          },
+          {
+            "name": "Subterranea Britannica",
+            "url": "http://www.subbrit.org.uk/rsg/features/ace_high/index.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Base_militaire_de_Pierre-sur-Haute.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Base_militaire_de_Pierre-sur-Haute.jpg",
+          "credit": "S. RIMBAUD / Wikimedia Commons, domena publiczna",
+          "alt": "Wojskowa stacja Pierre-sur-Haute z wieżami na szczycie wzgórza",
+          "caption": "Stacja Pierre-sur-Haute, której artykuł w Wikipedii próbowano usunąć."
+        },
+        "caption": {
+          "credit": "S. RIMBAUD / Wikimedia Commons",
+          "text": "Stacja Pierre-sur-Haute, której artykuł w Wikipedii próbowano usunąć. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Indie",
+        "initials": "IN",
+        "category": "Kraje",
+        "hype": 4,
+        "title": "W indyjskiej wiosce Shani Shingnapur domy nie mają drzwi",
+        "summary": "Wioska w stanie Maharasztra słynie ze świątyni boga Śaniego i z tego, że jej domy stoją bez drzwi.",
+        "body": [
+          "Shani Shingnapur leży w stanie Maharasztra, ok. 35 km od miasta Ahmednagar. Znana jest ze świątyni Śaniego, hinduistycznego boga związanego z planetą Saturn.",
+          "Wioska jest opisywana jako miejsce, w którym domy nie mają drzwi. To jedna z jej największych atrakcji dla pielgrzymów i turystów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Shani_Shingnapur"
+          },
+          {
+            "name": "Times of India",
+            "url": "http://timesofindia.indiatimes.com/articleshow/3096822.cms"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Shani_Shignapur_renowned_for_its_Shani_temple.jpg",
+          "credit": "25 Cents FC / Wikimedia Commons, CC BY 4.0",
+          "alt": "Świątynia Śaniego w wiosce Shani Shingnapur",
+          "caption": "Świątynia Śaniego, z której słynie wioska Shani Shingnapur."
+        },
+        "caption": {
+          "credit": "25 Cents FC / Wikimedia Commons",
+          "text": "Świątynia Śaniego, z której słynie wioska Shani Shingnapur. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-11",
