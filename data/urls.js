@@ -1,5 +1,22 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-12": {
+  "luz": [
+   "artykuly/2026-11-12/ksiazulo-testuje-jedyna-taka-burgerownie-w-polsce-film-ma-prawie-650.html",
+   "artykuly/2026-11-12/ishowspeed-po-raz-pierwszy-na-korcie-tenisowym-odbieral-serwisy.html",
+   "artykuly/2026-11-12/young-multi-zapowiada-kolejny-numer-za-kazdym-ra2em-wychodzi-19.html",
+   "artykuly/2026-11-12/jacob-cup-wrocil-z-trzecim-sezonem-mistrzostwa-1v1-2v2-i-3v3-o-21-tys.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-12/najkrotszy-rejsowy-lot-pasazerski-na-swiecie-trwa-okolo-minuty-rekord.html",
+   "artykuly/2026-11-12/pierwsza-kamerka-internetowa-na-swiecie-pokazywala-dzbanek-z-kawa.html",
+   "artykuly/2026-11-12/jedna-z-najdrozszych-kaw-swiata-to-ziarna-ktore-przeszly-przez-uklad.html",
+   "artykuly/2026-11-12/w-stolicy-nigerii-stoi-willa-z-30-metrowym-samolotem-na-dachu.html",
+   "artykuly/2026-11-12/na-pierwszych-nowozytnych-igrzyskach-byl-wyscig-plywacki-tylko-dla.html",
+   "artykuly/2026-11-12/istnieje-bryla-o-nieskonczonym-polu-powierzchni-ale-skonczonej.html",
+   "artykuly/2026-11-12/trojkat-z-papieru-toaletowego-w-hotelu-to-znak-ze-lazienka-zostala.html"
+  ]
+ },
  "2026-11-11": {
   "luz": [
    "artykuly/2026-11-11/gra-wojtka-goli-akademia-pana-kleksa-wchodzi-jutro-na-steama-tydzien.html",

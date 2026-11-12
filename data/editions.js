@@ -1,5 +1,427 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-12": {
+    "date": "2026-11-12",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-11",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo testuje „jedyną taką burgerownię w Polsce”. Film ma prawie 650 tys. wyświetleń w pół doby",
+        "summary": "Nowy odcinek Książula trafił na YouTube we wtorek wieczorem i rano miał już ok. 647 tys. wyświetleń. W opisie twórca podlinkował też swój nowy kanał.",
+        "body": [
+          "Książulo opublikował 11 listopada wieczorem film „JEDYNA TAKA BURGEROWNIA w POLSCE”. Materiał trwa ok. 36 minut i jest kolejnym odcinkiem jego serii testów lokali.",
+          "Według odczytu z 12 listopada, ok. 6:15, film miał ok. 647 tys. wyświetleń, 13,5 tys. polubień i ponad 740 komentarzy.",
+          "W opisie, oprócz współpracy reklamowej, twórca podlinkował swój nowy kanał. Widzowie w komentarzach zwracają uwagę, że kanał mimo wcześniejszych przewidywań spadków nadal rośnie, a część z nich ma uwagi do roli drugiej osoby testującej jedzenie.",
+          "Wśród najpopularniejszych komentarzy są też propozycje lokali, które twórca powinien sprawdzić w kolejnych odcinkach."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=IDV0FU9USZw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=IDV0FU9USZw",
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Osadzamy omawiany odcinek, żeby można było sprawdzić test burgerowni u źródła. Statystyki w tekście pochodzą z odczytu o 6:15."
+        },
+        "noImage": "w filmie występuje dziecko, a nie dało się sprawdzić, czy jest na miniaturze; tylko osadzony film",
+        "ig": [
+          "ksiazulo"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Sport",
+        "hype": 4,
+        "title": "IShowSpeed po raz pierwszy na korcie tenisowym. Odbierał serwisy Sereny Williams",
+        "summary": "IShowSpeed wydał film, w którym pierwszy raz w życiu gra w tenisa, a jego rywalką i trenerką jest Serena Williams. Materiał w niecałą dobę obejrzało ok. 650 tys. osób.",
+        "body": [
+          "Na kanale IShowSpeed pojawił się 11 listopada film „Can I Return a 120 MPH Serve From Serena Williams?”. Jak opisuje kanał, twórca pierwszy raz wychodzi na kort tenisowy i próbuje odebrać serwis jednej z najwybitniejszych tenisistek w historii, lecący z prędkością ponad 120 mil na godzinę (ok. 193 km/h).",
+          "Materiał trwa ok. 31 minut. Według opisu wyprodukowało go studio OBB we współpracy z siecią sklepów sportowych Dick's Sporting Goods.",
+          "W odczycie z 12 listopada, ok. 6:15, film miał ok. 649 tys. wyświetleń i ponad tysiąc komentarzy. Widzowie, w tym osoby grające w tenisa, piszą, że jak na pierwszy raz z rakietą Speed radził sobie nieźle, ale tenis to jeden z najtrudniejszych sportów do szybkiego opanowania."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=jJ-zWCw85qA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=jJ-zWCw85qA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/jJ-zWCw85qA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/jJ-zWCw85qA/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=jJ-zWCw85qA",
+          "alt": "Miniatura filmu IShowSpeeda o grze w tenisa z Sereną Williams",
+          "caption": "Miniatura filmu, w którym IShowSpeed próbuje odebrać serwis Sereny Williams."
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura i osadzony film to omawiany materiał z pierwszego treningu tenisa Speeda. Liczby wyświetleń podajemy z odczytu o 6:15."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-11",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Young Multi zapowiada kolejny numer. „Za każdym ra2em” wychodzi 19 listopada",
+        "summary": "Young Multi pokazał krótki zapowiadający fragment nowego utworu „Za każdym ra2em” z datą premiery 19 listopada. To kolejny numer w okresie promocji albumu „Lost Media”.",
+        "body": [
+          "Na kanale YOUNG MULTI LIVE pojawił się 11 listopada 20-sekundowy short „„ZA KAŻDYM RA2EM” PREMIERA 19.11”. To zapowiedź kolejnego numeru rapera.",
+          "Zapowiedź wychodzi w czasie promocji albumu „Lost Media”, który jest już w przedsprzedaży w sklepie wytwórni, i kilka dni po premierze singla „Red Alabaster”.",
+          "W odczycie z 12 listopada, ok. 6:15, short miał ok. 28,6 tys. wyświetleń i 2,3 tys. polubień. W komentarzach fani zastanawiają się, czy w utworze pojawi się gość, i zwracają uwagę, że premiera wypada tego samego dnia co duża premiera growa."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/shorts/Fggo423RRHw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/Fggo423RRHw",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Fggo423RRHw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Fggo423RRHw/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/shorts/Fggo423RRHw",
+          "alt": "Kadr z zapowiedzi utworu „Za każdym ra2em” Young Multiego",
+          "caption": "Kadr z krótkiej zapowiedzi utworu z datą premiery 19 listopada."
+        },
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Osadzamy zapowiedź, w której raper podaje datę premiery utworu. To jedyne źródło informacji o nowym numerze."
+        },
+        "ig": [
+          "youngmulti"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-11",
+        "who": "Jacob",
+        "initials": "JC",
+        "category": "Esport",
+        "hype": 3,
+        "title": "Jacob Cup wrócił z trzecim sezonem. Mistrzostwa 1v1, 2v2 i 3v3 o 21 tys. zł",
+        "summary": "Jacob poprowadził ponad pięciogodzinną transmisję z Mistrzostw Polski Fortnite o łączną pulę 21 tys. zł, z udziałem proplayerów i youtuberów. Nagranie ma ok. 300 tys. wyświetleń.",
+        "body": [
+          "Jacob, jeden z największych polskich twórców grających w Fortnite, 11 listopada transmitował na YouTube turniej z cyklu Jacob Cup. Według opisu to rozgrywki w trybach 1v1, 2v2 i 3v3 o łączną pulę 21 000 zł.",
+          "W opisie twórca wymienia uczestników: proplayerów Setty, Kami i Demuś oraz youtuberów SzamanFN, Kebcio i QLN. Linki partnerów wskazują, że to trzeci sezon turnieju, prowadzony we współpracy z markami sprzętowymi i sklepem elektronicznym.",
+          "Nagranie transmisji trwa ok. 5 godzin i 45 minut. W odczycie z 12 listopada, ok. 6:15, miało ok. 304 tys. wyświetleń.",
+          "Zapisy na Mistrzostwa Polski Fortnite prowadzi strona jacobcup.pl."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=CuUBU_2kjBo",
+            "origin": true
+          },
+          {
+            "name": "Jacob Cup",
+            "url": "https://jacobcup.pl/pl/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=CuUBU_2kjBo",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/CuUBU_2kjBo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/CuUBU_2kjBo/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=CuUBU_2kjBo",
+          "alt": "Miniatura transmisji Jacoba z mistrzostw Fortnite o 21 tys. zł",
+          "caption": "Miniatura nagrania transmisji z trzeciego sezonu Jacob Cup."
+        },
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Miniatura i osadzone nagranie pochodzą z omawianej transmisji turnieju. Skład i pula nagród są podane w jej opisie."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Szkocja",
+        "initials": "SZ",
+        "category": "Podróże",
+        "hype": 4,
+        "title": "Najkrótszy rejsowy lot pasażerski na świecie trwa około minuty. Rekord to 53 sekundy",
+        "summary": "Samoloty linii Loganair latają między szkockimi wyspami Westray i Papa Westray na Orkadach. W rozkładzie lot trwa półtorej minuty, a w praktyce zwykle krócej.",
+        "body": [
+          "Trasa Westray – Papa Westray na Orkadach to najkrótsze regularne połączenie pasażerskie na świecie. Lot ma w rozkładzie półtorej minuty, a faktyczny czas w powietrzu jest bliższy minuty. Najszybszy przelot zajął 53 sekundy.",
+          "Połączenie obsługuje szkocka regionalna linia Loganair, która lata na wyspy w północnej Szkocji."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Westray_to_Papa_Westray_flight"
+          },
+          {
+            "name": "dailyrecord.co.uk",
+            "url": "http://www.dailyrecord.co.uk/scotland-now/time-flies-worlds-shortest-flight-11234164"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Westray_to_Papa_Westray_air_route_map.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Westray_to_Papa_Westray_air_route_map.png",
+          "credit": "Dcs002 / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mapa trasy lotu między wyspami Westray i Papa Westray",
+          "caption": "Mapa pokazuje krótką trasę między dwiema wyspami Orkadów."
+        },
+        "caption": {
+          "credit": "Dcs002 / Wikimedia Commons",
+          "text": "Mapa pokazuje, jak blisko siebie leżą obie wyspy połączone najkrótszym lotem rejsowym świata."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Internet",
+        "initials": "IN",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "Pierwsza kamerka internetowa na świecie pokazywała dzbanek z kawą na uczelni w Cambridge",
+        "summary": "W 1991 r. informatycy z Cambridge ustawili kamerę na ekspres, żeby nie chodzić na próżno po pustą kawę. Obraz trafił potem do internetu i stał się sławny.",
+        "body": [
+          "Dzbanek z Trojan Room stał w laboratorium informatyki Uniwersytetu Cambridge. W 1991 r. Quentin Stafford-Fraser i Paul Jardetzky podłączyli do niego kamerę, żeby pracownicy widzieli na swoich komputerach, czy jest jeszcze kawa, zanim pójdą do pokoju.",
+          "Kilka lat później obraz trafił do internetu i ekspres zyskał światową sławę jako jedna z atrakcji raczkującej sieci WWW. Kamerę wyłączono w 2001 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot"
+          },
+          {
+            "name": "cl.cam.ac.uk",
+            "url": "http://www.cl.cam.ac.uk/coffee/coffee.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Trojan_Room_coffee_pot_xcoffee.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Trojan_Room_coffee_pot_xcoffee.png",
+          "credit": "Quentin Stafford-Fraser / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Czarno-biały obraz z kamery pokazujący dzbanek z kawą",
+          "caption": "Obraz z kamery Trojan Room, czyli dzbanek z kawą widziany przez pierwszą webkamerę."
+        },
+        "caption": {
+          "credit": "Quentin Stafford-Fraser / Wikimedia Commons",
+          "text": "To zrzut obrazu, który pracownicy widzieli na komputerach. Autorem jest jeden z twórców kamery."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Kopi luwak",
+        "initials": "KL",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Jedna z najdroższych kaw świata to ziarna, które przeszły przez układ pokarmowy łaszy",
+        "summary": "Kopi luwak powstaje z owoców kawy zjedzonych i wydalonych przez łaszę palmową. Kilogram dzikich ziaren potrafi kosztować do 1000 dolarów.",
+        "body": [
+          "Kopi luwak to kawa z częściowo strawionych owoców kawowca, które zjada łasza palmowa, niewielki ssak z Azji. Owoce fermentują w jej jelitach, a po wydaleniu ziarna są zbierane i przetwarzane.",
+          "To sposób obróbki, a nie odmiana kawy. Należy do najdroższych na świecie: kilogram ziaren z hodowli kosztuje w sprzedaży nawet ok. 100 dolarów, a zbieranych od dzikich zwierząt do 1000 dolarów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Kopi_luwak"
+          },
+          {
+            "name": "purekopiluwak.com",
+            "url": "https://www.purekopiluwak.com/kopi-luwak-price/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kopi_luwak_090910-0075_lamb.JPG",
+          "href": "https://commons.wikimedia.org/wiki/File:Kopi_luwak_090910-0075_lamb.JPG",
+          "credit": "Wibowo Djatmiko (Wie146) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Ziarna kawy kopi luwak",
+          "caption": "Ziarna kopi luwak, czyli kawy przetworzonej przez łaszę palmową."
+        },
+        "caption": {
+          "credit": "Wibowo Djatmiko / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje ziarna kopi luwak, o których jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Nigeria",
+        "initials": "NG",
+        "category": "Architektura",
+        "hype": 3,
+        "title": "W stolicy Nigerii stoi willa z 30-metrowym samolotem na dachu",
+        "summary": "Na dachu domu w Abudży zamontowano model samolotu o długości ok. 30 m. Nawet budka strażnika wygląda tu jak wieża kontroli lotów.",
+        "body": [
+          "Abuja Airplane House stoi w dzielnicy Asokoro w Abudży i widać go z pobliskiej drogi szybkiego ruchu. Przez dach głównej willi biegnie model samolotu o długości ok. 100 stóp (ok. 30 m) i rozpiętości skrzydeł ok. 50 stóp (ok. 15 m).",
+          "Lotniczy motyw ma też reszta posesji: dwupiętrowa wartownia jest zaprojektowana jak wieża kontroli lotów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Abuja_Airplane_House"
+          },
+          {
+            "name": "Atlas Obscura",
+            "url": "http://www.atlasobscura.com/places/abuja-s-plane-house"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Abuja_Airplane_House.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Abuja_Airplane_House.jpg",
+          "credit": "Moises.on / Wikimedia Commons, CC BY 2.0",
+          "alt": "Willa w Abudży z modelem samolotu na dachu",
+          "caption": "Willa w Abudży z modelem samolotu biegnącym przez dach."
+        },
+        "caption": {
+          "credit": "Moises.on / Wikimedia Commons",
+          "text": "Na zdjęciu widać dom z samolotem na dachu, o którym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Igrzyska 1896",
+        "initials": "IO",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Na pierwszych nowożytnych igrzyskach był wyścig pływacki tylko dla marynarzy greckiej floty",
+        "summary": "W 1896 r. w Atenach rozegrano 100 m stylem dowolnym, w którym mogli startować wyłącznie marynarze greckiej marynarki królewskiej. Zgłosiło się 11, wystartowało trzech.",
+        "body": [
+          "Program pływacki igrzysk w Atenach w 1896 r. miał cztery konkurencje. Jedną z nich było 100 m stylem dowolnym dla marynarzy, otwarte tylko dla służących w greckiej marynarce królewskiej.",
+          "Zgłosiło się 11 zawodników, ale wystartowało tylko trzech. Czas zwycięzcy był prawie o minutę gorszy niż w otwartym wyścigu na 100 m stylem dowolnym."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Swimming_at_the_1896_Summer_Olympics_%E2%80%93_Men%27s_sailors_100_metre_freestyle"
+          },
+          {
+            "name": "Olympedia",
+            "url": "https://www.olympedia.org/results/4403"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Swimming_1896.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Swimming_1896.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie zawodów pływackich na igrzyskach w 1896 roku",
+          "caption": "Zawody pływackie na igrzyskach w Atenach w 1896 r."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie pokazuje pływanie na igrzyskach w 1896 r., gdzie rozegrano wyścig dla marynarzy."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Matematyka",
+        "initials": "MA",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Istnieje bryła o nieskończonym polu powierzchni, ale skończonej objętości",
+        "summary": "Róg Gabriela, zwany też trąbką Torricellego, da się wypełnić skończoną ilością farby, ale nie da się nią pomalować jego powierzchni.",
+        "body": [
+          "Róg Gabriela to figura geometryczna, która ma nieskończone pole powierzchni i jednocześnie skończoną objętość. Stąd popularny paradoks: farbą można by go wypełnić, ale nie da się nią pokryć całej jego powierzchni.",
+          "Własności tej figury badał w XVII wieku włoski fizyk i matematyk Evangelista Torricelli. Nazwa nawiązuje do archanioła Gabriela, który według tradycji chrześcijańskiej ma zadąć w róg w dniu Sądu Ostatecznego."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Gabriel%27s_horn"
+          },
+          {
+            "name": "PlanetMath",
+            "url": "https://planetmath.org/torricellistrumpet"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Trompette_de_Gabriel_%28volume1%29.PNG",
+          "href": "https://commons.wikimedia.org/wiki/File:Trompette_de_Gabriel_(volume1).PNG",
+          "credit": "HB / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Wykres bryły w kształcie rogu zwężającego się w nieskończoność",
+          "caption": "Róg Gabriela: bryła, która zwęża się w nieskończoność."
+        },
+        "caption": {
+          "credit": "HB / Wikimedia Commons",
+          "text": "Rysunek pokazuje kształt rogu Gabriela, o którym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Hotele",
+        "initials": "HO",
+        "category": "Codzienność",
+        "hype": 3,
+        "title": "Trójkąt z papieru toaletowego w hotelu to znak, że łazienka została posprzątana",
+        "summary": "Hotele na całym świecie składają pierwszy listek papieru toaletowego w szpic, żeby pokazać gościom, że ktoś posprzątał łazienkę.",
+        "body": [
+          "Składanie papieru toaletowego to powszechna praktyka hoteli na całym świecie. Ma zapewnić gości, że łazienka po poprzednich lokatorach została wysprzątana.",
+          "Najczęściej z pierwszego listka robi się trójkąt albo literę V, chowając oba rogi z tyłu rolki. Bardziej ambitne wersje mają kształt wachlarzy, żaglówek, a nawet kwiatów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hotel_toilet_paper_folding"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/blog/2006/feb/22/thememeingof"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/TP_Triangle_s.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:TP_Triangle_s.jpg",
+          "credit": "Christoph Roser at AllAboutLean.com / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Rolka papieru toaletowego z listkiem złożonym w trójkąt",
+          "caption": "Papier toaletowy złożony w trójkąt, jak w wielu hotelach."
+        },
+        "caption": {
+          "credit": "Christoph Roser / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje właśnie taki hotelowy trójkąt z pierwszego listka rolki."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-11": {
     "date": "2026-11-11",
     "ryby": [],
