@@ -94,7 +94,11 @@ export function hashtagi(news, sekcja) {
   return [...new Set(tagi.filter((t) => t.length > 2))].slice(0, 8).join(' ');
 }
 
-// Opis karuzeli: numerowane tytuły z krótkim leadem, prośba o follow, źródła, kadry, hashtagi.
+// Tekst na Instagram: pole insta {tytul, opis} pisane luźno, po ludzku; bez niego tytuł i lead ze strony.
+export const tytulIG = (news) => news.insta?.tytul || news.title;
+export const opisIG = (news) => news.insta?.opis || news.summary;
+
+// Opis karuzeli: numerowane tytuły z krótkim opisem, prośba o follow, źródła, kadry, hashtagi.
 export function opisKaruzeli(lista) {
   const zrodla = [...new Set(lista.flatMap((x) => (x.news.sources ?? []).map((s) => s.name)))].join(', ');
   const kadry = [...new Set(lista.map((x) => x.news.image?.credit).filter(Boolean))].join(', ');
@@ -102,26 +106,26 @@ export function opisKaruzeli(lista) {
   const ciek = lista.filter((x) => x.sekcja === 'ciekawostki').length;
   const ile = (n, [jeden, kilka, wiele]) => `${n} ${n === 1 ? jeden : [2, 3, 4].includes(n % 10) && ![12, 13, 14].includes(n % 100) ? kilka : wiele}`;
   const glowa = ciek === lista.length
-    ? `${ile(lista.length, ['ciekawostka', 'ciekawostki', 'ciekawostek'])}, przesuń w bok ➡️`
+    ? `${ile(lista.length, ['rzecz', 'rzeczy', 'rzeczy'])}, o których pewnie nie wiedziałeś 👀 Przewiń ➡️`
     : ciek
-      ? `${lista.length} newsów i ciekawostek, przesuń w bok ➡️`
-      : `${ile(lista.length, ['news', 'newsy', 'newsów'])} ze świata twórców, przesuń w bok ➡️`;
+      ? `Trochę newsów, trochę ciekawostek. Przewiń ➡️`
+      : `Co tam u twórców? ${ile(lista.length, ['news', 'newsy', 'newsów'])} na szybko ➡️`;
   const stopka = [
-    'Zostaw follow @hypers.tech, żeby nie przegapić następnej paczki. Instagram może Ci nas już więcej nie pokazać.',
+    'Wrzucamy co godzinę, od 8 do 23. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
     '',
     zrodla && `Źródła: ${zrodla}`,
     kadry && `Kadry i zdjęcia: ${kadry}`,
-    'Całe artykuły i linki do źródeł: hypers.tech (link w bio)',
+    'Więcej szczegółów i linki do źródeł: hypers.tech (link w bio)',
     '',
     ['#hypers', ...tagi.filter((t) => t !== '#hypers')].slice(0, 15).join(' '),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
   const pozycje = (zLeadem) => lista.map((x, i) => {
     const m = malpy(x.news);
-    return `${i + 1}. ${x.news.title}${m ? ` ${m}` : ''}${zLeadem[i] ? `\n${x.news.summary}` : ''}`;
+    return `${i + 1}. ${tytulIG(x.news)}${m ? ` ${m}` : ''}${zLeadem[i] ? `\n${opisIG(x.news)}` : ''}`;
   });
   const sklej = (z) => [glowa, ...pozycje(z), stopka].join('\n\n');
   // Gdy się nie mieści, zdejmujemy leady od końca; tytuły zostają zawsze.
-  const z = lista.map((x) => !!x.news.summary);
+  const z = lista.map((x) => !!opisIG(x.news));
   for (let i = z.length - 1; i >= 0 && sklej(z).length > LIMIT_OPISU; i--) z[i] = false;
   let tekst = sklej(z);
   if (tekst.length > LIMIT_OPISU) tekst = tekst.slice(0, LIMIT_OPISU - 1) + '…';
@@ -137,7 +141,7 @@ export function opis(news, { zKadrem, sekcja }) {
     '',
     hashtagi(news, sekcja),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
-  const glowa = [news.title, malpy(news)].filter(Boolean).join(' ');
+  const glowa = [tytulIG(news), malpy(news)].filter(Boolean).join(' ');
   // Treść jak na stronie (body); gdy się nie mieści, ucinamy całe akapity, a w ostateczności dajemy summary.
   const akapity = [...(news.body?.length ? news.body : [news.summary])];
   const sklej = (a) => [glowa, ...a, stopka].join('\n\n');
@@ -241,9 +245,9 @@ async function ostatniePosty() {
 }
 // Post z profilu, w którego opisie jest tytuł newsa (opis karuzeli zawiera tytuły wszystkich newsów).
 export function postZNewsem(news, posty) {
-  const t = news?.title?.trim();
-  if (!t || !posty) return null;
-  return posty.find((p) => (p.caption ?? '').includes(t)) ?? null;
+  const tytuly = [news?.insta?.tytul, news?.title].map((t) => t?.trim()).filter(Boolean);
+  if (!tytuly.length || !posty) return null;
+  return posty.find((p) => tytuly.some((t) => (p.caption ?? '').includes(t))) ?? null;
 }
 // Limity Meta (kody 4, 17, 32, 613): to nie błąd newsa, tylko „spróbuj później”.
 export const toLimitApi = (msg = '') => /request limit|rate limit|too many calls|limit reached/i.test(msg);
@@ -386,6 +390,7 @@ async function main() {
   rmSync(kartyDir, { recursive: true, force: true });
   mkdirSync(kartyDir, { recursive: true });
   const nazwa = (x) => x.sciezka.replace(/^artykuly\//, '').replace(/\//g, '_').replace(/\.html$/, '.jpg');
+  const nazwaFoto = (x) => nazwa(x).replace(/\.jpg$/, '-foto.jpg');
   const { renderuj } = await import('./karta.mjs');
 
   // Tylko prawdziwy kadr: renderujemy po kolei i odrzucamy newsy, dla których miniatury nie udało się pobrać.
@@ -397,6 +402,11 @@ async function main() {
       const [w] = await renderuj([{ ...x, wariant: WARIANT, nr, plik: join(kartyDir, nazwa(x)) }]);
       if (!w.kadr) { log(`– pomijam (brak oryginalnej miniatury): ${x.news.title}`); rmSync(w.plik, { force: true }); continue; }
       x.zKadrem = true;
+      if (karuzela && x.sekcja === 'ciekawostki') {
+        // Po karcie ciekawostki: slajd z całym zdjęciem (to samo legalne zdjęcie z pola image).
+        const [f] = await renderuj([{ zdjecie: true, news: x.news, nr, plik: join(kartyDir, nazwaFoto(x)) }]);
+        x.foto = f.kadr;
+      }
       x.opis = opis(x.news, { zKadrem: true, sekcja: x.sekcja });
       wynik.push(x);
     }
@@ -412,7 +422,7 @@ async function main() {
       const proba = await wybierz(kandydaci.filter((x) => rodzaj(x) === t));
       if (proba.length >= W_POSCIE) { nowe = proba; typ = t; break; }
       log(`Za mało (${proba.length}/${W_POSCIE}) z kadrem w rodzaju „${t}”.`);
-      for (const x of proba) rmSync(join(kartyDir, nazwa(x)), { force: true });
+      for (const x of proba) { rmSync(join(kartyDir, nazwa(x)), { force: true }); rmSync(join(kartyDir, nazwaFoto(x)), { force: true }); }
       if (proba.length > nowe.length) nowe = proba;
     }
   } else {
@@ -439,7 +449,7 @@ async function main() {
 
   if (DRY) {
     const md = karuzela
-      ? `## Karuzela: ${[...nowe.map(nazwa), FOLLOW].join(', ')}\n\n\`\`\`\n${opisK}\n\`\`\`\n`
+      ? `## Karuzela: ${[...nowe.flatMap((x) => (x.foto ? [nazwa(x), nazwaFoto(x)] : [nazwa(x)])), FOLLOW].join(', ')}\n\n\`\`\`\n${opisK}\n\`\`\`\n`
       : nowe.map((x) => `## ${nazwa(x)}${x.zKadrem ? '' : ' (bez kadru)'}\n\n\`\`\`\n${x.opis}\n\`\`\`\n`).join('\n');
     writeFileSync(join(kartyDir, 'podglad.md'), `# Podgląd postów (${nowe.length})\n\n${md}`);
     log(`DRY_RUN: zapisano ${nowe.length} kart i podgląd opisów w ${kartyDir}`);
@@ -454,7 +464,11 @@ async function main() {
   if (karuzela) {
     if (wolne <= 2) { ostrzezenie('Limit publikacji Instagrama na 24 h prawie wyczerpany, newsy czekają na następną godzinę.'); return; }
     try {
-      const id = await opublikujKaruzele([...nowe.map((x) => ({ url: raw(nazwa(x)), oznacz: oznaczenia(x.news) })), { url: raw(FOLLOW) }], opisK);
+      const slajdy = nowe.flatMap((x) => [
+        { url: raw(nazwa(x)), oznacz: oznaczenia(x.news) },
+        ...(x.foto ? [{ url: raw(nazwaFoto(x)) }] : []),
+      ]);
+      const id = await opublikujKaruzele([...slajdy, { url: raw(FOLLOW) }], opisK);
       const kiedy = new Date().toISOString();
       for (const x of nowe) stan.opublikowane[x.sciezka] = { media_id: id, kiedy, slot: slot.klucz };
       stan.sloty ??= {};

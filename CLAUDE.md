@@ -24,7 +24,7 @@ Strona statyczna (GitHub Pages z gałęzi `main`, domena hypers.tech w `CNAME`).
 nowe.json = { "date": "RRRR-MM-DD", "slot": "7:00"|"15:00", "ryby": [news], "luz": [news], "ciekawostki": [news] }
 news = { region: "pl"|"world", published: "RRRR-MM-DD", who, initials, category, hype (1-5),
          title, summary, body: ["akapit", ...], sources: [{name, url, origin?: true}], embed?,
-         caption?: {credit: "Autor / Platforma", text: "komentarz"}, ig?: ["konto_ig", ...],
+         caption?: {credit: "Autor / Platforma", text: "komentarz"}, ig?: ["konto_ig", ...], insta: {tytul, opis},
          image?: {kind: "kadr"|"prasowe"|"wolne", src, fallback?, credit, href, alt, caption} }
 ```
 - Sekcje: `ryby` (Grube ryby: duży temat z analizą, raz na kilka dni, TYLKO po akceptacji Filipa), `luz` (Na luzie: wszystkie newsy o twórcach, dłuższe i krótkie w stylu dropsy.news; od 16.10.2026 obejmuje dawne Z czapy), `ciekawostki` (Ciekawostki: krótkie, niszowe fakty z całego internetu, nie o twórcach, patrz niżej). Klucz `czapy` już nie istnieje (stare newsy przeniesione do `luz`); `drama` i `drop` są tylko w starych wydaniach.
@@ -99,5 +99,12 @@ Slot `rano` = 7:00, `popoludnie` = 15:00. Pracujesz bez nadzoru: bez pytań, dec
 - Treści dla dzieci nie idą na IG: automat pomija newsy ze słowami z `bez_dla_dzieci` w `instagram/harmonogram.json` (Roblox, Minecraft, Brawl Stars, Brainrot…), a pojedyncze artykuły można wykluczyć ścieżką w `wykluczone`.
 - Post wychodzi tylko z prawdziwym obrazem z pola `image` (kadr, prasowe albo wolne z Commons dla Ciekawostek); news z `noImage` nie trafi na IG.
 - Oznaczanie twórców (od 16.10.2026): każdy news o twórcy/osobie dostaje pole `ig` = konta Instagram osób z `who` (bez @, małe litery, np. `["ksiazulo"]`). Automat dopisuje @konto przy tytule w opisie i oznacza je na slajdzie. Konto bierz tylko z pewnego miejsca: link z kanału YouTube twórcy, jego strony, posta będącego źródłem albo zweryfikowanego profilu; przy wątpliwości (fan-konto, podobne nazwy) pomiń pole, nigdy nie zgaduj. Nowo potwierdzone konto dopisz też do `instagram/konta.json` (`"Nazwa jak w who": "konto"`), żeby kolejne newsy oznaczały się same. Ciekawostki i marki bez konta osoby: bez `ig`.
-- Opis karuzeli = numerowane `title` + `summary` każdego newsa + nazwy źródeł, więc to, co piszesz w newsie, idzie 1:1 na Instagram. Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
+- **Tekst na Instagram (od 12.11.2026, prośba Filipa: ma brzmieć po ludzku, nie jak AI).** Każdy news ze zdjęciem ma pole `insta` = `{tytul, opis}` (`add` bez niego odrzuca). `tytul` idzie na kartę i do opisu posta, `opis` pod nim w opisie. Strona dalej używa `title`/`summary`.
+  - Pisz jak ktoś, kto opowiada to znajomemu: krótko, potocznie, konkretnie. Jedna myśl, maks. 90 znaków w `tytul`, 1–2 zdania w `opis` (maks. 240). Można zacząć od sedna, dać lekki komentarz („serio”, „no i się zaczęło”), max 1 emoji w `opis`.
+  - Bez stylu agencyjnego i AI: żadnych „niezwykły”, „fascynujący”, „warto wiedzieć”, „to dowód, że”, żadnych dwóch zdań-nagłówków po kropce w tytule, żadnych statystyk wyświetleń na siłę, żadnych pytań retorycznych w każdym poście.
+  - Fakty te same co w newsie (zasady źródeł obowiązują), bez przesady i clickbaitu, który nie jest prawdą.
+  - Przykład: `title` „Jedna z najdroższych kaw świata to ziarna, które przeszły przez układ pokarmowy łaszy” → `insta.tytul` „Jedna z najdroższych kaw świata jest robiona z… kupy łaszy”, `insta.opis` „Łasze zjadają owoce kawy, a ziarna zbiera się z ich odchodów. Za kilogram płaci się setki dolarów.”
+  - Przykład: „Książulo testuje »jedyną taką burgerownię w Polsce«. Film ma prawie 650 tys. wyświetleń…” → „Książulo sprawdził burgerownię, która podobno jest jedyna taka w Polsce”.
+- Opis karuzeli = luźny nagłówek + numerowane `insta.tytul` i `insta.opis` każdego newsa + nazwy źródeł (bez pola `insta`: `title` i `summary`). Kadr w tle karty tylko z pola `image` (te same zasady co na stronie).
+- Wygląd (od 12.11.2026): zdjęcie z `image` na całe tło karty, lekko przyciemnione, ta sama czcionka. Po karcie każdej ciekawostki idzie osobny slajd z całym zdjęciem (bez przycinania, z autorem i licencją), więc zdjęcie ciekawostki musi naprawdę pokazywać to, o czym jest fakt.
 - Gałąź `instagram` należy do automatu: nie commituj na nią i nie czytaj jej. Szczegóły: `instagram/README.md`.

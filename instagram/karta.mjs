@@ -165,13 +165,13 @@ const WARIANTY = {
     ${hypeBars(n.hype, '#ffc9b0', 'rgba(255,255,255,.22)')}</div>
 </div>`,
 
-  // E: kadr na całe tło, mocne przyciemnienie od dołu, tytuł na dole.
+  // E: zdjęcie na całe tło (cover), lekko przyciemnione; mocniejszy cień tylko u góry i pod tytułem, żeby tekst był czytelny.
   e: (n) => `
 <style>
-.card{background:#0b1620 url(${n._tlo}) center top/auto 62% no-repeat;color:#fff}
+.card{background:#0b1620 url(${n._tlo}) center/cover no-repeat;color:#fff}
 .card::before{content:"";position:absolute;inset:0;
-  background:linear-gradient(180deg,rgba(11,22,32,.7) 0px,rgba(11,22,32,0) 190px,rgba(11,22,32,0) var(--zanik,520px),
-    rgba(11,22,32,.94) var(--ciemno,700px),#0b1620 calc(var(--ciemno,700px) + 60px))}
+  background:linear-gradient(180deg,rgba(11,22,32,.55) 0px,rgba(11,22,32,.28) 220px,rgba(11,22,32,.28) var(--zanik,560px),
+    rgba(11,22,32,.82) var(--ciemno,860px),rgba(11,22,32,.9) 100%)}
 .card>*{position:relative}
 .top{display:flex;align-items:center;gap:18px;padding:52px 64px 0}
 .logo{font:400 54px/1 "Anton";letter-spacing:.02em;text-shadow:0 2px 12px rgba(0,0,0,.4)}
@@ -179,20 +179,20 @@ const WARIANTY = {
 .kredyt{margin-left:auto;font:600 19px/1 "Work Sans";background:rgba(11,22,32,.72);padding:9px 13px;border-radius:8px}
 .nr{font:700 21px/1 "Work Sans";background:#fff;color:#0b1620;padding:9px 13px;border-radius:8px;letter-spacing:.04em}
 .body{flex:1;display:flex;flex-direction:column;justify-content:flex-end;padding:30px 64px 40px}
-.kat{font:700 23px/1 "Work Sans";letter-spacing:.16em;text-transform:uppercase;color:#ffc9b0;margin-bottom:22px}
-.title{font-size:var(--fs,112px);color:#fff}
-.foot{display:flex;align-items:center;gap:22px;padding:30px 64px 52px;border-top:2px solid rgba(255,255,255,.12)}
+.kat{font:700 23px/1 "Work Sans";letter-spacing:.16em;text-transform:uppercase;color:#ffc9b0;margin-bottom:22px;text-shadow:0 2px 10px rgba(0,0,0,.5)}
+.title{font-size:var(--fs,112px);color:#fff;text-shadow:0 4px 24px rgba(0,0,0,.45)}
+.foot{display:flex;align-items:center;gap:22px;padding:30px 64px 52px;border-top:2px solid rgba(255,255,255,.16)}
 .avatar{width:80px;height:80px;background:#276787;color:#fff;font-size:30px}
 .who{font:700 31px/1.1 "Work Sans";flex:1}
-.who small{display:block;font:500 20px/1.3 "Work Sans";color:#9fb3c1;margin-top:6px;letter-spacing:.06em}
-.hype{color:#9fb3c1}
+.who small{display:block;font:500 20px/1.3 "Work Sans";color:#c3d2dc;margin-top:6px;letter-spacing:.06em}
+.hype{color:#c3d2dc}
 </style>
 <div class="card">
   <div class="top"><div class="logo">HYPERS</div><div class="sek">${esc(n._sekcja)}</div><div class="kredyt">${n._etykieta}: ${esc(n._kredyt)}</div>${n._nr ? `<div class="nr">${esc(n._nr)}</div>` : ''}</div>
   <div class="body"><div class="kat">${esc(n.category)} · ${esc(n._data)}</div><h1 class="title fit">${esc(n.title)}</h1></div>
   <div class="foot"><div class="avatar">${esc(n.initials)}</div>
     <div class="who">${esc(n.who)}<small>HYPERS.TECH · LINK W BIO</small></div>
-    ${hypeBars(n.hype, '#ffc9b0', 'rgba(255,255,255,.14)')}</div>
+    ${hypeBars(n.hype, '#ffc9b0', 'rgba(255,255,255,.22)')}</div>
 </div>`,
 };
 export const LISTA_WARIANTOW = Object.keys(WARIANTY);
@@ -218,8 +218,8 @@ const DOPASUJ = `
   const kat = document.querySelector('.card .kat');
   if (kat && getComputedStyle(card, '::before').content !== 'none') {
     const y = kat.getBoundingClientRect().top - card.getBoundingClientRect().top;
-    card.style.setProperty('--zanik', Math.max(150, y - 230) + 'px');
-    card.style.setProperty('--ciemno', Math.max(260, y - 30) + 'px');
+    card.style.setProperty('--zanik', Math.max(260, y - 260) + 'px');
+    card.style.setProperty('--ciemno', Math.max(420, y + 40) + 'px');
   }
   document.body.dataset.gotowe = fs;
 })();`;
@@ -230,7 +230,7 @@ export const sieroty = (t) => String(t).replace(/(?<=^|[\s\u00a0])([aiouwz])\s+/
 export function htmlKarty(news, { data, sekcja, wariant = 'a', tlo = null, nr = null }) {
   // Warianty z kadrem bez dostępnego kadru wracają do zwykłej karty A.
   if (Z_KADREM.has(wariant) && !tlo) wariant = 'a';
-  const n = { ...news, title: sieroty(news.title), _data: dataPL(data), _sekcja: SEKCJE[sekcja] ?? sekcja,
+  const n = { ...news, title: sieroty(news.insta?.tytul || news.title), _data: dataPL(data), _sekcja: SEKCJE[sekcja] ?? sekcja,
     _tlo: tlo, _kredyt: news.image?.credit ?? news.who, _nr: nr, _etykieta: news.image?.kind === 'wolne' ? 'Fot.' : 'Kadr' };
   return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}</style></head>
 <body>${WARIANTY[wariant](n)}<script>${DOPASUJ}</script></body></html>`;
@@ -264,6 +264,28 @@ export async function pobierzKadr(news) {
   return null;
 }
 
+// Slajd „samo zdjęcie” po ciekawostce: całe zdjęcie bez przycinania na rozmytym tle z tego samego zdjęcia,
+// w rogu autor i licencja (wymóg CC BY / CC BY-SA), u góry krótki podpis.
+export function htmlZdjecie(news, { tlo, nr = null }) {
+  const kredyt = news.image?.credit ?? news.who;
+  const etykieta = news.image?.kind === 'wolne' ? 'Fot.' : 'Kadr';
+  return `<!doctype html><html lang="pl"><head><meta charset="utf-8"><style>${fonty()}${BAZA}
+.card{background:#0b1620}
+.rozmyte{position:absolute;inset:-60px;background:url(${tlo}) center/cover no-repeat;filter:blur(40px) brightness(.55)}
+.foto{position:absolute;inset:0;background:url(${tlo}) center/contain no-repeat}
+.card::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,22,32,.55) 0,rgba(11,22,32,0) 200px,rgba(11,22,32,0) calc(100% - 160px),rgba(11,22,32,.6) 100%)}
+.top{position:relative;z-index:1;display:flex;align-items:center;gap:18px;padding:52px 64px 0}
+.logo{font:400 46px/1 "Anton";letter-spacing:.02em;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.4)}
+.nr{margin-left:auto;font:700 21px/1 "Work Sans";background:#fff;color:#0b1620;padding:9px 13px;border-radius:8px;letter-spacing:.04em}
+.kredyt{position:absolute;z-index:1;left:64px;right:64px;bottom:48px;font:600 20px/1.3 "Work Sans";color:#fff;
+  text-shadow:0 1px 8px rgba(0,0,0,.6)}
+</style></head><body><div class="card">
+  <div class="rozmyte"></div><div class="foto"></div>
+  <div class="top"><div class="logo">HYPERS</div>${nr ? `<div class="nr">${esc(nr)}</div>` : ''}</div>
+  <div class="kredyt">${etykieta} ${esc(kredyt)}</div>
+</div><script>document.fonts.ready.then(() => { document.body.dataset.gotowe = 1; });</script></body></html>`;
+}
+
 // Ostatni slajd karuzeli: prośba o follow (algorytm może już nie pokazać kolejnego posta).
 export function htmlFollow({ godziny = [], tekst } = {}) {
   const kiedy = tekst || (godziny.length ? `Codziennie ${godziny.map((g) => g.replace(/^0/, '')).join(' · ')}` : 'Nowe newsy codziennie');
@@ -289,11 +311,11 @@ export function htmlFollow({ godziny = [], tekst } = {}) {
 .foot b{color:#fff;font-weight:700}
 </style></head><body><div class="card">
   <div class="ghost">FOLLOW</div>
-  <div class="top"><div class="logo">HYPERS</div><div class="koniec">To wszystko na teraz</div></div>
+  <div class="top"><div class="logo">HYPERS</div><div class="koniec">Na teraz tyle</div></div>
   <div class="body">
-    <div class="kat">Zanim przewiniesz dalej</div>
-    <h1 class="title">ZOSTAW<br><span>FOLLOW</span></h1>
-    <p class="tekst">Instagram może Ci nas <b>już więcej nie pokazać</b>. Obserwuj <b>@hypers.tech</b>, żeby kolejne newsy same do Ciebie trafiały.</p>
+    <div class="kat">Zanim pójdziesz dalej</div>
+    <h1 class="title">DAJ<br><span>FOLLOW</span></h1>
+    <p class="tekst">Instagram lubi chować posty, więc <b>następnego możesz już nie zobaczyć</b>. Obserwuj <b>@hypers.tech</b> i będziesz na bieżąco.</p>
     <div class="konto"><div class="przycisk"><i></i>Obserwuj</div><span>@hypers.tech</span></div>
   </div>
   <div class="foot"><span>${esc(kiedy)}</span><span>Całe artykuły: <b>hypers.tech</b></span></div>
@@ -302,7 +324,7 @@ export function htmlFollow({ godziny = [], tekst } = {}) {
 
 // Renderuje listę {news, data, sekcja, plik, wariant[, nr]} do JPEG; zadanie {follow: true, plik} = slajd z prośbą o follow. Zwraca rozmiar tytułu i informację o kadrze.
 export async function renderuj(zadania) {
-  const browser = await chromium.launch();
+  const browser = await chromium.launch(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : {});
   const page = await browser.newPage({ viewport: { width: SZER, height: WYS }, deviceScaleFactor: 1 });
   const wyniki = [];
   try {
@@ -312,6 +334,15 @@ export async function renderuj(zadania) {
         await page.waitForFunction(() => document.body.dataset.gotowe);
         await page.screenshot({ path: z.plik, type: 'jpeg', quality: 92 });
         wyniki.push({ plik: z.plik, follow: true });
+        continue;
+      }
+      if (z.zdjecie) {
+        const tlo = await pobierzKadr(z.news);
+        if (!tlo) { wyniki.push({ plik: z.plik, zdjecie: true, kadr: false }); continue; }
+        await page.setContent(htmlZdjecie(z.news, { tlo, nr: z.nr }), { waitUntil: 'load' });
+        await page.waitForFunction(() => document.body.dataset.gotowe);
+        await page.screenshot({ path: z.plik, type: 'jpeg', quality: 92 });
+        wyniki.push({ plik: z.plik, zdjecie: true, kadr: true });
         continue;
       }
       const tlo = Z_KADREM.has(z.wariant) ? await pobierzKadr(z.news) : null;

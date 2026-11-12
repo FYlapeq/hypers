@@ -164,6 +164,11 @@ function validate(n, where, date) {
   }
   if (n.ig !== undefined && (!Array.isArray(n.ig) || n.ig.some(h => typeof h !== 'string' || !/^[a-z0-9._]{1,30}$/.test(h))))
     err.push('ig = tablica nazw kont IG bez @, małymi literami, np. ["ksiazulo"]');
+  // tekst na Instagram (luźny, po ludzku): wymagany przy newsach ze zdjęciem, bo tylko one idą na IG
+  if (n.image && !n.noImage && (!n.insta || !n.insta.tytul || !n.insta.opis))
+    err.push('brak insta {tytul, opis}: luźna wersja na Instagram (patrz CLAUDE.md, sekcja Instagram)');
+  if (n.insta?.tytul && n.insta.tytul.length > 90) err.push('insta.tytul maks. 90 znaków');
+  if (n.insta?.opis && n.insta.opis.length > 240) err.push('insta.opis maks. 240 znaków (1–2 zdania)');
   if (/<[^>]*>/.test(JSON.stringify(n.image || {}))) err.push('image: uzupełnij pola z <…> (alt, caption) ze szkicu');
   if ((n.image || n.embed) && !n.caption) err.push('brak caption przy materiale');
   // zdjęcie jest priorytetem: film z YouTube w źródłach = obowiązkowy kadr, chyba że podano powód w noImage
