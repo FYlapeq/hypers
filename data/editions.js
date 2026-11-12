@@ -7,6 +7,206 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-11-11",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "Gry",
+        "hype": 4,
+        "title": "LootBox o GTA 6: na konsolach tylko 30 klatek na sekundę, a przedsprzedaż według szacunków przebiła miliard dolarów",
+        "summary": "LootBox w codziennym odcinku wziął na warsztat to, czym żyją teraz gracze: Rockstar potwierdził cel 30 kl./s dla GTA 6 na PS5 i Xboksach. W opisie filmu kanał podlinkował też szacunki Sensor Tower dotyczące przedsprzedaży.",
+        "body": [
+          "Kanał LootBox opublikował 11 listopada odcinek „GTA 6 OFICJALNIE Tylko W 30 FPS — Sony Wtapia Ogromne Pieniądze XD — Chora Sprzedaż Zelda Remake”. Według rozdziałów w opisie temat GTA 6 zaczyna się w 4. minucie, a cały materiał trwa około 8 minut.",
+          "Jako źródło kanał podaje wpis Rockstar Games o starcie preloadu. Rockstar napisał w nim, że gra na PS5 i Xbox Series celuje w 30 klatek na sekundę, a na PS5 Pro dostaje dodatki graficzne, m.in. upscaling PSSR i cienie liczone ray tracingiem. Wyższej liczby klatek na PS5 Pro studio nie zapowiedziało.",
+          "W opisie odcinka jest też link do trackera Sensor Tower. Według szacunków tej firmy analitycznej przedsprzedaż GTA 6 przekroczyła miliard dolarów i ok. 10,3 mln egzemplarzy, z czego zdecydowana większość przypada na PS5. To szacunki analityków, a nie oficjalne dane Rockstara czy Take-Two.",
+          "Pod filmem (ok. 55 tys. wyświetleń i 146 komentarzy przy odczycie 12 listopada o 6:16) widzowie są podzieleni: część narzeka na 30 kl./s przy cenie konsol, inni przypominają, że Red Dead Redemption 2 też długo działało w 30 klatkach. GTA 6 wychodzi 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=SGFhdL-VFjY",
+            "origin": true
+          },
+          {
+            "name": "Rockstar Newswire",
+            "url": "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+          },
+          {
+            "name": "GTA6Times",
+            "url": "https://gta6times.com/news/gta-6-30fps-target-ps5-pro-xbox-cloud-gaming"
+          },
+          {
+            "name": "VGTimes",
+            "url": "https://vgtimes.com/gaming-news/174302-grand-theft-auto-6-estimated-to-top-1-billion-in-presales-before-launch.html"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=SGFhdL-VFjY",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura odcinka LootBoxa, w którym kanał omawia potwierdzone przez Rockstar 30 kl./s w GTA 6. Materiał opiera się na wpisie Rockstara o preloadzie, podlinkowanym w opisie."
+        },
+        "insta": {
+          "tytul": "GTA 6 na konsolach pójdzie w 30 klatkach. Nawet na PS5 Pro",
+          "opis": "Rockstar to potwierdził, a LootBox rozebrał temat na czynniki pierwsze. Przedsprzedaż i tak według Sensor Tower przebiła już miliard dolarów."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/SGFhdL-VFjY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/SGFhdL-VFjY/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=SGFhdL-VFjY",
+          "alt": "Miniatura odcinka LootBoxa o GTA 6 w 30 klatkach na sekundę",
+          "caption": "Kadr z odcinka LootBoxa o 30 kl./s w GTA 6."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-11",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Streaming",
+        "hype": 4,
+        "title": "Kai Cenat skończył GTA 5. Maraton wszystkich części GTA zamknął tydzień przed premierą „szóstki”",
+        "summary": "Kai Cenat na streamach przechodził po kolei kolejne odsłony Grand Theft Auto, żeby przyjść przygotowanym na GTA 6. Na jego kanale z nagraniami pojawił się ponad godzinny finał GTA 5.",
+        "body": [
+          "Kai Cenat od kilku dni realizował na Twitchu serię „Playing every GTA until I beat it”, czyli przechodził fabuły kolejnych części GTA. Pisaliśmy o niej 9 listopada, gdy nagrania z maratonu miały po ok. 3 mln wyświetleń.",
+          "11 listopada na kanale Kai Cenat Live ukazał się film „Kai Cenat Beats GTA 5!”. Trwa ok. 63 minut i pokazuje końcówkę fabuły piątej części. W ciągu niespełna doby nagranie zebrało ok. 351 tys. wyświetleń (odczyt 12 listopada, 6:16).",
+          "Widzowie w komentarzach liczą dni do premiery GTA 6 (19 listopada), gratulują tempa przejścia całej serii i piszą, że oglądanie kogoś, kto pierwszy raz przechodzi fabułę GTA 5, ma swój urok nawet po tylu latach."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=MX8wnu3xXeM",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube (maraton GTA 5)",
+            "url": "https://www.youtube.com/watch?v=6LB7vibQ5q0"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=MX8wnu3xXeM",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura nagrania z finału GTA 5 na streamie Kaia Cenata. To ostatni etap jego maratonu przez serię przed premierą GTA 6."
+        },
+        "ig": [
+          "kaicenat"
+        ],
+        "insta": {
+          "tytul": "Kai Cenat przeszedł wszystkie GTA po kolei. Teraz czeka na szóstkę",
+          "opis": "Finał GTA 5 wrzucił 11 listopada i tym zamknął swój maraton. Do premiery GTA 6 został tydzień."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/MX8wnu3xXeM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/MX8wnu3xXeM/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=MX8wnu3xXeM",
+          "alt": "Miniatura nagrania Kai Cenat Beats GTA 5",
+          "caption": "Kadr z nagrania, w którym Kai Cenat kończy GTA 5."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-12",
+        "who": "Cypis",
+        "initials": "CY",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Cypis, Diho i Majki w klipie „Na zejściu”. Ruszyła przedsprzedaż albumu „mOralne Salto”",
+        "summary": "Cypis wypuścił teledysk do numeru „Na zejściu” nagranego z Diho i Majkim. W opisie zaprasza do przedsprzedaży albumu „mOralne Salto”.",
+        "body": [
+          "12 listopada w południe na kanale Cypisa pojawił się oficjalny klip „Na zejściu”. Utwór nagrał z Diho i Majkim, a wydaje go LUMO Music.",
+          "Numer promuje album „mOralne Salto”, który można już zamawiać w przedsprzedaży na stronie płyty. Za obraz odpowiada Ultimate Media, a za montaż i okładkę Vertigo Films.",
+          "Klip trwa dwie i pół minuty. Przy odczycie o 14:20 miał niecałe 5 tys. wyświetleń i ponad 600 polubień, a komentujący żartują głównie z tekstu i z roli dziewczyny w teledysku."
+        ],
+        "sources": [
+          {
+            "name": "Cypisolo / YouTube",
+            "url": "https://www.youtube.com/watch?v=vqHZ5UNqPGc",
+            "origin": true
+          },
+          {
+            "name": "moralnesalto.pl",
+            "url": "https://moralnesalto.pl/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vqHZ5UNqPGc",
+        "caption": {
+          "credit": "Cypisolo / YouTube",
+          "text": "Miniatura klipu „Na zejściu”, nagranego przez Cypisa z Diho i Majkim. To singiel z zapowiadanego albumu „mOralne Salto”."
+        },
+        "ig": [
+          "cypis89",
+          "diho_gm2l",
+          "majkimusic"
+        ],
+        "insta": {
+          "tytul": "Cypis wrzucił klip z Diho i Majkim i odpalił preorder nowej płyty",
+          "opis": "Numer nazywa się „Na zejściu”, album „mOralne Salto”. Komentarze jak zwykle u Cypisa: połowa to żarty z tekstu 😅"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vqHZ5UNqPGc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vqHZ5UNqPGc/hqdefault.jpg",
+          "credit": "Cypisolo / YouTube",
+          "href": "https://www.youtube.com/watch?v=vqHZ5UNqPGc",
+          "alt": "Miniatura klipu Cypis x Diho x Majki „Na zejściu”",
+          "caption": "Kadr z klipu „Na zejściu”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-12",
+        "who": "Hinol",
+        "initials": "HI",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Hinol z Polskiej Wersji wydał trzeci singiel z albumu „To Tylko Ja”. Gościnnie Junior Stress i Bilon",
+        "summary": "„Patrzę na tamte dni” to trzeci numer zapowiadający solową płytę Hinola. Na bicie Newlightsa i Leśnego rapują z nim Junior Stress i Bilon HG.",
+        "body": [
+          "12 listopada na kanale Polskiej Wersji ukazał się klip „Patrzę na tamte dni”. To trzeci singiel z nadchodzącego albumu Hinola „To Tylko Ja”.",
+          "Gościnnie występują Junior Stress i Bilon HG, produkcja to Newlights i Leśny, a miks i mastering zrobił Dizzma. W opisie Hinol przedstawia utwór jako nostalgiczną opowieść o przeszłości i lekcjach, które docenia się po latach.",
+          "Album można zamawiać w limitowanej przedsprzedaży na stronie płyty. Klip miał przy odczycie o 14:20, niecałe pół godziny po premierze, ok. 1,1 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "Polska Wersja / YouTube",
+            "url": "https://www.youtube.com/watch?v=QlZKGsgFwFU",
+            "origin": true
+          },
+          {
+            "name": "totylkoja.pl",
+            "url": "https://totylkoja.pl/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=QlZKGsgFwFU",
+        "caption": {
+          "credit": "Polska Wersja / YouTube",
+          "text": "Miniatura klipu „Patrzę na tamte dni” Hinola z Juniorem Stressem i Bilonem HG. To trzeci singiel z albumu „To Tylko Ja”."
+        },
+        "ig": [
+          "hinol_polska_wersja"
+        ],
+        "insta": {
+          "tytul": "Hinol, Junior Stress i Bilon w jednym numerze. Wyszło nostalgicznie",
+          "opis": "„Patrzę na tamte dni” to już trzeci singiel z solowej płyty Hinola „To Tylko Ja”. Preorder ruszył."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/QlZKGsgFwFU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/QlZKGsgFwFU/hqdefault.jpg",
+          "credit": "Polska Wersja / YouTube",
+          "href": "https://www.youtube.com/watch?v=QlZKGsgFwFU",
+          "alt": "Miniatura klipu Hinol ft. Junior Stress, Bilon HG „Patrzę na tamte dni”",
+          "caption": "Kadr z klipu „Patrzę na tamte dni”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-11",
         "who": "Książulo",
         "initials": "KS",
         "category": "Jedzenie",
@@ -161,6 +361,252 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Wodospad Niagara",
+        "initials": "BL",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Przeżył skok z Niagary w beczce, a fatalny okazał się poślizg na skórce od pomarańczy",
+        "summary": "Bobby Leach w 1911 r. jako pierwszy mężczyzna spłynął w beczce z wodospadu Niagara. Kilkanaście lat później pokonała go skórka od pomarańczy.",
+        "body": [
+          "Bobby Leach, były kaskader cyrku Barnum and Bailey, 25 lipca 1911 r. jako druga osoba w historii (i pierwszy mężczyzna) przeżył upadek z Niagary w beczce. Po wyczynie pół roku leżał w szpitalu z połamanymi rzepkami i szczęką.",
+          "Zmarł w 1926 r. Według jego biografii i BBC przyczyną był poślizg na skórce od pomarańczy: uraz nogi po upadku okazał się dla niego zbyt poważny."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bobby_Leach"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/uk-england-cornwall-13773846"
+          }
+        ],
+        "caption": {
+          "credit": "Robert Leach - Library and Archives Canada / Wikimedia Commons, domena publiczna",
+          "text": "Archiwalne zdjęcie Bobby'ego Leacha związane z jego wyczynem na Niagarze z Library and Archives Canada. Pokazuje bohatera ciekawostki."
+        },
+        "insta": {
+          "tytul": "Przeżył Niagarę w beczce. Pokonała go skórka od pomarańczy",
+          "opis": "Bobby Leach w 1911 r. spadł w beczce z wodospadu i przeżył. Lata później poślizgnął się na skórce od pomarańczy i z tego urazu już się nie wylizał."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/BobbyLeachNiagaraFalls.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:BobbyLeachNiagaraFalls.jpg",
+          "credit": "Robert Leach - Library and Archives Canada / Wikimedia Commons, Public domain",
+          "alt": "Archiwalne zdjęcie Bobby'ego Leacha i wodospadu Niagara",
+          "caption": "Bobby Leach, który w 1911 r. spłynął z Niagary w beczce."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Prawo",
+        "initials": "PR",
+        "category": "Prawo",
+        "hype": 4,
+        "title": "W USA ktoś pozwał szatana. Sąd odrzucił sprawę, bo nie dało się mu doręczyć pozwu",
+        "summary": "W 1971 r. amerykański sąd federalny rozpatrywał pozew przeciwko „Szatanowi i jego sztabowi”. Jednym z problemów było to, jak doręczyć mu dokumenty.",
+        "body": [
+          "Sprawa United States ex rel. Gerald Mayo v. Satan and His Staff trafiła do sądu federalnego w Pensylwanii. Powód twierdził, że diabeł uprzykrzał mu życie. Sędzia zauważył m.in., że powód nie wskazał, jak urzędnik miałby doręczyć pozwanemu wezwanie, i odmówił nadania sprawie biegu.",
+          "Nie był to jedyny taki pozew: w 2007 r. senator stanowy z Nebraski Ernie Chambers pozwał Boga. W 2008 r. sąd sprawę odrzucił, bo pozwanemu nie dało się doręczyć dokumentów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lawsuits_against_supernatural_beings"
+          },
+          {
+            "name": "Axess Law",
+            "url": "https://www.axesslaw.com/articles/suing-god-good-luck-with-that/"
+          }
+        ],
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons, domena publiczna",
+          "text": "Dawna ilustracja przedstawiająca diabła w sądzie. Pasuje do historii pozwów, w których stroną była istota nadprzyrodzona."
+        },
+        "insta": {
+          "tytul": "Ktoś w USA pozwał szatana. Sąd miał problem: jak mu doręczyć pozew",
+          "opis": "Prawdziwa sprawa z 1971 r. Później senator z Nebraski pozwał z kolei Boga i też się nie udało."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Daniel_Webster_and_the_Devil_argue_in_court.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Daniel_Webster_and_the_Devil_argue_in_court.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, Public domain",
+          "alt": "Ilustracja: prawnik i diabeł spierają się przed sądem",
+          "caption": "Dawna ilustracja: spór z diabłem na sali sądowej."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Chrząszcze",
+        "initials": "CH",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Istnieje chrząszcz, którego naukowa nazwa to dosłownie Colon rectum",
+        "summary": "Colon to rodzaj drobnych chrząszczy z ponad 80 gatunkami. Jeden z nich nazywa się Colon rectum.",
+        "body": [
+          "Colon to rodzaj chrząszczy z rodziny Leiodidae, nazywanych okrągłymi chrząszczami grzybowymi. Opisano w nim co najmniej 80 gatunków.",
+          "Wśród nich jest Colon rectum. Po angielsku „colon” to okrężnica, a „rectum” to odbytnica, więc nazwa brzmi jak z podręcznika anatomii."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Colon_(beetle)"
+          },
+          {
+            "name": "BioLib.cz",
+            "url": "https://www.biolib.cz/en/taxon/id5564"
+          }
+        ],
+        "caption": {
+          "credit": "Georgiy Jacobson / Wikimedia Commons, domena publiczna",
+          "text": "Rycina chrząszcza Colon clavigerum, jednego z gatunków rodzaju Colon. Tak wyglądają owady, wśród których jest Colon rectum."
+        },
+        "insta": {
+          "tytul": "Jest chrząszcz, który oficjalnie nazywa się Colon rectum",
+          "opis": "Rodzaj Colon ma ponad 80 gatunków. Ktoś przy nadawaniu nazw miał chyba dobry dzień."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Colon_clavigerum_Jacobson.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Colon_clavigerum_Jacobson.png",
+          "credit": "Georgiy Jacobson / Wikimedia Commons, Public domain",
+          "alt": "Rycina chrząszcza z rodzaju Colon",
+          "caption": "Chrząszcz Colon clavigerum z rodzaju Colon."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Sycylia",
+        "initials": "SY",
+        "category": "Geografia",
+        "hype": 4,
+        "title": "Koło Sycylii jest wyspa, która cztery razy wynurzała się z morza i znowu znikała",
+        "summary": "Wyspa Graham to szczyt podwodnego wulkanu 30 km od Sycylii. Erupcje kilka razy wypychały ją nad wodę, a fale znowu ją zabierały.",
+        "body": [
+          "Wyspa Graham (wł. Isola Ferdinandea) to wierzchołek podwodnego wulkanu Empedokles, ok. 30 km na południe od Sycylii. W zapisanej historii wynurzała się z morza cztery razy.",
+          "Za każdym razem wypychała ją erupcja, a potem erozja znów ją zatapiała. Po wynurzeniu w 1831 r. do skrawka lądu zdążyło zgłosić pretensje kilka państw, zanim wyspa ponownie zniknęła pod wodą."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Graham_Island_(Mediterranean_Sea)"
+          },
+          {
+            "name": "grifasi-sicilia.com",
+            "url": "http://www.grifasi-sicilia.com/isolaferdinandeagbr.html"
+          }
+        ],
+        "caption": {
+          "credit": "Gasmonitor / Wikimedia Commons, CC BY-SA 3.0",
+          "text": "Mapa pokazująca położenie zatopionej wyspy Graham u wybrzeży Sycylii. Widać, jak blisko lądu leży wulkan, który ją wypycha."
+        },
+        "insta": {
+          "tytul": "Koło Sycylii jest wyspa, która co jakiś czas wyskakuje z morza",
+          "opis": "To szczyt podwodnego wulkanu. Wynurzała się już cztery razy, a w 1831 r. kilka państw zdążyło się o nią pokłócić, zanim znowu zniknęła."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Map_of_Graham_Island.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Map_of_Graham_Island.jpg",
+          "credit": "Gasmonitor / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mapa położenia wyspy Graham na południe od Sycylii",
+          "caption": "Położenie wyspy Graham u wybrzeży Sycylii."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Muzyka",
+        "initials": "MU",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Są muzycy, którzy grają melodie, ściskając dłonie. Ta sztuka nazywa się manualizm",
+        "summary": "Manualista wypycha powietrze spomiędzy złożonych dłoni i układa z tego melodie. Brzmi to dość jednoznacznie, więc zwykle występuje w komediowych numerach.",
+        "body": [
+          "Manualizm to granie muzyki przez wyciskanie powietrza spomiędzy dłoni. Dźwięk przypomina puszczanie bąków, dlatego taka muzyka pojawia się głównie jako forma komedii albo parodii, solo lub z akompaniamentem.",
+          "Zagranie rozpoznawalnej melodii jest bardzo trudne i wymaga lat ćwiczeń."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Manualism_(hand_music)"
+          },
+          {
+            "name": "The Manualist Page (archiwum)",
+            "url": "https://web.archive.org/web/20120504100215/https://www13.pair.com/handman/hands.htm"
+          }
+        ],
+        "caption": {
+          "credit": "R. A. Wilson / Wikimedia Commons, domena publiczna",
+          "text": "Zdjęcie złożonych dłoni ułożonych do gry w stylu manualizmu. Tak wygląda „instrument” manualisty."
+        },
+        "insta": {
+          "tytul": "Da się grać melodie samymi dłońmi. Brzmi to jak… wiadomo co",
+          "opis": "To manualizm: ściskasz dłonie i wypychasz powietrze. Opanowanie melodii zajmuje lata, więc nie jest to tylko głupi żart 😄"
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Manualism_Hand_Music.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Manualism_Hand_Music.jpg",
+          "credit": "R. A. Wilson at English Wikipedia / Wikimedia Commons, Public domain",
+          "alt": "Złożone dłonie ułożone do gry w stylu manualizmu",
+          "caption": "Dłonie ułożone do gry jako manualista."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "Nobel",
+        "initials": "NO",
+        "category": "Nauka",
+        "hype": 4,
+        "title": "Współtwórca baterii litowo-jonowej dostał Nobla w wieku 97 lat. Nikt starszy go nie odebrał",
+        "summary": "John B. Goodenough opracował materiały katodowe do baterii litowo-jonowych. Nagrodę Nobla z chemii dostał w 2019 r., jako najstarszy laureat w historii.",
+        "body": [
+          "John B. Goodenough (1922–2023) był amerykańskim fizykiem i materiałoznawcą. Przypisuje mu się m.in. opracowanie materiałów katodowych do baterii litowo-jonowych, które dziś są w każdym telefonie.",
+          "Nagrodę Nobla z chemii odebrał w 2019 r., mając 97 lat. To najstarszy laureat Nobla w historii. Zmarł w 2023 r., miesiąc przed setnymi urodzinami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/John_B._Goodenough"
+          },
+          {
+            "name": "NobelPrize.org",
+            "url": "https://www.nobelprize.org/prizes/chemistry/2019/goodenough/biographical/"
+          }
+        ],
+        "caption": {
+          "credit": "US Embassy Sweden / Wikimedia Commons, CC BY 2.0",
+          "text": "John B. Goodenough podczas wydarzeń noblowskich w grudniu 2019 r. w Sztokholmie. To z tamtego roku pochodzi jego rekord najstarszego laureata."
+        },
+        "insta": {
+          "tytul": "Facet od baterii w twoim telefonie dostał Nobla w wieku 97 lat",
+          "opis": "John Goodenough współtworzył baterie litowo-jonowe. Nobla z chemii odebrał w 2019 r. i do dziś nikt starszy go nie dostał."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nobel_9_Dec_2019_029_copy_%2849204051647%29_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Nobel_9_Dec_2019_029_copy_(49204051647)_(cropped).jpg",
+          "credit": "US Embassy Sweden / Wikimedia Commons, CC BY 2.0",
+          "alt": "John B. Goodenough w grudniu 2019 r.",
+          "caption": "John B. Goodenough w Sztokholmie, grudzień 2019."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-12",
