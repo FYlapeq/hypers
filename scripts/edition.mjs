@@ -207,12 +207,14 @@ function add(file, build = true) {
   const errors = [], dupes = [];
   // limit zagranicy dotyczy twórców w Na luzie; Grube ryby (duże tematy) i Ciekawostki się nie liczą
   const COUNTED = s => !['ryby', 'ciekawostki'].includes(s);
-  let worldToday = ed[date] ? SECTIONS.filter(COUNTED).flatMap(s => ed[date][s] || []).filter(n => n.region === 'world').length : 0;
+  // Tryb GTA 6 (prośba Filipa, do tygodnia po premierze 19.11.2026): newsy o GTA 6 nie liczą się do limitu zagranicy
+  const GTA = n => date <= '2026-11-26' && /\bGTA\s*(6|VI)\b|Grand Theft Auto VI/i.test([n.title, n.category, n.who].join(' '));
+  let worldToday = ed[date] ? SECTIONS.filter(COUNTED).flatMap(s => ed[date][s] || []).filter(n => n.region === 'world' && !GTA(n)).length : 0;
   for (const s of NEW_SECTIONS) for (const n of inc[s] || []) {
     errors.push(...validate(n, s, date));
     const hit = known.get('t:' + slugify(n.title)) || urlsOf(n).map(u => known.get('u:' + u)).find(Boolean);
     if (hit) dupes.push(`„${short(n.title, 60)}” powtarza ${hit}`);
-    if (n.region === 'world' && COUNTED(s)) worldToday++;
+    if (n.region === 'world' && COUNTED(s) && !GTA(n)) worldToday++;
   }
   for (const k of Object.keys(inc)) if (!['date', 'slot', ...NEW_SECTIONS].includes(k)) errors.push(`nieznany klucz ${k}`);
   if (dupes.length) errors.push(...dupes.map(d => 'duplikat: ' + d));
