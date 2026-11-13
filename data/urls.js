@@ -2,6 +2,13 @@
 window.HYPERS_URLS = {
  "2026-11-13": {
   "luz": [
+   "artykuly/2026-11-13/gta-6-dostalo-pierwsza-latke-jeszcze-przed-premiera-ma-ok-1-gb-i-jest.html",
+   "artykuly/2026-11-13/gta-6-w-polsce-odblokuje-sie-o-polnocy-z-18-na-19-listopada-gracze.html",
+   "artykuly/2026-11-13/szef-wydawcy-gta-6-pudelka-z-grami-przetrwaja-ale-jak-winyle-fizyczne.html",
+   "artykuly/2026-11-13/ishowspeed-streamerem-roku-na-streamer-awards-2026-kai-cenat-zgarnal.html",
+   "artykuly/2026-11-13/znowu-tony-wydal-puffer-nowy-numer-z-klipem-na-kanale-sbm.html",
+   "artykuly/2026-11-13/wersow-wydala-piosenke-w-drodze-to-utwor-o-milosci-i-rodzinie.html",
+   "artykuly/2026-11-13/jacob-i-ewron-znowu-w-duecie-pozegnalny-odcinek-z-fortnite-og-nagrany.html",
    "artykuly/2026-11-13/rezigiusz-nakrecil-gta-6-w-prawdziwym-zyciu-w-obsadzie-kaluch-pasha.html",
    "artykuly/2026-11-13/kaluch-zamknal-gta-v-prawdziwe-zycie-ostatni-odcinek-serii-wyszedl.html",
    "artykuly/2026-11-13/gta-6-o-malo-nie-zostalo-bez-kategorii-wiekowej-w-korei-komisja.html",
@@ -9,6 +16,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-13/palion-nagrywa-piosenke-o-gta-6-pokazal-kulisy-powstawania-utworu.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-13/tajemnicze-sygnaly-w-radioteleskopie-okazaly-sie-wina-kuchenki.html",
+   "artykuly/2026-11-13/sad-w-usa-orzekl-ze-pokazywanie-gadajacego-kota-za-pieniadze-wymaga.html",
+   "artykuly/2026-11-13/szwecja-miala-podobno-probowac-zastapic-konie-w-kawalerii-losiami.html",
+   "artykuly/2026-11-13/w-anglii-istniala-konkurencja-polegajaca-na-trzymaniu-zywych-fretek.html",
+   "artykuly/2026-11-13/syn-przywodcy-buntu-na-bounty-mial-na-imie-thursday-october.html",
    "artykuly/2026-11-13/najdluzszy-wybor-papieza-trwal-prawie-3-lata-kardynalom-zdjeto-dach.html",
    "artykuly/2026-11-13/najbrzydszy-kolor-swiata-ma-nazwe-pantone-448-c-trafil-na-paczki.html",
    "artykuly/2026-11-13/na-cmentarzu-w-vermont-lezy-egipski-ksiaze-ma-najstarsza-date-smierci.html",

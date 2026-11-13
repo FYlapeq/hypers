@@ -5,6 +5,274 @@ window.HYPERS_EDITIONS = {
     "ryby": [],
     "luz": [
       {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "GTA 6 dostało pierwszą łatkę jeszcze przed premierą. Ma ok. 1 GB i jest wymagana do gry",
+        "summary": "Na PS5 i Xboksach pojawiła się aktualizacja 01.002.000 do GTA 6. Wypatrzyło ją konto PlayStation Game Size, które śledzi rozmiary gier w sklepie PlayStation.",
+        "body": [
+          "Sześć dni przed premierą GTA 6 dostało pierwszą aktualizację. Według konta PlayStation Game Size na X łatka ma numer 01.002.000, waży około 1 GB i jest oznaczona jako wymagana przed uruchomieniem gry.",
+          "Konto podaje, że aktualizacja trafia do graczy stopniowo i nie zależy od strefy czasowej: część osób już ją ma, reszta ma ją dostać w ciągu kilkunastu godzin.",
+          "Z porównania plików wynika, że urosły głównie dane fabularne i jeden z plików poziomów, każdy o ponad 15 MB. Tekstury, dźwięk i wideo się nie zmieniły. GRYOnline.pl przypuszcza, że chodzi głównie o poprawki błędów. Rockstar nie opisał zawartości łatki.",
+          "Gra wychodzi 19 listopada na PS5 i Xbox Series X|S. Preload ruszył wcześniej dla osób, które kupiły grę cyfrowo."
+        ],
+        "sources": [
+          {
+            "name": "PlayStation Game Size / X",
+            "url": "https://x.com/PlaystationSize/status/2121214348764848474",
+            "origin": true
+          },
+          {
+            "name": "GRYOnline.pl",
+            "url": "https://www.gry-online.pl/newsroom/gta-6-jeszcze-nie-wyszlo-a-juz-dostalo-pierwsza-latke-bez-niej-ni/ze32324"
+          }
+        ],
+        "embed": "https://x.com/PlaystationSize/status/2121214348764848474",
+        "caption": {
+          "credit": "PlayStation Game Size / X",
+          "text": "Wpis konta, które jako pierwsze zauważyło łatkę 01.002.000 do GTA 6. Konto porównuje rozmiary plików gry przed i po aktualizacji."
+        },
+        "noImage": "brak filmu YouTube ani newsroomu z legalnym kadrem; osadzony oryginalny wpis",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "GTA 6 w Polsce odblokuje się o północy z 18 na 19 listopada. Gracze liczą na „sposób z Nową Zelandią”",
+        "summary": "Według listingów w PlayStation Store GTA 6 startuje w Europie Środkowej o 0:00 19 listopada. W Nowej Zelandii będzie to o kilkanaście godzin wcześniej, więc część graczy chce zmienić region konsoli.",
+        "body": [
+          "VICE zebrał godziny premiery GTA 6 z regionalnych stron PlayStation Store. W strefie czasu środkowoeuropejskiego, czyli także w Polsce, gra ma się odblokować o północy 19 listopada. W Wielkiej Brytanii to północ czasu GMT, a w USA 18 listopada o 21:00 czasu pacyficznego.",
+          "Najwcześniej zagrają gracze w Nowej Zelandii: tam północ wypada 18 listopada o 12:00 czasu polskiego. Stąd pomysł nazywany „metodą nowozelandzką”: ustawienie na Xboksie Nowej Zelandii jako lokalizacji konsoli. VICE zaznacza, że w chwili pisania nie było potwierdzone, że to zadziała. Na PS5 nie da się zmienić kraju konta, więc trzeba by zakładać nowe.",
+          "Godziny pochodzą ze sklepu, a nie z oficjalnego harmonogramu Rockstara, więc mogą się jeszcze zmienić. Godziny na Xboksie trzeba sprawdzić osobno.",
+          "Datę 19 listopada Rockstar potwierdził w oficjalnym komunikacie. Gra wychodzi na PS5 i Xbox Series X|S."
+        ],
+        "sources": [
+          {
+            "name": "VICE",
+            "url": "https://www.vice.com/en/article/gta-6-release-date-launch-times-new-zealand-method/"
+          },
+          {
+            "name": "Rockstar Games Newswire",
+            "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+            "origin": true
+          },
+          {
+            "name": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+          }
+        ],
+        "noImage": "brak legalnego kadru z omawianego filmu ani newsroomu; informacja ze sklepu i komunikatu",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Strauss Zelnick",
+        "initials": "SZ",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Szef wydawcy GTA 6: pudełka z grami przetrwają, ale jak winyle. Fizyczne wydania to ok. 2% biznesu",
+        "summary": "Strauss Zelnick, prezes Take-Two, powiedział, że cyfrowa sprzedaż przekroczy 90% rynku. Decyzję o fizycznym wydaniu GTA 6 zostawia Rockstarowi.",
+        "body": [
+          "Prezes Take-Two Strauss Zelnick w rozmowie z serwisem The Game Business powiedział, że cyfrowa dystrybucja będzie stanowić znacznie ponad 90% rynku gier. Fizyczne gry jego zdaniem nie znikną, ale zostaną niszą, podobnie jak płyty winylowe w muzyce.",
+          "Według GRYOnline.pl fizyczne wydania to dziś około 2% biznesu Take-Two.",
+          "W rozmowie z Variety Zelnick dodał, że to, czy i kiedy GTA 6 dostanie pełne wydanie fizyczne oraz trafi na inne platformy, zależy od Rockstar Games. Pudełkowa wersja GTA 6 zawiera kod do pobrania gry zamiast płyty.",
+          "GTA 6 wychodzi 19 listopada na PS5 i Xbox Series X|S."
+        ],
+        "sources": [
+          {
+            "name": "The Game Business",
+            "url": "https://www.thegamebusiness.com/p/the-two-indie-game-legends-going",
+            "origin": true
+          },
+          {
+            "name": "Variety",
+            "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/"
+          },
+          {
+            "name": "GRYOnline.pl",
+            "url": "https://www.gry-online.pl/newsroom/szef-wydawcy-gta-6-wierzy-ze-gry-w-pudelkach-przetrwaja-ale-jako/zc3230d"
+          }
+        ],
+        "noImage": "wywiad tekstowy, brak legalnego zdjęcia",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Nagrody",
+        "hype": 5,
+        "title": "IShowSpeed Streamerem Roku na Streamer Awards 2026. Kai Cenat zgarnął trzy statuetki",
+        "summary": "Na gali Streamer Awards w Los Angeles główną nagrodę dostał IShowSpeed. Kai Cenat wygrał m.in. za Streamer University.",
+        "body": [
+          "W nocy z 12 na 13 listopada w Los Angeles odbyła się gala Streamer Awards 2026. Nagrodę Streamera Roku zdobył IShowSpeed. Krótki film z odbioru statuetki wrzucił na swój kanał: do 15:46 miał ok. 1,35 mln wyświetleń.",
+          "Widzowie w komentarzach najczęściej zwracają uwagę, że część przemowy Speed wygłosił po indonezyjsku.",
+          "Kai Cenat, który według IBTimes miał na gali cztery nominacje, wygrał trzy kategorie: „League of Their Own”, najlepsze wydarzenie na streamie (za Streamer University) i najlepszą współpracę z gwiazdą (za stream z piosenkarką Tylą). Zestawienie swoich wygranych opublikował na kanale Kai Cenat Live."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/shorts/M1V5cpbdwtQ",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=QYgduoj4QPY",
+            "origin": true
+          },
+          {
+            "name": "IBTimes UK",
+            "url": "https://www.ibtimes.co.uk/kai-cenat-three-awards-ishowspeed-streamer-year-1832035"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/M1V5cpbdwtQ",
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Short, w którym IShowSpeed odbiera nagrodę Streamera Roku na gali w Los Angeles. To jego własna relacja z najważniejszego momentu wieczoru."
+        },
+        "ig": [
+          "ishowspeed",
+          "kaicenat"
+        ],
+        "insta": {
+          "tytul": "IShowSpeed wygrał Streamera Roku, a Kai Cenat wrócił z trzema nagrodami",
+          "opis": "Streamer Awards 2026 za nami. Speed część przemowy powiedział po indonezyjsku 🏆"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/M1V5cpbdwtQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/M1V5cpbdwtQ/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/shorts/M1V5cpbdwtQ",
+          "alt": "Kadr z filmu IShowSpeeda z gali Streamer Awards 2026",
+          "caption": "IShowSpeed odbiera nagrodę Streamera Roku 2026."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-13",
+        "who": "Znowu Tony",
+        "initials": "ZT",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Znowu Tony wydał „Puffer”. Nowy numer z klipem na kanale SBM",
+        "summary": "Raper z SBM Label wypuścił singiel „Puffer” z teledyskiem. Bit zrobił Urmi, klip wyreżyserował Oliwier De Nisau.",
+        "body": [
+          "13 listopada na kanale SBM Label pojawił się nowy numer Znowu Tony'ego, „Puffer”. Utwór jest też w serwisach streamingowych.",
+          "Według opisu bit i realizację zrobił Urmi w NOBOCOTO studio, a mix i mastering Seek. Klip wyreżyserował i nakręcił Oliwier De Nisau.",
+          "Widzowie w komentarzach chwalą numer i żartują, że po nim chcą kupić puchówkę."
+        ],
+        "sources": [
+          {
+            "name": "SBM Label / YouTube",
+            "url": "https://www.youtube.com/shorts/WnQawzSR6ok",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/WnQawzSR6ok",
+        "caption": {
+          "credit": "SBM Label / YouTube",
+          "text": "Teledysk do „Puffer”, nowego numeru Znowu Tony'ego. W opisie wydawnictwo podaje pełne credity utworu i klipu."
+        },
+        "ig": [
+          "znowutony"
+        ],
+        "insta": {
+          "tytul": "Znowu Tony wrzucił nowy numer „Puffer”",
+          "opis": "Jest klip na kanale SBM, bit od Urmiego. W komentarzach połowa ludzi chce teraz puchówkę."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/WnQawzSR6ok/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/WnQawzSR6ok/hqdefault.jpg",
+          "credit": "SBM Label / YouTube",
+          "href": "https://www.youtube.com/shorts/WnQawzSR6ok",
+          "alt": "Kadr z teledysku Znowu Tony – Puffer",
+          "caption": "Kadr z klipu „Puffer” Znowu Tony'ego."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-13",
+        "who": "Wersow",
+        "initials": "W",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Wersow wydała piosenkę „W drodze”. To utwór o miłości i rodzinie",
+        "summary": "Nowy numer Wersow ma klip wyreżyserowany przez Karola Wiśniewskiego, czyli Friza. Muzykę wyprodukował duet MIZE.",
+        "body": [
+          "13 listopada o 15:00 na kanale Wersow pojawiła się piosenka „W drodze” z teledyskiem. W opisie Wersow pisze, że to opowieść o miłości i bliskości, która zostaje mimo upływu czasu.",
+          "Tekst napisała z Piotrem Zborowskim i Bartkiem Marszałkiem, którzy jako MIZE odpowiadają też za kompozycję i produkcję. Klip wyreżyserował Karol Wiśniewski, a wyprodukowało go Papaya Films.",
+          "W komentarzach widzowie chwalą klimat teledysku."
+        ],
+        "sources": [
+          {
+            "name": "Wersow / YouTube",
+            "url": "https://www.youtube.com/shorts/ndK7klfPJEM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/ndK7klfPJEM",
+        "caption": {
+          "credit": "Wersow / YouTube",
+          "text": "Teledysk do „W drodze”. Opis filmu podaje autorów tekstu, muzyki i zdjęć."
+        },
+        "noImage": "w rodzinnym teledysku mogą być dzieci, więc bez kadru",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-13",
+        "who": "Jacob",
+        "initials": "J",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Jacob i Ewron znowu w duecie. Pożegnalny odcinek z Fortnite OG nagrany w starym stylu",
+        "summary": "Jacob wrzucił ostatni odcinek z trybem Fortnite OG. Zagrał w nim z Ewronem, a film celowo zmontował tak jak dawniej.",
+        "body": [
+          "Jacob opublikował film „Minęło 3412 dni…”, czyli pożegnanie z trybem Fortnite OG. Zagrał w nim w duecie z Ewronem, z którym nagrywał lata temu.",
+          "W przypiętym komentarzu napisał, że to ostatni odcinek z Fortnite OG i że film jest celowo nagrany i zmontowany jak dawniej. Pyta widzów, co sądzą o takiej formie.",
+          "Widzowie piszą o nostalgii i proszą o więcej odcinków w starym stylu."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=j4jQij7v6Sc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=j4jQij7v6Sc",
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Pożegnalny odcinek z Fortnite OG, nagrany przez Jacoba z Ewronem. Według autora film celowo zrobiono w stylu jego dawnych materiałów."
+        },
+        "insta": {
+          "tytul": "Jacob i Ewron znowu razem. Na pożegnanie Fortnite OG",
+          "opis": "Ostatni odcinek z trybem OG, zmontowany jak za starych czasów."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/j4jQij7v6Sc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/j4jQij7v6Sc/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=j4jQij7v6Sc",
+          "alt": "Miniatura filmu Jacoba Minęło 3412 dni",
+          "caption": "Miniatura pożegnalnego odcinka z Fortnite OG."
+        },
+        "slot": "15:00"
+      },
+      {
         "region": "pl",
         "published": "2026-11-12",
         "who": "ReZigiusz",
@@ -246,6 +514,211 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Astronomia",
+        "initials": "AS",
+        "category": "Kosmos",
+        "hype": 4,
+        "title": "Tajemnicze sygnały w radioteleskopie okazały się winą kuchenki mikrofalowej",
+        "summary": "Astronomowie latami łapali krótkie sygnały radiowe zwane perytonami. Ich źródłem była mikrofalówka.",
+        "body": [
+          "Perytony to krótkie, trwające milisekundy sygnały radiowe, przypominające szybkie błyski radiowe z kosmosu. Pierwszy zarejestrowano w 2001 roku, ale wykryto go dopiero w 2007.",
+          "Różniły się od kosmicznych błysków tym, że pojawiały się naraz w wielu wiązkach teleskopu, co wskazywało na ziemskie pochodzenie. Ostatecznie okazało się, że powstawały, gdy ktoś otwierał drzwiczki pracującej kuchenki mikrofalowej w pobliżu radioteleskopu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Peryton_(astronomy)"
+          },
+          {
+            "name": "caltechmicrowave2.org",
+            "url": "https://www.caltechmicrowave2.org/peryton-research"
+          }
+        ],
+        "insta": {
+          "tytul": "Astronomowie szukali źródła dziwnych sygnałów. To była mikrofalówka",
+          "opis": "Ktoś otwierał drzwiczki działającej kuchenki obok radioteleskopu, a sprzęt łapał to jak sygnał z kosmosu."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pertyon.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Pertyon.png",
+          "credit": "Psr1909 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Wykres sygnału radiowego typu peryton opadającego w częstotliwości",
+          "caption": "Zapis perytonu: sygnał w czasie i częstotliwości."
+        },
+        "caption": {
+          "credit": "Psr1909 / Wikimedia Commons",
+          "text": "Wykres z badań nad perytonami: sygnał opada w częstotliwości w ciągu milisekund, jak błysk z kosmosu, choć powstawał na Ziemi."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "USA",
+        "initials": "US",
+        "category": "Prawo",
+        "hype": 3,
+        "title": "Sąd w USA orzekł, że pokazywanie „gadającego kota” za pieniądze wymaga licencji",
+        "summary": "Para z Augusty w stanie Georgia zarabiała na kocie Blackie, który podobno mówił. Sprawa skończyła się w federalnym sądzie apelacyjnym.",
+        "body": [
+          "W maju 1981 roku Carl i Elaine Miles zaczęli pokazywać na ulicach Augusty swojego kota Blackie, reklamowanego jako gadający, i zbierać za to pieniądze.",
+          "Miasto uznało to za działalność wymagającą licencji. Właściciele poszli do sądu, a w 1983 roku federalny sąd apelacyjny 11. okręgu orzekł, że pokazywanie gadającego kota to zajęcie podlegające miejskim przepisom o licencjach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Miles_v._City_Council_of_Augusta,_Georgia"
+          },
+          {
+            "name": "OpenJurist",
+            "url": "https://openjurist.org/710/f2d/1542/miles-v-city-council-of-augusta-georgia"
+          }
+        ],
+        "insta": {
+          "tytul": "W USA sąd zajmował się tym, czy gadający kot potrzebuje licencji",
+          "opis": "Właściciele zbierali pieniądze za pokazy kota Blackie. Sąd uznał, że to biznes i trzeba mieć licencję."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/US-CourtOfAppeals-11thCircuit-Seal.png",
+          "href": "https://commons.wikimedia.org/wiki/File:US-CourtOfAppeals-11thCircuit-Seal.png",
+          "credit": "U.S. Government / Wikimedia Commons, Public domain",
+          "alt": "Pieczęć Sądu Apelacyjnego USA dla 11. okręgu",
+          "caption": "Pieczęć sądu apelacyjnego, który rozstrzygał sprawę gadającego kota."
+        },
+        "caption": {
+          "credit": "U.S. Government / Wikimedia Commons",
+          "text": "Pieczęć federalnego sądu apelacyjnego 11. okręgu, który w 1983 roku rozstrzygnął sprawę kota Blackie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Łosie",
+        "initials": "ŁO",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Szwecja miała podobno próbować zastąpić konie w kawalerii łosiami",
+        "summary": "Według niektórych źródeł król Karol XI testował łosie jako wierzchowce. Historycy mają co do tego wątpliwości.",
+        "body": [
+          "Niektóre źródła podają, że w XVII wieku szwedzki król Karol XI sprawdzał, czy łosie mogą zastąpić w wojsku konie, które trzeba było sprowadzać z zagranicy. Ta wersja jest jednak sporna.",
+          "Krążą też opowieści o łosiej kawalerii Sowietów w wojnie zimowej 1939–1940, ale wygląda na to, że wzięły się z primaaprilisowego artykułu „Popular Mechanics” z 2010 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Moose_cavalry"
+          },
+          {
+            "name": "Alaska Dispatch News (archiwum)",
+            "url": "https://web.archive.org/web/20160529185612/https://www.adn.com/wildlife/article/moose-and-men-brief-history-domesticated-moose-alaska/2016/01/03/"
+          }
+        ],
+        "insta": {
+          "tytul": "Szwedzi podobno testowali kawalerię na łosiach",
+          "opis": "Miał to sprawdzać król Karol XI w XVII wieku, bo konie trzeba było importować. Historycy nie są do końca przekonani."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Moose-Gustav.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Moose-Gustav.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, CC BY 2.5",
+          "alt": "Ilustracja jeźdźca na łosiu",
+          "caption": "Ilustracja przedstawiająca jazdę na łosiu."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons",
+          "text": "Ilustracja jazdy na łosiu, o której opowiadają historie o szwedzkiej łosiej kawalerii."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Sport",
+        "hype": 3,
+        "title": "W Anglii istniała konkurencja polegająca na trzymaniu żywych fretek w spodniach",
+        "summary": "Wygrywał ten, kto najdłużej wytrzymał z fretkami w nogawkach. Zabawa była podobno popularna wśród górników z Yorkshire.",
+        "body": [
+          "„Ferret-legging” to dawna próba wytrzymałości: uczestnicy wkładali żywe fretki do spodni, a wygrywał ten, kto najpóźniej je wypuścił. Podobno lubili ją górnicy w hrabstwie Yorkshire.",
+          "Zwyczaj mógł wziąć się z czasów, gdy zwierzęta do polowań mogli trzymać tylko zamożni, a kłusownicy chowali fretki w spodniach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ferret-legging"
+          },
+          {
+            "name": "The Northern Echo (archiwum)",
+            "url": "https://web.archive.org/web/20090910033647/http://archive.thisisthenortheast.co.uk/2005/01/04/27436.html"
+          }
+        ],
+        "insta": {
+          "tytul": "W Anglii zawody polegały na trzymaniu żywych fretek w spodniach",
+          "opis": "Wygrywał ten, kto najdłużej wytrzymał. Podobno grali w to górnicy z Yorkshire."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Iltisfrettchen.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Iltisfrettchen.jpg",
+          "credit": "Gilowyn / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Fretka",
+          "caption": "Fretka, czyli zwierzę, które lądowało w nogawkach."
+        },
+        "caption": {
+          "credit": "Gilowyn / Wikimedia Commons",
+          "text": "Fretka, czyli zwierzę, które uczestnicy ferret-leggingu wkładali do spodni."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Pitcairn",
+        "initials": "PI",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Syn przywódcy buntu na Bounty miał na imię Thursday October, bo urodził się w czwartek w październiku",
+        "summary": "Fletcher Christian nie chciał, by imię syna przypominało mu Anglię. Chłopiec był pierwszym dzieckiem urodzonym na Pitcairn po przybyciu buntowników.",
+        "body": [
+          "Thursday October Christian urodził się 14 października 1790 roku jako syn Fletchera Christiana, przywódcy buntu na okręcie Bounty, i Tahitanki Mauatui. Był pierwszym dzieckiem urodzonym na wyspie Pitcairn po tym, jak schronili się tam buntownicy.",
+          "Przyszedł na świat w czwartek w październiku i stąd jego imię: ojciec chciał, by syn nie miał imienia kojarzącego się z Anglią."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Thursday_October_Christian_I"
+          },
+          {
+            "name": "Project Gutenberg",
+            "url": "http://www.gutenberg.org/ebooks/21747"
+          }
+        ],
+        "insta": {
+          "tytul": "Syn buntownika z Bounty miał na imię Czwartek Październik",
+          "opis": "Urodził się w czwartek w październiku, a ojciec nie chciał imienia, które przypomina Anglię."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Thursday_%28Friday%29_Fletcher_October_Christian.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Thursday_(Friday)_Fletcher_October_Christian.jpg",
+          "credit": "J. Shillibeer / Wikimedia Commons, Public domain",
+          "alt": "Portret Thursdaya Octobera Christiana",
+          "caption": "Portret Thursdaya Octobera Christiana, syna Fletchera Christiana."
+        },
+        "caption": {
+          "credit": "J. Shillibeer / Wikimedia Commons",
+          "text": "Portret Thursdaya Octobera Christiana, syna przywódcy buntu na Bounty."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-13",
