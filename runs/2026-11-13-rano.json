@@ -1,0 +1,2074 @@
+{
+ "run": {
+  "date": "2026-11-13",
+  "slot": "rano",
+  "generated_at": "2026-11-13T05:16:51.702Z",
+  "candidates": 99,
+  "with_free_image": 36,
+  "ready": 22
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 144",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4252",
+  "drugie-zrodlo": "ok 22/36"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego budowa Kładki Kazimierz–Ludwinów mogła grozić wykreśleniem krakowskiego Starego Miasta z listy światowego dziedzictwa UNESCO?",
+   "article": {
+    "title": "Kładka Kazimierz–Ludwinów",
+    "url": "https://pl.wikipedia.org/wiki/K%C5%82adka_Kazimierz%E2%80%93Ludwin%C3%B3w",
+    "extract": "Kładka Kazimierz–Ludwinów – przeprawa pieszo-rowerowa biegnąca nad Wisłą w Krakowie, łącząca zabytkowy Bulwar Inflancki (Dzielnica I Stare Miasto) z Bulwarem Wołyńskim (pogranicze Dzielnicy VIII Dębniki oraz Dzielnicy XIII Podgórze), budowana w latach 2024–2026."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Kładka Kazimierz–Ludwinów w Krakowie, 20261021 1631 6695.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto jest głównym bohaterem gry Silent Hill: Townfall?",
+   "article": {
+    "title": "Silent Hill: Townfall",
+    "url": "https://pl.wikipedia.org/wiki/Silent_Hill:_Townfall",
+    "extract": "Silent Hill: Townfall – survival horror należący do serii Silent Hill. Gra została wydana 24 września 2026 roku na PlayStation 5 oraz Microsoft Windows. Została opracowana przez szkockie studio Screen Burn Interactive i wydana wspólnie przez Konami Digital Entertainment oraz Annapurna Interactive. Akcja gry rozgrywa się w 1996 roku na fikcyjnej wyspie St."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjska cenzura w 1943 roku nie dopuściła do kin polskiego antynazistowskiego filmu Calling Mr Smith?",
+   "article": {
+    "title": "Calling Mr Smith",
+    "url": "https://pl.wikipedia.org/wiki/Calling_Mr_Smith",
+    "extract": "Calling Mr Smith (polskie tlumaczenia tytułu to m.in. Wzywając pana Smitha i Wzywamy Pana Smitha) – polsko-brytyjski krótkometrażowy film eksperymentalny (awangardowy) o wymowie antynazistowskiej z 1943 roku, zrealizowany przez Franciszkę i Stefana Themersonów."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że za pomocą odczynnika Ehrlicha można wykryć m.in. LSD i opium?",
+   "article": {
+    "title": "Odczynnik Ehrlicha",
+    "url": "https://pl.wikipedia.org/wiki/Odczynnik_Ehrlicha",
+    "extract": "Odczynnik Ehrlicha, odczynnik Van Urka – odczynnik chemiczny służący do kolorometrycznego wykrywania pochodnych pirolu, a także indolu, amin aromatycznych, ureidów i hydroksyproliny. Jest to roztwór para-dimetyloaminobenzaldehydu (p-DMAB, Me2N−C6H4−CHO) w kwasie solnym.\nNazwa pochodzi od nazwiska niemieckiego naukowca Paula Ehrlicha (1854–1915), który opisał w 1901 r. powstawanie zabarwienia po dodaniu odczynnika do moczu."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Para-Dimethylaminobenzaldehyde.svg)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy kolarstwo ręczne pojawiło się na igrzyskach paraolimpijskich?",
+   "article": {
+    "title": "Parakolarstwo",
+    "url": "https://pl.wikipedia.org/wiki/Parakolarstwo",
+    "extract": "Parakolarstwo (ang. para-cycling) – kolarstwo osób z niepełnosprawnościami. Dyscypliną zarządza Międzynarodowa Unia Kolarska (UCI). Rywalizacja dzieli się na dwie odmiany: kolarstwo szosowe (ang."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Ursula Schwaller (London2012).JPG)"
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie podróżują bohaterowie japońskiego fantastycznonaukowego filmu Ginga no Uo Ursa Minor Blue?",
+   "article": {
+    "title": "Ginga no Uo Ursa Minor Blue",
+    "url": "https://pl.wikipedia.org/wiki/Ginga_no_Uo_Ursa_Minor_Blue",
+    "extract": "Ginga no Uo Ursa Minor Blue (jap. 銀河の魚 URSA minor BLUE; romanizowane także jako Ginga no Sakana, tłumaczone w źródłach angielskojęzycznych jako Blue Little Bear Ursa Minor Blue lub Fish of the Milky Way Ursa Minor Blue) – japoński krótkometrażowy animowany film fantastycznonaukowy z 1993 roku, napisany i wyreżyserowany przez ilustratora Shigeru Tamurę, z muzyką Teshikaia Utollo. Trwający 23 minuty film jest wczesnym przykładem animacji komputerowej; do jego produkcji wykorzystano komputery Macintosh Quadra oraz technologię obrazu wysokiej rozdzielczości.\nFilm opowiada o chłopcu imieniem Yuri i jego dziadku astronomie, którzy odbywają surrealistyczną podróż przez Drogę Mleczną, gdzie napotykają potworną rybę atakującą gwiazdozbiory."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że do protestów przeciwko wojnie w Wietnamie dołączyła Myszka Miki?",
+   "article": {
+    "title": "Mickey Mouse in Vietnam",
+    "url": "https://pl.wikipedia.org/wiki/Mickey_Mouse_in_Vietnam",
+    "extract": "Mickey Mouse in Vietnam lub Short Subject –  niezależny animowany film antywojenny o długości około jednej minuty utworzony na 16–milimetrowej taśmie filmowej. Został wydany w 1968 lub 1969 roku. Jego reżyserem był Whitney Lee Savage (ojciec Adama Savage’a), a producentem Milton Glaser. Film był tworzony bez zgody The Walt Disney Company."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Short Subject⧸Mickey Mouse in Vietnam (1969, silent version).webm)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "People's Revolutionary Government: The only Marxist-Leninist constitutional monarchy in history with Elizabeth II as monarch.",
+   "article": {
+    "title": "People's Revolutionary Government",
+    "url": "https://en.wikipedia.org/wiki/People%27s_Revolutionary_Government",
+    "extract": "The People's Revolutionary Government (PRG) was proclaimed on 13 March 1979 after the New JEWEL Movement overthrew the government of Grenada in a revolution, making Grenada the only Marxist-Leninist state within the Commonwealth. In Grenada, the revolution is referred to as the \"March 13th Revolution of 1979\" or simply as \"The Revolution\". The government suspended the constitution and ruled by decree until a factional conflict broke out, culminating in an invasion by the United States on 25 October 1983."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Flag of Grenada.svg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Names of Soviet origin: In the wake of the Russian Revolution, there was a craze for parents giving names of overtly revolutionary or Soviet inspiration. Examples include \"Vladlen\" (short for Vladimir Lenin), \"Revmir\" (\"Revolution of the world\"), \"Elmira\" (electrification of the world), \"Barrikad\" (barricade) and \"Geliy\" (helium).",
+   "article": {
+    "title": "Names of Soviet origin",
+    "url": "https://en.wikipedia.org/wiki/Names_of_Soviet_origin",
+    "extract": "Given names of Soviet origin appeared in the early history of the Soviet Union, coinciding with the period of intensive word formation, both being part of the so-called \"revolutionary transformation of the society\" with the corresponding fashion of neologisms and acronyms, which Richard Stites characterized as a utopian vision of creating a new reality by means of verbal imagery. They constituted a notable part of the new Soviet phraseology.\nSuch names may be primarily found in Russian persons, and sometimes in Belarusians and Ukrainians, as well as in other minorities of the former USSR (e.g. Tatar)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8.jpg",
+    "file": "File:Токарев Вилли.jpg",
+    "artist": "Mikhail Popov",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 300,
+    "height": 300,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://web.archive.org/web/20150704074808/http://akazak.ru/chitalnyj-zal/interesnye-stati/117-villi-tokarev-lkogda-tebya-podgonyayut-nado-govorit-lokejr-i-delat-po-svoemur.html"
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Truck-kun: The character responsible for sending more protagonists to other worlds than any other.",
+   "article": {
+    "title": "Truck-kun",
+    "url": "https://en.wikipedia.org/wiki/Truck-kun",
+    "extract": "Truck-kun is an Internet meme that refers to a common trope used in the isekai genre of anime, manga, and light novels, in which characters are transported to other worlds. Typically, the protagonists of the isekai anime or manga are sent to these worlds via various methods, including reincarnation after death, and many isekai works have featured characters being transported upon being hit and killed by a truck. After several isekai works featured this as a means to kill their characters, a meme claiming the existence of a character named \"Truck-kun\" spread. It is purported that Truck-kun's role is to kill people in their original world and subsequently send them to a new one."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Truck-kun drawing January 2022.jpg)"
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "YOGTZE case: Unemployed German man scrawls \"YOGTZE\" on a piece of paper, disappears into the night, is found dead the next morning.",
+   "article": {
+    "title": "YOGTZE case",
+    "url": "https://en.wikipedia.org/wiki/YOGTZE_case",
+    "extract": "The YOGTZE case (German: YOGTZE-Fall, also BAB-Rätsel, \"Autobahn Riddle\") refers to the death of unemployed German food engineer Günther Stoll, which occurred on 26 October 1984. Stoll died under unusual and mysterious circumstances, which gave the case international attention. \nIn April 2025, the case was closed as accidental, after new investigation had revealed that it was most likely a single-car wreck."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/YOGTZE_case_location_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:YOGTZE_case_location_map.png",
+    "file": "File:YOGTZE case location map.png",
+    "artist": "Jazzman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 857,
+    "height": 1013,
+    "ok": true
+   },
+   "second_source": {
+    "name": "historicmysteries.com",
+    "url": "https://www.historicmysteries.com/gunther-stoll/",
+    "title": "Günther Stoll's Mysterious Final Moments: The YOGTZE Case",
+    "matched": [
+     "yogtze",
+     "unemployed",
+     "german",
+     "piece",
+     "paper",
+     "disappears",
+     "night",
+     "found"
+    ]
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Turn-On: An ABC comedy series that was cancelled even before the first episode had finished.",
+   "article": {
+    "title": "Turn-On",
+    "url": "https://en.wikipedia.org/wiki/Turn-On",
+    "extract": "Turn-On is an American surreal sketch comedy series created by Digby Wolfe and George Schlatter that aired once on ABC on Wednesday, February 5, 1969. Only one episode was shown before being pulled from ABC's schedule, leaving another episode unaired. The show has since been considered one of the most infamous flops in TV history, with significantly low initial ratings and negative critical reception.\nSchlatter and Ed Friendly, who had previously been the producers of Rowan & Martin's Laugh-In, were contracted by Bristol-Myers to develop the show, and provided it to ABC for a projected 13-week run after it was rejected by NBC and CBS. Turn-On's sole broadcast episode replaced the Wednesday episode of Peyton Place – a fact referenced on the show itself, where, in the opening, Tim Conway refers to the show as \"Peyton Re-Place\"."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Turn-On Title Card.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Athletics at the 1904 Summer Olympics – Men's marathon: The worst-run Olympic event in history. No water in the blazing Missouri heat, a winner who'd been poisoned by his trainers, the \"winner\" being disqualified for \"illegal use of cars\", a postman joining at the last minute and a tribesman being chased by aggressive dogs. Among other things.",
+   "article": {
+    "title": "Athletics at the 1904 Summer Olympics – Men's marathon",
+    "url": "https://en.wikipedia.org/wiki/Athletics_at_the_1904_Summer_Olympics_%E2%80%93_Men%27s_marathon",
+    "extract": "The men's marathon at the 1904 Summer Olympics in St. Louis, Missouri, United States, took place on August 30 of that year, over a distance of 24 miles 1500 yards (40 km).\nThe race was run during the hottest part of the day on dusty country roads with minimal water supply. While 32 athletes coming from seven nations (the United States, France, Cuba, Greece, the Orange River Colony, Great Britain, and Canada) competed, only 14 managed to complete the race, which was a bizarre affair due to poor organization and officiating."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Marathon Hicks1904.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Madeleine Marzin was sentenced to death after she led a group of women to loot sardines from a Parisian grocery during World War II?",
+   "article": {
+    "title": "Madeleine Marzin",
+    "url": "https://en.wikipedia.org/wiki/Madeleine_Marzin",
+    "extract": "Madeleine Marie Marzin (21 July 1908 – 27 May 1998) was a French teacher, a trade unionist, and an underground communist activist in the French Resistance during World War II. After the war, she was elected as a deputy to the National Assembly for Seine."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "plik Madeleine_Marzin,_French_National_Assembly.jpg nie jest na Commons (prawdopodobnie niewolny)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1916 VFL season: Finishing the regular season with the worst record…and as champions?",
+   "article": {
+    "title": "1916 VFL season",
+    "url": "https://en.wikipedia.org/wiki/1916_VFL_season",
+    "extract": "The 1916 VFL season was the 20th season of the Victorian Football League (VFL), the highest-level senior Australian rules football competition in Victoria. Played during the peak of World War I, the season was the shortest in the league's history and featured the fewest clubs, with only four clubs – Carlton, Collingwood, Fitzroy and Richmond – featuring in 1916. The season ran from 6 May to 2 September, comprising a twelve-match home-and-away season followed by a four-week finals series featuring all four clubs.\nFitzroy won the premiership, its sixth VFL premiership; despite finishing in last place during the home-and-away season with a 2–9–1 win–loss–draw record, Fitzroy won all three of its finals, culminating in defeating Carlton by 29 points in the 1916 VFL grand final."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fitzroy_fc_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fitzroy_fc_1916.jpg",
+    "file": "File:Fitzroy fc 1916.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1259,
+    "height": 883,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://afltables.com/afl/seas/1916.html#lad"
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "General Butt Naked: A former Liberian warlord who found Christ and now preaches to the communities he committed atrocities against would be pretty odd even if he weren't called… that.",
+   "article": {
+    "title": "General Butt Naked",
+    "url": "https://en.wikipedia.org/wiki/General_Butt_Naked",
+    "extract": "Joshua Milton Blahyi (born 30 September 1971), better known by his nom de guerre General Butt Naked, is a Liberian preacher and philanthropist best known for being a warlord during the First Liberian Civil War. Born in Monrovia into a Krahn family, Blahyi claims that at the age of seven he was inducted as a high priest into a secret society and participated in child sacrifices along with assisting the regime of President Samuel Doe. Such claims have been disputed by Blahyi's relatives, who instead claim he dropped out of school after the third grade and worked at a local market in Monrovia before turning to crime. In 1989, the National Patriotic Front of Liberia (NPFL) sparked the civil war when they invaded Liberia to topple Doe, who was murdered in 1990."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MaDonal: A McDonald's knock-off in Iraq.",
+   "article": {
+    "title": "MaDonal",
+    "url": "https://en.wikipedia.org/wiki/MaDonal",
+    "extract": "MaDonal (Sorani Kurdish: مادۆنال) is a restaurant located in the city of Sulaymaniyah, Iraqi Kurdistan. It is designed to resemble the fast food chain McDonald's both in appearance and in menu; for instance, MaDonal's menu includes \"Big Macks.\" It is one of two McDonald's-like restaurants in the town; the other one, Matbax, claims that MaDonal is \"cheap quality\".\nThe owner, Suleiman Qassab, fought in the Kurdish resistance during the 1970s. He became a refugee in Vienna, Austria, where he got a job as a cook at McDonald's."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2004 AFL Cairns Grand Final: A regional Australian rules football grand final that devolved into an all-in brawl just seconds after the national anthem ended.",
+   "article": {
+    "title": "2004 AFL Cairns Grand Final",
+    "url": "https://en.wikipedia.org/wiki/2004_AFL_Cairns_Grand_Final",
+    "extract": "The 2004 AFL Cairns Grand Final was an Australian rules football match contested between Port Douglas and North Cairns at Bundaberg Rum Stadium on 18 September 2004. It was held to determine the premiers of the AFL Cairns competition, a semi-professional competition in Cairns, Queensland, for the 2004 season.\nBefore the match began, a brawl began moments after the conclusion of the national anthem. Further fighting occurred on the field and in the crowd during the match."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rocket mail: The delivery of mail by rocket or missile, attempted by various organisations in many different countries, with varying levels of success.",
+   "article": {
+    "title": "Rocket mail",
+    "url": "https://en.wikipedia.org/wiki/Rocket_mail",
+    "extract": "Rocket mail is the delivery of mail by rocket or missile.  The rocket lands by deploying an internal parachute upon arrival.  It has been attempted by various organizations in many countries, with varying levels of success. It has never become widely seen as being a viable option for delivering mail, due to the cost of the schemes and numerous failures."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Regulus_missile.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Regulus_missile.png",
+    "file": "File:Regulus missile.png",
+    "artist": "US Navy",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 290,
+    "height": 219,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20201126130715/https://www.postaltimes.com/postalnews/the-rise-and-fall-of-rocket-mail/"
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eskimo words for snow: The claim that Eskimo languages have an unusually large number of words for \"snow\".",
+   "article": {
+    "title": "Eskimo words for snow",
+    "url": "https://en.wikipedia.org/wiki/Eskimo_words_for_snow",
+    "extract": "The claim that Eskimo words for snow are unusually numerous, particularly in contrast to English, is a cliché commonly used to support the controversial linguistic relativity hypothesis. In linguistic terminology, the relevant languages are the Eskaleut languages, specifically the Yupik and Inuit varieties.\nThe strongest interpretation of the linguistic relativity hypothesis posits that a language's vocabulary (among other features) shapes or limits its speakers' view of the world. This interpretation is widely criticized by linguists, though a 2010 study supports the core notion that the Yupik and Inuit languages have many more root words for frozen variants of water than the English language."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaskan_Inuit_winter_home_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Alaskan_Inuit_winter_home_1900.jpg",
+    "file": "File:Alaskan Inuit winter home 1900.jpg",
+    "artist": "not indicated",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 449,
+    "ok": true
+   },
+   "second_source": {
+    "name": "languagelog.ldc.upenn.edu",
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=4419",
+    "title": "Language Log &raquo; Bad science reporting again: the Eskimos are back",
+    "matched": [
+     "eskimo",
+     "words",
+     "claim",
+     "languages",
+     "unusually",
+     "number"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pornotopia: \"Literature always anticipates life. It does not copy it, but moulds it to its purpose.\" —Oscar Wilde, The Decay of Lying",
+   "article": {
+    "title": "Pornotopia",
+    "url": "https://en.wikipedia.org/wiki/Pornotopia",
+    "extract": "In critical theory, pornotopia describes an imagined space determined by sexual fantasies and dominated by human sexual activity, expressed in and encompassing erotica and pornography. The word was coined by the American literary critic Steven Marcus in his 1966 book The Other Victorians, deriving inspiration from nineteenth-century English literature on sexuality by moralists, physicians, and erotic authors."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Cornelis_van_Haarlem_Before_the_Deluge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Haarlem_Before_the_Deluge.jpg",
+    "file": "File:Cornelis van Haarlem Before the Deluge.jpg",
+    "artist": "Cornelis van Haarlem",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 615,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.spiegel.de/spiegel/print/d-44418243.html"
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rangoon bombing: A relatively unknown case of North Korean violence aimed at South Korean representatives in Burma.",
+   "article": {
+    "title": "Rangoon bombing",
+    "url": "https://en.wikipedia.org/wiki/Rangoon_bombing",
+    "extract": "The Rangoon bombing of 9 October 1983 was an assassination attempt orchestrated by North Korea against Chun Doo-hwan, the fifth president of South Korea, in Rangoon, Burma. Although Chun survived, 21 people died in the attack and 46 were injured. One suspect was later killed, and the two other suspected bombers were captured, one of whom confessed to being a North Korean military officer."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chun_Doo-hwan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chun_Doo-hwan.png",
+    "file": "File:Chun Doo-hwan.png",
+    "artist": "TEMPLETON",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20211006141249/https://www.irrawaddy.com/news/burma/north-korean-bombing-rocked-yangon.html",
+    "title": "When a North Korean Bombing Rocked Yangon",
+    "matched": [
+     "bombing",
+     "relatively",
+     "north",
+     "korean",
+     "violence",
+     "south",
+     "burma"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cerne Abbas Giant: A very interesting hill figure in the English countryside.",
+   "article": {
+    "title": "Cerne Abbas Giant",
+    "url": "https://en.wikipedia.org/wiki/Cerne_Abbas_Giant",
+    "extract": "The Cerne Abbas Giant, or Cerne Giant, is a hill figure near the village of Cerne Abbas, in Dorset, England. It is currently owned by the National Trust, and listed as a scheduled monument of England. Measuring 55 metres (180 ft) in length, the hill figure depicts a bald, nude male with a prominent erection, holding his left hand out to the side and wielding a large club in his right hand. Like many other hill figures, the Cerne Giant is formed by shallow trenches cut into the turf and backfilled with chalk rubble."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cerne-abbas-giant-2001-cropped.jpg",
+    "file": "File:Cerne-abbas-giant-2001-cropped.jpg",
+    "artist": "PeteHarlow",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 223,
+    "height": 267,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://archive.org/stream/proceedings22dorsuoft#page/108/mode/2up"
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pep (dog): A dog jokingly sentenced to a life sentence in prison to help improve prisoners' morale- though many publications took the sentence literally.",
+   "article": {
+    "title": "Pep (dog)",
+    "url": "https://en.wikipedia.org/wiki/Pep_(dog)",
+    "extract": "Pep (c. 1923 – 1930) was a black Labrador Retriever who was falsely accused of murdering a cat. On August 31, 1924, Pep was sent to the Eastern State Penitentiary where he received inmate number C-2559 and had his mugshot and paw prints taken. His log into the prison ledger indicates life sentence for murder, a tongue-in-cheek gesture that prompted widespread outrage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pep_%28inmate_C-2559%29_mugshot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pep_(inmate_C-2559)_mugshot.jpg",
+    "file": "File:Pep (inmate C-2559) mugshot.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 990,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20230924211827/https://www.nytimes.com/1926/01/15/archives/the-penitentiary-dog.html"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of names for the biblical nameless: Where the bible leaves questions, its fans give answers.",
+   "article": {
+    "title": "List of names for the biblical nameless",
+    "url": "https://en.wikipedia.org/wiki/List_of_names_for_the_biblical_nameless",
+    "extract": "Some people who appear in the Bible but whose names are not given there have names that are given in Jewish religious texts, Christian sacred tradition, or apocryphal texts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MosesRescued_FromTheNile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MosesRescued_FromTheNile.JPG",
+    "file": "File:MosesRescued FromTheNile.JPG",
+    "artist": "Nicolas Poussin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 451,
+    "height": 429,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.sefaria.org/Bava_Batra.91a"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pole and Hungarian brothers be: A two-nation proverb often cited, usually while drinking, in both Poland and Hungary.",
+   "article": {
+    "title": "Pole and Hungarian brothers be",
+    "url": "https://en.wikipedia.org/wiki/Pole_and_Hungarian_brothers_be",
+    "extract": "\"Pole and Hungarian brothers be\" (the Polish version) and \"Pole and Hungarian, two good friends\" (the Hungarian version) are English translations of a proverbial saying about the traditional brotherhood and camaraderie between Poles and Hungarians."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wegrzy_polacy_XVIIw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wegrzy_polacy_XVIIw.jpg",
+    "file": "File:Wegrzy polacy XVIIw.jpg",
+    "artist": "Johann Wilhelm Baur",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1158,
+    "height": 545,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://discovery.ucl.ac.uk/id/eprint/13025/"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Therac-25: Top tip for anyone developing a new revolutionary radiotherapy machine: double check the code.",
+   "article": {
+    "title": "Therac-25",
+    "url": "https://en.wikipedia.org/wiki/Therac-25",
+    "extract": "The Therac-25 was a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 (neptune) and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France).\nThe Therac-25 was involved in at least six incident overdoses of radiation between 1985 and 1987, leading to patient death in what was described as \"the worst series of radiation accidents in the 35-year history of medical accelerators\".  Because of concurrent programming errors (also known as race conditions), it sometimes gave its patients radiation doses that were up to 250 times higher than normal, resulting in death or serious injury. These accidents highlighted the dangers of software control of safety-critical systems."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Therac_25.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Therac_25.png",
+    "file": "File:Therac 25.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 850,
+    "height": 1138,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://openlibrary.org/books/OL25355635M"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sinking of U-864: Somehow the only entirely-underwater military combat in history, and the only time a submarine was sunk by another submarine.",
+   "article": {
+    "title": "Sinking of U-864",
+    "url": "https://en.wikipedia.org/wiki/Sinking_of_U-864",
+    "extract": "The German U-boat U-864 was attacked and sunk on 9 February 1945 by HMS Venturer, a V-class submarine of the Royal Navy. Venturer was patrolling the waters around Fedje Island, off the Norwegian coast in the North Sea. The sinking remains the only incident in the history of naval warfare where one submarine sank another while both were submerged."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Venturer_%28P68%29_%28IWM_FL_004031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMS_Venturer_(P68)_(IWM_FL_004031).jpg",
+    "file": "File:HMS Venturer (P68) (IWM FL 004031).jpg",
+    "artist": "Royal Navy official photographer. Post-Work: User:Gunfighter-6",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1042,
+    "height": 760,
+    "ok": true
+   },
+   "second_source": {
+    "name": "uboat.net",
+    "url": "http://uboat.net/boats/u864.htm",
+    "title": "The Type IXD2 U-boat U-864 - German U-boats of WWII - uboat.net",
+    "matched": [
+     "864",
+     "underwater",
+     "combat",
+     "history",
+     "submarine",
+     "another"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1268–1271 papal election: If you think modern conclaves take a bit long, consider this one; it took three years, after magistrates had locked the cardinals in and torn the roof off the building to force them into a decision. It's the reason why the conclave works as it does in the first place.",
+   "article": {
+    "title": "1268–1271 papal election",
+    "url": "https://en.wikipedia.org/wiki/1268%E2%80%931271_papal_election",
+    "extract": "The papal election that followed the death of Pope Clement IV lasted from 1 December 1268 to 1 September 1271 and was the longest in the history of the Catholic Church. This was due primarily to political infighting between the cardinals. The election of Teobaldo Visconti as Pope Gregory X was the first example of a papal election by \"compromise\", that is, by the appointment of a committee of six cardinals agreed to by the other ten. (This method was attempted once before, in the 1227 papal election, but the choice of the committee refused the honor and the full group of cardinals proceeded to elect the pope.) The election occurred more than a year after the magistrates of Viterbo locked the cardinals in, reduced their rations to bread and water, and removed the roof of the Palace of the Popes in Viterbo where the election took place."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gregory_X,_Buffalmacco,_Arezzo_Cathedral.jpg",
+    "file": "File:Gregory X, Buffalmacco, Arezzo Cathedral.jpg",
+    "artist": "Eccekevin (talk)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1568,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20180320091040/https://abcnews.go.com/WNT/Pope/story?id=681429",
+    "title": "Inside Longest Papal Conclave in History - ABC News",
+    "matched": [
+     "1268",
+     "papal",
+     "think",
+     "conclaves",
+     "consider",
+     "cardinals",
+     "building"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Why I Want to Fuck Ronald Reagan: A spoof scientific study by J.G. Ballard which compares the face of Ronald Reagan to an erect penis. Was circulated at the 1980 RNC as a prank.",
+   "article": {
+    "title": "Why I Want to Fuck Ronald Reagan",
+    "url": "https://en.wikipedia.org/wiki/Why_I_Want_to_Fuck_Ronald_Reagan",
+    "extract": "\"Why I Want to Fuck Ronald Reagan\" is a 1968 short story by English writer J. G. Ballard. Written in the style of a scientific report, it ostensibly documents a series of experiments intended to measure the psychosexual appeal of Ronald Reagan, then Governor of California and a candidate in the 1968 Republican Party presidential primaries.\nFirst published as a pamphlet in 1968 by the Unicorn Bookshop in Brighton, England, \"Why I Want to Fuck Ronald Reagan\" was later republished in some editions of Ballard's The Atrocity Exhibition (1970), a collection of linked works of short fiction. It was used as part of a prank at the 1980 Republican National Convention, at which Reagan received the party's nomination for the 1980 United States presidential election."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ronald-Reagan-governor-California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ronald-Reagan-governor-California.jpg",
+    "file": "File:Ronald-Reagan-governor-California.jpg",
+    "artist": "Ronald Reagan Library",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1246,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nicolás Zúñiga y Miranda: Mexican eccentric who repeatedly ran for president, lost, and claimed he'd won. Sound familiar?",
+   "article": {
+    "title": "Nicolás Zúñiga y Miranda",
+    "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Z%C3%BA%C3%B1iga_y_Miranda",
+    "extract": "Nicolás Zúñiga y Miranda (13 May 1865 – 29 March 1925) was a Mexican eccentric who was a perennial candidate in multiple presidential elections from 1896 to 1924. He considered himself the legitimate president of Mexico despite never winning any of the elections. Prior to his political career he made earthquake predictions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg",
+    "file": "File:Nicolás Zuñiga y Miranda.jpg",
+    "artist": "Agustín Casasola",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 900,
+    "height": 1297,
+    "ok": true
+   },
+   "second_source": {
+    "name": "mexiconewsdaily.com",
+    "url": "https://mexiconewsdaily.com/culture/huckster-madman-candidate-the-unusual-life-of-nicolas-zuniga/",
+    "title": "Huckster, madman, candidate: the unusual life of Nicolás Zuñiga",
+    "matched": [
+     "nicolas",
+     "zuniga",
+     "miranda",
+     "mexican",
+     "president",
+     "claimed"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Televisora de la Fuerza Armada Nacional Bolivariana: The Venezuelan armed forces' channel. Oh, does that sound boring? Don't worry—they also broadcast anime illegally!",
+   "article": {
+    "title": "Televisora de la Fuerza Armada Nacional Bolivariana",
+    "url": "https://en.wikipedia.org/wiki/Televisora_de_la_Fuerza_Armada_Nacional_Bolivariana",
+    "extract": "Televisora de la Fuerza Armada Nacional Bolivariana (better known for its abbreviation TVFANB) is a Venezuelan over-the-air television channel, operated by the Media Company of the National Bolivarian Armed Forces of Venezuela (Empresa de Sistemas de Comunicaciones de la Fuerza Armada Nacional Bolivariana, EMCOFANB), being owned by the Venezuelan state, starting its broadcasts on December 28, 2013, its programming consists largely of programs dedicated to the National Bolivarian Armed Forces of Venezuela."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/TVFANB_Logo_2021.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:TVFANB_Logo_2021.png",
+    "file": "File:TVFANB Logo 2021.png",
+    "artist": "Televisora de la Fuerza Armada Nacional Bolivariana",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 386,
+    "height": 340,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20131112021803/http://www.noticias24.com/venezuela/noticia/205207/fue-autorizada-la-creacion-de-tvfanb-el-canal-de-television-de-la-fuerza-armada-nacional/",
+    "title": "Fue autorizada la creación de TVFanb, el canal de televisión de la Fuerza Armada Nacional Bolivariana",
+    "matched": [
+     "televisora",
+     "fuerza",
+     "armada",
+     "nacional",
+     "bolivariana",
+     "venezuelan"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yungas Road: An incredibly deadly mountainside road in Bolivia, only 3 meters wide in places and with no guardrails.",
+   "article": {
+    "title": "Yungas Road",
+    "url": "https://en.wikipedia.org/wiki/Yungas_Road",
+    "extract": "The Yungas Road (Spanish: Camino a los Yungas), commonly referred to as Death Road (Spanish: Camino de la Muerte), is a 64-kilometer (40 mi) long cycle and vehicle route linking La Paz, Bolivia, with the Yungas region. It was built in the 1930s by the Bolivian government. Large amounts of its construction were done by Paraguayan prisoners during the Chaco War. Several sections of the road are less than 3 meters (9.8 ft) wide."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Camino_a_los_Yungas_%28detall%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Camino_a_los_Yungas_(detall).png",
+    "file": "File:Camino a los Yungas (detall).png",
+    "artist": "OpenStreetMap contributors",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 831,
+    "height": 754,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/6136268.stm",
+    "title": "BBC NEWS | Programmes | From Our Own Correspondent | The world's most dangerous road",
+    "matched": [
+     "yungas",
+     "incredibly",
+     "mountainside",
+     "bolivia",
+     "places"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mary (elephant): Makes the phrase \"hung like an elephant\" take on a whole new meaning.",
+   "article": {
+    "title": "Mary (elephant)",
+    "url": "https://en.wikipedia.org/wiki/Mary_(elephant)",
+    "extract": "Mary (c. 1894 – September 13, 1916), also known as \"Murderous Mary\", was a five-ton Asian elephant who performed in the Sparks World Famous Shows circus. After killing circus employee Walter \"Red\" Eldridge on his second day as her handler in September 1916, in Kingsport, Tennessee, she was hanged in nearby Erwin."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Elephantmary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Elephantmary.jpg",
+    "file": "File:Elephantmary.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 365,
+    "height": 509,
+    "ok": true
+   },
+   "second_source": {
+    "name": "themoonlitroad.com",
+    "url": "https://themoonlitroad.com/murderous-mary/",
+    "title": "Murderous Mary: The Elephant Hanging in Erwin, Tennessee | The Moonlit Road",
+    "matched": [
+     "makes",
+     "elephant",
+     "whole",
+     "meaning"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Danger triangle of the face: A very specific area of your face where bursting a boil could mean certain death.",
+   "article": {
+    "title": "Danger triangle of the face",
+    "url": "https://en.wikipedia.org/wiki/Danger_triangle_of_the_face",
+    "extract": "The danger triangle of the face consists of the area from the corners of the mouth to the bridge of the nose, including the nose and maxilla.  Due to the special nature of the blood supply to the human nose and surrounding area, it is possible for retrograde infection from the nasal area to spread to the brain, causing cavernous sinus thrombosis, meningitis, or brain abscess.\nThis is possible because of veinous communication (via the ophthalmic veins) between the facial vein and the cavernous sinus. The cavernous sinus lies within the cranial cavity, between layers of the meninges, and is a major conduit of venous drainage from the brain."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Danger_triangle_of_the_face_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Danger_triangle_of_the_face_diagram.jpg",
+    "file": "File:Danger triangle of the face diagram.jpg",
+    "artist": "derivative work: pfctdayelise (说什么?) Face_of_SpooSpa.jpg: Flickr user SpooSpa",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1200,
+    "height": 1325,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911799",
+    "title": "The anatomical and functional relationship between allergic conjunctivitis and allergic rhinitis - PMC",
+    "matched": [
+     "danger",
+     "triangle",
+     "specific",
+     "death"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elections in the Soviet Union: Over 100 million votes. Only one party to vote for.",
+   "article": {
+    "title": "Elections in the Soviet Union",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_the_Soviet_Union",
+    "extract": "The electoral system of the Union of Soviet Socialist Republics was varying over time, being based upon Chapter XIII of the provisional Fundamental Law of 1922, articles 9 and 10 of the 1924 Constitution and Chapter XI of the 1936 Constitution, with the electoral laws enacted in conformity with those. The Constitution and laws applied to elections in all Soviets, from the Supreme Soviet of the Soviet Union, the Union republics and  autonomous republics, through to regions, districts and towns. Voting was claimed to be secret and direct with universal suffrage. However, in practice, between 1936 and 1989, voters could vote against candidates preselected by the Communist Party only by spoiling their ballots, or by voting against the only candidate, whereas votes for the party candidates could be cast simply by submitting a blank ballot."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Stamp_of_USSR_1499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_USSR_1499.jpg",
+    "file": "File:Stamp of USSR 1499.jpg",
+    "artist": "Post of USSR",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 321,
+    "height": 439,
+    "ok": true
+   },
+   "second_source": {
+    "name": "marxists.org",
+    "url": "https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm",
+    "title": "Constitution (Fundamental law) of the Union of Soviet Socialist Republics",
+    "matched": [
+     "100",
+     "elections",
+     "soviet",
+     "union",
+     "votes",
+     "party"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wank Week: A Channel 4 project for all those who think there aren't enough jerks on TV.",
+   "article": {
+    "title": "Wank Week",
+    "url": "https://en.wikipedia.org/wiki/Wank_Week",
+    "extract": "Wank Week was a controversial season of television programming that was due to be broadcast in the United Kingdom by Channel 4, expected to consist of a series of three documentary programmes about masturbation. However, plans to broadcast it in March 2007 came under public attack (from senior television figures), and the planned broadcasts were pulled amid claims of declining editorial standards and controversy over the channel's public service broadcasting credentials. While Wank Week itself was cancelled, the films it was meant to showcase were left open to be broadcast at a later date."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Channel_4_Horseferry_Road_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Channel_4_Horseferry_Road_2008.jpg",
+    "file": "File:Channel 4 Horseferry Road 2008.jpg",
+    "artist": "Channel_4_Horseferry_Road_Ext_Logo.jpg: Original uploader was ExpressingYourself at en.wikipedia derivative work: Simonx",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 408,
+    "height": 483,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20090522092949/http://www.channel4.com/health/microsites/P/penis_envy/",
+    "title": "Penis Envy from Channel4.com",
+    "matched": [
+     "channel",
+     "there",
+     "enough"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sam Hyde: A transgressive American comedian blamed for numerous terrorist attacks and killings.",
+   "article": {
+    "title": "Sam Hyde",
+    "url": "https://en.wikipedia.org/wiki/Sam_Hyde",
+    "extract": "Samuel Whitcomb Hyde (born April 16, 1985) is an American comedian and a co-founder of the sketch comedy group Million Dollar Extreme (MDE), alongside Nick Rochefort and Charls Carroll. MDE gained notoriety on YouTube for their provocative, anti-sketch style and public pranks, including trolling staged performances at conventions and comedy clubs that pushed social boundaries and courted controversy. Widespread public attention followed one such satirical TEDx talk.\nHyde and MDE created the television series Million Dollar Extreme Presents: World Peace, which aired on Adult Swim in 2016."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sam_Hyde_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sam_Hyde_crop.jpg",
+    "file": "File:Sam Hyde crop.jpg",
+    "artist": "Million Dollar Extreme",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 471,
+    "height": 513,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20250430201915/https://jewishchronicle.timesofisrael.com/alt-right-comedian-to-appear-at-hop-farm-brewing-company/",
+    "title": "Alt-Right comedian to appear at Hop Farm Brewing Company | The Pittsburgh Jewish Chronicle",
+    "matched": [
+     "american",
+     "comedian",
+     "terrorist",
+     "attacks",
+     "killings"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Masabumi Hosono: The only Japanese survivor of the Titanic sinking, and someone who wasn't welcomed in his home country after the disaster.",
+   "article": {
+    "title": "Masabumi Hosono",
+    "url": "https://en.wikipedia.org/wiki/Masabumi_Hosono",
+    "extract": "Masabumi Hosono (細野 正文, Hosono Masabumi; 15 October 1870 – 14 March 1939) was a Japanese civil servant.  He survived the sinking of the Titanic on 15 April 1912 but found himself condemned and ostracized by the Japanese public, press, and government because of a misconception that he decided to save himself rather than go down with the ship. Hosono's grandson is Haruomi Hosono, leading member of the Japanese band Yellow Magic Orchestra."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Masabumi_Hosono.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Masabumi_Hosono.jpeg",
+    "file": "File:Masabumi Hosono.jpeg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 420,
+    "ok": true
+   },
+   "second_source": {
+    "name": "vice.com",
+    "url": "https://www.vice.com/en/article/haruomi-hosono-guide-playlists-essay/",
+    "title": "The Guide to Getting into Haruomi Hosono, Japan's Vibrant Pop Shape-Shifter",
+    "matched": [
+     "hosono",
+     "japanese",
+     "survivor",
+     "titanic",
+     "someone",
+     "country"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pantone 448 C: \"Drab dark brown\", the least attractive colour, according to research. Used for plain tobacco packaging.",
+   "article": {
+    "title": "Pantone 448 C",
+    "url": "https://en.wikipedia.org/wiki/Pantone_448_C",
+    "extract": "Pantone 448 C is a colour in the Pantone colour system. Described as \"drab dark brown,\" it has been informally dubbed the \"ugliest colour in the world\". It was selected in 2012 as the colour for plain tobacco and cigarette packaging in Australia, after market researchers determined that it was the least attractive colour.\n\nThe Australian Department of Health initially referred to the colour as \"olive green\", but the name was changed after concerns were expressed by the Australian Olive Association."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pantone_448_C.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pantone_448_C.png",
+    "file": "File:Pantone 448 C.png",
+    "artist": "علاء",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 480,
+    "height": 320,
+    "ok": true
+   },
+   "second_source": {
+    "name": "standard.co.uk",
+    "url": "https://www.standard.co.uk/lifestyle/the-worlds-ugliest-colour-is-pantone-448c-experts-say-a3265856.html",
+    "title": "The world&#x27;s ugliest colour is Pantone 448C, say experts | London Evening Standard | The Standard",
+    "matched": [
+     "448",
+     "pantone",
+     "brown",
+     "colour",
+     "research",
+     "plain",
+     "tobacco",
+     "packaging"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Amun-Her-Khepesh-Ef (son of Senusret III): An Ancient Egyptian prince buried in a random cemetery in Vermont.",
+   "article": {
+    "title": "Amun-Her-Khepesh-Ef (son of Senusret III)",
+    "url": "https://en.wikipedia.org/wiki/Amun-Her-Khepesh-Ef_(son_of_Senusret_III)",
+    "extract": "Amun-Her-Khepesh-Ef (\"Amun Is with His Strong Arm\") (c. 1885 BC – c. 1883 BC) was the supposed son of King Senusret III and Hathorhotep and is notable for being buried in Middlebury, Vermont, in the United States and is the earliest death date recorded on an American tombstone, and one of the very few with a death date in BC. However, his identity has never been confirmed, and the putrid state of his now cremated remains negates the possibility of any exhumation. Senusret III and Hathorhotep were not known to have married and it is possible that Hathorhotep was Senusret's own granddaughter."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rutland_Daily_Herald_-_Snow_Falls_Again_on_Egyptian_Prince%27s_Tomb_at_Middlebury_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rutland_Daily_Herald_-_Snow_Falls_Again_on_Egyptian_Prince%27s_Tomb_at_Middlebury_(cropped).jpg",
+    "file": "File:Rutland Daily Herald - Snow Falls Again on Egyptian Prince's Tomb at Middlebury (cropped).jpg",
+    "artist": "Rutland Daily Herald",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 973,
+    "height": 2089,
+    "ok": true
+   },
+   "second_source": {
+    "name": "atlasobscura.com",
+    "url": "http://www.atlasobscura.com/places/grave-of-amum-her-khepesh-ef",
+    "title": "Grave of Amum-Her-Khepesh-Ef in Middlebury - Atlas Obscura",
+    "matched": [
+     "khepesh",
+     "ancient",
+     "egyptian",
+     "prince",
+     "buried",
+     "random",
+     "cemetery",
+     "vermont"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vladimiro Montesinos: Did you know that Russian revolutionary and leader of the Bolsheviks Vladimir Lenin was a CIA asset?",
+   "article": {
+    "title": "Vladimiro Montesinos",
+    "url": "https://en.wikipedia.org/wiki/Vladimiro_Montesinos",
+    "extract": "Vladimiro Lenin Ilich Montesinos Torres (Spanish pronunciation: [bla.ð̞iˌmi.ɾo ˌle.nĩn iˌlit͡ʃ mõn̪.t̪eˌsi.nos ˈt̪o.res]; born 20 May 1945) is a Peruvian former intelligence officer and lawyer who served as the head of Peru's National Intelligence Service (SIN) during the presidency of Alberto Fujimori. Montesinos, supported by the Peruvian Armed Forces, was widely regarded as the power behind the throne in Fujimori's government.\nMontesinos' career was marked by his deep connections with the U.S. Central Intelligence Agency (CIA), through which he received substantial funding ostensibly for anti-terrorism efforts. His tenure saw numerous human rights abuses and corruption scandals."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Militar_Vladimiro_Montesinos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Militar_Vladimiro_Montesinos.jpg",
+    "file": "File:Militar Vladimiro Montesinos.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 236,
+    "height": 302,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.com",
+    "url": "https://www.bbc.com/news/world-latin-america-37494079",
+    "title": "Peru ex-spy chief Montesinos guilty of disappearances - BBC News",
+    "matched": [
+     "vladimiro",
+     "montesinos",
+     "russian",
+     "leader",
+     "vladimir"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Travelling gnome: Taking a garden gnome on an adventure… occasionally without telling the owner of the garden it was on.",
+   "article": {
+    "title": "Travelling gnome",
+    "url": "https://en.wikipedia.org/wiki/Travelling_gnome",
+    "extract": "The travelling gnome or roaming gnome is a garden gnome lawn ornament brought on a trip and photographed in front of famous landmarks. The practice is called gnoming. Some instances have become national and international news stories, where people have stolen a garden gnome from a garden, and then sent the owner photos of the gnome for a period of time as a practical joke, before returning it.\nThe Garden Gnomes Liberation Front that was created in France was a community that considered gnoming to be stealing garden gnomes from other people's property, without the intention of returning them, as part of their purported mission to \"free\" gnomes and \"return them to the wild\", which has sometimes led to criminal charges, jail time, or fines."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Woody_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Woody_London.jpg",
+    "file": "File:Woody London.jpg",
+    "artist": "No machine-readable author provided. Patrickneil assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "mentalfloss.com",
+    "url": "https://www.mentalfloss.com/article/68093/strange-practice-gnoming",
+    "title": "The Strange Practice of \"Gnoming\"",
+    "matched": [
+     "travelling",
+     "gnome",
+     "taking",
+     "garden",
+     "adventure",
+     "owner"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of non-standard dates: Including, among other things, January 0, February 30, and May 35.",
+   "article": {
+    "title": "List of non-standard dates",
+    "url": "https://en.wikipedia.org/wiki/List_of_non-standard_dates",
+    "extract": "Several non-standard dates are used in calendars for various purposes: some are expressly fictional, some are intended to produce a rhetorical effect (such as sarcasm), and others attempt to address a particular mathematical, scientific or accounting requirement or discrepancy within the calendar system."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Feb31OnTombstone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Feb31OnTombstone.jpg",
+    "file": "File:Feb31OnTombstone.jpg",
+    "artist": "Corfy at English Wikipedia Photo Credit: Jason Corfman",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1200,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20120228195938/http://tycho.usno.navy.mil/leapsec.html",
+    "title": "Leap Seconds",
+    "matched": [
+     "30",
+     "35",
+     "standard",
+     "dates",
+     "including",
+     "january"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jesus nut: Not your local Bible-thumping preacher but the bolt on the top of a helicopter that connects it to the rotor blades.",
+   "article": {
+    "title": "Jesus nut",
+    "url": "https://en.wikipedia.org/wiki/Jesus_nut",
+    "extract": "The main rotor retaining nut or mast nut, often colloquially referred to as the Jesus nut, holds the main rotor to the mast of some helicopters. The related slang term Jesus pin refers to the lock pin used to secure the retaining nut. A failure of this nut is likely to result in a crash."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jesus_nut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jesus_nut.jpg",
+    "file": "File:Jesus nut.jpg",
+    "artist": "Alan Radecki Akradecki",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20130517054200/http://www.tc.gc.ca/eng/civilaviation/publications/tp3658-1-02-001-4667.htm"
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Flex (singer): A Panamanian singer adopted the name “Nigga” after being told he sang like a Jamaican. Renamed himself Flex in 2009.",
+   "article": {
+    "title": "Flex (singer)",
+    "url": "https://en.wikipedia.org/wiki/Flex_(singer)",
+    "extract": "Félix Danilo Gómez Bosquez (born 29 August 1980), known by his stage name Flex (formerly Nigga), is a Panamanian reggaeton singer. He originally adopted the name  Nigga after being told by another Panamanian artist that he \"sings like a black guy from Jamaica.\" Before releasing his debut album in the United States in 2010, Flex removed references to his nickname in songs, and his albums were reissued with the new name, \"Flex\" and he permanently adopted the moniker in 2016."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Flex_cantante.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Flex_cantante.png",
+    "file": "File:Flex cantante.png",
+    "artist": "107.1 La Z",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 844,
+    "height": 809,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20100128131046/http://www.holamun2.com/news/versus-flex-vs-eddy-lover"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Turkey bowling: So much for \"don't play with your food\".",
+   "article": {
+    "title": "Turkey bowling",
+    "url": "https://en.wikipedia.org/wiki/Turkey_bowling",
+    "extract": "Turkey bowling is a sport which is based on ordinary bowling, played with a frozen turkey and 10 liquid-filled plastic beverage bottles. The turkey is bowled like a bowling ball down a smooth surface such as ice or a soap-covered sheet of painter's plastic, striking the bottles as if they were bowling pins. The sport is commonly associated with Thanksgiving.\nThe original variant involves turkey bowling in an aisle of a grocery store."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Turkey-bowl-Willowick-Ohio-2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Turkey-bowl-Willowick-Ohio-2006.jpg",
+    "file": "File:Turkey-bowl-Willowick-Ohio-2006.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.manchestereveningnews.co.uk/news/s/71/71914_protestors_cry_foul_at_turkey_bowling.html"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Brian's Brain: He's so smart, he has his own cellular automaton.",
+   "article": {
+    "title": "Brian's Brain",
+    "url": "https://en.wikipedia.org/wiki/Brian%27s_Brain",
+    "extract": "Brian's Brain is a cellular automaton devised by Brian Silverman, which is very similar to his Seeds rule."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Brian%27s_brain.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Brian%27s_brain.gif",
+    "file": "File:Brian's brain.gif",
+    "artist": "Simpsons contributor (talk)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 300,
+    "ok": true
+   },
+   "second_source": {
+    "name": "msevans.com",
+    "url": "http://www.msevans.com/automata/briansbrain.html",
+    "title": "Brian's Brain",
+    "matched": [
+     "brian",
+     "brain",
+     "cellular",
+     "automaton"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "International Obfuscated C Code Contest: A competition to create code that no human can read.",
+   "article": {
+    "title": "International Obfuscated C Code Contest",
+    "url": "https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest",
+    "extract": "The International Obfuscated C Code Contest (abbreviated IOCCC) is a computer programming contest for code written in C that is the most creatively obfuscated and held annually (when possible).  It is described as \"celebrating C's syntactical opaqueness\". The winning code for the 28th contest, held in 2025/26, was announced by live stream 6 June 2026.\nEntries are evaluated anonymously by the current sitting judges, Leonid A. Broukhis & Landon Curt Noll."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/IOCCC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:IOCCC.png",
+    "file": "File:IOCCC.png",
+    "artist": "Matt Zucker",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 300,
+    "height": 110,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20130210081342/http://pcworld.co.nz/pcworld/pcw.nsf/how-to/beyond-the-command-line",
+    "title": "Beyond the command line| PC World Magazine New Zealand",
+    "matched": [
+     "international",
+     "obfuscated",
+     "contest"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bonnacon: A mythical ox which flings burning dung at its enemies from its rear and horn.",
+   "article": {
+    "title": "Bonnacon",
+    "url": "https://en.wikipedia.org/wiki/Bonnacon",
+    "extract": "The bonnacon (also called bonasus or bonacho) (Ancient Greek: βόνασος or βόνασσος) is a legendary creature described as a bull with inward-curving horns and a horse-like mane. \nMedieval bestiaries usually depict its fur as reddish-brown or black. Because its horns were useless for self-defense, the bonnacon was said to expel large amounts of caustic feces from its anus at its pursuers, burning them and thereby ensuring its escape."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bonnacon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bonnacon.jpg",
+    "file": "File:Bonnacon.jpg",
+    "artist": "unknown (medieval) author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 654,
+    "height": 380,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Martha"
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ted Cruz–Zodiac Killer meme: A mock conspiracy theory gone wild.",
+   "article": {
+    "title": "Ted Cruz–Zodiac Killer meme",
+    "url": "https://en.wikipedia.org/wiki/Ted_Cruz%E2%80%93Zodiac_Killer_meme",
+    "extract": "The Ted Cruz–Zodiac Killer meme is an Internet meme which originated in 2013 and gained popularity in 2015. The meme is a satirical conspiracy theory claiming that United States senator Ted Cruz is the real identity of the Zodiac Killer, despite Cruz being born on December 22, 1970, 14 months after the last confirmed Zodiac killing. Proponents of this meme generally do not believe that Cruz is the Zodiac Killer. According to NPR, the meme captures an unease with Cruz, \"[people] think he's creepy."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ted_Cruz_2012_Liberty_Political_Action_Conference_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ted_Cruz_2012_Liberty_Political_Action_Conference_(3x4).jpg",
+    "file": "File:Ted Cruz 2012 Liberty Political Action Conference (3x4).jpg",
+    "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1160,
+    "height": 1548,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20160502081152/http://www.npr.org/2016/02/26/468153952/-memeoftheweek-ted-cruz-and-the-zodiac-killer",
+    "title": "#MemeOfTheWeek: Ted Cruz And The Zodiac Killer : NPR",
+    "matched": [
+     "zodiac",
+     "killer",
+     "conspiracy",
+     "theory"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Tar Pits in Lawton, Oklahoma",
+   "article": {
+    "title": "The Tar Pits in Lawton, Oklahoma",
+    "url": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+    "extract": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it leaves behind the solids, which become asphalt. This is the ‘tar’ found in tar pits. There are few tar pits in the world, one of which is in s"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+   "article": {
+    "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+    "url": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+    "extract": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this:The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, but according to the tale, this balance has been lost. Today, the people take too much from the sea without respecting it, polluting it, disr"
+   },
+   "published": "Thu, 12 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Dodder Rhino in Dublin, Ireland",
+   "article": {
+    "title": "The Dodder Rhino in Dublin, Ireland",
+    "url": "https://www.atlasobscura.com/places/the-dodder-rhino",
+    "extract": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of Milltown's strangest landmarks. The animal appeared seemingly overnight in 2002, with no plaque explaining who created it, who put it there, "
+   },
+   "published": "Thu, 12 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Patrick’s Church in Sydney, Nova Scotia",
+   "article": {
+    "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/st-patrick-s-church",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. "
+   },
+   "published": "Thu, 12 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Invisible Lamplighter in The Hague, Netherlands",
+   "article": {
+    "title": "The Invisible Lamplighter in The Hague, Netherlands",
+    "url": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "extract": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen, you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—i"
+   },
+   "published": "Wed, 11 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "John J. McGraw Monument in Truxton, New York",
+   "article": {
+    "title": "John J. McGraw Monument in Truxton, New York",
+    "url": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
+    "extract": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign memorializing the game played at John J. McGraw Field that funded the carving and installation of the memorial to McGraw. McGraw’s father, a"
+   },
+   "published": "Wed, 11 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+   "article": {
+    "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+    "url": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
+    "extract": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once served as the shop’s mascot. Famously, the ice cream man appeared in the opening credits of the first season of the television show “Parks "
+   },
+   "published": "Wed, 11 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Cossit House in Sydney, Nova Scotia",
+   "article": {
+    "title": "Cossit House in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/cossit-house",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, Cossit House is the city's oldest surviving residence and one of the oldest buildings on Cape Breton Island. Built in 1787, the house has witnessed more than two centuries of history, and according to local ghost stories, some of its earliest residents may never have left. The house was built for Reverend Ranna Cossit, a Loyalist Anglican "
+   },
+   "published": "Wed, 11 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Facade of the Old Mental Hospital in Hong Kong",
+   "article": {
+    "title": "Facade of the Old Mental Hospital in Hong Kong",
+    "url": "https://www.atlasobscura.com/places/facade-of-the-old-mental-hospital",
+    "extract": "Modern day High Street in Hong Kong's Sai Ying Pun district is mostly known as a food destination, with many lively restaurants and eateries lining the street. However, at its eastern end, the aura feels vastly different due to the presence of a structure renowned as one of Hong Kong's most haunted locations. Forebodingly entrenched at 2 High Street is the ominous facade of the city's former menta"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+   "article": {
+    "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+    "url": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+    "extract": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War. In 1775, Congress appointed Putnam as one of the first four major generals of the Continental Army. He commanded the New England m"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bundesbüdchen in Bonn, Germany",
+   "article": {
+    "title": "Bundesbüdchen in Bonn, Germany",
+    "url": "https://www.atlasobscura.com/places/bundesbudchen",
+    "extract": "In 1949, West Germany was debating the location for its provisional government. After lengthy back-and-forth—the mayor of Frankfurt, Walter Kolb, had even pre-recorded a victory speech—the choice came to Bonn. A university town known as little more than the birthplace of Beethoven, Bonn had seen little wartime damage, had few ties to the Third Reich, and lacked the gravitas that a larger city migh"
+   },
+   "published": "Tue, 10 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grissom Air Museum in Peru, Indiana",
+   "article": {
+    "title": "Grissom Air Museum in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/grissom-air-museum",
+    "extract": "If you've seen the movie “Top Gun: Maverick,” there are so many references and jokes to be made here. This is, after all, an air museum built near a former active air base. There are four loosely worded references to quotes from “Top Gun: Maverick” contained within this report. Can you find them all? The Grissom Air Museum opened in 1991 and is primarily focused on military aviation during the Col"
+   },
+   "published": "Tue, 10 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Holidays in the U.S., Ranked",
+   "article": {
+    "title": "The Most Popular Holidays in the U.S., Ranked",
+    "url": "https://www.mentalfloss.com/holidays/most-popular-holidays-us-ranked?utm_source=RSS",
+    "extract": "Where does your favorite holiday fall on the list? See which holidays Americans rank as their favorites and least favorites, based on a 2024 poll."
+   },
+   "published": "Fri, 13 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Chilling Facts About the Burke and Hare Murders",
+   "article": {
+    "title": "7 Chilling Facts About the Burke and Hare Murders",
+    "url": "https://www.mentalfloss.com/crime/burke-hare-murders-chilling-facts?utm_source=RSS",
+    "extract": "William Burke and William Hare murdered 16 people and sold their bodies to an anatomist—and these lesser-known details about their case make it even more disturbing."
+   },
+   "published": "Fri, 13 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+   "article": {
+    "title": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/macys-thanksgiving-day-parade-balloons-by-decade?utm_source=RSS",
+    "extract": "Trace the history of the Macy’s Thanksgiving Day Parade decade by decade through its most legendary character balloons, from 1927 to today."
+   },
+   "published": "Thu, 12 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Valuable Company in Every State, Mapped",
+   "article": {
+    "title": "The Most Valuable Company in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-valuable-company-every-state-map?utm_source=RSS",
+    "extract": "Based on October 2026 market cap data, this map reveals the biggest publicly traded powerhouse headquartered in all 50 U.S. states."
+   },
+   "published": "Thu, 12 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Everyday Words That Came From Ancient Egypt",
+   "article": {
+    "title": "9 Everyday Words That Came From Ancient Egypt",
+    "url": "https://www.mentalfloss.com/language/words/everyday-words-came-from-ancient-egypt?utm_source=RSS",
+    "extract": "The ancient language of the pharaohs died out centuries ago, but bits of it remain."
+   },
+   "published": "Thu, 12 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The ‘Little House on the Prairie’ Episode That Helped Decide the Show’s Future",
+   "article": {
+    "title": "The ‘Little House on the Prairie’ Episode That Helped Decide the Show’s Future",
+    "url": "https://www.mentalfloss.com/entertainment/tv/little-house-on-the-prairie-episode-decide-futur?utm_source=RSS",
+    "extract": "Could ‘Little House’ really continue without Michael Langdon? The cast was put to the test with this tense season 8 two-part episode."
+   },
+   "published": "Thu, 12 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Common Garage Sale Finds That Can Be Surprisingly Valuable",
+   "article": {
+    "title": "20 Common Garage Sale Finds That Can Be Surprisingly Valuable",
+    "url": "https://www.mentalfloss.com/live-smarter/money/surprisingly-valuable-garage-sale-finds?utm_source=RSS",
+    "extract": "From pyrex to vinyl records, here's what to look for when you're combing through somebody else's stuff."
+   },
+   "published": "Thu, 12 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+   "article": {
+    "title": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/real-mythology-helped-inspire-jrr-tolkien-elves?utm_source=RSS",
+    "extract": "How Old Norse sagas, Anglo-Saxon poems, and Irish mythology helped J.R.R. Tolkien transform tiny Victorian fairies into the majestic Elves of Middle-earth."
+   },
+   "published": "Wed, 11 Nov 2026 23:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Wartime Family Feud That Created Adidas and Puma",
+   "article": {
+    "title": "The Wartime Family Feud That Created Adidas and Puma",
+    "url": "https://www.mentalfloss.com/history/family-feud-behind-adidas-puma?utm_source=RSS",
+    "extract": "Irreconcilable differences led German brothers Rudi and Adi Dassler to part ways. The result was rival shoe empires."
+   },
+   "published": "Thu, 12 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "2026’s Most Popular Thanksgiving Sides By State, Mapped",
+   "article": {
+    "title": "2026’s Most Popular Thanksgiving Sides By State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-popular-thanksgiving-sides-state-2026?utm_source=RSS",
+    "extract": "Do you agree with the side your state ranks as number one? Check out every state’s favorite Thanksgiving side, according to Campbell’s 2026 report."
+   },
+   "published": "Thu, 12 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Things That Were Considered Luxuries in the 1970s",
+   "article": {
+    "title": "20 Things That Were Considered Luxuries in the 1970s",
+    "url": "https://www.mentalfloss.com/nostalgia/1970s-household-luxuries?utm_source=RSS",
+    "extract": "Discover 20 everyday items—from microwaves and color TVs to home bars and the Sony Walkman—that were high-status luxury goods in 1970s America."
+   },
+   "published": "Wed, 11 Nov 2026 21:18:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Is 7-Eleven Called 7-Eleven?",
+   "article": {
+    "title": "Why Is 7-Eleven Called 7-Eleven?",
+    "url": "https://www.mentalfloss.com/culture/advertising/why-7-eleven-called-7-eleven?utm_source=RSS",
+    "extract": "An ad agency named the chain after its store hours, but the hours didn’t last."
+   },
+   "published": "Wed, 11 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+   "article": {
+    "title": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+    "url": "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+    "extract": "Most dengue infections cause mild flu-like symptoms or no symptoms at all. But at least one person has died from this year’s outbreak in Florida, where health experts worry the disease will become more common in the future"
+   },
+   "published": "Thu, 12 Nov 2026 19:52:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+   "article": {
+    "title": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+    "url": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
+    "extract": "The 1,000-foot ship, longer than the \"Titanic,\" once carried celebrities and politicians across the Atlantic in midcentury style. Now, after decades of uncertainty and rust, it's taking on a second life as an underwater refuge for marine creatures and curious divers"
+   },
+   "published": "Thu, 12 Nov 2026 18:51:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+   "article": {
+    "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+    "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
+    "extract": "A metal detectorist recovered the brass artifact from the wreck of the \"Ann Francis,\" a merchant vessel that sank off southern Wales. Researchers used micro-CT scans to identify the four-letter combination"
+   },
+   "published": "Thu, 12 Nov 2026 18:22:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+   "article": {
+    "title": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+    "url": "https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/",
+    "extract": "The small decrease seems to stem partially from the closure of the Strait of Hormuz, a major global chokepoint for oil transportation. Scientists say that the decline will not last without the accelerated deployment of renewable energies"
+   },
+   "published": "Thu, 12 Nov 2026 17:48:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+   "article": {
+    "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "extract": "The dwarf planet candidate, called ED138, appeared in telescope images and takes roughly 280 years to orbit the sun. Astronomers need to determine its size to properly classify it"
+   },
+   "published": "Thu, 12 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+   "article": {
+    "title": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+    "url": "https://www.smithsonianmag.com/smart-news/what-seeded-life-on-earth-new-research-challenges-the-longstanding-theory-that-comets-brought-the-ingredients-to-our-planet-180989852/",
+    "extract": "Computer simulations suggest comets carrying a key precursor to many of life's building blocks would have rarely—if ever—successfully reached Earth's surface. And even if they did, only specific landing conditions would have allowed the precursor molecule to drive biologically relevant reactions"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+   "article": {
+    "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+    "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+    "extract": "Recently obtained by the Library of Congress, the 1760 letter offers positive news about the health of four-year-old Martha Parke Custis, known as Patsy, the stepdaughter of George Washington"
+   },
+   "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+   "article": {
+    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+    "extract": "Across seven yellow notepad pages, King is seen wrestling with word choice and revising his remarks the night before the March on Washington. The manuscript will head to auction in January and is expected to pull in more than $10 million"
+   },
+   "published": "Tue, 10 Nov 2026 21:45:09 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+   "article": {
+    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+    "extract": "A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions"
+   },
+   "published": "Tue, 10 Nov 2026 21:17:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+   "article": {
+    "title": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+    "url": "https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853/",
+    "extract": "First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction"
+   },
+   "published": "Tue, 10 Nov 2026 17:27:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+   "article": {
+    "title": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+    "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/",
+    "extract": "The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+   "article": {
+    "title": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+    "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/",
+    "extract": "The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  }
+ ]
+}
