@@ -1,0 +1,2005 @@
+{
+ "run": {
+  "date": "2026-11-13",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-13T14:46:36.440Z",
+  "candidates": 99,
+  "with_free_image": 36,
+  "ready": 16
+ },
+ "status": {
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 153",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4252",
+  "drugie-zrodlo": "ok 16/32"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że za pomocą odczynnika Ehrlicha można wykryć m.in. LSD i opium?",
+   "article": {
+    "title": "Odczynnik Ehrlicha",
+    "url": "https://pl.wikipedia.org/wiki/Odczynnik_Ehrlicha",
+    "extract": "Odczynnik Ehrlicha, odczynnik Van Urka – odczynnik chemiczny służący do kolorometrycznego wykrywania pochodnych pirolu, a także indolu, amin aromatycznych, ureidów i hydroksyproliny. Jest to roztwór para-dimetyloaminobenzaldehydu (p-DMAB, Me2N−C6H4−CHO) w kwasie solnym.\nNazwa pochodzi od nazwiska niemieckiego naukowca Paula Ehrlicha (1854–1915), który opisał w 1901 r. powstawanie zabarwienia po dodaniu odczynnika do moczu."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Para-Dimethylaminobenzaldehyde.svg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego budowa Kładki Kazimierz–Ludwinów mogła grozić wykreśleniem krakowskiego Starego Miasta z listy światowego dziedzictwa UNESCO?",
+   "article": {
+    "title": "Kładka Kazimierz–Ludwinów",
+    "url": "https://pl.wikipedia.org/wiki/K%C5%82adka_Kazimierz%E2%80%93Ludwin%C3%B3w",
+    "extract": "Kładka Kazimierz–Ludwinów – przeprawa pieszo-rowerowa biegnąca nad Wisłą w Krakowie, łącząca zabytkowy Bulwar Inflancki (Dzielnica I Stare Miasto) z Bulwarem Wołyńskim (pogranicze Dzielnicy VIII Dębniki oraz Dzielnicy XIII Podgórze), budowana w latach 2024–2026."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Kładka Kazimierz–Ludwinów w Krakowie, 20261021 1631 6695.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy kolarstwo ręczne pojawiło się na igrzyskach paraolimpijskich?",
+   "article": {
+    "title": "Parakolarstwo",
+    "url": "https://pl.wikipedia.org/wiki/Parakolarstwo",
+    "extract": "Parakolarstwo (ang. para-cycling) – kolarstwo osób z niepełnosprawnościami. Dyscypliną zarządza Międzynarodowa Unia Kolarska (UCI). Rywalizacja dzieli się na dwie odmiany: kolarstwo szosowe (ang."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Ursula Schwaller (London2012).JPG)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto jest głównym bohaterem gry Silent Hill: Townfall?",
+   "article": {
+    "title": "Silent Hill: Townfall",
+    "url": "https://pl.wikipedia.org/wiki/Silent_Hill:_Townfall",
+    "extract": "Silent Hill: Townfall – survival horror należący do serii Silent Hill. Gra została wydana 24 września 2026 roku na PlayStation 5 oraz Microsoft Windows. Została opracowana przez szkockie studio Screen Burn Interactive i wydana wspólnie przez Konami Digital Entertainment oraz Annapurna Interactive. Akcja gry rozgrywa się w 1996 roku na fikcyjnej wyspie St."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie podróżują bohaterowie japońskiego fantastycznonaukowego filmu Ginga no Uo Ursa Minor Blue?",
+   "article": {
+    "title": "Ginga no Uo Ursa Minor Blue",
+    "url": "https://pl.wikipedia.org/wiki/Ginga_no_Uo_Ursa_Minor_Blue",
+    "extract": "Ginga no Uo Ursa Minor Blue (jap. 銀河の魚 URSA minor BLUE; romanizowane także jako Ginga no Sakana, tłumaczone w źródłach angielskojęzycznych jako Blue Little Bear Ursa Minor Blue lub Fish of the Milky Way Ursa Minor Blue) – japoński krótkometrażowy animowany film fantastycznonaukowy z 1993 roku, napisany i wyreżyserowany przez ilustratora Shigeru Tamurę, z muzyką Teshikaia Utollo. Trwający 23 minuty film jest wczesnym przykładem animacji komputerowej; do jego produkcji wykorzystano komputery Macintosh Quadra oraz technologię obrazu wysokiej rozdzielczości.\nFilm opowiada o chłopcu imieniem Yuri i jego dziadku astronomie, którzy odbywają surrealistyczną podróż przez Drogę Mleczną, gdzie napotykają potworną rybę atakującą gwiazdozbiory."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjska cenzura w 1943 roku nie dopuściła do kin polskiego antynazistowskiego filmu Calling Mr Smith?",
+   "article": {
+    "title": "Calling Mr Smith",
+    "url": "https://pl.wikipedia.org/wiki/Calling_Mr_Smith",
+    "extract": "Calling Mr Smith (polskie tlumaczenia tytułu to m.in. Wzywając pana Smitha i Wzywamy Pana Smitha) – polsko-brytyjski krótkometrażowy film eksperymentalny (awangardowy) o wymowie antynazistowskiej z 1943 roku, zrealizowany przez Franciszkę i Stefana Themersonów."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że do protestów przeciwko wojnie w Wietnamie dołączyła Myszka Miki?",
+   "article": {
+    "title": "Mickey Mouse in Vietnam",
+    "url": "https://pl.wikipedia.org/wiki/Mickey_Mouse_in_Vietnam",
+    "extract": "Mickey Mouse in Vietnam lub Short Subject –  niezależny animowany film antywojenny o długości około jednej minuty utworzony na 16–milimetrowej taśmie filmowej. Został wydany w 1968 lub 1969 roku. Jego reżyserem był Whitney Lee Savage (ojciec Adama Savage’a), a producentem Milton Glaser. Film był tworzony bez zgody The Walt Disney Company."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Short Subject⧸Mickey Mouse in Vietnam (1969, silent version).webm)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Black and white hat symbolism in film: The hat, sir, whatever could it mean?",
+   "article": {
+    "title": "Black and white hat symbolism in film",
+    "url": "https://en.wikipedia.org/wiki/Black_and_white_hat_symbolism_in_film",
+    "extract": "In American films of the Western genre between the 1920s and the 1940s, white hats were often worn by heroes and black hats by villains to symbolize the contrast in good versus evil. The 1903 short film The Great Train Robbery provides an early example of this convention. Two exceptions to the convention were portrayals by William Boyd (active 1918–1954), who wore dark clothing as Hopalong Cassidy, and Robert Taylor's portrayal in the film The Law and Jake Wade (1958).\nThe book Investigating Information Society said the convention was arbitrarily imposed by filmmakers in the genre with the expectation that audiences would understand the categorizations."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_Bild_102-00053%2C_Tom_Mix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00053,_Tom_Mix.jpg",
+    "file": "File:Bundesarchiv Bild 102-00053, Tom Mix.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 523,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Criterion of embarrassment: You know it's true because it's too embarrassing for anyone to have made it up.",
+   "article": {
+    "title": "Criterion of embarrassment",
+    "url": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
+    "extract": "The criterion of embarrassment is a type of historical analysis in which a historical account is deemed more likely to be true if the author would have no reason to invent a historical account which might embarrass them. It is logically similar to statements against interest in a legal context. Certain Biblical scholars have used this as a meter for assessing whether the New Testament's accounts of Jesus's actions and words are historically probable.\nThe criterion of embarrassment is one of the criteria of authenticity used by academics, the others being the criterion of dissimilarity, the criterion of language and environment, criterion of coherence, and the criterion of multiple attestation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Francesco_Albani_-_Baptism_of_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Francesco_Albani_-_Baptism_of_Christ.jpg",
+    "file": "File:Francesco Albani - Baptism of Christ.jpg",
+    "artist": "Francesco Albani",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 475,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070316185139/http://ancienthistory.about.com/b/a/229667.htm",
+    "title": "Discussion of the Historical Jesus",
+    "matched": [
+     "criterion",
+     "embarrassment",
+     "embarrassing"
+    ]
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"She's My Kind of Girl\": A very early song by the two men of ABBA, made for a Swedish soft porn film released in 1971.",
+   "article": {
+    "title": "She's My Kind of Girl",
+    "url": "https://en.wikipedia.org/wiki/She%27s_My_Kind_of_Girl",
+    "extract": "\"She's My Kind of Girl\" is a song written and performed by Benny Andersson and Björn Ulvaeus, then known as Björn & Benny and later famous as members of ABBA.\nWritten for the Swedish movie Inga II: The Seduction Of Inga, the song was recorded in November/December 1969, most likely at Europa Film Studios. The song was originally released in March 1970 as the first Björn and Benny single. Two years later it was released in Japan, hitting #1 and selling half a million copies. Because of that Benny and Björn were invited to perform in the World Popular Song Festival in Tokyo, November 1972 and they brought Frida and Agnetha with them."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Grunge speak: That time a receptionist convinced The New York Times that \"wack slacks\" was slang for ripped jeans and \"lamestain\" meant an uncool person.",
+   "article": {
+    "title": "Grunge speak",
+    "url": "https://en.wikipedia.org/wiki/Grunge_speak",
+    "extract": "Grunge speak was a hoax series of slang words purportedly connected to the subculture of grunge in Seattle, reported as fact in The New York Times in 1992. The collection of alleged slang words were coined by a record label worker in response to a journalist asking if grunge musicians and enthusiasts had their own slang terms, seeking to write a piece on the subject. They were essentially made up on the spot; there was no such vernacular among members of the grunge scene, and the terms that were published were merely a prank on the news industry's tendencies to seize upon trends."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Reagan Wilson: A Playboy model who had a topless centerfold of her taken onto Apollo 12.",
+   "article": {
+    "title": "Reagan Wilson",
+    "url": "https://en.wikipedia.org/wiki/Reagan_Wilson",
+    "extract": "Reagan Diana Wilson (March 6, 1947 – March 20, 2026) was an American model, actress, and businesswoman. She was Playboy magazine's Playmate of the Month for its October 1967 issue, a centerfold of which was taken to the Moon as part of Apollo 12 in 1969. She also had numerous acting roles including in Blood Mania (1970) and Running with the Devil (1973). Her participation at a 1968 Men's Day event at the University of Washington was protested by Radical Women."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Reagan_Wilson_with_B._J._%22Red%22_Combs_and_Shelby_Cobra_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Reagan_Wilson_with_B._J._%22Red%22_Combs_and_Shelby_Cobra_(cropped).jpg",
+    "file": "File:Reagan Wilson with B. J. \"Red\" Combs and Shelby Cobra (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1033,
+    "height": 1776,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20260409153632/https://www.telegraph.co.uk/obituaries/2026/04/06/reagan-wilson-model-playboy-moon-apollo-12-space-race/",
+    "title": "Reagan Wilson, Playboy model whose centrefold went to the Moon as a prank with Apollo 12 – obituary",
+    "matched": [
+     "12",
+     "reagan",
+     "wilson",
+     "playboy",
+     "model",
+     "apollo"
+    ]
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Redskins Rule: When Washington's NFL team won, the party of the current president retained the presidency; when they lost, the opposition party won.",
+   "article": {
+    "title": "Redskins Rule",
+    "url": "https://en.wikipedia.org/wiki/Redskins_Rule",
+    "extract": "The Redskins Rule was an observed longstanding coincidence between the National Football League (NFL) game results of the Washington Redskins, now known as the Washington Commanders, and the results of subsequent United States presidential elections. Briefly stated, when Washington won its last home game prior to the presidential election, the party of the prior popular vote winning party won the presidency; when Washington lost, the opposition party won. This coincidence was noted by many sports and political commentators, and held true for the first eighteen elections after the franchise first moved to Washington in 1937. The rule was first broken in 2012, and then again in 2016 and 2024."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Blue Origin Federation, LLC v. United States: Two companies got into a brat fight and sued NASA in the process.",
+   "article": {
+    "title": "Blue Origin Federation, LLC v. United States",
+    "url": "https://en.wikipedia.org/wiki/Blue_Origin_Federation,_LLC_v._United_States",
+    "extract": "On 13 August 2021, Blue Origin filed a complaint to the United States Court of Federal Claims about NASA's award of $2.9 billion to SpaceX. The award was used by the company to develop Starship HLS, a lunar lander that NASA selected for the Artemis program. On 4 November 2021, the Court of Federal Claims dismissed the complaint, and the accompanying memorandum opinion was titled Blue Origin v. United States & Space Exploration Technologies Corp. Blue Origin's complaint and prior actions have received attention from the news media and spaceflight industries."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Seal of the United States Court of Federal Claims.svg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2024 Nevada Republican presidential nominating contests: When Nikki Haley ran unopposed, lost the vote, still won the primary, and then got zero delegates.",
+   "article": {
+    "title": "2024 Nevada Republican presidential nominating contests",
+    "url": "https://en.wikipedia.org/wiki/2024_Nevada_Republican_presidential_nominating_contests",
+    "extract": "The 2024 Nevada Republican presidential primary and caucus were held on February 6 and 8, 2024, respectively, as part of the Republican Party primaries for the 2024 presidential election. 26 delegates to the 2024 Republican National Convention were allocated on a proportional basis in the caucus. They were held following the Iowa caucuses and the New Hampshire primary.\nOn August 14, 2023, Republicans in Nevada announced that they would boycott and ignore the non-binding, state-organized primary due to opposition to the establishment of a primary process over the traditional caucus format in the state's presidential preference contests."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC0 (File:Nevada2024RepPrimaryResults.svg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Miles v. City Council of Augusta, Georgia: Can a city require a business license for a talking cat, and does the cat have free-speech rights?",
+   "article": {
+    "title": "Miles v. City Council of Augusta, Georgia",
+    "url": "https://en.wikipedia.org/wiki/Miles_v._City_Council_of_Augusta,_Georgia",
+    "extract": "Miles v. City Council of Augusta, Georgia, 710 F.2d 1542 (11th Cir. 1983), is a United States federal court case in which the court found that the exhibition of a talking cat was an occupation for the purposes of municipal licensing law.\nIn May 1981, Carl and Elaine Miles, an otherwise unemployed couple, began exhibiting Blackie the Talking Cat on the streets of Augusta, Georgia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/US-CourtOfAppeals-11thCircuit-Seal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:US-CourtOfAppeals-11thCircuit-Seal.png",
+    "file": "File:US-CourtOfAppeals-11thCircuit-Seal.png",
+    "artist": "U.S. Government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 140,
+    "height": 140,
+    "ok": true
+   },
+   "second_source": {
+    "name": "openjurist.org",
+    "url": "https://openjurist.org/710/f2d/1542/miles-v-city-council-of-augusta-georgia",
+    "title": "710 F.2d 1542 - Miles v. City Council of Augusta — 710 F.2d 1542 | OpenJurist",
+    "matched": [
+     "miles",
+     "council",
+     "augusta",
+     "georgia",
+     "require",
+     "business",
+     "license",
+     "talking",
+     "speech",
+     "rights"
+    ]
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Animal hoarding: Just put all of those animals right in your house.",
+   "article": {
+    "title": "Animal hoarding",
+    "url": "https://en.wikipedia.org/wiki/Animal_hoarding",
+    "extract": "Animal hoarding, sometimes called Noah syndrome, is keeping a higher-than-usual number of animals as domestic pets without the ability to properly house or care for them, while at the same time denying this inability. Compulsive hoarding can be characterized as a symptom of a mental disorder rather than deliberate cruelty towards animals. Hoarders are deeply attached to their pets and find it extremely difficult to let the pets go. They typically cannot comprehend that they are harming their pets by failing to provide them with proper care."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Animal-hoarding-of-rabbits.jpg)"
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tía Pikachu: A Chilean preschool teacher who wore an inflatable Pikachu costume in the country's 2019 protests, who was later elected to a board to rewrite the country's constitution.",
+   "article": {
+    "title": "Tía Pikachu",
+    "url": "https://en.wikipedia.org/wiki/T%C3%ADa_Pikachu",
+    "extract": "Giovanna Jazmín Grandón Caro (born 6 May 1975), also known as Tía Pikachu (Auntie Pikachu) or Baila Pikachu (Dancing Pikachu), is a Chilean preschool teacher, political activist, and politician. She obtained great attention during the 2019 Chilean protests due to her wearing a costume of Pikachu from the Japanese franchise Pokémon. On 16 May 2021, she was elected as a member of the Chilean assembly that will write the new Chilean constitution as a response to the 2019 protests."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Giovanna_Grandon_Caro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Giovanna_Grandon_Caro.jpg",
+    "file": "File:Giovanna Grandon Caro.jpg",
+    "artist": "Biblioteca del Congreso Nacional de Chile",
+    "license": "CC BY 3.0 cl",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/cl/deed.en",
+    "width": 250,
+    "height": 333,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.vice.com/es/article/asi-baila-tia-pikachu-simbolo-del-estallido-social-chileno/"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Suchika Tariyal has represented India in international competition in four sports: judo, jujutsu, kurash and MMA?",
+   "article": {
+    "title": "Suchika Tariyal",
+    "url": "https://en.wikipedia.org/wiki/Suchika_Tariyal",
+    "extract": "Suchika Tariyal Hooda (born 16 August 1990) is an Indian sportsperson who has represented her country in international competitions in judo, kurash, jujutsu, and mixed martial arts."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Thomas Midgley Jr.: Inventor of two of the world's most severe pollutants – and a device that killed him.",
+   "article": {
+    "title": "Thomas Midgley Jr.",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+    "extract": "Thomas Midgley Jr. (May 18, 1889 – November 2, 1944) was an American mechanical and chemical engineer. He played a major role in developing leaded gasoline (tetraethyl lead) and some of the first chlorofluorocarbons (CFCs), better known in the United States by the brand name Freon; both products were later banned from common use due to their harmful impact on human health and the environment. He was granted more than 100 patents over the course of his career."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "No restrictions (File:Portrait of Thomas Midgley Jr..jpg)"
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Charles Manson discography: Wait, whose discography??",
+   "article": {
+    "title": "Charles Manson discography",
+    "url": "https://en.wikipedia.org/wiki/Charles_Manson_discography",
+    "extract": "Several recordings by Charles Manson and members of his \"Family\" have been released since Manson was indicted in late 1969 for the Tate–LaBianca murders."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Charles-mansonbookingphoto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Charles-mansonbookingphoto.jpg",
+    "file": "File:Charles-mansonbookingphoto.jpg",
+    "artist": "San Quentin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 661,
+    "height": 849,
+    "ok": true
+   },
+   "second_source": {
+    "name": "esquarterly.com",
+    "url": "http://www.esquarterly.com/bellagio/unreleased.html",
+    "title": "UNRELEASED",
+    "matched": [
+     "charles",
+     "manson",
+     "discography"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ferret-legging: A stunt in which a live ferret is put down one's trousers.",
+   "article": {
+    "title": "Ferret-legging",
+    "url": "https://en.wikipedia.org/wiki/Ferret-legging",
+    "extract": "Ferret-legging was an endurance test or stunt in which ferrets are trapped in trousers worn by a participant. Also known as \"put 'em down\" and ferret-down-trousers, it seems to have once been popular among coal miners in Yorkshire, England. Contestants put live ferrets inside their trousers; the winner is the one who is the last to release the animals.\nFerret-legging may have originated during the time when only the relatively wealthy in England were allowed to keep animals used for hunting, forcing poachers to hide their illicit ferrets in their trousers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Iltisfrettchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Iltisfrettchen.jpg",
+    "file": "File:Iltisfrettchen.jpg",
+    "artist": "Gilowyn",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1240,
+    "height": 1264,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20090910033647/http://archive.thisisthenortheast.co.uk/2005/01/04/27436.html",
+    "title": "Countryside day may be annual event",
+    "matched": [
+     "ferret",
+     "legging",
+     "trousers"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Peryton (astronomy): Don't use microwaves next to radio telescopes!",
+   "article": {
+    "title": "Peryton (astronomy)",
+    "url": "https://en.wikipedia.org/wiki/Peryton_(astronomy)",
+    "extract": "In radio astronomy, perytons are short man-made radio signals of a few milliseconds resembling fast radio bursts (FRB). A peryton differs from radio frequency interference by the fact that it is a pulse of several to tens of millisecond duration which sweeps down in frequency. They are further verified by the fact that they occur at the same time in many beams, indicating that they come from Earth, whereas FRBs occur in only one or two of the beams, indicating that they are of galactic origin.  The first signal occurred in 2001 but was not discovered until 2007."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Pertyon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pertyon.png",
+    "file": "File:Pertyon.png",
+    "artist": "Psr1909",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 850,
+    "height": 680,
+    "ok": true
+   },
+   "second_source": {
+    "name": "caltechmicrowave2.org",
+    "url": "https://www.caltechmicrowave2.org/peryton-research",
+    "title": "Peryton Research | CaltechMicrowave2.org",
+    "matched": [
+     "peryton",
+     "microwaves",
+     "radio",
+     "telescopes"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moe anthropomorphism: Even a washing machine can be the girl of your dreams. (See Wikipedia:Wikipe-tan below)",
+   "article": {
+    "title": "Moe anthropomorphism",
+    "url": "https://en.wikipedia.org/wiki/Moe_anthropomorphism",
+    "extract": "Moe anthropomorphism (Japanese: 萌え擬人化, Hepburn: moe gijinka) is a form of anthropomorphism in anime, manga and games where moe qualities are given to non-human beings (such as animals, plants, supernatural entities and fantastical creatures), objects, concepts, or phenomena. In addition to moe features, moe anthropomorphs are also characterized by their accessories, which serve to emphasize their original forms before anthropomorphosis. The characters here, usually in a kind of cosplay, are drawn to represent an inanimate object or popular consumer product. Part of the humor of this personification comes from the personality ascribed to the character (often satirical) and the sheer arbitrariness of characterizing a variety of machines, objects, and locations as cute."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wikipe-tan_conducting.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wikipe-tan_conducting.png",
+    "file": "File:Wikipe-tan conducting.png",
+    "artist": "User:Kasuga~commonswiki",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 318,
+    "height": 656,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://jmpc-utokyo.com/keyword/moe/"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cydonia (Mars): You've heard of the man on the Moon, now get ready for the \"Face on Mars\", well, sort of…",
+   "article": {
+    "title": "Cydonia (Mars)",
+    "url": "https://en.wikipedia.org/wiki/Cydonia_(Mars)",
+    "extract": "Cydonia (, ) is a region on the planet Mars that has attracted both scientific and popular interest. The name originally referred to the albedo feature (distinctively coloured area) that was visible from earthbound telescopes. The area borders the plains of Acidalia Planitia and the highlands of Arabia Terra. The region includes the named features Cydonia Mensae, an area of flat-topped mesa-like features; Cydonia Colles, a region of small hills or knobs; and Cydonia Labyrinthus, a complex of intersecting valleys."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Martian_face_viking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Martian_face_viking.jpg",
+    "file": "File:Martian face viking.jpg",
+    "artist": "Viking 1, NASA",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 472,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://news.bbc.co.uk/2/hi/science/nature/1351319.stm"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sidehill gouger: Fictional creatures said to inhabit the Rocky Mountains of British Columbia and the southwestern sandhills of Saskatchewan.",
+   "article": {
+    "title": "Sidehill gouger",
+    "url": "https://en.wikipedia.org/wiki/Sidehill_gouger",
+    "extract": "In American folklore, a sidehill gouger or gyascutus  is a fearsome critter adapted to living on hillsides by having legs on one side of their body shorter than the legs on the opposite side, having evolved to resemble a variety of mammals, including pangolins, goats, humans, and bears. This peculiarity allows them to walk on steep hillsides, although only in one direction; when lured or chased into the plain, they are trapped in an endless circular path.  Some claim these creatures play a large role in, and in some cases are responsible for, the creation of hoodoos.  The creature is variously known as the Sidehill Dodger Sidehill Hoofer, or Side-hill Gazink."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sidehill-Gouger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sidehill-Gouger.jpg",
+    "file": "File:Sidehill-Gouger.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 697,
+    "height": 1267,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20110708114349/http://www.cannedgames.com/gouger.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Osculum infame: To greet Satan, you had to kiss his ring… and we're not talking about jewellery here.",
+   "article": {
+    "title": "Osculum infame",
+    "url": "https://en.wikipedia.org/wiki/Osculum_infame",
+    "extract": "Osculum infame is a witch's supposed ritual greeting upon meeting with the Devil. The name means the 'shameful kiss' or 'kiss of shame', since it involved kissing the devil's anus, his \"other\" mouth. According to folklore, it was this kiss that allowed the Devil to seduce women."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/CompendiumMaleficarumEngraving15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CompendiumMaleficarumEngraving15.jpg",
+    "file": "File:CompendiumMaleficarumEngraving15.jpg",
+    "artist": "drawn by Francesco Maria Guazzo, scanned by Derek Smootz",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 605,
+    "height": 488,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that before being accepted to theatre school, Swedish actress Amanda Jansson worked at a nuclear power plant?",
+   "article": {
+    "title": "Amanda Jansson",
+    "url": "https://en.wikipedia.org/wiki/Amanda_Jansson",
+    "extract": "Amanda Jansson (born 26 April 1990) is a Swedish actress known for her work on stage and screen. She has received accolades including the Jussi Award for Lead Actor of the Year, Såstaholm Film and Performing Arts Award, and Best Actress at Series Mania.\nBorn in Skärplinge in Uppsala County, she attended secondary school in Gävle before graduating from the Luleå Theatre Academy in 2016. After minor roles in several television programmes, she was cast in the third season of Vår tid är nu (2019) before getting her breakthrough role as police officer Sara in Thin Blue Line (2021–present)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Amanda_Jansson_at_2026_Series_Mania_PRESS_CONFERENCE_for_My_brother_18_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Amanda_Jansson_at_2026_Series_Mania_PRESS_CONFERENCE_for_My_brother_18_(cropped).jpg",
+    "file": "File:Amanda Jansson at 2026 Series Mania PRESS CONFERENCE for My brother 18 (cropped).jpg",
+    "artist": "Elyot Boudart",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 769,
+    "height": 981,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20220705143640/https://www.aftonbladet.se/nojesbladet/film/a/GaP3jB/ganska-sa-spannande-ny-beck-film"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that ancient Greek playwrights could use a rolling platform to bring scenery or corpses onto the stage?",
+   "article": {
+    "title": "Ekkyklema",
+    "url": "https://en.wikipedia.org/wiki/Ekkyklema",
+    "extract": "An ekkyklema (lit. 'roll-out machine') was a wheeled platform used in ancient Greek theatre. From at least the middle of the fifth century BCE, it was used to reveal events conceived of as having happened within the skene, a structure behind the stage which usually represented some sort of interior space. Since early manuscripts of ancient Greek plays did not include stage directions, modern scholars must infer its use from evidence within the plays' dialogue, as well as from marginal notes (scholia) added by post-classical scholars to surviving manuscripts. \nIt is debated how often the ekkyklema was used in the original performances of known plays, and whether it featured in the plays of Aeschylus, the earliest tragic playwright whose works survive."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ekkyklema_.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ekkyklema_.gif",
+    "file": "File:Ekkyklema .gif",
+    "artist": "Lauracorominas",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 368,
+    "height": 299,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Floyd pigs: The band's recurring props and references.",
+   "article": {
+    "title": "Pink Floyd pigs",
+    "url": "https://en.wikipedia.org/wiki/Pink_Floyd_pigs",
+    "extract": "Inflatable flying pigs were one of the staple props of Pink Floyd's live shows. The first balloon was a sow, with a male pig balloon later introduced in their 1987 tour. Pigs appeared numerous times in concerts by the band, promoting concerts and record releases, and on the cover of their 1977 album Animals.\nThe image rights for the pigs passed to Roger Waters when he split from the rest of the group, though the pigs continued to be used by both Pink Floyd and Roger Waters in their gigs after his departure."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Coachella_pigstage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Coachella_pigstage.jpg",
+    "file": "File:Coachella pigstage.jpg",
+    "artist": "Michael Simone",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 512,
+    "height": 363,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.superseventies.com/floydcvr.html"
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "New Swabia: The Nazi territory in Antarctica.",
+   "article": {
+    "title": "New Swabia",
+    "url": "https://en.wikipedia.org/wiki/New_Swabia",
+    "extract": "New Swabia (Norwegian and German: Neuschwabenland) was an area of Antarctica explored, with the intention to claim it, by Nazi Germany between 1938 and 1939, within the Norwegian territorial claim of Queen Maud Land. The region was named after the expedition's ship, Schwabenland, itself named after the German region of Swabia. Although the name \"New Swabia\" is occasionally mentioned in historical contexts, it is not an officially recognized cartographic name in modern use. The area is now part of Queen Maud Land, governed under the Antarctic Treaty System."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/NewSwabiaMap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NewSwabiaMap.jpg",
+    "file": "File:NewSwabiaMap.jpg",
+    "artist": "Thomas Blomberg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 714,
+    "height": 714,
+    "ok": true
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Henry Lee Lucas: Claimed to be the most prolific serial killer in history, confessing to over 600 murders. Later recanted almost all of them.",
+   "article": {
+    "title": "Henry Lee Lucas",
+    "url": "https://en.wikipedia.org/wiki/Henry_Lee_Lucas",
+    "extract": "Henry Lee Lucas (August 23, 1936 – March 12, 2001), also known as the Confession Killer, was an American murderer and serial killer who was convicted of murdering his mother in 1960 and two others in 1983. He rose to infamy as a claimed serial killer while incarcerated for these crimes, falsely confessing to approximately 600 other murders to the Texas Rangers and other law enforcement officials. Many unsolved cases were closed based on the confessions and the murders officially attributed to Lucas. He was convicted of murdering eleven people and condemned to death for a single case with a then-unidentified victim, later identified as Debra Jackson."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Henry_Lee_Lucas_arrives_at_Texas_courthouse_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Henry_Lee_Lucas_arrives_at_Texas_courthouse_(cropped).jpg",
+    "file": "File:Henry Lee Lucas arrives at Texas courthouse (cropped).jpg",
+    "artist": "UPI Wirephoto",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 878,
+    "height": 1170,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/tv-and-radio/2019/dec/05/the-confession-killer-netflix-henry-lee-lucas-robert-keener-taki-oldham",
+    "title": "He was America's most deadly serial killer – but it was all a lie | Documentary | The Guardian",
+    "matched": [
+     "600",
+     "henry",
+     "lucas",
+     "claimed",
+     "prolific",
+     "serial",
+     "killer",
+     "confessing",
+     "murders",
+     "later",
+     "almost"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kabul synagogue: The last synagogue in Kabul was inhabited by two men, who both ended up being imprisoned by the Taliban because they got annoyed by the two constantly complaining about each other, before later being converted by one of the men into a kebab restaurant.",
+   "article": {
+    "title": "Kabul synagogue",
+    "url": "https://en.wikipedia.org/wiki/Kabul_synagogue",
+    "extract": "The Kabul synagogue, known by locals as the Jewish Mosque, is an abandoned Jewish congregation and synagogue in Kabul, Afghanistan. The synagogue was completed in 1966, when Afghanistan's Jewish population numbered in the thousands.\nThe synagogue fell into disrepair over the latter half of the 20th century due to the emigration of the country's Jewish population, damage during the Second Afghan Civil War, and persecution under the Taliban. In the early years of the 21st century, the synagogue was home to Zablon Simintov and Yitzhak Levin, believed to be the last two Jews in Afghanistan, who served as the synagogue's caretakers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jason_Everman_and_Zablon_Simintov%2C_Kabul_Synagogue%2C_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jason_Everman_and_Zablon_Simintov,_Kabul_Synagogue,_2005.jpg",
+    "file": "File:Jason Everman and Zablon Simintov, Kabul Synagogue, 2005.jpg",
+    "artist": "GeorgeCarlinn",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1232,
+    "height": 1812,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20230719174249/https://www.tabletmag.com/sections/community/articles/a-congregation-of-one",
+    "title": "Having Tea With the Last Jew in Afghanistan - Tablet Magazine",
+    "matched": [
+     "kabul",
+     "synagogue",
+     "ended",
+     "taliban",
+     "because",
+     "annoyed",
+     "complaining",
+     "converted"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Infernal machine (weapon): A homemade, 25-barrel volley gun made to kill the French king.",
+   "article": {
+    "title": "Infernal machine (weapon)",
+    "url": "https://en.wikipedia.org/wiki/Infernal_machine_(weapon)",
+    "extract": "The infernal machine (French: machine infernale) is a homemade 25-barrel volley gun built by Giuseppe Marco Fieschi and used in his failed assassination attempt on King Louis Philippe I of France on July 28, 1835. The original gun is now on display at the Musée des Archives Nationales in Paris, France."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Machine_infernale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Machine_infernale.JPG",
+    "file": "File:Machine infernale.JPG",
+    "artist": "Parisette",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source": {
+    "name": "atlasobscura.com",
+    "url": "https://www.atlasobscura.com/articles/objects-of-intrigue-the-infernal-machine",
+    "title": "Objects of Intrigue: The Infernal Machine - Atlas Obscura",
+    "matched": [
+     "25",
+     "infernal",
+     "machine",
+     "barrel",
+     "volley",
+     "french"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moose cavalry: The supposed moose cavalries of Sweden and Russia.",
+   "article": {
+    "title": "Moose cavalry",
+    "url": "https://en.wikipedia.org/wiki/Moose_cavalry",
+    "extract": "Moose cavalry are military units of cavalrymen mounted on moose (AKA Eurasian elk, Alces alces alces) rather than the more usual horses.  Some sources state that in 17th-century Sweden Charles XI trialled the use of moose as a replacement for horses, which had to be imported, but this is disputed.  The use of moose cavalry by the Soviets in the  Winter War of 1939 and 1940 is also reported but seems to stem from a 2010 Popular Mechanics April Fools' Day article."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Moose-Gustav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Moose-Gustav.jpg",
+    "file": "File:Moose-Gustav.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 600,
+    "height": 450,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20160529185612/https://www.adn.com/wildlife/article/moose-and-men-brief-history-domesticated-moose-alaska/2016/01/03/",
+    "title": "Of moose and men: A brief history of domesticated moose in Alaska - Alaska Dispatch News",
+    "matched": [
+     "moose",
+     "cavalry",
+     "cavalries",
+     "russia"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Darth Vader in Ukrainian politics: Yes, the Sith Lord himself has participated in elections in Ukraine. So much that a Lenin statue was modified to replicate his likeness.",
+   "article": {
+    "title": "Darth Vader in Ukrainian politics",
+    "url": "https://en.wikipedia.org/wiki/Darth_Vader_in_Ukrainian_politics",
+    "extract": "Since 2012, individuals adopting the name of the Star Wars character Darth Vader (Ukrainian: Дарт Вейдер) have entered local, presidential, and parliamentary elections in Ukraine. \"Vader\" also participated in political and social activism, notably in Odesa Oblast."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Darth_Alekseevich_Vader.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Darth_Alekseevich_Vader.jpg",
+    "file": "File:Darth Alekseevich Vader.jpg",
+    "artist": "Нопперабо",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 461,
+    "height": 531,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://dumskaya.net/news/lyuk-ya-tvoj-otec-015863/"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Puckle gun: A gun with square bullets, to \"convince the Turks of the benefits of Christian civilization\". Appear in Assassin's Creed Rogue.",
+   "article": {
+    "title": "Puckle gun",
+    "url": "https://en.wikipedia.org/wiki/Puckle_gun",
+    "extract": "The Puckle gun (also known as the defence gun) was a primitive crew-served, manually operated flintlock revolver patented in 1718 by James Puckle (1667–1724), a British inventor, lawyer and writer. It was one of the earliest weapons to be referred to as a \"machine gun\", being called such in a 1722 shipping manifest, though its operation does not match the modern use of the term. It was never used during any combat operation or war. Production was highly limited and may have been as few as two guns."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Puckle_gun_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Puckle_gun_advertisement.jpg",
+    "file": "File:Puckle gun advertisement.jpg",
+    "artist": "artist not identified",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 767,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20140422075818/http://www.ipo.gov.uk/types/patent/p-about/p-whatis/p-history/p-history-18century.htm"
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Overtoun Bridge: A 50-foot-high bridge that dogs keep jumping off.",
+   "article": {
+    "title": "Overtoun Bridge",
+    "url": "https://en.wikipedia.org/wiki/Overtoun_Bridge",
+    "extract": "Overtoun Bridge is a category B-listed structure over the Overtoun Burn on the approach road from the west to Overtoun House, near Dumbarton in West Dunbartonshire, Scotland. It was completed in 1895, based on a design by the landscape architect H. E. Milner. It spans a ditch known as Spardie Linn.\nSince the 1950s, numerous accounts of dogs either falling or jumping from the bridge have been reported."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+    "file": "File:Overtoun Bridge - geograph.org.uk - 4625800.jpg",
+    "artist": "Lairich Rig",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1168,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "allthatsinteresting.com",
+    "url": "https://allthatsinteresting.com/overtoun-bridge",
+    "title": "Overtoun Bridge: Solving The Mystery Of Scotland's Dog Suicide Hotspot",
+    "matched": [
+     "50",
+     "overtoun",
+     "bridge",
+     "jumping"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eyes (cheese): There are eyes in the cheese, but no cheese in the eyes.",
+   "article": {
+    "title": "Eyes (cheese)",
+    "url": "https://en.wikipedia.org/wiki/Eyes_(cheese)",
+    "extract": "Eyes are the round holes that are a characteristic feature of some Swiss-type cheeses (e.g. Emmentaler cheese) and some Dutch-type cheeses. The eyes are formed by bubbles of carbon dioxide gas during the cheesemaking process. The gas is produced by various species of bacteria in the cheese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emmentaler_aoc_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg",
+    "file": "File:Emmentaler aoc block.jpg",
+    "artist": "Dieter Seeger",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 672,
+    "height": 896,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20160826155845/http://www.genoscope.cns.fr/spip/Propionibacterium-freudenreichii,467.html"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sam Hyde: A transgressive American comedian blamed for numerous terrorist attacks and killings.",
+   "article": {
+    "title": "Sam Hyde",
+    "url": "https://en.wikipedia.org/wiki/Sam_Hyde",
+    "extract": "Samuel Whitcomb Hyde (born April 16, 1985) is an American comedian and a co-founder of the sketch comedy group Million Dollar Extreme (MDE), alongside Nick Rochefort and Charls Carroll. MDE gained notoriety on YouTube for their provocative, anti-sketch style and public pranks, including trolling staged performances at conventions and comedy clubs that pushed social boundaries and courted controversy. Widespread public attention followed one such satirical TEDx talk.\nHyde and MDE created the television series Million Dollar Extreme Presents: World Peace, which aired on Adult Swim in 2016."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sam_Hyde_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sam_Hyde_crop.jpg",
+    "file": "File:Sam Hyde crop.jpg",
+    "artist": "Million Dollar Extreme",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 471,
+    "height": 513,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20250430201915/https://jewishchronicle.timesofisrael.com/alt-right-comedian-to-appear-at-hop-farm-brewing-company/",
+    "title": "Alt-Right comedian to appear at Hop Farm Brewing Company | The Pittsburgh Jewish Chronicle",
+    "matched": [
+     "american",
+     "comedian",
+     "terrorist",
+     "attacks",
+     "killings"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jumbo: An elephant with gigantism and legendary circus attraction, who gave his name to large things everywhere.",
+   "article": {
+    "title": "Jumbo",
+    "url": "https://en.wikipedia.org/wiki/Jumbo",
+    "extract": "Jumbo (December 25, 1860 – September 15, 1885), also known as Jumbo the Elephant and Jumbo the Circus Elephant, was a 19th-century male African bush elephant born in Sudan. Jumbo was exported to Jardin des Plantes, a zoo in Paris, and then transferred in 1865 to London Zoo in England. Despite public protest, Jumbo was sold to P. T. Barnum, who took him to the United States for exhibition in March 1882.\nThe elephant's name spawned the common word \"jumbo\", meaning large in size."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jumbo_poster_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jumbo_poster_1.jpg",
+    "file": "File:Jumbo poster 1.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 768,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20170909052747/http://www.etymonline.com/index.php?term=jumbo"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Thursday October Christian I: The son of Fletcher Christian, leader of the mutiny on the Bounty.",
+   "article": {
+    "title": "Thursday October Christian I",
+    "url": "https://en.wikipedia.org/wiki/Thursday_October_Christian_I",
+    "extract": "Thursday October Christian (14 October 1790 – 21 April 1831) was the first son of Fletcher Christian (leader of the historical mutiny on the Bounty) and his Tahitian wife Mauatua. He was the first child born on the Pitcairn Islands after the mutineers took refuge on the island. Born on a Thursday in October, he was given his unusual name because Fletcher Christian wanted his son to have \"no name that will remind me of England.\"\nThursday, at age 16, married an older Tahitian woman, Teraura (Susannah/Susan Young), who had been Ned Young's original consort. She was past 30 at the time of the marriage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Thursday_%28Friday%29_Fletcher_October_Christian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Thursday_(Friday)_Fletcher_October_Christian.jpg",
+    "file": "File:Thursday (Friday) Fletcher October Christian.jpg",
+    "artist": "J. Shillibeer",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 841,
+    "height": 1050,
+    "ok": true
+   },
+   "second_source": {
+    "name": "gutenberg.org",
+    "url": "http://www.gutenberg.org/ebooks/21747",
+    "title": "The Lonely Island: The Refuge of the Mutineers by R. M. Ballantyne | Project Gutenberg",
+    "matched": [
+     "christian",
+     "fletcher",
+     "mutiny",
+     "bounty"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1992 Iranian legislative election: The Combatant Clergy Association ran against.... the Association of Combatant Clerics.",
+   "article": {
+    "title": "1992 Iranian legislative election",
+    "url": "https://en.wikipedia.org/wiki/1992_Iranian_legislative_election",
+    "extract": "Parliamentary elections were held in Iran on 10 April 1992, with a second round on 8 May. The elections were the first parliamentary elections held in Iran since the death of Ayatollah Khomeini and during Ali Khamenei's leadership.\nIt marked a rivalry between the two main organizations at the time, the right-wing Combatant Clergy Association (supporters of President Akbar Hashemi Rafsanjani) and the left-wing Association of Combatant Clerics. The results marked a victory for the right-wingers who obtained an absolute majority with more than 70 percent of the seats."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Karubi2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Karubi2.jpg",
+    "file": "File:Karubi2.jpg",
+    "artist": "http://campaign88.ir/",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 309,
+    "height": 399,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://web.archive.org/web/20120530200846/http://www.princeton.edu/irandataportal/elections/parl/1992/"
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Not a typewriter: Well, what is it, then?",
+   "article": {
+    "title": "Not a typewriter",
+    "url": "https://en.wikipedia.org/wiki/Not_a_typewriter",
+    "extract": "In computing, \"Not a typewriter\" or ENOTTY is an error code defined in the errno.h found on many Unix systems.  This code is now used to indicate that an invalid ioctl (input/output control) number was specified in an ioctl system call."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/NotATypeWriter.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NotATypeWriter.png",
+    "file": "File:NotATypeWriter.png",
+    "artist": "Linux Kernel",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 720,
+    "height": 400,
+    "ok": true
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bonnacon: A mythical ox which flings burning dung at its enemies from its rear and horn.",
+   "article": {
+    "title": "Bonnacon",
+    "url": "https://en.wikipedia.org/wiki/Bonnacon",
+    "extract": "The bonnacon (also called bonasus or bonacho) (Ancient Greek: βόνασος or βόνασσος) is a legendary creature described as a bull with inward-curving horns and a horse-like mane. \nMedieval bestiaries usually depict its fur as reddish-brown or black. Because its horns were useless for self-defense, the bonnacon was said to expel large amounts of caustic feces from its anus at its pursuers, burning them and thereby ensuring its escape."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bonnacon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bonnacon.jpg",
+    "file": "File:Bonnacon.jpg",
+    "artist": "unknown (medieval) author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 654,
+    "height": 380,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp#Martha"
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "COINTELPRO: The FBI's name for their undercover operation of investigation, and at times disruption, of influential groups and people in the inland United States during the Cold War. Some of the most famous individuals observed in this operation include: Martin Luther King Jr., Muhammad Ali, John Lennon, Charles Chaplin and Malcolm X.",
+   "article": {
+    "title": "COINTELPRO",
+    "url": "https://en.wikipedia.org/wiki/COINTELPRO",
+    "extract": "COINTELPRO (a syllabic abbreviation derived from Counter Intelligence Program) was a series of covert projects conducted between 1956 and 1971 by the United States Federal Bureau of Investigation (FBI) aimed at surveilling, infiltrating, discrediting, and disrupting American political parties and organizations that the FBI perceived as subversive.\nGroups and individuals targeted by the FBI included feminist organizations, the Communist Party USA, anti-Vietnam War organizers, activists in the civil rights and Black power movements (e.g., Martin Luther King Jr., Malcolm X, and the Black Panther Party), student organizations such as Students for a Democratic Society (SDS) and Student Nonviolent Coordinating Committee (SNCC), the American Indian Movement (AIM), Chicano and Mexican-American groups like the Brown Berets and the United Farm Workers, and independence movements (including Puerto "
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/COINTELPRO_-_Jean_Seberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:COINTELPRO_-_Jean_Seberg.jpg",
+    "file": "File:COINTELPRO - Jean Seberg.jpg",
+    "artist": "Richard W. Held",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 687,
+    "height": 809,
+    "ok": true
+   },
+   "second_source": {
+    "name": "latimes.com",
+    "url": "https://www.latimes.com/archives/la-xpm-2006-mar-08-oe-jalon8-story.html",
+    "title": "A break-in to end all break-ins - Los Angeles Times",
+    "matched": [
+     "cointelpro",
+     "operation",
+     "investigation",
+     "times",
+     "disruption",
+     "influential",
+     "groups",
+     "people",
+     "united",
+     "states"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bamboo torture: Death by a growing bamboo shoot.",
+   "article": {
+    "title": "Bamboo torture",
+    "url": "https://en.wikipedia.org/wiki/Bamboo_torture",
+    "extract": "Bamboo torture is a form of torture and execution where a bamboo shoot grows through the body of a victim. It was reportedly used in East and South Asian countries such as China, India, and especially Japan, but claims of its usage lack reliable evidence."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Big_Bamboo_Shoot_%28Joi_Ito%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Big_Bamboo_Shoot_(Joi_Ito).jpg",
+    "file": "File:Big Bamboo Shoot (Joi Ito).jpg",
+    "artist": "Joi Ito",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 861,
+    "height": 1280,
+    "ok": true
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "United States ex rel. Gerald Mayo v. Satan and His Staff: Who has jurisdiction over Satan?",
+   "article": {
+    "title": "United States ex rel. Gerald Mayo v. Satan and His Staff",
+    "url": "https://en.wikipedia.org/wiki/United_States_ex_rel._Gerald_Mayo_v._Satan_and_His_Staff",
+    "extract": "United States ex rel. Gerald Mayo v. Satan and His Staff, 54 F.R.D. 282 (W.D. Pa. 1971), was a federal court case in which a prisoner filed a lawsuit  in United States District Court against Satan and his servants."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Pennsylvania-western.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pennsylvania-western.gif",
+    "file": "File:Pennsylvania-western.gif",
+    "artist": "Federal government of the United States",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 229,
+    "height": 225,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20201029095735/http://failuremag.com/article/devils-advocate",
+    "title": "Devil's Advocate: Gerald Mayo v. Satan And His Staff - Failure magazine",
+    "matched": [
+     "united",
+     "states",
+     "gerald",
+     "satan",
+     "staff"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Accessory breast: Some people have more than two.",
+   "article": {
+    "title": "Accessory breast",
+    "url": "https://en.wikipedia.org/wiki/Accessory_breast",
+    "extract": "Accessory breasts, also known as polymastia, supernumerary breasts, or mammae erraticae, is the atavistic condition of having an additional breast. These extra breasts may appear with or without nipples or areolae. The condition is most commonly observed in males and is generally harmless, often going untreated, but many affected individuals opt to undergo plastic surgery to remove the additional breasts for aesthetic reasons.\nPolythelia is a related condition in which one or more additional nipples form in the absence of developed breast tissue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Polymastia_of_the_Japanese_Wellcome_L0027954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Polymastia_of_the_Japanese_Wellcome_L0027954.jpg",
+    "file": "File:Polymastia of the Japanese Wellcome L0027954.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1188,
+    "height": 1592,
+    "ok": true
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Goat throwing: In one town in Spain, they would honor Saint Vincent of Saragossa by throwing a live goat off a church and trying to catch it in a sheet.",
+   "article": {
+    "title": "Goat throwing",
+    "url": "https://en.wikipedia.org/wiki/Goat_throwing",
+    "extract": "Goat throwing (in Spanish: Lanzamiento de cabra desde campanario or Salto de la cabra) was a festival celebrated in the town of Manganeses de la Polvorosa, province of Zamora, Spain, on the fourth Sunday of January. The festival coincided with the commemoration of Saint Vincent the Martyr."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Manganeses_iglesia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Manganeses_iglesia.JPG",
+    "file": "File:Manganeses iglesia.JPG",
+    "artist": "Arubiod",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 600,
+    "height": 450,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/world/2000/jan/24/2",
+    "title": "Fiesta 'spoiled' as villagers barred from tossing goat | World news | The Guardian",
+    "matched": [
+     "throwing",
+     "spain",
+     "saint",
+     "church",
+     "catch"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Zyzyxia: The last plant name and animal name in the dictionary, respectively.",
+   "article": {
+    "title": "Zyzyxia",
+    "url": "https://en.wikipedia.org/wiki/Zyzyxia",
+    "extract": "Zyzyxia is a genus of tropical shrubs in the family Asteraceae native to Central America. There is only one known species, Zyzyxia lundellii."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Zyzyxia_lundelli.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zyzyxia_lundelli.png",
+    "file": "File:Zyzyxia lundelli.png",
+    "artist": "Smithsonian Institution, NMNH, Botany",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 864,
+    "height": 1219,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=13087"
+   }
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Tar Pits in Lawton, Oklahoma",
+   "article": {
+    "title": "The Tar Pits in Lawton, Oklahoma",
+    "url": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+    "extract": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it leaves behind the solids, which become asphalt. This is the ‘tar’ found in tar pits. There are few tar pits in the world, one of which is in s"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+   "article": {
+    "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+    "url": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+    "extract": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this:The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, but according to the tale, this balance has been lost. Today, the people take too much from the sea without respecting it, polluting it, disr"
+   },
+   "published": "Thu, 12 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Dodder Rhino in Dublin, Ireland",
+   "article": {
+    "title": "The Dodder Rhino in Dublin, Ireland",
+    "url": "https://www.atlasobscura.com/places/the-dodder-rhino",
+    "extract": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of Milltown's strangest landmarks. The animal appeared seemingly overnight in 2002, with no plaque explaining who created it, who put it there, "
+   },
+   "published": "Thu, 12 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Patrick’s Church in Sydney, Nova Scotia",
+   "article": {
+    "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/st-patrick-s-church",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. "
+   },
+   "published": "Thu, 12 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Invisible Lamplighter in The Hague, Netherlands",
+   "article": {
+    "title": "The Invisible Lamplighter in The Hague, Netherlands",
+    "url": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "extract": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen, you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—i"
+   },
+   "published": "Wed, 11 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "John J. McGraw Monument in Truxton, New York",
+   "article": {
+    "title": "John J. McGraw Monument in Truxton, New York",
+    "url": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
+    "extract": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign memorializing the game played at John J. McGraw Field that funded the carving and installation of the memorial to McGraw. McGraw’s father, a"
+   },
+   "published": "Wed, 11 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+   "article": {
+    "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+    "url": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
+    "extract": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once served as the shop’s mascot. Famously, the ice cream man appeared in the opening credits of the first season of the television show “Parks "
+   },
+   "published": "Wed, 11 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Cossit House in Sydney, Nova Scotia",
+   "article": {
+    "title": "Cossit House in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/cossit-house",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, Cossit House is the city's oldest surviving residence and one of the oldest buildings on Cape Breton Island. Built in 1787, the house has witnessed more than two centuries of history, and according to local ghost stories, some of its earliest residents may never have left. The house was built for Reverend Ranna Cossit, a Loyalist Anglican "
+   },
+   "published": "Wed, 11 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Facade of the Old Mental Hospital in Hong Kong",
+   "article": {
+    "title": "Facade of the Old Mental Hospital in Hong Kong",
+    "url": "https://www.atlasobscura.com/places/facade-of-the-old-mental-hospital",
+    "extract": "Modern day High Street in Hong Kong's Sai Ying Pun district is mostly known as a food destination, with many lively restaurants and eateries lining the street. However, at its eastern end, the aura feels vastly different due to the presence of a structure renowned as one of Hong Kong's most haunted locations. Forebodingly entrenched at 2 High Street is the ominous facade of the city's former menta"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+   "article": {
+    "title": "General Israel Putnam Tombstone in Brooklyn, Connecticut",
+    "url": "https://www.atlasobscura.com/places/general-israel-putnam-tombstone",
+    "extract": "Israel Putnam, affectionately known as “Old Put,” was a prominent figure in American history. He served as a colonial American military officer and a Patriot hero during the American Revolutionary War. Putnam also played a significant role in the French and Indian War. In 1775, Congress appointed Putnam as one of the first four major generals of the Continental Army. He commanded the New England m"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bundesbüdchen in Bonn, Germany",
+   "article": {
+    "title": "Bundesbüdchen in Bonn, Germany",
+    "url": "https://www.atlasobscura.com/places/bundesbudchen",
+    "extract": "In 1949, West Germany was debating the location for its provisional government. After lengthy back-and-forth—the mayor of Frankfurt, Walter Kolb, had even pre-recorded a victory speech—the choice came to Bonn. A university town known as little more than the birthplace of Beethoven, Bonn had seen little wartime damage, had few ties to the Third Reich, and lacked the gravitas that a larger city migh"
+   },
+   "published": "Tue, 10 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Grissom Air Museum in Peru, Indiana",
+   "article": {
+    "title": "Grissom Air Museum in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/grissom-air-museum",
+    "extract": "If you've seen the movie “Top Gun: Maverick,” there are so many references and jokes to be made here. This is, after all, an air museum built near a former active air base. There are four loosely worded references to quotes from “Top Gun: Maverick” contained within this report. Can you find them all? The Grissom Air Museum opened in 1991 and is primarily focused on military aviation during the Col"
+   },
+   "published": "Tue, 10 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Best Martin Scorsese Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "The 10 Best Martin Scorsese Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/best-martin-scorsese-movies-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'Goodfellas' to 'The Irishman,' these are Martin Scorsese’s 10 best movies, ranked by their Rotten Tomatoes scores."
+   },
+   "published": "Fri, 13 Nov 2026 13:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Holidays in the U.S., Ranked",
+   "article": {
+    "title": "The Most Popular Holidays in the U.S., Ranked",
+    "url": "https://www.mentalfloss.com/holidays/most-popular-holidays-us-ranked?utm_source=RSS",
+    "extract": "Where does your favorite holiday fall on the list? See which holidays Americans rank as their favorites and least favorites, based on a 2024 poll."
+   },
+   "published": "Fri, 13 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Chilling Facts About the Burke and Hare Murders",
+   "article": {
+    "title": "7 Chilling Facts About the Burke and Hare Murders",
+    "url": "https://www.mentalfloss.com/crime/burke-hare-murders-chilling-facts?utm_source=RSS",
+    "extract": "William Burke and William Hare murdered 16 people and sold their bodies to an anatomist—and these lesser-known details about their case make it even more disturbing."
+   },
+   "published": "Fri, 13 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+   "article": {
+    "title": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/macys-thanksgiving-day-parade-balloons-by-decade?utm_source=RSS",
+    "extract": "Trace the history of the Macy’s Thanksgiving Day Parade decade by decade through its most legendary character balloons, from 1927 to today."
+   },
+   "published": "Thu, 12 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Valuable Company in Every State, Mapped",
+   "article": {
+    "title": "The Most Valuable Company in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-valuable-company-every-state-map?utm_source=RSS",
+    "extract": "Based on October 2026 market cap data, this map reveals the biggest publicly traded powerhouse headquartered in all 50 U.S. states."
+   },
+   "published": "Thu, 12 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Everyday Words That Came From Ancient Egypt",
+   "article": {
+    "title": "9 Everyday Words That Came From Ancient Egypt",
+    "url": "https://www.mentalfloss.com/language/words/everyday-words-came-from-ancient-egypt?utm_source=RSS",
+    "extract": "The ancient language of the pharaohs died out centuries ago, but bits of it remain."
+   },
+   "published": "Thu, 12 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The ‘Little House on the Prairie’ Episode That Helped Decide the Show’s Future",
+   "article": {
+    "title": "The ‘Little House on the Prairie’ Episode That Helped Decide the Show’s Future",
+    "url": "https://www.mentalfloss.com/entertainment/tv/little-house-on-the-prairie-episode-decide-futur?utm_source=RSS",
+    "extract": "Could ‘Little House’ really continue without Michael Langdon? The cast was put to the test with this tense season 8 two-part episode."
+   },
+   "published": "Thu, 12 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Common Garage Sale Finds That Can Be Surprisingly Valuable",
+   "article": {
+    "title": "20 Common Garage Sale Finds That Can Be Surprisingly Valuable",
+    "url": "https://www.mentalfloss.com/live-smarter/money/surprisingly-valuable-garage-sale-finds?utm_source=RSS",
+    "extract": "From pyrex to vinyl records, here's what to look for when you're combing through somebody else's stuff."
+   },
+   "published": "Thu, 12 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+   "article": {
+    "title": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/real-mythology-helped-inspire-jrr-tolkien-elves?utm_source=RSS",
+    "extract": "How Old Norse sagas, Anglo-Saxon poems, and Irish mythology helped J.R.R. Tolkien transform tiny Victorian fairies into the majestic Elves of Middle-earth."
+   },
+   "published": "Wed, 11 Nov 2026 23:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Wartime Family Feud That Created Adidas and Puma",
+   "article": {
+    "title": "The Wartime Family Feud That Created Adidas and Puma",
+    "url": "https://www.mentalfloss.com/history/family-feud-behind-adidas-puma?utm_source=RSS",
+    "extract": "Irreconcilable differences led German brothers Rudi and Adi Dassler to part ways. The result was rival shoe empires."
+   },
+   "published": "Thu, 12 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "2026’s Most Popular Thanksgiving Sides By State, Mapped",
+   "article": {
+    "title": "2026’s Most Popular Thanksgiving Sides By State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-popular-thanksgiving-sides-state-2026?utm_source=RSS",
+    "extract": "Do you agree with the side your state ranks as number one? Check out every state’s favorite Thanksgiving side, according to Campbell’s 2026 report."
+   },
+   "published": "Thu, 12 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Things That Were Considered Luxuries in the 1970s",
+   "article": {
+    "title": "20 Things That Were Considered Luxuries in the 1970s",
+    "url": "https://www.mentalfloss.com/nostalgia/1970s-household-luxuries?utm_source=RSS",
+    "extract": "Discover 20 everyday items—from microwaves and color TVs to home bars and the Sony Walkman—that were high-status luxury goods in 1970s America."
+   },
+   "published": "Wed, 11 Nov 2026 21:18:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+   "article": {
+    "title": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+    "url": "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+    "extract": "Most dengue infections cause mild flu-like symptoms or no symptoms at all. But at least one person has died from this year’s outbreak in Florida, where health experts worry the disease will become more common in the future"
+   },
+   "published": "Thu, 12 Nov 2026 19:52:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+   "article": {
+    "title": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+    "url": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
+    "extract": "The 1,000-foot ship, longer than the \"Titanic,\" once carried celebrities and politicians across the Atlantic in midcentury style. Now, after decades of uncertainty and rust, it's taking on a second life as an underwater refuge for marine creatures and curious divers"
+   },
+   "published": "Thu, 12 Nov 2026 18:51:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+   "article": {
+    "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+    "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
+    "extract": "A metal detectorist recovered the brass artifact from the wreck of the \"Ann Francis,\" a merchant vessel that sank off southern Wales. Researchers used micro-CT scans to identify the four-letter combination"
+   },
+   "published": "Thu, 12 Nov 2026 18:22:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+   "article": {
+    "title": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+    "url": "https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/",
+    "extract": "The small decrease seems to stem partially from the closure of the Strait of Hormuz, a major global chokepoint for oil transportation. Scientists say that the decline will not last without the accelerated deployment of renewable energies"
+   },
+   "published": "Thu, 12 Nov 2026 17:48:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+   "article": {
+    "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "extract": "The dwarf planet candidate, called ED138, appeared in telescope images and takes roughly 280 years to orbit the sun. Astronomers need to determine its size to properly classify it"
+   },
+   "published": "Thu, 12 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+   "article": {
+    "title": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+    "url": "https://www.smithsonianmag.com/smart-news/what-seeded-life-on-earth-new-research-challenges-the-longstanding-theory-that-comets-brought-the-ingredients-to-our-planet-180989852/",
+    "extract": "Computer simulations suggest comets carrying a key precursor to many of life's building blocks would have rarely—if ever—successfully reached Earth's surface. And even if they did, only specific landing conditions would have allowed the precursor molecule to drive biologically relevant reactions"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+   "article": {
+    "title": "A Rare Surviving Letter From Martha Washington Sheds Light on Her Young Daughter's Struggle With Epilepsy",
+    "url": "https://www.smithsonianmag.com/smart-news/a-rare-surviving-letter-from-martha-washington-sheds-light-on-her-young-daughters-struggle-with-epilepsy-180989858/",
+    "extract": "Recently obtained by the Library of Congress, the 1760 letter offers positive news about the health of four-year-old Martha Parke Custis, known as Patsy, the stepdaughter of George Washington"
+   },
+   "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+   "article": {
+    "title": "The Handwritten Final Draft of Martin Luther King Jr.'s 'I Have a Dream' Speech Was Considered Lost. It Turned Out to Be Sitting in a Desk Drawer for Decades",
+    "url": "https://www.smithsonianmag.com/smart-news/the-handwritten-final-draft-of-martin-luther-king-jrs-i-have-a-dream-speech-was-considered-lost-it-turned-out-to-be-sitting-in-a-desk-drawer-for-decades-180989856/",
+    "extract": "Across seven yellow notepad pages, King is seen wrestling with word choice and revising his remarks the night before the March on Washington. The manuscript will head to auction in January and is expected to pull in more than $10 million"
+   },
+   "published": "Tue, 10 Nov 2026 21:45:09 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+   "article": {
+    "title": "Octopuses Are the Ultimate Escape Artists. Now Scientists Know How the Creatures Contort Themselves to Squeeze Through Tiny Holes",
+    "url": "https://www.smithsonianmag.com/smart-news/octopuses-are-the-ultimate-escape-artists-now-scientists-know-how-the-creatures-contort-themselves-to-squeeze-through-tiny-holes-180989846/",
+    "extract": "A new study reveals the step-by-step process some octopuses use to cram themselves into tight openings. The findings could inspire new designs for soft robots used during search-and-rescue missions"
+   },
+   "published": "Tue, 10 Nov 2026 21:17:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+   "article": {
+    "title": "Dismantled to Survive the Nazi Blitz, Coventry Cathedral's Stained Glass Is 'a Medieval Jigsaw Puzzle.' Its 12,000 Fragments Are Now Digitized for Public View",
+    "url": "https://www.smithsonianmag.com/smart-news/dismantled-to-survive-the-nazi-blitz-coventry-cathedrals-stained-glass-is-a-medieval-jigsaw-puzzle-its-12000-fragments-have-been-digitized-for-the-public-180989853/",
+    "extract": "First shattered during the Reformation, the 15th-century stained glass is rife with religious imagery, comical animal scenes and even portraits of the original donors who funded its construction"
+   },
+   "published": "Tue, 10 Nov 2026 17:27:06 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+   "article": {
+    "title": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+    "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/",
+    "extract": "The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people"
+   },
+   "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+   "article": {
+    "title": "Voyager 1 Is the Farthest Human-Made Object in the Universe—and the Spacecraft Is About to Reach One Light-Day From Earth",
+    "url": "https://www.smithsonianmag.com/smart-news/voyager-1-is-the-farthest-human-made-object-in-the-universe-and-the-spacecraft-is-about-to-reach-one-light-day-from-earth-180989845/",
+    "extract": "The probe and its twin, Voyager 2, have been hurtling through space for almost 50 years, stretching humanity's reach into interstellar space. The upcoming milestone is a testament to scientific endeavor and ingenuity"
+   },
+   "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+   "article": {
+    "title": "Sparta. Wzlot i upadek antycznego supermocarstwa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/sparta-wzlot-i-upadek-antycznego-supermocarstwa/",
+    "extract": "Od tysięcy lat trwa legenda o niepokonanych żołnierzach Sparty. Jej obywatele wciąż uchodzą za wzór męskości i odporności na trudy. The post Sparta. Wzlot i upadek antycznego supermocarstwa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Fri, 06 Nov 2026 15:57:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+   "article": {
+    "title": "„Cześć! Giniemy!”. Ostatnie dramatyczne minuty lotu „Tadeusza Kościuszki”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/05/czesc-giniemy-ostatnie-dramatyczne-minuty-lotu-tadeusza-kosciuszki/",
+    "extract": "9 maja 1987 roku doszło do największej katastrofy lotniczej w historii Polski. Pożar silników, kolejne awarie i samolot, nad którym piloci stopniowo tracili kontrolę. Załoga Iła-62M „Tadeusz Kościuszko” do ostatnich chwil walczyła o uratowanie 183 osób. Do warszawskiego lotniska zabrakło zaledwie kilkudziesięciu sekund. Ostatnie słowa z kokpitu przeszły do historii polskiego lotnictwa. The post „C"
+   },
+   "published": "Thu, 05 Nov 2026 15:40:39 +0000",
+   "image": null
+  }
+ ]
+}
