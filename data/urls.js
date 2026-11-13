@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-13": {
+  "luz": [
+   "artykuly/2026-11-13/rezigiusz-nakrecil-gta-6-w-prawdziwym-zyciu-w-obsadzie-kaluch-pasha.html",
+   "artykuly/2026-11-13/kaluch-zamknal-gta-v-prawdziwe-zycie-ostatni-odcinek-serii-wyszedl.html",
+   "artykuly/2026-11-13/gta-6-o-malo-nie-zostalo-bez-kategorii-wiekowej-w-korei-komisja.html",
+   "artykuly/2026-11-13/gta-6-w-japonii-zajmuje-ok-1-2-gb-mniej-niz-gdzie-indziej-gracze.html",
+   "artykuly/2026-11-13/palion-nagrywa-piosenke-o-gta-6-pokazal-kulisy-powstawania-utworu.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-13/najdluzszy-wybor-papieza-trwal-prawie-3-lata-kardynalom-zdjeto-dach.html",
+   "artykuly/2026-11-13/najbrzydszy-kolor-swiata-ma-nazwe-pantone-448-c-trafil-na-paczki.html",
+   "artykuly/2026-11-13/na-cmentarzu-w-vermont-lezy-egipski-ksiaze-ma-najstarsza-date-smierci.html",
+   "artykuly/2026-11-13/ludzie-porywaja-krasnale-ogrodowe-i-wysylaja-wlascicielom-ich-zdjecia.html",
+   "artykuly/2026-11-13/istnieje-konkurs-na-najbardziej-nieczytelny-kod-dziala-od-lat.html"
+  ]
+ },
  "2026-11-12": {
   "luz": [
    "artykuly/2026-11-12/lootbox-o-gta-6-na-konsolach-tylko-30-klatek-na-sekunde.html",

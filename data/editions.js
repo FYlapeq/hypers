@@ -1,5 +1,458 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-13": {
+    "date": "2026-11-13",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-12",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "ReZigiusz nakręcił „GTA 6 w prawdziwym życiu”. W obsadzie Kaluch, Pasha, Świeży i Testree",
+        "summary": "Tydzień przed premierą GTA 6 ReZigiusz wrzucił 36-minutowy film fabularny w klimacie gry. Wystąpili w nim Kaluch, Jarek Pasha, Świeży i Testree, a materiał w kilkanaście godzin przekroczył 370 tys. wyświetleń.",
+        "body": [
+          "ReZigiusz opublikował 12 listopada film „GTA 6 ale w prawdziwym życiu!”, czyli nakręconą na żywo wersję Grand Theft Auto VI. W opisie wymienia ekipę: Kalucha, Paszę, Świeżego i Testree.",
+          "Twórca napisał, że przesunął publikację filmu z uwagi na żałobę narodową i że materiał powstał wyłącznie dlatego, że ekipa czeka na premierę gry. Dodał też kondolencje dla bliskich poszkodowanych. W scenach akcji użyto replik ASG, o czym informuje opis.",
+          "Film trwa ok. 36 minut. W piątek o 6:16 miał ok. 373 tys. wyświetleń i prawie 12 tys. polubień. Widzowie w komentarzach najczęściej chwalą skład i rolę Testree, który według nich zagrał Lestera z serii GTA.",
+          "GTA 6 trafi na PS5 i Xbox Series X/S 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/watch?v=qQriIB1byNs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qQriIB1byNs",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Miniatura filmu „GTA 6 ale w prawdziwym życiu”. To fabularna produkcja ReZigiusza z gościnnym udziałem Kalucha, Paszy, Świeżego i Testree, wydana tydzień przed premierą gry."
+        },
+        "ig": [
+          "rezigiusz"
+        ],
+        "insta": {
+          "tytul": "ReZi nakręcił GTA 6 na żywo. Gra Kaluch, Pasha, Świeży i Testree",
+          "opis": "36 minut akcji w klimacie GTA, tydzień przed premierą gry. Widzowie najbardziej chwalą Testree jako Lestera."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qQriIB1byNs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qQriIB1byNs/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=qQriIB1byNs",
+          "alt": "Miniatura filmu ReZigiusza GTA 6 w prawdziwym życiu",
+          "caption": "Kadr z filmu ReZigiusza „GTA 6 ale w prawdziwym życiu”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-12",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "Kaluch zamknął „GTA V Prawdziwe Życie”. Ostatni odcinek serii wyszedł tydzień przed GTA 6",
+        "summary": "Odcinek #51 z dopiskiem „Koniec 2/2” kończy serię Prawdziwe Życie w GTA V. Pod filmem widzowie żegnają serię i pytają o jej kontynuację w GTA 6.",
+        "body": [
+          "Kaluch wrzucił 12 listopada odcinek „GTA V Prawdziwe Życie #51 – Polska górą!” z dopiskiem „[KONIEC 2/2]”. To druga część finału jego roleplayowej serii w GTA V.",
+          "Finał trwa ponad 70 minut. W piątek o 6:16 miał ok. 112 tys. wyświetleń, prawie 15 tys. polubień i ponad 1,2 tys. komentarzy.",
+          "Najwyżej oceniane komentarze to podziękowania za lata serii. Widzowie piszą, że wychowali się na Prawdziwym Życiu, i liczą, że ekipa wróci z nią w GTA 6. Część narzeka, że zakończenie poszło na skróty.",
+          "W opisie odcinka Kaluch promuje konkurs swojego napoju Floride. Planów na serię w GTA 6 w opisie nie podał."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=bhfX48NW-_I",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=bhfX48NW-_I",
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura ostatniego odcinka „GTA V Prawdziwe Życie”. Seria kończy się na tydzień przed premierą GTA 6, a widzowie w komentarzach pytają o jej powrót w nowej grze."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "insta": {
+          "tytul": "Kaluch skończył Prawdziwe Życie w GTA V. Ostatni odcinek już jest",
+          "opis": "Finał wyszedł tydzień przed GTA 6. W komentarzach same podziękowania i jedno pytanie: czy seria wróci w nowej grze."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bhfX48NW-_I/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bhfX48NW-_I/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=bhfX48NW-_I",
+          "alt": "Miniatura finałowego odcinka GTA V Prawdziwe Życie u Kalucha",
+          "caption": "Kadr z finałowego odcinka „GTA V Prawdziwe Życie #51”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "GTA 6 o mało nie zostało bez kategorii wiekowej w Korei. Komisja głosowała dwa razy",
+        "summary": "Według relacji z posiedzeń koreańskiej komisji GRAC pierwsze głosowanie nad GTA 6 skończyło się remisem 3:3 między „tylko dla dorosłych” a odmową kategorii. Dopiero po ograniczonym dostępie do gry komisja przyznała grze kategorię dla dorosłych.",
+        "body": [
+          "Koreański serwis Inven Global dotarł do zapisów z posiedzeń komisji klasyfikującej gry (GRAC). Opisują je Dexerto i Gameranx. Rockstar zgłosił GTA 6 do oceny 1 września, a 10 września głosy rozłożyły się 3:3 między kategorią „tylko dla dorosłych” a odmową klasyfikacji.",
+          "Według tych relacji członkowie komisji chcieli zobaczyć grę na własne oczy. Grywalną wersję dostali dopiero pod koniec września, a Rockstar tłumaczył opóźnienie ochroną przed przeciekami. Zastrzeżenia dotyczyły scen seksualnych i nagości, a nie przemocy.",
+          "Po sprawdzeniu gry komisja ustaliła, że gracz nie może wejść w interakcję seksualną, a nagość w takich scenach jest zasłonięta. 16 października zapadła decyzja 8:1 za kategorią dla dorosłych. Koreańskie media pisały o niej już w październiku.",
+          "Rockstar ani Take-Two nie skomentowali nowych informacji. GTA 6 ukaże się 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Dexerto",
+            "url": "https://www.dexerto.com/gta/gta-6-almost-banned-in-korea-after-government-officials-got-to-play-it-early-3427658/"
+          },
+          {
+            "name": "Gameranx",
+            "url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/"
+          },
+          {
+            "name": "Sports Kyunghyang",
+            "url": "https://sports.khan.co.kr/en/article/202610191644007"
+          },
+          {
+            "name": "Rockstar Games / YouTube",
+            "url": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+        "caption": {
+          "credit": "Rockstar Games / YouTube",
+          "text": "Kadr z oficjalnego drugiego trailera GTA 6. Gra dostała w Korei kategorię tylko dla dorosłych, ale dopiero w drugim głosowaniu komisji."
+        },
+        "insta": {
+          "tytul": "GTA 6 prawie nie dostało kategorii wiekowej w Korei",
+          "opis": "Komisja najpierw zremisowała 3:3, a dopiero po sprawdzeniu gry dała jej 18+. Chodziło o nagość, nie o przemoc."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/VQRLujxTm3c/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg",
+          "credit": "Rockstar Games / YouTube",
+          "href": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+          "alt": "Kadr z drugiego trailera Grand Theft Auto VI",
+          "caption": "Kadr z oficjalnego drugiego trailera GTA 6."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-12",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "GTA 6 w Japonii zajmuje ok. 1,2 GB mniej niż gdzie indziej. Gracze podejrzewają cenzurę",
+        "summary": "Po starcie preloadu gracze porównali rozmiary plików. Japońska wersja na PS5 jest mniejsza o ok. 1,2 GB, co wywołało podejrzenia o wycięte sceny. Take-Two nie wyjaśniło różnicy.",
+        "body": [
+          "Preload GTA 6 ruszył 10 listopada. Według Kotaku i Dexerto w większości regionów gra na PS5 zajmuje 209,913 GB, a w Japonii 208,725 GB, czyli ok. 1,19 GB mniej. Na Xboksie jest podobnie: 209,86 GB wobec 208,74 GB.",
+          "Różnicę jako pierwszy opisał japoński serwis GameSpark. Część graczy uważa, że japońska wersja ma wycięte treści, bo japońska kategoria CERO Z nie wspomina o treściach seksualnych, które wymieniają oceny w USA i Europie. Oficjalnie nikt tego nie potwierdził.",
+          "Mniejsza jest też wersja na Australię i Nową Zelandię, ale tylko o ok. 700 KB. Dataminer Tex2 twierdzi, że brakuje w niej jednego pakietu danych. Kotaku zapytało Take-Two o komentarz, a wydawca do tej pory nie wyjaśnił różnic."
+        ],
+        "sources": [
+          {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882"
+          },
+          {
+            "name": "Dexerto",
+            "url": "https://www.dexerto.com/gta/gta-6-fans-fear-censored-content-as-file-size-is-smaller-in-certain-regions-3427438/"
+          },
+          {
+            "name": "Gameranx",
+            "url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/"
+          },
+          {
+            "name": "Rockstar Games / YouTube",
+            "url": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+        "caption": {
+          "credit": "Rockstar Games / YouTube",
+          "text": "Kadr z pierwszego oficjalnego trailera GTA 6. Gra ma w Japonii mniejszy plik niż w innych krajach, a Take-Two nie wyjaśniło dlaczego."
+        },
+        "insta": {
+          "tytul": "GTA 6 w Japonii waży o ponad 1 GB mniej. Gracze węszą cenzurę",
+          "opis": "Różnicę widać już przy preloadzie. Take-Two na razie nie wyjaśniło, czego brakuje."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+          "credit": "Rockstar Games / YouTube",
+          "href": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+          "alt": "Kadr z pierwszego trailera Grand Theft Auto VI",
+          "caption": "Kadr z oficjalnego pierwszego trailera GTA 6."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-12",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Palion nagrywa piosenkę o GTA 6. Pokazał kulisy powstawania utworu",
+        "summary": "Palion wrzucił film, w którym razem z ekipą nagrywa nową piosenkę o GTA 6. Sam utwór jeszcze nie wyszedł.",
+        "body": [
+          "Palion opublikował 12 listopada wieczorem film „Nagrywamy nową piosenkę ♪ GTA 6 ♪”. To kulisy pracy nad utworem inspirowanym grą, która wychodzi 19 listopada.",
+          "Daty premiery piosenki Palion nie podał w opisie. Film trwa ok. 28 minut i w piątek o 6:16 miał ok. 29 tys. wyświetleń. Widzowie w komentarzach piszą, że czekają na zwiastun utworu."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=qS9lmLyHjJg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qS9lmLyHjJg",
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Miniatura filmu, w którym Palion nagrywa piosenkę o GTA 6. Sam utwór ma wyjść później."
+        },
+        "ig": [
+          "pawel_palion"
+        ],
+        "insta": {
+          "tytul": "Palion nagrywa piosenkę o GTA 6",
+          "opis": "Na razie pokazał kulisy z nagrywania, sam numer jeszcze nie wyszedł 🎵"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qS9lmLyHjJg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qS9lmLyHjJg/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=qS9lmLyHjJg",
+          "alt": "Miniatura filmu Paliona o nagrywaniu piosenki GTA 6",
+          "caption": "Kadr z filmu „Nagrywamy nową piosenkę GTA 6”."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Watykan",
+        "initials": "PA",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Najdłuższy wybór papieża trwał prawie 3 lata. Kardynałom zdjęto dach nad głową",
+        "summary": "Po śmierci Klemensa IV kardynałowie wybierali następcę od 1268 do 1271 roku. Mieszkańcy Viterbo zamknęli ich, dali tylko chleb i wodę, a w końcu zdjęli dach budynku.",
+        "body": [
+          "Wybór papieża po śmierci Klemensa IV trwał od 1 grudnia 1268 do 1 września 1271 roku. To najdłuższe takie wybory w historii Kościoła, a przyczyną były polityczne spory między kardynałami.",
+          "Władze Viterbo zamknęły kardynałów w pałacu, ograniczyły im jedzenie do chleba i wody, a potem zdjęły dach budynku. W końcu wybrano Grzegorza X. To po tych wyborach zaczęto zamykać kardynałów na czas konklawe."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/1268%E2%80%931271_papal_election"
+          },
+          {
+            "name": "ABC News (archiwum)",
+            "url": "https://web.archive.org/web/20180320091040/https://abcnews.go.com/WNT/Pope/story?id=681429"
+          }
+        ],
+        "caption": {
+          "credit": "Eccekevin / Wikimedia Commons",
+          "text": "Wizerunek Grzegorza X, papieża wybranego po prawie trzech latach obrad. Fresk z katedry w Arezzo."
+        },
+        "insta": {
+          "tytul": "Wybór papieża trwał kiedyś prawie 3 lata. Kardynałom zdjęto dach",
+          "opis": "Mieszkańcy Viterbo mieli dość: zamknęli kardynałów, dali chleb i wodę, a potem rozebrali dach. Stąd wzięło się konklawe."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Gregory_X%2C_Buffalmacco%2C_Arezzo_Cathedral.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Gregory_X,_Buffalmacco,_Arezzo_Cathedral.jpg",
+          "credit": "Eccekevin / Wikimedia Commons, domena publiczna",
+          "alt": "Średniowieczny fresk przedstawiający papieża Grzegorza X",
+          "caption": "Grzegorz X na fresku w katedrze w Arezzo."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Kolory",
+        "initials": "KO",
+        "category": "Design",
+        "hype": 4,
+        "title": "Najbrzydszy kolor świata ma nazwę: Pantone 448 C. Trafił na paczki papierosów",
+        "summary": "Badacze rynku uznali ten ciemny, zgaszony brąz za najmniej atrakcyjny kolor. Australia w 2012 r. wybrała go na jednolite opakowania papierosów.",
+        "body": [
+          "Pantone 448 C to ciemny, zgaszony brąz nazywany nieoficjalnie „najbrzydszym kolorem świata”. W 2012 roku Australia wybrała go na jednolite opakowania tytoniu, bo badania rynku pokazały, że odbiorcy uznali go za najmniej atrakcyjny.",
+          "Australijskie ministerstwo zdrowia nazwało go najpierw „oliwkowym”, ale zmieniło opis po protestach stowarzyszenia producentów oliwek."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pantone_448_C"
+          },
+          {
+            "name": "Evening Standard",
+            "url": "https://www.standard.co.uk/lifestyle/the-worlds-ugliest-colour-is-pantone-448c-experts-say-a3265856.html"
+          }
+        ],
+        "caption": {
+          "credit": "علاء / Wikimedia Commons",
+          "text": "Próbka koloru Pantone 448 C, uznanego w badaniach za najmniej atrakcyjny."
+        },
+        "insta": {
+          "tytul": "Najbrzydszy kolor świata to Pantone 448 C. Tak, ten brąz",
+          "opis": "Australia dała go na paczki papierosów, żeby nikogo nie kusiły. Producenci oliwek oprotestowali nazwę „oliwkowy”."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pantone_448_C.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Pantone_448_C.png",
+          "credit": "علاء / Wikimedia Commons, domena publiczna",
+          "alt": "Prostokąt w ciemnym, zgaszonym brązowym kolorze Pantone 448 C",
+          "caption": "Próbka koloru Pantone 448 C."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Vermont",
+        "initials": "VT",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Na cmentarzu w Vermont leży egipski książę. Ma najstarszą datę śmierci na nagrobku w USA",
+        "summary": "W Middlebury pochowano szczątki przypisywane synowi faraona Senusreta III. Data śmierci na nagrobku to ok. 1883 r. p.n.e.",
+        "body": [
+          "Amun-Her-Khepesh-Ef miał być synem faraona Senusreta III i zmarł ok. 1883 roku p.n.e. Jego szczątki spoczywają na cmentarzu w Middlebury w stanie Vermont, a nagrobek ma najwcześniejszą datę śmierci w Stanach Zjednoczonych.",
+          "Tożsamości zmarłego nigdy nie potwierdzono. Szczątki były w złym stanie i zostały skremowane, więc ekshumacja nic by już nie dała."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Amun-Her-Khepesh-Ef_(son_of_Senusret_III)"
+          },
+          {
+            "name": "Atlas Obscura",
+            "url": "http://www.atlasobscura.com/places/grave-of-amum-her-khepesh-ef"
+          }
+        ],
+        "caption": {
+          "credit": "Rutland Daily Herald / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie z gazety pokazujące zaśnieżony grób egipskiego księcia w Middlebury."
+        },
+        "insta": {
+          "tytul": "W Vermont jest grób egipskiego księcia sprzed prawie 4 tys. lat",
+          "opis": "Na nagrobku data śmierci ok. 1883 r. p.n.e. Najstarsza w całych USA, choć nikt nie potwierdził, kto tam naprawdę leży."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rutland_Daily_Herald_-_Snow_Falls_Again_on_Egyptian_Prince%27s_Tomb_at_Middlebury_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Rutland_Daily_Herald_-_Snow_Falls_Again_on_Egyptian_Prince%27s_Tomb_at_Middlebury_(cropped).jpg",
+          "credit": "Rutland Daily Herald / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie zaśnieżonego nagrobka na cmentarzu w Middlebury",
+          "caption": "Grób egipskiego księcia w Middlebury na zdjęciu z Rutland Daily Herald."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Krasnale ogrodowe",
+        "initials": "KR",
+        "category": "Kultura",
+        "hype": 3,
+        "title": "Ludzie porywają krasnale ogrodowe i wysyłają właścicielom ich zdjęcia z podróży",
+        "summary": "Zabawa nazywa się „gnoming”: krasnala fotografuje się na tle słynnych miejsc. Czasem bez wiedzy właściciela, któremu potem przychodzą zdjęcia.",
+        "body": [
+          "„Podróżujący krasnal” to ogrodowa figurka zabierana w podróż i fotografowana przy znanych zabytkach. Bywa, że ktoś zabiera krasnala z cudzego ogrodu, wysyła właścicielowi zdjęcia z wyprawy, a na koniec go oddaje. Takie historie trafiały do mediów na całym świecie.",
+          "We Francji działał nawet „Front Wyzwolenia Krasnali Ogrodowych”, który zabierał figurki bez zamiaru oddania, by „uwolnić je na wolność”. Kończyło się to czasem grzywnami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Travelling_gnome"
+          },
+          {
+            "name": "Mental Floss",
+            "url": "https://www.mentalfloss.com/article/68093/strange-practice-gnoming"
+          }
+        ],
+        "caption": {
+          "credit": "Patrickneil / Wikimedia Commons",
+          "text": "Podróżujący krasnal sfotografowany w Londynie, typowe zdjęcie z tej zabawy."
+        },
+        "insta": {
+          "tytul": "Ludzie porywają krasnale ogrodowe i wysyłają właścicielom zdjęcia z ich podróży",
+          "opis": "To się nazywa gnoming. We Francji był nawet front, który „uwalniał” krasnale z ogródków."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Woody_London.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Woody_London.jpg",
+          "credit": "Patrickneil / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Krasnal ogrodowy sfotografowany na tle Londynu",
+          "caption": "Podróżujący krasnal w Londynie."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Programowanie",
+        "initials": "IO",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Istnieje konkurs na najbardziej nieczytelny kod. Działa od lat i ma już 28 edycji",
+        "summary": "International Obfuscated C Code Contest nagradza programy w języku C, które działają, ale są napisane tak, by nikt nie mógł ich zrozumieć.",
+        "body": [
+          "IOCCC to konkurs programistyczny na najbardziej pomysłowo zaciemniony kod w języku C. Organizatorzy opisują go jako świętowanie nieprzejrzystej składni C.",
+          "Zgłoszenia oceniają anonimowo sędziowie Leonid A. Broukhis i Landon Curt Noll. Zwycięzców 28. edycji (2025/26) ogłoszono na transmisji 6 czerwca 2026 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/International_Obfuscated_C_Code_Contest"
+          },
+          {
+            "name": "PC World NZ (archiwum)",
+            "url": "https://web.archive.org/web/20130210081342/http://pcworld.co.nz/pcworld/pcw.nsf/how-to/beyond-the-command-line"
+          }
+        ],
+        "caption": {
+          "credit": "Matt Zucker / Wikimedia Commons",
+          "text": "Logo konkursu IOCCC, w którym wygrywa najbardziej nieczytelny działający kod."
+        },
+        "insta": {
+          "tytul": "Jest konkurs na kod, którego nikt nie umie przeczytać",
+          "opis": "IOCCC nagradza programy w C, które działają, ale wyglądają jak szyfr. Było już 28 edycji."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/IOCCC.png",
+          "href": "https://commons.wikimedia.org/wiki/File:IOCCC.png",
+          "credit": "Matt Zucker / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Logo International Obfuscated C Code Contest",
+          "caption": "Logo konkursu IOCCC."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-12": {
     "date": "2026-11-12",
     "ryby": [],
