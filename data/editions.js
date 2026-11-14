@@ -5,6 +5,106 @@ window.HYPERS_EDITIONS = {
     "ryby": [],
     "luz": [
       {
+        "region": "pl",
+        "published": "2026-11-13",
+        "who": "Mandzio",
+        "initials": "MA",
+        "category": "Program",
+        "hype": 4,
+        "title": "Mandzio wystartował z programem „Gamemaster”. 13 twórców gra o przetrwanie w grach opartych na blefie",
+        "summary": "Pierwszy odcinek programu Mandzia i Kolegi Ignacego pojawił się w piątek o 17:00 na głównym kanale Mandzia. Wśród 13 uczestników są m.in. Gimper, Izak, Żabson, Kaluch i Kasia Babis.",
+        "body": [
+          "Mandzio ruszył z nowym formatem „Gamemaster”, który przygotował razem z Kolegą Ignacym. Premierę pierwszego odcinka zapowiedział na piątek 13 listopada o 17:00 na swoim głównym kanale YouTube.",
+          "To program eliminacyjny oparty na grach społecznych: uczestnicy blefują, zawierają sojusze i zdradzają się nawzajem, a celem jest przetrwanie do samego końca. Według zapowiedzi dozwolone jest wszystko poza przemocą.",
+          "W obsadzie jest 13 twórców: Gimper, Izak, Klamer, Remsua, Yoshi, Maciek zDupy, Prostracja, MokrySuchar, Żabson, Konopski, Kasia Babis, Fusiałka i Kaluch.",
+          "Mandzio mówił o projekcie już w marcu. Liczby odcinków ani nagrody twórcy dotąd nie podali."
+        ],
+        "sources": [
+          {
+            "name": "Mandzio / YouTube",
+            "url": "https://www.youtube.com/watch?v=pO0pvaGSohw",
+            "origin": true
+          },
+          {
+            "name": "newsoluszki.com",
+            "url": "https://newsoluszki.com/mandzio-ujawnil-wszystkich-uczestnikow-gamemaster-w-programie-wystapi-13-znanych-tworcow/"
+          },
+          {
+            "name": "zawodtyper.pl",
+            "url": "https://zawodtyper.pl/mandzio-rusza-z-gamemaster-sklad-zasila-remsua-yoshi-prostracja-i/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=pO0pvaGSohw",
+        "caption": {
+          "credit": "Mandzio / YouTube",
+          "text": "Pierwszy odcinek „Gamemastera” na kanale Mandzia. To od niego zaczyna się rywalizacja 13 twórców, o której piszemy wyżej."
+        },
+        "insta": {
+          "tytul": "Mandzio odpalił „Gamemastera”. 13 twórców, blef i zdrady",
+          "opis": "W obsadzie m.in. Gimper, Izak, Żabson i Kaluch. Zasada jest jedna: wszystko poza przemocą."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/pO0pvaGSohw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/pO0pvaGSohw/hqdefault.jpg",
+          "credit": "Mandzio / YouTube",
+          "href": "https://www.youtube.com/watch?v=pO0pvaGSohw",
+          "alt": "Miniatura pierwszego odcinka programu Gamemaster",
+          "caption": "Miniatura pierwszego odcinka „Gamemastera”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-14",
+        "who": "izak",
+        "initials": "IZ",
+        "category": "Oświadczenie",
+        "hype": 3,
+        "title": "Izak odpowiedział na nową falę hejtu za zdradę sprzed dwóch lat. Gimper omówił sprawę w swoim przeglądzie",
+        "summary": "Od ponad tygodnia w sieci krążą klipy i przeróbki wyśmiewające Izaka za sprawę z 2024 roku. Streamer odniósł się do nich pod koniec transmisji 12 listopada, a Gimper poświęcił temu fragment swojego filmu.",
+        "body": [
+          "We wrześniu 2024 roku Izak przyznał się do zdrady i przeprosił publicznie. W ostatnich dniach temat wrócił: w sieci, głównie na TikToku, krążą klipy, przeróbki i wpisy, które go wyśmiewają. Viralem stał się m.in. fragment jego streamu, w którym ktoś krzyczy o zdradzie.",
+          "Izak odpowiedział na to pod koniec transmisji 12 listopada. Według relacji serwisów powiedział, że wielokrotnie przepraszał, od lat pracuje nad naprawą swojego błędu i że w jego małżeństwie sprawy są przepracowane. Dodał, że zdradę należy potępiać, ale część zarzutów wobec niego jest nieprawdziwa, a niektórzy robią na tym wyświetlenia.",
+          "Streamer zapowiedział, że dalej będzie streamował i komentował esport. Wspomniał też o pomyśle książki o hejcie w internecie, z której dochód trafiłby do fundacji. Na razie to tylko pomysł, a nie zapowiedziany projekt.",
+          "Gimper omówił sprawę w sobotnim przeglądzie wydarzeń w fragmencie „Izak zdradza prawdę o swojej zdradzie”."
+        ],
+        "sources": [
+          {
+            "name": "Gimper / YouTube",
+            "url": "https://www.youtube.com/watch?v=zcEuBAaOl68",
+            "origin": true
+          },
+          {
+            "name": "zawodtyper.pl",
+            "url": "https://zawodtyper.pl/izak-wrocil-do-tematu-zdrady-ma-dosc-upokarzania-w-sieci/"
+          },
+          {
+            "name": "boop.pl",
+            "url": "https://boop.pl/rozrywka/izak-skomentowal-zachowanie-pashy-mowi-ze-upadlismy-jako-spoleczenstwo"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=zcEuBAaOl68",
+        "caption": {
+          "credit": "Gimper / YouTube",
+          "text": "Przegląd Gimpera z 14 listopada, w którym jeden z fragmentów dotyczy odpowiedzi Izaka. Sam Izak mówił o sprawie na swoim streamie na Twitchu."
+        },
+        "insta": {
+          "tytul": "Izak odpowiedział na hejt za zdradę sprzed dwóch lat",
+          "opis": "Mówi, że przepraszał wiele razy i nie zamierza znikać. Dalej będzie streamował i komentował esport."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/zcEuBAaOl68/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/zcEuBAaOl68/hqdefault.jpg",
+          "credit": "Gimper / YouTube",
+          "href": "https://www.youtube.com/watch?v=zcEuBAaOl68",
+          "alt": "Miniatura filmu Gimpera o Izaku",
+          "caption": "Miniatura filmu Gimpera „Izak nie wytrzymuje hejtu za zdradę”."
+        },
+        "slot": "15:00"
+      },
+      {
         "region": "world",
         "published": "2026-11-14",
         "who": "GTA 6",
@@ -242,6 +342,293 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Madagaskar",
+        "initials": "MG",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Na Madagaskarze żyją żabki z rodzaju Mini. Gatunki nazywają się Mini ature, Mini mum i Mini scule",
+        "summary": "Naukowcy opisali je w 2019 roku. Nazwy to gra słów: razem z nazwą rodzaju dają angielskie „miniature”, „minimum” i „minuscule”.",
+        "body": [
+          "Rodzaj Mini i jego trzy gatunki opisał w 2019 roku zespół, którym kierował Mark Scherz. Żabki żyją w ściółce nizinnych lasów na południowym wschodzie Madagaskaru.",
+          "Mini mum i Mini scule mierzą ok. 8–11,5 mm i należą do najmniejszych żab świata. Ich nazwy czytane razem z nazwą rodzaju tworzą angielskie słowa oznaczające coś malutkiego."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mini_(frog)"
+          },
+          {
+            "name": "PLOS ONE / PMC",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436692"
+          }
+        ],
+        "insta": {
+          "tytul": "Te żabki naukowcy nazwali Mini mum i Mini scule. Serio",
+          "opis": "Rodzaj Mini z Madagaskaru ma trzy gatunki: Mini ature, Mini mum i Mini scule. Mają ok. centymetra długości."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mini_mum_03.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mini_mum_03.jpg",
+          "credit": "Mark D. Scherz i in. / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Malutka brązowa żabka Mini mum",
+          "caption": "Żabka Mini mum, jeden z trzech gatunków rodzaju Mini."
+        },
+        "caption": {
+          "credit": "Mark D. Scherz i in. / Wikimedia Commons, CC BY-SA 4.0",
+          "text": "Na zdjęciu żabka Mini mum, jedna z bohaterek ciekawostki. Widać, jak drobne są żaby z tego rodzaju."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Nowa Zelandia",
+        "initials": "NZ",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Nowa Zelandia zbudowała w czasie wojny czołg z blachy falistej na traktorze",
+        "summary": "Czołg Boba Semple'a powstał bez planów i rysunków technicznych. Miał tyle wad, że nigdy nie trafił do produkcji seryjnej ani do walki.",
+        "body": [
+          "W czasie II wojny światowej Nowa Zelandia obawiała się japońskiej inwazji i budowała sprzęt z tego, co miała pod ręką. Minister robót publicznych Bob Semple wymyślił czołg z blachy falistej na podwoziu traktora.",
+          "Maszynę zbudowano bez formalnych planów. Miała liczne wady konstrukcyjne i praktyczne, więc nie weszła do masowej produkcji i nigdy nie walczyła."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bob_Semple_tank"
+          },
+          {
+            "name": "Tank Encyclopedia",
+            "url": "https://tanks-encyclopedia.com/ww2/NewZealand/Bob_Semple_Tank.php"
+          }
+        ],
+        "insta": {
+          "tytul": "Nowa Zelandia zrobiła czołg z blachy falistej i traktora",
+          "opis": "Budowali go bez żadnych planów. Wad było tyle, że nigdy nie pojechał na wojnę."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pratt%2C_J%2C_fl_1974_-_Photograph_of_tank_designed_by_Robert_Semple.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Pratt,_J,_fl_1974_-_Photograph_of_tank_designed_by_Robert_Semple.jpg",
+          "credit": "Nieznany fotograf / Wikimedia Commons, domena publiczna",
+          "alt": "Kanciasty czołg z blachy falistej",
+          "caption": "Czołg zaprojektowany przez Boba Semple'a."
+        },
+        "caption": {
+          "credit": "Nieznany fotograf / Wikimedia Commons, domena publiczna",
+          "text": "Zdjęcie pokazuje czołg Boba Semple’a. Widać kanciasty pancerz z blachy falistej osadzony na traktorze."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Wolfgang Pauli",
+        "initials": "WP",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Fizycy żartowali, że sprzęt w laboratorium psuje się, gdy wchodzi do niego Wolfgang Pauli",
+        "summary": "Nazwali to „efektem Pauliego”. Żartem mówiono, że to drugi zakaz Pauliego: działające urządzenie i Pauli nie mogą być w jednym pokoju.",
+        "body": [
+          "Efekt Pauliego to rzekoma skłonność aparatury do awarii w obecności pewnych osób, a pierwotnie austriackiego fizyka Wolfganga Pauliego.",
+          "Nie ma nic wspólnego z prawdziwym zakazem Pauliego z fizyki kwantowej. Naukowcy nazywali go żartobliwie „drugim zakazem Pauliego”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pauli_effect"
+          },
+          {
+            "name": "paulijungunusmundus.eu",
+            "url": "http://paulijungunusmundus.eu/synw/pauli_parapsychology_p1.htm"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten fizyk podobno psuł sprzęt samym wejściem do laboratorium",
+          "opis": "Koledzy Wolfganga Pauliego nazwali to „efektem Pauliego”. Działające urządzenie i Pauli w jednym pokoju? Nie da się."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, CC BY 4.0",
+          "alt": "Portret Wolfganga Pauliego",
+          "caption": "Wolfgang Pauli, od którego nazwiska wziął się żartobliwy efekt."
+        },
+        "caption": {
+          "credit": "Autor nieznany / Wikimedia Commons, CC BY 4.0",
+          "text": "Portret Wolfganga Pauliego, fizyka, od którego nazwiska wziął się żartobliwy „efekt Pauliego”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Gary Larson",
+        "initials": "GL",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Rysownik komiksów dostał na swoją cześć wesz. Żyje tylko na sowach",
+        "summary": "Wesz Strigiphilus garylarsoni nazwano na cześć Gary'ego Larsona, autora komiksu „The Far Side”. Opisał ją biolog Dale Clayton w 1990 roku.",
+        "body": [
+          "Strigiphilus garylarsoni to gatunek wszoła żyjący wyłącznie na sowach. Pierwszy okaz znaleziono na sowie białolicej w Zambii.",
+          "Biolog Dale H. Clayton opisał gatunek w 1990 roku i nazwał go na cześć Gary'ego Larsona, rysownika znanego z komiksów o zwierzętach i naukowcach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Strigiphilus_garylarsoni"
+          },
+          {
+            "name": "University of Utah (@theU)",
+            "url": "https://web.archive.org/web/20201123114321/https://attheu.utah.edu/facultystaff/the-far-side-of-science/"
+          }
+        ],
+        "insta": {
+          "tytul": "Autor „The Far Side” ma na swoją cześć… wesz",
+          "opis": "Strigiphilus garylarsoni żyje tylko na sowach. Biolog nazwał ją tak w 1990 roku."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg",
+          "credit": "The Trustees of the Natural History Museum, London / Wikimedia Commons, CC BY 4.0",
+          "alt": "Okaz wszoła pod mikroskopem",
+          "caption": "Okaz Strigiphilus garylarsoni z kolekcji Muzeum Historii Naturalnej w Londynie."
+        },
+        "caption": {
+          "credit": "The Trustees of the Natural History Museum, London / Wikimedia Commons, CC BY 4.0",
+          "text": "Okaz wszoła Strigiphilus garylarsoni z kolekcji londyńskiego muzeum. To ten gatunek nazwano na cześć Gary’ego Larsona."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Morskie potwory",
+        "initials": "JH",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Żeglarzom sprzedawano „smoki” i „demony”, które były wysuszonymi płaszczkami",
+        "summary": "Takie okazy nazywa się Jenny Haniver. Zwłoki płaszczki lub raji przycinano i suszono tak, by przypominały fantastyczne stworzenie.",
+        "body": [
+          "Jenny Haniver to ręcznie przerobione i wysuszone ciało płaszczki lub raji, które ma wyglądać jak demon, smok albo inne zmyślone stworzenie.",
+          "Zwyczaj sięga XVI wieku. Takie „potwory” sprzedawano jako osobliwości żeglarzom i kolekcjonerom."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Jenny_Haniver"
+          },
+          {
+            "name": "Poems Underwater",
+            "url": "https://poemsunderwater.wordpress.com/tag/jenny-hanivers/"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten „smok” to tak naprawdę wysuszona płaszczka",
+          "opis": "Od XVI wieku przerabiano płaszczki na potwory i sprzedawano je żeglarzom. Nazywa się je Jenny Haniver."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jenny_Haniver1218.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Jenny_Haniver1218.jpg",
+          "credit": "M.Violante / Wikimedia Commons, CC BY 2.5",
+          "alt": "Wysuszona płaszczka przerobiona na stworzenie z twarzą",
+          "caption": "Jenny Haniver, czyli płaszczka przerobiona na „potwora”."
+        },
+        "caption": {
+          "credit": "M.Violante / Wikimedia Commons, CC BY 2.5",
+          "text": "Przykład Jenny Haniver, czyli wysuszonej płaszczki przerobionej tak, by przypominała potwora."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Angola",
+        "initials": "AO",
+        "category": "Architektura",
+        "hype": 3,
+        "title": "W stolicy Angoli stoi żelazny pałac, o którym legenda mówi, że zaprojektował go Eiffel",
+        "summary": "Palácio de Ferro w Luandzie to żółty budynek z żelaza z czasów kolonialnych. Nikt nie wie na pewno, kto go zbudował.",
+        "body": [
+          "Palácio de Ferro, czyli Żelazny Pałac, to zabytkowy budynek w Luandzie. Uważa się, że zaprojektował go Gustave Eiffel, twórca wieży w Paryżu, albo ktoś z nim związany.",
+          "Pewnych dokumentów na ten temat nie ma, dlatego autorstwo pałacu pozostaje legendą."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_de_Ferro"
+          },
+          {
+            "name": "blnz.com (archiwum)",
+            "url": "https://web.archive.org/web/20110708013715/http://www.blnz.com/news/2009/01/22/Luanda_breathes_life_into_once-rusty_9775.html"
+          }
+        ],
+        "insta": {
+          "tytul": "W Angoli stoi żelazny pałac, który podobno zaprojektował Eiffel",
+          "opis": "Nikt nie wie na pewno, kto go zbudował. Legenda mówi, że twórca wieży Eiffla."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pal%C3%A1cio_de_Ferro.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Ferro.jpg",
+          "credit": "Zorglub / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Żółty budynek z żelaznymi balkonami",
+          "caption": "Palácio de Ferro w Luandzie."
+        },
+        "caption": {
+          "credit": "Zorglub / Wikimedia Commons, CC BY-SA 3.0",
+          "text": "Żelazny Pałac w Luandzie, o którym mowa w ciekawostce. Widać żółtą elewację i żelazne balkony."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Anglia",
+        "initials": "UF",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Na angielskim wzgórzu jest prehistoryczny koń długi na 110 metrów. Najlepiej widać go z powietrza",
+        "summary": "Biały Koń z Uffington to rowy wypełnione kruszoną kredą na zboczu wzgórza w Oxfordshire.",
+        "body": [
+          "Biały Koń z Uffington to prehistoryczna figura o długości ok. 110 metrów. Tworzą ją głębokie rowy wypełnione kruszoną białą kredą.",
+          "Leży na zboczu Whitehorse Hill w Oxfordshire. Najlepiej widać ją z powietrza albo z drugiej strony doliny."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Uffington_White_Horse"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/media/2003/may/04/channel4.bigbrother"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten koń na wzgórzu ma 110 metrów i jest prehistoryczny",
+          "opis": "Zrobiono go z rowów wypełnionych białą kredą. Całego najlepiej widać z samolotu."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Uffington-White-Horse-sat.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Uffington-White-Horse-sat.jpg",
+          "credit": "USGS / Wikimedia Commons, domena publiczna",
+          "alt": "Zdjęcie z góry białej figury konia na zielonym zboczu",
+          "caption": "Biały Koń z Uffington widziany z góry."
+        },
+        "caption": {
+          "credit": "USGS / Wikimedia Commons, domena publiczna",
+          "text": "Biały Koń z Uffington na zdjęciu z góry. Z tej perspektywy widać całą figurę z kredy."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-14",

@@ -2,6 +2,8 @@
 window.HYPERS_URLS = {
  "2026-11-14": {
   "luz": [
+   "artykuly/2026-11-14/mandzio-wystartowal-z-programem-gamemaster-13-tworcow-gra.html",
+   "artykuly/2026-11-14/izak-odpowiedzial-na-nowa-fale-hejtu-za-zdrade-sprzed-dwoch-lat.html",
    "artykuly/2026-11-14/mapa-gta-6-wyciekla-tydzien-przed-premiera-pokazal-ja-plakat-z-edycji.html",
    "artykuly/2026-11-14/gta-6-bedzie-mialo-wlasna-kreskowke-pokazano-zwiastun-macca-friends.html",
    "artykuly/2026-11-14/carlsen-moze-stracic-pozycje-numer-1-po-15-latach-gothamchess.html",
@@ -9,6 +11,13 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-14/kanal-horror-skunx-zrobil-transmisje-slubu-dwoch-memowych-postaci.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-14/na-madagaskarze-zyja-zabki-z-rodzaju-mini-gatunki-nazywaja-sie-mini.html",
+   "artykuly/2026-11-14/nowa-zelandia-zbudowala-w-czasie-wojny-czolg-z-blachy-falistej.html",
+   "artykuly/2026-11-14/fizycy-zartowali-ze-sprzet-w-laboratorium-psuje-sie-gdy-wchodzi.html",
+   "artykuly/2026-11-14/rysownik-komiksow-dostal-na-swoja-czesc-wesz-zyje-tylko-na-sowach.html",
+   "artykuly/2026-11-14/zeglarzom-sprzedawano-smoki-i-demony-ktore-byly-wysuszonymi.html",
+   "artykuly/2026-11-14/w-stolicy-angoli-stoi-zelazny-palac-o-ktorym-legenda-mowi.html",
+   "artykuly/2026-11-14/na-angielskim-wzgorzu-jest-prehistoryczny-kon-dlugi-na-110-metrow.html",
    "artykuly/2026-11-14/w-czasie-ii-wojny-swiatowej-us-navy-miala-plywajace-fabryki-lodow.html",
    "artykuly/2026-11-14/w-1899-r-wymyslono-auto-z-drewniana-konska-glowa-z-przodu-zeby-nie.html",
    "artykuly/2026-11-14/ostatnia-inwazja-na-wielka-brytanie-skonczyla-sie-w-2-dni-francuzi.html",
