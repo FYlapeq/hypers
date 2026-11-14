@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-14": {
+  "luz": [
+   "artykuly/2026-11-14/mapa-gta-6-wyciekla-tydzien-przed-premiera-pokazal-ja-plakat-z-edycji.html",
+   "artykuly/2026-11-14/gta-6-bedzie-mialo-wlasna-kreskowke-pokazano-zwiastun-macca-friends.html",
+   "artykuly/2026-11-14/carlsen-moze-stracic-pozycje-numer-1-po-15-latach-gothamchess.html",
+   "artykuly/2026-11-14/ishowspeed-pokazal-swoj-nowy-skin-w-fortnite-to-juz-jego-drugi.html",
+   "artykuly/2026-11-14/kanal-horror-skunx-zrobil-transmisje-slubu-dwoch-memowych-postaci.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-14/w-czasie-ii-wojny-swiatowej-us-navy-miala-plywajace-fabryki-lodow.html",
+   "artykuly/2026-11-14/w-1899-r-wymyslono-auto-z-drewniana-konska-glowa-z-przodu-zeby-nie.html",
+   "artykuly/2026-11-14/ostatnia-inwazja-na-wielka-brytanie-skonczyla-sie-w-2-dni-francuzi.html",
+   "artykuly/2026-11-14/11-listopada-to-w-chinach-dzien-singla-bo-jedynki-wygladaja-jak-gole.html",
+   "artykuly/2026-11-14/byl-portal-spolecznosciowy-w-ktorym-dalo-sie-pisac-wylacznie-emoji.html"
+  ]
+ },
  "2026-11-13": {
   "luz": [
    "artykuly/2026-11-13/gta-6-dostalo-pierwsza-latke-jeszcze-przed-premiera-ma-ok-1-gb-i-jest.html",

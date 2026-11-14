@@ -1,5 +1,454 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-14": {
+    "date": "2026-11-14",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Mapa GTA 6 wyciekła tydzień przed premierą. Pokazał ją plakat z edycji kolekcjonerskiej",
+        "summary": "Pełna mapa Leonidy trafiła do sieci z pudełka Collector's Box wystawionego na evencie Rockstara w Manchesterze. Temat otworzył piątkowy odcinek LootBoxa. Rockstar nie skomentował wycieku.",
+        "body": [
+          "LootBox zaczął piątkowy przegląd newsów od wycieku mapy GTA 6. To pierwszy temat odcinka opublikowanego 13 listopada, obok informacji o przedsprzedaży gry.",
+          "Według Beebom i ComicBook mapa pochodzi z Collector's Box, czyli edycji kolekcjonerskiej za ok. 400 dolarów. Pudełko było wystawione na evencie Rockstara przy Selfridges w Manchesterze (Exchange Square). Najpierw złożoną mapę widać było za szybą, a 12 listopada pełne zdjęcie trafiło do relacji na Instagramie. Konto, które je wrzuciło, zostało potem usunięte, ale screen zdążył obiec X.",
+          "Na mapie widać m.in. Goose Key, Pelican Valley, Lummox County, Manzana, Moreau, Key Lento i Port Gellhorn. Beebom naliczył pięć dużych hrabstw, 11 wysp i 13 miast. Są też rysunki zwierząt, pojazdów i charakterystycznych miejsc.",
+          "UNILAD Tech przypomina, że mapa i tak będzie dostępna za darmo w wersji cyfrowej od premiery. Rockstar nie odniósł się do wycieku. GTA 6 wychodzi 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=6HNwDgkpe9A",
+            "origin": true
+          },
+          {
+            "name": "Beebom",
+            "url": "https://beebom.com/gta-6-physical-map-collectors-box-leaked/"
+          },
+          {
+            "name": "ComicBook",
+            "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-vice-city-map-leak/"
+          },
+          {
+            "name": "UNILAD Tech",
+            "url": "https://www.uniladtech.com/gaming/gta-6-map-leak-physical-poster-collectors-edition-412373-20261113"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=6HNwDgkpe9A",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Wyciek mapy GTA 6 to pierwszy temat piątkowego odcinka LootBoxa. Kanał zestawił go z danymi o przedsprzedaży gry na tydzień przed premierą."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/6HNwDgkpe9A/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/6HNwDgkpe9A/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=6HNwDgkpe9A",
+          "alt": "Miniatura odcinka LootBoxa o wycieku mapy GTA 6",
+          "caption": "Miniatura odcinka LootBoxa z 13 listopada, który zaczyna się od wycieku mapy GTA 6."
+        },
+        "insta": {
+          "tytul": "Mapa GTA 6 wyciekła tydzień przed premierą. Przez plakat z edycji kolekcjonerskiej",
+          "opis": "Ktoś wrzucił na Instagram mapę z pudełka wystawionego w Manchesterze. Konto zniknęło, ale screeny już krążą. Rockstar milczy."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "GTA 6 będzie miało własną kreskówkę. Pokazano zwiastun „Macca & Friends” z aligatorem Maccą",
+        "summary": "Do sieci trafił teaser „Macca & Friends”, animowanego serialu, który leci w telewizji w świecie GTA 6. Bohaterem jest aligator Macca, znany już z promocji gry w Miami.",
+        "body": [
+          "13 listopada pokazano teaser „Macca & Friends”, animowanego serialu, który istnieje wewnątrz GTA 6. Gematsu przypisuje publikację Rockstarowi, a PC Gamer pisze, że zwiastun ujawnił serwis DiscussingFilm i że Rockstar sam go nie komentował.",
+          "Bohaterem jest aligator Macca i jego przyjaciele z mokradeł Leonidy. PC Gamer opisuje ich jako zwierzęta-policjantów, którzy próbują ogarnąć swoje sprawy, i porównuje klimat do Scooby-Doo.",
+          "Według PC Gamera serial będzie leciał na Weazel TV, stacji telewizyjnej ze świata GTA, od 19 listopada, czyli od premiery gry. Maccę widać było już wcześniej w promocji: na muralu przy BurgerShot w Kaseya Center w Miami i na billboardzie w tym mieście.",
+          "Beebom i Gematsu potwierdzają, że Macca to postać z gry. Szczegółów fabuły serialu poza teaserem na razie nie ma."
+        ],
+        "sources": [
+          {
+            "name": "Gematsu",
+            "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-in-game-animated-series-macca-friends-teaser-trailer"
+          },
+          {
+            "name": "PC Gamer",
+            "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/"
+          },
+          {
+            "name": "Beebom",
+            "url": "https://beebom.com/gta-6-macca-and-friends-first-teaser-revealed/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=UhPvgbP7ps8",
+        "caption": {
+          "credit": "Macca & Friends / YouTube",
+          "text": "Teaser serialu, który gracze zobaczą w telewizji w GTA 6. Pokazuje aligatora Maccę i jego ekipę z mokradeł Leonidy."
+        },
+        "noImage": "nie udało się potwierdzić, czyj kanał opublikował teaser, więc bez kadru; tylko osadzony film",
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy",
+        "hype": 4,
+        "title": "Carlsen może stracić pozycję numer 1 po 15 latach. GothamChess: „To koniec”",
+        "summary": "Fabiano Caruana dobił do 2800 punktów w rankingu na żywo i traci do Magnusa Carlsena tylko 7,2 punktu. GothamChess skomentował to krótkim filmem „THIS IS THE END”, który ma ponad 750 tys. wyświetleń.",
+        "body": [
+          "Levy Rozman, czyli GothamChess, opublikował w nocy short „THIS IS THE END”. Do 6:16 w sobotę obejrzało go ok. 750 tys. osób. Widzowie w komentarzach liczą punkty i spierają się, czy Caruana był już kiedyś tak blisko Carlsena.",
+          "Chodzi o turniej Total Chess World Championship Tour w Budapeszcie. Według chess.com i agencji PTI Caruana wygrał z Vincentem Keymerem i ma w rankingu na żywo równe 2800 punktów. Carlsen przegrał z Haikiem Martirosyanem, stracił 15,8 punktu i spadł do 2807,2.",
+          "Carlsen jest numerem jeden na świecie bez przerwy od lipca 2011 roku. Ranking na żywo zmienia się po każdej partii, a oficjalną listę FIDE publikuje raz w miesiącu."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/shorts/GXw1kUB2aKg",
+            "origin": true
+          },
+          {
+            "name": "Chess.com",
+            "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4"
+          },
+          {
+            "name": "ThePrint (PTI)",
+            "url": "https://theprint.in/sport/carlsen-risks-losing-world-no-1-spot-after-15-years-as-caruana-gains-ground/3098502/"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/GXw1kUB2aKg",
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Short GothamChess opublikowany po porażce Carlsena z Martirosyanem. Pokazuje, jak mało brakuje Caruanie do pierwszego miejsca."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/GXw1kUB2aKg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/GXw1kUB2aKg/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/shorts/GXw1kUB2aKg",
+          "alt": "Kadr z shorta GothamChess o rankingu Carlsena",
+          "caption": "Kadr z shorta „THIS IS THE END” GothamChess."
+        },
+        "ig": [
+          "gothamchess"
+        ],
+        "insta": {
+          "tytul": "Carlsen może stracić pierwsze miejsce na świecie. Pierwszy raz od 2011 roku",
+          "opis": "Caruana ma 2800 w rankingu na żywo, Carlsen 2807,2. GothamChess skomentował to krótko: „to koniec”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Gry",
+        "hype": 3,
+        "title": "IShowSpeed pokazał swój nowy skin w Fortnite. To już jego drugi z serii Ikon",
+        "summary": "Speed na nocnym streamie odsłonił nowy skin z serii Ikon w Fortnite. Transmisja ma ok. 1,8 mln wyświetleń, a widzowie podkreślają, że to jego druga postać w grze.",
+        "body": [
+          "IShowSpeed opublikował w nocy z piątku na sobotę zapis ponad 2,5-godzinnego streamu „Revealing my new Fortnite Icon skin”. Do 6:16 obejrzało go ok. 1,8 mln osób.",
+          "Ikony to skiny w Fortnite oparte na prawdziwych gwiazdach. Speed dostał pierwszy taki skin w grudniu 2025 roku, przy okazji Winterfestu. Widzowie w komentarzach zwracają uwagę, że teraz ma już dwa.",
+          "Według komentarzy grał na streamie z innymi twórcami, m.in. z Jynxzim. To kolejny dobry tydzień Speeda: kilka dni temu został Streamerem Roku na Streamer Awards."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=Kush1FqnhbU",
+            "origin": true
+          },
+          {
+            "name": "The Express Tribune",
+            "url": "https://tribune.com.pk/story/2583890/fortnite-icon-series-expands-with-ishowspeed-collaboration-during-winterfest-2025"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Kush1FqnhbU",
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Zapis streamu, na którym Speed odsłonił swój nowy skin z serii Ikon. To jego druga postać w Fortnite po skinie z Winterfestu 2025."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Kush1FqnhbU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Kush1FqnhbU/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=Kush1FqnhbU",
+          "alt": "Miniatura streamu IShowSpeeda z nowym skinem w Fortnite",
+          "caption": "Miniatura streamu, na którym Speed pokazał nowy skin."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "insta": {
+          "tytul": "Speed ma już drugi własny skin w Fortnite",
+          "opis": "Pokazał go na nocnym streamie, który ma już ok. 1,8 mln wyświetleń. Pierwszy dostał w grudniu 2025."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Horror Skunx",
+        "initials": "HS",
+        "category": "Internet",
+        "hype": 3,
+        "title": "Kanał Horror Skunx zrobił transmisję ślubu dwóch memowych postaci. Ma 1,8 mln wyświetleń",
+        "summary": "Horror Skunx wyprawił na żywo ślub Lorda Verity i The Aura Farmera, postaci, które zaczęły się od internetowego żartu. Zapis ma ponad 1,8 mln wyświetleń, a obok wyszła piosenka „TAF - The Aura Farmer”.",
+        "body": [
+          "W piątek wieczorem kanał Horror Skunx nadał ponad 1,5-godzinny „Lord Aura Wedding LIVESTREAM”. W opisie zapowiadał ślub, po którym T.A.F. i Verity zostaną „Mr. Aura Farmer” i „Mrs. Verity Farmer”.",
+          "Do 6:16 w sobotę zapis obejrzało ponad 1,8 mln osób, a polubiło ok. 135 tys. Widzowie piszą, że wszystko zaczęło się od jednego żartu, a skończyło na „pierwszym weselu”, na które dostali zaproszenie. Wielu zwraca uwagę, że twórca wzruszył się, widząc liczbę osób na transmisji.",
+          "Równolegle na kanale wyszedł short z piosenką „TAF - The Aura Farmer ft. Larper Larry”, oznaczoną jako oficjalny utwór. Ma ponad 1,1 mln wyświetleń, a w opisie jest link do Spotify."
+        ],
+        "sources": [
+          {
+            "name": "Horror Skunx / YouTube",
+            "url": "https://www.youtube.com/watch?v=P85fx_ECzBY",
+            "origin": true
+          },
+          {
+            "name": "Horror Skunx / YouTube (piosenka)",
+            "url": "https://www.youtube.com/shorts/RVsMPZ-EE5Y"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=P85fx_ECzBY",
+        "caption": {
+          "credit": "Horror Skunx / YouTube",
+          "text": "Zapis transmisji ślubu Lorda Verity i The Aura Farmera. Postacie wyrosły z żartu w społeczności kanału, a ślub obejrzało ponad 1,8 mln osób."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/P85fx_ECzBY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/P85fx_ECzBY/hqdefault.jpg",
+          "credit": "Horror Skunx / YouTube",
+          "href": "https://www.youtube.com/watch?v=P85fx_ECzBY",
+          "alt": "Miniatura transmisji ślubu Lord Aura na kanale Horror Skunx",
+          "caption": "Miniatura transmisji „Lord Aura Wedding”."
+        },
+        "insta": {
+          "tytul": "Internet zrobił prawdziwy ślub dwóch memowych postaci. Ponad 1,8 mln wyświetleń",
+          "opis": "Kanał Horror Skunx wyprawił na żywo ślub Lorda Verity i Aura Farmera. Zaczęło się od żartu, skończyło na wzruszonym twórcy."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "US Navy",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W czasie II wojny światowej US Navy miała pływające fabryki lodów",
+        "summary": "Amerykańska marynarka zbudowała barki-chłodnie, które produkowały lody dla marynarzy na Pacyfiku. Powstały trzy takie jednostki.",
+        "body": [
+          "Oficjalnie nazywały się BRL (Barge, Refrigerated, Large), ale przylgnęła do nich nazwa „ice cream barge”. Były to holowane barki-chłodnie, które na Pacyfiku przechowywały mrożone jedzenie i robiły lody w dużych ilościach dla marynarzy i piechoty morskiej.",
+          "Zbudowano trzy: USS Hydrogen, USS Calcium i USS Antimony."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ice_cream_barge"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com/us-navy-wwii-ice-cream-ship-photos-2024-7"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Barge%2C_Refrigerated%2C_Large_-_1945_advertisement.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Barge,_Refrigerated,_Large_-_1945_advertisement.jpg",
+          "credit": "National Dairy Products Corporation / Wikimedia Commons, Public domain",
+          "alt": "Reklama z 1945 roku przedstawiająca pływającą barkę-chłodnię marynarki USA",
+          "caption": "Reklama z 1945 roku pokazująca barkę-chłodnię, która robiła lody dla marynarzy."
+        },
+        "insta": {
+          "tytul": "W czasie II wojny US Navy miała pływające fabryki lodów",
+          "opis": "Barki-chłodnie robiły lody dla marynarzy na Pacyfiku. Zbudowano trzy takie jednostki 🍦"
+        },
+        "caption": {
+          "credit": "National Dairy Products Corporation / Wikimedia Commons",
+          "text": "Reklama z 1945 roku pokazująca barkę-chłodnię, która robiła lody dla marynarzy. Amerykańska marynarka zbudowała barki-chłodnie, które produkowały lody dla marynarzy na Pacyfiku."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Motoryzacja",
+        "initials": "MO",
+        "category": "Technologia",
+        "hype": 5,
+        "title": "W 1899 r. wymyślono auto z drewnianą końską głową z przodu, żeby nie straszyło koni",
+        "summary": "Horsey Horseless miał wyglądać jak powóz z koniem, żeby prawdziwe konie na drodze się go nie bały. Głowa była pusta w środku i służyła za zbiornik paliwa.",
+        "body": [
+          "Projekt w 1899 roku przygotował Uriah Smith, kaznodzieja z Battle Creek w stanie Michigan. Wierzono, że samochód przypominający konia z bryczką nie spłoszy zwierząt na drodze.",
+          "Pusta drewniana głowa z szyją miała mieścić paliwo. Do dziś nie wiadomo, czy taki samochód kiedykolwiek naprawdę zbudowano."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Horsey_Horseless"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/2015/02/well-didnt-work-1899-car-full-size-wooden-horse-head-stuck-front/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Horsey_Horseless_-_1899_horse-headed_car_by_Uriah_Smith.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Horsey_Horseless_-_1899_horse-headed_car_by_Uriah_Smith.jpg",
+          "credit": "Uriah Smith / Wikimedia Commons, Public domain",
+          "alt": "Rysunek samochodu z 1899 roku z drewnianą końską głową z przodu",
+          "caption": "Rysunek Horsey Horseless, auta z końską głową, z 1899 roku."
+        },
+        "insta": {
+          "tytul": "W 1899 ktoś wymyślił auto z końską głową z przodu. Żeby konie się nie bały",
+          "opis": "Głowa była pusta i służyła za bak. Nie wiadomo nawet, czy ktoś to w ogóle zbudował."
+        },
+        "caption": {
+          "credit": "Uriah Smith / Wikimedia Commons",
+          "text": "Rysunek Horsey Horseless, auta z końską głową, z 1899 roku. Horsey Horseless miał wyglądać jak powóz z koniem, żeby prawdziwe konie na drodze się go nie bały."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Walia",
+        "initials": "WA",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Ostatnia inwazja na Wielką Brytanię skończyła się w 2 dni. Francuzi upili się i poddali",
+        "summary": "W 1797 roku Francuzi wylądowali w Walii koło Fishguard. Po dwóch dniach się poddali, a wielu żołnierzy było wtedy pijanych.",
+        "body": [
+          "Bitwa pod Fishguard toczyła się 22–24 lutego 1797 roku. To ostatnie lądowanie wrogich wojsk na brytyjskiej ziemi, dlatego nazywa się ją ostatnią inwazją na Wielką Brytanię.",
+          "Atak miał tylko odciągnąć uwagę od głównego desantu w Irlandii. Francuzi szybko złożyli broń, a według BBC wielu z nich było pijanych. Bohaterką lokalnej legendy jest Jemima Nicholas, która podobno sama pojmała kilku żołnierzy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Fishguard"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/uk-wales-south-west-wales-22651112"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Goodwick_sands.jpeg",
+          "href": "https://commons.wikimedia.org/wiki/File:Goodwick_sands.jpeg",
+          "credit": "James Baker, J. Bluck / Wikimedia Commons, Public domain",
+          "alt": "Dawna rycina przedstawiająca kapitulację Francuzów na plaży Goodwick Sands",
+          "caption": "Rycina z epoki: kapitulacja francuskich wojsk na plaży Goodwick Sands w 1797 roku."
+        },
+        "insta": {
+          "tytul": "Ostatnia inwazja na Wielką Brytanię trwała 2 dni. Francuzi się upili i poddali",
+          "opis": "Wylądowali w Walii w 1797. Szybko złożyli broń, a wielu żołnierzy było wtedy pijanych."
+        },
+        "caption": {
+          "credit": "James Baker, J. Bluck / Wikimedia Commons",
+          "text": "Rycina z epoki: kapitulacja francuskich wojsk na plaży Goodwick Sands w 1797 roku. W 1797 roku Francuzi wylądowali w Walii koło Fishguard."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Chiny",
+        "initials": "CH",
+        "category": "Kultura",
+        "hype": 3,
+        "title": "11 listopada to w Chinach Dzień Singla, bo jedynki wyglądają jak „gołe patyki”",
+        "summary": "Data 11.11 ma cztery jedynki, a w chińskim slangu „goły patyk” to samotny facet. Dziś to największy dzień zakupów w sieci.",
+        "body": [
+          "Święto zaczęło się od grupki studentów-kawalerów. Wybrali 11 listopada, bo cyfra 1 przypomina goły patyk, czyli w chińskim internetowym slangu nieżonatego mężczyznę.",
+          "W 2009 roku Alibaba zrobiła z tego dnia 24-godzinną wyprzedaż w internecie i tak powstało „Double 11”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Singles%27_Day"
+          },
+          {
+            "name": "The Economist (archiwum)",
+            "url": "https://web.archive.org/web/20180914113419/https://www.economist.com/briefing/2011/08/20/the-flight-from-marriage"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Singles%27_day_illustration.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Singles%27_day_illustration.png",
+          "credit": "Chrionexfleckeri1350 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Ilustracja Dnia Singla z czterema jedynkami",
+          "caption": "Ilustracja Dnia Singla, którego symbolem są cztery jedynki z daty 11.11."
+        },
+        "insta": {
+          "tytul": "W Chinach 11.11 to Dzień Singla. Bo jedynki wyglądają jak samotne patyki",
+          "opis": "Zaczęli studenci-kawalerowie, a w 2009 Alibaba zrobiła z tego gigantyczną wyprzedaż."
+        },
+        "caption": {
+          "credit": "Chrionexfleckeri1350 / Wikimedia Commons",
+          "text": "Ilustracja Dnia Singla, którego symbolem są cztery jedynki z daty 11.11. Data 11.11 ma cztery jedynki, a w chińskim slangu „goły patyk” to samotny facet."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "Internet",
+        "initials": "IN",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Był portal społecznościowy, w którym dało się pisać wyłącznie emoji",
+        "summary": "Emojli pozwalał na nazwy użytkowników i wiadomości tylko z emoji. Na start zarezerwowano 70 tys. takich nazw.",
+        "body": [
+          "Aplikację na iOS i Androida stworzyli youtuber Tom Scott i inżynier Natalie Gray. Wystartowała 29 sierpnia 2014 roku, a do tego dnia ludzie zarezerwowali 70 tys. nazw z samych emoji.",
+          "Zaczęło się jako żart z aplikacji Yo, która pozwalała wysyłać tylko słowo „Yo”. Emojli już nie działa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Emojli"
+          },
+          {
+            "name": "Business Insider",
+            "url": "http://www.businessinsider.com/emoji-only-social-network-emojli-arrives-2014-8"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Emojli_Logo.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Emojli_Logo.png",
+          "credit": "Emojli (Thomas Scott, Matthew James Bartholomew Gray) / Wikimedia Commons, Public domain",
+          "alt": "Logo aplikacji Emojli",
+          "caption": "Logo Emojli, sieci, w której pisało się tylko emoji."
+        },
+        "insta": {
+          "tytul": "Istniał portal, na którym dało się pisać tylko emoji",
+          "opis": "Nazywał się Emojli i wystartował w 2014. Ludzie zarezerwowali 70 tys. nazw z samych emotek 😅"
+        },
+        "caption": {
+          "credit": "Emojli (Thomas Scott, Matthew James Bartholomew Gray) / Wikimedia Commons",
+          "text": "Logo Emojli, sieci, w której pisało się tylko emoji. Emojli pozwalał na nazwy użytkowników i wiadomości tylko z emoji."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-13": {
     "date": "2026-11-13",
     "ryby": [],
