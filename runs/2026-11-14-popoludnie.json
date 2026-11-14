@@ -1,0 +1,2105 @@
+{
+ "run": {
+  "date": "2026-11-14",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-14T13:16:52.744Z",
+  "candidates": 100,
+  "with_free_image": 38,
+  "ready": 23
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 3",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 7",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 171",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4254",
+  "drugie-zrodlo": "ok 23/34"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…czy Adolf Hitler – mimo dysponowania nieograniczoną władzą dyktatorską – miał konstytucyjne prawo do wskazania swojego następcy w testamencie?",
+   "article": {
+    "title": "Prezydent Rzeszy",
+    "url": "https://pl.wikipedia.org/wiki/Prezydent_Rzeszy",
+    "extract": "Prezydent Rzeszy (niem. Reichspräsident) – urząd głowy państwa w Republice Weimarskiej i III Rzeszy w latach 1919–1945."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Reichspräsidentenpalais, Berlin.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że do protestów przeciwko wojnie w Wietnamie dołączyła Myszka Miki?",
+   "article": {
+    "title": "Mickey Mouse in Vietnam",
+    "url": "https://pl.wikipedia.org/wiki/Mickey_Mouse_in_Vietnam",
+    "extract": "Mickey Mouse in Vietnam lub Short Subject –  niezależny animowany film antywojenny o długości około jednej minuty utworzony na 16–milimetrowej taśmie filmowej. Został wydany w 1968 lub 1969 roku. Jego reżyserem był Whitney Lee Savage (ojciec Adama Savage’a), a producentem Milton Glaser. Film był tworzony bez zgody The Walt Disney Company."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Short Subject⧸Mickey Mouse in Vietnam (1969, silent version).webm)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjska cenzura w 1943 roku nie dopuściła do kin polskiego antynazistowskiego filmu Calling Mr Smith?",
+   "article": {
+    "title": "Calling Mr Smith",
+    "url": "https://pl.wikipedia.org/wiki/Calling_Mr_Smith",
+    "extract": "Calling Mr Smith (polskie tlumaczenia tytułu to m.in. Wzywając pana Smitha i Wzywamy Pana Smitha) – polsko-brytyjski krótkometrażowy film eksperymentalny (awangardowy) o wymowie antynazistowskiej z 1943 roku, zrealizowany przez Franciszkę i Stefana Themersonów."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie podróżują bohaterowie japońskiego fantastycznonaukowego filmu Ginga no Uo Ursa Minor Blue?",
+   "article": {
+    "title": "Ginga no Uo Ursa Minor Blue",
+    "url": "https://pl.wikipedia.org/wiki/Ginga_no_Uo_Ursa_Minor_Blue",
+    "extract": "Ginga no Uo Ursa Minor Blue (jap. 銀河の魚 URSA minor BLUE; romanizowane także jako Ginga no Sakana, tłumaczone w źródłach angielskojęzycznych jako Blue Little Bear Ursa Minor Blue lub Fish of the Milky Way Ursa Minor Blue) – japoński krótkometrażowy animowany film fantastycznonaukowy z 1993 roku, napisany i wyreżyserowany przez ilustratora Shigeru Tamurę, z muzyką Teshikaia Utollo. Trwający 23 minuty film jest wczesnym przykładem animacji komputerowej; do jego produkcji wykorzystano komputery Macintosh Quadra oraz technologię obrazu wysokiej rozdzielczości.\nFilm opowiada o chłopcu imieniem Yuri i jego dziadku astronomie, którzy odbywają surrealistyczną podróż przez Drogę Mleczną, gdzie napotykają potworną rybę atakującą gwiazdozbiory."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co można przeczytać w „Płomieniach”?",
+   "article": {
+    "title": "Płomienie (czasopismo 1931–1933)",
+    "url": "https://pl.wikipedia.org/wiki/P%C5%82omienie_(czasopismo_1931%E2%80%931933)",
+    "extract": "Płomienie – polskie czasopismo młodzieży socjalistycznej, ukazujące się w latach 1931–1933. Pismo było związane ze środowiskiem młodej inteligencji socjalistycznej oraz z Polską Partią Socjalistyczną (PPS). Ukazało się 18 numerów."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że twórcy gry Peak (na zdjęciu logo) stwierdzili, że woleliby, aby gracze korzystali z pirackiej kopii ich gry, niż grali w jej imitację na Robloxie?",
+   "article": {
+    "title": "Peak (gra komputerowa)",
+    "url": "https://pl.wikipedia.org/wiki/Peak_(gra_komputerowa)",
+    "extract": "Peak – zręcznościowa gra komputerowa z elementami gry survivalowej poświęcona wspinaczce. Została wyprodukowana przez studio Landfall Games i wydana przez Aggro Crab 16 czerwca 2025 roku na platformę Microsoft Windows, za pośrednictwem platformy Steam. Gra umożliwia rozgrywkę jednoosobową i wieloosobową, przy czym została zaprojektowana przede wszystkim z myślą o kooperacji maksymalnie czterech graczy. Gracze wcielają się w rozbitków próbujących dotrzeć na szczyt góry znajdującej się na tajemniczej wyspie."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która niemiecka książka dla dzieci miała ponad 500 wydań?",
+   "article": {
+    "title": "Złota różdżka",
+    "url": "https://pl.wikipedia.org/wiki/Z%C5%82ota_r%C3%B3%C5%BCd%C5%BCka",
+    "extract": "Złota różdżka (pierwsze odnotowane polskie wydanie jako Złota rószczka, inny tytuł Staś Straszydło), niem. Struwwelpeter – niemiecka książka dla dzieci z 1845 roku autorstwa frankfurckiego lekarza dr Heinricha Hoffmanna. Książka stanowi zbiór krótkich utworów przedstawiających niegrzeczne dzieci wraz z brutalnymi reperkusjami spowodowanymi ich zachowaniami.\nKsiążka została przetłumaczona na wiele języków, doczekała się setek wydań (w samych Niemczech ponad 500), a także zainspirowała powstanie innych utworów bądź parodii."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/H_Hoffmann_Struwwel_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:H_Hoffmann_Struwwel_03.jpg",
+    "file": "File:H Hoffmann Struwwel 03.jpg",
+    "artist": "Heinrich Hoffmann",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 568,
+    "height": 818,
+    "ok": true
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that VAT's the Problem was launched by celebrity chef Tom Kerridge?",
+   "article": {
+    "title": "VAT's the Problem",
+    "url": "https://en.wikipedia.org/wiki/VAT%27s_the_Problem",
+    "extract": "#VAT's the Problem is a British campaign founded in 2026 by Tom Kerridge that aims to reduce the value-added tax (VAT) for the hospitality sector from 20% to 10% by achieving 1,000,000 signatures on its petition to do so."
+   },
+   "related": [
+    "Tom Kerridge"
+   ],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elections in North Korea: How democracy works in one of the most authoritarian countries in the world.",
+   "article": {
+    "title": "Elections in North Korea",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_North_Korea",
+    "extract": "Elections in North Korea are held every four-to-five years for the Supreme People's Assembly (SPA), the country's national legislature, and every four years for Local People's Assemblies. Each candidate is selected by the Workers' Party of Korea. Voters may either submit the ballot unaltered as a vote of approval, or cross out the name on the ballot to disapprove the candidate. The vast majority of candidates come from the Workers' Party of Korea."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Emblem of North Korea.svg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Lion-Eating Poet in the Stone Den\": A poem written by a Chinese poet in Classical Chinese. It can be read and understood by all who understand the language, even though it consists entirely of the word \"shi\" repeated 92 times in different tones.",
+   "article": {
+    "title": "Lion-Eating Poet in the Stone Den",
+    "url": "https://en.wikipedia.org/wiki/Lion-Eating_Poet_in_the_Stone_Den",
+    "extract": "\"Lion-Eating Poet in the Stone Den\" (traditional Chinese: 施氏食獅史; simplified Chinese: 施氏食狮史; lit. 'The Story of Mr. Shi Eating Lions') is a short narrative poem written in Literary Chinese, with two versions composed of 92 and 94 Chinese characters respectively, which are all pronounced shi ([ʂɻ̩]) when read in Standard Mandarin, with only the tones differing. \nThe poem was originally written by Hu Mingfu (胡明复) and published by linguist Yuen Ren Chao in Volume 11 of The Chinese Students's Monthly in 1916. The poem was then refined by Yuen Ren Chao in the 1930s for demonstrative purposes in his lectures, and he later used it to argue the limits of the Romanization of Chinese."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC SA 1.0 (File:StandingMingLion.jpg)"
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Taro Tsujimoto: An imaginary ice hockey player, drafted because a manager was reportedly \"fed up with the slow drafting process via the telephone\".",
+   "article": {
+    "title": "Taro Tsujimoto",
+    "url": "https://en.wikipedia.org/wiki/Taro_Tsujimoto",
+    "extract": "Taro Tsujimoto is a fictitious Japanese ice hockey player who was selected in the 1974 NHL amateur draft in the 11th round, 183rd overall, by the Buffalo Sabres. The decision to draft a non-existent player was made by Sabres general manager Punch Imlach, who was frustrated by the absurd length of the draft, and in the late rounds decided to have fun and draft someone unusual. Together with Sabres director of communications Paul Wieland, they created Taro Tsujimoto, a 20-year-old Japanese forward who played for the fictional Tokyo Katanas of the Japan Ice Hockey League. The name was inspired by Japanese American Joshua Tsujimoto, who owned a grocery store Wieland would regularly drive by."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Akihiko Kondo: A Japanese man who is known for symbolically marrying the Vocaloid virtual idol Hatsune Miku.",
+   "article": {
+    "title": "Akihiko Kondo",
+    "url": "https://en.wikipedia.org/wiki/Akihiko_Kondo",
+    "extract": "Akihiko Kondo (近藤顕彦, Kondō Akihiko; born May 31, 1983) is a Japanese man known for symbolically marrying the fictional Vocaloid character Hatsune Miku in 2018 during a formal wedding ceremony. In high school, Kondo had an interest in real women, but he was rejected by them. Soon after, he decided he would not marry one. Later, Kondo was bullied at work and took sick leave due to depression."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Akihiko Kondo and Miku.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Asylum: The studio that made some of the most (in)famous mockbusters and Sharknado as well! Reportedly sometimes subjects its workers to 22-hour workdays and yet has never lost money on a single film (somehow).",
+   "article": {
+    "title": "The Asylum",
+    "url": "https://en.wikipedia.org/wiki/The_Asylum",
+    "extract": "The Asylum is an American independent film production and distribution company based in Burbank, California. It produces low-budget direct-to-video films, in particular mockbusters, which capitalize on the popularity of major studio films with similar titles and premises. \nThe Asylum produces as many low-budget films as quickly as possible, which earn around $150,000 to $250,000 in profit. It produces dozens of films each year and generates millions of dollars, and says it has never lost money on a film."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gayniggers from Outer Space: What you get if people trick you into searching '1992 space movie'. It also inspired the name of an infamous trolling group.",
+   "article": {
+    "title": "Gayniggers from Outer Space",
+    "url": "https://en.wikipedia.org/wiki/Gayniggers_from_Outer_Space",
+    "extract": "Gayniggers from Outer Space is a 1992 English-language Danish satirical science fiction short film, directed by Danish performance artist Morten Lindberg. The film is a parody of the science fiction and blaxploitation genres."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "P. J. Moriarty: A restaurant owner who opened a chain of restaurants named after him, later got fame in 1955 for placing a fake fire hydrant in front of his resturaunt. He successfully persuaded the judge to dismiss his charges, by claiming \"it must have been the leprechauns\".",
+   "article": {
+    "title": "P. J. Moriarty",
+    "url": "https://en.wikipedia.org/wiki/P._J._Moriarty",
+    "extract": "Patrick John Moriarty (1907–1909 – December 30, 1977) was an Irish-born American restaurateur. In 1929, he emigrated to the United States from Anascaul, County Kerry, Ireland, and settled in New York City. After working in the restaurant industry and serving in the United States Coast Guard during World War II, Moriarty opened his first restaurant, P. J. Moriarty's, in 1948. He eventually owned several restaurants bearing his name in Midtown Manhattan, Turtle Bay, and across the street from Penn Station."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pauli effect: Something in the lab not working? Technical difficulties? Blame this guy.",
+   "article": {
+    "title": "Pauli effect",
+    "url": "https://en.wikipedia.org/wiki/Pauli_effect",
+    "extract": "The Pauli effect or Pauli's device corollary is the supposed tendency of technical equipment to encounter critical failure in the presence of certain people — originally, Austrian physicist Wolfgang Pauli. The Pauli effect is not related to the Pauli exclusion principle, which is a bona fide physical phenomenon named after Pauli. However the Pauli effect was humorously tagged as a second Pauli exclusion principle, according to which a functioning device and Wolfgang Pauli may not occupy the same room."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wolfgang_Pauli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wolfgang_Pauli.jpg",
+    "file": "File:Wolfgang Pauli.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 935,
+    "height": 1171,
+    "ok": true
+   },
+   "second_source": {
+    "name": "paulijungunusmundus.eu",
+    "url": "http://paulijungunusmundus.eu/synw/pauli_parapsychology_p1.htm",
+    "title": "Wolfgang Pauli and Parapsychology",
+    "matched": [
+     "pauli",
+     "effect",
+     "something",
+     "technical"
+    ]
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Strigiphilus garylarsoni: A biting louse named for cartoonist Gary Larson of Far Side fame.",
+   "article": {
+    "title": "Strigiphilus garylarsoni",
+    "url": "https://en.wikipedia.org/wiki/Strigiphilus_garylarsoni",
+    "extract": "Strigiphilus garylarsoni is a species of chewing louse found only on owls. The species was first described by biologist Dale H. Clayton in 1990, who named it after cartoonist Gary Larson.\nIts type host is the Northern white-faced owl (Ptilopsis leucotis). The type location is Ndola, Zambia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg",
+    "file": "File:Strigiphilus garylarsoni Clayton 1990 NHMUK010693502 zoom 1.jpg",
+    "artist": "The Trustees of the Natural History Museum, London",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 375,
+    "height": 472,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20201123114321/https://attheu.utah.edu/facultystaff/the-far-side-of-science/",
+    "title": "THE FAR SIDE OF SCIENCE | @theU",
+    "matched": [
+     "strigiphilus",
+     "garylarsoni",
+     "louse",
+     "named",
+     "cartoonist",
+     "larson"
+    ]
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "229762 Gǃkúnǁʼhòmdímà: Have fun trying to type this out!",
+   "article": {
+    "title": "229762 Gǃkúnǁʼhòmdímà",
+    "url": "https://en.wikipedia.org/wiki/229762_G%C7%83k%C3%BAn%C7%81%CA%BCh%C3%B2md%C3%ADm%C3%A0",
+    "extract": "229762 Gǃkúnǁʼhòmdímà (provisional designation 2007 UK126) is a large binary trans-Neptunian object and dwarf planet candidate in the scattered disc, located in the outermost region of the Solar System. It was discovered on 19 October 2007 by American astronomers Megan Schwamb, Michael Brown, and David Rabinowitz at the Palomar Observatory in California.\nGǃkúnǁʼhòmdímà measures approximately 600 kilometers (400 miles) in diameter. This medium-sized TNO appears to be representative of a class of mid-sized objects under approximately 1000 km that have not collapsed into fully solid bodies."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2007_UK126_Hubble_%28crop%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2007_UK126_Hubble_(crop).png",
+    "file": "File:2007 UK126 Hubble (crop).png",
+    "artist": "User:Renerpho",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 190,
+    "height": 190,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.minorplanetcenter.net/db_search/show_object?object_id=229762"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Parasitic twin: A medical condition where one of two conjoined twins lacks essential organs and must rely on the other for survival, often leeching its blood. An especially rare variant of this, fetus in fetu, involves one partially formed fetus developing within the body of the other.",
+   "article": {
+    "title": "Parasitic twin",
+    "url": "https://en.wikipedia.org/wiki/Parasitic_twin",
+    "extract": "A parasitic twin, also known as an asymmetrical twin or unequal conjoined twin, occurs when a twin embryo begins developing in utero, but the pair does not fully separate, and one embryo maintains dominant development at the expense of the other. It results from the same processes that also produces vanishing twins and conjoined twins, and may represent a continuum between the two. In parasitic twins, one ceases development during gestation and is vestigial to a mostly fully formed, otherwise healthy individual twin. The undeveloped twin is termed as parasitic, because it is incompletely formed or wholly dependent on the body functions of the complete fetus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/JohannSchenk-Twins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JohannSchenk-Twins.jpg",
+    "file": "File:JohannSchenk-Twins.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 510,
+    "ok": true
+   },
+   "second_source": {
+    "name": "embryo.asu.edu",
+    "url": "https://embryo.asu.edu/pages/parasitic-twins",
+    "title": "Parasitic Twins | Embryo Project Encyclopedia",
+    "matched": [
+     "parasitic",
+     "medical",
+     "condition",
+     "conjoined",
+     "twins",
+     "organs",
+     "often",
+     "blood"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vril: A book by the \"dark and stormy night\" guy that spawned rumours about German secret societies, a real master race living underground, and Nazi UFOs.",
+   "article": {
+    "title": "Vril",
+    "url": "https://en.wikipedia.org/wiki/Vril",
+    "extract": "Vril: The Power of the Coming Race, originally published as The Coming Race, is a science and subterranean fiction novel by the British politician and writer Edward Bulwer-Lytton, published anonymously in 1871.\nSome readers have believed the account of a superior subterranean master race and the energy-form called \"Vril\" to be, at least partially, true. Some theosophists, notably Helena Blavatsky, William Scott-Elliot, and Rudolf Steiner, accepted the book as based on occult truth. The 1960 book The Morning of the Magicians by Jacques Bergier and Louis Pauwels suggested that a secret Vril Society existed in Weimar Berlin."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Coming_Race_%281871%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Coming_Race_(1871).png",
+    "file": "File:The Coming Race (1871).png",
+    "artist": "Edward Bulwer-Lytton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 537,
+    "height": 810,
+    "ok": true
+   },
+   "second_source": {
+    "name": "alpenfestung.com",
+    "url": "http://www.alpenfestung.com/ley_pseudoscience.htm",
+    "title": "Alpenfestung - PSEUDOSCIENCE IN NAZILAND",
+    "matched": [
+     "night",
+     "german",
+     "secret",
+     "societies",
+     "master"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Loab: According to AI, the exact opposite of many prompts is the same picture of an old woman.",
+   "article": {
+    "title": "Loab",
+    "url": "https://en.wikipedia.org/wiki/Loab",
+    "extract": "Loab ( LOBE) is a fictional character that artist and writer Steph Maj Swanson claimed to have discovered with a text-to-image AI model in April 2022. In a viral Twitter thread, Swanson described the images of Loab as an unexpectedly emergent property of the software, saying they discovered them when asking the model to produce something \"as different from the prompt as possible\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/AI_generated_image_of_Loab_character.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:AI_generated_image_of_Loab_character.jpg",
+    "file": "File:AI generated image of Loab character.jpg",
+    "artist": "Generated by an unspecified computer algorithm based in part on a text prompt by Supercomposite",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source": {
+    "name": "abc.net.au",
+    "url": "https://www.abc.net.au/news/2022-11-26/loab-age-of-artificial-intelligence-future/101678206",
+    "title": "Loab is showing us the unimaginable future of artificial intelligence - ABC News",
+    "matched": [
+     "according",
+     "exact",
+     "opposite",
+     "prompts",
+     "picture",
+     "woman"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bob Semple tank: A New Zealand-made tank comprising iron plates and a few guns strapped on to a tractor.",
+   "article": {
+    "title": "Bob Semple tank",
+    "url": "https://en.wikipedia.org/wiki/Bob_Semple_tank",
+    "extract": "The Bob Semple tank was a light tank designed by Bob Semple, the New Zealand Minister of Works during World War II. Originating out of the need to build military hardware from available materials, the tank was built from corrugated iron on a tractor base. Designed and built during a period of uncertainty in which New Zealand feared having to defend itself from Japanese invasion without external assistance, these tanks were a civilian effort to design and create a means to protect New Zealand.\nDesigned and built without formal plans or blueprints, it had numerous design flaws and practical difficulties, and was never put into mass production or used in combat."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pratt%2C_J%2C_fl_1974_-_Photograph_of_tank_designed_by_Robert_Semple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pratt,_J,_fl_1974_-_Photograph_of_tank_designed_by_Robert_Semple.jpg",
+    "file": "File:Pratt, J, fl 1974 - Photograph of tank designed by Robert Semple.jpg",
+    "artist": "Unidentified photographer",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1080,
+    "height": 855,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tanks-encyclopedia.com",
+    "url": "https://tanks-encyclopedia.com/ww2/NewZealand/Bob_Semple_Tank.php",
+    "title": "Bob Semple Tractor Tank - Tank Encyclopedia",
+    "matched": [
+     "semple",
+     "zealand",
+     "plates",
+     "tractor"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Accessory breast: Some people have more than two.",
+   "article": {
+    "title": "Accessory breast",
+    "url": "https://en.wikipedia.org/wiki/Accessory_breast",
+    "extract": "Accessory breasts, also known as polymastia, supernumerary breasts, or mammae erraticae, is the atavistic condition of having an additional breast. These extra breasts may appear with or without nipples or areolae. The condition is most commonly observed in males and is generally harmless, often going untreated, but many affected individuals opt to undergo plastic surgery to remove the additional breasts for aesthetic reasons.\nPolythelia is a related condition in which one or more additional nipples form in the absence of developed breast tissue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Polymastia_of_the_Japanese_Wellcome_L0027954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Polymastia_of_the_Japanese_Wellcome_L0027954.jpg",
+    "file": "File:Polymastia of the Japanese Wellcome L0027954.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1188,
+    "height": 1592,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ferdinand Habsburg (racing driver): One of the greatest racing drivers Austria has to offer. He's also the heir to the throne of one of Europe's most powerful royal families, but nevermind that.",
+   "article": {
+    "title": "Ferdinand Habsburg (racing driver)",
+    "url": "https://en.wikipedia.org/wiki/Ferdinand_Habsburg_(racing_driver)",
+    "extract": "Ferdinand Habsburg-Lothringen (born Ferdinand Zvonimir Maria Balthus Keith Michael Otto Antal Bahnam Leonhard; 21 June 1997) is an Austrian motor racing driver and heir apparent to the headship of the House of Habsburg-Lorraine. He competes in the FIA World Endurance Championship with Alpine Endurance Team and in the European Le Mans Series with CLX Motorsport.\nHabsburg won the 24 Hours of Le Mans and the FIA World Endurance Championship in the LMP2 class alongside Charles Milesi and Robin Frijns in 2021."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ferdinand_Habsburg_2024_WEC_Fuji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ferdinand_Habsburg_2024_WEC_Fuji.jpg",
+    "file": "File:Ferdinand Habsburg 2024 WEC Fuji.jpg",
+    "artist": "Morio",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 800,
+    "height": 1200,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.at",
+    "url": "https://www.news.at/menschen/ferdinand-habsburg",
+    "title": "Ferdinand Habsburg - Kaiserurenkel im Porträt",
+    "matched": [
+     "ferdinand",
+     "habsburg",
+     "racing",
+     "europe",
+     "royal",
+     "families"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Danger triangle of the face: A very specific area of your face where bursting a boil could mean certain death.",
+   "article": {
+    "title": "Danger triangle of the face",
+    "url": "https://en.wikipedia.org/wiki/Danger_triangle_of_the_face",
+    "extract": "The danger triangle of the face consists of the area from the corners of the mouth to the bridge of the nose, including the nose and maxilla.  Due to the special nature of the blood supply to the human nose and surrounding area, it is possible for retrograde infection from the nasal area to spread to the brain, causing cavernous sinus thrombosis, meningitis, or brain abscess.\nThis is possible because of veinous communication (via the ophthalmic veins) between the facial vein and the cavernous sinus. The cavernous sinus lies within the cranial cavity, between layers of the meninges, and is a major conduit of venous drainage from the brain."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Danger_triangle_of_the_face_diagram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Danger_triangle_of_the_face_diagram.jpg",
+    "file": "File:Danger triangle of the face diagram.jpg",
+    "artist": "derivative work: pfctdayelise (说什么?) Face_of_SpooSpa.jpg: Flickr user SpooSpa",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1200,
+    "height": 1325,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911799",
+    "title": "The anatomical and functional relationship between allergic conjunctivitis and allergic rhinitis - PMC",
+    "matched": [
+     "danger",
+     "triangle",
+     "specific",
+     "death"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gerald Ratner: Business 101: If you own an incredibly popular jewellery company, maybe don't publicly announce that your products are all cheap garbage.",
+   "article": {
+    "title": "Gerald Ratner",
+    "url": "https://en.wikipedia.org/wiki/Gerald_Ratner",
+    "extract": "Gerald Irving Ratner (born 1 November 1949) is a British businessman. He was formerly chief executive of the British jewellery company Ratner Group, now called the Signet Group. Ratner achieved notoriety after making a speech in 1991 where he jokingly denigrated his company's products as \"total crap\", leading to the company's near-collapse and his exit from the business in 1993. The notorious speech led to the creation of the phrase \"doing a Ratner\", meaning to make ruinous comments about your company or products."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gerald_Ratner_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gerald_Ratner_(cropped).jpg",
+    "file": "File:Gerald Ratner (cropped).jpg",
+    "artist": "Gerald.ratner",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 945,
+    "height": 1181,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20080828131309/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/book_extracts/article2701311.ece"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tiger Mask donation phenomenon: The other time manga's most famous pro wrestler entered the real world.",
+   "article": {
+    "title": "Tiger Mask donation phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Tiger_Mask_donation_phenomenon",
+    "extract": "The Tiger Mask donation phenomenon is a series of donations of randoseru (school backpacks) and other items to orphanages around Japan. The first donation happened when someone left ten 30,000-yen backpacks at a child guidance center in Gunma Prefecture on Christmas Day in 2010. A note attached to the bags was signed \"Naoto Date\", the real name of the titular character of Tiger Mask, a popular 1960s and 1970s manga about a wrestler who fought for orphans, being raised in an orphanage himself. Since the initial donation, copycat donations have appeared around Japan at various facilities for children, ranging from more backpacks to toys, food, and monetary gifts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/JapaneseBackpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JapaneseBackpack.jpg",
+    "file": "File:JapaneseBackpack.jpg",
+    "artist": "Kanko* from Nagasaki, JAPAN",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "animenewsnetwork.com",
+    "url": "http://www.animenewsnetwork.com/interest/2010-12-27/manga/anime-hero-leaves-gifts-on-christmas-morning",
+    "title": "Manga/Anime Hero Leaves Gifts on Christmas Morning - Interest - Anime News Network",
+    "matched": [
+     "tiger",
+     "manga",
+     "famous",
+     "wrestler",
+     "world"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Urantia Book: Over two thousand pages of anonymous, religious, subconscious ramblings on religion and \"God\" (whatever that means in the billion planets out there).",
+   "article": {
+    "title": "The Urantia Book",
+    "url": "https://en.wikipedia.org/wiki/The_Urantia_Book",
+    "extract": "The Urantia Book (sometimes called The Urantia Papers or The Fifth Epochal Revelation) is a spiritual, philosophical, and religious book that originated in Chicago, Illinois, United States, sometime between 1924 and 1955.\nThe text, which claims to have been composed by celestial beings, introduces the word \"Urantia\" as the name of the planet Earth and states that its intent is to \"present enlarged concepts and advanced truth\". The book aims to unite religion, science, and philosophy. Its large amount of content on topics of interest to science is unique among documents said to have been received from celestial beings."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Urantia_Book.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Urantia_Book.png",
+    "file": "File:The Urantia Book.png",
+    "artist": "Urantia Foundation",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1013,
+    "height": 1532,
+    "ok": true
+   },
+   "second_source": {
+    "name": "urantia.org",
+    "url": "https://www.urantia.org/urantia-book-standardized/foreword?term=%22thousand%20human%20concepts%22#U0_12_12",
+    "title": "Foreword | Urantia Book | Urantia Foundation",
+    "matched": [
+     "urantia",
+     "thousand",
+     "religious",
+     "religion"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "On Bullshit: A very serious essay by Harry Frankfurt sketching a philosophical theory of, well, bullshit.",
+   "article": {
+    "title": "On Bullshit",
+    "url": "https://en.wikipedia.org/wiki/On_Bullshit",
+    "extract": "On Bullshit is a 1986 essay, published as a book in 2005, by the American philosopher Harry G. Frankfurt which presents a theory of bullshit that defines the concept and analyzes the applications of bullshit in the context of communication.  Frankfurt determines that bullshit is speech intended to persuade without regard for truth.  The liar cares about the truth and attempts to hide it; the bullshitter doesn't care whether what they say is true or false. Frankfurt's philosophical analysis of bullshit has been analyzed, criticized and adopted by academics since its publication."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/On_Bullshit_cover.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:On_Bullshit_cover.jpeg",
+    "file": "File:On Bullshit cover.jpeg",
+    "artist": "Harry Frankfurt / Princeton University Press",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1240,
+    "height": 1872,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20151205033530/http://www.cc.com/video-clips/zz9jnz/the-daily-show-with-jon-stewart-harry-g--frankfurt"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pimpmobile: Drive like a blaxploitation movie protagonist.",
+   "article": {
+    "title": "Pimpmobile",
+    "url": "https://en.wikipedia.org/wiki/Pimpmobile",
+    "extract": "A pimpmobile is a large luxury vehicle, usually a 1960s, 1970s or 1980s-model Lincoln, Cadillac, Buick or Chrysler vehicle, that has been customized in a garish, extravagant and kitsch or campy style. The style is largely an American phenomenon.\n\n The customization includes the round \"Superfly\" headlight covers, the large custom front chrome grille, front custom chrome hood cap, goddess hood ornament, custom chrome front bumpers, custom front fog lights, and custom chrome windshield sun visor.\nAftermarket features or modifications such as headlight covers, hood ornaments, expensive stereo systems, unusual paint colors, and shag carpet interiors were used by car owners to advertise their wealth and importance."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Pimpmobile_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pimpmobile_car.jpg",
+    "file": "File:Pimpmobile car.jpg",
+    "artist": "Staten Island Kar Klub (S.I.K.K.),inc",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1080,
+    "height": 789,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110525210558/http://www.car-nection.com/yann/Dbas_txt/Drm70-74.htm",
+    "title": "Drm_70-74",
+    "matched": [
+     "pimpmobile",
+     "drive",
+     "movie"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Free State of Bottleneck: When occupation zones don't quite meet closely enough, you get a tiny slice of the Rhineland that acts as its own country.",
+   "article": {
+    "title": "Free State of Bottleneck",
+    "url": "https://en.wikipedia.org/wiki/Free_State_of_Bottleneck",
+    "extract": "The Free State of Bottleneck (German: Freistaat Flaschenhals) was a short-lived quasi-state that existed from 10 January 1919 until 1 July 1920. It was formed from part of the Prussian province of Hesse-Nassau as a consequence of the occupation of the Rhineland following World War I. The Bottleneck is now part of the German states of Hesse and Rhineland-Palatinate."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Free_State_of_Bottleneck.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Free_State_of_Bottleneck.png",
+    "file": "File:Flag of the Free State of Bottleneck.png",
+    "artist": "Skrattar du Fölora du",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 725,
+    "height": 477,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20120207042733/http://www.freistaat-flaschenhals.de/eng/index.htm"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mini (frog): A genus of tiny Madagascar frogs containing 3 species: Mini ature, Mini mum, and Mini scule.",
+   "article": {
+    "title": "Mini (frog)",
+    "url": "https://en.wikipedia.org/wiki/Mini_(frog)",
+    "extract": "Mini is a genus of tiny microhylid frogs that are endemic to southeastern Madagascar where they live among leaf litter in lowland forests. The three species and the genus itself were first scientifically described in 2019 by Mark Scherz. Although not yet rated by the IUCN, they have very small ranges and it has been recommended that two qualify as critically endangered and M. ature as data deficient.\nAt about 8–11.5 mm (0.31–0.45 in) in snout–vent length, M. mum and M. scule are two of the world's smallest frogs, and the larger M. ature is only c."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mini_mum_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mini_mum_03.jpg",
+    "file": "File:Mini mum 03.jpg",
+    "artist": "Mark D. Scherz , Carl R. Hutter, Andolalao Rakotoarison, Jana C. Riemann, Mark-Oliver Rödel, Serge H. Ndriantsoa, Julian",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 450,
+    "height": 300,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436692",
+    "title": "Morphological and ecological convergence at the lower size limit for vertebrates highlighted by five new miniaturised microhylid frog specie",
+    "matched": [
+     "genus",
+     "madagascar",
+     "frogs",
+     "containing",
+     "species",
+     "ature",
+     "scule"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Silentó: The creator of the \"Watch me whip, watch me nae nae\" song who later fatally shot his older cousin",
+   "article": {
+    "title": "Silentó",
+    "url": "https://en.wikipedia.org/wiki/Silent%C3%B3",
+    "extract": "Richard Lamar Hawk (born January 23, 1998), known professionally as Silentó, is an American former rapper and convicted felon. Raised in Atlanta, Georgia, Hawk is best known for his 2015 debut single \"Watch Me (Whip/Nae Nae)\", which peaked at number three on the US Billboard Hot 100 when he was 19 years old.\nIn 2021, he was arrested in DeKalb County, Georgia, after a string of arrests for various crimes and charged with the murder of his cousin, Frederick Rooks III. In 2025, he was sentenced to 30 years in prison after pleading guilty to the lesser charge of voluntary manslaughter."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sinento_%282018%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sinento_(2018).png",
+    "file": "File:Sinento (2018).png",
+    "artist": "News Of The World",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 446,
+    "height": 639,
+    "ok": true
+   },
+   "second_source": {
+    "name": "fox5atlanta.com",
+    "url": "https://www.fox5atlanta.com/news/rapper-silento-sentenced-30-years-2021-death-cousin-metro-atlanta",
+    "title": "Rapper Silento sentenced to 30 years for 2021 death of cousin in metro Atlanta | FOX 5 Atlanta",
+    "matched": [
+     "silento",
+     "watch",
+     "later",
+     "cousin"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Zeppo Marx: The often forgotten fourth Marx Brother who only ever appeared in five films with his brothers, always playing the role of a straight man. In his spare time, he was also a billionaire businessman, a nuclear engineer and a street fighter.",
+   "article": {
+    "title": "Zeppo Marx",
+    "url": "https://en.wikipedia.org/wiki/Zeppo_Marx",
+    "extract": "Herbert Manfred \"Zeppo\" Marx (February 25, 1901 – November 30, 1979) was an American comedic actor and businessman. He was the youngest, and last survivor, of the five Marx Brothers. He appeared with his brothers on Broadway during the 1920s and in the first five Marx Brothers feature films from 1929 to 1933, usually performing in a more subdued style than his brothers and serving as a romantic lead and/or straight man. After Duck Soup (1933), he abandoned acting for subsequent careers as an engineer and theatrical agent."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Zeppo_Marx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zeppo_Marx.jpg",
+    "file": "File:Zeppo Marx.jpg",
+    "artist": "Ralph F. Stitt",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 885,
+    "height": 1122,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ibras.dk",
+    "url": "http://www.ibras.dk/comedy/marx.htm",
+    "title": "An Evening With Groucho Marx",
+    "matched": [
+     "zeppo",
+     "often",
+     "brother",
+     "appeared",
+     "brothers",
+     "always",
+     "playing"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aeroflot Flight 6502: A plane that crashed after the pilot made a bet with the first officer that he could land it blind. Unfortunately for 70 people on board, he couldn't.",
+   "article": {
+    "title": "Aeroflot Flight 6502",
+    "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+    "extract": "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk (now Yekaterinburg) to Grozny via Kuibyshev (now Samara). On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Of the 94 passengers and crew on board, 70 were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot error."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png",
+    "file": "File:Aeroflot Tu-134A CCCP-65862 LFSB 1975-12-28.png",
+    "artist": "Eduard Marmet",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1023,
+    "height": 681,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20210111233158/https://aviation-safety.net/database/record.php?id=19861020-1"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Uffington White Horse: A giant chalk figure that has to be hit with hammers regularly to maintain it.",
+   "article": {
+    "title": "Uffington White Horse",
+    "url": "https://en.wikipedia.org/wiki/Uffington_White_Horse",
+    "extract": "The Uffington White Horse is a prehistoric hill figure, 110 m (360 ft) long, formed from deep trenches filled with crushed white chalk. The figure is situated on the upper slopes of Whitehorse Hill in the English civil parish of Uffington in Oxfordshire, some 16 km (10 mi) east of Swindon, 8 km (5.0 mi) south of the town of Faringdon and a similar distance west of the town of Wantage; or 2.5 km (1.6 mi) south of Uffington. The hill forms a part of the scarp of the Berkshire Downs and overlooks the Vale of White Horse to the north. The best views of the figure are obtained from the air, or from directly across the Vale, particularly around the villages of Great Coxwell, Longcot, and Fernham."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Uffington-White-Horse-sat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Uffington-White-Horse-sat.jpg",
+    "file": "File:Uffington-White-Horse-sat.jpg",
+    "artist": "USGS",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/media/2003/may/04/channel4.bigbrother",
+    "title": "Big Brother's logo 'defiles' White Horse | Channel 4 | The Guardian",
+    "matched": [
+     "uffington",
+     "white",
+     "horse",
+     "chalk",
+     "figure"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rednaxela Terrace: A street in Hong Kong, whose name was reportedly reversed due to a clerical error.",
+   "article": {
+    "title": "Rednaxela Terrace",
+    "url": "https://en.wikipedia.org/wiki/Rednaxela_Terrace",
+    "extract": "Rednaxela Terrace (Chinese: 列拿士地臺; Jyutping: lit6 naa4 si6 dei6 toi4) is a pedestrian-only street in Mid-Levels, Hong Kong.\nIt is 63 metres (207 ft) long and junctions Shelley Street to the west and Peel Street to the east."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Rednaxelaterrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rednaxelaterrace.jpg",
+    "file": "File:Rednaxelaterrace.jpg",
+    "artist": "Lancer1210",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 639,
+    "height": 479,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.edgedesign.com.hk/2011-acts-rednaxela-apartment"
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Footsies: Did you know? It's possible for a couple to flirt by touching each other's legs.",
+   "article": {
+    "title": "Footsies",
+    "url": "https://en.wikipedia.org/wiki/Footsies",
+    "extract": "Footsies (also footsy or footsie) is a flirting game where two people touch feet under a table or otherwise concealed place, often as a romantic prelude. It is a game played either as an act of flirtatious body language, or simply for enjoyment. Although footsies is not inherently romantic, the nature of it as playful touching is often done between romantic partners as a sign of affection, and most often without discussion. The term comes from a 1940s humorous diminutive of foot."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/083-_Anonym%2C_c.1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:083-_Anonym,_c.1920.jpg",
+    "file": "File:083- Anonym, c.1920.jpg",
+    "artist": "see file name",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 683,
+    "height": 1062,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.bostonglobe.com/metro/2013/07/11/daniel-wegner-harvard-social-psychologist-unraveled-mysteries-thought-and-memory/SATmfA8Vo07c5lezCPZFyH/story.html"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jenny Haniver: A grotesque-looking sea monster made from the corpse of a ray.",
+   "article": {
+    "title": "Jenny Haniver",
+    "url": "https://en.wikipedia.org/wiki/Jenny_Haniver",
+    "extract": "A Jenny Haniver is the carcass of a ray or a skate that has been modified by hand then dried, resulting in a mummified specimen intended to resemble a fanciful fictional creature, such as a demon or dragon.\nThis practice dates back to the 16th century when these specimens were often sold as curiosities to sailors and collectors."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Jenny_Haniver1218.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jenny_Haniver1218.jpg",
+    "file": "File:Jenny Haniver1218.jpg",
+    "artist": "M.Violante",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 1273,
+    "height": 2717,
+    "ok": true
+   },
+   "second_source": {
+    "name": "poemsunderwater.wordpress.com",
+    "url": "https://poemsunderwater.wordpress.com/tag/jenny-hanivers/",
+    "title": "jenny hanivers | Poems Underwater",
+    "matched": [
+     "jenny",
+     "haniver",
+     "grotesque",
+     "monster",
+     "corpse"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "4′33″: The world's greatest musical composition.",
+   "article": {
+    "title": "4′33″",
+    "url": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3",
+    "extract": "4′33″ is a modernist composition by American experimental composer John Cage. It was composed in 1952 for any instrument or combination of instruments; the score instructs performers not to play their instruments throughout the three movements. It is divided into three movements, lasting 30 seconds, 2 minutes and 23 seconds, and 1 minute and 40 seconds, respectively, although Cage later stated that the movements' durations can be determined by the musician. As suggested by the title, the composition lasts 4 minutes and 33 seconds."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/4%2733%27_%28John_Cage%29_Original_Cover.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:4%2733%27_(John_Cage)_Original_Cover.webp",
+    "file": "File:4'33' (John Cage) Original Cover.webp",
+    "artist": "John Cage",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 784,
+    "ok": true
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Male pregnancy: For now, it's just a seahorse thing, but…",
+   "article": {
+    "title": "Male pregnancy",
+    "url": "https://en.wikipedia.org/wiki/Male_pregnancy",
+    "extract": "Male pregnancy is the incubation of one or more embryos or fetuses by organisms of the male sex in some species. Most species that reproduce by sexual reproduction are heterogamous—females producing larger gametes (ova) and males producing smaller gametes (sperm). In nearly all animal species that give live birth, offspring are carried by the female until birth, but in fish of the family Syngnathidae (pipefish, seahorses and the leafy seadragon), males perform that function."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tehotny_morsky_konik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tehotny_morsky_konik.jpg",
+    "file": "File:Tehotny morsky konik.jpg",
+    "artist": "Jaro Nemčok",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 600,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://scixplorer.org/abs/2003CBio...13.R791J"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Architecture terrible: An architectural style advocated by French architect Jacques-François Blondel.",
+   "article": {
+    "title": "Architecture terrible",
+    "url": "https://en.wikipedia.org/wiki/Architecture_terrible",
+    "extract": "Architecture terrible ([aʁ.ʃi.tɛk.tyʁ tɛ.ʁibl], lit. 'architecture which evokes terror') was an architectural style advocated by French architect Jacques-François Blondel in his nine-volume treatise Cours d'architecture (1771–77). Blondel promoted the style for the exterior design of prisons: the form of the building itself would proclaim its function and serve as a deterrent, and so achieve a \"repulsive style\" of heaviness that would \"declare to the spectators outside the confused lives of those detained inside, along with the force required for those in charge to hold them confined\". Blondel further described it as \"...a style where the principles of art seem to be crushed under the weight of the Artist's ignorance\".\nLondon's second Newgate Prison, built between 1768 and 1775, is an example of this style of architecture: reinforced walls almost without windows, a deliberate inelegance,"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/West_View_of_Newgate_by_George_Shepherd_%281784-1862%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:West_View_of_Newgate_by_George_Shepherd_(1784-1862)_(cropped).jpg",
+    "file": "File:West View of Newgate by George Shepherd (1784-1862) (cropped).jpg",
+    "artist": "George Shepherd",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 573,
+    "height": 376,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://www.cambridge.org/core/journals/architectural-history/article/abs/newgate-prison/AD6033D58F752DD8F5472DA86B6A508A"
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "When pigs fly: The classic impossibility has been officially proved possible by the Internet Engineering Task Force: \"With sufficient thrust, pigs fly just fine.\"",
+   "article": {
+    "title": "When pigs fly",
+    "url": "https://en.wikipedia.org/wiki/When_pigs_fly",
+    "extract": "The phrase \"when pigs fly\" (alternatively, \"pigs might fly\") is an adynaton—a figure of speech so hyperbolic that it describes an impossibility. The implication of such a phrase is that the circumstances in question (the adynaton, and the circumstances to which the adynaton is being applied) will never occur. The phrase has been used in various forms since the 1600s as a sarcastic remark."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/First_pig_to_fly%2C_1909._01_Crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:First_pig_to_fly,_1909._01_Crop.jpg",
+    "file": "File:First pig to fly, 1909. 01 Crop.jpg",
+    "artist": "Likely John Moore-Brabazon",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 180,
+    "height": 244,
+    "ok": true
+   },
+   "second_source": {
+    "name": "gutenberg.org",
+    "url": "https://www.gutenberg.org/files/1200/1200-h/1200-h.htm",
+    "title": "Rabelais: Gargantua and Pantagruel, Five Volumes, Complete",
+    "matched": [
+     "classic",
+     "impossibility",
+     "officially",
+     "proved",
+     "possible",
+     "engineering",
+     "force",
+     "sufficient",
+     "thrust"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dissociative fugue: You black out and when you wake up years have passed, you're in a different city, you have a new name and have lived a different life while you were unconscious. Also known as fugue state or psychogenic fugue.",
+   "article": {
+    "title": "Dissociative fugue",
+    "url": "https://en.wikipedia.org/wiki/Dissociative_fugue",
+    "extract": "Dissociative fugue ( FYOOG), previously referred to as a fugue state or psychogenic fugue, is a rare psychiatric condition characterized by reversible amnesia regarding one's identity, often accompanied by unexpected travel or wandering. In some cases, individuals may assume a new identity and be unable to recall personal information from before the onset of symptoms. It is classified as a mental and behavioral disorder and is variously categorized as a dissociative disorder, a conversion disorder, or a somatic symptom disorder. According to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), dissociative fugue is a subset of dissociative amnesia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Headscratcher.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Headscratcher.png",
+    "file": "File:Headscratcher.png",
+    "artist": "scanned by Open Clip Art Library user Johnny Automatic",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 710,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070928080517/http://www.psychiatryonline.com/content.aspx?aID=9744",
+    "title": "PsychiatryOnline",
+    "matched": [
+     "dissociative",
+     "fugue",
+     "passed",
+     "state",
+     "psychogenic"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Frank Hayes (jockey): A jockey who won by a head despite being dead.",
+   "article": {
+    "title": "Frank Hayes (jockey)",
+    "url": "https://en.wikipedia.org/wiki/Frank_Hayes_(jockey)",
+    "extract": "Frank Hayes (1901 – 4 June 1923) was an Irish horse trainer, stableman and jockey who, on 4 June 1923, at Belmont Park racetrack in Elmont, New York, won a steeplechase despite suffering a fatal heart attack in the latter part of the race."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Frank_Hayes_%28jockey%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Frank_Hayes_(jockey).jpg",
+    "file": "File:Frank Hayes (jockey).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 424,
+    "height": 821,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cnn.com",
+    "url": "https://www.cnn.com/2018/12/10/sport/frank-hayes-sweet-kiss-belmont-park-intl-spt",
+    "title": "Frank Hayes: The jockey who won a horse race despite being dead | CNN",
+    "matched": [
+     "frank",
+     "hayes",
+     "jockey",
+     "despite"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Orotidine 5′-phosphate decarboxylase: Known for its extreme catalysis, this enzyme can reduce the time required for a reaction from 78 million years to 18 milliseconds.",
+   "article": {
+    "title": "Orotidine 5′-phosphate decarboxylase",
+    "url": "https://en.wikipedia.org/wiki/Orotidine_5%E2%80%B2-phosphate_decarboxylase",
+    "extract": "Orotidine 5′-phosphate decarboxylase (OMP decarboxylase) or orotidylate decarboxylase is an enzyme involved in pyrimidine biosynthesis.  It catalyzes the decarboxylation of orotidine monophosphate (OMP) to form uridine monophosphate (UMP).  The function of this enzyme is essential to the de novo biosynthesis of the pyrimidine nucleotides uridine triphosphate, cytidine triphosphate, and thymidine triphosphate.  OMP decarboxylase has been a frequent target for scientific investigation because of its demonstrated extreme catalytic efficiency and its usefulness as a selection marker for yeast strain engineering."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/OMP_decarboxylase.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:OMP_decarboxylase.png",
+    "file": "File:OMP decarboxylase.png",
+    "artist": "TimVickers at en.wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 682,
+    "height": 464,
+    "ok": true
+   },
+   "second_source": {
+    "name": "rcsb.org",
+    "url": "https://www.rcsb.org/structure/1EIX",
+    "title": "RCSB PDB - 1EIX: STRUCTURE OF OROTIDINE 5'-MONOPHOSPHATE DECARBOXYLASE FROM E. COLI, CO-CRYSTALLISED WITH THE INHIBITOR BMP",
+    "matched": [
+     "18",
+     "orotidine",
+     "phosphate",
+     "decarboxylase",
+     "catalysis",
+     "enzyme",
+     "reaction"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Who Me: A top secret stench weapon designed to be unobtrusively sprayed on German officers by French Resistance members with a quite (in)appropriate name.",
+   "article": {
+    "title": "Who, Me?",
+    "url": "https://en.wikipedia.org/wiki/Who,_Me%3F",
+    "extract": "Who, Me? was a top secret, sulfurous, non-lethal chemical weapon developed by MIT graduate Ernest Crocker while working in the Research and Development Branch (R&D) of the Office of Strategic Services (OSS) during World War II, to be used by the French Resistance against German officers. The chemical smelled strongly of fecal matter, and was issued in pocket atomizers intended to be unobtrusively sprayed on a German officer, humiliating him and, by extension, demoralizing the occupying German forces.\nThe experiment was very short-lived, however."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Who%2C_Me.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Who,_Me.jpg",
+    "file": "File:Who, Me.jpg",
+    "artist": "Office of Strategic Services",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 700,
+    "height": 517,
+    "ok": true
+   },
+   "second_source": {
+    "name": "technologyreview.com",
+    "url": "https://www.technologyreview.com/2018/06/27/141948/the-stench-of-war/",
+    "title": "The stench of war | MIT Technology Review",
+    "matched": [
+     "stench",
+     "weapon",
+     "designed",
+     "german",
+     "officers",
+     "resistance"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hungarian pengő: The worst inflation in history caused this currency to be replaced with another that was 400 octillion times its value.",
+   "article": {
+    "title": "Hungarian pengő",
+    "url": "https://en.wikipedia.org/wiki/Hungarian_peng%C5%91",
+    "extract": "The pengő (sometimes spelled as pengo or pengoe in English) was the currency of Hungary between 1 January 1927, when it replaced the korona, and 31 July 1946, when it was replaced by the forint. The pengő was subdivided into 100 fillér. Although the introduction of the pengő was part of a post-World War I stabilisation program, the currency survived for only 20 years and was rendered worthless by the most extreme hyperinflation ever recorded."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/HUP_100MB_1946_obverse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HUP_100MB_1946_obverse.jpg",
+    "file": "File:HUP 100MB 1946 obverse.jpg",
+    "artist": "Magyar Nemzeti Bank (Hungarian National Bank)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 468,
+    "height": 232,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.hix.com/arch/?page=issue&issueid=19174"
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The All-Joking, All-Drunken Synod of Fools and Jesters: Peter the Great's drinking club, parodying the structure of the Catholic Church, and eventually including every man of power in the Tsar's government.",
+   "article": {
+    "title": "The All-Joking, All-Drunken Synod of Fools and Jesters",
+    "url": "https://en.wikipedia.org/wiki/The_All-Joking,_All-Drunken_Synod_of_Fools_and_Jesters",
+    "extract": "The All-Joking, All-Drunken Synod of Fools and Jesters (1692–1725) was a club founded by Peter I of Russia. The group included many of Peter's closest friends, and its activities centered mostly around drinking and reveling. The group was not without controversies; some of its parodies against the Russian Orthodox Church in particular were heavily criticized."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lefort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lefort.jpg",
+    "file": "File:Lefort.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 413,
+    "height": 600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1,
+    "closest": "https://api.semanticscholar.org/CorpusID:164057552"
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kvissel murder: An incident when a 16 year old girl whose boyfriend is actually a 29 year-old Iraqi Islamist extremist. The couple was not known for their age gap, but rather for the killing of said 16 year old girl's mother.",
+   "article": {
+    "title": "Kvissel murder",
+    "url": "https://en.wikipedia.org/wiki/Kvissel_murder",
+    "extract": "On 8 October 2014 in the Danish village of Kvissel, 40-year-old Tine Rømer Holtegaard was fatally stabbed in her sleep. On 14 September 2015, her 16-year-old daughter Lisa Borch was sentenced to nine years' imprisonment for her mother's murder. Borch's boyfriend, 29-year-old Bakhtiar Mohammed Abdullah, was sentenced to 13 years in prison, followed by deportation. The murder received international coverage, with sources highlighting Borch's viewing of videos of Islamic State of Iraq and the Levant executions immediately prior to the murder."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Map_DK_Frederikshavn.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Map_DK_Frederikshavn.PNG",
+    "file": "File:Map DK Frederikshavn.PNG",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 465,
+    "height": 550,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nbcnews.com",
+    "url": "https://www.nbcnews.com/news/world/lisa-borch-teen-inspired-isis-jailed-9-years-over-mothers-n428331",
+    "title": "ISIS-Inspired Teen Lisa Borch Jailed Over Mom&#x27;s Stabbing Death",
+    "matched": [
+     "16",
+     "29",
+     "kvissel",
+     "murder",
+     "boyfriend",
+     "iraqi",
+     "islamist",
+     "killing"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Snail racing: Ready, steady, slow!",
+   "article": {
+    "title": "Snail racing",
+    "url": "https://en.wikipedia.org/wiki/Snail_racing",
+    "extract": "Snail racing is a form of humorous entertainment that involves the racing of two or more air-breathing land snails. Usually the garden snail (Cornu aspersum) is used. This species is native to Europe, but has been accidentally introduced to many countries all over the world.\nThere are numerous snail racing events in different places around the world, though the majority take place in the United Kingdom."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Melb_cup_07_041.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Melb_cup_07_041.jpg",
+    "file": "File:Melb cup 07 041.jpg",
+    "artist": "Simon Jardine",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Palácio de Ferro: A bright yellow iron building in Luanda dating back to the colonial era, with no record of who built it or why – although legend has it that it was designed by Gustave Eiffel, architect of the Eiffel Tower.",
+   "article": {
+    "title": "Palácio de Ferro",
+    "url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_de_Ferro",
+    "extract": "Palácio de Ferro (English: Iron Palace) is a historical building in the Angolan capital Luanda, believed to have been designed and built by Gustave Eiffel, designer of the Eiffel Tower and builder of the Statue of Liberty, or by someone associated with him."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Pal%C3%A1cio_de_Ferro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_de_Ferro.jpg",
+    "file": "File:Palácio de Ferro.jpg",
+    "artist": "Zorglub",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 864,
+    "height": 577,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110708013715/http://www.blnz.com/news/2009/01/22/Luanda_breathes_life_into_once-rusty_9775.html",
+    "title": "Luanda breathes new life into once-rusty Iron Palace",
+    "matched": [
+     "palacio",
+     "ferro",
+     "bright",
+     "yellow",
+     "building",
+     "luanda",
+     "colonial",
+     "record"
+    ]
+   }
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+   "article": {
+    "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+    "url": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+    "extract": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with grass to either maintain its shape or keep the foot warm. It is unknown at this stage whether it was a man or woman's shoe. Researchers have"
+   },
+   "published": "Fri, 13 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pensão Amor in Lisbon, Portugal",
+   "article": {
+    "title": "Pensão Amor in Lisbon, Portugal",
+    "url": "https://www.atlasobscura.com/places/pensao-amor",
+    "extract": "Walk down Pink Street in Lisbon’s Cais do Sodré and you’ll eventually find a door that looks like it has secrets. Pensão Amor building is a former brothel that has been transformed into a surprising space in Lisbon's port district. Cais do Sodré was once the sailors’ quarter, where seamen fresh off the boats mingled with writers, fado singers, artists, prostitutes and the occasional spy. Pensão Am"
+   },
+   "published": "Fri, 13 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Sue Metal T-Rex Statue in Faith, South Dakota",
+   "article": {
+    "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
+    "url": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
+    "extract": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the largest and most complete T. rex fossil discovered in the United States. The original skeleton now resides in Chicago's Field Museum. Faith p"
+   },
+   "published": "Fri, 13 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
+   "article": {
+    "title": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/xuan-phong-church",
+    "extract": "Rising out of the rural landscapes of Tuy Phuoc, Xuan Phong Church presents an intriguing architectural cross-pollination that defies conventional ecclesiastical design. Originally established as a modest thatched sanctuary in the late nineteenth century, the current structure was erected around 1890 using repurposed ancient Cham bricks salvaged from the nearby Binh Lam area, creating a tangible p"
+   },
+   "published": "Fri, 13 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Tar Pits in Lawton, Oklahoma",
+   "article": {
+    "title": "The Tar Pits in Lawton, Oklahoma",
+    "url": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+    "extract": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it leaves behind the solids, which become asphalt. This is the ‘tar’ found in tar pits. There are few tar pits in the world, one of which is in s"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+   "article": {
+    "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+    "url": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+    "extract": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this:The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, but according to the tale, this balance has been lost. Today, the people take too much from the sea without respecting it, polluting it, disr"
+   },
+   "published": "Thu, 12 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Dodder Rhino in Dublin, Ireland",
+   "article": {
+    "title": "The Dodder Rhino in Dublin, Ireland",
+    "url": "https://www.atlasobscura.com/places/the-dodder-rhino",
+    "extract": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of Milltown's strangest landmarks. The animal appeared seemingly overnight in 2002, with no plaque explaining who created it, who put it there, "
+   },
+   "published": "Thu, 12 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Patrick’s Church in Sydney, Nova Scotia",
+   "article": {
+    "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/st-patrick-s-church",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. "
+   },
+   "published": "Thu, 12 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring the Unexpected in Alberta",
+   "article": {
+    "title": "Podcast: Exploring the Unexpected in Alberta",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-the-unexpected-in-alberta-will-ferguson",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. Will Ferguson: If you drive east from Calgary, instead of going towards Banff and the mountains, if you go the other way, the landscape will suddenly fall away and you’ll find yourself in the Badlands. But before you hit that valley, before you make that descent, if you turn off the main road, you will come to a small hid"
+   },
+   "published": "Thu, 12 Nov 2026 09:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Invisible Lamplighter in The Hague, Netherlands",
+   "article": {
+    "title": "The Invisible Lamplighter in The Hague, Netherlands",
+    "url": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "extract": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen, you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—i"
+   },
+   "published": "Wed, 11 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "John J. McGraw Monument in Truxton, New York",
+   "article": {
+    "title": "John J. McGraw Monument in Truxton, New York",
+    "url": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
+    "extract": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign memorializing the game played at John J. McGraw Field that funded the carving and installation of the memorial to McGraw. McGraw’s father, a"
+   },
+   "published": "Wed, 11 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+   "article": {
+    "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+    "url": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
+    "extract": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once served as the shop’s mascot. Famously, the ice cream man appeared in the opening credits of the first season of the television show “Parks "
+   },
+   "published": "Wed, 11 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Is An Ocarina? The Ancient History Behind the 'Legend of Zelda’ Instrument",
+   "article": {
+    "title": "What Is An Ocarina? The Ancient History Behind the 'Legend of Zelda’ Instrument",
+    "url": "https://www.mentalfloss.com/entertainment/music/ocarina-history-explained?utm_source=RSS",
+    "extract": "Ocarinas date back thousands of years, and were used in Mesoamerican rituals and ceremonies. Yet they were on the verge of obscurity before 'Legend of Zelda.'"
+   },
+   "published": "Sat, 14 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most—And Least—Superstitious States in America, Ranked",
+   "article": {
+    "title": "The Most—And Least—Superstitious States in America, Ranked",
+    "url": "https://www.mentalfloss.com/geography/states/most-least-superstitious-states-ranked?utm_source=RSS",
+    "extract": "Does your state frequently search queries like “Friday the 13th” or “black cats”? Find out which states are the most and least superstitious."
+   },
+   "published": "Fri, 13 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+   "article": {
+    "title": "The Real Mythology That Helped Inspire J.R.R. Tolkien's Elves",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/real-mythology-helped-inspire-jrr-tolkien-elves?utm_source=RSS",
+    "extract": "How Old Norse sagas, Anglo-Saxon poems, and Irish mythology helped J.R.R. Tolkien transform tiny Victorian fairies into the majestic Elves of Middle-earth."
+   },
+   "published": "Wed, 11 Nov 2026 23:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Binge-Worthy Facts About ‘Orange Is the New Black’",
+   "article": {
+    "title": "20 Binge-Worthy Facts About ‘Orange Is the New Black’",
+    "url": "https://www.mentalfloss.com/entertainment/tv/19-binge-worthy-facts-about-orange-new-black?utm_source=RSS",
+    "extract": "Let’s look back at some of the behind-the-scenes facts seven years after the series ended."
+   },
+   "published": "Fri, 17 Jun 2016 18:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Strange Story Behind the Destroyed First Draft of 'Dr. Jekyll and Mr. Hyde'",
+   "article": {
+    "title": "The Strange Story Behind the Destroyed First Draft of 'Dr. Jekyll and Mr. Hyde'",
+    "url": "https://www.mentalfloss.com/literature/books/strange-story-destroyed-first-draft-dr-jekyll-and-mr-hyde?utm_source=RSS",
+    "extract": "Everybody agrees the first version of Robert Louis Stevenson’s novella went into the fire, but the people in the house told three different stories about how it got there."
+   },
+   "published": "Fri, 13 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+   "article": {
+    "title": "The Defining Macy's Thanksgiving Day Parade Balloon of Every Decade",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/macys-thanksgiving-day-parade-balloons-by-decade?utm_source=RSS",
+    "extract": "Trace the history of the Macy’s Thanksgiving Day Parade decade by decade through its most legendary character balloons, from 1927 to today."
+   },
+   "published": "Thu, 12 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "How ‘Dracula’ Star Bela Lugosi Helped Create One of Disney’s Most Terrifying Villains",
+   "article": {
+    "title": "How ‘Dracula’ Star Bela Lugosi Helped Create One of Disney’s Most Terrifying Villains",
+    "url": "https://www.mentalfloss.com/entertainment/movies/dracula-star-helped-create-terrifying-disney-villain?utm_source=RSS",
+    "extract": "Discover how horror icon Bela Lugosi nearly brought Disney's most terrifying villain, Chernabog from 'Fantasia,' to life—and why his live-action performance was ultimately scrapped."
+   },
+   "published": "Fri, 13 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Best Martin Scorsese Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "The 10 Best Martin Scorsese Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/best-martin-scorsese-movies-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'Goodfellas' to 'The Irishman,' these are Martin Scorsese’s 10 best movies, ranked by their Rotten Tomatoes scores."
+   },
+   "published": "Fri, 13 Nov 2026 13:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Holidays in the U.S., Ranked",
+   "article": {
+    "title": "The Most Popular Holidays in the U.S., Ranked",
+    "url": "https://www.mentalfloss.com/holidays/most-popular-holidays-us-ranked?utm_source=RSS",
+    "extract": "Where does your favorite holiday fall on the list? See which holidays Americans rank as their favorites and least favorites, based on a 2024 poll."
+   },
+   "published": "Fri, 13 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Chilling Facts About the Burke and Hare Murders",
+   "article": {
+    "title": "7 Chilling Facts About the Burke and Hare Murders",
+    "url": "https://www.mentalfloss.com/crime/burke-hare-murders-chilling-facts?utm_source=RSS",
+    "extract": "William Burke and William Hare murdered 16 people and sold their bodies to an anatomist—and these lesser-known details about their case make it even more disturbing."
+   },
+   "published": "Fri, 13 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Valuable Company in Every State, Mapped",
+   "article": {
+    "title": "The Most Valuable Company in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-valuable-company-every-state-map?utm_source=RSS",
+    "extract": "Based on October 2026 market cap data, this map reveals the biggest publicly traded powerhouse headquartered in all 50 U.S. states."
+   },
+   "published": "Thu, 12 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "9 Everyday Words That Came From Ancient Egypt",
+   "article": {
+    "title": "9 Everyday Words That Came From Ancient Egypt",
+    "url": "https://www.mentalfloss.com/language/words/everyday-words-came-from-ancient-egypt?utm_source=RSS",
+    "extract": "The ancient language of the pharaohs died out centuries ago, but bits of it remain."
+   },
+   "published": "Thu, 12 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
+   "article": {
+    "title": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
+    "url": "https://www.smithsonianmag.com/smart-news/two-centuries-after-this-bronze-leg-emerged-from-a-scottish-bog-archaeologists-believe-it-may-have-once-belonged-to-a-towering-statue-of-a-roman-emperor-on-horseback-180989872/",
+    "extract": "Long thought to have been looted from northern England by Scottish tribes, the larger-than-life leg may have actually been displayed in Roman Scotland, before it was carefully dismantled and buried by retreating forces"
+   },
+   "published": "Fri, 13 Nov 2026 21:34:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Thawing Permafrost May Have Created a New Type of Landslide, Which Could Become More Common as the World Warms",
+   "article": {
+    "title": "Thawing Permafrost May Have Created a New Type of Landslide, Which Could Become More Common as the World Warms",
+    "url": "https://www.smithsonianmag.com/smart-news/thawing-permafrost-may-have-created-a-new-type-of-landslide-which-could-become-more-common-as-the-world-warms-180989863/",
+    "extract": "Scientists call the events permafrost detachment slides. Instead of thawing from the top down, these landslides seem to originate from a weakened base"
+   },
+   "published": "Fri, 13 Nov 2026 16:33:14 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+   "article": {
+    "title": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+    "extract": "New research suggests that medium-sized birds of prey such as short-eared owls feasted on the frogs during a \"short, intensive predation event\" some 1,700 years ago"
+   },
+   "published": "Fri, 13 Nov 2026 16:25:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat",
+   "article": {
+    "title": "This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat",
+    "url": "https://www.smithsonianmag.com/smart-news/this-four-person-nasa-crew-spent-over-a-year-on-mars-heres-what-they-did-for-378-days-in-a-simulated-martian-habitat-180989862/",
+    "extract": "An intense selection process and long preparation helped set the crew up for cohabitation in a 3D-printed replication of the Red Planet's environment in Houston. There, they practiced Marswalks, disrupted communications with people on Earth and food cultivation"
+   },
+   "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+   "article": {
+    "title": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+    "url": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+    "extract": "Painted around 1520, the newly identified painting is one of only three pure landscapes painted in oil by the artist. It depicts a lush forest scene with castle ruins and a rainbow emerging from stormy skies"
+   },
+   "published": "Fri, 13 Nov 2026 15:02:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+   "article": {
+    "title": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+    "url": "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/",
+    "extract": "According to Peruvian officials, the three European travelers—including one who's been identified as a \"renowned tarantula researcher\"—could have made around $1.68 million from the creepy-crawly loot"
+   },
+   "published": "Fri, 13 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+   "article": {
+    "title": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+    "url": "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+    "extract": "Most dengue infections cause mild flu-like symptoms or no symptoms at all. But at least one person has died from this year’s outbreak in Florida, where health experts worry the disease will become more common in the future"
+   },
+   "published": "Thu, 12 Nov 2026 19:52:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+   "article": {
+    "title": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+    "url": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
+    "extract": "The 1,000-foot ship, longer than the \"Titanic,\" once carried celebrities and politicians across the Atlantic in midcentury style. Now, after decades of uncertainty and rust, it's taking on a second life as an underwater refuge for marine creatures and curious divers"
+   },
+   "published": "Thu, 12 Nov 2026 18:51:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+   "article": {
+    "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+    "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
+    "extract": "A metal detectorist recovered the brass artifact from the wreck of the \"Ann Francis,\" a merchant vessel that sank off southern Wales. Researchers used micro-CT scans to identify the four-letter combination"
+   },
+   "published": "Thu, 12 Nov 2026 18:22:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+   "article": {
+    "title": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+    "url": "https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/",
+    "extract": "The small decrease seems to stem partially from the closure of the Strait of Hormuz, a major global chokepoint for oil transportation. Scientists say that the decline will not last without the accelerated deployment of renewable energies"
+   },
+   "published": "Thu, 12 Nov 2026 17:48:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+   "article": {
+    "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "extract": "The dwarf planet candidate, called ED138, appeared in telescope images and takes roughly 280 years to orbit the sun. Astronomers need to determine its size to properly classify it"
+   },
+   "published": "Thu, 12 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+   "article": {
+    "title": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+    "url": "https://www.smithsonianmag.com/smart-news/what-seeded-life-on-earth-new-research-challenges-the-longstanding-theory-that-comets-brought-the-ingredients-to-our-planet-180989852/",
+    "extract": "Computer simulations suggest comets carrying a key precursor to many of life's building blocks would have rarely—if ever—successfully reached Earth's surface. And even if they did, only specific landing conditions would have allowed the precursor molecule to drive biologically relevant reactions"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+   "article": {
+    "title": "Attyla. Barbarzyńca, który dyktował warunki cesarstwu",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/06/attyla-barbarzynca-ktory-dyktowal-warunki-cesarstwu/",
+    "extract": "W V wieku Hunowie pod wodzą Attyli stali się postrachem cesarstwa rzymskiego. Plądrowali miasta, uprowadzali mieszkańców i rozbijali kolejne armie. Gdy zbliżali się do Konstantynopola, potężne trzęsienie ziemi zniszczyło część murów obronnych stolicy. Cesarstwo zdołało uniknąć jej zdobycia, ale za pokój zapłaciło ogromną cenę. Attyla wymusił na Rzymianach tysiące funtów złota. The post Attyla. Bar"
+   },
+   "published": "Fri, 06 Nov 2026 21:32:47 +0000",
+   "image": null
+  }
+ ]
+}
