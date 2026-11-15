@@ -1,5 +1,452 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-15": {
+    "date": "2026-11-15",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Rockstar zdradził nowe szczegóły GTA 6: randki Jasona i Lucii, rozpoznanie przed napadem i 62 gatunki ptaków",
+        "summary": "Na kilka dni przed premierą „The Guardian” odwiedził Rockstar North. Współszef studia Rob Nelson opowiedział o tym, jak działają napady, relacja bohaterów i przełączanie się między nimi.",
+        "body": [
+          "Dziennikarka „The Guardian” Keza MacDonald odwiedziła studio Rockstar North przed premierą GTA 6 zaplanowaną na 19 listopada. Nowe informacje z tej wizyty zebrał serwis Vice 14 listopada. Głównym rozmówcą był Rob Nelson, współszef Rockstar North.",
+          "Jason i Lucia zaczynają od drobnych przestępstw, jak odpalanie tanich aut na kable i otwieranie prostych zamków. Niektóre zaparkowane samochody wymagają narzędzi zdobywanych później. Przed napadem można zrobić rozpoznanie: znaleźć tylne wejście albo kod do sejfu, wyłączyć kamery lub zabrać nagrania.",
+          "Bohaterowie, gdy są osobno, mogą do siebie dzwonić i pisać, a także chodzić na randki. Według opisu randką może być nawet napad na sklep monopolowy, a w grze jest przycisk do trzymania się za ręce. Zaniedbywana relacja może się psuć.",
+          "Między Jasonem i Lucią można przełączać się przez większość gry, choć niektóre momenty fabuły są przypisane do jednej postaci. W grze jest też 62 gatunki ptaków do obserwowania przez lornetkę i zapisywania w dzienniku przyrody. Nelson mówił też o opcjonalnych gestach empatii, np. Jason może zapytać właściciela psa, czy może go pogłaskać."
+        ],
+        "sources": [
+          {
+            "name": "Vice",
+            "url": "https://www.vice.com/en/article/gta-6-gameplay-details-guardian-interview/"
+          },
+          {
+            "name": "GameRoll / X",
+            "url": "https://x.com/GameRoll_/status/2121409391735808229"
+          }
+        ],
+        "embed": "https://x.com/GameRoll_/status/2121409391735808229",
+        "caption": {
+          "credit": "GameRoll / X",
+          "text": "Post zbiera najważniejsze informacje z zapowiedzi GTA 6 opublikowanej przez „The Guardian”. To z tego materiału pochodzą szczegóły o napadach, randkach i przełączaniu postaci."
+        },
+        "noImage": "brak legalnego kadru: materiał prasowy bez filmu YouTube",
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-13",
+        "who": "Pocketpair",
+        "initials": "PP",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Twórcy Palworld dali pracownikom pięć dni wolnego na GTA 6. Nazwali to „delegacją do Vice City”",
+        "summary": "Japońskie studio Pocketpair ogłosiło wolne od 19 do 23 listopada dla każdego, kto chce grać w GTA 6. Szef firmy zapowiedział, że sam też zrobi sobie przerwę.",
+        "body": [
+          "Pocketpair, studio znane z Palworld i Craftopii, ogłosiło na X, że jego pracownicy dostaną pięć dni wolnego od 19 do 23 listopada, czyli od dnia premiery GTA 6. Firma żartobliwie nazwała to „pilną pięciodniową delegacją do Vice City”.",
+          "Według 80.lv warunek jest jeden: pracownik ma zamiar grać w GTA 6. Prezes Pocketpair Takuro Mizobe napisał na X, że też weźmie wolne, żeby zagrać.",
+          "80.lv przypomina też inne firmy, które dają wolne w okolicach premiery, i przytacza dane BambooHR o wzroście wniosków urlopowych na 19 listopada o 9–17 proc. Premiera GTA 6 na PS5 i Xbox Series X|S jest zaplanowana na 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Palworld / X",
+            "url": "https://x.com/Palworld_EN/status/2120864259907452930",
+            "origin": true
+          },
+          {
+            "name": "Takuro Mizobe / X",
+            "url": "https://x.com/urokuta_ja/status/2120877790182695074"
+          },
+          {
+            "name": "80.lv",
+            "url": "https://80.lv/articles/palworld-studio-pocketpair-gives-employees-5-days-off-to-play-gta-6"
+          }
+        ],
+        "embed": "https://x.com/Palworld_EN/status/2120864259907452930",
+        "caption": {
+          "credit": "Palworld / X",
+          "text": "Oficjalny post Pocketpair z ogłoszeniem pięciu dni wolnego na premierę GTA 6. To pierwsze źródło informacji o „delegacji do Vice City”."
+        },
+        "noImage": "brak legalnego zdjęcia: ogłoszenie tylko w poście na X",
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "gameranx",
+        "initials": "GR",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Gameranx zebrał 25 rzeczy, które trzeba wiedzieć przed GTA 6. Prawie milion wyświetleń w niecałą dobę",
+        "summary": "Kanał gameranx wrzucił 25-minutowe podsumowanie wszystkiego, co Rockstar ujawnił o GTA 6. Widzowie w komentarzach odliczają dni do premiery.",
+        "body": [
+          "Kanał gameranx opublikował 14 listopada film „GTA 6: 25 Things You NEED TO KNOW”. Według opisu to zbiór wszystkich ujawnionych informacji o grze przed premierą, ułożony jako ranking od 25. do 1. miejsca.",
+          "15 listopada ok. 6:15 film miał ok. 979 tys. wyświetleń, 15,8 tys. polubień i ok. 2 tys. komentarzy.",
+          "Widzowie w komentarzach żartują, że twórcy kanału pewnie już są w połowie gry, i cieszą się z porównań GTA 6 do Red Dead Redemption 2. Część osób pisze, że brała urlop na premierę, inni dyskutują o 30 klatkach na sekundę na konsolach."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=A9fifS608C8",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/A9fifS608C8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/A9fifS608C8/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=A9fifS608C8",
+          "alt": "Miniatura filmu gameranx o GTA 6",
+          "caption": "Miniatura filmu gameranx z 25 rzeczami o GTA 6."
+        },
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Miniatura omawianego filmu z podsumowaniem informacji o GTA 6. Film powstał na kilka dni przed premierą gry."
+        },
+        "insta": {
+          "tytul": "Gameranx wrzucił 25 rzeczy, które warto wiedzieć przed GTA 6",
+          "opis": "Prawie milion wyświetleń w niecałą dobę. W komentarzach wszyscy już odliczają do 19 listopada."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-14",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "YouTube",
+        "hype": 4,
+        "ig": [
+          "mrbeast"
+        ],
+        "title": "MrBeast zrobił „Igrzyska śmierci” na żywo. 12 drużyn walczyło o 250 tys. dolarów",
+        "summary": "Nowy film MrBeasta to rywalizacja 12 drużyn na arenie wzorowanej na „Igrzyskach śmierci”. W niecałą dobę zebrał ponad 23 mln wyświetleń.",
+        "body": [
+          "MrBeast opublikował 14 listopada film „$250,000 Hunger Games In Real Life”. W opisie pisze, że umieścił 12 drużyn na prawdziwej arenie w stylu „Igrzysk śmierci”, a stawką było 250 tys. dolarów. Film trwa ok. 34 minut.",
+          "15 listopada ok. 6:15 materiał miał ponad 23,1 mln wyświetleń, ok. 570 tys. polubień i ponad 36 tys. komentarzy.",
+          "Widzowie w komentarzach najczęściej piszą o tym, że włócznie okazały się zdecydowanie najmocniejszą bronią, i porównują format do wcześniejszego „Squid Game” na kanale. Sam MrBeast w komentarzu zapytał, co ma odtworzyć następnym razem."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/watch?v=q6fgVVmdpgY",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/q6fgVVmdpgY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/q6fgVVmdpgY/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/watch?v=q6fgVVmdpgY",
+          "alt": "Miniatura filmu MrBeasta o Igrzyskach śmierci",
+          "caption": "Miniatura filmu „$250,000 Hunger Games In Real Life”."
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura omawianego filmu z areną w stylu „Igrzysk śmierci”. To najnowszy duży format na kanale MrBeasta."
+        },
+        "insta": {
+          "tytul": "MrBeast zrobił „Igrzyska śmierci” na serio. 12 drużyn, 250 tys. dolarów",
+          "opis": "Ponad 23 mln wyświetleń w niecałą dobę. Widzowie zgodnie piszą, że włócznie były po prostu za mocne."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-15",
+        "who": "Jacob",
+        "initials": "JA",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Jacob wystartował z Bambik Cup. Streamerzy i youtuberzy grają w Fortnite OG o 50 tys. zł",
+        "summary": "Jacob zorganizował turniej Bambik Cup z pulą 50 tys. zł. Grają m.in. Ewron, Zony, Gawronek i Kinia Tymoszuk, a transmisja z pierwszego dnia trwała ponad siedem i pół godziny.",
+        "body": [
+          "Jacob pokazał na swoim kanale transmisję z pierwszego dnia turnieju Bambik Cup w Fortnite OG, w trybie solo bez budowania. Pula nagród to 50 tys. zł.",
+          "Według opisu w turnieju grają streamerzy Ewron, Zony, MrDzinold i Pago oraz youtuberzy Gawronek, Kinia Tymoszuk, Yoshi i Naruciak. Zapis transmisji trwa ponad 7,5 godziny.",
+          "15 listopada ok. 6:15 nagranie miało ok. 314 tys. wyświetleń. Turniej towarzyszy trzeciemu sezonowi Jacob Cup, czyli mistrzostw Polski w Fortnite organizowanych przez Jacoba."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=-OCBhAspriM",
+            "origin": true
+          }
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-OCBhAspriM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-OCBhAspriM/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=-OCBhAspriM",
+          "alt": "Miniatura transmisji Bambik Cup u Jacoba",
+          "caption": "Miniatura transmisji z pierwszego dnia Bambik Cup."
+        },
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Miniatura zapisu transmisji z pierwszego dnia turnieju. To w tym nagraniu Jacob pokazał rozgrywki o 50 tys. zł."
+        },
+        "insta": {
+          "tytul": "Jacob odpalił Bambik Cup. Streamerzy grają w Fortnite OG o 50 tys. zł",
+          "opis": "Grają m.in. Ewron, Zony, Gawronek i Kinia Tymoszuk. Pierwszy dzień trwał ponad 7 godzin."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Londyn",
+        "initials": "LO",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W Londynie żyła kobieta, która zarabiała na sprzedawaniu ludziom dokładnej godziny",
+        "summary": "Ruth Belville codziennie ustawiała zegarek według zegara w Greenwich, a potem pozwalała klientom sprawdzić na nim czas. Robiła to po rodzicach.",
+        "body": [
+          "Ruth Belville, nazywana „Panią Czasu z Greenwich”, przejęła rodzinny interes po ojcu i matce. Każdego dnia ustawiała swój zegarek według czasu Greenwich, a potem odwiedzała klientów, którzy mogli według niego wyregulować swoje zegary.",
+          "Belville żyła w latach 1854–1943 i prowadziła ten biznes jak wcześniej jej matka Maria Elizabeth i ojciec John Henry."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ruth_Belville"
+          },
+          {
+            "name": "uh.edu",
+            "url": "http://uh.edu/engines/epi2070.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ruth_Belville_1908.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Ruth_Belville_1908.jpg",
+          "credit": "Fox Photos/Hulton Archive / Wikimedia Commons, Public domain",
+          "alt": "Ruth Belville z zegarkiem w 1908 roku",
+          "caption": "Ruth Belville, która sprzedawała ludziom czas z Greenwich, na zdjęciu z 1908 r."
+        },
+        "insta": {
+          "tytul": "Była kobieta, która zarabiała na… sprzedawaniu ludziom godziny",
+          "opis": "Ruth Belville codziennie ustawiała zegarek w Greenwich i chodziła z nim po Londynie. Klienci płacili, żeby sprawdzić dokładny czas."
+        },
+        "caption": {
+          "credit": "Fox Photos/Hulton Archive / Wikimedia Commons",
+          "text": "Zdjęcie przedstawia Ruth Belville w 1908 r., w czasach gdy prowadziła swój nietypowy biznes. To ona przez lata „sprzedawała” Londyńczykom czas z Greenwich."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Dania",
+        "initials": "DK",
+        "category": "Sport",
+        "hype": 4,
+        "title": "Dania zagrała mecz reprezentacji drużyną amatorów i futsalowców. Przegrała ze Słowacją tylko 0:3",
+        "summary": "W 2018 r. przez spór z związkiem piłkarzy duńska federacja wysłała na mecz ze Słowacją zawodników z niższych lig i futsalu, powołanych dwa dni wcześniej.",
+        "body": [
+          "Przed towarzyskim meczem ze Słowacją 5 września 2018 r. w Trnawie duńska federacja pokłóciła się ze związkiem zawodowych piłkarzy o prawa komercyjne. Zamiast podstawowej kadry, która od prawie dwóch lat nie przegrała meczu, wysłała zawodników z trzeciej, czwartej i piątej ligi oraz futsalowców.",
+          "Żaden z nich nie miał wcześniej występu w reprezentacji, a powołania dostali 48 godzin przed spotkaniem. Mimo to Słowacja wygrała tylko 3:0."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/2018_Slovakia_v_Denmark_football_match"
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/45382474"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CityArena.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:CityArena.jpg",
+          "credit": "Lolo8899 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Stadion w Trnawie",
+          "caption": "Stadion w Trnawie, na którym duńscy amatorzy zagrali ze Słowacją."
+        },
+        "insta": {
+          "tytul": "Dania wystawiła na mecz reprezentacji amatorów i futsalowców",
+          "opis": "Przez spór z piłkarzami w 2018 r. zagrali ludzie z niższych lig, powołani 2 dni wcześniej. Słowacja wygrała tylko 3:0."
+        },
+        "caption": {
+          "credit": "Lolo8899 / Wikimedia Commons",
+          "text": "Na zdjęciu stadion w Trnawie, gdzie 5 września 2018 r. rozegrano mecz Słowacji z duńskimi amatorami."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Indie",
+        "initials": "IN",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Indyjski władca miał mechanicznego tygrysa, który pożera Brytyjczyka i ma w środku organy",
+        "summary": "Tygrys Tipu to XVIII-wieczny automat zrobiony dla sułtana Mysore. Ręka figury się porusza, ofiara jęczy, a tygrys warczy.",
+        "body": [
+          "Automat powstał dla Tipu Sultana, władcy Królestwa Mysore, który walczył z Brytyjską Kompanią Wschodnioindyjską. Drewniana, malowana figura przedstawia tygrysa rzucającego się na Brytyjczyka niemal naturalnej wielkości.",
+          "Mechanizm w środku porusza ręką mężczyzny i wydaje odgłosy: jęk ofiary i pomruki tygrysa. Klapka z boku odsłania klawiaturę małych organów z 18 dźwiękami. Dziś automat jest w londyńskim Victoria and Albert Museum."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tipu%27s_Tiger"
+          },
+          {
+            "name": "Victoria and Albert Museum",
+            "url": "http://www.vam.ac.uk/content/articles/t/tippoos-tiger/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tipu%27s_Tiger_front_view_2006AH4173.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Tipu%27s_Tiger_front_view_2006AH4173.jpg",
+          "credit": "Victoria and Albert Museum / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Drewniany tygrys przygniatający figurę mężczyzny",
+          "caption": "Tygrys Tipu w Victoria and Albert Museum."
+        },
+        "insta": {
+          "tytul": "Sułtan miał mechanicznego tygrysa, który pożera Brytyjczyka",
+          "opis": "Figura jęczy, tygrys warczy, a z boku są ukryte organy. Można go dziś zobaczyć w muzeum w Londynie."
+        },
+        "caption": {
+          "credit": "Victoria and Albert Museum / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje oryginalny automat z XVIII wieku, przechowywany w Victoria and Albert Museum. Widać tygrysa i figurę Brytyjczyka, o których mowa w ciekawostce."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "USA",
+        "initials": "US",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "Pies Pep trafił do amerykańskiego więzienia z numerem C-2559 i zdjęciem jak z kartoteki",
+        "summary": "W 1924 r. labrador Pep znalazł się w Eastern State Penitentiary. Wpis o „dożywociu” był żartem, ale część gazet wzięła go na serio.",
+        "body": [
+          "Czarny labrador Pep 31 sierpnia 1924 r. trafił do więzienia Eastern State Penitentiary w Filadelfii. Dostał numer więźnia C-2559, zrobiono mu zdjęcie i odciski łap.",
+          "W księdze wpisano mu dożywocie za zabicie kota, co było żartem. Pies miał poprawiać nastroje więźniów, ale wiele gazet potraktowało historię dosłownie i wybuchło oburzenie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pep_(dog)"
+          },
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/1926/01/15/archives/the-penitentiary-dog.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pep_%28inmate_C-2559%29_mugshot.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Pep_(inmate_C-2559)_mugshot.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Zdjęcie psa Pepa z numerem więźnia",
+          "caption": "Więzienne zdjęcie Pepa z numerem C-2559."
+        },
+        "insta": {
+          "tytul": "Ten pies dostał numer więźnia i zdjęcie jak z kartoteki",
+          "opis": "Labrador Pep trafił w 1924 r. do więzienia w Filadelfii. Miał poprawiać humor więźniom, ale gazety myślały, że naprawdę siedzi za kota 🐶"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "To oryginalne więzienne zdjęcie Pepa z 1924 r. z numerem C-2559, o którym mowa w ciekawostce."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Programowanie",
+        "initials": "PR",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Programiści szukają błędów, tłumacząc kod gumowej kaczce. Metoda ma swoją nazwę",
+        "summary": "„Rubber duck debugging” polega na wyjaśnianiu kodu krok po kroku na głos albo na piśmie, nawet zabawce. Przy tłumaczeniu błędy wychodzą same.",
+        "body": [
+          "Rubber duck debugging to znana technika szukania błędów w oprogramowaniu. Programista opisuje swój kod linijka po linijce zwykłym językiem, na głos albo pisemnie, a słuchaczem może być gumowa kaczka.",
+          "Chodzi o to, że przy tłumaczeniu wychodzą na jaw pomyłki i niezrozumienia, których nie widać przy samym patrzeniu w kod."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Rubber_duck_debugging"
+          },
+          {
+            "name": "rubberduckdebugging.com",
+            "url": "https://rubberduckdebugging.com/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rubber_duck_assisting_with_debugging.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Rubber_duck_assisting_with_debugging.jpg",
+          "credit": "Tom Morris / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Gumowa kaczka przy klawiaturze komputera",
+          "caption": "Gumowa kaczka „pomagająca” przy szukaniu błędów w kodzie."
+        },
+        "insta": {
+          "tytul": "Programiści naprawiają kod, tłumacząc go… gumowej kaczce",
+          "opis": "Opowiadasz kaczce linijka po linijce, co robi program, i nagle sam widzisz błąd. Metoda ma nawet swoją nazwę."
+        },
+        "caption": {
+          "credit": "Tom Morris / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje gumową kaczkę przy komputerze, czyli dosłowną ilustrację tej metody szukania błędów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Francja",
+        "initials": "FR",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Francuzka wygrała wybory 19 lat przed tym, jak kobiety we Francji dostały prawo głosu",
+        "summary": "Joséphine Pencalet w 1925 r. została radną miejską. Była jedną z pierwszych kobiet wybranych we Francji.",
+        "body": [
+          "Joséphine Pencalet była francuską działaczką związkową. W 1925 r. została wybrana do rady miejskiej i była jedną z pierwszych kobiet wybranych na urząd we Francji.",
+          "Stało się to 19 lat przed wprowadzeniem we Francji prawa wyborczego kobiet."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Jos%C3%A9phine_Pencalet"
+          },
+          {
+            "name": "Maitron",
+            "url": "https://maitron.fr/pencalet-josephine-veuve-le-ray/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_Josephine_Pencalet_ag%C3%A9e_de_20_ans.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Portrait_Josephine_Pencalet_ag%C3%A9e_de_20_ans.jpg",
+          "credit": "Portrait de Joséphine Pencalet en 1916 / Wikimedia Commons, CC0",
+          "alt": "Portret Joséphine Pencalet",
+          "caption": "Portret Joséphine Pencalet, jednej z pierwszych kobiet wybranych we Francji."
+        },
+        "insta": {
+          "tytul": "Wygrała wybory, zanim kobiety we Francji mogły w ogóle głosować",
+          "opis": "Joséphine Pencalet została radną w 1925 r. Francuzki dostały prawo głosu dopiero 19 lat później."
+        },
+        "caption": {
+          "credit": "Portrait de Joséphine Pencalet en 1916 / Wikimedia Commons",
+          "text": "Portret Joséphine Pencalet z 1916 r., niecałe dziesięć lat przed jej wyborem do rady miejskiej."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-14": {
     "date": "2026-11-14",
     "ryby": [],

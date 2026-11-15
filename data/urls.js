@@ -1,5 +1,22 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-15": {
+  "luz": [
+   "artykuly/2026-11-15/rockstar-zdradzil-nowe-szczegoly-gta-6-randki-jasona-i-lucii.html",
+   "artykuly/2026-11-15/tworcy-palworld-dali-pracownikom-piec-dni-wolnego-na-gta-6-nazwali.html",
+   "artykuly/2026-11-15/gameranx-zebral-25-rzeczy-ktore-trzeba-wiedziec-przed-gta-6-prawie.html",
+   "artykuly/2026-11-15/mrbeast-zrobil-igrzyska-smierci-na-zywo-12-druzyn-walczylo-o-250-tys.html",
+   "artykuly/2026-11-15/jacob-wystartowal-z-bambik-cup-streamerzy-i-youtuberzy-graja.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-15/w-londynie-zyla-kobieta-ktora-zarabiala-na-sprzedawaniu-ludziom.html",
+   "artykuly/2026-11-15/dania-zagrala-mecz-reprezentacji-druzyna-amatorow-i-futsalowcow.html",
+   "artykuly/2026-11-15/indyjski-wladca-mial-mechanicznego-tygrysa-ktory-pozera-brytyjczyka.html",
+   "artykuly/2026-11-15/pies-pep-trafil-do-amerykanskiego-wiezienia-z-numerem-c-2559.html",
+   "artykuly/2026-11-15/programisci-szukaja-bledow-tlumaczac-kod-gumowej-kaczce-metoda.html",
+   "artykuly/2026-11-15/francuzka-wygrala-wybory-19-lat-przed-tym-jak-kobiety-we-francji.html"
+  ]
+ },
  "2026-11-14": {
   "luz": [
    "artykuly/2026-11-14/mandzio-wystartowal-z-programem-gamemaster-13-tworcow-gra.html",
