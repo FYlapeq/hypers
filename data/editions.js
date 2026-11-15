@@ -6,6 +6,173 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "world",
+        "published": "2026-11-15",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Twitch i Kick rozdają kody do GTA 6. Kick ma 10 tys. kodów do Ultimate Edition, Twitch nie podał liczby",
+        "summary": "Obie platformy streamingowe ogłosiły akcje z darmowymi kodami do GTA 6. Kick losuje 10 tys. kodów do Ultimate Edition wśród oglądających, a Twitch zapowiedział codzienne dropy kodów od premiery do końca listopada.",
+        "body": [
+          "Kick ogłosił akcję „Sunset Reward Case” 12 listopada we wpisie na X. Według Dexerto do wygrania jest 10 tys. cyfrowych kodów do GTA 6 Ultimate Edition na PS5 i Xbox Series X|S. Żeby otworzyć skrzynkę, trzeba obejrzeć dowolną transmisję przez 180 minut. Można to zrobić raz dziennie, a akcja trwa do 7 grudnia.",
+          "Kick zaznacza, że kody nie trafią do zwycięzców przed premierą gry 19 listopada i że promocja nie jest powiązana z Rockstar Games ani Take-Two. Kody na Xboxa działają na całym świecie, a na PS5 tylko w obsługiwanych regionach PSN.",
+          "Twitch ogłosił swoją akcję 13 listopada na otwarciu TwitchCon w San Diego. Zapowiedział codzienne dropy kodów do GTA 6 od premiery do końca listopada, ale nie podał, ile ich będzie. Na komentarz sugerujący 10 tys. kodów oficjalne konto Twitcha odpisało: „Kto powiedział, że tylko 10 tys.?”.",
+          "Do 30 listopada na Twitchu będą też inne nagrody związane z GTA 6, m.in. emotki i odznaki, a Hype Trainy zmienią się w „HEIST” traine z sześcioma emotkami. Twitch nie podał jeszcze dokładnych zasad zdobywania kodów."
+        ],
+        "sources": [
+          {
+            "name": "Dexerto",
+            "url": "https://www.dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151/"
+          },
+          {
+            "name": "Game Rant",
+            "url": "https://gamerant.com/gta-6-ultimate-twitch-giveaway-ps5-xbox-free-keys/"
+          },
+          {
+            "name": "Notebookcheck",
+            "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html"
+          }
+        ],
+        "embed": "https://x.com/Dexerto/status/2121609272752836904",
+        "caption": {
+          "credit": "Dexerto / X",
+          "text": "Wpis Dexerto zbiera obie akcje w jednym miejscu: 10 tys. kodów na Kicku i codzienne dropy na Twitchu. Szczegóły zasad podajemy za oficjalnymi ogłoszeniami platform."
+        },
+        "insta": {
+          "tytul": "Twitch i Kick rozdają kody do GTA 6 za oglądanie streamów",
+          "opis": "Kick ma 10 tys. kodów do Ultimate Edition, a Twitch obiecuje dropy codziennie do końca listopada. Ile, jeszcze nie wiadomo."
+        },
+        "noImage": "brak legalnego zdjęcia: akcje ogłoszone we wpisach na X, bez filmu ani newsroomu z prawem do publikacji",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Wyciekła lista utworów z albumu GTA 6. Według mediów są na niej Dua Lipa, Lana Del Rey i Jennie",
+        "summary": "Do sieci trafiły zdjęcia winylu „GTA VI: The Album” z listą 34 utworów. Rockstar nie potwierdził tracklisty, ale według NME źródła potwierdziły ją magazynowi Rolling Stone.",
+        "body": [
+          "Według GamesRadar+ w sieci pojawiło się nagranie, prawdopodobnie ze sklepu muzycznego, na którym widać przód i tył winylu „GTA VI: The Album”. NME podaje, że pracownik sklepu miał sprzedać płytę przed terminem, a zdjęcia okładki rozeszły się w mediach społecznościowych.",
+          "Na liście są 34 utwory. Media wymieniają wśród wykonawców m.in. Duę Lipę, Lanę Del Rey, Zarę Larsson, Jennie z BLACKPINK, Camilę Cabello i Rinę Sawayamę.",
+          "Rockstar nie ogłosił oficjalnie tracklisty. NME pisze, że źródła potwierdziły listę magazynowi Rolling Stone, a album przygotowany przez Rockstar i Atlantic Records ma wyjść razem z grą, 19 listopada. Osobno, 11 grudnia, ma się ukazać ścieżka dźwiękowa skomponowana przez Justice.",
+          "Do premiery trzeba więc traktować listę jako przeciek, a nie oficjalną informację."
+        ],
+        "sources": [
+          {
+            "name": "NME",
+            "url": "https://www.nme.com/news/music/lana-del-rey-dua-lipa-zara-larsson-gta-vi-the-album-full-tracklist-3975990"
+          },
+          {
+            "name": "GamesRadar+",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/"
+          },
+          {
+            "name": "Dexerto",
+            "url": "https://www.dexerto.com/gta/gta-6-album-leak-reveals-34-song-tracklist-featuring-travis-scott-dua-lipa-morgan-wallen-and-more-3428203/"
+          }
+        ],
+        "insta": {
+          "tytul": "Wyciekła tracklista albumu do GTA 6. Podobno jest Dua Lipa i Lana Del Rey",
+          "opis": "Ktoś w sklepie muzycznym nagrał winyl przed premierą. 34 utwory, Rockstar na razie nic nie potwierdził."
+        },
+        "noImage": "brak legalnego zdjęcia: przeciek ze zdjęć winylu, bez oficjalnego materiału",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Pudełkowe GTA 6 bez płyty sprawia problemy. Gracze piszą o kodach widocznych przez pudełko i brakujących kodach",
+        "summary": "Fizyczne wydanie GTA 6 zawiera tylko kod do pobrania gry. Część graczy twierdzi, że kod da się odczytać przez zamknięte pudełko latarką, inni piszą o brakujących lub już użytych kodach. Rockstar nie odniósł się do zgłoszeń.",
+        "body": [
+          "W pudełkowym GTA 6 nie ma płyty, tylko kod do pobrania gry. Według Game Rant to pozwala pobrać grę przed premierą 19 listopada.",
+          "Engadget opisał 13 listopada zgłoszenia z ResetEra i X, według których kod jest wydrukowany na wewnętrznej stronie okładki i da się go odczytać, świecąc mocną latarką przez bok zamkniętego pudełka. Miałoby to dotyczyć części wydań międzynarodowych, bo w wersji amerykańskiej kod jest zasłonięty. Według VGTimes test GamesRadar+ na amerykańskim i brytyjskim egzemplarzu PS5 się nie udał.",
+          "Drugi problem to zgłoszenia graczy, którzy piszą, że w pudełku nie było kodu albo był już wykorzystany, a sklepy odmawiały wymiany. Game Rant i VGTimes zaznaczają, że to niepotwierdzone relacje.",
+          "Rockstar publicznie nie skomentował tych zgłoszeń."
+        ],
+        "sources": [
+          {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/"
+          },
+          {
+            "name": "Game Rant",
+            "url": "https://gamerant.com/gta-6-physical-code-in-box-problems/"
+          },
+          {
+            "name": "VGTimes",
+            "url": "https://vgtimes.com/gaming-news/174651-gta-6-physical-copies-reportedly-have-missing-download-codes.html"
+          },
+          {
+            "name": "VGTimes (test GamesRadar+)",
+            "url": "https://vgtimes.com/gaming-news/174578-gta-6-physical-codes-seem-safe-from-flashlight-scans-tests-suggest.html"
+          }
+        ],
+        "embed": "https://x.com/fieldreportgta/status/2121575524648517693",
+        "caption": {
+          "credit": "FIELD REPORT GTA / X",
+          "text": "Wpis opisuje test GamesRadar+, w którym sposób z latarką nie zadziałał na egzemplarzach z USA i Wielkiej Brytanii. To odpowiedź na wcześniejsze zgłoszenia o kodach widocznych przez pudełko."
+        },
+        "insta": {
+          "tytul": "Pudełkowe GTA 6 to tylko kod w środku i już są z nim problemy",
+          "opis": "Jedni piszą, że kod da się podejrzeć latarką przez pudełko, inni, że kodu nie było. Test GamesRadar+ latarki nie potwierdził."
+        },
+        "noImage": "brak legalnego zdjęcia: zgłoszenia graczy na X i forach, bez filmu ani newsroomu",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-15",
+        "who": "Friz",
+        "initials": "FR",
+        "category": "Show",
+        "hype": 3,
+        "title": "Friz pokazał wycięte sceny z piątego sezonu „Mafii IRL”. Skomentował je m.in. Maciek „Z Dupy”",
+        "summary": "Na kanale Friza wyszedł odcinek z wyciętymi scenami piątego sezonu „Mafii IRL”. W niedzielę rano miał ponad 314 tys. wyświetleń.",
+        "body": [
+          "Friz opublikował w sobotę na YouTube film „Wycięte sceny Mafia IRL sezon 5”. To dodatek do sezonu, którego finał wyszedł kilka dni wcześniej.",
+          "W opisie wymieniono uczestników, m.in. Maćka z „Programu z Dupy”, Yoshiego, Trombę, Klaudię Sadownik, Young Leosię, Kubańczyka i Zoję Skubis.",
+          "Widzowie w komentarzach chwalą zwłaszcza to, że materiał komentuje Maciek, który odpadł z gry wcześnie. Inni piszą, że liczyli na dłuższy odcinek, bo film trwa niecałe 14 minut.",
+          "W niedzielę ok. 6:20 film miał ok. 314 tys. wyświetleń i ok. 7,9 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "Friz / YouTube",
+            "url": "https://www.youtube.com/watch?v=jhlDwKRCmyk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=jhlDwKRCmyk",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/jhlDwKRCmyk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/jhlDwKRCmyk/hqdefault.jpg",
+          "credit": "Friz / YouTube",
+          "href": "https://www.youtube.com/watch?v=jhlDwKRCmyk",
+          "alt": "Miniatura filmu Friza z wyciętymi scenami Mafii IRL",
+          "caption": "Miniatura odcinka z wyciętymi scenami piątego sezonu „Mafii IRL”."
+        },
+        "caption": {
+          "credit": "Friz / YouTube",
+          "text": "To omawiany odcinek z wyciętymi scenami. Dodatek wyszedł kilka dni po finale piątego sezonu."
+        },
+        "ig": [
+          "frizoluszek"
+        ],
+        "insta": {
+          "tytul": "Friz wrzucił wycięte sceny z Mafii IRL, a komentuje je Maciek z Dupy",
+          "opis": "Dodatek do piątego sezonu. Widzowie chwalą Maćka, ale narzekają, że to tylko 14 minut."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
         "published": "2026-11-14",
         "who": "GTA 6",
         "initials": "G6",
@@ -199,6 +366,291 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Japońska firma budowlana Kongō Gumi działa od VI wieku. Uchodzi za najstarszą firmę świata",
+        "summary": "Kongō Gumi buduje i odnawia świątynie, chramy i zamki od VI wieku. Od 2006 r. należy do grupy Takamatsu.",
+        "body": [
+          "Kongō Gumi zajmuje się projektowaniem, budową i renowacją świątyń, chramów, zamków i zabytków, a jej historia sięga VI wieku. Uważa się ją za najstarszą wciąż działającą firmę na świecie.",
+          "Gdy przy świątyniach coraz częściej używano betonu, firma przegrywała z dużymi koncernami budowlanymi. W styczniu 2006 r. stała się spółką zależną grupy Takamatsu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi"
+          },
+          {
+            "name": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/Business/Companies/Japan-s-oldest-company-defies-time-with-merit-based-succession"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kongo_Gumi_workers_in_early_20th_century.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Kongo_Gumi_workers_in_early_20th_century.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Robotnicy Kongō Gumi na zdjęciu z początku XX wieku",
+          "caption": "Pracownicy Kongō Gumi na początku XX wieku."
+        },
+        "insta": {
+          "tytul": "Ta japońska firma budowlana działa od VI wieku",
+          "opis": "Kongō Gumi buduje i odnawia świątynie od ponad tysiąca lat. Uchodzi za najstarszą firmę na świecie."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Pracownicy Kongō Gumi na początku XX wieku. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Mikronezja",
+        "initials": "MI",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Na wyspach Yap płacono kamiennymi pieniędzmi. Największe mają 3 metry średnicy i ważą 4 tony",
+        "summary": "Kamienie rai to wapienne dyski z dziurą w środku, cenione przez mieszkańców wysp Yap w Mikronezji. Najmniejsze mają 3,5 cm, największe ok. 3 m.",
+        "body": [
+          "Rai to duże kamienne krążki z otworem pośrodku, wycinane z krystalicznego wapienia przez mieszkańców wysp Yap. Nazywa się je kamiennymi pieniędzmi z Yap.",
+          "Najmniejsze mają ok. 3,5 cm średnicy, a największe ok. 3 metrów i ważą ok. 4 tony."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Rai_stones"
+          },
+          {
+            "name": "Wondermondo",
+            "url": "http://www.wondermondo.com/Countries/Au/MicronesiaFS/Yap/RaiOfYap.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yap_Stone_Money.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Yap_Stone_Money.jpg",
+          "credit": "Eric Guinther / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Duże kamienne krążki z otworem pośrodku na wyspie Yap",
+          "caption": "Kamienne pieniądze rai na wyspie Yap."
+        },
+        "insta": {
+          "tytul": "Na wyspach Yap płacono kamieniami, które ważą nawet 4 tony",
+          "opis": "Największe krążki rai mają ok. 3 metry średnicy. Do kieszeni się nie zmieszczą."
+        },
+        "caption": {
+          "credit": "Eric Guinther / Wikimedia Commons",
+          "text": "Kamienne pieniądze rai na wyspie Yap. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Pająki",
+        "initials": "PA",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Jest pająk nazwany na cześć komika Stephena Colberta: Aptostichus stephencolberti",
+        "summary": "Gatunek pająka odkryty w 2007 r. na wybrzeżu Kalifornii dostał nazwę od amerykańskiego satyryka Stephena Colberta.",
+        "body": [
+          "Aptostichus stephencolberti to pająk z rodziny Euctenizidae, odkryty w 2007 r. na wybrzeżu Kalifornii. Nazwę dostał na cześć Stephena Colberta, amerykańskiego satyryka i prowadzącego talk-show."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Aptostichus_stephencolberti"
+          },
+          {
+            "name": "East Carolina University (archiwum)",
+            "url": "https://web.archive.org/web/20080917130357/http://www.ecu.edu/cs-cas/biology/name_a_spider.cfm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Aptostichus_stephencolberti_male_holotype.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Aptostichus_stephencolberti_male_holotype.jpg",
+          "credit": "Jason E. Bond / Wikimedia Commons, CC BY 3.0",
+          "alt": "Samiec pająka Aptostichus stephencolberti",
+          "caption": "Samiec Aptostichus stephencolberti, okaz, na podstawie którego opisano gatunek."
+        },
+        "insta": {
+          "tytul": "Ten pająk nazywa się na cześć Stephena Colberta",
+          "opis": "Aptostichus stephencolberti, odkryty w 2007 r. w Kalifornii."
+        },
+        "caption": {
+          "credit": "Jason E. Bond / Wikimedia Commons",
+          "text": "Samiec Aptostichus stephencolberti, okaz, na podstawie którego opisano gatunek. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Miejsca",
+        "hype": 3,
+        "title": "W Anglii była ulica Butt Hole Road. Turyści robili sobie zdjęcia z tabliczką, aż mieszkańcy zmienili nazwę",
+        "summary": "Krótka ulica w Conisbrough w hrabstwie South Yorkshire przyciągała turystów nazwą. W 2009 r. mieszkańcy przemianowali ją na Archers Way.",
+        "body": [
+          "Butt Hole Road w Conisbrough koło Doncaster stała się atrakcją przez swoją nazwę: turyści zatrzymywali się, żeby zrobić zdjęcie z tabliczką. Mieszkańcy mieli przez nią problemy z adresem, odmawiano im usług i byli celem żartów.",
+          "Zebrali pieniądze na nową tabliczkę, dostali zgodę władz i w 2009 r. ulica zmieniła nazwę na Archers Way."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Butt_Hole_Road"
+          },
+          {
+            "name": "Digital Journal (archiwum)",
+            "url": "https://web.archive.org/web/20090901230200/http://www.digitaljournal.com/article/273159"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Butt_Hole_Road_tourists.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Butt_Hole_Road_tourists.jpg",
+          "credit": "Andy Leppard / Wikimedia Commons, CC BY 2.0",
+          "alt": "Turyści przy tabliczce Butt Hole Road",
+          "caption": "Turyści przy tabliczce z nazwą Butt Hole Road."
+        },
+        "insta": {
+          "tytul": "W Anglii była ulica Butt Hole Road. Mieszkańcy w końcu mieli dość",
+          "opis": "Turyści robili sobie zdjęcia z tabliczką, a mieszkańcom odmawiano usług. W 2009 r. zmienili nazwę 😅"
+        },
+        "caption": {
+          "credit": "Andy Leppard / Wikimedia Commons",
+          "text": "Turyści przy tabliczce z nazwą Butt Hole Road. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Gazety",
+        "initials": "GA",
+        "category": "Język",
+        "hype": 3,
+        "title": "„Etaoin shrdlu” to bezsensowne słowa, które przez pomyłkę trafiały do gazet w czasach składu z ołowiu",
+        "summary": "Operatorzy linotypów wpisywali te litery, żeby szybko dokończyć wiersz z błędem. Czasem zapominano go usunąć i trafiał do druku.",
+        "body": [
+          "Gdy operator linotypu zrobił błąd, przesuwał palcem po kolumnach klawiszy, żeby szybko zakończyć wiersz, i składał go jeszcze raz. Tak powstawało „etaoin shrdlu”, które miało też ostrzegać korektorów.",
+          "Fraza trafiała do gazet na tyle często, że weszła do dziennikarskiej legendy. Film o ostatnim wydaniu New York Timesa składanym z gorącego metalu, z 2 lipca 1978 r., nazywa się „Farewell, Etaoin Shrdlu”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Etaoin_shrdlu"
+          },
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Etaoin_shrdlu.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Etaoin_shrdlu.png",
+          "credit": "The New York Times / Wikimedia Commons, Public domain",
+          "alt": "Fragment wydrukowanej gazety ze słowami etaoin shrdlu",
+          "caption": "Fragment gazety, w którym przez pomyłkę wydrukowano „etaoin shrdlu”."
+        },
+        "insta": {
+          "tytul": "„Etaoin shrdlu” to błąd, który latami trafiał do gazet",
+          "opis": "Tak operatorzy linotypów kończyli wiersz z pomyłką. Czasem nikt tego nie wyłapał i szło do druku."
+        },
+        "caption": {
+          "credit": "The New York Times / Wikimedia Commons",
+          "text": "Fragment gazety, w którym przez pomyłkę wydrukowano „etaoin shrdlu”. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Sport",
+        "hype": 3,
+        "title": "W angielskich pubach gra się w dwile flonking: rzuca się szmatą nasączoną piwem w tańczących przeciwników",
+        "summary": "Jedna drużyna tańczy w kole, a gracz drugiej próbuje trafić kogoś mokrą od piwa szmatą. Gra ponoć sięga XVI wieku, ale prawdopodobnie wymyślono ją w latach 60.",
+        "body": [
+          "Dwile flonking to brytyjska gra pubowa dla dwóch drużyn, kojarzona z hrabstwami Norfolk i Suffolk. Jedna drużyna tańczy w kole, a zawodnik drugiej rzuca w nich szmatą nasączoną piwem.",
+          "Mówi się, że gra pochodzi z XVI wieku, ale najpewniej wymyślono ją w połowie lat 60. XX wieku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Dwile_flonking"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/10186718"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lewes_Arms_-_Dwyle_Flunking_-_geograph.org.uk_-_494221.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Lewes_Arms_-_Dwyle_Flunking_-_geograph.org.uk_-_494221.jpg",
+          "credit": "Roz South / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Gracze dwile flonking przed pubem Lewes Arms",
+          "caption": "Rozgrywka dwile flonking przy pubie Lewes Arms w Lewes."
+        },
+        "insta": {
+          "tytul": "W angielskich pubach rzuca się w ludzi szmatą nasączoną piwem. To sport",
+          "opis": "Jedni tańczą w kole, drugi próbuje ich trafić. Udaje starą tradycję, a wymyślono to w latach 60."
+        },
+        "caption": {
+          "credit": "Roz South / Wikimedia Commons",
+          "text": "Rozgrywka dwile flonking przy pubie Lewes Arms w Lewes. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "Rekordy",
+        "initials": "RE",
+        "category": "Rekordy",
+        "hype": 3,
+        "title": "Księga Guinnessa uznała byłą pielęgniarkę z Edynburga za najbardziej przekłutą kobietę świata",
+        "summary": "Elaine Davidson, urodzona w Brazylii i mieszkająca w Edynburgu, ma od Guinnessa tytuł „Most Pierced Woman”.",
+        "body": [
+          "Elaine Davidson to brazylijsko-szkocka była pielęgniarka mieszkająca w Edynburgu. Księga rekordów Guinnessa przyznała jej tytuł najbardziej przekłutej kobiety na świecie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Elaine_Davidson"
+          },
+          {
+            "name": "elainedavidson.co.uk (archiwum)",
+            "url": "https://web.archive.org/web/20120928070138/http://www.elainedavidson.co.uk/about.php"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Elaine_Davidson_Front.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Elaine_Davidson_Front.jpg",
+          "credit": "George Gastin / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Elaine Davidson z licznymi kolczykami na twarzy",
+          "caption": "Elaine Davidson, rekordzistka Guinnessa."
+        },
+        "insta": {
+          "tytul": "Ta była pielęgniarka z Edynburga to najbardziej przekłuta kobieta świata",
+          "opis": "Elaine Davidson ma ten tytuł od Księgi rekordów Guinnessa."
+        },
+        "caption": {
+          "credit": "George Gastin / Wikimedia Commons",
+          "text": "Elaine Davidson, rekordzistka Guinnessa. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-15",

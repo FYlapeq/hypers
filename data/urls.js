@@ -2,6 +2,10 @@
 window.HYPERS_URLS = {
  "2026-11-15": {
   "luz": [
+   "artykuly/2026-11-15/twitch-i-kick-rozdaja-kody-do-gta-6-kick-ma-10-tys-kodow-do-ultimate.html",
+   "artykuly/2026-11-15/wyciekla-lista-utworow-z-albumu-gta-6-wedlug-mediow-sa-na-niej-dua.html",
+   "artykuly/2026-11-15/pudelkowe-gta-6-bez-plyty-sprawia-problemy-gracze-pisza-o-kodach.html",
+   "artykuly/2026-11-15/friz-pokazal-wyciete-sceny-z-piatego-sezonu-mafii-irl-skomentowal.html",
    "artykuly/2026-11-15/rockstar-zdradzil-nowe-szczegoly-gta-6-randki-jasona-i-lucii.html",
    "artykuly/2026-11-15/tworcy-palworld-dali-pracownikom-piec-dni-wolnego-na-gta-6-nazwali.html",
    "artykuly/2026-11-15/gameranx-zebral-25-rzeczy-ktore-trzeba-wiedziec-przed-gta-6-prawie.html",
@@ -9,6 +13,13 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-15/jacob-wystartowal-z-bambik-cup-streamerzy-i-youtuberzy-graja.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-15/japonska-firma-budowlana-kongo-gumi-dziala-od-vi-wieku-uchodzi.html",
+   "artykuly/2026-11-15/na-wyspach-yap-placono-kamiennymi-pieniedzmi-najwieksze-maja-3-metry.html",
+   "artykuly/2026-11-15/jest-pajak-nazwany-na-czesc-komika-stephena-colberta-aptostichus.html",
+   "artykuly/2026-11-15/w-anglii-byla-ulica-butt-hole-road-turysci-robili-sobie-zdjecia.html",
+   "artykuly/2026-11-15/etaoin-shrdlu-to-bezsensowne-slowa-ktore-przez-pomylke-trafialy.html",
+   "artykuly/2026-11-15/w-angielskich-pubach-gra-sie-w-dwile-flonking-rzuca-sie-szmata.html",
+   "artykuly/2026-11-15/ksiega-guinnessa-uznala-byla-pielegniarke-z-edynburga-za-najbardziej.html",
    "artykuly/2026-11-15/w-londynie-zyla-kobieta-ktora-zarabiala-na-sprzedawaniu-ludziom.html",
    "artykuly/2026-11-15/dania-zagrala-mecz-reprezentacji-druzyna-amatorow-i-futsalowcow.html",
    "artykuly/2026-11-15/indyjski-wladca-mial-mechanicznego-tygrysa-ktory-pozera-brytyjczyka.html",
