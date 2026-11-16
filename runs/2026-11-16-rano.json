@@ -1,0 +1,2256 @@
+{
+ "run": {
+  "date": "2026-11-16",
+  "slot": "rano",
+  "generated_at": "2026-11-16T05:16:45.538Z",
+  "candidates": 103,
+  "with_free_image": 44,
+  "ready": 24
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 3",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 6",
+  "rss:Mental Floss": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 198",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4254",
+  "drugie-zrodlo": "ok 24/39"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że gdy zawiedzie DNS, system Windows może zapytać o nazwę hosta wszystkie urządzenia w sieci lokalnej za pomocą protokołu LLMNR, a odpowiedzieć może każde z nich, także urządzenie atakującego?",
+   "article": {
+    "title": "Link-Local Multicast Name Resolution",
+    "url": "https://pl.wikipedia.org/wiki/Link-Local_Multicast_Name_Resolution",
+    "extract": "Link-Local Multicast Name Resolution (LLMNR) – protokół, który pozwala komputerom w tej samej sieci lokalnej ustalać nawzajem swoje adresy IP na podstawie nazw, bez udziału serwera DNS. Zamiast odpytywać serwer, komputer rozgłasza pytanie „kto nazywa się X?” do wszystkich maszyn w swoim segmencie sieci i czeka, aż odezwie się ta, która tę nazwę nosi. Opisuje go dokument RFC 4795 ze stycznia 2007 roku, przygotowany przez Bernarda Abobę, Dave’a Thalera i Levona Esibova z Microsoftu. Ma on status informacyjny i nie jest standardem internetowym – pierwotnie kierowano go do zatwierdzenia jako Proposed Standard, jednak IETF nie osiągnęło konsensusu co do przyjętego rozwiązania."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego Wojskowa doktryna ukraińskich nacjonalistów przewidywała eksterminację „chruni”?",
+   "article": {
+    "title": "Mykyta Chruń",
+    "url": "https://pl.wikipedia.org/wiki/Mykyta_Chru%C5%84",
+    "extract": "Mykyta Chruń (ukr. Микита Хрунь) – fikcyjny ruski (ukraiński) chłop z Galicji, którego charakterystyczną cechą była podatność na wyborcze przekupstwa. W XX wieku i później eponim „chruń” stał się wśród galicyjskich Ukraińców synonimem osoby sprzedajnej, zdrajcy.\nWedług Mychajła Czornopyskiego Ukraińcy (Rusini) w Galicji w XIX wieku nazywali „Mykytami Chruniami” tych wiejskich wyborców, którzy pod wpływem przekupstwa lub urzędowego nacisku głosowali w wyborach do Sejmu Krajowego lub austriackiego parlamentu na kandydatów polskich ziemian."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mykyta_Khrun%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mykyta_Khrun%27.jpg",
+    "file": "File:Mykyta Khrun'.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1600,
+    "ok": true
+   }
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie istnieje przymus wyborczy?",
+   "article": {
+    "title": "Przymus wyborczy",
+    "url": "https://pl.wikipedia.org/wiki/Przymus_wyborczy",
+    "extract": "Przymus wyborczy (obowiązek wyborczy) – prawny obowiązek wzięcia udziału w wyborach powszechnych."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC0 (File:Compulsory voting.svg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że rosyjski radar kontrbateryjny 1Ł271 Aistionok wykrywa również pojazdy opancerzone?",
+   "article": {
+    "title": "1Ł271 Aistionok",
+    "url": "https://pl.wikipedia.org/wiki/1%C5%81271_Aistionok",
+    "extract": "1Ł271 Aistionok (ros. 1Л271 «Аистёнок», pol. „bocianiątko”, oznaczenie GRAU 1Л271) – rosyjski mobilny radar artyleryjski przeznaczony do wykrywania stanowisk ogniowych przeciwnika, określania trajektorii pocisków oraz korygowania ognia własnej artylerii. Umożliwia również wykrywanie poruszających się pojazdów naziemnych."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/1L271_Aistyonok_portable_radar%2C_Army-2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:1L271_Aistyonok_portable_radar,_Army-2023.jpg",
+    "file": "File:1L271 Aistyonok portable radar, Army-2023.jpg",
+    "artist": "Ministry of Defence of the Russian Federation",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1200,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://nkobserver.com/archives/6357"
+   }
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego podczas zjazdu w Stężycy nie wybrano władcy?",
+   "article": {
+    "title": "Zjazd w Stężycy (1575)",
+    "url": "https://pl.wikipedia.org/wiki/Zjazd_w_St%C4%99%C5%BCycy_(1575)",
+    "extract": "Zjazd w Stężycy – ogólnopaństwowy zjazd szlachty i senatorów Rzeczypospolitej Obojga Narodów, obradujący pod Stężycą nad Wisłą od 12 maja do 4 czerwca 1575 roku, w okresie bezkrólewia po wyjeździe króla Henryka Walezego z Polski. Zjazd miał przekształcić się w zgromadzenie elekcyjne i dokonać wyboru nowego monarchy, jednak wskutek sporów między senatem a szlachtą zakończył się bez przeprowadzenia elekcji."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Old_church_in_St%C4%99%C5%BCyca_%28XVth_century%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Old_church_in_St%C4%99%C5%BCyca_(XVth_century)_-_panoramio.jpg",
+    "file": "File:Old church in Stężyca (XVth century) - panoramio.jpg",
+    "artist": "Stanisław Ludwiński",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 640,
+    "height": 853,
+    "ok": true
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co symbolizują flagi prowincji i terytoriów Kanady?",
+   "article": {
+    "title": "Flagi prowincji i terytoriów Kanady",
+    "url": "https://pl.wikipedia.org/wiki/Flagi_prowincji_i_terytori%C3%B3w_Kanady",
+    "extract": "Flagi prowincji i terytoriów Kanady – lista symboli poszczególnych prowincji i terytoriów Kanady w postaci flagi."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:All Provinces and Territories.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Iowa 80: The world's largest truck stop; it even comes with a movie theater, a dentist, and a chiropractor.",
+   "article": {
+    "title": "Iowa 80",
+    "url": "https://en.wikipedia.org/wiki/Iowa_80",
+    "extract": "Iowa 80 is the world's largest truck stop, located along Interstate 80 (I-80) off exit 284 in Walcott, Iowa. It sits on a 220-acre (89 ha) plot of land, three times larger than an average 75-acre (30 ha) truck stop, and it receives 5,000 visitors daily. Iowa 80 features a 67,000 sq ft (6,200 m2) main building, parking for 900 trucks, 15 diesel fuel pumps, and also has a dedicated pump for dispensing bulk diesel exhaust fluid. Four-hundred and fifty employees staff the megaplex."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Iowa80.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Iowa80.png",
+    "file": "File:Iowa80.png",
+    "artist": "photo by Beatrice Murch, modified by Xiaphias",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070504202358/http://www.expeditersonline.com/artman/publish/printer_Truck_Stop.html",
+    "title": "The Big Road and a BIG Truckstop: Iowa 80",
+    "matched": [
+     "80",
+     "world",
+     "largest",
+     "truck",
+     "movie",
+     "theater",
+     "dentist"
+    ]
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that actor Oscar Curtis was bitten by a monkey while taking a break from his role in Hollyoaks?",
+   "article": {
+    "title": "Oscar Curtis",
+    "url": "https://en.wikipedia.org/wiki/Oscar_Curtis",
+    "extract": "Oscar Sam Curtis (also Nicholls, born 2005 or 2006) is a British actor and model. Curtis took acting classes and modelled for several photoshoots and promos between 2017 and 2022. Curtis appeared in the 2021 feature film  Last Village on the Right, and in 2022 he guest-starred in an episode of Doctors. In 2023, Curtis took over the role of Lucas Hay on the Channel 4 soap opera Hollyoaks, where he was involved in a long-running storyline about conversion therapy."
+   },
+   "related": [
+    "Hollyoaks"
+   ],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Somatoparaphrenia: A type of delusion in which a sufferer denies ownership of a limb or an entire side of the body.",
+   "article": {
+    "title": "Somatoparaphrenia",
+    "url": "https://en.wikipedia.org/wiki/Somatoparaphrenia",
+    "extract": "Somatoparaphrenia is a type of monothematic delusion where one denies ownership of a limb or an entire side of one's body. Even if provided with undeniable proof that the limb belongs to and is attached to their own body, the patient produces elaborate confabulations about whose limb it really is or how the limb ended up on their body. In some cases, delusions become so elaborate that a limb may be treated and cared for as if it were a separate being.\nSomatoparaphrenia differs from a similar disorder, asomatognosia, which is characterized as loss of recognition of half of the body or a limb, possibly due to paralysis or unilateral neglect."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Baltic Sea anomaly: Looks like someone left their Millennium Falcon underwater.",
+   "article": {
+    "title": "Baltic Sea anomaly",
+    "url": "https://en.wikipedia.org/wiki/Baltic_Sea_anomaly",
+    "extract": "The Baltic Sea anomaly is a feature visible on an indistinct sonar image taken by Peter Lindberg, Dennis Åsberg and their Swedish OceanX diving team while treasure hunting on the floor of the northern Baltic Sea at the center of the Gulf of Bothnia in June 2011. The team suggested their sonar image showed an object with unusual features of seemingly non-natural origin, prompting speculation published in tabloid newspapers that the object was a sunken UFO.\nA consensus of experts and scientists say that the image most likely shows a natural geological formation."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Living root bridge: Double-decker suspension bridges formed of living plant aerial roots of rubber fig trees by tree shaping common in the southern part of the Northeast Indian state of Meghalaya.",
+   "article": {
+    "title": "Living root bridge",
+    "url": "https://en.wikipedia.org/wiki/Living_root_bridge",
+    "extract": "Living root bridges are a kind of tree shaping in which rivers are spanned by bridges formed out of the roots of ficus plants. Due to their being made from living, growing trees, they \"show a very wide variety of structural typologies, with various aspects of particular bridges resembling characteristics of suspension bridges, cable-stayed bridges, arches, trusses, and simply-supported beams.\"  They are common in the Indian state of Meghalaya.\nThe structures are handmade from the aerial roots of rubber fig trees (Ficus elastica) by the Khasi and Jaiñtia peoples of the mountainous terrain along the southern part of the Shillong Plateau. Most of the bridges grow on steep slopes of subtropical moist broadleaf forest between 50 and 1,150 m (160 and 3,770 ft) above sea level."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Living root bridges, Nongriat village, Meghalaya2.jpg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lyall's wren: Made extinct by feral cats, possibly the offspring of one pregnant female.",
+   "article": {
+    "title": "Lyall's wren",
+    "url": "https://en.wikipedia.org/wiki/Lyall%27s_wren",
+    "extract": "Lyall's wren, the Stephens Island wren or the Stephens Island rockwren  (Traversia lyalli) is an extinct species of small, flightless passerine bird belonging to the family Acanthisittidae, the New Zealand wrens. It was once found throughout New Zealand, but by the time of its discovery by scientists in 1894, it could only be found on Stephens Island in Cook Strait. Often claimed to be a species driven extinct by only a single individual animal (a lighthouse keeper's cat named Tibbles), it was actually predated upon by the numerous feral cats found throughout the island. The wren was described almost simultaneously by both Walter Rothschild and Walter Buller; it became extinct shortly thereafter."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "GFDL 1.2 (File:Stephens Island Wren specimen 2.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cultural depictions of Napoleon: Fictional characters believing they are Napoleon are often used to suggest ill mental health.",
+   "article": {
+    "title": "Cultural depictions of Napoleon",
+    "url": "https://en.wikipedia.org/wiki/Cultural_depictions_of_Napoleon",
+    "extract": "Napoleon I, Emperor of the French, has become a worldwide cultural icon generally associated with tactical brilliance, ambition, and political power. His distinctive features and costume have made him a very recognisable figure in popular culture. A major figure in history of France and Europe, Napoleon is known for the scope of his military conquests as well as his ultimate defeats. His two exiles provide further historical intrigue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Napoleon_in_1806.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Napoleon_in_1806.PNG",
+    "file": "File:Napoleon in 1806.PNG",
+    "artist": "Édouard Detaille",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1740,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.davidserero.com/single-post/2018/08/15/david-serero-to-star-as-napoleon-s-title-role-in-napoleon-by-stanley-kubrick-the-greatest"
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Eye of Argon: An infamously bad heroic fantasy novella, written in 1970 by Jim Theis and circulated anonymously in science fiction fandom since then.",
+   "article": {
+    "title": "The Eye of Argon",
+    "url": "https://en.wikipedia.org/wiki/The_Eye_of_Argon",
+    "extract": "The Eye of Argon is a 1970 sword and sorcery fantasy novelette by Jim Theis (1953–2002) that narrates the adventures of the barbarian Grignr. It has been notorious within the science fiction and fantasy fandoms since its publication, described variously as \"one of the genre's most beloved pieces of appalling prose\", the \"infamous 'worst fantasy novel [sic] ever' published for fans' enjoyment\", and \"the apotheosis of bad writing\". Science fiction conventions have long held group readings of the work in which participants are challenged to read it aloud for extended periods without laughing."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yu-Mex: Mexican music… from Yugoslavia.",
+   "article": {
+    "title": "Yu-Mex",
+    "url": "https://en.wikipedia.org/wiki/Yu-Mex",
+    "extract": "Yu-Mex (a portmanteau of \"Yugoslav\" and \"Mexican\") was a style of popular music in the Socialist Federal Republic of Yugoslavia which incorporated elements of traditional Mexican music (such as mariachi and ranchera). The style was mostly popular during the 1950s and 1960s when a string of Yugoslav singers began performing traditional Mexican songs."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Jedan dan zhivota pamphlet cover.jpg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Matt Farley: A songwriter who has released thousands of songs under at least seventy pseudonyms such as \"Papa Razzi and the Photogs\", \"The Hungry Food Band\", and \"The Odd Man Who Sings About Poop, Puke and Pee\".",
+   "article": {
+    "title": "Matt Farley",
+    "url": "https://en.wikipedia.org/wiki/Matt_Farley",
+    "extract": "Matt Farley (born June 3, 1978) is an American singer-songwriter, musician, filmmaker, author and podcaster who has released more than 26,000 songs as of April 1, 2025. Farley's creative output is released under his label Motern Media, and he usually presents his musical work under a variety of pseudonyms and band names, including The Toilet Bowl Cleaners, Papa Razzi and the Photogs, The Hungry Food Band, The Guy Who Sings Songs About Cities & Towns, and The Odd Man Who Sings About Poop, Puke and Pee. \nFarley has starred in, co-written, co-produced and released over 15 amateur feature-length movies with his friend Charlie Roxburgh including Don't Let the Riverbeast Get You! (2012); he also hosts two podcasts."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Matt Farley.jpg)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2007 Boston Mooninite panic: A guerilla marketing campaign for an animated TV series that quickly became a homeland security issue.",
+   "article": {
+    "title": "2007 Boston Mooninite panic",
+    "url": "https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic",
+    "extract": "On the morning of January 31, 2007, the Boston Police Department and the Boston Fire Department mistakenly identified battery-powered LED placards depicting the Mooninites, characters from the Adult Swim animated television series Aqua Teen Hunger Force, as improvised explosive devices (IEDs), leading to a massive panic. Placed throughout the U.S city of Boston, Massachusetts, and the surrounding cities of Cambridge and Somerville by Peter \"Zebbler\" Berdovsky and Sean Stevens, these devices were part of a nationwide guerrilla marketing advertising campaign for Aqua Teen Hunger Force Colon Movie Film for Theaters.\nThe massive panic led to controversy and criticism from U.S. media sources, including The Boston Globe, Los Angeles Times, Fox News, The San Francisco Chronicle, The New York Times, CNN, and The Boston Herald. Some ridiculed the city's response to the devices—including the arres"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ATHF_LED_in_Cambridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:ATHF_LED_in_Cambridge.jpg",
+    "file": "File:ATHF LED in Cambridge.jpg",
+    "artist": "Rekha Murthy",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 364,
+    "height": 368,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20200511032636/https://www.wgbh.org/news/post/mooninite-invasion-boston-6-years-later",
+    "title": "The Mooninite Invasion of Boston, 6 Years Later",
+    "matched": [
+     "2007",
+     "boston",
+     "mooninite",
+     "panic",
+     "guerilla",
+     "marketing",
+     "campaign",
+     "series",
+     "security"
+    ]
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Flannan Isles Lighthouse: Located on Eilean Mór, this lighthouse to the west of Scotland is the subject of an enduring mystery over the disappearance of its keepers in 1900.",
+   "article": {
+    "title": "Flannan Isles Lighthouse",
+    "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse",
+    "extract": "Flannan Isles Lighthouse is a lighthouse near the highest point on Eilean Mòr, one of the Flannan Isles in the Outer Hebrides off the west coast of Scotland. In 1900, its three keepers disappeared under mysterious circumstances."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+    "file": "File:St. Flannan's Cell and Flannan Isles Lighthouse - geograph.org.uk - 623920.jpg",
+    "artist": "JJM",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 634,
+    "height": 429,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ibiblio.org",
+    "url": "https://www.ibiblio.org/lighthouse/heb.htm",
+    "title": "Lighthouses of the United Kingdom: Scotland's Western Isles",
+    "matched": [
+     "1900",
+     "flannan",
+     "isles",
+     "lighthouse",
+     "located",
+     "eilean",
+     "scotland",
+     "mystery",
+     "disappearance",
+     "keepers"
+    ]
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that U.S. secretary of state Henry Kissinger remarked that he needed a psychiatrist during the 1976 Aegean Crisis?",
+   "article": {
+    "title": "1976 Aegean Crisis",
+    "url": "https://en.wikipedia.org/wiki/1976_Aegean_Crisis",
+    "extract": "The Aegean crisis of 1976 (Greek: Κρίση στο Αιγαίο, romanized: Krísi sto Aigaío, Turkish: Ege kıta sahanlığı krizi) was a confrontation between Greece and Turkey over sovereignty, maritime boundaries, and resource rights in the Aegean Sea.\nDriven by energy shortages during the 1973 oil crisis, Turkey turned its attention to offshore oil exploration in the Aegean Sea. This exploration became part of a broader territorial disagreement between Greece and Turkey known as the Aegean Dispute. At the time, negotiations over the United Nations Convention on the Law of the Sea were underway, and a Greek extension of its territorial waters from six to twelve miles was possible."
+   },
+   "related": [
+    "Henry Kissinger"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Greece_Turkey_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Greece_Turkey_Locator.png",
+    "file": "File:Greece Turkey Locator.png",
+    "artist": "No machine-readable author provided. Khoikhoi~commonswiki assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1200,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 5,
+    "closest": "https://www.nytimes.com/1976/07/28/archives/oil-on-the-waters.html"
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Donald Mastick: A man who accidentally ate plutonium, leading to one of the worst cases of bad breath.",
+   "article": {
+    "title": "Donald Mastick",
+    "url": "https://en.wikipedia.org/wiki/Donald_Mastick",
+    "extract": "Donald Francis Mastick (September 1, 1920 – September 8, 2007) was an American chemist who worked at the Manhattan Project's Los Alamos Laboratory. As part of Project Alberta, he was part of the planning and preparation for the atomic bombing of Hiroshima and Nagasaki, for which he was awarded the Bronze Star Medal. Mastick is known for a lab incident in 1944 when he accidentally ingested a small amount of plutonium, traces of which remained detectable in his body decades later. After the incident, he worked for the Naval Radiological Defense Laboratory and the Atomic Energy Commission."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Donald_F._Mastick_Los_Alamos_ID.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Donald_F._Mastick_Los_Alamos_ID.png",
+    "file": "File:Donald F. Mastick Los Alamos ID.png",
+    "artist": "Federal Government of the United States",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 130,
+    "height": 180,
+    "ok": true
+   },
+   "second_source": {
+    "name": "atomicheritage.org",
+    "url": "https://www.atomicheritage.org/profile/donald-f-mastick",
+    "title": "Donald F. Mastick - Nuclear Museum",
+    "matched": [
+     "donald",
+     "mastick",
+     "accidentally",
+     "plutonium"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Old Man of the Mountain: A rock formation in northern New Hampshire resembling the side profile of a person. Collapsed in 2003, but is immortalized on the state's license plates, highway signs and state quarter.",
+   "article": {
+    "title": "Old Man of the Mountain",
+    "url": "https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain",
+    "extract": "The Old Man of the Mountain, also called the Great Stone Face and the Profile, was a series of five granite cliff ledges on Cannon Mountain in Franconia, New Hampshire, United States, that appeared to be the jagged profile of a human face when viewed from the north. The rock formation, 1,200 feet (370 m) above Profile Lake, was 40 feet (12 m) tall and 25 feet (7.6 m) wide.\nThe Old Man of the Mountain is called \"Stone Face\" by the Abenaki and is a symbol within their culture. It is also a symbol to the Mohawk people."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Mountain_4-26-03_(cropped).jpg",
+    "file": "File:Old Man of the Mountain 4-26-03 (cropped).jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 303,
+    "height": 412,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nytimes.com",
+    "url": "https://www.nytimes.com/2023/05/05/us/nh-old-man-mountain-rocks-collapse.html",
+    "title": "New Hampshire’s Old Man of the Mountain Still Bewitches - The New York Times",
+    "matched": [
+     "2003",
+     "mountain",
+     "formation",
+     "northern",
+     "hampshire",
+     "resembling",
+     "profile",
+     "collapsed",
+     "state",
+     "license",
+     "plates"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "He lücht: Like a German Jungle Cruise, Hamburg port tour guides tell such tall tales that \"He's lying\" has become a name for them.",
+   "article": {
+    "title": "He lücht",
+    "url": "https://en.wikipedia.org/wiki/He_l%C3%BCcht",
+    "extract": "He lücht (low German he is lying) is an expression used in Hamburg, Germany, for tour guides in the port of Hamburg."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Barkasseglp.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Barkasseglp.JPG",
+    "file": "File:Barkasseglp.JPG",
+    "artist": "Gulp at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 5,
+    "closest": "http://www.ndr903.de/programm/platt/platt116.html"
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Christmas in Nazi Germany: The Nazi Party reinvented Christmas by removing a certain baby boy raised in the Jewish faith.",
+   "article": {
+    "title": "Christmas in Nazi Germany",
+    "url": "https://en.wikipedia.org/wiki/Christmas_in_Nazi_Germany",
+    "extract": "The celebration of Christmas in Nazi Germany included attempts by the regime to bring the Christian religious holiday into line with Nazi ideology. The Jewish origins of Jesus and the commemoration of his birth as the Jewish Messiah was troubling for some members of the Nazi Party and their racialist beliefs. Between 1933 and 1945, some government officials attempted to remove these aspects of Christmas from civil celebrations and concentrate on cultural pre-Christian aspects of the festival. However, church and private celebrations remained Christian in nature."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bundesarchiv_Bild_102-17313%2C_Berlin%2C_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-17313,_Berlin,_Weihnachtspakete_f%C3%BCr_das_Winterhilfswerk.jpg",
+    "file": "File:Bundesarchiv Bild 102-17313, Berlin, Weihnachtspakete für das Winterhilfswerk.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 800,
+    "height": 536,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theconversation.com",
+    "url": "https://theconversation.com/how-the-nazis-co-opted-christmas-52186",
+    "title": "How the Nazis co-opted Christmas",
+    "matched": [
+     "christmas",
+     "germany",
+     "party",
+     "jewish",
+     "faith"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Frog battery: A curious experiment to determine the existence of animal electricity.",
+   "article": {
+    "title": "Frog battery",
+    "url": "https://en.wikipedia.org/wiki/Frog_battery",
+    "extract": "A frog battery is an electrochemical battery consisting of a number of dead frogs (or sometimes live ones), which form the cells of the battery connected in a series arrangement.  It is a kind of biobattery.  It was used in early scientific investigations of electricity and academic demonstrations.\nThe principle behind the battery is the injury potential created in a muscle when it is damaged, although this was not fully understood in the 18th and 19th centuries; the potential being caused incidentally due to the dissection of the frog's muscles."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Matteucci%27s_frog_battery_trimmed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Matteucci%27s_frog_battery_trimmed2.jpg",
+    "file": "File:Matteucci's frog battery trimmed2.jpg",
+    "artist": "Carlo Matteucci. Spinningspark at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 717,
+    "height": 554,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Feetloaf: Meatloaf moulded into the shape of a human foot – also known as \"Bloody Stump\" if \"feetloaf\" put you off.",
+   "article": {
+    "title": "Feetloaf",
+    "url": "https://en.wikipedia.org/wiki/Feetloaf",
+    "extract": "Feetloaf is a novelty dish intended to be served on Halloween.  The earliest known reference is a 2009 cooking blog which was based on a recipe found in a seasonal cookbook sold at a grocery store checkout counter.  The original recipe described a meatloaf molded into the shape of a human foot, using brazil nuts as toenails and ketchup or barbecue sauce to mimic blood.\nThe dish was originally called \"Bloody Stump\" or \"Feet of Meat\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Feetloaf%21_it%27s_what%27s_for_dinner%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Feetloaf!_it%27s_what%27s_for_dinner!.jpg",
+    "file": "File:Feetloaf! it's what's for dinner!.jpg",
+    "artist": "Christopher Chapman",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 671,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20220122155335/http://triedandtruefavoriterecipes.blogspot.com/2009/10/halloween-dinner-bloody-stump-or-feet.html",
+    "title": "Tried and True Favorite Recipes: Halloween Dinner - Bloody Stump or Feet of Meat",
+    "matched": [
+     "meatloaf",
+     "shape",
+     "bloody",
+     "stump"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Whitey on the Moon\": Not everybody was happy to see the first man on the Moon.",
+   "article": {
+    "title": "Whitey on the Moon",
+    "url": "https://en.wikipedia.org/wiki/Whitey_on_the_Moon",
+    "extract": "\"Whitey on the Moon\" is a spoken word poem by Gil Scott-Heron, released as the ninth track on his debut album Small Talk at 125th and Lenox in 1970. Accompanied by conga drums, Scott-Heron's narrative tells of medical debt, high taxes and poverty experienced at the time of the Apollo Moon landings. The poem critiques the resources spent on the space program while Black Americans were experiencing social and economic disparities at home.\n\"Whitey on the Moon\" was prominently featured in the 2018 biographical film about Neil Armstrong, First Man, and \"Whitey's on the Moon\", the second episode of HBO's 2020 television series Lovecraft Country."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gil_Scott_Heron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gil_Scott_Heron.jpg",
+    "file": "File:Gil Scott Heron.jpg",
+    "artist": "Robman94",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 330,
+    "height": 467,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.businessinsider.com/whitey-on-the-moon-poem-resurfaces-amid-bezos-branson-spaceflight-2021-7"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shi Yousan: Early 20th-century Chinese general who seemingly made it his life mission to betray everyone he met.",
+   "article": {
+    "title": "Shi Yousan",
+    "url": "https://en.wikipedia.org/wiki/Shi_Yousan",
+    "extract": "Shi Yousan (1 December 1891 – 1 December 1940), courtesy name Hanzhang, was a Chinese general of the National Revolutionary Army (NRA) who served as the 9th Governor of the Chahar and 3rd Governor of Anhui provinces in the Republic of China.\nShi joined, defected from, then subsequently betrayed the forces of Wu Peifu, Feng Yuxiang, Chiang Kai-shek, Wang Jingwei, Zhang Xueliang, and the Chinese Communist Party (CCP). Due to his numerous betrayals and defections, most notably the triple betrayal of Feng Yuxiang in 1926, 1929, and 1930, he is known as the 'Defector General' (倒戈將軍; Dǎogē Jiāngjūn), 'Shi Sanfan' (石三翻; Shí sānfān; 'Shi [who] turns three times'), and the 'Slave of Six Surnames' (六姓家奴; Liù xìng jiānú).\nIn 1940, while leading the 39th Army Group of the NRA, he planned to defect to the Japanese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Shi_Yousan2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shi_Yousan2_(cropped).jpg",
+    "file": "File:Shi Yousan2 (cropped).jpg",
+    "artist": "Unknown; scanned by Internet Archive (https://archive.org/)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 429,
+    "height": 685,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://generals.dk/general/Shi_Yousan/_/China.html"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shoe-fitting fluoroscope: Sure, it might have given your kids cancer, but you knew for certain that their new shoes had enough toe room.",
+   "article": {
+    "title": "Shoe-fitting fluoroscope",
+    "url": "https://en.wikipedia.org/wiki/Shoe-fitting_fluoroscope",
+    "extract": "The shoe-fitting fluoroscope, also sold under the names X-ray Shoe Fitter, Pedoscope and Foot-o-scope, was an X-ray fluoroscope machine installed in shoe stores from the 1920s until about the 1970s. The device was a metal construction covered in finished wood, approximately 4 feet (1.2 m) tall in the shape of short column, with a ledge with an opening through which the standing customer (adult or child) would put their feet and look through a viewing porthole at the top of the fluoroscope down at the X-ray view of the feet and shoes. Two other viewing portholes on either side enabled the parent and a sales assistant to observe the toes being wiggled to show how much room for the toes there was inside the shoe. The bones of the feet were clearly visible, as was the outline of the shoe, including the stitching around the edges."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/NMHM_ShoeFluorscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NMHM_ShoeFluorscope.jpg",
+    "file": "File:NMHM ShoeFluorscope.jpg",
+    "artist": "National Museum of Health and Medicine, AFIP",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 768,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20081217103205/http://www.orau.org/ptp/collection/shoefittingfluor/shoe.htm",
+    "title": "Shoe-Fitting Fluoroscope",
+    "matched": [
+     "fitting",
+     "fluoroscope",
+     "might",
+     "certain",
+     "shoes"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Battle of Karánsebes: How the Austrians fought against themselves over liquor and resulted in 1,200 own casualties.",
+   "article": {
+    "title": "Battle of Karánsebes",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes",
+    "extract": "The Battle of Karánsebes (Turkish: Şebeş Muharebesi; German: Rückzug von Karánsebes; Hungarian: Karánsebesi csata; Romanian: Bătălia de la Caransebeș) was a friendly fire incident in the Austrian army, occurring during the night of 21–22 September 1788, during the Austro-Turkish War of 1788–1791. Some historians have referred to the battle as \"history's worst friendly fire incident\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Picture_showing_Ottoman_Forces_advance_to_Caransebes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Picture_showing_Ottoman_Forces_advance_to_Caransebes.png",
+    "file": "File:Picture showing Ottoman Forces advance to Caransebes.png",
+    "artist": "Craciun Cristiana CC BY-SA 4.0",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 741,
+    "height": 438,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://g.co/kgs/ufzee3d"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Footsies: Did you know? It's possible for a couple to flirt by touching each other's legs.",
+   "article": {
+    "title": "Footsies",
+    "url": "https://en.wikipedia.org/wiki/Footsies",
+    "extract": "Footsies (also footsy or footsie) is a flirting game where two people touch feet under a table or otherwise concealed place, often as a romantic prelude. It is a game played either as an act of flirtatious body language, or simply for enjoyment. Although footsies is not inherently romantic, the nature of it as playful touching is often done between romantic partners as a sign of affection, and most often without discussion. The term comes from a 1940s humorous diminutive of foot."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/083-_Anonym%2C_c.1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:083-_Anonym,_c.1920.jpg",
+    "file": "File:083- Anonym, c.1920.jpg",
+    "artist": "see file name",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 683,
+    "height": 1062,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.bostonglobe.com/metro/2013/07/11/daniel-wegner-harvard-social-psychologist-unraveled-mysteries-thought-and-memory/SATmfA8Vo07c5lezCPZFyH/story.html"
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Criterion of embarrassment: You know it's true because it's too embarrassing for anyone to have made it up.",
+   "article": {
+    "title": "Criterion of embarrassment",
+    "url": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
+    "extract": "The criterion of embarrassment is a type of historical analysis in which a historical account is deemed more likely to be true if the author would have no reason to invent a historical account which might embarrass them. It is logically similar to statements against interest in a legal context. Certain Biblical scholars have used this as a meter for assessing whether the New Testament's accounts of Jesus's actions and words are historically probable.\nThe criterion of embarrassment is one of the criteria of authenticity used by academics, the others being the criterion of dissimilarity, the criterion of language and environment, criterion of coherence, and the criterion of multiple attestation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Francesco_Albani_-_Baptism_of_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Francesco_Albani_-_Baptism_of_Christ.jpg",
+    "file": "File:Francesco Albani - Baptism of Christ.jpg",
+    "artist": "Francesco Albani",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 475,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070316185139/http://ancienthistory.about.com/b/a/229667.htm",
+    "title": "Discussion of the Historical Jesus",
+    "matched": [
+     "criterion",
+     "embarrassment",
+     "embarrassing"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Atomic chess: Three different variations on the same idea: combining chess with explosions.",
+   "article": {
+    "title": "Atomic chess",
+    "url": "https://en.wikipedia.org/wiki/Atomic_chess",
+    "extract": "Atomic chess is a chess variant. Standard rules of chess apply, with the difference that all captures result in an \"explosion\" through which the capturing piece, captured piece, and all surrounding pieces of both colors other than pawns are removed from play. Some variations additionally remove rules concerning check such that the king may be able to move into (or remain in) check."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Atomic_capture.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Atomic_capture.gif",
+    "file": "File:Atomic capture.gif",
+    "artist": "Rhododendrites",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 600,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "unix-ag.uni-kl.de",
+    "url": "http://www.unix-ag.uni-kl.de/~chess/atomic/",
+    "title": "Vlasov's ATOMIC-HOMEPAGE",
+    "matched": [
+     "atomic",
+     "chess",
+     "variations",
+     "explosions"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mount Athos: An autonomous polity in Greece home to 20 monasteries, notable for being the only political subdivision in the world in which women (as well as female animals) are prohibited from entering for any reason.",
+   "article": {
+    "title": "Mount Athos",
+    "url": "https://en.wikipedia.org/wiki/Mount_Athos",
+    "extract": "Mount Athos is a mountain on the Athos peninsula in northeastern Greece directly on the Aegean Sea. It is an important center of Eastern Orthodox monasticism.\nThe mountain and most of the Athos peninsula are governed as an autonomous region in Greece by the monastic community of Mount Athos, which is ecclesiastically under the direct jurisdiction of the Ecumenical Patriarch of Constantinople. The remainder of the peninsula forms part of the Aristotelis municipality."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mt._Athos_%283939757657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mt._Athos_(3939757657).jpg",
+    "file": "File:Mt. Athos (3939757657).jpg",
+    "artist": "Dave Proffer",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/news/magazine-36378690",
+    "title": "Why are women banned from Mount Athos? - BBC News",
+    "matched": [
+     "20",
+     "mount",
+     "athos",
+     "greece",
+     "monasteries",
+     "world",
+     "women",
+     "prohibited"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Herbert Mullin: Haven't had any earthquakes recently? Thank this man.",
+   "article": {
+    "title": "Herbert Mullin",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Mullin",
+    "extract": "Herbert William Mullin (April 18, 1947 – August 18, 2022) was an American serial killer who killed 13 people in California in the early 1970s. He confessed to the killings, which he claimed prevented earthquakes. In 1973, after a trial to determine whether he was legally insane or culpable, he was convicted of two murders in the first-degree and nine in the second-degree and sentenced to life imprisonment. During his imprisonment, he was denied parole eight times."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Herbert_Mullin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Herbert_Mullin.jpg",
+    "file": "File:Herbert Mullin.jpg",
+    "artist": "California Department of Corrections",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 270,
+    "height": 360,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20121210085548/http://www.trutv.com/library/crime/serial_killers/weird/mullin/index_1.html",
+    "title": "Herb Mullin &mdash; Unnatural Disasters &mdash; Crime Library on truTV.com",
+    "matched": [
+     "herbert",
+     "mullin",
+     "earthquakes"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of shoe-throwing incidents: The recurring trend of high-ranking people being attacked with shoes.",
+   "article": {
+    "title": "List of shoe-throwing incidents",
+    "url": "https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents",
+    "extract": "Shoe-throwing showing the sole of one's shoe or using shoes to insult are forms of protest in many parts of the world. Shoe-throwing as an insult dates back to ancient times, being mentioned in verse 10 of Psalm 60 and the similar verse 10 of Psalm 108 in the Old Testament. Modern incidents where shoes were thrown at political figures have taken place in Australia, India, Ireland, Taiwan, Hong Kong, Pakistan, the United Kingdom, the United States, and most notably the Arab world.\nPosters of former U.S. president George W. Bush's face have long appeared through the Middle East with shoes attached to them, and some people have called former secretary of state Condoleezza Rice kundara, meaning \"shoe\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bush_shoeing_incident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bush_shoeing_incident.jpg",
+    "file": "File:Bush shoeing incident.jpg",
+    "artist": "U.S. Federal Government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 360,
+    "height": 216,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/1/hi/7782422.stm",
+    "title": "BBC NEWS | Middle East | Shoes thrown at Bush on Iraq trip",
+    "matched": [
+     "incidents",
+     "people",
+     "attacked",
+     "shoes"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moondog: A blind composer, theoretician, poet, and inventor of musical instruments who dressed like a viking and lived as a street musician in New York between the 1940s and 1970s.",
+   "article": {
+    "title": "Moondog",
+    "url": "https://en.wikipedia.org/wiki/Moondog",
+    "extract": "Louis Thomas Hardin (May 26, 1916 – September 8, 1999), known professionally as Moondog, was an American composer, musician, performer, music theoretician, poet and inventor of musical instruments. Largely self-taught as a composer, his prolific work widely drew inspiration from jazz, classical, Native American music which he had become familiar with as a child, and Latin American music. His strongly rhythmic, contrapuntal pieces and arrangements later influenced composers of minimal music, in particular American composers Steve Reich and Philip Glass.\nDue to an accident, Moondog was blind from the age of 16."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Moondog_1948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Moondog_1948.jpg",
+    "file": "File:Moondog 1948.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1113,
+    "height": 2669,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nytimes.com",
+    "url": "https://www.nytimes.com/2007/10/28/arts/music/28stra.html",
+    "title": "Moondog - Music - The New York Times",
+    "matched": [
+     "1940",
+     "moondog",
+     "blind",
+     "composer",
+     "instruments",
+     "viking",
+     "lived",
+     "street",
+     "musician"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tonibler: A name given in Kosovo, after their favourite UK Prime Minister.",
+   "article": {
+    "title": "Tonibler",
+    "url": "https://en.wikipedia.org/wiki/Tonibler",
+    "extract": "Tonibler is a male given name in Kosovo, given in honour of Tony Blair, the former British prime minister, following his role in the 1999 NATO air campaign against the Federal Republic of Yugoslavia during the Kosovo War. Blair was considered instrumental in removing Slobodan Milošević from power, and boys born following the war were sometimes given the name Toni or Tonibler.\nIn 2010, Blair made a visit to Kosovo where he met several boys bearing the name. He returned to the country in June 2024, where he met five adult men with the name alongside Kosovan president Vjosa Osmani."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tony_Blair_in_Kosovo_with_children_named_after_him2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tony_Blair_in_Kosovo_with_children_named_after_him2.jpg",
+    "file": "File:Tony Blair in Kosovo with children named after him2.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 850,
+    "height": 565,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/news/10576544",
+    "title": "Namesakes welcome Tony Blair during Kosovo visit - BBC News",
+    "matched": [
+     "tonibler",
+     "kosovo",
+     "prime",
+     "minister"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Socialist fraternal kiss: When two socialist leaders are very close…",
+   "article": {
+    "title": "Socialist fraternal kiss",
+    "url": "https://en.wikipedia.org/wiki/Socialist_fraternal_kiss",
+    "extract": "The socialist fraternal kiss was a special form of greeting between socialist state officials. The act demonstrated the special relationship that exists between Communist countries, consisting of an embrace, along with a series of three kisses on alternate cheeks. In rare cases, when the two statesmen considered themselves on exceptionally good terms, the kisses were given on the mouth rather than on the cheeks.\nThe socialist fraternal embrace consists of a series of three deep hugs, alternating between the left and right sides of the body, without kissing."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Bundesarchiv_Bild_183-F0418-0001-036%2C_Berlin%2C_VII._SED-Parteitag%2C_Bruderkuss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-F0418-0001-036,_Berlin,_VII._SED-Parteitag,_Bruderkuss.jpg",
+    "file": "File:Bundesarchiv Bild 183-F0418-0001-036, Berlin, VII. SED-Parteitag, Bruderkuss.jpg",
+    "artist": "Horst Sturm",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 800,
+    "height": 792,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.newstatesman.com/2016/02/politics-kiss"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Ruth Ellen Gruber was awarded the Order of Merit of the Republic of Poland almost three decades after its communist government expelled her?",
+   "article": {
+    "title": "Ruth Ellen Gruber",
+    "url": "https://en.wikipedia.org/wiki/Ruth_Ellen_Gruber",
+    "extract": "Ruth Ellen Gruber (born October 6, 1949) is an American journalist and author. After serving as an intern at Associated Press, she became a correspondent at United Press International, where she was chief correspondent of the Warsaw bureau from 1981 until her 1983 expulsion from the country by communist authorities. She later became a senior correspondent at Jewish Telegraphic Agency. She has also written several books in Jewish heritage and culture as an independent scholar."
+   },
+   "related": [
+    "Order of Merit of the Republic of Poland"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ruth_Ellen_Gruber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ruth_Ellen_Gruber.jpg",
+    "file": "File:Ruth Ellen Gruber.jpg",
+    "artist": "Joe Mabel",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 1212,
+    "height": 1673,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110923045504/http://content.usatoday.com/communities/ondeadline/post/2011/09/28-years-after-expelling-us-reporter-poland-awards-her-order-of-merit-/1",
+    "title": "28 years after expelling U.S. reporter, Poland awards her Order of Merit",
+    "matched": [
+     "ellen",
+     "gruber",
+     "awarded",
+     "order",
+     "merit",
+     "republic",
+     "poland",
+     "communist",
+     "government"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ulrich Schnaft: A former Waffen-SS soldier reinvents himself as a Holocaust survivor named Gavriel Weissman and moves to Israel.",
+   "article": {
+    "title": "Ulrich Schnaft",
+    "url": "https://en.wikipedia.org/wiki/Ulrich_Schnaft",
+    "extract": "Ulrich Schnaft (3 October 1923 – 1 November 2013) was a German military officer. During World War II he served in the Waffen-SS rising to the rank of captain. After the war, he immigrated to Israel in 1949 by posing as a Jew, where he later served in the Israeli Army. Afterwards he was later convicted of spying for Egypt."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ulrich_Schnaft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ulrich_Schnaft.jpg",
+    "file": "File:Ulrich Schnaft.jpg",
+    "artist": "The Israeli government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 474,
+    "height": 789,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ynetnews.com",
+    "url": "https://www.ynetnews.com/magazine/article/sjkqlwxebl",
+    "title": "The Schnaft affair: how a Nazi SS soldier became an IDF officer",
+    "matched": [
+     "ulrich",
+     "schnaft",
+     "former",
+     "waffen",
+     "soldier",
+     "reinvents",
+     "himself",
+     "holocaust",
+     "survivor",
+     "named",
+     "gavriel"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rocket mail: The delivery of mail by rocket or missile, attempted by various organisations in many different countries, with varying levels of success.",
+   "article": {
+    "title": "Rocket mail",
+    "url": "https://en.wikipedia.org/wiki/Rocket_mail",
+    "extract": "Rocket mail is the delivery of mail by rocket or missile.  The rocket lands by deploying an internal parachute upon arrival.  It has been attempted by various organizations in many countries, with varying levels of success. It has never become widely seen as being a viable option for delivering mail, due to the cost of the schemes and numerous failures."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Regulus_missile.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Regulus_missile.png",
+    "file": "File:Regulus missile.png",
+    "artist": "US Navy",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 290,
+    "height": 219,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20201126130715/https://www.postaltimes.com/postalnews/the-rise-and-fall-of-rocket-mail/"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elongated coin: What better souvenir than a mangled and defaced penny.",
+   "article": {
+    "title": "Elongated coin",
+    "url": "https://en.wikipedia.org/wiki/Elongated_coin",
+    "extract": "An elongated coin (also known as a pressed penny or smashed penny) is a coin that has been flattened or stretched, and embossed with a new design. Such coins are often used as commemorative or souvenir tokens, and it is common to find coin elongation machines in tourism hubs, such as museums, amusement parks, and natural or man-made landmarks.\nThe collecting of elongated coins is a branch of numismatics. Elongated coins are also categorized as exonumia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Elongated_coin_Kansas_City_EC_Meet_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Elongated_coin_Kansas_City_EC_Meet_2010.jpg",
+    "file": "File:Elongated coin Kansas City EC Meet 2010.jpg",
+    "artist": "Rave",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1043,
+    "height": 612,
+    "ok": true
+   },
+   "second_source": {
+    "name": "pennycollector.com",
+    "url": "https://www.pennycollector.com/history.html",
+    "title": "History - PennyCollector.com",
+    "matched": [
+     "elongated",
+     "souvenir",
+     "penny"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nasubi: A man who became famous after appearing in a reality show in which he was locked in an apartment for 11 months until he won ¥1 million from mail-in sweepstakes. Said show also featured, among other things, two men who had to hitchhike their way from the Cape of Good Hope to Norway, a challenge to shave the beard of Fidel Castro, and a segment in which baseball fans would only be allowed to eat if their supported team won a game.",
+   "article": {
+    "title": "Nasubi",
+    "url": "https://en.wikipedia.org/wiki/Nasubi",
+    "extract": "Tomoaki Hamatsu (浜津 智明, Hamatsu Tomoaki; born 3 August 1975), better known as Nasubi (なすび, \"Eggplant\"), is a Japanese comedian and media personality. Hamatsu is best known for appearing on the controversial reality television show Susunu! Denpa Shōnen."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg",
+    "file": "File:なすび タレント.jpg",
+    "artist": "法務省",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1280,
+    "height": 854,
+    "ok": true
+   },
+   "second_source": {
+    "name": "stylekoriyama.com",
+    "url": "https://stylekoriyama.com/fukushima-information/2020/06/10/interview/",
+    "title": "Interview via Online: Fukushima’s Famous Actor and Entertainer, Nasubi Active in Various Fields | Visit Koriyama Japan",
+    "matched": [
+     "11",
+     "nasubi",
+     "became",
+     "famous",
+     "reality",
+     "locked",
+     "apartment",
+     "months",
+     "until",
+     "million",
+     "sweepstakes",
+     "featured"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Male pregnancy: For now, it's just a seahorse thing, but…",
+   "article": {
+    "title": "Male pregnancy",
+    "url": "https://en.wikipedia.org/wiki/Male_pregnancy",
+    "extract": "Male pregnancy is the incubation of one or more embryos or fetuses by organisms of the male sex in some species. Most species that reproduce by sexual reproduction are heterogamous—females producing larger gametes (ova) and males producing smaller gametes (sperm). In nearly all animal species that give live birth, offspring are carried by the female until birth, but in fish of the family Syngnathidae (pipefish, seahorses and the leafy seadragon), males perform that function."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tehotny_morsky_konik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tehotny_morsky_konik.jpg",
+    "file": "File:Tehotny morsky konik.jpg",
+    "artist": "Jaro Nemčok",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 600,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://scixplorer.org/abs/2003CBio...13.R791J"
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Uncombable hair syndrome: Not just a bad hair day.",
+   "article": {
+    "title": "Uncombable hair syndrome",
+    "url": "https://en.wikipedia.org/wiki/Uncombable_hair_syndrome",
+    "extract": "Uncombable hair syndrome (UHS) is a rare structural anomaly of the hair with a variable degree of effect. It is characterized by hair that is silvery, dry, frizzy, wiry, and impossible to comb. It was first reported in the early 20th century. UHS has several names, including pili trianguli et canaliculi (Latin), cheveux incoiffables (French), and \"spun-glass hair\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Scalp_hair-uncombable_hair_syndrome.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Scalp_hair-uncombable_hair_syndrome.gif",
+    "file": "File:Scalp hair-uncombable hair syndrome.gif",
+    "artist": "Hana Kathryn Cobb, Alvin Yuhico Tiu",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 500,
+    "height": 274,
+    "ok": true
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Richard Temple-Nugent-Brydges-Chandos-Grenville, 3rd Duke of Buckingham and Chandos: A warning to us all about taking double-barrelled surnames too far…",
+   "article": {
+    "title": "Richard Temple-Nugent-Brydges-Chandos-Grenville, 3rd Duke of Buckingham and Chandos",
+    "url": "https://en.wikipedia.org/wiki/Richard_Temple-Nugent-Brydges-Chandos-Grenville,_3rd_Duke_of_Buckingham_and_Chandos",
+    "extract": "Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville, 3rd Duke of Buckingham and Chandos,  (10 September 1823 – 26 March 1889), styled Earl Temple until 1839 and Marquess of Chandos from 1839 to 1861, was a British soldier, politician and administrator of the 19th century. He was a close friend and subordinate of Benjamin Disraeli and served as the secretary of state for the colonies from 1867 to 1868 and governor of Madras from 1875 to 1880.\nBuckingham was the only son of Richard Temple-Grenville, 2nd Duke of Buckingham and Chandos, and was educated at Eton and Christ Church, Oxford. He joined the British Army, eventually rising to become a colonel."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Richard_Temple-Grenville%2C_3rd_Duke_of_Buckingham_and_Chandos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Richard_Temple-Grenville,_3rd_Duke_of_Buckingham_and_Chandos.jpg",
+    "file": "File:Richard Temple-Grenville, 3rd Duke of Buckingham and Chandos.jpg",
+    "artist": "William Walker",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 408,
+    "height": 562,
+    "ok": true
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bubbles (chimpanzee): Michael Jackson's chimpanzee, who used human toilet facilities, moonwalked, and (allegedly) attempted suicide.",
+   "article": {
+    "title": "Bubbles (chimpanzee)",
+    "url": "https://en.wikipedia.org/wiki/Bubbles_(chimpanzee)",
+    "extract": "Bubbles (born 1983) is a chimpanzee once kept as a pet by the American singer Michael Jackson, who bought him from a Texas research facility in the 1980s. Bubbles frequently traveled with Jackson, drawing attention in the media. In 1987, during the Bad world tour in Osaka, Bubbles and Jackson drank tea with the Osaka mayor, Yasushi Oshima.\nBubbles was initially kept at the Jackson family home in Encino, Los Angeles, but was moved to Jackson's home, Neverland Ranch, in 1988."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Michael_Jackson_with_Donna_Ashlock_1986_by_UPI_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_with_Donna_Ashlock_1986_by_UPI_(cropped).jpg",
+    "file": "File:Michael Jackson with Donna Ashlock 1986 by UPI (cropped).jpg",
+    "artist": "United Press International",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1174,
+    "height": 1684,
+    "ok": true
+   },
+   "second_source": {
+    "name": "centerforgreatapes.org",
+    "url": "https://centerforgreatapes.org/chimpanzee/bubbles/",
+    "title": "Bubbles - Center for Great Apes",
+    "matched": [
+     "bubbles",
+     "michael",
+     "jackson",
+     "chimpanzee",
+     "human"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "David Rice Atchison: Possibly President for a day, only finding out after his \"term\" had ended.",
+   "article": {
+    "title": "David Rice Atchison",
+    "url": "https://en.wikipedia.org/wiki/David_Rice_Atchison",
+    "extract": "David Rice Atchison (August 11, 1807 – January 26, 1886) was a mid-19th-century Democratic United States Senator from Missouri. He served as president pro tempore of the United States Senate for six years. Atchison served as a major general in the Missouri State Militia in 1838 during Missouri's Mormon War and as a Confederate brigadier general during the American Civil War under Major General Sterling Price in the Missouri Home Guard. Some of Atchison's associates claimed that for 24 hours—Sunday, March 4, 1849, through noon on Monday—he may have been acting president of the United States."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/David_Rice_Atchison_by_Mathew_Brady_March_1849.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:David_Rice_Atchison_by_Mathew_Brady_March_1849.jpg",
+    "file": "File:David Rice Atchison by Mathew Brady March 1849.jpg",
+    "artist": "Mathew Benjamin Brady",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1129,
+    "height": 1536,
+    "ok": true
+   },
+   "second_source": {
+    "name": "who2.com",
+    "url": "https://www.who2.com/davidriceatchison.html",
+    "title": "David Rice Atchison | Who2",
+    "matched": [
+     "david",
+     "atchison",
+     "president",
+     "ended"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chicken gun: Valuable for the mitigation of damage from bird strikes. The chicken carcass must be thawed first, though.",
+   "article": {
+    "title": "Chicken gun",
+    "url": "https://en.wikipedia.org/wiki/Chicken_gun",
+    "extract": "A chicken gun or flight impact simulator is a large-diameter, compressed-air gun used to fire bird carcasses at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Although various species of bird are used in aircraft testing and certification, the device acquired the common name of \"chicken gun\" as chickens are the most commonly used ammunition owing to their ready availability."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/CAA_Westinghouse_chicken_gun_fired_at_glass_panel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:CAA_Westinghouse_chicken_gun_fired_at_glass_panel.png",
+    "file": "File:CAA Westinghouse chicken gun fired at glass panel.png",
+    "artist": "Photo credit given on page 41 of the issue is simply \"Acme\".",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 930,
+    "height": 609,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20210515133252/https://www.skybrary.aero/index.php/Aircraft_Certification_for_Bird_Strike_Risk",
+    "title": "Aircraft Certification for Bird Strike Risk - SKYbrary Aviation Safety",
+    "matched": [
+     "mitigation",
+     "damage",
+     "strikes",
+     "though"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Old Man of the Lake: A 30-foot (9 m) tree stump that has been floating around Oregon's Crater Lake since at least 1896.",
+   "article": {
+    "title": "Old Man of the Lake",
+    "url": "https://en.wikipedia.org/wiki/Old_Man_of_the_Lake",
+    "extract": "The Old Man of the Lake is a 30-foot (9 m) tall tree trunk, most likely a hemlock, that has been bobbing vertically in Crater Lake in Oregon, United States since at least 1896.\nThe trunk is about 2 feet (61 cm) in diameter at the waterline and stands approximately 4 feet (1.2 m) above the water. Its surface has been bleached white due to photodegradation. The exposed end of the floating tree is splintered and worn but wide and buoyant enough to support a person's weight."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg",
+    "file": "File:Old Man of the Lake - Crater Lake National Park - NPS 8.jpg",
+    "artist": "NPS",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20101115043347/http://www.nps.gov/archive/crla/notes/vol27e.htm",
+    "title": "Crater Lake National Park: Nature Notes (1996)",
+    "matched": [
+     "30",
+     "1896",
+     "stump",
+     "floating",
+     "around",
+     "oregon",
+     "crater",
+     "since"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Covered smut (barley): You may snicker now, but if you had any of these, I guarantee you wouldn't be laughing much.",
+   "article": {
+    "title": "Covered smut (barley)",
+    "url": "https://en.wikipedia.org/wiki/Covered_smut_(barley)",
+    "extract": "Covered smut of barley is caused by the fungus Ustilago hordei. The disease is found worldwide and it is more extensively distributed than either loose smut or false loose smut."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nsr-slika-330.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nsr-slika-330.png",
+    "file": "File:Nsr-slika-330.png",
+    "artist": "Martin Cilenšek",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 980,
+    "height": 1887,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20070321172343/http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/prm2431"
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Get Out and Push Railroad: Just what it sounds like.",
+   "article": {
+    "title": "Get Out and Push Railroad",
+    "url": "https://en.wikipedia.org/wiki/Get_Out_and_Push_Railroad",
+    "extract": "The Get Out and Push Railroad (formally, the Wilmington & Long Beach Rapid Transit Railroad) was a 19th-century street railway, connecting Wilmington, California, to the Willmore area of Long Beach, California, which requested its patrons to assist trains over the steeper parts of the route."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/GetOutAndPushRailway_1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:GetOutAndPushRailway_1887.jpg",
+    "file": "File:GetOutAndPushRailway 1887.jpg",
+    "artist": "Pierce, Charles C., 1861-1946",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 488,
+    "height": 384,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Académie de la Carpette anglaise: A French organisation that \"rewards\" people who are doormats for the English language.",
+   "article": {
+    "title": "Académie de la Carpette anglaise",
+    "url": "https://en.wikipedia.org/wiki/Acad%C3%A9mie_de_la_Carpette_anglaise",
+    "extract": "The Académie de la Carpette anglaise, which may be translated as the \"English Doormat Academy\" (the word carpette means both \"rug\" and \"fawner\"), is a French organisation that awards an annual prize to \"members of the French élite who distinguish themselves by relentlessly promoting the domination of the English language over the French language in France and in European institutions.\"  Whether admired or despised for its tongue-in-cheek rhetoric, the Academy has captured the attention of many in the French-speaking world who genuinely fear that the growing pervasiveness of English will lead to the decline and ultimate demise of French.\nThe Academy was created in 1999 by a group of four French-language associations. In 2001 a second award was introduced to spotlight \"key figures and constituent bodies among the European and international nomenklatura who actively conspire to promote the "
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Made_for_sharing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Made_for_sharing.jpg",
+    "file": "File:Made for sharing.jpg",
+    "artist": "Gilbertus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 432,
+    "height": 370,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "https://news.bbc.co.uk/2/hi/europe/1892853.stm",
+    "title": "BBC News | EUROPE | Parlez-vous verlan?",
+    "matched": [
+     "academie",
+     "carpette",
+     "anglaise",
+     "french",
+     "people",
+     "english",
+     "language"
+    ]
+   }
+  },
+  {
+   "id": "c54",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "L'Art de péter: A pioneering treatise on farts.",
+   "article": {
+    "title": "L'Art de péter",
+    "url": "https://en.wikipedia.org/wiki/L%27Art_de_p%C3%A9ter",
+    "extract": "L'Art de péter (\"The Art of Farting\") is a humorous pseudo-medical essay by Pierre-Thomas-Nicolas Hurtaut, published anonymously in 1751. The book is subtitled: L’Art de péter, Essai théori-physique et méthodique à l’usage des personnes constipées, des personnes graves et austères, des dames mélancoliques et de tous ceux qui restent esclaves du préjugé."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Art-de-peter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Art-de-peter.jpg",
+    "file": "File:Art-de-peter.jpg",
+    "artist": "Pierre-Thomas-Nicolas Hurtaut",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 809,
+    "ok": true
+   }
+  },
+  {
+   "id": "c55",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Regulation of flamethrowers in the United States: No permit needed in 48 states.",
+   "article": {
+    "title": "Regulation of flamethrowers in the United States",
+    "url": "https://en.wikipedia.org/wiki/Regulation_of_flamethrowers_in_the_United_States",
+    "extract": "In the United States, flamethrowers are broadly legal for personal ownership and use. California requires a permit for the possession of a flamethrower, and only Maryland has outright banned their ownership and use. No federal laws exist regarding flamethrowers, as they are not defined as weapons under the National Firearms Act. The United States is a signatory of the Convention on Certain Conventional Weapons, protocol III of which limits military use of flamethrowers; this does not extend to civilian use."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lieutenant_Bailey_demonstrates_the_spray_can_flamethrower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lieutenant_Bailey_demonstrates_the_spray_can_flamethrower.jpg",
+    "file": "File:Lieutenant Bailey demonstrates the spray can flamethrower.jpg",
+    "artist": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 629,
+    "height": 482,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20220310011435/https://money.cnn.com/2015/08/13/smallbusiness/flamethrowers-public-sale/index.html"
+   }
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+   "article": {
+    "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+    "url": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+    "extract": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with grass to either maintain its shape or keep the foot warm. It is unknown at this stage whether it was a man or woman's shoe. Researchers have"
+   },
+   "published": "Fri, 13 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pensão Amor in Lisbon, Portugal",
+   "article": {
+    "title": "Pensão Amor in Lisbon, Portugal",
+    "url": "https://www.atlasobscura.com/places/pensao-amor",
+    "extract": "Walk down Pink Street in Lisbon’s Cais do Sodré and you’ll eventually find a door that looks like it has secrets. Pensão Amor building is a former brothel that has been transformed into a surprising space in Lisbon's port district. Cais do Sodré was once the sailors’ quarter, where seamen fresh off the boats mingled with writers, fado singers, artists, prostitutes and the occasional spy. Pensão Am"
+   },
+   "published": "Fri, 13 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Sue Metal T-Rex Statue in Faith, South Dakota",
+   "article": {
+    "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
+    "url": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
+    "extract": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the largest and most complete T. rex fossil discovered in the United States. The original skeleton now resides in Chicago's Field Museum. Faith p"
+   },
+   "published": "Fri, 13 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
+   "article": {
+    "title": "Xuan Phong Church in Tuy Phuoc Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/xuan-phong-church",
+    "extract": "Rising out of the rural landscapes of Tuy Phuoc, Xuan Phong Church presents an intriguing architectural cross-pollination that defies conventional ecclesiastical design. Originally established as a modest thatched sanctuary in the late nineteenth century, the current structure was erected around 1890 using repurposed ancient Cham bricks salvaged from the nearby Binh Lam area, creating a tangible p"
+   },
+   "published": "Fri, 13 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Tar Pits in Lawton, Oklahoma",
+   "article": {
+    "title": "The Tar Pits in Lawton, Oklahoma",
+    "url": "https://www.atlasobscura.com/places/the-tar-pits-on-adams-hill-at-fort-sill-lawton-oklahoma-usa",
+    "extract": "Oklahoma is known for its oil production. Normally, oil is trapped underneath impermeable rock and must be pumped out of the ground. Sometimes there is a gap in the impermeable rock, and oil oozes out of the ground. As the gaseous part of oil evaporates, it leaves behind the solids, which become asphalt. This is the ‘tar’ found in tar pits. There are few tar pits in the world, one of which is in s"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+   "article": {
+    "title": "‘The Mother of the Sea’ (Sassuma Arnaa) in Nuuk, Greenland",
+    "url": "https://www.atlasobscura.com/places/the-mother-of-the-sea-sassuma-arnaa",
+    "extract": "The Mother of the Sea - Sassuma Arnaa is a traditional Kalaallit tale. It goes something like this:The People from Kalaallit Nunaat have always relied on animals from the sea for hunting. Their ancestors were respecting the land and the balance with the sea, but according to the tale, this balance has been lost. Today, the people take too much from the sea without respecting it, polluting it, disr"
+   },
+   "published": "Thu, 12 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Dodder Rhino in Dublin, Ireland",
+   "article": {
+    "title": "The Dodder Rhino in Dublin, Ireland",
+    "url": "https://www.atlasobscura.com/places/the-dodder-rhino",
+    "extract": "There are plenty of creatures to spot along Dublin's River Dodder, but few walkers expect to encounter a rhinoceros. Standing on a plinth in the middle of the river near Classon's Bridge is a remarkably lifelike, life-size bronze rhino that has become one of Milltown's strangest landmarks. The animal appeared seemingly overnight in 2002, with no plaque explaining who created it, who put it there, "
+   },
+   "published": "Thu, 12 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Patrick’s Church in Sydney, Nova Scotia",
+   "article": {
+    "title": "St. Patrick’s Church in Sydney, Nova Scotia",
+    "url": "https://www.atlasobscura.com/places/st-patrick-s-church",
+    "extract": "Standing in the historic North End of Sydney, Nova Scotia, St. Patrick's Church is the oldest surviving Catholic church on Cape Breton Island. Behind its stone walls lies an unusual history of forbidden religious practices, forgotten burials, and reported paranormal encounters. The story begins in 1785, when Captain John Butler Wilson arrived in Sydney as the first captain of the Sydney Garrison. "
+   },
+   "published": "Thu, 12 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring the Unexpected in Alberta",
+   "article": {
+    "title": "Podcast: Exploring the Unexpected in Alberta",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-the-unexpected-in-alberta-will-ferguson",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. Will Ferguson: If you drive east from Calgary, instead of going towards Banff and the mountains, if you go the other way, the landscape will suddenly fall away and you’ll find yourself in the Badlands. But before you hit that valley, before you make that descent, if you turn off the main road, you will come to a small hid"
+   },
+   "published": "Thu, 12 Nov 2026 09:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Invisible Lamplighter in The Hague, Netherlands",
+   "article": {
+    "title": "The Invisible Lamplighter in The Hague, Netherlands",
+    "url": "https://www.atlasobscura.com/places/the-invisible-lamplighter-of-the-hague",
+    "extract": "If you ever find yourself wandering the quiet, postcard-perfect alleyways of The Hague, keep your eyes peeled around streetlamp height. Tucked into the charming cobbled sanctuary of Mallemolen, you’ll spot a gentleman mid-climb on a lamp post, his coat tails flying out behind him as if caught in a sudden gust of wind. This isn't a modern street performer or an overly ambitious late-night reveler—i"
+   },
+   "published": "Wed, 11 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "John J. McGraw Monument in Truxton, New York",
+   "article": {
+    "title": "John J. McGraw Monument in Truxton, New York",
+    "url": "https://www.atlasobscura.com/places/john-j-mcgraw-monument",
+    "extract": "There are in Truxton, New York, three interrelated sites associated with legendary baseball manager John J. McGraw, who was born in that Central New York town in 1873. The three are a monument to the native son, a baseball field named in his honor, and a sign memorializing the game played at John J. McGraw Field that funded the carving and installation of the memorial to McGraw. McGraw’s father, a"
+   },
+   "published": "Wed, 11 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+   "article": {
+    "title": "Tin Lizzy Ice Cream Man in Montpelier, Indiana",
+    "url": "https://www.atlasobscura.com/places/tin-lizzy-ice-cream-man",
+    "extract": "The ice cream man is closed for business. No reason to stop; might as well pass him by. At the intersection of State Road 3 and State Road 18, west of the town of Montpelier, Indiana, the former Tin Lizzy Ice Cream Shop features a large fiberglass man who once served as the shop’s mascot. Famously, the ice cream man appeared in the opening credits of the first season of the television show “Parks "
+   },
+   "published": "Wed, 11 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Fast-Food Chain the Year You Were Born",
+   "article": {
+    "title": "The Most Popular Fast-Food Chain the Year You Were Born",
+    "url": "https://www.mentalfloss.com/food/fast-food/most-popular-fast-food-chain-year-you-were-born?utm_source=RSS",
+    "extract": "America’s appetite for fast food has definitely changed over the years, but one chain was more popular than the rest the year you came into the world."
+   },
+   "published": "Mon, 16 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Quiz: Can You Name Ohio’s 7 Largest Cities? Most People Miss One",
+   "article": {
+    "title": "Quiz: Can You Name Ohio’s 7 Largest Cities? Most People Miss One",
+    "url": "https://www.mentalfloss.com/quizzes/geography/name-ohio-largest-cities-most-people-miss-one?utm_source=RSS",
+    "extract": "Test your Buckeye State geography knowledge by naming the state's seven largest cities by population."
+   },
+   "published": "Mon, 16 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "4 American Mountain Towns That Feel Like a European Winter Escape",
+   "article": {
+    "title": "4 American Mountain Towns That Feel Like a European Winter Escape",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/american-mountain-towns-feel-like-europe?utm_source=RSS",
+    "extract": "These U.S. towns look and feel just like a dream winter vacation in Europe."
+   },
+   "published": "Sun, 15 Nov 2026 13:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "8 Optical Illusions That Will Bend Your Brain and Trick Your Eyes",
+   "article": {
+    "title": "8 Optical Illusions That Will Bend Your Brain and Trick Your Eyes",
+    "url": "https://www.mentalfloss.com/art/optical-illusions-bend-your-brain-trick-your-eyes?utm_source=RSS",
+    "extract": "Everything isn't quite as it seems in these brain-twisting optical illusions...or is it?"
+   },
+   "published": "Sun, 15 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "50 Funny Puns That Are So Corny They're Clever",
+   "article": {
+    "title": "50 Funny Puns That Are So Corny They're Clever",
+    "url": "https://www.mentalfloss.com/language/words/funny-puns?utm_source=RSS",
+    "extract": "From terrible dad jokes to witty wordplay, check out 50 corny puns that prove bad humor is secretly genius."
+   },
+   "published": "Sun, 15 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Why Do We Call Someone a 'Couch Potato'?",
+   "article": {
+    "title": "Why Do We Call Someone a 'Couch Potato'?",
+    "url": "https://www.mentalfloss.com/language/slang/why-we-call-someone-couch-potato?utm_source=RSS",
+    "extract": "We all know what a couch potato is, but how did this playful insult become part of our vocabulary?"
+   },
+   "published": "Sun, 15 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Things Women Couldn't Legally Do in America in the 1960s",
+   "article": {
+    "title": "6 Things Women Couldn't Legally Do in America in the 1960s",
+    "url": "https://www.mentalfloss.com/history/law/things-women-couldn-t-legally-do-america-1960s?utm_source=RSS",
+    "extract": "Several everyday freedoms American women have today weren't available 60 years ago."
+   },
+   "published": "Sun, 15 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Things Every American Video Store Had in the 1990s",
+   "article": {
+    "title": "6 Things Every American Video Store Had in the 1990s",
+    "url": "https://www.mentalfloss.com/nostalgia/90s/things-every-american-video-store-had-1990s?utm_source=RSS",
+    "extract": "These 6 things from '90s video stores are sure to bring nostalgia."
+   },
+   "published": "Sat, 14 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Disney Movie The Year You Were Born",
+   "article": {
+    "title": "The Most Popular Disney Movie The Year You Were Born",
+    "url": "https://www.mentalfloss.com/entertainment/movies/most-popular-disney-movie-year-you-were-born?utm_source=RSS",
+    "extract": "From classic animation to Pixar milestones, discover the most popular Disney movie of your birth year from 1940 to 2010."
+   },
+   "published": "Sat, 14 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "19 Old-Fashioned Ways to Describe Being Drunk",
+   "article": {
+    "title": "19 Old-Fashioned Ways to Describe Being Drunk",
+    "url": "https://www.mentalfloss.com/language/old-fashioned-words-phrases-meaning-drunk?utm_source=RSS",
+    "extract": "From 'fox-drunk' to 'sack-sopped,' history is full of creative ways to describe varying states of drunkenness."
+   },
+   "published": "Sat, 14 Nov 2026 18:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Paul McCartney's Favorite Book Is a Satirical English Classic",
+   "article": {
+    "title": "Paul McCartney's Favorite Book Is a Satirical English Classic",
+    "url": "https://www.mentalfloss.com/literature/books/paul-mccartney-favorite-books?utm_source=RSS",
+    "extract": "Paul McCartney's early love of literature shaped his songwriting—and apparently, one English literary classic stands above the rest."
+   },
+   "published": "Sat, 14 Nov 2026 16:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Last-Minute Casting Switch That Changed ‘The Golden Girls’ Forever",
+   "article": {
+    "title": "The Last-Minute Casting Switch That Changed ‘The Golden Girls’ Forever",
+    "url": "https://www.mentalfloss.com/entertainment/tv/last-minute-casting-switch-changed-the-golden-girls-forever?utm_source=RSS",
+    "extract": "It's very difficult to imagine these two actresses swapping roles in the series!"
+   },
+   "published": "Sat, 14 Nov 2026 14:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
+   "article": {
+    "title": "Two Centuries After This Bronze Leg Emerged From a Scottish Bog, Archaeologists Believe It May Have Belonged to a Towering Statue of a Roman Emperor on Horseback",
+    "url": "https://www.smithsonianmag.com/smart-news/two-centuries-after-this-bronze-leg-emerged-from-a-scottish-bog-archaeologists-believe-it-may-have-once-belonged-to-a-towering-statue-of-a-roman-emperor-on-horseback-180989872/",
+    "extract": "Long thought to have been looted from northern England by Scottish tribes, the larger-than-life leg may have actually been displayed in Roman Scotland, before it was carefully dismantled and buried by retreating forces"
+   },
+   "published": "Fri, 13 Nov 2026 21:34:46 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Thawing Permafrost May Have Created a New Type of Landslide, Which Could Become More Common as the World Warms",
+   "article": {
+    "title": "Thawing Permafrost May Have Created a New Type of Landslide, Which Could Become More Common as the World Warms",
+    "url": "https://www.smithsonianmag.com/smart-news/thawing-permafrost-may-have-created-a-new-type-of-landslide-which-could-become-more-common-as-the-world-warms-180989863/",
+    "extract": "Scientists call the events permafrost detachment slides. Instead of thawing from the top down, these landslides seem to originate from a weakened base"
+   },
+   "published": "Fri, 13 Nov 2026 16:33:14 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+   "article": {
+    "title": "Archaeologists in England Discovered 8,000 Roman-Era Frog Bones in a Single Ditch. They Just Solved the Mystery of How the Amphibians Ended Up There",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-in-england-discovered-8000-roman-era-frog-bones-in-a-single-ditch-they-just-solved-the-mystery-how-the-amphibians-ended-up-there-180989868/",
+    "extract": "New research suggests that medium-sized birds of prey such as short-eared owls feasted on the frogs during a \"short, intensive predation event\" some 1,700 years ago"
+   },
+   "published": "Fri, 13 Nov 2026 16:25:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat",
+   "article": {
+    "title": "This Four-Person NASA Crew Spent Over a Year on 'Mars.' Here's What They Did for 378 Days in a Simulated Martian Habitat",
+    "url": "https://www.smithsonianmag.com/smart-news/this-four-person-nasa-crew-spent-over-a-year-on-mars-heres-what-they-did-for-378-days-in-a-simulated-martian-habitat-180989862/",
+    "extract": "An intense selection process and long preparation helped set the crew up for cohabitation in a 3D-printed replication of the Red Planet's environment in Houston. There, they practiced Marswalks, disrupted communications with people on Earth and food cultivation"
+   },
+   "published": "Fri, 13 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+   "article": {
+    "title": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+    "url": "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+    "extract": "Painted around 1520, the newly identified painting is one of only three pure landscapes painted in oil by the artist. It depicts a lush forest scene with castle ruins and a rainbow emerging from stormy skies"
+   },
+   "published": "Fri, 13 Nov 2026 15:02:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+   "article": {
+    "title": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+    "url": "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/",
+    "extract": "According to Peruvian officials, the three European travelers—including one who's been identified as a \"renowned tarantula researcher\"—could have made around $1.68 million from the creepy-crawly loot"
+   },
+   "published": "Fri, 13 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+   "article": {
+    "title": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+    "url": "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+    "extract": "Most dengue infections cause mild flu-like symptoms or no symptoms at all. But at least one person has died from this year’s outbreak in Florida, where health experts worry the disease will become more common in the future"
+   },
+   "published": "Thu, 12 Nov 2026 19:52:22 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+   "article": {
+    "title": "Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef",
+    "url": "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/",
+    "extract": "The 1,000-foot ship, longer than the \"Titanic,\" once carried celebrities and politicians across the Atlantic in midcentury style. Now, after decades of uncertainty and rust, it's taking on a second life as an underwater refuge for marine creatures and curious divers"
+   },
+   "published": "Thu, 12 Nov 2026 18:51:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+   "article": {
+    "title": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+    "url": "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/",
+    "extract": "A metal detectorist recovered the brass artifact from the wreck of the \"Ann Francis,\" a merchant vessel that sank off southern Wales. Researchers used micro-CT scans to identify the four-letter combination"
+   },
+   "published": "Thu, 12 Nov 2026 18:22:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+   "article": {
+    "title": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+    "url": "https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/",
+    "extract": "The small decrease seems to stem partially from the closure of the Strait of Hormuz, a major global chokepoint for oil transportation. Scientists say that the decline will not last without the accelerated deployment of renewable energies"
+   },
+   "published": "Thu, 12 Nov 2026 17:48:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+   "article": {
+    "title": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+    "extract": "The dwarf planet candidate, called ED138, appeared in telescope images and takes roughly 280 years to orbit the sun. Astronomers need to determine its size to properly classify it"
+   },
+   "published": "Thu, 12 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+   "article": {
+    "title": "What Seeded Life on Earth? New Research Challenges the Longstanding Theory That Comets Brought the Ingredients to Our Planet",
+    "url": "https://www.smithsonianmag.com/smart-news/what-seeded-life-on-earth-new-research-challenges-the-longstanding-theory-that-comets-brought-the-ingredients-to-our-planet-180989852/",
+    "extract": "Computer simulations suggest comets carrying a key precursor to many of life's building blocks would have rarely—if ever—successfully reached Earth's surface. And even if they did, only specific landing conditions would have allowed the precursor molecule to drive biologically relevant reactions"
+   },
+   "published": "Thu, 12 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c102",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  },
+  {
+   "id": "c103",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Bożek na kurhanie",
+   "article": {
+    "title": "Bożek na kurhanie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/bozek-na-kurhanie/",
+    "extract": "Wielki powrót Wiktora Suworowa The post Bożek na kurhanie first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sat, 07 Nov 2026 08:54:38 +0000",
+   "image": null
+  }
+ ]
+}
