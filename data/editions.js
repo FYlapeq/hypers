@@ -5,6 +5,126 @@ window.HYPERS_EDITIONS = {
     "ryby": [],
     "luz": [
       {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 3,
+        "title": "GTA 6 dostało drugą łatkę przed premierą. Na PS5 to ok. 600 MB",
+        "summary": "Trzy dni przed premierą GTA 6 dostało kolejną aktualizację. Według śledzącego PlayStation Store konta PlayStation Game Size wersja 01.002.001 waży na PS5 ok. 602,5 MB. Rockstar nie opublikował listy zmian.",
+        "body": [
+          "GTA 6 dostało drugą aktualizację jeszcze przed premierą 19 listopada. Informację podało konto PlayStation Game Size na X, które śledzi zmiany w PlayStation Store, a za nim serwisy o grach.",
+          "Według tych danych łatka ma numer 01.002.001 i waży ok. 602,5 MB na PS5. Na Xboksie Series X|S ma to być ok. 1,59 GB. Aktualizacja trafia do graczy etapami: najpierw do części osób, a w ciągu doby do wszystkich.",
+          "To druga taka łatka. Pierwsza (1.002.000) pojawiła się 13 listopada i ważyła na PS5 ok. 1,07 GB.",
+          "Rockstar nie opublikował listy zmian, więc nie wiadomo, co poprawia nowa wersja. Rozmiary pochodzą z danych sklepu i zrzutów ekranu pobierania, nie od wydawcy."
+        ],
+        "sources": [
+          {
+            "name": "PlayStation Game Size / X",
+            "url": "https://x.com/PlaystationSize/status/2122271968594653380",
+            "origin": true
+          },
+          {
+            "name": "Beebom",
+            "url": "https://beebom.com/gta-6-gets-second-pre-launch-update/"
+          },
+          {
+            "name": "VGTimes",
+            "url": "https://vgtimes.com/gaming-news/174749-gta-6-has-received-its-second-pre-release-update.html"
+          },
+          {
+            "name": "Instant Gaming News",
+            "url": "https://news.instant-gaming.com/en/articles/23055-gta-vi-update-01-002-001-is-currently-being-deployed"
+          }
+        ],
+        "embed": "https://x.com/PlaystationSize/status/2122271968594653380",
+        "caption": {
+          "credit": "PlayStation Game Size / X",
+          "text": "Post konta, które śledzi PlayStation Store, z numerem wersji i rozmiarem nowej łatki. To z niego serwisy o grach wzięły dane o aktualizacji."
+        },
+        "noImage": "brak filmu YouTube ani materiałów prasowych o łatce; osadzony oryginalny post",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Madden NFL 27 prosi graczy: „Nie usuwaj!”. Wszyscy robią miejsce na dysku pod GTA 6",
+        "summary": "W Madden NFL 27 pojawił się komunikat „Don't Delete!” w różowo-fioletowych barwach z palmami, który media odczytały jako nawiązanie do GTA 6. Wcześniej EA zażartowało na X z rozmiaru nowej gry Rockstara.",
+        "body": [
+          "Gracze Madden NFL 27 zobaczyli w grze komunikat „Don't Delete!”, czyli „Nie usuwaj!”. Grafika ma różowo-fioletowe kolory i palmy, które serwisy o grach skojarzyły ze stylem GTA 6. Sam komunikat nie wymienia GTA z nazwy, zapowiada za to „sygnał od insidera” 17 listopada, czyli nową zawartość w grze.",
+          "Kilka dni wcześniej, 10 listopada, oficjalne konto Madden NFL na X napisało, żeby „210 GB nie stanęło między tobą a twoją ligą”. To już wprost nawiązanie do rozmiaru GTA 6.",
+          "Według serwisów powołujących się na Rockstar GTA 6 zajmuje na PS5 ok. 212 GB, a pobieranie wstępne ruszyło 10 listopada. Gracze z mniejszymi dyskami muszą więc kasować inne gry.",
+          "EA nie potwierdziło w oświadczeniu, że komunikat w grze dotyczy GTA 6. Takie odczytanie to interpretacja mediów i graczy."
+        ],
+        "sources": [
+          {
+            "name": "Push Square",
+            "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it"
+          },
+          {
+            "name": "IGN / Yahoo",
+            "url": "https://www.yahoo.com/entertainment/articles/ea-adds-dont-delete-message-172220588.html"
+          },
+          {
+            "name": "ComicBook",
+            "url": "https://comicbook.com/gaming/news/gta-6s-enormous-download-size-prompts-publishers-to-post-in-game-messages-asking-players-not-to-delete-their-games/"
+          },
+          {
+            "name": "Madden NFL / X",
+            "url": "https://x.com/EAMaddenNFL/status/2120284006285795502",
+            "origin": true
+          }
+        ],
+        "embed": "https://x.com/EAMaddenNFL/status/2120284006285795502",
+        "caption": {
+          "credit": "Madden NFL / X",
+          "text": "Post oficjalnego konta Madden NFL z żartem o 210 GB. To jedyne miejsce, gdzie EA wprost nawiązuje do rozmiaru GTA 6."
+        },
+        "noImage": "brak filmu YouTube ani newsroomu z tym tematem; osadzony oryginalny post EA",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-15",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 2,
+        "title": "Według przecieku chińscy streamerzy nie będą mogli kraść aut w GTA 6. Dokumentu nikt nie potwierdził",
+        "summary": "W sieci krąży dokument z rzekomymi zasadami streamowania GTA 6 w Chinach: bez kradzieży aut, atakowania przechodniów i policji. Według serwisów o grach wrzucił go twórca z Douyin. Nikt oficjalnie tego nie potwierdził.",
+        "body": [
+          "Według chińskiego serwisu IT Home, a za nim TheGamer i innych portali, w sieci pojawił się dokument zatytułowany jako wytyczne dotyczące streamowania GTA 6. Miał go udostępnić twórca z Douyin, chińskiej wersji TikToka.",
+          "Według tych doniesień zasady zakazują pokazywania kradzieży samochodów, atakowania i rozjeżdżania przechodniów oraz walki z policją, a także m.in. odsłaniających strojów. Krwawe sceny miałyby być zaciemniane lub pomijane.",
+          "Autentyczności dokumentu nie potwierdziły ByteDance, Douyin, chińskie władze ani Rockstar. GTA 6 nie ma licencji na wydanie w Chinach kontynentalnych, a tamtejsze przepisy z 2022 r. zakazują streamowania gier bez zgody.",
+          "Media zwracają uwagę, że kradzież aut to podstawa serii, której nazwa dosłownie oznacza „kradzież samochodu”."
+        ],
+        "sources": [
+          {
+            "name": "TheGamer / OpenCritic",
+            "url": "https://opencritic.com/news/39749/you-can-t-commit-grand-theft-auto-in-grand-theft-auto-6-if-you-stream-in-china"
+          },
+          {
+            "name": "The Nerd Stash",
+            "url": "https://thenerdstash.com/gta-6-reportedly-comes-with-one-silly-rule-for-chinese-streamers-dont-commit-crimes/"
+          },
+          {
+            "name": "VGTimes",
+            "url": "https://vgtimes.com/gaming-news/174702-gta-6-streams-in-china-could-ban-car-theft-and-attacks-on-police.html"
+          },
+          {
+            "name": "iXBT.games",
+            "url": "https://ixbt.games/en/news/2026/11/16/v-kitae-strimeram-gta-vi-zapreshhat-pokazyvat-ugon-avtomobilei-i-napat-na-policeiskix-slux.html"
+          }
+        ],
+        "noImage": "brak oryginalnego posta, filmu ani materiałów prasowych z legalnym zdjęciem",
+        "slot": "15:00"
+      },
+      {
         "region": "pl",
         "published": "2026-11-16",
         "who": "Kaluch",
@@ -209,6 +329,334 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Sport",
+        "hype": 4,
+        "title": "Maskotka klubu piłkarskiego, przebrana za małpę, wygrała wybory na burmistrza Hartlepool",
+        "summary": "H'Angus to małpa-maskotka klubu Hartlepool United. Człowiek w tym kostiumie wystartował na burmistrza miasta z hasłem darmowych bananów dla uczniów i wygrał.",
+        "body": [
+          "H'Angus jest maskotką Hartlepool United od 1999 r. Nazwa to gra słów z legendą o mieszkańcach Hartlepool, którzy podobno powiesili małpę, biorąc ją za francuskiego szpiega.",
+          "Osoba występująca w kostiumie wystartowała w wyborach na burmistrza miasta, obiecując m.in. darmowe banany dla wszystkich uczniów. I wygrała."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/H%27Angus"
+          },
+          {
+            "name": "The Northern Echo",
+            "url": "https://www.thenorthernecho.co.uk/news/7110521.quays-bid-enter-hall-footballing-fame/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/H%27Angus_The_Monkey.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:H%27Angus_The_Monkey.jpg",
+          "credit": "GunvoltKong / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Maskotka H'Angus: postać małpy w stroju klubu Hartlepool United",
+          "caption": "H'Angus, małpa-maskotka Hartlepool United."
+        },
+        "insta": {
+          "tytul": "Małpa-maskotka klubu piłkarskiego została burmistrzem miasta",
+          "opis": "Facet w kostiumie H'Angusa z Hartlepool poszedł w wybory z hasłem darmowych bananów dla uczniów. I wygrał 🐒"
+        },
+        "caption": {
+          "credit": "GunvoltKong / Wikimedia Commons, CC BY-SA 4.0",
+          "text": "Na zdjęciu H'Angus w klubowym stroju Hartlepool United. To ten kostium stał za wyborczą kampanią z darmowymi bananami."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Sergeant Reckless",
+        "initials": "SR",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Klacz Reckless miała oficjalny stopień sierżanta w amerykańskiej piechocie morskiej",
+        "summary": "Podczas wojny w Korei marines kupili klacz za 250 dolarów i zrobili z niej konia jucznego. Dostała oficjalny stopień i odznaczenia.",
+        "body": [
+          "W październiku 1952 r. żołnierze US Marine Corps kupili na torze wyścigowym w Seulu klacz za 250 dolarów. Wyszkolili ją do noszenia amunicji dla plutonu działek bezodrzutowych.",
+          "Reckless chodziła swobodnie po obozie, spała w namiotach w zimne noce i jadła prawie wszystko: jajecznicę, piwo, colę, a raz żetony do pokera warte ok. 30 dolarów. Miała oficjalny stopień wojskowy i była odznaczana."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Sergeant_Reckless"
+          },
+          {
+            "name": "Korean War 60th Anniversary (archiwum)",
+            "url": "https://web.archive.org/web/20160318001302/http://koreanwar60.com/gallery/operation-reckless-dedication"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sgt_reckless_in_pasture.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Sgt_reckless_in_pasture.jpg",
+          "credit": "Andrew Geer lub inny członek US Marine Corps / Wikimedia Commons, domena publiczna",
+          "alt": "Klacz Sergeant Reckless na pastwisku",
+          "caption": "Sergeant Reckless na pastwisku."
+        },
+        "insta": {
+          "tytul": "W armii USA służyła klacz w stopniu sierżanta",
+          "opis": "Marines kupili ją w Korei za 250 dolarów. Nosiła amunicję, spała w namiotach i raz zjadła żetony do pokera."
+        },
+        "caption": {
+          "credit": "Andrew Geer lub inny członek US Marine Corps / Wikimedia Commons, domena publiczna",
+          "text": "Zdjęcie pokazuje Reckless na pastwisku. To ta klacz nosiła amunicję dla marines w czasie wojny w Korei."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Holandia",
+        "initials": "HO",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W XVII-wiecznej Holandii cebulka tulipana kosztowała tyle, co 10 lat pracy rzemieślnika",
+        "summary": "Tulipomania to pierwsza opisana bańka spekulacyjna w historii. Na szczycie ceny niektórych cebulek sięgały dziesięciokrotności rocznego dochodu wykwalifikowanego rzemieślnika.",
+        "body": [
+          "Tulipany były w Holandii modną nowością. Od 1634 r. ceny kontraktów na niektóre cebulki szybko rosły, aż w lutym 1637 r. rynek nagle się załamał.",
+          "Tulipomanię uważa się za pierwszą zapisaną bańkę spekulacyjną. Część historyków twierdzi jednak, że jej skala była mniejsza, niż głosi legenda."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tulip_mania"
+          },
+          {
+            "name": "Amsterdam Museum",
+            "url": "https://www.amsterdammuseum.nl/en/exhibition/in-de-ban-van-de-tulp/85592"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Jan_Brueghel_the_Younger,_Satire_on_Tulip_Mania,_c._1640.jpg",
+          "credit": "Jan Brueghel Młodszy / Wikimedia Commons, domena publiczna",
+          "alt": "Obraz z małpami w strojach handlarzy przy tulipanach",
+          "caption": "„Satyra na tulipomanię” Jana Brueghla Młodszego, ok. 1640 r."
+        },
+        "insta": {
+          "tytul": "Holendrzy płacili za cebulkę tulipana tyle, co za 10 lat pracy",
+          "opis": "Tulipomania w XVII w. to pierwsza znana bańka spekulacyjna. W lutym 1637 r. ceny nagle runęły."
+        },
+        "caption": {
+          "credit": "Jan Brueghel Młodszy / Wikimedia Commons, domena publiczna",
+          "text": "Obraz z ok. 1640 r. wyśmiewa tulipomanię: handlarze tulipanami są na nim małpami. Powstał kilka lat po krachu z 1637 r."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "X-Men",
+        "initials": "XM",
+        "category": "Prawo",
+        "hype": 4,
+        "title": "Sąd w USA orzekł, że X-Meni nie są ludźmi. Chodziło o niższe cło na figurki",
+        "summary": "W 2003 r. amerykański sąd handlowy uznał, że figurki Marvela to zabawki, a nie lalki, bo przedstawiają „istoty nieludzkie”. Dzięki temu cło spadło prawie o połowę.",
+        "body": [
+          "Firma Toy Biz chciała, żeby jej figurki postaci Marvela, m.in. X-Menów, traktować jak zabawki, a nie lalki, bo lalki przedstawiały ludzi i miały wyższe cło.",
+          "Sąd Handlu Międzynarodowego USA przyznał jej rację: figurki przedstawiają „istoty nieludzkie”. Cło spadło z 12 do 6,8 proc."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Toy_Biz,_Inc._v._United_States"
+          },
+          {
+            "name": "Slate",
+            "url": "https://slate.com/business/2011/12/are-mutants-human.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Seal_of_the_United_States_Court_of_International_Trade.gif",
+          "href": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Court_of_International_Trade.gif",
+          "credit": "Rząd USA / Wikimedia Commons, domena publiczna",
+          "alt": "Pieczęć Sądu Handlu Międzynarodowego USA",
+          "caption": "Pieczęć sądu, który wydał wyrok w sprawie figurek."
+        },
+        "insta": {
+          "tytul": "Amerykański sąd uznał, że X-Meni nie są ludźmi",
+          "opis": "Chodziło o cło. Figurki „nieludzi” to zabawki, nie lalki, więc cło spadło z 12 do 6,8 proc."
+        },
+        "caption": {
+          "credit": "Rząd USA / Wikimedia Commons, domena publiczna",
+          "text": "Pieczęć sądu, który w 2003 r. rozstrzygał, czy figurki X-Menów to lalki, czy zabawki. Wyrok obniżył cło prawie o połowę."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Wielka Brytania",
+        "initials": "WB",
+        "category": "Zwierzęta",
+        "hype": 3,
+        "title": "W Wielkiej Brytanii organizowano wyścigi chomików. Rekord na 9 metrach to 38 sekund",
+        "summary": "Chomiki ścigają się w kulach lub kołach doczepionych do małych pojazdów na prostym torze. Wyścigi zyskały popularność w Wielkiej Brytanii w czasie epidemii pryszczycy.",
+        "body": [
+          "Chomiki wsadza się do kół albo kul, często zamontowanych w miniaturowych bolidach, i puszcza na prosty tor o długości 9 metrów. Wygrywa ten, który pierwszy minie metę.",
+          "Według doniesień z 2001 r. rekord na takim torze wynosił 38 sekund. Bywały zawody z wieloma drużynami i ludzkimi „ekipami serwisowymi”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hamster_racing"
+          },
+          {
+            "name": "Boston.com (archiwum)",
+            "url": "https://web.archive.org/web/20060303213800/http://www.boston.com/news/daily/08/hamster_races.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Professional_Hamster_Racing_Track.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Professional_Hamster_Racing_Track.jpg",
+          "credit": "Will 210 / Wikimedia Commons, domena publiczna",
+          "alt": "Tor wyścigowy dla chomików",
+          "caption": "Tor do wyścigów chomików."
+        },
+        "insta": {
+          "tytul": "Brytyjczycy organizowali wyścigi chomików w małych bolidach",
+          "opis": "Tor ma 9 metrów, a rekord z 2001 r. to 38 sekund. Były nawet ekipy serwisowe 🐹"
+        },
+        "caption": {
+          "credit": "Will 210 / Wikimedia Commons, domena publiczna",
+          "text": "Zdjęcie pokazuje tor do wyścigów chomików. Na takim prostym torze liczy się czas przejazdu do mety."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Moondog",
+        "initials": "MO",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Niewidomy kompozytor Moondog przez lata grał na ulicach Nowego Jorku przebrany za wikinga",
+        "summary": "Louis Hardin, znany jako Moondog, stracił wzrok w wieku 16 lat. Grał jako uliczny muzyk w hełmie wikinga, a jego muzyka wpłynęła na Steve'a Reicha i Philipa Glassa.",
+        "body": [
+          "Moondog (1916–1999) był kompozytorem, poetą i wynalazcą instrumentów, głównie samoukiem. Od lat 40. do 70. występował na ulicach Nowego Jorku w stroju wikinga.",
+          "Jego rytmiczne utwory wpłynęły na twórców minimalizmu, zwłaszcza Steve'a Reicha i Philipa Glassa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Moondog"
+          },
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/2007/10/28/arts/music/28stra.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Moondog_1948.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Moondog_1948.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Moondog na ulicy w 1948 r.",
+          "caption": "Moondog w 1948 r."
+        },
+        "insta": {
+          "tytul": "Niewidomy kompozytor grał na ulicach Nowego Jorku w stroju wikinga",
+          "opis": "Moondog robił to od lat 40. do 70. A jego muzyka wpłynęła na Philipa Glassa i Steve'a Reicha."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "text": "Zdjęcie z 1948 r. pokazuje Moondoga z czasów, gdy występował na ulicach Nowego Jorku."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Brian Wilson",
+        "initials": "BW",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Lider Beach Boys nagrał płytę z piosenką rap i swoim byłym psychologiem. Wytwórnia ją odrzuciła",
+        "summary": "„Sweet Insanity” Briana Wilsona powstała w 1990 r. razem z Eugene'em Landym. Sire Records nie wydało albumu m.in. przez teksty Landy'ego i rapowy utwór „Smart Girls”.",
+        "body": [
+          "Brian Wilson nagrał „Sweet Insanity” jako następcę swojej pierwszej solowej płyty z 1988 r. Pisał i produkował ją głównie ze swoim byłym psychologiem Eugene'em Landym.",
+          "Wytwórnia Sire Records odrzuciła album, częściowo przez teksty Landy'ego i piosenkę rap „Smart Girls”. Kilka utworów Wilson nagrał później na nowo na płytę z 2004 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Sweet_Insanity"
+          },
+          {
+            "name": "Rolling Stone",
+            "url": "https://www.rollingstone.com/music/features/god-only-knows-19880811"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sweet_Insanity_demo_cassette_J-card.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Sweet_Insanity_demo_cassette_J-card.png",
+          "credit": "Brian Wilson & Eugene Landy / Wikimedia Commons, domena publiczna",
+          "alt": "Okładka kasety demo „Sweet Insanity”",
+          "caption": "Wkładka kasety demo albumu „Sweet Insanity”."
+        },
+        "insta": {
+          "tytul": "Lider Beach Boys nagrał rap. Wytwórnia nie chciała tego wydać",
+          "opis": "Płyta „Sweet Insanity” z 1990 r. miała utwór „Smart Girls”. Sire Records ją odrzuciło."
+        },
+        "caption": {
+          "credit": "Brian Wilson & Eugene Landy / Wikimedia Commons, domena publiczna",
+          "text": "Wkładka kasety demo z niewydaną płytą Briana Wilsona. Album nigdy nie trafił oficjalnie do sklepów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Beethoven",
+        "initials": "LB",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Utwór Beethovena, który współcześni uznali za „niezrozumiały”, dziś uchodzi za jedno z jego arcydzieł",
+        "summary": "„Wielka fuga” powstała w 1825 r. jako finał kwartetu smyczkowego. W czasach Beethovena krytykowano ją niemal jednogłośnie, dziś należy do jego najważniejszych dzieł.",
+        "body": [
+          "Beethoven napisał „Wielką fugę” (Große Fuge, op. 133) w 1825 r. jako ostatnią, piątą część Kwartetu smyczkowego nr 13 B-dur.",
+          "Współcześni uznali ją za niezrozumiałą. Dziś jest uważana za jedno z największych dzieł kompozytora."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Grosse_Fuge"
+          },
+          {
+            "name": "Brentano Quartet",
+            "url": "https://www.brentanoquartet.com/notes/beethoven-grosse-fuge/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Grosse_Fuge_Artaria_title_page.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Grosse_Fuge_Artaria_title_page.jpg",
+          "credit": "Ludwig van Beethoven / Wikimedia Commons, domena publiczna",
+          "alt": "Strona tytułowa wydania „Wielkiej fugi” Beethovena",
+          "caption": "Strona tytułowa pierwszego wydania „Wielkiej fugi” (Artaria)."
+        },
+        "insta": {
+          "tytul": "Ten utwór Beethovena współcześni uznali za „niezrozumiały”",
+          "opis": "„Wielka fuga” z 1825 r. dostała wtedy fatalne recenzje. Dziś to jedno z jego arcydzieł."
+        },
+        "caption": {
+          "credit": "Ludwig van Beethoven / Wikimedia Commons, domena publiczna",
+          "text": "Strona tytułowa pierwszego wydania „Wielkiej fugi”. Utwór ukazał się jako osobne dzieło, op. 133."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-16",

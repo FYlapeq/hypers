@@ -2,6 +2,9 @@
 window.HYPERS_URLS = {
  "2026-11-16": {
   "luz": [
+   "artykuly/2026-11-16/gta-6-dostalo-druga-latke-przed-premiera-na-ps5-to-ok-600-mb.html",
+   "artykuly/2026-11-16/madden-nfl-27-prosi-graczy-nie-usuwaj-wszyscy-robia-miejsce-na-dysku.html",
+   "artykuly/2026-11-16/wedlug-przecieku-chinscy-streamerzy-nie-beda-mogli-krasc-aut-w-gta-6.html",
    "artykuly/2026-11-16/kaluch-zamknal-pogromcow-mitow-w-gta-v-seria-o-gta-6-startuje.html",
    "artykuly/2026-11-16/wedlug-przecieku-fabula-gta-6-to-ok-50-godzin-i-prawie-100-misji.html",
    "artykuly/2026-11-16/od-dzis-gta-6-na-ps5-mozna-odebrac-w-inpost-mobile-za-3500-incoinow.html",
@@ -9,6 +12,14 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-16/ksiazulo-testuje-polski-hotel-all-inclusive-na-wejsciu-dostalem.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-16/maskotka-klubu-pilkarskiego-przebrana-za-malpe-wygrala-wybory.html",
+   "artykuly/2026-11-16/klacz-reckless-miala-oficjalny-stopien-sierzanta-w-amerykanskiej.html",
+   "artykuly/2026-11-16/w-xvii-wiecznej-holandii-cebulka-tulipana-kosztowala-tyle-co-10-lat.html",
+   "artykuly/2026-11-16/sad-w-usa-orzekl-ze-x-meni-nie-sa-ludzmi-chodzilo-o-nizsze-clo.html",
+   "artykuly/2026-11-16/w-wielkiej-brytanii-organizowano-wyscigi-chomikow-rekord-na-9-metrach.html",
+   "artykuly/2026-11-16/niewidomy-kompozytor-moondog-przez-lata-gral-na-ulicach-nowego-jorku.html",
+   "artykuly/2026-11-16/lider-beach-boys-nagral-plyte-z-piosenka-rap-i-swoim-bylym.html",
+   "artykuly/2026-11-16/utwor-beethovena-ktory-wspolczesni-uznali-za-niezrozumialy-dzis.html",
    "artykuly/2026-11-16/najwiekszy-postoj-dla-ciezarowek-na-swiecie-ma-wlasne-kino-dentyste.html",
    "artykuly/2026-11-16/samoloty-testuje-sie-strzelajac-w-nie-kurczakami-z-armaty.html",
    "artykuly/2026-11-16/na-jeziorze-w-oregonie-od-ponad-125-lat-dryfuje-pionowo-9-metrowy.html",
