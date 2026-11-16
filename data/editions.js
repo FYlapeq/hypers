@@ -1,5 +1,503 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-16": {
+    "date": "2026-11-16",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-16",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Kaluch zamknął „Pogromców Mitów” w GTA V. Seria o GTA 6 startuje w przyszły weekend",
+        "summary": "Kaluch wrzucił 23. i ostatni odcinek „GTA V Pogromcy Mitów” pod tytułem „TO KONIEC, DZIĘKUJĘ”. W opisie zapowiedział, że pierwszy odcinek o mitach z GTA 6 pojawi się w przyszły weekend, i poprosił widzów o zgłaszanie mitów.",
+        "body": [
+          "Kaluch opublikował 15 listopada wieczorem odcinek „TO KONIEC, DZIĘKUJĘ - GTA V POGROMCY MITÓW #23”. To ostatni odcinek jego serii, w której sprawdza mity i legendy krążące wśród graczy GTA V.",
+          "W opisie filmu twórca napisał, żeby widzowie pisali mity pod GTA 6, bo pierwszy odcinek nowej serii pojawi się w przyszły weekend. Premiera GTA 6 jest zaplanowana na 19 listopada.",
+          "Widzowie od razu wzięli się do roboty: pod filmem pojawiły się setki komentarzy z hasztagiem #mit, w których gracze podsuwają pomysły do sprawdzenia w nowej grze, od zachowania policji po sekrety na mapie stanu Leonida. Inni dziękują za lata oglądania serii.",
+          "Kilka dni wcześniej Kaluch zamknął też inną swoją serię, „GTA V Prawdziwe Życie”. Według odczytu z 16 listopada ok. 6:16 nowy odcinek miał ok. 225 tys. wyświetleń i ponad tysiąc komentarzy."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=5dmGop3I2IQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=5dmGop3I2IQ",
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura ostatniego odcinka „GTA V Pogromcy Mitów”. To w opisie tego filmu Kaluch zapowiedział start serii o mitach z GTA 6."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "insta": {
+          "tytul": "Kaluch kończy Pogromców Mitów w GTA V. Teraz bierze się za GTA 6",
+          "opis": "Ostatni, 23. odcinek już jest, a pierwszy o GTA 6 ma wyjść w przyszły weekend. Widzowie już wrzucają mity do sprawdzenia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/5dmGop3I2IQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/5dmGop3I2IQ/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=5dmGop3I2IQ",
+          "alt": "Miniatura filmu Kalucha „TO KONIEC, DZIĘKUJĘ - GTA V Pogromcy Mitów #23”",
+          "caption": "Kadr z ostatniego odcinka serii „GTA V Pogromcy Mitów”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Według przecieku fabuła GTA 6 to ok. 50 godzin i prawie 100 misji. Rockstar tego nie potwierdził",
+        "summary": "Dziennikarz Tom Henderson z Insider Gaming twierdzi, powołując się na osoby, które grały w GTA 6, że główny wątek zajmuje ok. 50 godzin. Rockstar nie skomentował tych informacji.",
+        "body": [
+          "Według Toma Hendersona z serwisu Insider Gaming, który powołuje się na osoby mające już dostęp do gry, główna fabuła GTA 6 ma zajmować ok. 50 godzin. Kampania ma liczyć prawie 100 misji podzielonych na pięć rozdziałów.",
+          "Z tych samych relacji wynika, że zdobycie platynowego trofeum na PS5 ma zająć ok. 200 godzin. Doniesienia powtórzyły m.in. GameRant i Pixeltwelve, zaznaczając, że to nieoficjalne informacje.",
+          "Rockstar ani Take-Two nie potwierdziły tych liczb. Część serwisów opisała je w tytułach jako „oficjalne”, ale żadne oficjalne źródło ich nie podało.",
+          "Premiera GTA 6 na PS5 i Xbox Series X|S jest zaplanowana na 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "GameRant",
+            "url": "https://gamerant.com/gta-6-story-length-mission-count-how-long-to-platinum-leak/"
+          },
+          {
+            "name": "Pixeltwelve",
+            "url": "https://pixeltwelve.com/articles/gta-6-main-story-50-hours-campaign-platinum"
+          },
+          {
+            "name": "Men's Journal",
+            "url": "https://www.mensjournal.com/entertainment/gta-6-game-length-and-mission-count-officially-revealed"
+          }
+        ],
+        "noImage": "brak legalnego zdjęcia: przeciek bez oficjalnego materiału ani sprawdzonego filmu YouTube",
+        "insta": {
+          "tytul": "Fabuła GTA 6 ma mieć ok. 50 godzin. Tak twierdzi przeciek",
+          "opis": "Prawie 100 misji i ok. 200 godzin do platyny, według Insider Gaming. Rockstar nic nie potwierdził."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-16",
+        "who": "InPost",
+        "initials": "IP",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Od dziś GTA 6 na PS5 można odebrać w InPost Mobile za 3500 InCoinów",
+        "summary": "InPost dodał do katalogu nagród w aplikacji InPost Mobile cyfrowe kody do GTA 6 na PS5. Kosztują 3500 InCoinów, a wymiana ma ruszyć 16 listopada.",
+        "body": [
+          "InPost ogłosił, że w aplikacji InPost Mobile, w sekcji z nagrodami za InCoiny, pojawią się kody do GTA 6. Według Spider's Web i HDTVPolska wymiana rusza 16 listopada, a kod kosztuje 3500 InCoinów.",
+          "Chodzi o cyfrowe kody na PS5. Firma nie podała, ile kodów przygotowała ani o której godzinie pojawią się w aplikacji.",
+          "Kod nie daje wcześniejszego dostępu do gry: GTA 6 będzie można uruchomić dopiero w dniu premiery, 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "InPost / Facebook",
+            "url": "https://www.facebook.com/paczkomatkurier/posts/pfbid02CnyiHCdPyf7iXg6Hfee263F1kC8QzxxitkD25yVRHvpnfbpGLqGrNkR3NUatF822l",
+            "origin": true
+          },
+          {
+            "name": "Spider's Web",
+            "url": "https://spidersweb.pl/2026/11/kiedy-inpost-rozda-kody-na-gta-6-na-ps5-znamy-date-zasady.html"
+          },
+          {
+            "name": "HDTVPolska",
+            "url": "https://hdtvpolska.com/gta-6-za-darmo-juz-jutro-inpost-potwierdzil-date-trzeba-przygotowac-3500-punktow/"
+          },
+          {
+            "name": "NowyMarketing",
+            "url": "https://nowymarketing.pl/gta-6-za-punkty-inpostu-gra-pojawi-sie-w-katalogu-nagrod-inpost-mobile/"
+          }
+        ],
+        "noImage": "brak legalnego zdjęcia: ogłoszenie tylko na Facebooku, bez newsroomu ani filmu",
+        "insta": {
+          "tytul": "GTA 6 za punkty z paczkomatów. InPost rusza z kodami od dziś",
+          "opis": "Kod na PS5 kosztuje 3500 InCoinów w InPost Mobile. Grać i tak można dopiero od 19 listopada."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-16",
+        "who": "Tivolt",
+        "initials": "TI",
+        "category": "GTA 6",
+        "hype": 2,
+        "title": "Tivolt zrobił „ostatnią transmisję ze starego świata”. Przejrzał wszystko, co pokazano z GTA 6",
+        "summary": "Tivolt wrzucił zapis ponad czterogodzinnego streama, na którym przed premierą GTA 6 przeglądał wszystkie trailery, screenshoty i klipy z gry. Na koniec był jeszcze krótki YLYL.",
+        "body": [
+          "Tivolt opublikował 15 listopada zapis streama zatytułowany „ostatnia transmisja ze starego świata”. Jak napisał w opisie, razem z widzami zrobił przegląd contentu z GTA 6 przed premierą: wszystkich trailerów, screenshotów i innych klipów.",
+          "Na koniec transmisji pojawił się krótki YLYL, czyli format „You Laugh You Lose”. Opis kończy się pożegnaniem „Do zobaczenia w Leonidzie”, nawiązującym do stanu, w którym toczy się akcja GTA 6.",
+          "Nagranie trwa ponad cztery godziny. Według odczytu z 16 listopada ok. 6:16 miało ok. 85 tys. wyświetleń. GTA 6 wychodzi 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=NQ7d1jW_Va4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=NQ7d1jW_Va4",
+        "caption": {
+          "credit": "Tivolt / YouTube",
+          "text": "Miniatura zapisu streama, na którym Tivolt przeglądał materiały z GTA 6. To ostatnia jego transmisja przed premierą gry, stąd tytuł o „starym świecie”."
+        },
+        "insta": {
+          "tytul": "Tivolt na pożegnanie przejrzał wszystkie trailery GTA 6",
+          "opis": "Ponad 4 godziny streama: trailery, screeny i klipy przed premierą, a na koniec YLYL. „Do zobaczenia w Leonidzie”."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/NQ7d1jW_Va4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/NQ7d1jW_Va4/hqdefault.jpg",
+          "credit": "Tivolt / YouTube",
+          "href": "https://www.youtube.com/watch?v=NQ7d1jW_Va4",
+          "alt": "Miniatura streama Tivolta „ostatnia transmisja ze starego świata”",
+          "caption": "Kadr z zapisu streama Tivolta z przeglądem materiałów o GTA 6."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-16",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "Książulo testuje polski hotel all inclusive. „Na wejściu dostałem lepszy pokój”",
+        "summary": "Książulo wrzucił kolejny film z serii o hotelach. Tym razem sprawdza polski hotel all inclusive, a w tytule chwali się, że od razu dostał lepszy pokój.",
+        "body": [
+          "Książulo opublikował 15 listopada wieczorem film „NA WEJŚCIU DOSTAŁEM LEPSZY POKÓJ (POLSKI HOTEL ALL INCLUSIVE)”. To kolejny odcinek jego serii, w której testuje jedzenie i ofertę hoteli all inclusive w Polsce.",
+          "W opisie twórca odsyła do drugiego filmu na swoim drugim kanale. Widzowie w komentarzach chwalą hotelową serię jako jedną z ciekawszych na kanale i dyskutują o cenach przekąsek w hotelowym barze.",
+          "Według odczytu z 16 listopada ok. 6:16 film miał ponad 727 tys. wyświetleń i był najchętniej oglądanym nowym filmem polskiego twórcy w porannym zestawieniu Hypers."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=KRN27uC3Tyk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=KRN27uC3Tyk",
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura nowego filmu Książula z hotelowej serii. W tym odcinku sprawdza polski hotel all inclusive."
+        },
+        "insta": {
+          "tytul": "Książulo pojechał do polskiego hotelu all inclusive i od razu dostał lepszy pokój",
+          "opis": "Kolejny odcinek hotelowej serii. W ciągu nocy ponad 700 tys. wyświetleń."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/KRN27uC3Tyk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/KRN27uC3Tyk/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=KRN27uC3Tyk",
+          "alt": "Miniatura filmu Książula o polskim hotelu all inclusive",
+          "caption": "Kadr z filmu Książula o polskim hotelu all inclusive."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Podróże",
+        "hype": 3,
+        "title": "Największy postój dla ciężarówek na świecie ma własne kino, dentystę i kręgarza",
+        "summary": "Iowa 80 przy autostradzie I-80 w stanie Iowa zajmuje 89 hektarów i ma parking na 900 ciężarówek. Codziennie odwiedza go ok. 5 tys. osób.",
+        "body": [
+          "Iowa 80 w miejscowości Walcott to największy truck stop na świecie. Zajmuje 89 ha, trzy razy więcej niż przeciętny postój tego typu, ma parking na 900 ciężarówek i 15 dystrybutorów diesla. Pracuje tam 450 osób.",
+          "Kierowcy nie muszą stamtąd nigdzie jechać: na miejscu jest m.in. kino, gabinet dentystyczny i kręgarz."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Iowa_80"
+          },
+          {
+            "name": "Expediters Online (archiwum)",
+            "url": "https://web.archive.org/web/20070504202358/http://www.expeditersonline.com/artman/publish/printer_Truck_Stop.html"
+          }
+        ],
+        "insta": {
+          "tytul": "W USA jest postój dla tirów z kinem i dentystą",
+          "opis": "Iowa 80 ma parking na 900 ciężarówek i 450 pracowników. To największy truck stop na świecie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Iowa80.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Iowa80.png",
+          "credit": "photo by Beatrice Murch, modified by Xiaphias / Wikimedia Commons, CC BY 2.0",
+          "alt": "Budynek i szyld truck stopu Iowa 80",
+          "caption": "Iowa 80 w Walcott, największy postój dla ciężarówek na świecie."
+        },
+        "caption": {
+          "credit": "photo by Beatrice Murch, modified by Xiaphias / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje budynek główny Iowa 80. To ten kompleks przy I-80 uchodzi za największy postój dla ciężarówek na świecie."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Lotnictwo",
+        "initials": "LO",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "Samoloty testuje się, strzelając w nie kurczakami z armaty pneumatycznej",
+        "summary": "„Chicken gun” to działo na sprężone powietrze, które wystrzeliwuje martwe ptaki w części samolotów. Tak sprawdza się, czy wytrzymają zderzenie z ptakiem w locie.",
+        "body": [
+          "Działo to symulator zderzeń z ptakami: z dużą prędkością wystrzeliwuje tuszki ptaków w silniki odrzutowe i szyby kokpitu, bo te elementy są najbardziej narażone na uszkodzenia.",
+          "Do testów używa się różnych gatunków, ale nazwa „chicken gun” wzięła się stąd, że najczęściej amunicją są kurczaki: najłatwiej je zdobyć."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Chicken_gun"
+          },
+          {
+            "name": "SKYbrary (archiwum)",
+            "url": "https://web.archive.org/web/20210515133252/https://www.skybrary.aero/index.php/Aircraft_Certification_for_Bird_Strike_Risk"
+          }
+        ],
+        "insta": {
+          "tytul": "Samoloty testuje się, strzelając w nie kurczakami",
+          "opis": "Specjalne działo na sprężone powietrze wali ptakami w silniki i szyby. Tak sprawdza się, czy wytrzymają zderzenie z ptakiem."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/CAA_Westinghouse_chicken_gun_fired_at_glass_panel.png",
+          "href": "https://commons.wikimedia.org/wiki/File:CAA_Westinghouse_chicken_gun_fired_at_glass_panel.png",
+          "credit": "Acme / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie działa wystrzeliwującego kurczaka w szklany panel",
+          "caption": "Test „chicken gun” na szybie: działo strzela tuszką ptaka w szklany panel."
+        },
+        "caption": {
+          "credit": "Acme / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie testu: działo wystrzeliwuje ptaka w szklany panel. Tak samo sprawdza się szyby kokpitów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Oregon",
+        "initials": "OR",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Na jeziorze w Oregonie od ponad 125 lat dryfuje pionowo 9-metrowy pień drzewa",
+        "summary": "„Old Man of the Lake” to pień, który unosi się pionowo w jeziorze Crater Lake co najmniej od 1896 roku. Wystaje ok. 1,2 m nad wodę.",
+        "body": [
+          "Pień ma ok. 9 metrów długości i najpewniej był kiedyś choiną. Przy linii wody ma ok. 61 cm średnicy, a nad powierzchnię wystaje na ok. 1,2 m. Słońce wybieliło go na biało.",
+          "Jego górny koniec jest na tyle szeroki i wyporny, że utrzyma stojącego człowieka. Pień przemieszcza się po jeziorze co najmniej od 1896 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Old_Man_of_the_Lake"
+          },
+          {
+            "name": "Crater Lake Nature Notes, NPS (archiwum)",
+            "url": "https://web.archive.org/web/20101115043347/http://www.nps.gov/archive/crla/notes/vol27e.htm"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten pień pływa w jeziorze pionowo od ponad 125 lat",
+          "opis": "Ma 9 metrów, wystaje nad wodę na ok. 1,2 m i dryfuje po Crater Lake w Oregonie co najmniej od 1896 roku."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Lake_-_Crater_Lake_National_Park_-_NPS_8.jpg",
+          "credit": "NPS / Wikimedia Commons, domena publiczna",
+          "alt": "Wybielony pień wystający pionowo z wody jeziora",
+          "caption": "„Old Man of the Lake” na Crater Lake w Oregonie."
+        },
+        "caption": {
+          "credit": "NPS / Wikimedia Commons",
+          "text": "Na zdjęciu Służby Parków Narodowych USA widać wybielony pień wystający z wody. To właśnie „Old Man of the Lake”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Senator z Missouri mógł być prezydentem USA przez jeden dzień i dowiedział się o tym po fakcie",
+        "summary": "Według niektórych współpracowników Davida Rice'a Atchisona przez 24 godziny w marcu 1849 r. mógł on pełnić obowiązki prezydenta. Był wtedy przewodniczącym pro tempore Senatu.",
+        "body": [
+          "David Rice Atchison był senatorem z Missouri i przez sześć lat przewodniczącym pro tempore Senatu USA. Część jego współpracowników twierdziła, że od niedzieli 4 marca 1849 r. do południa w poniedziałek mógł być p.o. prezydenta.",
+          "Chodziło o lukę między końcem kadencji poprzedniego prezydenta a zaprzysiężeniem następcy, które odbyło się dopiero dzień później. Sam Atchison o tej „prezydenturze” dowiedział się, gdy już minęła."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/David_Rice_Atchison"
+          },
+          {
+            "name": "Who2",
+            "url": "https://www.who2.com/davidriceatchison.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten senator mógł być prezydentem USA przez jeden dzień",
+          "opis": "Tak twierdzili jego współpracownicy o 4 marca 1849 r. On sam dowiedział się o tym, gdy było już po wszystkim."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/David_Rice_Atchison_by_Mathew_Brady_March_1849.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:David_Rice_Atchison_by_Mathew_Brady_March_1849.jpg",
+          "credit": "Mathew Benjamin Brady / Wikimedia Commons, domena publiczna",
+          "alt": "Portret Davida Rice'a Atchisona z marca 1849 roku",
+          "caption": "David Rice Atchison na zdjęciu Mathew Brady'ego z marca 1849 roku."
+        },
+        "caption": {
+          "credit": "Mathew Benjamin Brady / Wikimedia Commons",
+          "text": "Portret Atchisona wykonał Mathew Brady w marcu 1849 r., czyli w miesiącu jego rzekomej jednodniowej „prezydentury”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Telewizja",
+        "hype": 4,
+        "title": "Japończyk przez 11 miesięcy siedział zamknięty w mieszkaniu i żył tylko z nagród z konkursów",
+        "summary": "Tomoaki Hamatsu, znany jako Nasubi, był bohaterem reality show „Susunu! Denpa Shōnen”. Musiał wygrać w konkursach z gazet nagrody warte milion jenów.",
+        "body": [
+          "W programie Nasubi (po japońsku „bakłażan”) został zamknięty w mieszkaniu i mógł wyjść dopiero wtedy, gdy wygra w konkursach korespondencyjnych nagrody o wartości 1 mln jenów. Zajęło mu to ok. 11 miesięcy.",
+          "Program przyniósł mu ogromną popularność w Japonii. Dziś Hamatsu jest komikiem i osobowością medialną."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Nasubi"
+          },
+          {
+            "name": "Visit Koriyama",
+            "url": "https://stylekoriyama.com/fukushima-information/2020/06/10/interview/"
+          }
+        ],
+        "insta": {
+          "tytul": "Siedział zamknięty w mieszkaniu 11 miesięcy i żył z wygranych w konkursach",
+          "opis": "Japoński reality show kazał mu wygrać nagrody za milion jenów. Dopiero wtedy mógł wyjść."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:%E3%81%AA%E3%81%99%E3%81%B3_%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88.jpg",
+          "credit": "法務省 / Wikimedia Commons, CC BY 4.0",
+          "alt": "Tomoaki Hamatsu, znany jako Nasubi",
+          "caption": "Tomoaki Hamatsu, czyli Nasubi, bohater reality show „Susunu! Denpa Shōnen”."
+        },
+        "caption": {
+          "credit": "法務省 / Wikimedia Commons",
+          "text": "Zdjęcie przedstawia Tomoakiego Hamatsu, który zasłynął jako Nasubi. Dziś jest komikiem i osobowością medialną."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Grecja",
+        "initials": "GR",
+        "category": "Kraje",
+        "hype": 3,
+        "title": "Na górze Athos w Grecji kobiety mają zakaz wstępu. Dotyczy to też samic zwierząt",
+        "summary": "Athos to autonomiczny region w Grecji z 20 klasztorami prawosławnymi. To jedyne takie miejsce na świecie, do którego kobiety nie mogą wejść pod żadnym pozorem.",
+        "body": [
+          "Górą Athos i większą częścią półwyspu rządzi wspólnota mnichów z 20 klasztorów. Region jest autonomiczny i podlega bezpośrednio patriarsze Konstantynopola.",
+          "Zakaz wstępu dla kobiet obowiązuje od wieków i obejmuje też samice zwierząt hodowlanych."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mount_Athos"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/magazine-36378690"
+          }
+        ],
+        "insta": {
+          "tytul": "Na Athos kobiety nie mają wstępu. Samice zwierząt też",
+          "opis": "W tym autonomicznym regionie Grecji jest 20 klasztorów i rządzą nim mnisi."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mt._Athos_%283939757657%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mt._Athos_(3939757657).jpg",
+          "credit": "Dave Proffer / Wikimedia Commons, CC BY 2.0",
+          "alt": "Góra Athos nad morzem",
+          "caption": "Góra Athos na półwyspie w północno-wschodniej Grecji."
+        },
+        "caption": {
+          "credit": "Dave Proffer / Wikimedia Commons",
+          "text": "Widok na górę Athos, od której nazwę wziął autonomiczny region mnichów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "New Hampshire",
+        "initials": "NH",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Skała z ludzkim profilem runęła w 2003 r., a stan New Hampshire wciąż ma ją na tablicach rejestracyjnych",
+        "summary": "„Old Man of the Mountain” to pięć granitowych półek, które z północy wyglądały jak twarz z profilu. Zawaliły się w 2003 roku.",
+        "body": [
+          "Formacja na górze Cannon w Franconii miała 12 m wysokości i wisiała 370 m nad jeziorem Profile Lake. Z północy układała się w poszarpany profil ludzkiej twarzy.",
+          "Mimo że skała runęła w 2003 r., jej sylwetka dalej jest na tablicach rejestracyjnych stanu, znakach przy autostradach i stanowej ćwierćdolarówce."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Old_Man_of_the_Mountain"
+          },
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/2023/05/05/us/nh-old-man-mountain-rocks-collapse.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Ta skalna twarz runęła w 2003 r., a dalej jest na tablicach rejestracyjnych",
+          "opis": "„Old Man of the Mountain” w New Hampshire to symbol stanu. Jest też na znakach i monecie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Old_Man_of_the_Mountain_4-26-03_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Old_Man_of_the_Mountain_4-26-03_(cropped).jpg",
+          "credit": "nieznany autor / Wikimedia Commons, domena publiczna",
+          "alt": "Skała w kształcie ludzkiego profilu na zboczu góry",
+          "caption": "„Old Man of the Mountain” na zdjęciu z 26 kwietnia 2003 r."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons",
+          "text": "Skalny profil sfotografowany kilka dni przed zawaleniem w 2003 r. Ten kształt do dziś jest symbolem stanu."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-15": {
     "date": "2026-11-15",
     "ryby": [],

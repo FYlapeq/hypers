@@ -1,5 +1,23 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-16": {
+  "luz": [
+   "artykuly/2026-11-16/kaluch-zamknal-pogromcow-mitow-w-gta-v-seria-o-gta-6-startuje.html",
+   "artykuly/2026-11-16/wedlug-przecieku-fabula-gta-6-to-ok-50-godzin-i-prawie-100-misji.html",
+   "artykuly/2026-11-16/od-dzis-gta-6-na-ps5-mozna-odebrac-w-inpost-mobile-za-3500-incoinow.html",
+   "artykuly/2026-11-16/tivolt-zrobil-ostatnia-transmisje-ze-starego-swiata-przejrzal.html",
+   "artykuly/2026-11-16/ksiazulo-testuje-polski-hotel-all-inclusive-na-wejsciu-dostalem.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-16/najwiekszy-postoj-dla-ciezarowek-na-swiecie-ma-wlasne-kino-dentyste.html",
+   "artykuly/2026-11-16/samoloty-testuje-sie-strzelajac-w-nie-kurczakami-z-armaty.html",
+   "artykuly/2026-11-16/na-jeziorze-w-oregonie-od-ponad-125-lat-dryfuje-pionowo-9-metrowy.html",
+   "artykuly/2026-11-16/senator-z-missouri-mogl-byc-prezydentem-usa-przez-jeden-dzien.html",
+   "artykuly/2026-11-16/japonczyk-przez-11-miesiecy-siedzial-zamkniety-w-mieszkaniu-i-zyl.html",
+   "artykuly/2026-11-16/na-gorze-athos-w-grecji-kobiety-maja-zakaz-wstepu-dotyczy-to-tez.html",
+   "artykuly/2026-11-16/skala-z-ludzkim-profilem-runela-w-2003-r-a-stan-new-hampshire-wciaz.html"
+  ]
+ },
  "2026-11-15": {
   "luz": [
    "artykuly/2026-11-15/twitch-i-kick-rozdaja-kody-do-gta-6-kick-ma-10-tys-kodow-do-ultimate.html",
