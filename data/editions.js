@@ -5,6 +5,121 @@ window.HYPERS_EDITIONS = {
     "ryby": [],
     "luz": [
       {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Dziś o 18:00 The Game Awards ogłosi nominacje. GTA 6 może w nich być, bo zmieściło się w terminie",
+        "summary": "The Game Awards pokaże dziś nominacje na transmisji o 18:00 czasu polskiego. GTA 6 wychodzi 19 listopada, czyli przed terminem z regulaminu nagród, więc może walczyć o statuetki już w tym roku.",
+        "body": [
+          "The Game Awards ogłasza dziś, 17 listopada, nominacje na tegoroczną galę. Specjalna transmisja startuje o 9:00 czasu pacyficznego, czyli o 18:00 w Polsce. Samo rozdanie nagród zaplanowano na 10 grudnia 2026 r.",
+          "W regulaminie nagród stoi, że gra musi trafić do sprzedaży najpóźniej w piątek 20 listopada 2026 r. o 21:00 czasu pacyficznego. W kategorii Players' Voice termin mija 30 listopada.",
+          "GTA 6 wychodzi na PS5 i Xbox Series X/S 19 listopada, więc mieści się w tym terminie z zapasem jednego dnia. Według serwisów Push Square i GamingBolt gra jest uprawniona do nominacji we wszystkich kategoriach.",
+          "Ciekawostką jest kolejność: nominacje poznamy dwa dni przed premierą, kiedy recenzje gry dopiero zaczną się pojawiać. Czy GTA 6 znajdzie się na liście, okaże się wieczorem."
+        ],
+        "sources": [
+          {
+            "name": "The Game Awards / X",
+            "url": "https://x.com/thegameawards/status/2121303846962225195",
+            "origin": true
+          },
+          {
+            "name": "Push Square",
+            "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
+          },
+          {
+            "name": "GamingBolt",
+            "url": "https://gamingbolt.com/gta-6-is-officially-eligible-for-the-game-awards-2026-barely-making-the-cutoff-date"
+          }
+        ],
+        "embed": "https://x.com/thegameawards/status/2121303846962225195",
+        "caption": {
+          "credit": "The Game Awards / X",
+          "text": "Wpis organizatorów gali z zapowiedzią dzisiejszej transmisji z nominacjami. Podaje godzinę ogłoszenia, która w Polsce wypada o 18:00."
+        },
+        "noImage": "brak kadru z filmu o tym temacie; osadzony oficjalny wpis The Game Awards",
+        "insta": {
+          "tytul": "Dziś o 18:00 nominacje do The Game Awards. GTA 6 załapało się w ostatniej chwili",
+          "opis": "Gra musi być w sprzedaży do 20 listopada, a GTA 6 wychodzi 19. Jeden dzień zapasu 😅"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Według informatorów recenzje GTA 6 pojawią się jutro, 18 listopada. Rockstar tego nie potwierdził",
+        "summary": "Informatorzy NateTheHate i BlackBate twierdzą, że embargo na recenzje GTA 6 kończy się 18 listopada, dzień przed premierą. Rockstar i Take-Two nie podali oficjalnej daty.",
+        "body": [
+          "Według znanego informatora NateTheHate, na którego powołuje się Beebom, embargo na recenzje GTA 6 mija 18 listopada. Serwis pisze, że te informacje niezależnie sprawdził Insider Gaming.",
+          "Tę samą datę podał już w październiku użytkownik forum ResetEra o nicku BlackBate. Według jego wpisu, opisanego przez eGamers i Kami Labs, oceny miałyby trafiać do Metacritic między 12:01 a 13:01 czasu polskiego, a część redakcji może poczekać z recenzją do 6:01 w dniu premiery, 19 listopada.",
+          "Doniesienia różnią się w sprawie kodów recenzenckich: według Beebom miały zostać rozesłane pod koniec października, a według wcześniejszego wpisu BlackBate jeszcze wtedy ich nie wysłano.",
+          "Rockstar ani Take-Two nie potwierdzili daty embarga. Do czasu oficjalnej informacji to tylko twierdzenia informatorów."
+        ],
+        "sources": [
+          {
+            "name": "Beebom",
+            "url": "https://beebom.com/gta-6-review-embargo-date-revealed/"
+          },
+          {
+            "name": "eGamers",
+            "url": "https://egamers.io/gta-6-review-embargo-reportedly-lifts-november-18th-but-some-outlets-may-wait-until-launch/"
+          },
+          {
+            "name": "Kami Labs",
+            "url": "https://kami-labs.fr/en/grand-theft-auto-6/gta-6-embargo-tests/"
+          }
+        ],
+        "noImage": "brak legalnego kadru ani oficjalnego posta o embargu",
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-17",
+        "who": "JETLAGZ",
+        "initials": "JL",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Jetlagz wypuścił klip do „Warsaw Tearz”. Kawałek jest z ich albumu",
+        "summary": "Jetlagz wrzucili na YouTube teledysk do „Warsaw Tearz”. W opisie odsyłają do zamówień albumu, a pod filmem widzowie chwalą cały krążek.",
+        "body": [
+          "Kanał Jetlagz opublikował dziś po południu teledysk „Warsaw Tearz”. Według opisu rapują w nim Kosi i Łajzol, bit zrobił Da Vosk Docta, a za stronę wizualną odpowiada Michał Zawol.",
+          "W opisie filmu jest link do zamówienia albumu w sklepie zespołu. Utwór trwa nieco ponad 3 minuty.",
+          "Kilka godzin po publikacji film miał ok. 450 wyświetleń (odczyt 14:20). Widzowie w komentarzach piszą, że numer dobrze sprawdza się nocą w trasie, a niektórzy chwalą całą płytę."
+        ],
+        "sources": [
+          {
+            "name": "JETLAGZ / YouTube",
+            "url": "https://www.youtube.com/watch?v=lGkDut_sUbQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=lGkDut_sUbQ",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/lGkDut_sUbQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/lGkDut_sUbQ/hqdefault.jpg",
+          "credit": "JETLAGZ / YouTube",
+          "href": "https://www.youtube.com/watch?v=lGkDut_sUbQ",
+          "alt": "Miniatura teledysku Jetlagz „Warsaw Tearz”",
+          "caption": "Miniatura teledysku „Warsaw Tearz”."
+        },
+        "caption": {
+          "credit": "JETLAGZ / YouTube",
+          "text": "Teledysk „Warsaw Tearz” z kanału Jetlagz. W opisie są twórcy klipu i link do zamówienia albumu."
+        },
+        "insta": {
+          "tytul": "Jetlagz wrzucili klip do „Warsaw Tearz”",
+          "opis": "Na bicie Da Vosk Docta, rapują Kosi i Łajzol. Kawałek jest z ich albumu."
+        },
+        "slot": "15:00"
+      },
+      {
         "region": "pl",
         "published": "2026-11-16",
         "who": "Kaluch",
@@ -165,6 +280,334 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Kanada",
+        "initials": "KA",
+        "category": "Lotnictwo",
+        "hype": 4,
+        "title": "Boeingowi 767 zabrakło paliwa w połowie lotu przez błąd w obliczeniach. Wylądował jako szybowiec",
+        "summary": "W 1983 r. samolot Air Canada miał za mało paliwa po błędnym przeliczeniu jednostek. Piloci doprowadzili go lotem ślizgowym do byłej bazy wojskowej w Gimli.",
+        "body": [
+          "23 lipca 1983 r. Boeing 767 lecący z Montrealu do Edmonton (lot Air Canada 143) stracił paliwo w połowie trasy. Wskaźnik paliwa nie działał, a zbiorniki napełniono za mało przez błędne obliczenia przy przeliczaniu jednostek.",
+          "Załoga poprowadziła maszynę lotem ślizgowym z wysokości ok. 12,5 km i wylądowała awaryjnie na dawnym lotnisku kanadyjskich sił powietrznych w Gimli, zamienionym na tor wyścigowy. Samolot przeszedł do historii jako „Gimli Glider”, czyli szybowiec z Gimli."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Gimli_Glider"
+          },
+          {
+            "name": "The New York Times",
+            "url": "https://www.nytimes.com/1983/07/30/us/jet-s-fuel-ran-out-after-metric-conversion-errors.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Air_Canada_Flight_143_after_emergency_landing_2.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Air_Canada_Flight_143_after_emergency_landing_2.jpg",
+          "credit": "FAA / Wikimedia Commons, Public domain",
+          "alt": "Boeing 767 Air Canada po awaryjnym lądowaniu w Gimli",
+          "caption": "Samolot lotu Air Canada 143 po awaryjnym lądowaniu w Gimli."
+        },
+        "insta": {
+          "tytul": "Boeingowi zabrakło paliwa w powietrzu, więc wylądował jak szybowiec",
+          "opis": "W 1983 r. ktoś źle przeliczył jednostki przy tankowaniu. Piloci doszybowali do starego lotniska, które było już torem wyścigowym."
+        },
+        "caption": {
+          "credit": "FAA / Wikimedia Commons",
+          "text": "Zdjęcie FAA pokazuje Boeinga 767 po lądowaniu w Gimli. To ten sam samolot, który po błędzie w obliczeniach paliwa doleciał tam lotem ślizgowym."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W czasie II wojny światowej USA testowały bomby z nietoperzami niosącymi małe ładunki zapalające",
+        "summary": "Pojemnik w kształcie bomby miał ponad tysiąc przegródek, a w każdej nietoperza z małym ładunkiem zapalającym. Zwierzęta miały się rozlecieć i schować pod dachami.",
+        "body": [
+          "Bomba nietoperzowa to eksperymentalna broń, nad którą pracowały USA podczas II wojny światowej. Obudowa miała ponad tysiąc przegródek, a w każdej siedział uśpiony nietoperz z przyczepionym małym ładunkiem zapalającym z zapalnikiem czasowym.",
+          "Po zrzuceniu o świcie pojemnik otwierał spadochron i wypuszczał nietoperze. Zwierzęta miały ukryć się na strychach i pod okapami w promieniu kilkudziesięciu kilometrów, a ładunki miały zapalić się tam, gdzie trudno dotrzeć z gaśnicą."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bat_bomb"
+          },
+          {
+            "name": "Warfare History Network (archiwum)",
+            "url": "https://web.archive.org/web/20190617212525/http://warfarehistorynetwork.com/daily/wwii/bat-bombs-wwiis-project-x-ray/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bat_Bomb_Canister.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Bat_Bomb_Canister.jpg",
+          "credit": "United States Army Air Forces / Wikimedia Commons, Public domain",
+          "alt": "Pojemnik bomby nietoperzowej z czasów II wojny światowej",
+          "caption": "Pojemnik, w którym miały lecieć nietoperze z ładunkami."
+        },
+        "insta": {
+          "tytul": "USA w czasie wojny testowały bombę z… nietoperzami",
+          "opis": "W pojemniku było ponad tysiąc nietoperzy z małymi ładunkami zapalającymi. Miały schować się pod dachami."
+        },
+        "caption": {
+          "credit": "United States Army Air Forces / Wikimedia Commons",
+          "text": "Na zdjęciu armii USA widać pojemnik w kształcie bomby. W jego przegródkach miały lecieć nietoperze z ładunkami zapalającymi."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Kanada",
+        "initials": "KA",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "W 1935 r. jedna partia w Kanadzie zdobyła wszystkie mandaty w wyborach. Opozycji nie było wcale",
+        "summary": "Liberałowie na Wyspie Księcia Edwarda wygrali w każdym okręgu. Po raz pierwszy w Brytyjskiej Wspólnocie Narodów rząd nie miał w parlamencie żadnej opozycji.",
+        "body": [
+          "Wybory w kanadyjskiej prowincji Wyspa Księcia Edwarda odbyły się 23 lipca 1935 r. Partia Liberalna pod wodzą Waltera Lei zdobyła każde miejsce w każdym okręgu.",
+          "Był to pierwszy przypadek w Brytyjskiej Wspólnocie Narodów, gdy rząd nie miał żadnej opozycji w wybieranej izbie. W Kanadzie powtórzyło się to tylko raz, w wyborach w Nowym Brunszwiku w 1987 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/1935_Prince_Edward_Island_general_election"
+          },
+          {
+            "name": "Canada's History",
+            "url": "http://www.canadashistory.ca/Magazine/Online-Exclusive/Articles/Lea-s-Landslide"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Walter_Maxfield_Lea.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Walter_Maxfield_Lea.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, Public domain",
+          "alt": "Portret Waltera Lei, premiera Wyspy Księcia Edwarda",
+          "caption": "Walter Lea, którego partia zdobyła wszystkie mandaty w 1935 r."
+        },
+        "insta": {
+          "tytul": "Partia wygrała wszystkie mandaty. W parlamencie nie było ani jednej osoby z opozycji",
+          "opis": "Kanada, Wyspa Księcia Edwarda, 1935 r. W Kanadzie zdarzyło się to potem tylko jeszcze raz."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons",
+          "text": "Portret Waltera Lei, lidera liberałów. Jego partia w 1935 r. zdobyła wszystkie mandaty na Wyspie Księcia Edwarda."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Raymond Queneau",
+        "initials": "RQ",
+        "category": "Literatura",
+        "hype": 3,
+        "title": "Jest książka z 10 sonetów, z której da się ułożyć 100 bilionów różnych wierszy",
+        "summary": "Raymond Queneau wydał w 1961 r. tomik, w którym każdy wers jest na osobnym pasku. Dowolne wersy z dziesięciu sonetów pasują do siebie.",
+        "body": [
+          "„Sto tysięcy miliardów wierszy” Raymonda Queneau ukazało się w 1961 r. To dziesięć sonetów wydrukowanych na kartach, w których każdy wers jest na osobnym pasku papieru.",
+          "Wszystkie sonety mają nie tylko ten sam układ rymów, ale i te same rymujące się dźwięki, więc każdy wers można połączyć z wersami z pozostałych dziewięciu. Daje to 10 do potęgi 14, czyli 100 bilionów możliwych wierszy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/A_Hundred_Thousand_Billion_Poems"
+          },
+          {
+            "name": "growndodo.com",
+            "url": "http://www.growndodo.com/wordplay/oulipo/10%5E14sonnets.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Queneau_sonnets.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Queneau_sonnets.jpg",
+          "credit": "Thomas Guest / Wikimedia Commons, CC BY 2.0",
+          "alt": "Książka Queneau z wersami pociętymi na osobne paski",
+          "caption": "Egzemplarz książki z wersami na osobnych paskach."
+        },
+        "insta": {
+          "tytul": "Z tej jednej książki da się ułożyć 100 bilionów wierszy",
+          "opis": "10 sonetów, każdy wers na osobnym pasku. Mieszasz paski i zawsze wychodzi wiersz z rymami."
+        },
+        "caption": {
+          "credit": "Thomas Guest / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje książkę Queneau z wersami na osobnych paskach. To dzięki nim można mieszać linijki z dziesięciu sonetów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "W XIX w. wymyślono barometr, który przepowiadał burze za pomocą 12 pijawek",
+        "summary": "Pijawki w słoiczkach niepokoiły się przed burzą i wspinały do góry. Wtedy uruchamiały młoteczek, który uderzał w dzwonek.",
+        "body": [
+          "„Tempest prognosticator”, nazywany też barometrem pijawkowym, to XIX-wieczny wynalazek George'a Merryweathera. W urządzeniu trzymano dwanaście pijawek w małych butelkach.",
+          "Gdy zbliżała się burza, pijawki stawały się niespokojne i próbowały wydostać się z butelek, uruchamiając młoteczek uderzający w dzwonek. Im więcej uderzeń, tym większe miało być prawdopodobieństwo burzy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tempest_prognosticator"
+          },
+          {
+            "name": "The Tempest Prognosticator (archiwum)",
+            "url": "https://web.archive.org/web/20011224020409/http://www.magma.ca/~jdreid/leech.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Merryweather.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Merryweather.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, Public domain",
+          "alt": "XIX-wieczna rycina barometru z pijawkami Merryweathera",
+          "caption": "Rycina barometru pijawkowego George'a Merryweathera."
+        },
+        "insta": {
+          "tytul": "Kiedyś pogodę przepowiadano za pomocą… 12 pijawek",
+          "opis": "Przed burzą pijawki wspinały się w słoikach i uruchamiały dzwonek. Im więcej dzwonienia, tym większa szansa na burzę."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons",
+          "text": "XIX-wieczna rycina przedstawia barometr Merryweathera. W takich słoiczkach siedziały pijawki, które miały ostrzegać przed burzą."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Azja Środkowa",
+        "initials": "AŚ",
+        "category": "Sport",
+        "hype": 3,
+        "title": "W Azji Środkowej gra się w sport, w którym jeźdźcy na koniach walczą o tuszę kozy",
+        "summary": "Buzkaszi to drużynowa gra, w której zawodnicy na koniach próbują dowieźć tuszę kozy lub cielęcia do strefy bramkowej.",
+        "body": [
+          "Buzkaszi (z perskiego „ciągnięcie kozy”) to tradycyjny sport drużynowy, w którym jeźdźcy próbują umieścić tuszę kozy albo cielęcia w strefie bramkowej.",
+          "Gra jest znana w Afganistanie, Kirgistanie, Uzbekistanie, Kazachstanie i innych krajach Azji Środkowej, gdzie ma różne nazwy, m.in. kök-börü, ułak tartysz i kokpar."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Buzkashi"
+          },
+          {
+            "name": "Caravanistan",
+            "url": "http://caravanistan.com/trip-reports/bishkek-independence-day-ulak-tyrtysh/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Afghan_Game_Buzkashi.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Afghan_Game_Buzkashi.jpg",
+          "credit": "US gov / Wikimedia Commons, Public domain",
+          "alt": "Jeźdźcy grający w buzkaszi w Afganistanie",
+          "caption": "Mecz buzkaszi w Afganistanie."
+        },
+        "insta": {
+          "tytul": "Jest sport, w którym jeźdźcy na koniach walczą o tuszę kozy",
+          "opis": "To buzkaszi, popularne w Afganistanie i krajach Azji Środkowej. Kozę trzeba dowieźć do strefy bramkowej."
+        },
+        "caption": {
+          "credit": "US gov / Wikimedia Commons",
+          "text": "Zdjęcie z Afganistanu pokazuje jeźdźców w trakcie buzkaszi. Zawodnicy walczą konno o tuszę, którą trzeba dowieźć do strefy bramkowej."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Sebastián Abreu",
+        "initials": "SA",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Urugwajski napastnik Sebastián Abreu grał w 32 klubach w 11 krajach",
+        "summary": "W ciągu 26 lat kariery Abreu zmieniał kluby tak często, że uchodzi za jednego z najbardziej „wędrownych” piłkarzy w historii.",
+        "body": [
+          "Sebastián Abreu, nazywany „El Loco”, przez 26 lat gry reprezentował 32 kluby w 11 krajach. Dzięki temu uchodzi za jednego z najbardziej obieżyświatowych piłkarzy w historii futbolu.",
+          "Mimo ciągłych przeprowadzek dobrze strzelał: w 700 meczach ligowych zdobył 338 goli i wygrywał trofea m.in. z River Plate, Nacionalem i Botafogo."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Abreu"
+          },
+          {
+            "name": "ESPN (archiwum)",
+            "url": "https://web.archive.org/web/20261011104246/https://www.espn.com.sg/soccer/story/_/id/46085889/the-unique-careers-soccers-greatest-journeyman-players"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/SEBASTIAN_ABREU_%2816821761936%29_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:SEBASTIAN_ABREU_(16821761936)_(cropped).jpg",
+          "credit": "Agencia de Noticias ANDES / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Sebastián Abreu",
+          "caption": "Sebastián Abreu, piłkarz, który zagrał w 32 klubach."
+        },
+        "insta": {
+          "tytul": "Ten piłkarz grał w 32 klubach w 11 krajach",
+          "opis": "Sebastián Abreu, „El Loco” z Urugwaju. A przy tym strzelił 338 goli w lidze."
+        },
+        "caption": {
+          "credit": "Agencia de Noticias ANDES / Wikimedia Commons",
+          "text": "Na zdjęciu Sebastián Abreu, urugwajski napastnik. W ciągu kariery reprezentował 32 kluby w 11 krajach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Lee Marvin",
+        "initials": "LM",
+        "category": "Kino",
+        "hype": 3,
+        "title": "Istnieje żartobliwe tajne stowarzyszenie ludzi, którzy wyglądają jak synowie aktora Lee Marvina",
+        "summary": "„Synowie Lee Marvina” mają jeden warunek przyjęcia: trzeba wyglądać tak, jakby mogło się być synem aktora. Założył je reżyser Jim Jarmusch.",
+        "body": [
+          "The Sons of Lee Marvin to pół żartem tajne stowarzyszenie poświęcone amerykańskiemu aktorowi Lee Marvinowi. Jedynym warunkiem członkostwa jest wygląd: trzeba przypominać kogoś, kto mógłby być jego synem.",
+          "Jednym z założycieli jest reżyser Jim Jarmusch. Tłumaczył, że jeśli wyglądasz jak syn Lee Marvina, to Synowie Lee Marvina od razu uznają cię za jednego z nich."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/The_Sons_of_Lee_Marvin"
+          },
+          {
+            "name": "jim-jarmusch.net (archiwum)",
+            "url": "https://web.archive.org/web/20090312013929/http://www.jim-jarmusch.net/miscellanea/the_sons_of_lee_marvin.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lee_Marvin_Twilight_Zone_1961.JPG",
+          "href": "https://commons.wikimedia.org/wiki/File:Lee_Marvin_Twilight_Zone_1961.JPG",
+          "credit": "CBS Television / Wikimedia Commons, Public domain",
+          "alt": "Aktor Lee Marvin w 1961 r.",
+          "caption": "Lee Marvin w 1961 r., patron żartobliwego stowarzyszenia."
+        },
+        "insta": {
+          "tytul": "Jest tajny klub, do którego wejdziesz tylko, jeśli wyglądasz jak syn Lee Marvina",
+          "opis": "Założył go m.in. reżyser Jim Jarmusch. Żadnych innych warunków."
+        },
+        "caption": {
+          "credit": "CBS Television / Wikimedia Commons",
+          "text": "Lee Marvin w kadrze z 1961 r. To podobieństwo do niego jest jedynym warunkiem wejścia do stowarzyszenia założonego m.in. przez Jima Jarmuscha."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-17",

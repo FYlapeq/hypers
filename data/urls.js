@@ -2,11 +2,22 @@
 window.HYPERS_URLS = {
  "2026-11-17": {
   "luz": [
+   "artykuly/2026-11-17/dzis-o-18-00-the-game-awards-oglosi-nominacje-gta-6-moze-w-nich-byc.html",
+   "artykuly/2026-11-17/wedlug-informatorow-recenzje-gta-6-pojawia-sie-jutro-18-listopada.html",
+   "artykuly/2026-11-17/jetlagz-wypuscil-klip-do-warsaw-tearz-kawalek-jest-z-ich-albumu.html",
    "artykuly/2026-11-17/kaluch-nagral-ostatni-stunt-challenge-w-gta-v-tworcy-zegnaja-gre.html",
    "artykuly/2026-11-17/ishowspeed-rozmawial-na-streamie-z-barackiem-obama-dokument-the-eyes.html",
    "artykuly/2026-11-17/kai-cenat-i-ishowspeed-wypuscili-oficjalne-zwiastuny-swoich-maratonow.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-17/boeingowi-767-zabraklo-paliwa-w-polowie-lotu-przez-blad.html",
+   "artykuly/2026-11-17/w-czasie-ii-wojny-swiatowej-usa-testowaly-bomby-z-nietoperzami.html",
+   "artykuly/2026-11-17/w-1935-r-jedna-partia-w-kanadzie-zdobyla-wszystkie-mandaty-w-wyborach.html",
+   "artykuly/2026-11-17/jest-ksiazka-z-10-sonetow-z-ktorej-da-sie-ulozyc-100-bilionow-roznych.html",
+   "artykuly/2026-11-17/w-xix-w-wymyslono-barometr-ktory-przepowiadal-burze-za-pomoca-12.html",
+   "artykuly/2026-11-17/w-azji-srodkowej-gra-sie-w-sport-w-ktorym-jezdzcy-na-koniach-walcza.html",
+   "artykuly/2026-11-17/urugwajski-napastnik-sebastian-abreu-gral-w-32-klubach-w-11-krajach.html",
+   "artykuly/2026-11-17/istnieje-zartobliwe-tajne-stowarzyszenie-ludzi-ktorzy-wygladaja-jak.html",
    "artykuly/2026-11-17/w-1977-r-radioteleskop-zlapal-sygnal-tak-dziwny-ze-astronom-dopisal.html",
    "artykuly/2026-11-17/na-uniwersytecie-w-australii-od-1927-r-trwa-eksperyment-w-ktorym.html",
    "artykuly/2026-11-17/w-1896-r-w-teksasie-zderzono-czolowo-dwie-lokomotywy-dla-rozrywki.html",
