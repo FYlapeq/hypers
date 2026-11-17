@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-17": {
+  "luz": [
+   "artykuly/2026-11-17/kaluch-nagral-ostatni-stunt-challenge-w-gta-v-tworcy-zegnaja-gre.html",
+   "artykuly/2026-11-17/ishowspeed-rozmawial-na-streamie-z-barackiem-obama-dokument-the-eyes.html",
+   "artykuly/2026-11-17/kai-cenat-i-ishowspeed-wypuscili-oficjalne-zwiastuny-swoich-maratonow.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-17/w-1977-r-radioteleskop-zlapal-sygnal-tak-dziwny-ze-astronom-dopisal.html",
+   "artykuly/2026-11-17/na-uniwersytecie-w-australii-od-1927-r-trwa-eksperyment-w-ktorym.html",
+   "artykuly/2026-11-17/w-1896-r-w-teksasie-zderzono-czolowo-dwie-lokomotywy-dla-rozrywki.html",
+   "artykuly/2026-11-17/w-anglii-byla-stacja-kolejowa-ktora-ukradziono.html",
+   "artykuly/2026-11-17/samotny-george-byl-ostatnim-zolwiem-swojego-gatunku-i-nazywano.html",
+   "artykuly/2026-11-17/kiedys-w-sklepach-obuwniczych-przeswietlano-stopy-klientow-aparatem.html",
+   "artykuly/2026-11-17/w-australii-wybrano-posla-ktory-dostal-tylko-98-glosow.html"
+  ]
+ },
  "2026-11-16": {
   "luz": [
    "artykuly/2026-11-16/gta-6-dostalo-druga-latke-przed-premiera-na-ps5-to-ok-600-mb.html",

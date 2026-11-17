@@ -1,5 +1,459 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-17": {
+    "date": "2026-11-17",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-16",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Kaluch nagrał ostatni Stunt Challenge w GTA V. Twórcy żegnają grę przed premierą GTA 6",
+        "summary": "Kaluch opublikował „OSTATNI STUNT CHALLENGE EVER” i zamknął kolejną serię z GTA V. Pożegnalne odcinki wrzucili też Ospanno i zagraniczny SMii7Y.",
+        "body": [
+          "Film „OSTATNI STUNT CHALLENGE EVER” pojawił się na kanale Kalucha w poniedziałek po 18:40. To kolejna seria z GTA V, którą youtuber kończy przed premierą GTA 6, po „GTA V Prawdziwe Życie” i „Pogromcach Mitów”. Rano 17 listopada (odczyt o 6:16) miał ok. 145 tys. wyświetleń i ponad 700 komentarzy.",
+          "Widzowie w komentarzach dziękują za lata odcinków i piszą, że oglądali serię od podstawówki. Część z nich zapowiada, że od czwartku sama zacznie nagrywać GTA 6.",
+          "Tego samego dnia Ospanno wrzucił „ostatni Arcade” w GTA V z Kaluchem i Sheo. Za granicą podobnie zrobił SMii7Y: jego „The Last Modded GTA 5 Free Roam Video…” z opisem „koniec pewnej ery… potencjalnie” miał rano prawie 1,5 mln wyświetleń.",
+          "GTA 6 wychodzi 19 listopada na PS5 i Xbox Series X|S."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=cChxaZMugoE",
+            "origin": true
+          },
+          {
+            "name": "Ospanno / YouTube",
+            "url": "https://www.youtube.com/watch?v=wuGNxloZ5Zg"
+          },
+          {
+            "name": "SMii7Y / YouTube",
+            "url": "https://www.youtube.com/watch?v=wt_W2w_N_Jk"
+          }
+        ],
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Ostatni odcinek serii Stunt Challenge na kanale Kalucha. W komentarzach widzowie wspominają, że oglądali te stunty od dzieciństwa."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "insta": {
+          "tytul": "Kaluch nagrał ostatni Stunt Challenge w GTA V",
+          "opis": "Koniec kolejnej serii, w czwartek wjeżdża GTA 6. W komentarzach same podziękowania za lata odcinków."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/cChxaZMugoE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/cChxaZMugoE/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=cChxaZMugoE",
+          "alt": "Miniatura filmu Kalucha „Ostatni Stunt Challenge ever”",
+          "caption": "Miniatura ostatniego odcinka Stunt Challenge w GTA V na kanale Kalucha."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Projekty",
+        "hype": 5,
+        "title": "IShowSpeed rozmawiał na streamie z Barackiem Obamą. Dokument „The Eyes of Ghana” trafi za darmo na jego kanał",
+        "summary": "Barack Obama pojawił się na transmisji IShowSpeeda podczas rozmowy o filmie dokumentalnym, którego obaj są producentami. Speed poprosił o zgodę na darmową premierę na YouTube i ją dostał.",
+        "body": [
+          "W poniedziałek IShowSpeed dołączył na streamie do rozmowy produkcyjnej o filmie „The Eyes of Ghana”. Według Net Influencer i Fox News Radio był na niej Barack Obama, który jest producentem wykonawczym filmu razem z Michelle Obamą. Speed zapytał, czy dokument może trafić za darmo na jego kanał, a Obama odpowiedział, że z jego strony „to jest go”.",
+          "„The Eyes of Ghana” to 90-minutowy dokument Bena Proudfoota, dwukrotnego zdobywcy Oscara. Opowiada o operatorze Chrisie Hessem, osobistym kamerzyście pierwszego prezydenta Ghany Kwame Nkrumaha, który próbuje ocalić ponad tysiąc filmów z czasów ruchów niepodległościowych w Afryce. Film wyprodukowały Breakwater Studios i Higher Ground, firma Obamów. IShowSpeed jest jednym z producentów.",
+          "Według Net Influencer i BroadwayWorld dokument ma być dostępny za darmo na kanale Speeda od wtorku 17 listopada.",
+          "Nagranie ze streamu „I JUST MET WITH PRESIDENT OBAMA” rano 17 listopada (odczyt o 6:16) miało ok. 3,1 mln wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=o0UeucVxYCA",
+            "origin": true
+          },
+          {
+            "name": "Net Influencer",
+            "url": "https://www.netinfluencer.com/ishowspeed-gets-obamas-go-ahead-on-stream-to-release-the-eyes-of-ghana-free-on-youtube/"
+          },
+          {
+            "name": "BroadwayWorld",
+            "url": "https://www.broadwayworld.com/bwwtv/article/Photos-IShowSpeed-and-Barack-Obama-to-Stream-THE-EYES-OF-GHANA-on-YouTube-for-Free-20261116"
+          },
+          {
+            "name": "Fox News Radio",
+            "url": "https://radio.foxnews.com/2026/11/16/barack-obama-surprises-ishowspeed/"
+          }
+        ],
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Zapis transmisji, na której Speed rozmawiał z Obamą o dokumencie „The Eyes of Ghana”. To w tej rozmowie padła zgoda na darmową premierę filmu na YouTube."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "insta": {
+          "tytul": "Speed rozmawiał na streamie z Obamą",
+          "opis": "Chodziło o dokument o Ghanie, który obaj współprodukują. Speed zapytał, czy może go wrzucić za darmo na YouTube. Obama się zgodził."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/o0UeucVxYCA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/o0UeucVxYCA/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=o0UeucVxYCA",
+          "alt": "Miniatura transmisji IShowSpeeda „I just met with President Obama”",
+          "caption": "Miniatura nagrania ze streamu IShowSpeeda z 16 listopada."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-16",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Kai Cenat i IShowSpeed wypuścili „oficjalne zwiastuny” swoich maratonów GTA 6",
+        "summary": "Dwa dni przed premierą GTA 6 Kai Cenat i IShowSpeed opublikowali krótkie zwiastuny swoich transmisji z gry. Film Kaia w kilka godzin przekroczył milion wyświetleń.",
+        "body": [
+          "W poniedziałek wieczorem na kanale Kai Cenat Live pojawił się trzyminutowy film „GTA 6 MARATHON | Official Trailer”. W opisie Kai podlinkował zaplanowaną transmisję na YouTube i swój kanał na Twitchu. Rano 17 listopada (odczyt o 6:16) film miał ok. 1,12 mln wyświetleń i prawie 45 tys. polubień.",
+          "Kilka godzin później IShowSpeed wrzucił własny, ponad minutowy zwiastun „iSHOWSPEED x GTA 6 | OFFICIAL TRAILER” z linkiem do transmisji, na której ma grać w GTA 6. O tej samej porze miał ok. 810 tys. wyświetleń.",
+          "Widzowie w komentarzach chwalą przede wszystkim produkcję zwiastuna Kaia i porównują go do filmu „Straight Outta Compton”. Pod filmem Speeda najczęściej powtarza się żart, że streamer trafił do GTA 6 przed samą grą.",
+          "Kai Cenat przed premierą zrobił maraton wszystkich wcześniejszych części GTA. GTA 6 wychodzi 19 listopada na PS5 i Xbox Series X|S."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=_AY5krZErfg",
+            "origin": true
+          },
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=2BRL4ALMCyA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/_AY5krZErfg",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Zwiastun maratonu GTA 6 opublikowany na kanale Kai Cenat Live, z linkiem do zaplanowanej transmisji. To ten film widzowie porównują do „Straight Outta Compton”."
+        },
+        "ig": [
+          "kaicenat",
+          "ishowspeed"
+        ],
+        "insta": {
+          "tytul": "Kai Cenat i Speed nakręcili zwiastuny swoich streamów z GTA 6",
+          "opis": "Kai zrobił z tego prawie mini-film i w kilka godzin miał ponad milion wyświetleń. Speed też ma swój. Premiera w czwartek 🎮"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/_AY5krZErfg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/_AY5krZErfg/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=_AY5krZErfg",
+          "alt": "Kadr ze zwiastuna maratonu GTA 6 Kaia Cenata",
+          "caption": "Miniatura filmu „GTA 6 MARATHON | Official Trailer” z kanału Kai Cenat Live."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Kosmos",
+        "initials": "KO",
+        "category": "Kosmos",
+        "hype": 3,
+        "title": "W 1977 r. radioteleskop złapał sygnał tak dziwny, że astronom dopisał obok „Wow!”",
+        "summary": "Sygnał „Wow!” z 15 sierpnia 1977 r. do dziś uchodzi za najmocniejszego kandydata na wiadomość od obcych. Nikt nie odebrał go ponownie.",
+        "body": [
+          "Silny, wąskopasmowy sygnał radiowy zarejestrował radioteleskop Big Ear Uniwersytetu Stanowego Ohio, używany wtedy do poszukiwań pozaziemskiej inteligencji. Sygnał zdawał się dochodzić z kierunku gwiazdozbioru Strzelca.",
+          "Kilka dni później astronom Jerry Ehman przeglądał wydruki z danymi, zakreślił ciąg znaków i dopisał obok „Wow!”. Stąd nazwa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Wow!_signal"
+          },
+          {
+            "name": "National Geographic Channel (archiwum)",
+            "url": "https://web.archive.org/web/20150313204253/http://channel.nationalgeographic.com/chasing-ufos/articles/what-is-the-wow-signal/"
+          }
+        ],
+        "caption": {
+          "credit": "Big Ear Radio Observatory and North American AstroPhysical Observatory (NAAPO) / Wikimedia Commons",
+          "text": "Wydruk z radioteleskopu Big Ear z zakreślonym sygnałem i odręcznym „Wow!”."
+        },
+        "insta": {
+          "tytul": "Ten sygnał z kosmosu był tak dziwny, że astronom dopisał obok „Wow!”",
+          "opis": "Rok 1977, radioteleskop w Ohio. Sygnał nigdy się nie powtórzył i do dziś nikt nie wie, skąd był."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Wow_signal.jpg",
+          "credit": "Big Ear Radio Observatory and North American AstroPhysical Observatory (NAAPO) / Wikimedia Commons, domena publiczna",
+          "alt": "Wydruk danych z radioteleskopu z zakreślonym ciągiem znaków i dopiskiem Wow!",
+          "caption": "Wydruk z radioteleskopu Big Ear z zakreślonym sygnałem i odręcznym „Wow!”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Na uniwersytecie w Australii od 1927 r. trwa eksperyment, w którym smoła kapie raz na kilka lat",
+        "summary": "Eksperyment z kapiącą smołą na University of Queensland pokazuje, że smoła, choć wygląda na ciało stałe, jest bardzo lepką cieczą.",
+        "body": [
+          "Smoła w temperaturze pokojowej płynie tak wolno, że utworzenie jednej kropli trwa kilka lat. Na University of Queensland lejek ze smołą stoi od 1927 r.",
+          "Według BBC do 2014 r. spadło w nim dziewięć kropli, a żadnego momentu kapnięcia nie udało się przez dekady zobaczyć na własne oczy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pitch_drop_experiment"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/science-environment-28402709"
+          }
+        ],
+        "caption": {
+          "credit": "John Mainstone, praca pochodna: Amada44 / Wikimedia Commons",
+          "text": "Zestaw eksperymentu z University of Queensland: lejek ze smołą i zlewka na krople."
+        },
+        "insta": {
+          "tytul": "Ten eksperyment trwa od 1927 r. Smoła kapie w nim raz na kilka lat",
+          "opis": "Smoła wygląda na twardą, ale to bardzo gęsta ciecz. Do 2014 r. spadło dziewięć kropli."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/University_of_Queensland_Pitch_drop_experiment-white_bg.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:University_of_Queensland_Pitch_drop_experiment-white_bg.jpg",
+          "credit": "John Mainstone, praca pochodna: Amada44 / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Szklany lejek ze smołą pod kloszem, pod nim zlewka z kroplami",
+          "caption": "Zestaw eksperymentu z University of Queensland: lejek ze smołą i zlewka na krople."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Teksas",
+        "initials": "TE",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W 1896 r. w Teksasie zderzono czołowo dwie lokomotywy dla rozrywki. Przyszło 40 tys. ludzi",
+        "summary": "„Crash at Crush” był chwytem reklamowym kolei Missouri–Kansas–Texas. Widzów przyciągnięto tanimi biletami na pociąg.",
+        "body": [
+          "15 września 1896 r. dwie lokomotywy bez maszynistów rozpędzono naprzeciw siebie, żeby pokazać katastrofę kolejową jako widowisko. Pomysłodawcą był William George Crush i od jego nazwiska nazwano tymczasową stację, przy której to zorganizowano.",
+          "Wstęp był darmowy, a bilet z dowolnego miejsca w Teksasie kosztował 3,50 dolara. Przyjechało ok. 40 tys. osób, więcej niż mieszkało wtedy w drugim co do wielkości mieście stanu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Crash_at_Crush"
+          },
+          {
+            "name": "Handbook of Texas Online (archiwum)",
+            "url": "https://web.archive.org/web/20080712111256/http://www.tshaonline.org/handbook/online/articles/CC/llc1.html"
+          }
+        ],
+        "caption": {
+          "credit": "Jervis C. Deane / Wikimedia Commons",
+          "text": "Moment zderzenia lokomotyw w Crush w Teksasie, 1896 r."
+        },
+        "insta": {
+          "tytul": "W 1896 r. zderzono dwie lokomotywy, żeby ludzie mieli co oglądać",
+          "opis": "To była reklama kolei w Teksasie. Przyjechało ok. 40 tys. widzów."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_Explosion%2C_Views_of_the_Head_End_Collision_at_Crush%2C_Texas_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:The_Explosion,_Views_of_the_Head_End_Collision_at_Crush,_Texas_(cropped).jpg",
+          "credit": "Jervis C. Deane / Wikimedia Commons, domena publiczna",
+          "alt": "Czarno-białe zdjęcie wybuchu dwóch lokomotyw zderzonych czołowo",
+          "caption": "Moment zderzenia lokomotyw w Crush w Teksasie, 1896 r."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Wielka Brytania",
+        "initials": "WI",
+        "category": "Ciekawostki",
+        "hype": 3,
+        "title": "W Anglii była stacja kolejowa, którą… ukradziono",
+        "summary": "Cleckheaton Central w hrabstwie West Yorkshire uchodzi za jedyną brytyjską stację kolejową, która została skradziona.",
+        "body": [
+          "Stacja obsługiwała miasteczko Cleckheaton do lat 60., gdy w ramach cięć Beechinga zamknięto w Wielkiej Brytanii wiele małych linii i stacji.",
+          "Później stała się znana z tego, że jako jedyna stacja w kraju została ukradziona. To jedna z dwóch nieczynnych stacji w Cleckheaton."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cleckheaton_Central_railway_station"
+          },
+          {
+            "name": "Lost Railways of West Yorkshire",
+            "url": "http://www.lostrailwayswestyorkshire.co.uk/Mirfield%20Low%20moor.htm"
+          }
+        ],
+        "caption": {
+          "credit": "Betty Longbottom / Wikimedia Commons",
+          "text": "Miejsce dawnego wejścia na stację Cleckheaton Central."
+        },
+        "insta": {
+          "tytul": "W Anglii ktoś ukradł całą stację kolejową",
+          "opis": "Cleckheaton Central zamknięto w latach 60. Uchodzi za jedyną skradzioną stację w Wielkiej Brytanii."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Cleckheaton-Station-entrance-by-Betty-Longbottom.jpg",
+          "credit": "Betty Longbottom / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Dawne wejście na stację Cleckheaton Central",
+          "caption": "Miejsce dawnego wejścia na stację Cleckheaton Central."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Galapagos",
+        "initials": "GA",
+        "category": "Przyroda",
+        "hype": 3,
+        "title": "Samotny George był ostatnim żółwiem swojego gatunku i nazywano go najrzadszym stworzeniem świata",
+        "summary": "Żółw z wyspy Pinta na Galapagos żył ok. 100 lat. Zmarł w 2012 r. jako ostatni znany przedstawiciel swojego podgatunku.",
+        "body": [
+          "Samotny George (Lonesome George) urodził się ok. 1910 r. i zmarł 24 czerwca 2012 r. W ostatnich latach życia nazywano go najrzadszym stworzeniem na świecie.",
+          "Stał się symbolem ochrony przyrody na Galapagos i na całym świecie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lonesome_George"
+          },
+          {
+            "name": "Smithsonian Magazine",
+            "url": "https://www.smithsonianmag.com/travel/lonesome-george-last-tortoise-his-kind-posthumous-display-nyc-180952833/"
+          }
+        ],
+        "caption": {
+          "credit": "Mike Weston / Wikimedia Commons",
+          "text": "Samotny George, ostatni żółw z wyspy Pinta."
+        },
+        "insta": {
+          "tytul": "Ten żółw był ostatni ze swojego gatunku. Nazywali go Samotny George",
+          "opis": "Żył ok. 100 lat na Galapagos i zmarł w 2012 r. Uchodził za najrzadsze zwierzę na świecie."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Lonesome_George_in_profile.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Lonesome_George_in_profile.png",
+          "credit": "Mike Weston / Wikimedia Commons, CC BY 2.0",
+          "alt": "Żółw olbrzymi Samotny George z profilu",
+          "caption": "Samotny George, ostatni żółw z wyspy Pinta."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Obuwie",
+        "initials": "OB",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Kiedyś w sklepach obuwniczych prześwietlano stopy klientów aparatem rentgenowskim",
+        "summary": "Od lat 20. do ok. lat 70. w sklepach z butami stały aparaty, w których można było zobaczyć kości stóp w nowym bucie.",
+        "body": [
+          "Fluoroskop do przymierzania butów, sprzedawany m.in. jako X-ray Shoe Fitter, był drewnianą kolumną o wysokości ok. 1,2 m. Klient wkładał stopy do otworu i przez wizjer patrzył na prześwietlenie.",
+          "Dwa dodatkowe wizjery pozwalały rodzicowi i sprzedawcy sprawdzić, ile miejsca na palce zostało w bucie. Widać było kości stopy i obrys buta ze szwami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Shoe-fitting_fluoroscope"
+          },
+          {
+            "name": "Oak Ridge Associated Universities (archiwum)",
+            "url": "https://web.archive.org/web/20081217103205/http://www.orau.org/ptp/collection/shoefittingfluor/shoe.htm"
+          }
+        ],
+        "caption": {
+          "credit": "National Museum of Health and Medicine, AFIP / Wikimedia Commons",
+          "text": "Fluoroskop do butów z kolekcji amerykańskiego muzeum medycyny."
+        },
+        "insta": {
+          "tytul": "Kiedyś w sklepach z butami prześwietlano ludziom stopy rentgenem",
+          "opis": "Stawało się przy drewnianej szafce i przez wizjer widziało się kości stóp w bucie. Tak było przez kilkadziesiąt lat."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/NMHM_ShoeFluorscope.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:NMHM_ShoeFluorscope.jpg",
+          "credit": "National Museum of Health and Medicine, AFIP / Wikimedia Commons, domena publiczna",
+          "alt": "Drewniany fluoroskop do przymierzania butów z wizjerami u góry",
+          "caption": "Fluoroskop do butów z kolekcji amerykańskiego muzeum medycyny."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "W Australii wybrano posła, który dostał tylko 98 głosów",
+        "summary": "Wilson Tucker dostał się w 2021 r. do parlamentu Australii Zachodniej z wynikiem 0,18 proc. głosów.",
+        "body": [
+          "Tucker startował z ramienia Daylight Saving Party w wyborach stanowych w 2021 r. w okręgu Mining and Pastoral. Zdobył 98 głosów pierwszej preferencji.",
+          "Uważa się, że to najniższy procent głosów, z jakim ktokolwiek wszedł do parlamentu w Australii. Pomógł mu system grupowych list głosowania, w którym głosy przechodzą między partiami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Wilson_Tucker_(politician)"
+          },
+          {
+            "name": "ABC (Australia)",
+            "url": "https://www.abc.net.au/radio/perth/programs/mornings/wilson-tucker/13290426"
+          }
+        ],
+        "caption": {
+          "credit": "Tucwilso / Wikimedia Commons",
+          "text": "Wilson Tucker w parlamencie Australii Zachodniej."
+        },
+        "insta": {
+          "tytul": "W Australii do parlamentu wszedł gość, który dostał 98 głosów",
+          "opis": "0,18 proc. wystarczyło dzięki temu, jak tam przechodzą głosy między partiami. To ich rekord."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/WilsonTucker_Parliament.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:WilsonTucker_Parliament.jpg",
+          "credit": "Tucwilso / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Wilson Tucker w budynku parlamentu",
+          "caption": "Wilson Tucker w parlamencie Australii Zachodniej."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-16": {
     "date": "2026-11-16",
     "ryby": [],
