@@ -1,5 +1,538 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-18": {
+    "date": "2026-11-18",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Recenzje GTA 6 są już w sieci. Na Metacritic gra ma 99 punktów i remisuje z rekordzistą",
+        "summary": "Embargo na recenzje GTA 6 skończyło się w środę o 12:00 polskiego czasu. Średnia na Metacritic wystartowała z poziomu 99 punktów, co według serwisów branżowych daje remis z Ocarina of Time jako najwyżej ocenianą grą w historii serwisu.",
+        "body": [
+          "Recenzje Grand Theft Auto VI pojawiły się w środę 18 listopada, dzień przed premierą. Według Make Tech Easier i Insider Gaming embargo skończyło się o 11:00 czasu GMT, czyli o 12:00 w Polsce, w momencie, gdy gra odblokowała się w Nowej Zelandii.",
+          "Średnia ocen na Metacritic (wersja na PS5) wystartowała z poziomu 99 punktów. Liczba recenzji szybko rosła: Make Tech Easier odnotował 109 tekstów kilka minut po embargu, a serwis tbreak kilka godzin później 145, wszystkie pozytywne. To wynik równy Ocarina of Time i wyższy od GTA IV (98), dotąd najlepiej ocenianej gry Rockstar.",
+          "Maksymalną ocenę dały m.in. IGN, GameSpot, Edge, Eurogamer, GamesRadar+, Game Informer, The Guardian i The Washington Post. Według zestawienia Vice recenzenci chwalą szczegółowość otwartego świata, dialogi i zachowanie postaci niezależnych oraz swobodę w planowaniu napadów. VGC nazywa grę „grą generacji”, choć wspomina o drobnych problemach z wydajnością. Najniższa widoczna ocena w zestawieniu tbreak to 80.",
+          "Polski kanał LootBox już w środę po południu opublikował ponad 80-minutowy „Wielki przegląd recenzji GTA 6”, w którym omawia oceny z kolejnych serwisów. Ocena użytkowników na Metacritic pojawi się dopiero po premierze, 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Make Tech Easier",
+            "url": "https://maketecheasier.com/gta-6-reviews-metacritic-score/"
+          },
+          {
+            "name": "tbreak",
+            "url": "https://tbreak.com/gta-6-metacritic-score-99/"
+          },
+          {
+            "name": "Vice",
+            "url": "https://www.vice.com/en/article/gta-6-review-roundup/"
+          },
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=sayuMYnkT9I"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=sayuMYnkT9I",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Kadr z przeglądu recenzji GTA 6 na kanale LootBox. Film powstał kilka godzin po końcu embarga i zbiera oceny z serwisów, które złożyły się na średnią 99 na Metacritic."
+        },
+        "insta": {
+          "tytul": "GTA 6 ma 99 na Metacritic. Wyżej nie było jeszcze nic",
+          "opis": "Recenzje wyszły dziś w południe. Same pozytywne, setki m.in. od IGN, GameSpot i Edge. Remis z Ocarina of Time."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/sayuMYnkT9I/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/sayuMYnkT9I/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=sayuMYnkT9I",
+          "alt": "Miniatura filmu LootBox z przeglądem recenzji GTA 6",
+          "caption": "Przegląd recenzji GTA 6 na kanale LootBox"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "W Nowej Zelandii już grają w GTA 6. W Polsce gra odblokuje się dziś o północy",
+        "summary": "GTA 6 odblokowuje się o północy czasu lokalnego 19 listopada, więc jako pierwsza zagrała Nowa Zelandia: w środę o 12:00 polskiego czasu. W Polsce i reszcie Europy Środkowej gra ruszy o 0:00 w nocy ze środy na czwartek.",
+        "body": [
+          "Grand Theft Auto VI startuje o północy czasu lokalnego 19 listopada. Pierwsza w kolejce była Nowa Zelandia, gdzie północ wypadła w środę o 11:00 UTC, czyli o 12:00 w Polsce. Vice potwierdził w środę, że gra jest tam już dostępna.",
+          "Według PlayStation premiera na PS5 to „kroczący start o północy, kraj po kraju”. Dla Europy Środkowej, w tym Polski, oznacza to 0:00 w nocy z 18 na 19 listopada (23:00 UTC). Według Vice godzina jest ta sama na PS5 i Xbox Series X|S, a na PS5 potrzebne jest oprogramowanie systemu w wersji 14.23.00 lub nowszej.",
+          "W sieci krąży „trik z Nową Zelandią”: zmiana regionu konsoli albo założenie nowozelandzkiego konta PSN, żeby zagrać wcześniej. Vice zaznacza, że Rockstar i Microsoft nie potwierdziły, że to działa, a Push Square pisze, że postępów z takiego konta nie da się przenieść na główny profil.",
+          "Najważniejsze informacje przed startem (data, pre-load, rozmiar, ceny i edycje) zebrał też polski kanał LootBox w filmie „Wszystko co wiemy o GTA 6”, który od wtorku obejrzało ponad 55 tys. osób (stan na środę, ok. 14:45)."
+        ],
+        "sources": [
+          {
+            "name": "Vice",
+            "url": "https://www.vice.com/en/article/gta-6-new-zealand-worldwide-release-times/"
+          },
+          {
+            "name": "Make Tech Easier",
+            "url": "https://maketecheasier.com/gta-6-unlock-times-midnight-local/"
+          },
+          {
+            "name": "Push Square",
+            "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing"
+          },
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=Kn8AR3WL2Dw"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Kn8AR3WL2Dw",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Kadr z filmu LootBox „Wszystko co wiemy o GTA 6”. Pierwszy rozdział materiału dotyczy daty premiery, pre-loadu, rozmiaru gry, cen i edycji, czyli tego, co gracze sprawdzają przed nocnym startem."
+        },
+        "insta": {
+          "tytul": "Nowa Zelandia już gra w GTA 6. My czekamy do północy",
+          "opis": "Gra odpala się o 0:00 czasu lokalnego, więc Kiwi zaczęli o 12:00 naszego czasu. W Polsce start w nocy ze środy na czwartek."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Kn8AR3WL2Dw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Kn8AR3WL2Dw/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=Kn8AR3WL2Dw",
+          "alt": "Miniatura filmu LootBox „Wszystko co wiemy o GTA 6”",
+          "caption": "Film LootBox z podsumowaniem informacji o GTA 6"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-17",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "YouTube",
+        "hype": 4,
+        "title": "Kaluch zebrał polskich twórców GTA na ostatnią przejażdżkę po Los Santos",
+        "summary": "Kaluch pożegnał GTA V wspólnym przejazdem po Los Santos z twórcami, których nazywa „goatami polskiego GTA”. Film w niecałą dobę obejrzało ponad 600 tys. osób.",
+        "body": [
+          "Kaluch opublikował we wtorek wieczorem 40-minutowy film „Ostatnia przejażdżka po Los Santos” z dopiskiem „ft. goaty polskiego GTA”. W opisie dziękuje grze za 13 lat.",
+          "Pod filmem odezwali się sami uczestnicy. Najwyżej oceniane komentarze to podziękowania twórców za zaproszenie na „historyczny finał” i wspomnienia o tym, jak ich kanały zaczynały się od GTA V.",
+          "Do środy ok. 14:45 materiał miał ponad 607 tys. wyświetleń i ok. 30 tys. polubień. To kolejny pożegnalny odcinek Kalucha przed premierą GTA 6, która w Polsce wypada o północy z 18 na 19 listopada."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=N1Hr7N64Xng",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Kadr z pożegnalnego przejazdu po Los Santos. Kaluch zaprosił do niego twórców związanych z polską sceną GTA V tuż przed premierą szóstej części."
+        },
+        "ig": [
+          "kaluch_"
+        ],
+        "insta": {
+          "tytul": "Kaluch zrobił ostatnią przejażdżkę po Los Santos z ekipą polskiego GTA",
+          "opis": "13 lat z GTA V zamknięte jednym przejazdem. W komentarzach sami twórcy dziękują za zaproszenie."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/N1Hr7N64Xng/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/N1Hr7N64Xng/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=N1Hr7N64Xng",
+          "alt": "Miniatura filmu Kalucha „Ostatnia przejażdżka po Los Santos”",
+          "caption": "Ostatnia przejażdżka po Los Santos na kanale Kalucha"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-17",
+        "who": "Kizo",
+        "initials": "KI",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Kizo wypuścił „Hotel Paradise” z Avim i Oskarem83. Ruszył preorder",
+        "summary": "Kizo opublikował klip do „Hotel Paradise” z gościnnym udziałem Aviego i Oskara83. Wytwórnia My To Sukces zbiera już zamówienia przedpremierowe.",
+        "body": [
+          "Klip do numeru „Hotel Paradise” (Kizo ft. Avi, Oskar83) pojawił się we wtorek na kanale My To Sukces. Muzykę przygotował PSR, a za kamerą i montażem stał Dominik Cebula.",
+          "W opisie filmu wytwórnia odsyła do preorderu w swoim sklepie. Do środy ok. 14:45 klip miał ponad 300 tys. wyświetleń i ok. 10 tys. polubień.",
+          "W komentarzach widzowie najczęściej wyróżniają zwrotkę Aviego, część pisze jednak, że po takim składzie spodziewała się więcej."
+        ],
+        "sources": [
+          {
+            "name": "My To Sukces / YouTube",
+            "url": "https://www.youtube.com/watch?v=vcGuaFBzQ0I",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "My To Sukces / YouTube",
+          "text": "Kadr z klipu „Hotel Paradise”. Kizo nagrał numer z Avim i Oskarem83, a pod klipem wytwórnia ruszyła z przedsprzedażą."
+        },
+        "ig": [
+          "kizo_wnik_058"
+        ],
+        "insta": {
+          "tytul": "Kizo, Avi i Oskar83 w jednym numerze. Wyszedł „Hotel Paradise”",
+          "opis": "Klip ma już ponad 300 tys. wyświetleń. W komentarzach wygrywa zwrotka Aviego."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vcGuaFBzQ0I/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vcGuaFBzQ0I/hqdefault.jpg",
+          "credit": "My To Sukces / YouTube",
+          "href": "https://www.youtube.com/watch?v=vcGuaFBzQ0I",
+          "alt": "Kadr z klipu Kizo „Hotel Paradise”",
+          "caption": "Klip „Hotel Paradise” na kanale My To Sukces"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-17",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "Vlog",
+        "hype": 3,
+        "title": "Palion pokazał „wielkie zmiany” na budowie swojego wymarzonego domu",
+        "summary": "Palion opublikował kolejny vlog z budowy własnego domu. Widzowie w komentarzach proszą o więcej takich odcinków i house tour na koniec.",
+        "body": [
+          "We wtorek wieczorem na kanale Paliona pojawił się 16-minutowy vlog „Wielkie zmiany na budowie wymarzonego domu”. To kolejny odcinek, w którym twórca relacjonuje budowę.",
+          "Do środy ok. 14:45 film miał prawie 60 tys. wyświetleń i ok. 300 komentarzy. Widzowie życzą powodzenia, proszą o więcej vlogów i o house tour po zakończeniu budowy."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=bKMZw4GfOSY",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Kadr z vloga o budowie domu Paliona. Twórca pokazuje w nim postęp prac na własnej budowie."
+        },
+        "ig": [
+          "pawel_palion"
+        ],
+        "insta": {
+          "tytul": "Palion buduje wymarzony dom i pokazał, co się zmieniło",
+          "opis": "Kolejny vlog z budowy. Widzowie już proszą o house tour na koniec."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bKMZw4GfOSY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bKMZw4GfOSY/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=bKMZw4GfOSY",
+          "alt": "Miniatura vloga Paliona z budowy domu",
+          "caption": "Vlog Paliona z budowy wymarzonego domu"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-17",
+        "who": "To Znowu Oni",
+        "initials": "TZ",
+        "category": "YouTube",
+        "hype": 3,
+        "title": "To Znowu Oni pokazali „ostatniego Polaka, który nie grał w Wiedźmina 3”. To Szymon Liebert",
+        "summary": "Ekipa To Znowu Oni posadziła Szymona „Heda” Lieberta przed Wiedźminem 3, w którego przez 11 lat nie zagrał. Wyszła z tego ponad 80-minutowa „najbardziej spóźniona recenzja w dziejach”.",
+        "body": [
+          "We wtorek na kanale To Znowu Oni pojawił się odcinek „Ostatni Polak, który nie grał w Wiedźmina 3”. Według opisu chodzi o Szymona „Heda” Lieberta, który przez 11 lat od premiery nie zagrał w grę CD Projekt Red.",
+          "Twórcy zapowiadają, że Liebert ocenia grę w 2026 roku i nazywają to „najbardziej spóźnioną recenzją w dziejach gatunku”. Odcinek trwa ponad 80 minut.",
+          "Do środy ok. 14:45 film miał prawie 190 tys. wyświetleń i ponad 700 komentarzy. Widzowie proszą już o ciąg dalszy z dodatkami do gry."
+        ],
+        "sources": [
+          {
+            "name": "To Znowu Oni / YouTube",
+            "url": "https://www.youtube.com/watch?v=vrTzD6plFb0",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "To Znowu Oni / YouTube",
+          "text": "Kadr z odcinka To Znowu Oni o Wiedźminie 3. Szymon Liebert pierwszy raz siada do gry, w którą przez 11 lat nie zagrał."
+        },
+        "ig": [
+          "toznowuoni"
+        ],
+        "insta": {
+          "tytul": "Hed z To Znowu Oni przez 11 lat nie zagrał w Wiedźmina 3. Aż do teraz",
+          "opis": "Wyszła z tego ponad 80-minutowa „najbardziej spóźniona recenzja w historii”."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vrTzD6plFb0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vrTzD6plFb0/hqdefault.jpg",
+          "credit": "To Znowu Oni / YouTube",
+          "href": "https://www.youtube.com/watch?v=vrTzD6plFb0",
+          "alt": "Miniatura odcinka To Znowu Oni o Wiedźminie 3",
+          "caption": "Odcinek To Znowu Oni „Ostatni Polak, który nie grał w Wiedźmina 3”"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Film",
+        "hype": 4,
+        "title": "„The Eyes of Ghana” już na kanale IShowSpeeda. Dokument miał 750 tys. wyświetleń w niecałą dobę",
+        "summary": "IShowSpeed wrzucił na swój kanał cały dokument „The Eyes of Ghana” o operatorze Kwame Nkrumaha. Producentami wykonawczymi są Barack i Michelle Obama.",
+        "body": [
+          "We wtorek o 19:00 polskiego czasu na kanale IShowSpeeda pojawił się pełny film „The Eyes of Ghana”, trwający prawie półtorej godziny.",
+          "Według opisu to opowieść o 93-letnim Chrisie Hessem, osobistym operatorze Kwame Nkrumaha, pierwszego przywódcy niepodległej Ghany. Hesse, tracąc wzrok, próbuje ocalić ponad tysiąc filmów dokumentujących drogę Afryki do niepodległości. Reżyserem jest dwukrotny zdobywca Oscara Ben Proudfoot, a producentami wykonawczymi Barack i Michelle Obama.",
+          "Do środy ok. 14:45 dokument miał ponad 750 tys. wyświetleń i prawie 28 tys. polubień. W komentarzach dominują widzowie z Ghany i innych krajów Afryki."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=o3xA1J8BoHs",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Kadr z dokumentu „The Eyes of Ghana” opublikowanego na kanale IShowSpeeda. Film opowiada o archiwum nagrań operatora Kwame Nkrumaha."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "insta": {
+          "tytul": "IShowSpeed wrzucił na kanał cały dokument wyprodukowany przez Obamów",
+          "opis": "„The Eyes of Ghana” to historia 93-letniego operatora, który ratuje ponad tysiąc filmów. 750 tys. wyświetleń w niecałą dobę."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/o3xA1J8BoHs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/o3xA1J8BoHs/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=o3xA1J8BoHs",
+          "alt": "Miniatura dokumentu „The Eyes of Ghana”",
+          "caption": "Dokument „The Eyes of Ghana” na kanale IShowSpeeda"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Wielka Brytania",
+        "initials": "CW",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Brytyjski generał przeżył dwie wojny światowe, dwie katastrofy lotnicze i sam odciął sobie palce",
+        "summary": "Adrian Carton de Wiart walczył w wojnie burskiej i obu wojnach światowych. Był postrzelony m.in. w twarz, głowę i brzuch, przeżył dwie katastrofy samolotu i uciekł z obozu jenieckiego.",
+        "body": [
+          "Adrian Carton de Wiart (1880–1963) był oficerem armii brytyjskiej odznaczonym Krzyżem Wiktorii. Służył w wojnie burskiej, w I i II wojnie światowej. Kule trafiały go m.in. w twarz, głowę, brzuch, kostkę, biodro i ucho; stracił oko i dłoń.",
+          "Przeżył dwie katastrofy lotnicze i uciekał z niewoli. Gdy lekarz nie chciał amputować mu uszkodzonych palców, zrobił to sam. Z opaską na oku wyglądał jak pirat."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart"
+          },
+          {
+            "name": "gov.uk",
+            "url": "https://www.gov.uk/government/case-studies/ww1-belgian-vc-recipient-sir-adrian-ghislain-carton-de-wiart"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten generał przeżył dwie wojny światowe, dwa wypadki samolotu i sam uciął sobie palce",
+          "opis": "Adrian Carton de Wiart był postrzelony w twarz, głowę i brzuch. Stracił oko i dłoń, a i tak walczył dalej."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg",
+          "credit": "Henry Walter Barnett / Wikimedia Commons, Public domain",
+          "alt": "Portret Adriana Cartona de Wiarta w mundurze, z opaską na oku",
+          "caption": "Adrian Carton de Wiart w mundurze, z charakterystyczną opaską na oku"
+        },
+        "caption": {
+          "credit": "Henry Walter Barnett / Wikimedia Commons",
+          "text": "Adrian Carton de Wiart w mundurze, z charakterystyczną opaską na oku. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Holandia",
+        "initials": "AC",
+        "category": "Historia",
+        "hype": 5,
+        "title": "W 1942 r. holenderski okręt uciekł przed Japończykami przebrany za tropikalną wyspę",
+        "summary": "Trałowiec Abraham Crijnssen zamaskowano gałęziami tak, by z powietrza wyglądał jak wysepka. Był ostatnim holenderskim okrętem, który uciekł z Indii Holenderskich do Australii.",
+        "body": [
+          "Abraham Crijnssen to holenderski trałowiec z lat 30. Gdy Japonia zaatakowała Indie Holenderskie, okręt dostał rozkaz wycofania się do Australii.",
+          "Żeby nie wypatrzyły go japońskie samoloty, załoga przebrała go za tropikalną wyspę. Udało się: był ostatnim holenderskim okrętem, który wydostał się z regionu, a w Australii służył dalej jako eskortowiec."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/HNLMS_Abraham_Crijnssen_(1936)"
+          },
+          {
+            "name": "netherlandsnavy.nl",
+            "url": "http://www.netherlandsnavy.nl/Vanamstel.htm"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten okręt uciekł przed Japończykami udając… wyspę 🌴",
+          "opis": "W 1942 r. Holendrzy obłożyli trałowiec gałęziami i dopłynęli tak do Australii. Był ostatnim holenderskim okrętem, który się wydostał."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/HMAS-HRMS_Abraham_Crijnssen.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:HMAS-HRMS_Abraham_Crijnssen.jpg",
+          "credit": "No. 32 Squadron RAAF / Wikimedia Commons, Public domain",
+          "alt": "Okręt Abraham Crijnssen na morzu",
+          "caption": "Trałowiec Abraham Crijnssen sfotografowany z powietrza przez australijskie lotnictwo"
+        },
+        "caption": {
+          "credit": "No. 32 Squadron RAAF / Wikimedia Commons",
+          "text": "Trałowiec Abraham Crijnssen sfotografowany z powietrza przez australijskie lotnictwo. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Wielka Brytania",
+        "initials": "DH",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1910 r. żartownisie przebrani za abisyńskich książąt zwiedzili najważniejszy okręt Royal Navy",
+        "summary": "Horace de Vere Cole i jego znajomi, wśród nich Virginia Woolf, wmówili marynarce, że są delegacją z Abisynii. Pokazano im pancernik HMS Dreadnought.",
+        "body": [
+          "Mistyfikację zorganizował w 1910 r. żartowniś Horace de Vere Cole. Jego grupa w przebraniach i z doklejonymi brodami udawała delegację abisyńskiej rodziny królewskiej i została oprowadzona po okręcie flagowym Royal Navy, HMS Dreadnought.",
+          "W grupie była m.in. przyszła pisarka Virginia Woolf. Afera zwróciła uwagę na rodzącą się Grupę Bloomsbury. Cole zrobił podobny numer już w 1905 r. na studiach w Cambridge."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Dreadnought_hoax"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/books/2012/feb/05/bloomsbury-dreadnought-hoax-recalled-letter"
+          }
+        ],
+        "insta": {
+          "tytul": "Virginia Woolf z doklejoną brodą oszukała brytyjską marynarkę",
+          "opis": "W 1910 r. grupa żartownisiów udawała abisyńskich książąt. Oprowadzono ich po najważniejszym okręcie Royal Navy."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dreadnought_hoax_larger_photo_%28cropped%29.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Dreadnought_hoax_larger_photo_(cropped).png",
+          "credit": "James Lafayette / Wikimedia Commons, Public domain",
+          "alt": "Grupa przebranych uczestników mistyfikacji Dreadnought",
+          "caption": "Uczestnicy mistyfikacji w przebraniach „abisyńskiej delegacji”"
+        },
+        "caption": {
+          "credit": "James Lafayette / Wikimedia Commons",
+          "text": "Uczestnicy mistyfikacji w przebraniach „abisyńskiej delegacji”. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Japonia",
+        "initials": "HO",
+        "category": "Historia",
+        "hype": 5,
+        "title": "Japoński żołnierz walczył w dżungli 29 lat po wojnie, bo nie wierzył, że się skończyła",
+        "summary": "Hiroo Onoda prowadził partyzantkę na filipińskiej wyspie Lubang do 1974 r. Nie wierzył, że Japonia skapitulowała w 1945 r.",
+        "body": [
+          "Hiroo Onoda był podporucznikiem armii japońskiej. Po zakończeniu II wojny światowej w 1945 r. jeszcze prawie 29 lat prowadził walkę partyzancką na wyspie Lubang na Filipinach.",
+          "Początkowo ukrywał się z trzema innymi żołnierzami. Jeden poddał się w 1950 r., dwóch zginęło. Onoda złożył broń dopiero w 1974 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hiroo_Onoda"
+          },
+          {
+            "name": "Pattaya Daily News (archiwum)",
+            "url": "https://web.archive.org/web/20131203030322/http://www.pattayadailynews.com/en/2010/06/15/hiroo-onoda%E2%80%99s-twenty-nine-year-private-war/"
+          }
+        ],
+        "insta": {
+          "tytul": "Ten żołnierz walczył w dżungli jeszcze 29 lat po końcu wojny",
+          "opis": "Hiroo Onoda nie wierzył, że Japonia się poddała. Złożył broń dopiero w 1974 r."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hiroo_Onoda_young.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Hiroo_Onoda_young.jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Portret młodego Hiroo Onody w mundurze",
+          "caption": "Hiroo Onoda jako młody żołnierz"
+        },
+        "caption": {
+          "credit": "Autor nieznany / Wikimedia Commons",
+          "text": "Hiroo Onoda jako młody żołnierz. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Wielka Brytania",
+        "initials": "WS",
+        "category": "Język",
+        "hype": 3,
+        "title": "Brytyjska kolej tłumaczyła opóźnienia „złym rodzajem śniegu”. Zwrot wszedł do języka",
+        "summary": "W 1991 r. British Rail wyjaśniała zakłócenia szczególnym typem śniegu na torach. Media wyśmiały to tłumaczenie, a „the wrong type of snow” stało się synonimem wymówki.",
+        "body": [
+          "Zimą 1991 r. ostra pogoda sparaliżowała wiele połączeń British Rail. Kolej ogłosiła, że winny jest konkretny rodzaj śniegu na trasie.",
+          "Media wyśmiały to wyjaśnienie, a fraza „the wrong type of snow” na stałe weszła do brytyjskiego angielskiego jako określenie naciąganych i bezużytecznych wymówek."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/The_wrong_type_of_snow"
+          },
+          {
+            "name": "The Telegraph (archiwum)",
+            "url": "https://web.archive.org/web/20170416222751/http://www.telegraph.co.uk/news/uknews/road-and-rail-transport/9891089/From-the-archive-British-Rail-blames-wrong-type-of-snow-for-delays.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Brytyjska kolej zwaliła opóźnienia na „zły rodzaj śniegu”",
+          "opis": "Było to w 1991 r. Wyśmiali to wszyscy, a zwrot do dziś oznacza w Anglii słabą wymówkę."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Snow_on_the_Line_-_geograph.org.uk_-_1143962.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Snow_on_the_Line_-_geograph.org.uk_-_1143962.jpg",
+          "credit": "Paul Anderson / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Tory kolejowe w Wielkiej Brytanii pokryte śniegiem",
+          "caption": "Śnieg na brytyjskiej linii kolejowej"
+        },
+        "caption": {
+          "credit": "Paul Anderson / Wikimedia Commons",
+          "text": "Śnieg na brytyjskiej linii kolejowej. Zdjęcie pokazuje dokładnie to, o czym jest ciekawostka."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-17": {
     "date": "2026-11-17",
     "ryby": [],

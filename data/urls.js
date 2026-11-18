@@ -1,5 +1,23 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-18": {
+  "luz": [
+   "artykuly/2026-11-18/recenzje-gta-6-sa-juz-w-sieci-na-metacritic-gra-ma-99-punktow.html",
+   "artykuly/2026-11-18/w-nowej-zelandii-juz-graja-w-gta-6-w-polsce-gra-odblokuje-sie-dzis.html",
+   "artykuly/2026-11-18/kaluch-zebral-polskich-tworcow-gta-na-ostatnia-przejazdzke-po-los.html",
+   "artykuly/2026-11-18/kizo-wypuscil-hotel-paradise-z-avim-i-oskarem83-ruszyl-preorder.html",
+   "artykuly/2026-11-18/palion-pokazal-wielkie-zmiany-na-budowie-swojego-wymarzonego-domu.html",
+   "artykuly/2026-11-18/to-znowu-oni-pokazali-ostatniego-polaka-ktory-nie-gral-w-wiedzmina-3.html",
+   "artykuly/2026-11-18/the-eyes-of-ghana-juz-na-kanale-ishowspeeda-dokument-mial-750-tys.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-18/brytyjski-general-przezyl-dwie-wojny-swiatowe-dwie-katastrofy.html",
+   "artykuly/2026-11-18/w-1942-r-holenderski-okret-uciekl-przed-japonczykami-przebrany.html",
+   "artykuly/2026-11-18/w-1910-r-zartownisie-przebrani-za-abisynskich-ksiazat-zwiedzili.html",
+   "artykuly/2026-11-18/japonski-zolnierz-walczyl-w-dzungli-29-lat-po-wojnie-bo-nie-wierzyl.html",
+   "artykuly/2026-11-18/brytyjska-kolej-tlumaczyla-opoznienia-zlym-rodzajem-sniegu-zwrot.html"
+  ]
+ },
  "2026-11-17": {
   "luz": [
    "artykuly/2026-11-17/dzis-o-18-00-the-game-awards-oglosi-nominacje-gta-6-moze-w-nich-byc.html",
