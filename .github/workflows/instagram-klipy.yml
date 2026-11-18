@@ -15,6 +15,10 @@ on:
         description: "1 = po karuzeli także rolka z najlepszym klipem (nagłówek pod klipem)"
         type: string
         required: false
+      tylko_rolki:
+        description: "Opcjonalnie: JSON [{url, naglowek}] = tylko rolki z tych klipów, bez karuzeli"
+        type: string
+        required: false
       naglowki:
         description: "JSON {klucz: nagłówek} od zaplanowanego zadania Claude (z kandydaci.json na gałęzi instagram-klipy)"
         type: string
@@ -38,6 +42,7 @@ jobs:
       DRY_RUN: ${{ inputs.tryb == 'proba' && '1' || '0' }}
       KLIPY_NAGLOWKI: ${{ inputs.naglowki }}
       KLIPY_ROLKA: ${{ inputs.rolka }}
+      KLIPY_TYLKO_ROLKI: ${{ inputs.tylko_rolki }}
       GH_TOKEN: ${{ github.token }}
       STAN_DIR: ${{ github.workspace }}/klipy-stan
     steps:

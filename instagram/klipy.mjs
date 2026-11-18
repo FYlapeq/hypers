@@ -375,10 +375,50 @@ async function postyZKlipem(urls, od) {
   } catch { return undefined; }
 }
 
+// Tryb „tylko rolki” (input tylko_rolki = JSON [{url, naglowek}]): rolki z podanych klipów od razu, bez karuzeli.
+async function tylkoRolki(lista, stan) {
+  const dir = join(STAN_DIR, 'klipy');
+  mkdirSync(dir, { recursive: true }); mkdirSync(TMP, { recursive: true });
+  stan.rolki ??= {};
+  const gotowe = [];
+  for (const [i, x] of lista.entries()) {
+    const k = { ...klipRecznie(x.url), reczny: true };
+    if (stan.rolki[k.klucz]) { log(`– już była rolką: ${k.url}`); continue; }
+    const surowy = join(TMP, `r-${i}.mp4`); rmSync(surowy, { force: true });
+    pobierz(k, surowy);
+    const ocena = sprawdzObraz(surowy);
+    if (ocena) { log(`– odrzucony przez filtr obrazu (${ocena}): ${k.url}`); continue; }
+    const tekst = (x.naglowek || naglowek(k, stan)).slice(0, 90);
+    await nakladkaRolki(k, tekst, join(TMP, `r-${i}.png`));
+    zmontujRolke(surowy, join(TMP, `r-${i}.png`), join(dir, `rolka-${i}.mp4`));
+    gotowe.push({ k, tekst, plik: `rolka-${i}.mp4` });
+  }
+  if (DRY || !gotowe.length) { commitStanu(stan, 'Klipy: rolki (podgląd)'); return; }
+  const sha = commitStanu(stan, 'Klipy: rolki');
+  const raw = (p) => `https://raw.githubusercontent.com/${REPO}/${sha}/klipy/${p}`;
+  if (!env.IG_USER_ID) env.IG_USER_ID = (await ig('me', { params: { fields: 'user_id' } })).user_id;
+  const start = new Date(Date.now() - 60_000).toISOString();
+  for (const { k, tekst, plik } of gotowe) {
+    try {
+      let rid = (await rolkaJuzJest(k.url, start))?.id;
+      if (!rid) {
+        const { id: kont } = await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'REELS', video_url: raw(plik), caption: opisRolki(k, tekst), share_to_feed: 'true' } });
+        await czekaj(kont, 400);
+        ({ id: rid } = await ig(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kont } }));
+      }
+      stan.rolki[k.klucz] = { media_id: rid, kiedy: new Date().toISOString() };
+      commitStanu(stan, `Klipy: rolka ${rid}`);
+      log(`Opublikowano rolkę ${rid}: ${tekst}`);
+      await rolkaDoFolderu(k, tekst, join(dir, plik)).catch((e) => log(`– rolka nie trafiła do Releases: ${e.message.slice(0, 200)}`));
+    } catch (e) { log(`– rolka nie wyszła (${k.url}): ${e.message.slice(0, 200)}`); process.exitCode = 1; }
+  }
+}
+
 async function main() {
   const stan = wczytajStan();
   stan.opublikowane ??= {}; stan.posty ??= []; stan.naglowki ??= {};
   wczytajNaglowki(stan);
+  if (env.KLIPY_TYLKO_ROLKI) return tylkoRolki(JSON.parse(env.KLIPY_TYLKO_ROLKI), stan);
   const start = new Date(Date.now() - 60_000).toISOString();
   const kandydaci = [...reczne(), ...(await zTwitcha())];
   log(`Kandydaci: ${kandydaci.length}`);
