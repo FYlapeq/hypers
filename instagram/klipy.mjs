@@ -228,6 +228,7 @@ async function postyZKlipem(urls) {
 }
 
 async function main() {
+  if (!DRY && env.KLIPY_STOP_AWARYJNY !== '0') { log('Publikacja klipów wstrzymana (brak filtra obrazu). Tylko próba.'); return; }
   const stan = wczytajStan();
   stan.opublikowane ??= {}; stan.posty ??= [];
   const kandydaci = [...reczne(), ...(await zTwitcha())];
