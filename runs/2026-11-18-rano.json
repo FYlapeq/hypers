@@ -1,0 +1,2152 @@
+{
+ "run": {
+  "date": "2026-11-18",
+  "slot": "rano",
+  "generated_at": "2026-11-18T13:44:57.683Z",
+  "candidates": 102,
+  "with_free_image": 38,
+  "ready": 23
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 5",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 11",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 243",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4257",
+  "drugie-zrodlo": "ok 23/36"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto dokonał pierwszej obserwacji teleskopowej Marsa?",
+   "article": {
+    "title": "Historia obserwacji Marsa",
+    "url": "https://pl.wikipedia.org/wiki/Historia_obserwacji_Marsa",
+    "extract": "Historia obserwacji Marsa – dzieje udokumentowanych obserwacji planety Mars. Niektóre z najwcześniejszych zapisów obserwacji Marsa, sięgające II tysiąclecia p.n.e., pochodzą od starożytnych astronomów egipskich. Położenie planety śledzili także astronomowie babilońscy i chińscy. Starożytni filozofowie greccy oraz hellenistyczni astronomowie opracowali model geocentryczny."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mars_close_encounter_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mars_close_encounter_(captured_by_the_Hubble_Space_Telescope).jpg",
+    "file": "File:Mars close encounter (captured by the Hubble Space Telescope).jpg",
+    "artist": "NASA/ESA, J. Bell (Cornell U.), and M. Wolff (Space Science Inst.) Additional image processing and analysis support from",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1164,
+    "height": 1164,
+    "ok": true
+   }
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy Wargaming.net nabył od Atari prawa do marki Master of Orion?",
+   "article": {
+    "title": "Master of Orion: Conquer the Stars",
+    "url": "https://pl.wikipedia.org/wiki/Master_of_Orion:_Conquer_the_Stars",
+    "extract": "Master of Orion: Conquer the Stars – strategiczna gra turowa typu 4X, będąca częścią serii Master of Orion. Została opracowana przez argentyńskie studio NGD Studios i wydana przez Wargaming.net. Gracz kieruje jedną z cywilizacji rozwijających swoje imperium w galaktyce poprzez eksplorację, kolonizację, badania naukowe, dyplomację i działania militarne.\nWersja gry we wczesnym dostępie ukazała się 26 lutego 2016 roku, a pełna wersja została wydana 25 sierpnia 2016 roku."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że silnik Limbach L550E napędza irańskie i rosyjskie drony bojowe?",
+   "article": {
+    "title": "Limbach L550E",
+    "url": "https://pl.wikipedia.org/wiki/Limbach_L550E",
+    "extract": "Limbach L550E – niemiecki czterocylindrowy, dwusuwowy tłokowy silnik lotniczy o przeciwsobnym układzie cylindrów, produkowany przez przedsiębiorstwo Limbach Flugmotorenbau od 1987 r. Silnik o pojemności skokowej 548 cm³ jest chłodzony powietrzem i przeznaczony do napędu lekkich statków powietrznych. Na jego konstrukcji oparto produkowany w Chinach silnik Mado MD550, stanowiący jednostkę napędową m.in. irańskiej amunicji krążącej Shahed 136."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/L550e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:L550e.jpg",
+    "file": "File:L550e.jpg",
+    "artist": "Peter Limbach",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tech.wp.pl",
+    "url": "https://tech.wp.pl/zajrzeli-do-drona-rosjan-ten-widok-ich-zaskoczyl,7005478913723104a",
+    "title": "Zajrzeli do drona Rosjan. Ten widok ich zaskoczył",
+    "matched": [
+     "550",
+     "silnik",
+     "limbach",
+     "l550e",
+     "iranskie",
+     "drony"
+    ]
+   }
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie obchodzony jest dzień bułeczki cynamonowej?",
+   "article": {
+    "title": "Kanelbullens dag",
+    "url": "https://pl.wikipedia.org/wiki/Kanelbullens_dag",
+    "extract": "Kanelbullens dag (z szw. Dzień bułeczki cynamonowej) – zwyczaj kulinarny obchodzony w Szwecji 4 października, praktykowany również w szwedzkojęzycznych wspólnotach w Finlandii i Stanach Zjednoczonych."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Kanelbullar homemade.jpg)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że gra Flashback powstawała z myślą o konsoli Mega Drive?",
+   "article": {
+    "title": "Flashback (gra komputerowa)",
+    "url": "https://pl.wikipedia.org/wiki/Flashback_(gra_komputerowa)",
+    "extract": "Flashback (w Ameryce Północnej wydana jako Flashback: The Quest for Identity) – komputerowa gra platformowa z podgatunku cinematic platformer wyprodukowana przez francuskie studio Delphine Software International i wydana przez U.S. Gold. Premiera wersji na Amigę odbyła się w listopadzie 1992 roku, a w kolejnych latach grę skonwertowano na kilkanaście innych platform. Za reżyserię, scenariusz, projekt i część kodu odpowiadał Paul Cuisset, wcześniej współtwórca gry przygodowej Future Wars.\nGra wyróżniała się ręcznie rysowanymi tłami oraz animacją wykonaną techniką rotoskopii, zapewniającą postaciom płynność ruchu porównywaną z Prince of Persia i Another World tego samego wydawcy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjski premier Tony Blair nie uczestniczył w obchodach 60. rocznicy zakończenia II wojny światowej w Moskwie?",
+   "article": {
+    "title": "Parada z okazji Dnia Zwycięstwa w Moskwie (2005)",
+    "url": "https://pl.wikipedia.org/wiki/Parada_z_okazji_Dnia_Zwyci%C4%99stwa_w_Moskwie_(2005)",
+    "extract": "Parada z okazji Dnia Zwycięstwa w Moskwie – parada wojskowa, która odbyła się 9 maja 2005 r. na Placu Czerwonym w Moskwie z okazji 60. rocznicy zakończenia II wojny światowej i obchodów Dnia Zwycięstwa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Victory Day Parade 2005-1.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak domain fronting pozwala ominąć cenzurę?",
+   "article": {
+    "title": "Domain fronting",
+    "url": "https://pl.wikipedia.org/wiki/Domain_fronting",
+    "extract": "Domain fronting – technika ukrywania rzeczywistego adresata połączenia HTTPS, polegająca na użyciu różnych nazw domen w różnych warstwach komunikacji. Na zewnątrz połączenia, w zapytaniu DNS i w polu SNI (ang. Server Name Indication) protokołu TLS, widoczna jest nazwa dozwolonej domeny przykrywki (ang. front domain)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co łączy cywilne modelarstwo lotnicze z rosyjskim małogabarytowym pociskiem manewrującym S8000 Bandierol?",
+   "article": {
+    "title": "S8000 Bandierol",
+    "url": "https://pl.wikipedia.org/wiki/S8000_Bandierol",
+    "extract": "S8000 Bandierol (ros. С8000 «Бандероль», S8000 Бандероль) – rosyjski pocisk manewrujący o napędzie odrzutowym, zaprojektowana do przenoszenia przez bezzałogowe statki powietrzne oraz śmigłowce."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak przebiega test penetracyjny?",
+   "article": {
+    "title": "Test penetracyjny",
+    "url": "https://pl.wikipedia.org/wiki/Test_penetracyjny",
+    "extract": "Test penetracyjny – proces polegający na przeprowadzeniu kontrolowanego ataku na system teleinformatyczny, mający na celu praktyczną ocenę bieżącego stanu bezpieczeństwa tego systemu, w szczególności obecności znanych podatności i odporności na próby przełamania zabezpieczeń. Polega na analizie systemu pod kątem występowania potencjalnych błędów bezpieczeństwa spowodowanych niewłaściwą konfiguracją, lukami w oprogramowaniu lub sprzęcie, słabościami w technicznych lub proceduralnych środkach zabezpieczeń, a nawet niewystarczającą świadomością użytkowników. Analiza ta jest przeprowadzana z perspektywy potencjalnego włamywacza i może zawierać aktywne wykorzystywanie podatności (np. poprzez użycie exploitów)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c10",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto jest autorem dialogów sokratejskich?",
+   "article": {
+    "title": "Aischines ze Sfettos",
+    "url": "https://pl.wikipedia.org/wiki/Aischines_ze_Sfettos",
+    "extract": "Aischines ze Sfettos (stgr. Αἰσχίνης Σφήττιος), zwany też Aischinesem Sokratykiem (stgr. Αἰσχίνης Σωκρατικός; łac. Aeschines Socraticus, ur."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ski ballet: Skiers doing flips and spins on a slope. A smooth slope. Wearing skis.",
+   "article": {
+    "title": "Ski ballet",
+    "url": "https://en.wikipedia.org/wiki/Ski_ballet",
+    "extract": "Ski ballet is a form of ballet performed on skis.  It is very similar to figure skating, combining spins, jumps, and flips in a two-minute routine choreographed to music.  It was part of the professional freestyle skiing tours of the 1970s and 1980s and then an official FIS and Olympic discipline until the year 2000. Ski ballet became known as Acroski in the 1990s in an effort to legitimize its place among the competitive ski community, especially to the FIS. It is no longer a part of competitive freestyle skiing."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kvissel murder: An incident when a 16 year old girl whose boyfriend is actually a 29 year-old Iraqi Islamist extremist. The couple was not known for their age gap, but rather for the killing of said 16 year old girl's mother.",
+   "article": {
+    "title": "Kvissel murder",
+    "url": "https://en.wikipedia.org/wiki/Kvissel_murder",
+    "extract": "On 8 October 2014 in the Danish village of Kvissel, 40-year-old Tine Rømer Holtegaard was fatally stabbed in her sleep. On 14 September 2015, her 16-year-old daughter Lisa Borch was sentenced to nine years' imprisonment for her mother's murder. Borch's boyfriend, 29-year-old Bakhtiar Mohammed Abdullah, was sentenced to 13 years in prison, followed by deportation. The murder received international coverage, with sources highlighting Borch's viewing of videos of Islamic State of Iraq and the Levant executions immediately prior to the murder."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Map_DK_Frederikshavn.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Map_DK_Frederikshavn.PNG",
+    "file": "File:Map DK Frederikshavn.PNG",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 465,
+    "height": 550,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nbcnews.com",
+    "url": "https://www.nbcnews.com/news/world/lisa-borch-teen-inspired-isis-jailed-9-years-over-mothers-n428331",
+    "title": "ISIS-Inspired Teen Lisa Borch Jailed Over Mom&#x27;s Stabbing Death",
+    "matched": [
+     "16",
+     "29",
+     "kvissel",
+     "murder",
+     "boyfriend",
+     "iraqi",
+     "islamist",
+     "killing"
+    ]
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kowloon Walled City: A former enclave in the city of Hong Kong, known for lawlessness and extremely cramped conditions before it was destroyed and turned into a park.",
+   "article": {
+    "title": "Kowloon Walled City",
+    "url": "https://en.wikipedia.org/wiki/Kowloon_Walled_City",
+    "extract": "Kowloon Walled City (Chinese: 九龍城寨; Jyutping: gau2 lung4 sing4 zaai6) was an ungoverned and densely populated de jure Chinese enclave within the boundaries of British Hong Kong. Originally the site of a military fort, it became an enclave after the New Territories were leased to Britain in 1898. The Walled City's population increased dramatically following World War II, and by 1987 it had an estimated 33,000 residents within its 2.6-hectare (6+1⁄2-acre) borders, making it one of the most densely populated places on Earth at approximately 1.2 million inhabitants per square kilometre (3 million per square mile). The city was demolished between 1993 and 1994; the Kowloon Walled City Park was built in its place and opened in December 1995."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Kowloon Walled City - 1989 Aerial.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Polish Beer-Lovers' Party: One of the major political powers in Poland in the early 1990s.",
+   "article": {
+    "title": "Polish Beer-Lovers' Party",
+    "url": "https://en.wikipedia.org/wiki/Polish_Beer-Lovers%27_Party",
+    "extract": "The Polish Beer-Lovers' Party (PPPP; Polish: Polska Partia Przyjaciół Piwa, lit. 'Polish Party of Friends of Beer') was a satirical Polish political party that was founded in 1990. Originally, the party's goal was to promote cultural beer-drinking in English-style pubs instead of vodka (and, thus, fight alcoholism); however, the party eventually developed a serious platform based on tax reform and green politics."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Adrian Carton de Wiart: Fought in two World Wars, shot repeatedly, survived two plane crashes, escaped a POW camp, married a countess, and amputated his own fingers when his doctor refused. Also looked like a pirate.",
+   "article": {
+    "title": "Adrian Carton de Wiart",
+    "url": "https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart",
+    "extract": "Lieutenant-General Sir Adrian Paul Ghislain Carton de Wiart,  (; 5 May 1880 – 5 June 1963) was a British Army officer of Belgian and Irish descent. He was awarded the Victoria Cross, the highest military decoration awarded for valour \"in the face of the enemy\" in various Commonwealth countries. He served in the Boer War, First World War, and Second World War. He was shot in the face, head, stomach, groin, ankle, leg, hip, and ear."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lieutenant_Colonel_Adrian_Carton_de_Wiart.jpg",
+    "file": "File:Lieutenant Colonel Adrian Carton de Wiart.jpg",
+    "artist": "Henry Walter Barnett",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 609,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "gov.uk",
+    "url": "https://www.gov.uk/government/case-studies/ww1-belgian-vc-recipient-sir-adrian-ghislain-carton-de-wiart",
+    "title": "WW1 Belgian VC recipient Sir Adrian Ghislain Carton de Wiart - Case study - GOV.UK",
+    "matched": [
+     "adrian",
+     "carton",
+     "wiart",
+     "world",
+     "survived",
+     "plane",
+     "crashes"
+    ]
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Animal trial: Historically, the law in some areas of Europe subjected animals to criminal liability for their conduct.",
+   "article": {
+    "title": "Animal trial",
+    "url": "https://en.wikipedia.org/wiki/Animal_trial",
+    "extract": "In legal history, an animal trial is a trial of a non-human animal. These trials were conducted in both secular and ecclesiastic courts. Records of such trials show that they took place in Europe from the thirteenth to the eighteenth century. The legal archives on animal cases are spotty."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Trial of a sow and pigs at Lavegny.png)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elvavrålet: The time of night when Swedish university students throw open their windows and scream their stress away.",
+   "article": {
+    "title": "Elvavrålet",
+    "url": "https://en.wikipedia.org/wiki/Elvavr%C3%A5let",
+    "extract": "Elvavrålet (Swedish: the eleven roar) is a student tradition where students at universities and colleges at a certain time every night in student residential areas (22:00 or 23:00, on Lappkärrsberget only Tuesdays) open their windows, go out onto balconies or rooftops and scream to relieve stress.\nThe roar is also called the Delphi roar (after the student residential area Delphi in Lund), the Flogsta roar, (after the neighborhood Flogsta in Uppsala) the Lappkärr cry (after the neighborhood Lappkärrsberget in Stockholm), the Ten cry, the Tuesday scream or Anxiety scream. The phenomenon has been known since the 1970s.\nIn the documentary Himmel över Flogsta, screened at the 2015 Gothenburg Film Festival, director Viktor Johansson chronicles the lives of students forced to live in Flogsta's gray skyscrapers for four years and scream in the night to vent their anxiety."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 3.0 (File:Flogstaskriket.jpg)"
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jack Churchill: Longbows and broadswords weren't used in World War II. Or were they?",
+   "article": {
+    "title": "Jack Churchill",
+    "url": "https://en.wikipedia.org/wiki/Jack_Churchill",
+    "extract": "John Malcolm Thorpe Fleming Churchill,  (16 September 1906 – 8 March 1996) was a British Army officer who served in the Second World War. Nicknamed \"Fighting Jack Churchill\" and \"Mad Jack\", became known for going into action with a broadsword, longbow, and a set of bagpipes. Born in Colombo, British Ceylon, Churchill graduated from the Royal Military College, Sandhurst in 1926 and served in Burma with the Manchester Regiment. He left the army in 1936 and worked as a newspaper editor in Nairobi and as a model, and represented Great Britain at the 1939 World Archery Championships."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Lt Col Jack Churchill.tif)"
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kingdom of Sedang: In the 1880s, a French adventurer created a kingdom in Vietnam.",
+   "article": {
+    "title": "Kingdom of Sedang",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sedang",
+    "extract": "The Kingdom of Sedang (French: Royaume des Sedangs; Vietnamese: Vương quốc Xơ Đăng) was an ephemeral political entity established in the latter part of the 19th century by a French adventurer, Charles-Marie David de Mayréna, in part of what is present-day Vietnam."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Flag of Sedang.svg)"
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Dream of the Fisherman's Wife: An 1814 Hokusai woodcut of a woman getting intimate with a pair of octopuses, sometimes described as the originator of tentacle erotica.",
+   "article": {
+    "title": "The Dream of the Fisherman's Wife",
+    "url": "https://en.wikipedia.org/wiki/The_Dream_of_the_Fisherman%27s_Wife",
+    "extract": "The Dream of the Fisherman's Wife (Japanese: 蛸と海女, Hepburn: Tako to Ama; \"The Octopuses and the Diver\"), also known as Girl Diver and Octopi, Diver and Two Octopi, etc., is a woodblock-printed design by the Japanese artist Hokusai. It is included in Kinoe no Komatsu ('Young Pines'), a three-volume book of shunga erotica first published in 1814, and has become Hokusai's most famous shunga design. Playing with themes popular in Japanese art, it depicts a young ama diver entwined sexually with a pair of octopuses."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:The Dream of the Fisherman's Wife, British Museum, version 1 (cropped).jpg)"
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "HNLMS Abraham Crijnssen (1936): A Navy ship that attempted to avoid detection by Japanese aircraft and escape back to Australia by having it disguised as a tropical island.",
+   "article": {
+    "title": "HNLMS Abraham Crijnssen (1936)",
+    "url": "https://en.wikipedia.org/wiki/HNLMS_Abraham_Crijnssen_(1936)",
+    "extract": "HNLMS Abraham Crijnssen is a Jan van Amstel-class minesweeper of the Royal Netherlands Navy (RNN).\nBuilt during the 1930s, she was based in the Dutch East Indies when Japan attacked at the end of 1941. Ordered to retreat to Australia, the ship was disguised as a tropical island to avoid detection, and was the last Dutch ship to escape from the region. On arriving in Australia in 1942, she was commissioned into the Royal Australian Navy (RAN) as HMAS Abraham Crijnssen and operated as an anti-submarine escort."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/HMAS-HRMS_Abraham_Crijnssen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMAS-HRMS_Abraham_Crijnssen.jpg",
+    "file": "File:HMAS-HRMS Abraham Crijnssen.jpg",
+    "artist": "No. 32 Squadron RAAF",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 996,
+    "height": 530,
+    "ok": true
+   },
+   "second_source": {
+    "name": "netherlandsnavy.nl",
+    "url": "http://www.netherlandsnavy.nl/Vanamstel.htm",
+    "title": "Jan van Amstel-class minesweepers",
+    "matched": [
+     "1936",
+     "abraham",
+     "crijnssen",
+     "attempted",
+     "japanese",
+     "escape",
+     "australia"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wise Men of Gotham: So-named after they acted like idiots so the king would go away.",
+   "article": {
+    "title": "Wise Men of Gotham",
+    "url": "https://en.wikipedia.org/wiki/Wise_Men_of_Gotham",
+    "extract": "Wise Men of Gotham is the early name given to the people of the village of Gotham, Nottinghamshire, in allusion to an incident where they supposedly feigned idiocy to avoid a Royal visit."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wise_Men_of_Gotham_1_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wise_Men_of_Gotham_1_-_WW_Denslow_-_Project_Gutenberg_etext_18546.jpg",
+    "file": "File:Wise Men of Gotham 1 - WW Denslow - Project Gutenberg etext 18546.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 385,
+    "height": 500,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://www.bbc.co.uk/news/uk-england-nottinghamshire-24760791"
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chicken Tax: A U.S. tariff on trucks, which resulted in a period of chicken trade related tension known as the Chicken War.",
+   "article": {
+    "title": "Chicken Tax",
+    "url": "https://en.wikipedia.org/wiki/Chicken_Tax",
+    "extract": "The Chicken Tax is a 25% tariff on imports of light trucks (and originally also on potato starch, dextrin, and brandy) into the United States that has been in effect since 1964. It was imposed under President Lyndon B. Johnson in response to tariffs placed by France and West Germany on importation of U.S. chicken. The period from 1961 to 1964 of tensions and negotiations surrounding the issue was known as the \"Chicken War\", taking place at the height of Cold War politics.\nEventually, the tariffs on potato starch, dextrin, and brandy were lifted, but since 1964 this form of protectionism has remained in place to give US domestic automakers an advantage over imported competitors."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Florida_chicken_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Florida_chicken_house.jpg",
+    "file": "File:Florida chicken house.jpg",
+    "artist": "Larry Rana",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 437,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20081222081102/http://www.time.com/time/magazine/article/0,9171,874857,00.html",
+    "title": "The Chicken War - TIME",
+    "matched": [
+     "chicken",
+     "tariff",
+     "resulted",
+     "trade",
+     "related"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dreadnought hoax: A practical joke at the expense of the Royal Navy, inspiring the influential Bloomsbury Group.",
+   "article": {
+    "title": "Dreadnought hoax",
+    "url": "https://en.wikipedia.org/wiki/Dreadnought_hoax",
+    "extract": "The Dreadnought hoax was a practical joke pulled by Horace de Vere Cole in 1910. Cole tricked the Royal Navy into showing their flagship, the battleship HMS Dreadnought, to a fake delegation of Abyssinian royals. The hoax drew attention in Britain to the emergence of the Bloomsbury Group, among whom some of Cole's collaborators numbered. The hoax was a repeat of a similar impersonation that Cole and Adrian Stephen had organised while they were students at Cambridge University in 1905."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dreadnought_hoax_larger_photo_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dreadnought_hoax_larger_photo_(cropped).png",
+    "file": "File:Dreadnought hoax larger photo (cropped).png",
+    "artist": "James Lafayette",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1267,
+    "height": 950,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/books/2012/feb/05/bloomsbury-dreadnought-hoax-recalled-letter",
+    "title": "How a bearded Virginia Woolf and her band of 'jolly savages' hoaxed the navy | Virginia Woolf | The Guardian",
+    "matched": [
+     "dreadnought",
+     "practical",
+     "royal",
+     "bloomsbury",
+     "group"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Herstappe: Belgium's \"micro-municipality\" is drastically small in area compared to its neighbouring municipalities and has a population of only 78.",
+   "article": {
+    "title": "Herstappe",
+    "url": "https://en.wikipedia.org/wiki/Herstappe",
+    "extract": "Herstappe (Dutch pronunciation: [ˈɦɛrstɑpə]; French pronunciation: [ɛʁstap]) is a Flemish municipality located in the Belgian province of Limburg. On January 1, 2016, Herstappe had a total population of 89. The total area is 1.35 km2 which gives a population density of 66 inhabitants per km2. It is the least populous municipality in Belgium, and the third smallest in area."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Herstappe_lucht_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Herstappe_lucht_1.jpg",
+    "file": "File:Herstappe lucht 1.jpg",
+    "artist": "Y Cloes",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 883,
+    "height": 603,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.lalibre.be/actu/politique-belge/article/761173/herstappe-seule-commune-belge-qui-ne-votera-pas-lors-des-communales.html"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tachanka: Twentieth century chariot used in combat.",
+   "article": {
+    "title": "Tachanka",
+    "url": "https://en.wikipedia.org/wiki/Tachanka",
+    "extract": "A tachanka (Russian and Ukrainian: тачанка) is an open horse-drawn wagon with a heavy machine gun mounted on the rear side. A tachanka requires a crew of two or three (one driver and a machine gun crew) and must be pulled by two to four horses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Taczanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Taczanka.jpg",
+    "file": "File:Taczanka.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 510,
+    "height": 276,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.sovmusic.ru/english/text.php?fname=tachanka"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "PewDiePie vs T-Series: A competition between two YouTube channels to be the most subscribed channel.",
+   "article": {
+    "title": "PewDiePie vs T-Series",
+    "url": "https://en.wikipedia.org/wiki/PewDiePie_vs_T-Series",
+    "extract": "PewDiePie vs T-Series was an online rivalry between two YouTube channels, PewDiePie (run by Felix Kjellberg) and T-Series (run by the Indian record company of the same name), for the title of the most-subscribed YouTube channel. The rivalry began when T-Series's subscriber count began to near PewDiePie's in late 2018, who had held the title of most-subscribed YouTube channel since August 2013. The rivalry lasted for 8 months until PewDiePie was officially surpassed by T-Series in April 2019, a title T-Series would hold until being surpassed themselves by MrBeast in June 2024.\nMany YouTubers voiced their support for PewDiePie, including Markiplier, Jacksepticeye, MrBeast, DanTDM, KSI, H3h3Productions and Logan Paul."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pewdiepie_head_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pewdiepie_head_shot.jpg",
+    "file": "File:Pewdiepie head shot.jpg",
+    "artist": "Cold Ones Clips",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 700,
+    "height": 750,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20231207064711/https://www.youtube.com/watch?v=KtzBsKbPkHA",
+    "title": "THIS CHANNEL WILL OVERTAKE PEWDIEPIE! LWIAY #0046 - YouTube",
+    "matched": [
+     "pewdiepie",
+     "youtube",
+     "channels",
+     "channel"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1916 VFL season: Finishing the regular season with the worst record…and as champions?",
+   "article": {
+    "title": "1916 VFL season",
+    "url": "https://en.wikipedia.org/wiki/1916_VFL_season",
+    "extract": "The 1916 VFL season was the 20th season of the Victorian Football League (VFL), the highest-level senior Australian rules football competition in Victoria. Played during the peak of World War I, the season was the shortest in the league's history and featured the fewest clubs, with only four clubs – Carlton, Collingwood, Fitzroy and Richmond – featuring in 1916. The season ran from 6 May to 2 September, comprising a twelve-match home-and-away season followed by a four-week finals series featuring all four clubs.\nFitzroy won the premiership, its sixth VFL premiership; despite finishing in last place during the home-and-away season with a 2–9–1 win–loss–draw record, Fitzroy won all three of its finals, culminating in defeating Carlton by 29 points in the 1916 VFL grand final."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fitzroy_fc_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fitzroy_fc_1916.jpg",
+    "file": "File:Fitzroy fc 1916.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1259,
+    "height": 883,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://afltables.com/afl/seas/1916.html#lad"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of names for the biblical nameless: Where the bible leaves questions, its fans give answers.",
+   "article": {
+    "title": "List of names for the biblical nameless",
+    "url": "https://en.wikipedia.org/wiki/List_of_names_for_the_biblical_nameless",
+    "extract": "Some people who appear in the Bible but whose names are not given there have names that are given in Jewish religious texts, Christian sacred tradition, or apocryphal texts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MosesRescued_FromTheNile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MosesRescued_FromTheNile.JPG",
+    "file": "File:MosesRescued FromTheNile.JPG",
+    "artist": "Nicolas Poussin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 451,
+    "height": 429,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.sefaria.org/Bava_Batra.91a"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tokyo Sexwale: Despite not being Japanese or a sperm whale, he has control over the global diamond industry.",
+   "article": {
+    "title": "Tokyo Sexwale",
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Sexwale",
+    "extract": "Mosima Gabriel \"Tokyo\" Sexwale (pronounced  seh-KHWAH-lay, Venda: [sexwále]; born 5 March 1953) is a South African businessman, politician, anti-apartheid activist, and former political prisoner. For many years, Sexwale was imprisoned on Robben Island for his anti-apartheid activities, alongside figures such as Nelson Mandela. After the 1994 general election—the first fully democratic election in South Africa—Sexwale became the Premier of Gauteng Province."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tokyo_Sexwale-wef-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tokyo_Sexwale-wef-crop.jpg",
+    "file": "File:Tokyo Sexwale-wef-crop.jpg",
+    "artist": "Tokyo_Sexwale_and_Li_Ruogu,_World_Economic_Forum_on_Africa_2007.jpg: Copyright by World Economic Forum (www.weforum.org)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 456,
+    "height": 534,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20160315040341/http://www.cbsnews.com/news/comrade-capitalist/"
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eyes (cheese): There are eyes in the cheese, but no cheese in the eyes.",
+   "article": {
+    "title": "Eyes (cheese)",
+    "url": "https://en.wikipedia.org/wiki/Eyes_(cheese)",
+    "extract": "Eyes are the round holes that are a characteristic feature of some Swiss-type cheeses (e.g. Emmentaler cheese) and some Dutch-type cheeses. The eyes are formed by bubbles of carbon dioxide gas during the cheesemaking process. The gas is produced by various species of bacteria in the cheese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emmentaler_aoc_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg",
+    "file": "File:Emmentaler aoc block.jpg",
+    "artist": "Dieter Seeger",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 672,
+    "height": 896,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20160826155845/http://www.genoscope.cns.fr/spip/Propionibacterium-freudenreichii,467.html"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Puedo prometer y prometo: Spain's first political joke after the end of the Franco era.",
+   "article": {
+    "title": "Puedo prometer y prometo",
+    "url": "https://en.wikipedia.org/wiki/Puedo_prometer_y_prometo",
+    "extract": "Puedo prometer y prometo (English: I can promise, and I do promise) is a classic catchphrase said by Spanish politician Adolfo Suárez, first said in the first post-Franco general elections in Spain in 1977.\nThe phrase, which was initially derided by some comedians soon became a definitive accolade for choosing Suárez and is remembered as one of the symbols of the Spanish Transition subsequently being used in popular parlance for both political and journalistic purposes."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Adolfo_Su%C3%A1rez_Gonz%C3%A1lez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Adolfo_Su%C3%A1rez_Gonz%C3%A1lez.jpg",
+    "file": "File:Adolfo Suárez González.jpg",
+    "artist": "Communism in Romania Photo Collection",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 207,
+    "height": 299,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hemeroteca.abc.es",
+    "url": "http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/1978/08/10/034.html",
+    "title": "ABC MADRID 10-08-1978 página 34 - Archivo ABC",
+    "matched": [
+     "puedo",
+     "prometer",
+     "prometo",
+     "political"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lake Nyos: A lake in northwestern Cameroon that released gas in 1986, killing 1,746 people. One of three known gassy lakes, the others being Lake Monoun and Lake Kivu.",
+   "article": {
+    "title": "Lake Nyos",
+    "url": "https://en.wikipedia.org/wiki/Lake_Nyos",
+    "extract": "Lake Nyos ( NEE-ohs) is a crater lake in the Northwest Region of Cameroon, located about 315 km (196 mi) northwest of Yaoundé, the capital of Cameroon. Nyos is a deep lake high on the flank of an inactive volcano in the Oku volcanic plain along the Cameroon line of volcanic activity. A volcanic dam impounds the lake waters.\nA pocket of magma lies beneath the lake and leaks carbon dioxide (CO2) into the water, changing it into carbonic acid."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nyos_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nyos_Lake.jpg",
+    "file": "File:Nyos Lake.jpg",
+    "artist": "Jack Lockwood, USGS",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 428,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/onthisday/hi/dates/stories/august/21/newsid_3380000/3380803.stm",
+    "title": "BBC ON THIS DAY | 21 | 1986: Hundreds gassed in Cameroon lake disaster",
+    "matched": [
+     "1986",
+     "northwestern",
+     "cameroon",
+     "released",
+     "people",
+     "three",
+     "known",
+     "lakes",
+     "monoun"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aeroflot Flight 6502: A plane that crashed after the pilot made a bet with the first officer that he could land it blind. Unfortunately for 70 people on board, he couldn't.",
+   "article": {
+    "title": "Aeroflot Flight 6502",
+    "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+    "extract": "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk (now Yekaterinburg) to Grozny via Kuibyshev (now Samara). On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Of the 94 passengers and crew on board, 70 were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot error."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png",
+    "file": "File:Aeroflot Tu-134A CCCP-65862 LFSB 1975-12-28.png",
+    "artist": "Eduard Marmet",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1023,
+    "height": 681,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20210111233158/https://aviation-safety.net/database/record.php?id=19861020-1"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Headless men: The most unknown, yet bizarre and intriguing, humanoid monsters in European mythology. Possibly more famous nowadays for having a cameo in Scooby-Doo! Mystery Incorporated.",
+   "article": {
+    "title": "Headless men",
+    "url": "https://en.wikipedia.org/wiki/Headless_men",
+    "extract": "Various species of mythical headless men were rumoured, in antiquity and later, to inhabit remote parts of the world. They are variously known as akephaloi (Greek ἀκέφαλοι 'headless ones') or Blemmyes (Latin: Blemmyae; Greek: βλέμμυες) and described as lacking a head, with their facial features on their chest. These were at first described as inhabitants of ancient Libya or the Nile system (Aethiopia). Later traditions confined their habitat to a particular island in the Brisone River, or shifted it to India."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Blemmyes-gallica-12148-btv1b8447838j-f64.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Blemmyes-gallica-12148-btv1b8447838j-f64.jpg",
+    "file": "File:Blemmyes-gallica-12148-btv1b8447838j-f64.jpg",
+    "artist": "Guillaume Le Testu, Le Havre.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 916,
+    "height": 1005,
+    "ok": true
+   },
+   "second_source": {
+    "name": "perseus.tufts.edu",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=8",
+    "title": "Pliny the Elder, The Natural History, BOOK V. AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS, RIVERS, DISTANCES, AND PEOPL",
+    "matched": [
+     "unknown",
+     "monsters",
+     "european",
+     "mythology",
+     "possibly",
+     "famous",
+     "having"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Voynich manuscript: An undeciphered illustrated book written six hundred or so years ago by an anonymous author using an unidentified alphabet.",
+   "article": {
+    "title": "Voynich manuscript",
+    "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "extract": "The Voynich manuscript (, VOY-nitch) is an illustrated codex, hand-written in an undeciphered script referred to as \"Voynichese\". Carbon dating and stylistic analyses indicate it may have been composed in the early 15th century (1404–1438) by someone in or from the area around modern-day Southern Germany, Switzerland and Northern Italy (at the time all part of the Holy Roman Empire). However, scholars currently lack the translation and context needed to either properly entertain or eliminate any of the possibilities regarding its origin, authorship and purpose. Hypotheses range from a script for a natural language or constructed language, an unreadable code, cipher, or other form of cryptography, or perhaps a hoax, reference work (i.e."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Voynich_Manuscript_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Voynich_Manuscript_(32).jpg",
+    "file": "File:Voynich Manuscript (32).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1143,
+    "height": 1536,
+    "ok": true
+   },
+   "second_source": {
+    "name": "physorg.com",
+    "url": "http://www.physorg.com/news/2011-02-experts-age.html",
+    "title": "Experts determine age of book 'nobody can read'",
+    "matched": [
+     "voynich",
+     "manuscript",
+     "illustrated",
+     "written",
+     "author",
+     "using"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Goose pulling: Hang a live goose from a rope, gallop under it on a horse and pull its head off. What could be simpler?",
+   "article": {
+    "title": "Goose pulling",
+    "url": "https://en.wikipedia.org/wiki/Goose_pulling",
+    "extract": "Goose pulling (also called gander pulling, goose riding, pulling the goose or goose neck tearing) was a blood sport practiced in parts of the Netherlands, Belgium, England, and North America from the 17th to the 19th centuries. It originated in the 12th century in Spain and was spread around Europe by the Spanish Third. The sport involved fastening a live goose with a well-greased head to a rope or pole that was stretched across a road. A man riding on horseback at a full gallop would attempt to grab the bird by the neck in order to pull the head off."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Remington_-_A_Gander-Pull.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Remington_-_A_Gander-Pull.jpg",
+    "file": "File:Remington - A Gander-Pull.jpg",
+    "artist": "Frederic Remington",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 780,
+    "height": 488,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.hartvannederland.nl/nieuws/2019/geen-koppen-meer-van-echte-ganzen-afgetrokken-in-grevenbicht/"
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dead Internet theory: What if the Internet is just bots talking to bots?",
+   "article": {
+    "title": "Dead Internet theory",
+    "url": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+    "extract": "The dead Internet theory is a concept that asserts that the Internet consists primarily of bot activity and automated content manipulated by algorithmic curation. Originally conceived as a conspiracy theory that the phenomenon is a coordinated effort to control the population and reduce genuine human interaction, the concept is also employed colloquially to describe the impacts of generative AI and emphasize only the core observations without speculating on the driving forces.\nSupporters of the full theory claim that social bots were deliberately created to manipulate algorithms and enhance search results to influence consumers. Some proponents also accuse government agencies of using bots to shape public perception and opinions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Twitter_bots_2016-11-13.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Twitter_bots_2016-11-13.png",
+    "file": "File:Twitter bots 2016-11-13.png",
+    "artist": "Mikko Paananen",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 599,
+    "height": 869,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20230306110843/https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lord Uxbridge's leg: The grisly afterlife of a leg lost during the Battle of Waterloo, formerly owned by Henry Paget, 1st Marquess of Anglesey.",
+   "article": {
+    "title": "Lord Uxbridge's leg",
+    "url": "https://en.wikipedia.org/wiki/Lord_Uxbridge%27s_leg",
+    "extract": "Lord Uxbridge's leg was shattered, probably by a piece of case shot, at the Battle of Waterloo and removed by a surgeon. The amputated right limb became a tourist attraction in the village of Waterloo, Belgium, where it had been removed and interred."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Henry_William_Paget00a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Henry_William_Paget00a.jpg",
+    "file": "File:Henry William Paget00a.jpg",
+    "artist": "Henry Edridge",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 584,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20081206035951/http://www.national-army-museum.ac.uk/exhibitions/changingTheWorld/page2-1.shtml"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dissociative fugue: You black out and when you wake up years have passed, you're in a different city, you have a new name and have lived a different life while you were unconscious. Also known as fugue state or psychogenic fugue.",
+   "article": {
+    "title": "Dissociative fugue",
+    "url": "https://en.wikipedia.org/wiki/Dissociative_fugue",
+    "extract": "Dissociative fugue ( FYOOG), previously referred to as a fugue state or psychogenic fugue, is a rare psychiatric condition characterized by reversible amnesia regarding one's identity, often accompanied by unexpected travel or wandering. In some cases, individuals may assume a new identity and be unable to recall personal information from before the onset of symptoms. It is classified as a mental and behavioral disorder and is variously categorized as a dissociative disorder, a conversion disorder, or a somatic symptom disorder. According to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), dissociative fugue is a subset of dissociative amnesia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Headscratcher.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Headscratcher.png",
+    "file": "File:Headscratcher.png",
+    "artist": "scanned by Open Clip Art Library user Johnny Automatic",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 710,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070928080517/http://www.psychiatryonline.com/content.aspx?aID=9744",
+    "title": "PsychiatryOnline",
+    "matched": [
+     "dissociative",
+     "fugue",
+     "passed",
+     "state",
+     "psychogenic"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Feral child: Children raised without parents.",
+   "article": {
+    "title": "Feral child",
+    "url": "https://en.wikipedia.org/wiki/Feral_child",
+    "extract": "A feral child (also called wild child) is a young individual who has lived isolated from human contact from a very young age, with little or no experience of human care, social behavior, or language. Such children lack the basics of primary and secondary socialization. The term is used to refer to children who have suffered severe abuse or trauma before being abandoned or running away. They are sometimes the subjects of folklore and legends, often portrayed as having been raised by animals."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mowgli-1895-illustration.png",
+    "file": "File:Mowgli-1895-illustration.png",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 500,
+    "height": 752,
+    "ok": true
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the great cakes of early modern England could be over 1 metre (3.3 ft) wide?",
+   "article": {
+    "title": "Great cake",
+    "url": "https://en.wikipedia.org/wiki/Great_cake",
+    "extract": "Great cakes were enormous yeast cakes that were eaten in Britain from the early modern period, and in America into the late 19th century on special occasions. The culinary historian Karen Hess likens their form to babka."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Marcus_Gheeraerts_the_Elder_-_Festival_at_Bermondsey_c._1569_%28baked_good_detail_-_tighter%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Marcus_Gheeraerts_the_Elder_-_Festival_at_Bermondsey_c._1569_(baked_good_detail_-_tighter).jpg",
+    "file": "File:Marcus Gheeraerts the Elder - Festival at Bermondsey c. 1569 (baked good detail - tighter).jpg",
+    "artist": "Attributed to Marcus Gheeraerts the Elder / Formerly attributed to Joris Hoefnagel",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 513,
+    "height": 364,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ulrich Schnaft: A former Waffen-SS soldier reinvents himself as a Holocaust survivor named Gavriel Weissman and moves to Israel.",
+   "article": {
+    "title": "Ulrich Schnaft",
+    "url": "https://en.wikipedia.org/wiki/Ulrich_Schnaft",
+    "extract": "Ulrich Schnaft (3 October 1923 – 1 November 2013) was a German military officer. During World War II he served in the Waffen-SS rising to the rank of captain. After the war, he immigrated to Israel in 1949 by posing as a Jew, where he later served in the Israeli Army. Afterwards he was later convicted of spying for Egypt."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ulrich_Schnaft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ulrich_Schnaft.jpg",
+    "file": "File:Ulrich Schnaft.jpg",
+    "artist": "The Israeli government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 474,
+    "height": 789,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ynetnews.com",
+    "url": "https://www.ynetnews.com/magazine/article/sjkqlwxebl",
+    "title": "The Schnaft affair: how a Nazi SS soldier became an IDF officer",
+    "matched": [
+     "ulrich",
+     "schnaft",
+     "former",
+     "waffen",
+     "soldier",
+     "reinvents",
+     "himself",
+     "holocaust",
+     "survivor",
+     "named",
+     "gavriel"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Grass Mud Horse: A word play on Mandarin Chinese profanity, and part of a larger meme created as a protest against Internet censorship in China.",
+   "article": {
+    "title": "Grass Mud Horse",
+    "url": "https://en.wikipedia.org/wiki/Grass_Mud_Horse",
+    "extract": "The Grass Mud Horse is a Chinese Internet meme and kuso parody based on a word play of the Mandarin profanity cào nǐ mā (肏你妈), which means \"fuck your mother\".\nHomophonic puns are commonly used in Chinese language as silly humor to amuse people, and have become an important component of jokes and standup comedy in Chinese culture. Grass Mud Horse is one of the made-up \"Baidu 10 Mythical Creatures\" created in a hoax article on Baidu Baike in early 2009, whose names all come from obscene puns. It has become an Internet chat forum cult phenomenon in China and has garnered worldwide press attention, with videos, cartoons and merchandise of the animal (which is said to resemble the alpaca) having appeared."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bolivian_Alpaca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bolivian_Alpaca.jpg",
+    "file": "File:Bolivian Alpaca.jpg",
+    "artist": "Patrick Furlong from Santiago, Chile",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 500,
+    "height": 350,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20181004190906/https://www.nytimes.com/2009/03/12/world/asia/12beast.html",
+    "title": "A Dirty Pun Tweaks China’s Online Censors - The New York Times",
+    "matched": [
+     "grass",
+     "horse",
+     "chinese",
+     "created",
+     "protest",
+     "against",
+     "internet",
+     "censorship",
+     "china"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Šulak: A demon from Babylonian mythology believed to live in toilets and attack people while they poop, giving them strokes and epilepsy.",
+   "article": {
+    "title": "Šulak",
+    "url": "https://en.wikipedia.org/wiki/%C5%A0ulak",
+    "extract": "In ancient Babylonian medicine and religion, Šulak (Akkadian: 𒀭𒋗𒋃, dšu-lak, or 𒀭𒋗𒆷𒀝, dšu-la-ak) was a demon that lived within toilets. It was believed by Babylonians and Assyrians to attack those who sat on toilets while they defecated, striking them or possessing them and inflicting maladies such as stroke and epilepsy. Šulak was described as resembling a bipedal lion, and Babylonians invoked the lion-centaur spirit Urmahlullu to ward off the demon. A similar demon, Bar Širiqa, appears in the Babylonian Talmud and has been theorized to derive from Babylonian beliefs surrounding Šulak."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Middle_Assyrian_cylinder-seal_depicting_a_Lion_Centaur_and_the_demon_%C5%A0ulak_in_combat.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Middle_Assyrian_cylinder-seal_depicting_a_Lion_Centaur_and_the_demon_%C5%A0ulak_in_combat.png",
+    "file": "File:Middle Assyrian cylinder-seal depicting a Lion Centaur and the demon Šulak in combat.png",
+    "artist": "George, A.R.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1088,
+    "height": 558,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cambridge.org",
+    "url": "https://www.cambridge.org/core/journals/iraq/article/abs/on-babylonian-lavatories-and-sewers/8FCABF72C58BBFA6BC58BEB253A46FDF",
+    "title": "ON BABYLONIAN LAVATORIES AND SEWERS* | IRAQ | Cambridge Core",
+    "matched": [
+     "sulak",
+     "demon",
+     "babylonian",
+     "mythology",
+     "toilets",
+     "strokes",
+     "epilepsy"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "On the Art of the Cinema: North Korean cinema is best Korean cinema.",
+   "article": {
+    "title": "On the Art of the Cinema",
+    "url": "https://en.wikipedia.org/wiki/On_the_Art_of_the_Cinema",
+    "extract": "On the Art of the Cinema (Korean: 영화예술론; lit. 'Film Art Theory') is a 1973 treatise by the North Korean leader Kim Jong Il. It is considered the most authoritative work on North Korean filmmaking.\nThe book sets forth several original theories, which can be applied to the practices of filmmaking, the arts, and beyond."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/On_the_Art_of_the_Cinema_cover.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:On_the_Art_of_the_Cinema_cover.png",
+    "file": "File:On the Art of the Cinema cover.png",
+    "artist": "Kim Jong-il",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 717,
+    "height": 1015,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hazlitt.net",
+    "url": "http://hazlitt.net/blog/hollywood-north-korea-how-make-movies-kim-jong-il-way",
+    "title": "Hollywood North Korea: How to Make Movies the Kim Jong-il Way | Hazlitt",
+    "matched": [
+     "cinema",
+     "north",
+     "korean"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The wrong type of snow: Possibly the most feeble excuse for why British trains are so awful.",
+   "article": {
+    "title": "The wrong type of snow",
+    "url": "https://en.wikipedia.org/wiki/The_wrong_type_of_snow",
+    "extract": "\"The wrong type of snow\" or \"the wrong kind of snow\" is a phrase coined by the British media in 1991 after severe weather caused disruption to many of British Rail's services. A British Rail press release stated that the disruptions were due to a particular type of snow on the line, and the media ridiculed this explanation and expressed scepticism that there were different types of snow. Henceforth in the United Kingdom, the phrase became a byword for euphemistic and pointless excuses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Snow_on_the_Line_-_geograph.org.uk_-_1143962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Snow_on_the_Line_-_geograph.org.uk_-_1143962.jpg",
+    "file": "File:Snow on the Line - geograph.org.uk - 1143962.jpg",
+    "artist": "Paul Anderson",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20170416222751/http://www.telegraph.co.uk/news/uknews/road-and-rail-transport/9891089/From-the-archive-British-Rail-blames-wrong-type-of-snow-for-delays.html",
+    "title": "From the archive: British Rail blames 'wrong type of snow' for delays - Telegraph",
+    "matched": [
+     "wrong",
+     "excuse",
+     "british",
+     "trains",
+     "awful"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eilert Pilarm: The Elvis impersonator who looks and sounds nothing like Elvis.",
+   "article": {
+    "title": "Eilert Pilarm",
+    "url": "https://en.wikipedia.org/wiki/Eilert_Pilarm",
+    "extract": "Eilert Dahlberg (born 2 April 1953 in Anundsjö, Sweden), who uses the stage name Eilert Pilarm, is a Swedish former Elvis impersonator. He gained fame when he performed on Morgonpasset on Sveriges Radio in 1992, but retired from music in 2003."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/EilertBonnarock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:EilertBonnarock.jpg",
+    "file": "File:EilertBonnarock.jpg",
+    "artist": "ChrisPsi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1112,
+    "height": 1078,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20121024074435/http://www.pergunnareriksson.se/eilert.html",
+    "title": "EILERT PILARM UPDATE!",
+    "matched": [
+     "eilert",
+     "pilarm",
+     "elvis",
+     "sounds"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shipping container architecture: The concept and art of using intermodal containers to build stuff.",
+   "article": {
+    "title": "Shipping container architecture",
+    "url": "https://en.wikipedia.org/wiki/Shipping_container_architecture",
+    "extract": "Shipping container architecture is a form of architecture that uses steel intermodal containers (shipping containers) as the main structural element. It is also referred to as cargotecture or arkitainer, portmanteau words formed from \"cargo\" and \"architecture\". This form of architecture is often associated with the tiny-house movement as well as the sustainable living movement.\nThe use of containers as building materials has been growing in popularity due to their strength, wide availability, low cost, and eco-friendliness."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HK_HKAMS_YuenWoRdFirstAidStation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HK_HKAMS_YuenWoRdFirstAidStation.JPG",
+    "file": "File:HK HKAMS YuenWoRdFirstAidStation.JPG",
+    "artist": "Chong Fat",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "containerhomehub.com",
+    "url": "https://containerhomehub.com/are-container-homes-sustainable/",
+    "title": "Are Container Homes Sustainable? | 5 Great Ways to Make an Eco-Friendly Container Home | Container Home Hub",
+    "matched": [
+     "shipping",
+     "container",
+     "architecture",
+     "using",
+     "containers",
+     "build"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the lowest-cost version of the OpenFlexure Microscope could be bought upon its launch in 2020 for about US$15 if hardware was purchased in bulk?",
+   "article": {
+    "title": "OpenFlexure Microscope",
+    "url": "https://en.wikipedia.org/wiki/OpenFlexure_Microscope",
+    "extract": "The OpenFlexure Microscope is an open-source, 3D-printed laboratory microscope with motorised sample positioning and focus control. It uses a mechanical stage built from plastic flexures and is designed so that it can be manufactured and maintained locally."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/OpenFlexure_Microscope_V7-beta4.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:OpenFlexure_Microscope_V7-beta4.webp",
+    "file": "File:OpenFlexure Microscope V7-beta4.webp",
+    "artist": "OpenFlexure Project",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 860,
+    "height": 1243,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7249832",
+    "title": "Robotic microscopy for everyone: the OpenFlexure microscope - PMC",
+    "matched": [
+     "2020",
+     "15",
+     "lowest",
+     "version",
+     "openflexure",
+     "microscope",
+     "hardware"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hiroo Onoda: A Japanese soldier who hid out in the Philippines during World War II, refusing to surrender until 1974.",
+   "article": {
+    "title": "Hiroo Onoda",
+    "url": "https://en.wikipedia.org/wiki/Hiroo_Onoda",
+    "extract": "Hiroo Onoda (Japanese: 小野田 寛郎, Hepburn: Onoda Hiroo; IPA: [o̞no̞da̠ çiɾo̞ː]) (19 March 1922 – 16 January 2014) was a Japanese soldier who served as a second lieutenant in the Imperial Japanese Army during World War II. One of the last Japanese holdouts, Onoda continued fighting for nearly 29 years after the war's end in 1945, carrying out guerrilla warfare on Lubang Island in the Philippines until 1974.\nOnoda initially held out with three other soldiers. One surrendered in 1950, and the other two were killed, one in 1954 and one in 1972. The men did not believe flyers and letters from their families stating that the war was over."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hiroo_Onoda_young.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hiroo_Onoda_young.jpg",
+    "file": "File:Hiroo Onoda young.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 373,
+    "height": 455,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20131203030322/http://www.pattayadailynews.com/en/2010/06/15/hiroo-onoda%E2%80%99s-twenty-nine-year-private-war/",
+    "title": "Hiroo Onoda’s Twenty Nine Year Private War | Pattaya Daily News - Pattaya Newspaper, Powerful news at your fingertips",
+    "matched": [
+     "1974",
+     "hiroo",
+     "onoda",
+     "japanese",
+     "soldier",
+     "philippines",
+     "world",
+     "surrender",
+     "until"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hanazono Room: An indoor swimming pool in Japan used as the site for many pornographic films.",
+   "article": {
+    "title": "Hanazono Room",
+    "url": "https://en.wikipedia.org/wiki/Hanazono_Room",
+    "extract": "Hanazono Room (Japanese: はなぞのルーム), officially No. 136 Hanazono Room, is an apartment with an indoor swimming pool located in the top floor of the Sun Mall Crest condominium in Shinjuku, Tokyo, Japan.\nOperated by P-Studio, it is infamous for being the filming location of hundreds of Japanese adult videos. Due to its association with Japanese pornography, Hanazono Room and its pool became popularly known as \"The Pool\" (例のプール, Rei no Pūru) or \"That Pool\" (あのプール, Ano Pūru) in the Japanese internet subculture."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hanazono_Room_appearance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanazono_Room_appearance.jpg",
+    "file": "File:Hanazono Room appearance.jpg",
+    "artist": "湖の国の王子",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 501,
+    "height": 769,
+    "ok": true
+   },
+   "second_source": {
+    "name": "zenra.net",
+    "url": "https://www.zenra.net/blog/the-legendary-swimming-pool-is-now-closed-for-jav-shoots?fbclid=IwAR2Mt51SkaSXTj_4PMPRHgm8EA71z35DjdyL4piNnB00Kcaq7rUcD0KgBoo",
+    "title": "ZENRA | THE Legendary Swimming l Is Now Closed for JAV Shoots",
+    "matched": [
+     "swimming",
+     "japan",
+     "pornographic"
+    ]
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Owl House (museum): Not the acclaimed cartoon that aired on Disney Channel; this is an outdoor museum that was created by a reclusive outsider artist who decorated her inherited house with over 300 glass and concrete sculptures of owls, camels, peacocks, pyramids, and other forms.",
+   "article": {
+    "title": "The Owl House (museum)",
+    "url": "https://en.wikipedia.org/wiki/The_Owl_House_(museum)",
+    "extract": "The Owl House is a museum in Nieu-Bethesda, Eastern Cape, South Africa. The owner, Helen Martins, turned her house and the area around it into a visionary environment, elaborately decorated with ground glass and containing more than 300 concrete sculptures including owls, camels, peacocks, pyramids, and people. She inherited the house from her parents and began its transformation after they died."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Owl_house_2003_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Owl_house_2003_18.JPG",
+    "file": "File:Owl house 2003 18.JPG",
+    "artist": "Robin Tweedie",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 432,
+    "height": 576,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20061213111508/http://www.pbs.org/independentlens/offthemap/html/travelogue_artist_8.htm"
+   }
+  },
+  {
+   "id": "c54",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Genie (feral child): A feral child who was neglected by her father and was locked in a room for the first 13 years of her life.",
+   "article": {
+    "title": "Genie (feral child)",
+    "url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+    "extract": "Genie (born 1957) is the pseudonym of an American feral child who was a victim of severe abuse, neglect, and social isolation. Her circumstances are prominently recorded in the annals of linguistics and abnormal child psychology. When she was approximately 20 months old, her father began keeping her in a locked room. During this period, he almost always strapped her to a child's toilet or bound her in a crib with her arms and legs immobilized, forbade anyone to interact with her, provided her with almost no stimulation of any kind, and left her severely malnourished."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Genie_immediately_after_rescue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Genie_immediately_after_rescue.jpg",
+    "file": "File:Genie immediately after rescue.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 620,
+    "height": 791,
+    "ok": true
+   },
+   "second_source": {
+    "name": "6abc.com",
+    "url": "http://6abc.com/archive/6130233/",
+    "title": "Wild child &#x27;genie&#x27;: A tortured life | 6abc Philadelphia | 6abc.com - 6abc Philadelphia",
+    "matched": [
+     "13",
+     "genie",
+     "child",
+     "father",
+     "locked"
+    ]
+   }
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+   "article": {
+    "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+    "url": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
+    "extract": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifacts and films that tell the stories of these baseball players and all the people that made these teams possible. Notable highlights include:"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thermes Romains de Cimiez in Nice, France",
+   "article": {
+    "title": "Thermes Romains de Cimiez in Nice, France",
+    "url": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+    "extract": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered;"
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+   "article": {
+    "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
+    "extract": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only for two to three months during the summer when seasonal tides and currents recede. When the tide drops, it reveals smooth golden sandbanks "
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Astronaut Roundabout in Valdemoro, Spain",
+   "article": {
+    "title": "Astronaut Roundabout in Valdemoro, Spain",
+    "url": "https://www.atlasobscura.com/places/astronaut-roundabout",
+    "extract": "Valdemoro, a town south of Madrid better known for its proximity to Pinto than for space exploration, has an unlikely visitor from another world standing in the middle of one of its roundabouts. Francisco Leiro’s El Astronauta, installed in 2001, has become one of the town’s most distinctive modern landmarks. The four-meter-tall stainless-steel figure appears to be taking a monumental step across "
+   },
+   "published": "Tue, 17 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Glass Wonders Gallery in Karpacz, Poland",
+   "article": {
+    "title": "Glass Wonders Gallery in Karpacz, Poland",
+    "url": "https://www.atlasobscura.com/places/glass-wonders-gallery",
+    "extract": "Step into a realm where sand and fire transform into pure magic at the Glass Wonders Gallery in Karpacz. Nestled in the heart of the Karkonosze Mountains, this hidden gem turns an ordinary afternoon walk into a mesmerizing journey through light and color. Forget boring, dusty display cases; this place feels alive with vibrant hues and shapes that seem to defy gravity, instantly capturing the imagi"
+   },
+   "published": "Tue, 17 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+   "article": {
+    "title": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+    "url": "https://www.atlasobscura.com/places/agnese-visconti-memorial-plaque",
+    "extract": "Within the sprawling grounds of Mantua's Ducal Palace lies Piazza Pallone (now officially Piazza Lega Lombarda), a quiet, tree-lined square, few tourists notice the simple stone plaque mounted on the perimeter wall enclosing the space. The plaque commemorates one of the darkest episodes of Mantuan Renaissance history: the beheading of Agnese Visconti on February 7, 1391. Agnese, daughter of the Lo"
+   },
+   "published": "Mon, 16 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+   "article": {
+    "title": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+    "url": "https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d",
+    "extract": "Looming over the quiet countryside of An Nhon, Hoang De Citadel represents an extraordinary historical palimpsest where two distinct Vietnamese empires converged upon a single plot of land. Originally built in the eleventh century as Vijaya, the formidable stone-walled capital of the Champa Kingdom, the grounds were transformed in 1776 when Emperor Nguyen Nhac established it as the imperial strong"
+   },
+   "published": "Mon, 16 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+   "article": {
+    "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
+    "extract": "On the east side of State Road 31 near Peru, Indiana, sits a naval gun on the grounds of the Pipe Creek Mercantile Trading House. The shop features a wide selection of items in individual booths. If you go in not knowing what you are looking for, they probably have it. The gun sits in the northwest corner of the property, along the fence line near the highway. The gun's information identifies it a"
+   },
+   "published": "Mon, 16 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "St. Matthew’s Chapel in Lisbon, New Hampshire",
+   "article": {
+    "title": "St. Matthew’s Chapel in Lisbon, New Hampshire",
+    "url": "https://www.atlasobscura.com/places/st-matthews-chapel",
+    "extract": "St Matthews Chapel is an historic, darling, and well maintained church building located in the picturesque White Mountains of New Hampshire. Built in 1893 (1883 by some accounts - but the cornerstone lists 1893), it is said to be one of the most photographed churches in New England. On first sight, the delighted traveler will know why it is so widely photographed. Surrounded by vibrant foliage in "
+   },
+   "published": "Mon, 16 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+   "article": {
+    "title": "The Areni-1 Cave Shoe in Yerevan, Armenia",
+    "url": "https://www.atlasobscura.com/places/the-areni-1-cave-shoe",
+    "extract": "This leather shoe was discovered in Areni 1 cave during excavations in 2008. Made from a single piece of cowhide leather, and still with its leather laces it has been measured as corresponding to a modern US size 7 / EU size 37 / UK size 6. It is stuffed with grass to either maintain its shape or keep the foot warm. It is unknown at this stage whether it was a man or woman's shoe. Researchers have"
+   },
+   "published": "Fri, 13 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pensão Amor in Lisbon, Portugal",
+   "article": {
+    "title": "Pensão Amor in Lisbon, Portugal",
+    "url": "https://www.atlasobscura.com/places/pensao-amor",
+    "extract": "Walk down Pink Street in Lisbon’s Cais do Sodré and you’ll eventually find a door that looks like it has secrets. Pensão Amor building is a former brothel that has been transformed into a surprising space in Lisbon's port district. Cais do Sodré was once the sailors’ quarter, where seamen fresh off the boats mingled with writers, fado singers, artists, prostitutes and the occasional spy. Pensão Am"
+   },
+   "published": "Fri, 13 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Sue Metal T-Rex Statue in Faith, South Dakota",
+   "article": {
+    "title": "Sue Metal T-Rex Statue in Faith, South Dakota",
+    "url": "https://www.atlasobscura.com/places/sue-metal-t-rex-statue",
+    "extract": "At the edge of the South Dakota prairie, a scrap-metal Tyrannosaurus rex rises from the small town of Faith. A tribute to one of the most famous dinosaurs ever unearthed. Built from recycled tractors and agricultural materials, this sculpture honors Sue, the largest and most complete T. rex fossil discovered in the United States. The original skeleton now resides in Chicago's Field Museum. Faith p"
+   },
+   "published": "Fri, 13 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Quiz: Can You Name Tennessee's 7 Largest Cities?",
+   "article": {
+    "title": "Quiz: Can You Name Tennessee's 7 Largest Cities?",
+    "url": "https://www.mentalfloss.com/quizzes/geography/quiz/name-tennessee-largest-cities?utm_source=RSS",
+    "extract": "Most people get the first five, but the last two are tricky!"
+   },
+   "published": "Wed, 18 Nov 2026 13:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Greek Myth That Inspired the Hunger Games",
+   "article": {
+    "title": "The Greek Myth That Inspired the Hunger Games",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/greek-myth-inspired-hunger-games?utm_source=RSS",
+    "extract": "The hero that inspired Katniss Everdeen also comes from the story of the labyrinth at Knossos and the Minotaur who haunts it. Here's how the labyrinth myth inspired Suzanne Collins' 'Hunger Games' series, including 'Sunrise on the Reaping.'"
+   },
+   "published": "Wed, 18 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Rarest Zodiac Signs, Ranked",
+   "article": {
+    "title": "The Rarest Zodiac Signs, Ranked",
+    "url": "https://www.mentalfloss.com/culture/rarest-zodiac-signs-ranked?utm_source=RSS",
+    "extract": "Are you a rare Capricorn or a common Virgo? Here are all 12 zodiac signs ranked from least to most common, backed by real U.S. birth statistics."
+   },
+   "published": "Tue, 17 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's 9 Most Hated Chores, Ranked",
+   "article": {
+    "title": "America's 9 Most Hated Chores, Ranked",
+    "url": "https://www.mentalfloss.com/live-smarter/home/america-most-hated-chores-ranked?utm_source=RSS",
+    "extract": "Did your least favorite chore make the list?"
+   },
+   "published": "Tue, 17 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/james-bond-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'Goldfinger' to 'A View to Kill,' James Bond movies have a very wide range of ratings on Rotten Tomatoes."
+   },
+   "published": "Tue, 17 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Every State's Favorite Thanksgiving Pie, Mapped",
+   "article": {
+    "title": "Every State's Favorite Thanksgiving Pie, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/every-state-favorite-thanksgiving-pie?utm_source=RSS",
+    "extract": "Does your favorite pie match your state's? This map from Google Trends reveals the most popular pies ahead of Thanksgiving, from pumpkin to sweet potato and beyond."
+   },
+   "published": "Tue, 17 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Forgotten Toys Every Kid Wanted for Christmas in the 1980s",
+   "article": {
+    "title": "5 Forgotten Toys Every Kid Wanted for Christmas in the 1980s",
+    "url": "https://www.mentalfloss.com/fun/toys/forgotten-toys-every-kid-wanted-christmas-1980s?utm_source=RSS",
+    "extract": "Do you remember any of these once-beloved toys?"
+   },
+   "published": "Tue, 17 Nov 2026 18:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Things You’d Find in Almost Every Victorian Kitchen",
+   "article": {
+    "title": "6 Things You’d Find in Almost Every Victorian Kitchen",
+    "url": "https://www.mentalfloss.com/history/things-youd-find-victorian-kitchens?utm_source=RSS",
+    "extract": "Learn more about everyday life in the 19th century. Here’s what most Victorian kitchens had."
+   },
+   "published": "Tue, 17 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The $19 Million Verdict That Said Fox Stole 'Jingle All the Way'",
+   "article": {
+    "title": "The $19 Million Verdict That Said Fox Stole 'Jingle All the Way'",
+    "url": "https://www.mentalfloss.com/entertainment/movies/19-million-verdict-fox-stole-jingle-all-the-way?utm_source=RSS",
+    "extract": "In 2001, a jury ordered 20th Century Fox to pay $19 million over claims it stole \"Jingle All the Way.\" Here is the wild six-year legal battle behind the holiday hit."
+   },
+   "published": "Tue, 17 Nov 2026 15:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Stunning 'Sense and Sensibility' Locations You Can Actually Yearn In",
+   "article": {
+    "title": "5 Stunning 'Sense and Sensibility' Locations You Can Actually Yearn In",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/sense-and-sensibility-filming-locations?utm_source=RSS",
+    "extract": "Explore five real-world UK destinations featured in 2026's 'Sense and Sensibility,' including Dartmoor National Park, Broughton Castle, and Mothecombe Beach."
+   },
+   "published": "Tue, 17 Nov 2026 01:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Gilded Age Etiquette Rules That Would Shock Modern People",
+   "article": {
+    "title": "5 Gilded Age Etiquette Rules That Would Shock Modern People",
+    "url": "https://www.mentalfloss.com/history/gilded-age-etiquette-rules?utm_source=RSS",
+    "extract": "From the importance of using specific utensils to the absolute necessity of being on time, these etiquette rules of the Gilded Age upper classes will seem stunningly strict to our modern sensibilities."
+   },
+   "published": "Mon, 16 Nov 2026 23:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Biggest Pop Stars of the 1990s: Where Are They Now?",
+   "article": {
+    "title": "20 Biggest Pop Stars of the 1990s: Where Are They Now?",
+    "url": "https://www.mentalfloss.com/entertainment/music/biggest-pop-stars-1990s-where-are-they-now?utm_source=RSS",
+    "extract": "Where are the biggest pop stars of the 1990s now? Catch up on the post-fame careers, reunions, and latest projects of 20 iconic '90s acts."
+   },
+   "published": "Mon, 16 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+   "article": {
+    "title": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/from-a-small-island-in-denmark-this-man-lived-through-the-transition-from-hunter-gathering-to-farming-6000-years-ago-180989889/",
+    "extract": "A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolution in his lifetime, growing up eating mostly foraged seafood before shifting to more land-based, likely farmed, foods as an adult"
+   },
+   "published": "Wed, 18 Nov 2026 13:15:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+   "article": {
+    "title": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+    "url": "https://www.smithsonianmag.com/smart-news/this-tiny-unassuming-fungus-is-a-dark-magic-mushroom-the-first-found-to-contain-both-psychedelic-compounds-and-deadly-toxins-180989885/",
+    "extract": "Researchers collected the mushroom from a moss-covered palm trunk in the central Florida wetland. Its relatives are known to produce amatoxins, but the fungus surprisingly turned blue when handled, a telltale sign that the organism makes psilocybin"
+   },
+   "published": "Tue, 17 Nov 2026 21:06:13 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+   "article": {
+    "title": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+    "url": "https://www.smithsonianmag.com/smart-news/how-did-ancient-egypts-sacred-cats-live-more-than-100-unwrapped-mummies-reveal-poor-living-conditions-infections-and-violence-before-death-180989888/",
+    "extract": "Osteological and chemical tests on 131 museum specimens reveal that domestic cats and wild-caught jungle cats later destined for mummification suffered high rates of disease and physical trauma"
+   },
+   "published": "Tue, 17 Nov 2026 20:58:18 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+   "article": {
+    "title": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+    "url": "https://www.smithsonianmag.com/smart-news/for-almost-600-years-this-enigmatic-jan-van-eyck-painting-has-entraced-viewers-could-it-actually-be-a-self-portrait-in-disguise-180989883/",
+    "extract": "The new theory about the \"Arnolfini Portrait\" comes as London's National Gallery brings together all 10 of the artist's known portraits for the first time ever"
+   },
+   "published": "Tue, 17 Nov 2026 18:32:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+   "article": {
+    "title": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+    "url": "https://www.smithsonianmag.com/smart-news/spacex-catches-the-upper-stage-of-its-starship-for-the-first-time-making-the-company-one-step-closer-to-a-reusable-rocket-180989877/",
+    "extract": "After circling the Earth 14 times, the upper portion of Starship descended to the planet's surface and was caught by a giant pair of robotic, chopstick-like arms. However, the company failed to snatch the lower stage, which it had previously demonstrated"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The U.S. Has Lost Its Measles Elimination Status, Which It's Held for 26 Years. Cases Have Now Surged to the Highest Levels in Decades",
+   "article": {
+    "title": "The U.S. Has Lost Its Measles Elimination Status, Which It's Held for 26 Years. Cases Have Now Surged to the Highest Levels in Decades",
+    "url": "https://www.smithsonianmag.com/smart-news/the-us-has-lost-its-measles-elimination-status-which-its-held-for-26-years-cases-have-now-surged-to-the-highest-levels-in-decades-180989878/",
+    "extract": "So far this year, the Centers for Disease Control and Prevention has confirmed more than 5,400 measles cases—the highest annual total since 1991—and 43 outbreaks. Dropping vaccination rates are likely to blame"
+   },
+   "published": "Tue, 17 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Ancient Humans May Have Hunted Hippos With Poisoned Spear Tips on the Arabian Peninsula 125,000 Years Ago",
+   "article": {
+    "title": "Ancient Humans May Have Hunted Hippos With Poisoned Spear Tips on the Arabian Peninsula 125,000 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/ancient-humans-may-have-hunted-hippos-with-poisoned-spear-tips-on-the-arabian-peninsula-125000-years-ago-180989880/",
+    "extract": "A new study suggests people hunted and processed game near a large, lush, freshwater lake in what is now southern Saudi Arabia, challenging the assumption that humans just passed through the region"
+   },
+   "published": "Tue, 17 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The Bloomsbury Group's Vanessa Bell and Duncan Grant Tangled Their Art and Lives Together for Decades. A Final Sketch of Bell on Her Deathbed Just Resurfaced After 60 Years",
+   "article": {
+    "title": "The Bloomsbury Group's Vanessa Bell and Duncan Grant Tangled Their Art and Lives Together for Decades. A Final Sketch of Bell on Her Deathbed Just Resurfaced After 60 Years",
+    "url": "https://www.smithsonianmag.com/smart-news/the-bloomsbury-groups-vanessa-bell-and-duncan-grant-tangled-their-art-and-lives-together-for-decades-a-final-sketch-of-bell-on-her-deathbed-just-resurfaced-after-60-years-180989874/",
+    "extract": "The two artists had a thoroughly complicated relationship—and a daughter—but never ceased to paint and draw each other. The new discovery points to an artistic bond that continued through health and sickness"
+   },
+   "published": "Mon, 16 Nov 2026 21:28:51 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "These Adorable Hatchlings Are From the U.S. West Coast's First Known Natural Sea Turtle Nests. Now, They've Returned to the Wild",
+   "article": {
+    "title": "These Adorable Hatchlings Are From the U.S. West Coast's First Known Natural Sea Turtle Nests. Now, They've Returned to the Wild",
+    "url": "https://www.smithsonianmag.com/smart-news/these-adorable-hatchlings-are-from-the-us-west-coasts-first-known-natural-sea-turtle-nests-now-theyve-returned-to-the-wild-180989876/",
+    "extract": "Two nests were spotted in September, and authorities moved the eggs to an aquarium to protect them from an incoming tropical storm. Over the weekend, dozens of hatchlings emerged and have now been released on the same beaches where they were found"
+   },
+   "published": "Mon, 16 Nov 2026 20:08:45 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A French Court Annuls the $1.6 Million Sale of This Camille Pissarro Painting, Allegedly Looted During World War II",
+   "article": {
+    "title": "A French Court Annuls the $1.6 Million Sale of This Camille Pissarro Painting, Allegedly Looted During World War II",
+    "url": "https://www.smithsonianmag.com/smart-news/a-french-court-annuls-the-sale-of-this-camille-pissarro-painting-allegedly-looted-during-world-war-ii-180989875/",
+    "extract": "Seven descendants of Jewish banker Salomon Flavian challenged a 2024 auction sale brokered without their knowledge, prompting a court to demand the painting's restitution and the revelation of the anonymous buyer's identity"
+   },
+   "published": "Mon, 16 Nov 2026 19:29:33 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "More Than a Billion Years' Worth of Rock Layers Are Missing From Earth's Geologic Record. Scientists Say They May Finally Know Why",
+   "article": {
+    "title": "More Than a Billion Years' Worth of Rock Layers Are Missing From Earth's Geologic Record. Scientists Say They May Finally Know Why",
+    "url": "https://www.smithsonianmag.com/smart-news/more-than-a-billion-years-worth-of-rock-layers-are-missing-from-earths-geologic-record-scientists-say-they-may-finally-know-why-180989870/",
+    "extract": "Computer simulations suggest that movements in Earth's viscous mantle layer lifted certain chunks of the planet's surface, allowing ice sheets to scrape away the rock"
+   },
+   "published": "Mon, 16 Nov 2026 16:48:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Europe's Hera Spacecraft Has Begun Its Close-Up Investigation of the Asteroid System NASA Intentionally Hit in 2022",
+   "article": {
+    "title": "Europe's Hera Spacecraft Has Begun Its Close-Up Investigation of the Asteroid System NASA Intentionally Hit in 2022",
+    "url": "https://www.smithsonianmag.com/smart-news/europes-hera-spacecraft-has-begun-its-close-up-investigation-of-the-asteroid-system-nasa-intentionally-hit-in-2022-180989871/",
+    "extract": "The European Space Agency's mission will provide valuable data about the aftermath of the planned collision, which can inform planetary defense measures and reveal insights about asteroids"
+   },
+   "published": "Mon, 16 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c102",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  }
+ ]
+}
