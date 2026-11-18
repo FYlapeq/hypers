@@ -6,6 +6,226 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "world",
+        "published": "2026-11-17",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "GTA 6 ma 8 nominacji do The Game Awards, w tym do gry roku. Wiedźmin 4 walczy o najbardziej wyczekiwaną grę",
+        "summary": "GTA 6 zebrało przed premierą 8 nominacji do The Game Awards 2026, najwięcej ze wszystkich gier. Jest wśród nich gra roku i nominacja dla Manni L. Perez za rolę Lucii. W kilku kategoriach są też gry CD Projekt RED.",
+        "body": [
+          "Nominacje do The Game Awards 2026 ogłoszono we wtorek 17 listopada. Grand Theft Auto VI dostało ich 8: gra roku, reżyseria, scenariusz, kierownictwo artystyczne, muzyka, udźwiękowienie, najlepsza gra akcji/przygodowa oraz najlepszy występ dla Manni L. Perez, która gra Lucię.",
+          "O tytuł gry roku GTA 6 zawalczy z 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem i The Legend of Zelda: Ocarina of Time. Według VGC po 8 nominacji mają też Control Resonant i Resident Evil Requiem, a Sony po raz pierwszy od 11 lat nie ma swojej gry w kategorii gry roku.",
+          "Polski akcent: Wiedźmin 4 jest nominowany jako najbardziej wyczekiwana gra, Wiedźmin 3 w kategoriach najlepsza gra rozwijana i wsparcie społeczności, a Cyberpunk: Edgerunners 2 (CD Projekt RED ze Studio Trigger i Netflixem) jako najlepsza adaptacja.",
+          "Gala odbędzie się 10 grudnia. Głosowanie internautów trwa do 9 grudnia i liczy się w 10 procentach, resztę decyduje jury. Nominacje omówił m.in. polski kanał LootBox."
+        ],
+        "sources": [
+          {
+            "name": "VGC",
+            "url": "https://www.videogameschronicle.com/news/the-game-awards-2026-nominations/"
+          },
+          {
+            "name": "Push Square",
+            "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-revealed-gta-6-up-for-8-awards"
+          },
+          {
+            "name": "Noisy Pixel",
+            "url": "https://noisypixel.net/the-game-awards-2026-nominees-full-list/"
+          },
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=c2bLCB_mWHM"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=c2bLCB_mWHM",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Kadr z filmu LootBox o nominacjach do The Game Awards 2026. Kanał omawia w nim listę, na której GTA 6 ma najwięcej nominacji, choć jeszcze nie wyszło."
+        },
+        "insta": {
+          "tytul": "GTA 6 jeszcze nie wyszło, a już ma 8 nominacji do gry roku i nie tylko",
+          "opis": "Najwięcej ze wszystkich gier. Wiedźmin 4 powalczy o tytuł najbardziej wyczekiwanej gry. Gala 10 grudnia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/c2bLCB_mWHM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/c2bLCB_mWHM/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=c2bLCB_mWHM",
+          "alt": "Miniatura filmu LootBox o nominacjach do The Game Awards 2026",
+          "caption": "Film LootBox o nominacjach do The Game Awards 2026"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-18",
+        "who": "Ospanno",
+        "initials": "OS",
+        "category": "YouTube",
+        "hype": 4,
+        "title": "Ospanno przed premierą GTA 6 opowiedział swoją historię: „GTA uratowało mi życie”",
+        "summary": "Ospanno nagrał, jak sam pisze, najbardziej szczery i osobisty film w karierze. Opowiada w nim o dorastaniu, pracy za granicą i o tym, jak seria GTA zmieniła jego życie.",
+        "body": [
+          "W środę na kanale Ospanno pojawił się ponad 40-minutowy film „GTA uratowało mi życie”. W opisie twórca nazywa go najbardziej szczerym i osobistym materiałem, jaki nagrał.",
+          "Według opisu opowiada w nim o dorastaniu w jednym małym pokoju, ucieczce w wirtualny świat, pracy za granicą i początkach streamowania dla kilku osób, a także o tym, jak seria GTA „zmieniła dosłownie wszystko” w jego życiu.",
+          "Ospanno dziękuje w opisie Kaluchowi za przyjaźń, rodzinie za wsparcie i widzom. Pisze, że żegna erę GTA V jako „spełniony człowiek” i z czystą kartą wchodzi w kolejny etap. Widzowie w komentarzach wspominają jego dawne serie z GTA."
+        ],
+        "sources": [
+          {
+            "name": "Ospanno / YouTube",
+            "url": "https://www.youtube.com/watch?v=m-KJuSHj_tI",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Ospanno / YouTube",
+          "text": "Kadr z osobistego filmu Ospanno opublikowanego dzień przed premierą GTA 6. Twórca opowiada w nim, jak seria GTA wpłynęła na jego życie i karierę."
+        },
+        "ig": [
+          "ospanno"
+        ],
+        "insta": {
+          "tytul": "Ospanno opowiedział, jak GTA zmieniło mu życie",
+          "opis": "Mały pokój, praca za granicą, streamy dla kilku osób. Najbardziej osobisty film w jego karierze, wrzucony dzień przed GTA 6."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/m-KJuSHj_tI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/m-KJuSHj_tI/hqdefault.jpg",
+          "credit": "Ospanno / YouTube",
+          "href": "https://www.youtube.com/watch?v=m-KJuSHj_tI",
+          "alt": "Miniatura filmu Ospanno „GTA uratowało mi życie”",
+          "caption": "Film Ospanno „GTA uratowało mi życie”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Streaming",
+        "hype": 4,
+        "title": "Kai Cenat pokazał, jak nagrywał swój „trailer GTA 6”. Kulisy obejrzało ponad 600 tys. osób",
+        "summary": "Kai Cenat opublikował kulisy nagrywania swojego zwiastuna maratonu GTA 6. Widzowie chwalą, ile pracy włożył w zapowiedź streamu.",
+        "body": [
+          "Na kanale Kai Cenat Live pojawił się we wtorek prawie 20-minutowy film „How I Filmed My GTA 6 Trailer”, czyli kulisy nagrywania jego „oficjalnego zwiastuna” maratonu GTA 6.",
+          "Do środy ok. 14:45 materiał miał ponad 615 tys. wyświetleń i ok. 12 tys. polubień. W komentarzach widzowie podkreślają, ile wysiłku Kai wkłada w takie zapowiedzi, i żartują, że nakręcił cały film tylko po to, żeby ogłosić stream.",
+          "Kai Cenat planuje streamować GTA 6 od premiery, która w USA wypada o północy z 18 na 19 listopada czasu wschodniego."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=wKmIqTs2LoE",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Kadr z filmu o kulisach zwiastuna, którym Kai Cenat zapowiedział maraton GTA 6."
+        },
+        "ig": [
+          "kaicenat"
+        ],
+        "insta": {
+          "tytul": "Kai Cenat pokazał kulisy swojego „trailera GTA 6”",
+          "opis": "Nakręcił cały film, żeby zapowiedzieć stream. Kulisy obejrzało już ponad 600 tys. osób."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wKmIqTs2LoE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wKmIqTs2LoE/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=wKmIqTs2LoE",
+          "alt": "Miniatura filmu Kai Cenata o nagrywaniu trailera GTA 6",
+          "caption": "Kulisy trailera GTA 6 na kanale Kai Cenat Live"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-17",
+        "who": "gameranx",
+        "initials": "GR",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Gameranx przypomniał 10 momentów, które ukształtowały GTA 6: od początków produkcji po przecieki",
+        "summary": "Kanał gameranx zebrał dzień przed premierą historię GTA 6: od startu prac, przez przecieki i plotki, aż po premierę. Film ma już ponad 360 tys. wyświetleń.",
+        "body": [
+          "Gameranx opublikował we wtorek 16-minutowy ranking „10 HUGE Moments That Shaped GTA 6”. Według opisu to przegląd historii gry od początku produkcji przez przecieki i plotki aż po premierę.",
+          "Do środy ok. 14:45 film miał ponad 367 tys. wyświetleń. W komentarzach widzowie liczą, ile lat minęło od premiery GTA V, i żartują, że GTA 6 dostało nominację do gry roku, zanim w ogóle wyszło."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=IEtv9pqKcyk",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Kadr z rankingu gameranx o najważniejszych momentach w historii GTA 6, opublikowanego tuż przed premierą."
+        },
+        "insta": {
+          "tytul": "Gameranx zebrał 10 momentów, które zrobiły GTA 6",
+          "opis": "Od początku produkcji przez przecieki po premierę. Idealne na ostatni wieczór czekania."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/IEtv9pqKcyk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/IEtv9pqKcyk/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=IEtv9pqKcyk",
+          "alt": "Miniatura filmu gameranx o historii GTA 6",
+          "caption": "Ranking gameranx „10 HUGE Moments That Shaped GTA 6”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "Streaming",
+        "hype": 3,
+        "title": "Ludwig obiecał oddać widzom wszystkie pieniądze, jeśli go pokonają",
+        "summary": "Ludwig wrzucił film „If Chat Beats Me I Give Them All My Money”, w którym mierzy się z widzami w różnych grach. Komentujący najczęściej wspominają mecz w Overwatch.",
+        "body": [
+          "W nocy z wtorku na środę na kanale Ludwiga pojawił się 44-minutowy film „If Chat Beats Me I Give Them All My Money”, w którym streamer gra przeciwko swoim widzom.",
+          "Do środy ok. 14:45 film miał ponad 380 tys. wyświetleń. Widzowie chwalą Ludwiga za to, że zagrał w Overwatch, choć za tą grą nie przepada."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/watch?v=Mq8xMVmovRk",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Kadr z filmu, w którym Ludwig gra przeciwko widzom o swoje pieniądze."
+        },
+        "ig": [
+          "ludwigahgren"
+        ],
+        "insta": {
+          "tytul": "Ludwig oddałby widzom wszystkie pieniądze, gdyby go pokonali",
+          "opis": "Gra przeciwko swoim widzom. W komentarzach wszyscy wspominają mecz w Overwatch."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Mq8xMVmovRk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Mq8xMVmovRk/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/watch?v=Mq8xMVmovRk",
+          "alt": "Miniatura filmu Ludwiga „If Chat Beats Me I Give Them All My Money”",
+          "caption": "Film Ludwiga o grze przeciwko widzom"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
         "published": "2026-11-18",
         "who": "GTA 6",
         "initials": "G6",
@@ -326,6 +546,211 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Święta",
+        "initials": "WH",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Jest gra, w której przegrywasz, gdy usłyszysz „Last Christmas” przed Wigilią",
+        "summary": "W Whamageddon trzeba przetrwać od 1 do 24 grudnia, nie słysząc oryginalnego „Last Christmas” Wham!. Kto usłyszy, odpada i ogłasza to w sieci.",
+        "body": [
+          "Whamageddon trwa od 1 grudnia do końca Wigilii. Celem jest nie usłyszeć oryginalnej wersji „Last Christmas” duetu Wham!. Kto ją usłyszy, odpada i musi wrzucić do sieci hasztag #Whamageddon. Covery się nie liczą.",
+          "Zabawa wywodzi się z podobnego wyzwania z połowy lat 90. z piosenką „Little Drummer Boy”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Whamageddon"
+          },
+          {
+            "name": "The Irish News",
+            "url": "https://www.irishnews.com/magazine/daily/2018/12/04/news/are-you-playing-whamageddon-the-fight-to-avoid-hearing-last-christmas-is-on-1500994/"
+          }
+        ],
+        "caption": {
+          "credit": "Epic Records / Wikimedia Commons",
+          "text": "Tylna okładka brytyjskiego wydania singla „Last Christmas”, czyli piosenki, której w Whamageddon trzeba unikać przez cały grudzień."
+        },
+        "insta": {
+          "tytul": "Jest gra, w której odpadasz, gdy usłyszysz „Last Christmas” 🎄",
+          "opis": "Trzeba wytrzymać od 1 do 24 grudnia bez oryginału Wham!. Przegrany wrzuca #Whamageddon."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Last_Christmas_by_Wham_UK_gatefold_back_cover.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Last_Christmas_by_Wham_UK_gatefold_back_cover.png",
+          "credit": "Epic Records / CBS Records Inc. / Wikimedia Commons, Public domain",
+          "alt": "Tylna okładka singla „Last Christmas” zespołu Wham!",
+          "caption": "Okładka brytyjskiego wydania singla „Last Christmas”"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "USA",
+        "initials": "CM",
+        "category": "Technologia",
+        "hype": 5,
+        "title": "W 1986 r. inżynier przejął sygnał HBO w trakcie filmu, by zaprotestować przeciw cenom",
+        "summary": "„Captain Midnight” wyświetlił na 4,5 minuty swój komunikat milionom widzów HBO na wschodzie USA. Protestował przeciw opłatom dla właścicieli anten satelitarnych.",
+        "body": [
+          "27 kwietnia 1986 r. John R. MacDougall, inżynier elektryk i właściciel firmy, pod pseudonimem „Captain Midnight” zagłuszył satelitarny sygnał HBO w trakcie emisji filmu „Sokół i Bałwan”.",
+          "Jego komunikat przez 4,5 minuty widziała wschodnia połowa USA, czyli ponad połowa z 14,6 mln abonentów HBO. MacDougall zrobił to w drugiej pracy, w stacji nadawczej na Florydzie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion"
+          },
+          {
+            "name": "Forbes (archiwum)",
+            "url": "https://web.archive.org/web/20170920143534/https://www.forbes.com/sites/davidewalt/2013/03/18/the-tale-of-captain-midnight-tv-hacker-and-folk-hero/#286308a41053"
+          }
+        ],
+        "caption": {
+          "credit": "John R. MacDougall / Wikimedia Commons",
+          "text": "Plansza, którą „Captain Midnight” wyświetlił widzom HBO zamiast filmu."
+        },
+        "insta": {
+          "tytul": "W 1986 r. jeden gość przejął sygnał HBO, bo uznał, że jest za drogie",
+          "opis": "Przez 4,5 minuty miliony widzów zamiast filmu oglądały jego protest. Podpisał się „Captain Midnight”."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Captain_Midnight_HBO.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Captain_Midnight_HBO.jpg",
+          "credit": "John R. MacDougall / Wikimedia Commons, Public domain",
+          "alt": "Ekran z komunikatem Captain Midnight wyświetlonym na kanale HBO",
+          "caption": "Komunikat „Captain Midnight” na antenie HBO w 1986 r."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Anglia",
+        "initials": "TT",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "Dwie świnie uciekły z rzeźni i przez tydzień ukrywały się przed pościgiem. Śledziły to media z całego świata",
+        "summary": "W 1998 r. dwie świnie rasy tamworth uciekły przy rozładunku w Malmesbury. Nazwano je Butch i Sundance, a dzięki gazecie nigdy nie trafiły do rzeźni.",
+        "body": [
+          "W styczniu 1998 r. dwie świnie uciekły z ciężarówki przy rzeźni w Malmesbury w Anglii. Przez ponad tydzień były na wolności, a poszukiwania stały się medialną sensacją w Wielkiej Brytanii i za granicą.",
+          "Nazwano je Butch i Sundance, na cześć Butcha Cassidy'ego i Sundance Kida. Dzięki gazecie, która zajęła się ich losem, nigdy nie trafiły do rzeźni."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tamworth_Two"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://news.bbc.co.uk/1/hi/uk/47671.stm"
+          }
+        ],
+        "caption": {
+          "credit": "Oast House Archive / Wikimedia Commons",
+          "text": "Świnie rasy tamworth, tej samej co Butch i Sundance, które w 1998 r. uciekły z rzeźni."
+        },
+        "insta": {
+          "tytul": "Dwie świnie uciekły z rzeźni i zrobiły się z tego światowe newsy 🐖",
+          "opis": "Butch i Sundance ukrywały się ponad tydzień. Do rzeźni już nie wróciły."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tamworth_pigs_at_the_Rare_Breeds_Centre%2C_Woodchurch%2C_Kent.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Tamworth_pigs_at_the_Rare_Breeds_Centre,_Woodchurch,_Kent.jpg",
+          "credit": "Oast House Archive / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Rude świnie rasy tamworth na wybiegu",
+          "caption": "Świnie rasy tamworth, tej samej co Butch i Sundance"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Indie",
+        "initials": "NS",
+        "category": "Ludzie",
+        "hype": 5,
+        "title": "Na wyspie na Oceanie Indyjskim żyje plemię, które niemal nie ma kontaktu ze światem",
+        "summary": "Sentinelczycy mieszkają na Północnym Sentinelu w Zatoce Bengalskiej. Kontakty z obcymi ograniczają do minimum i zwykle są wobec nich wrogo nastawieni.",
+        "body": [
+          "Sentinelczycy to rdzenni mieszkańcy wyspy Północny Sentinel w Zatoce Bengalskiej, należącej do Indii. Są jednym z sześciu rdzennych ludów Andamanów i Nikobarów.",
+          "Plemię niemal nie ma kontaktu z resztą świata i zwykle wrogo reaguje na tych, którzy próbują się zbliżyć. Indie objęły je szczególną ochroną."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Sentinelese"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2025/jul/26/india-census-2027-north-sentinel-island-most-isolated-tribe"
+          }
+        ],
+        "caption": {
+          "credit": "Medici82 / Wikimedia Commons",
+          "text": "Wyspa Północny Sentinel z lotu ptaka. To jedyne miejsce, gdzie żyją Sentinelczycy."
+        },
+        "insta": {
+          "tytul": "Na tej wyspie żyje plemię, które prawie nie zna reszty świata",
+          "opis": "Sentinelczycy z Zatoki Bengalskiej nie chcą obcych. Indie chronią ich przed kontaktem."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gallery-1491391768-north-sentinel-island.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Gallery-1491391768-north-sentinel-island.jpg",
+          "credit": "Medici82 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Zalesiona wyspa Północny Sentinel otoczona rafą, widok z góry",
+          "caption": "Wyspa Północny Sentinel z lotu ptaka"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "Kino",
+        "initials": "MB",
+        "category": "Film",
+        "hype": 3,
+        "title": "Są filmy kręcone tylko po to, żeby ktoś pomylił je z hitem kinowym. Nazywa się je mockbusterami",
+        "summary": "Mockbustery to tanie produkcje o tytułach i tematach łudząco podobnych do wielkich premier. Wychodzą zwykle w tym samym czasie co oryginał, od razu na DVD.",
+        "body": [
+          "Mockbuster to film zrobiony, by wykorzystać rozgłos wielkiej produkcji o podobnym tytule lub temacie. Nazwa łączy słowa „mock” (kpina, podróbka) i „blockbuster”.",
+          "Takie filmy powstają za małe pieniądze i bardzo szybko, równolegle z oryginałem, a trafiają od razu na rynek wideo mniej więcej wtedy, gdy hit wchodzi do kin."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mockbuster"
+          },
+          {
+            "name": "Grantland",
+            "url": "http://www.grantland.com/story/_/id/8458773/a-look-how-ripoff-factory-called-asylum-makes-mockery-box-office"
+          }
+        ],
+        "caption": {
+          "credit": "The Youth Channel / Wikimedia Commons",
+          "text": "Kolekcja płyt DVD z mockbusterami, czyli tanimi filmami podszywającymi się pod kinowe hity."
+        },
+        "insta": {
+          "tytul": "Są filmy robione tylko po to, żebyś pomylił je z hitem z kina",
+          "opis": "To mockbustery: tanie, szybkie i z tytułem prawie jak oryginał. Wychodzą razem z wielką premierą."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Small_collection_of_mockbuster_DVDs.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Small_collection_of_mockbuster_DVDs.png",
+          "credit": "The Youth Channel / Wikimedia Commons, CC BY 3.0",
+          "alt": "Kilka płyt DVD z mockbusterami",
+          "caption": "Płyty DVD z mockbusterami"
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-18",

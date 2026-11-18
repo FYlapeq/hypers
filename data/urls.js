@@ -2,6 +2,11 @@
 window.HYPERS_URLS = {
  "2026-11-18": {
   "luz": [
+   "artykuly/2026-11-18/gta-6-ma-8-nominacji-do-the-game-awards-w-tym-do-gry-roku-wiedzmin-4.html",
+   "artykuly/2026-11-18/ospanno-przed-premiera-gta-6-opowiedzial-swoja-historie-gta-uratowalo.html",
+   "artykuly/2026-11-18/kai-cenat-pokazal-jak-nagrywal-swoj-trailer-gta-6-kulisy-obejrzalo.html",
+   "artykuly/2026-11-18/gameranx-przypomnial-10-momentow-ktore-uksztaltowaly-gta-6.html",
+   "artykuly/2026-11-18/ludwig-obiecal-oddac-widzom-wszystkie-pieniadze-jesli-go-pokonaja.html",
    "artykuly/2026-11-18/recenzje-gta-6-sa-juz-w-sieci-na-metacritic-gra-ma-99-punktow.html",
    "artykuly/2026-11-18/w-nowej-zelandii-juz-graja-w-gta-6-w-polsce-gra-odblokuje-sie-dzis.html",
    "artykuly/2026-11-18/kaluch-zebral-polskich-tworcow-gta-na-ostatnia-przejazdzke-po-los.html",
@@ -11,6 +16,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-18/the-eyes-of-ghana-juz-na-kanale-ishowspeeda-dokument-mial-750-tys.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-18/jest-gra-w-ktorej-przegrywasz-gdy-uslyszysz-last-christmas-przed.html",
+   "artykuly/2026-11-18/w-1986-r-inzynier-przejal-sygnal-hbo-w-trakcie-filmu-by-zaprotestowac.html",
+   "artykuly/2026-11-18/dwie-swinie-uciekly-z-rzezni-i-przez-tydzien-ukrywaly-sie-przed.html",
+   "artykuly/2026-11-18/na-wyspie-na-oceanie-indyjskim-zyje-plemie-ktore-niemal-nie.html",
+   "artykuly/2026-11-18/sa-filmy-krecone-tylko-po-to-zeby-ktos-pomylil-je-z-hitem-kinowym.html",
    "artykuly/2026-11-18/brytyjski-general-przezyl-dwie-wojny-swiatowe-dwie-katastrofy.html",
    "artykuly/2026-11-18/w-1942-r-holenderski-okret-uciekl-przed-japonczykami-przebrany.html",
    "artykuly/2026-11-18/w-1910-r-zartownisie-przebrani-za-abisynskich-ksiazat-zwiedzili.html",
