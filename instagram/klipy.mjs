@@ -329,6 +329,39 @@ async function czekaj(id, s = 300) {
   throw new Error(`Kontener ${id}: Instagram nie przetworzył pliku w ${s} s`);
 }
 // Post z tymi klipami opublikowany w TYM przebiegu (Meta potrafi zwrócić błąd, a post i tak wychodzi). Powtórki klipów są dozwolone.
+// Gotowe rolki do ręcznego wrzucenia na YouTube Shorts (prośba Filipa 18.11.2026): GitHub Releases, jedno wydanie
+// na dzień („Rolki RRRR-MM-DD”), w nim .mp4 i .txt z tytułem i opisem. Wydania starsze niż 7 dni są usuwane.
+async function gh(sciezka, { method = 'GET', body, host = 'api.github.com', typ } = {}) {
+  const r = await fetch(`https://${host}/repos/${REPO}/${sciezka}`, {
+    method, body, headers: { Authorization: `Bearer ${env.GH_TOKEN}`, Accept: 'application/vnd.github+json', ...(typ && { 'Content-Type': typ }) },
+  });
+  if (r.status === 404 && method === 'GET') return null;
+  if (!r.ok) throw new Error(`GitHub ${method} ${sciezka.split('?')[0]}: ${r.status} ${(await r.text()).slice(0, 200)}`);
+  return r.status === 204 ? {} : r.json();
+}
+async function rolkaDoFolderu(k, tekst, plikMp4) {
+  if (!env.GH_TOKEN) return log('– brak GH_TOKEN, rolka nie trafi do Releases');
+  const dzien = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Warsaw' });
+  const godz = new Date().toLocaleTimeString('pl-PL', { timeZone: 'Europe/Warsaw', hour: '2-digit', minute: '2-digit' }).replace(':', '');
+  const tag = `rolki-${dzien}`;
+  let rel = await gh(`releases/tags/${tag}`);
+  rel ??= await gh('releases', { method: 'POST', typ: 'application/json', body: JSON.stringify({
+    tag_name: tag, target_commitish: 'main', name: `Rolki ${dzien}`, prerelease: true,
+    body: 'Gotowe rolki z klipami GTA 6 do wrzucenia na YouTube Shorts. Do każdego .mp4 jest .txt z tytułem i opisem.' }) });
+  const nazwa = `${godz}-${(k.login ?? k.kanal ?? 'klip').replace(/[^a-z0-9_-]/gi, '')}`;
+  const opisYT = [`TYTUŁ: ${tekst} #shorts`, '', 'OPIS:', tekst, '', `Klip: ${k.kanal ?? k.login} (${k.platforma}) ${k.url}`, 'Więcej klipów z GTA 6: instagram.com/hypers.tech', '', '#gta6 #gtavi #shorts'].join('\n');
+  const up = (n, body, typ) => gh(`releases/${rel.id}/assets?name=${encodeURIComponent(n)}`, { method: 'POST', host: 'uploads.github.com', body, typ });
+  await up(`${nazwa}.mp4`, readFileSync(plikMp4), 'video/mp4');
+  await up(`${nazwa}.txt`, Buffer.from(opisYT + '\n'), 'text/plain; charset=utf-8');
+  log(`Rolka w Releases: ${rel.html_url}`);
+  // Sprzątanie: wydania rolki-* starsze niż 7 dni.
+  const granica = new Date(Date.now() - 7 * 86400_000).toISOString().slice(0, 10);
+  for (const r of (await gh('releases?per_page=50')) ?? []) {
+    const d = r.tag_name.match(/^rolki-(\d{4}-\d{2}-\d{2})$/)?.[1];
+    if (d && d < granica) { await gh(`releases/${r.id}`, { method: 'DELETE' }); await gh(`git/refs/tags/${r.tag_name}`, { method: 'DELETE' }); }
+  }
+}
+
 async function rolkaJuzJest(url, od) {
   try {
     const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp,media_product_type', limit: '20' } });
@@ -451,6 +484,7 @@ async function main() {
       stan.rolki[rolka.klucz] = { media_id: rid, kiedy: new Date().toISOString() };
       commitStanu(stan, `Klipy: rolka ${rid}`);
       log(`Opublikowano rolkę ${rid}.`);
+      await rolkaDoFolderu(rolka, rolka._naglowek, join(dir, 'rolka.mp4')).catch((e) => log(`– rolka nie trafiła do Releases: ${e.message.slice(0, 200)}`));
     } catch (e) {
       await sleep(20_000);
       const p = await rolkaJuzJest(rolka.url, start).catch(() => null);

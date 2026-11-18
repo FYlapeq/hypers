@@ -38,6 +38,7 @@ jobs:
       DRY_RUN: ${{ inputs.tryb == 'proba' && '1' || '0' }}
       KLIPY_NAGLOWKI: ${{ inputs.naglowki }}
       KLIPY_ROLKA: ${{ inputs.rolka }}
+      GH_TOKEN: ${{ github.token }}
       STAN_DIR: ${{ github.workspace }}/klipy-stan
     steps:
       - name: Wyłącznik
