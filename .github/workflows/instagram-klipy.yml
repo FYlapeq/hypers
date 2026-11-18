@@ -1,4 +1,4 @@
-# Posty z klipami GTA 6 na Instagram: karuzela 2 klipów wideo (Twitch/Kick) + slajd „Daj follow”, co 30 minut.
+# Posty z klipami GTA 6 na Instagram, co 30 minut: napis, klip, napis, klip, „Daj follow” (wszystko wideo). Klip max 4 razy.
 # Wywoływany z zewnątrz przez zaplanowane zadanie Claude „Hypers – klipy na Instagram” (workflow_dispatch).
 # ZAKAZ (po blokadzie konta 10.2026): żadnych czekających jobów, żadnego uruchamiania workflowów z workflowów.
 # Szczegóły: instagram/klipy.mjs. Wyłącznik: zmienna repo IG_WLACZONY (ta sama co dla newsów) albo KLIPY_WLACZONE=0.
@@ -11,6 +11,10 @@ on:
         type: choice
         options: ["publikuj", "proba"]
         default: "publikuj"
+      naglowki:
+        description: "JSON {klucz: nagłówek} od zaplanowanego zadania Claude (z kandydaci.json na gałęzi instagram-klipy)"
+        type: string
+        required: false
 permissions:
   contents: write
   actions: none
@@ -28,6 +32,7 @@ jobs:
       TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
       TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
       DRY_RUN: ${{ inputs.tryb == 'proba' && '1' || '0' }}
+      KLIPY_NAGLOWKI: ${{ inputs.naglowki }}
       STAN_DIR: ${{ github.workspace }}/klipy-stan
     steps:
       - name: Wyłącznik

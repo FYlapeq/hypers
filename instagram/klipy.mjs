@@ -12,7 +12,7 @@
 //
 // Zmienne: IG_TOKEN, IG_USER_ID, TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, STAN_DIR (checkout gałęzi instagram-klipy),
 //          DRY_RUN=1 (tylko pliki, bez publikacji), KLIPY_GODZIN (domyślnie 6), KLIPY_MIN_WYSWIETLEN (domyślnie 300).
-import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, mkdirSync, rmSync } from 'node:fs';
 import { join, resolve, dirname } from 'node:path';
 import { tmpdir } from 'node:os';
 import { fileURLToPath } from 'node:url';
@@ -118,29 +118,54 @@ async function zTwitcha() {
 }
 
 const PRIORYTET_JEZYKA = (j) => (j === 'pl' ? 0 : j === 'en' ? 1 : 2);
+// Ile razy klip już poszedł na IG (Filip 18.11.2026: każdy klip najwyżej MAKS_RAZY razy, potem następny najpopularniejszy).
+export const MAKS_RAZY = 4;
+export const razy = (st) => st?.razy ?? (st?.media_id ? 1 : 0);
 export function wybierz(kandydaci, stan, ile = NA_POST) {
-  const ostatni = new Set((stan.posty ?? []).slice(-1).flatMap((p) => p.kanaly ?? []).map((k) => k.toLowerCase()));
-  const wolne = kandydaci.filter((k) => !stan.opublikowane[k.klucz] && (k.reczny || (bezpieczny(k) && (k.wyswietlenia ?? 0) >= MIN_WYSW)));
+  const ostatniPost = (stan.posty ?? []).at(-1);
+  const zOstatniego = new Set(ostatniPost?.klucze ?? []);
+  const wolne = kandydaci.filter((k) => {
+    const st = stan.opublikowane[k.klucz];
+    if (st?.pominiete || razy(st) >= MAKS_RAZY || zOstatniego.has(k.klucz)) return false;
+    return k.reczny || (bezpieczny(k) && (k.wyswietlenia ?? 0) >= MIN_WYSW);
+  });
   const posort = [...wolne.filter((k) => k.reczny), ...wolne.filter((k) => !k.reczny)
-    .sort((a, b) => PRIORYTET_JEZYKA(a.jezyk) - PRIORYTET_JEZYKA(b.jezyk) || b.wyswietlenia - a.wyswietlenia)];
+    .sort((a, b) => b.wyswietlenia - a.wyswietlenia || PRIORYTET_JEZYKA(a.jezyk) - PRIORYTET_JEZYKA(b.jezyk))];
   const out = [];
   for (const k of posort) {
     const kto = (k.login ?? k.kanal ?? '').toLowerCase();
-    if (!k.reczny && (ostatni.has(kto) || out.some((x) => (x.login ?? x.kanal ?? '').toLowerCase() === kto))) continue;
+    if (!k.reczny && out.some((x) => (x.login ?? x.kanal ?? '').toLowerCase() === kto)) continue;
     out.push(k);
     if (out.length === ile) break;
   }
   return out;
 }
 
+// ---------- nagłówki ----------
+// Nagłówek slajdu przed klipem pisze zaplanowane zadanie Claude (input `naglowki` workflow = JSON {klucz: tekst}) na
+// podstawie kandydaci.json z poprzedniego przebiegu. Zapamiętujemy go w stanie, żeby powtórki miały ten sam napis.
+export function naglowek(k, stan) {
+  const n = stan.naglowki?.[k.klucz];
+  if (n) return n;
+  const t = tytulDoOpisu(k.tytul);
+  return `${k.kanal ?? k.login} w GTA 6${t && t.length > 3 ? `: „${t}”` : ''}`;
+}
+function wczytajNaglowki(stan) {
+  try {
+    const n = JSON.parse(env.KLIPY_NAGLOWKI || '{}');
+    for (const [klucz, tekst] of Object.entries(n)) if (typeof tekst === 'string' && tekst.trim()) (stan.naglowki ??= {})[klucz] = tekst.trim().slice(0, 90);
+  } catch (e) { log(`– nagłówki z inputu nieczytelne: ${e.message}`); }
+}
+
 // ---------- wideo ----------
 const b64 = (p) => readFileSync(join(ROOT, p)).toString('base64');
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
-function htmlNakladki(k, nr, ile) {
-  const fonty = `@font-face{font-family:Anton;src:url(data:font/woff2;base64,${b64('fonts/anton-latin.woff2')}) format('woff2');unicode-range:U+0000-00FF}
+const FONTY = () => `@font-face{font-family:Anton;src:url(data:font/woff2;base64,${b64('fonts/anton-latin.woff2')}) format('woff2');unicode-range:U+0000-00FF}
 @font-face{font-family:Anton;src:url(data:font/woff2;base64,${b64('fonts/anton-latin-ext.woff2')}) format('woff2');unicode-range:U+0100-024F}
 @font-face{font-family:WS;src:url(data:font/woff2;base64,${b64('fonts/worksans-latin.woff2')}) format('woff2');unicode-range:U+0000-00FF}
 @font-face{font-family:WS;src:url(data:font/woff2;base64,${b64('fonts/worksans-latin-ext.woff2')}) format('woff2');unicode-range:U+0100-024F}`;
+function htmlNakladki(k, nr, ile) {
+  const fonty = FONTY();
   const zrodlo = k.login ? `${k.platforma.toLowerCase()}.${k.platforma === 'Twitch' ? 'tv' : 'com'}/${k.login}` : k.platforma;
   return `<!doctype html><html><head><meta charset="utf-8"><style>${fonty}
 html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;font-family:WS,sans-serif}
@@ -149,10 +174,21 @@ html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;
 .d{position:absolute;left:64px;right:64px;bottom:70px;display:flex;justify-content:space-between;align-items:flex-end;font:500 32px WS;text-shadow:0 2px 12px rgba(0,0,0,.7)}
 .d b{font-weight:700}.nr{opacity:.85}</style></head><body>
 <div class="g"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="n">${esc(k.kanal ?? k.login ?? 'Klip')}</div></div>
-<div class="d"><span>Klip: <b>${esc(zrodlo)}</b><br>@hypers.tech</span><span class="nr">${nr}/${ile}</span></div></body></html>`;
+<div class="d"><span>Klip: <b>${esc(zrodlo)}</b><br>@hypers.tech</span></div></body></html>`;
 }
 
-async function nakladki(lista, dir) {
+function htmlNaglowka(tekst, k) {
+  const fonty = FONTY();
+  return `<!doctype html><html><head><meta charset="utf-8"><style>${fonty}
+html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;font-family:WS,sans-serif}
+.w{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;padding:0 80px}
+.e{align-self:flex-start;background:#0a84ff;font:600 32px WS;padding:12px 24px;border-radius:999px;letter-spacing:.04em;text-transform:uppercase}
+.t{font:400 104px/1.04 Anton;margin-top:34px;text-transform:uppercase;text-shadow:0 6px 30px rgba(0,0,0,.7)}
+.s{font:600 34px WS;margin-top:36px;opacity:.9}.f{position:absolute;left:80px;bottom:70px;font:500 32px WS;opacity:.85}</style></head><body>
+<div class="w"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="t">${esc(tekst)}</div><div class="s">Klip niżej ➡️</div></div><div class="f">@hypers.tech</div></body></html>`;
+}
+
+async function nakladki(lista, dir, stan) {
   const { chromium } = await import('playwright');
   const b = await chromium.launch();
   const p = await b.newPage({ viewport: { width: 1080, height: 1350 } });
@@ -160,6 +196,9 @@ async function nakladki(lista, dir) {
     await p.setContent(htmlNakladki(k, i + 1, lista.length), { waitUntil: 'load' });
     await p.evaluate(() => document.fonts.ready);
     await p.screenshot({ path: join(dir, `nakladka-${i + 1}.png`), omitBackground: true });
+    await p.setContent(htmlNaglowka(naglowek(k, stan), k), { waitUntil: 'load' });
+    await p.evaluate(() => document.fonts.ready);
+    await p.screenshot({ path: join(dir, `naglowek-${i + 1}.png`), omitBackground: true });
   }
   await b.close();
 }
@@ -175,6 +214,19 @@ export function sprawdzObraz(plik) {
 }
 function czasTrwania(plik) {
   return Number(execFileSync(env.FFPROBE || 'ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', plik], { encoding: 'utf8' }).trim()) || 0;
+}
+// Slajd z napisem: 4 s rozmytego klipu w tle + nagłówek, bez dźwięku (cisza, żeby IG miał ścieżkę audio).
+function slajdNaglowka(wej, nakladka, wyj) {
+  const filtr = '[0:v]fps=30,scale=1080:1350:force_original_aspect_ratio=increase,crop=1080:1350,boxblur=40:6,eq=brightness=-0.42[tlo];[tlo][1:v]overlay=0:0,format=yuv420p[v]';
+  execFileSync(env.FFMPEG || 'ffmpeg', ['-y', '-loglevel', 'error', '-i', wej, '-i', nakladka, '-f', 'lavfi', '-i', 'anullsrc=r=48000:cl=stereo',
+    '-filter_complex', filtr, '-map', '[v]', '-map', '2:a', '-t', '4', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22',
+    '-c:a', 'aac', '-b:a', '64k', '-shortest', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 120_000 });
+}
+// Slajd „Daj follow” jako 4-sekundowe wideo z karty JPEG (Filip: w postach z klipami tylko wideo).
+function slajdObrazu(jpg, wyj) {
+  execFileSync(env.FFMPEG || 'ffmpeg', ['-y', '-loglevel', 'error', '-loop', '1', '-i', jpg, '-f', 'lavfi', '-i', 'anullsrc=r=48000:cl=stereo',
+    '-vf', 'fps=30,scale=1080:1350,format=yuv420p', '-t', '4', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22',
+    '-c:a', 'aac', '-b:a', '64k', '-shortest', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 120_000 });
 }
 function zmontuj(wej, nakladka, wyj) {
   const filtr = '[0:v]fps=30,scale=1080:1350:force_original_aspect_ratio=increase,crop=1080:1350,boxblur=30:5,eq=brightness=-0.28[tlo];'
@@ -194,11 +246,10 @@ export function opisPosta(lista, konta = kontaIG()) {
   const pozycje = lista.map((k, i) => {
     const ig = mapa.get(klucz(k.kanal)) ?? mapa.get(klucz(k.login));
     const kto = `${k.kanal ?? k.login}${ig ? ` @${ig}` : ''}`;
-    const t = k.opis ? k.opis : tytulDoOpisu(k.tytul) ? `„${k.tytul}”` : null;
-    return `${i + 1}. ${kto} (${k.platforma})${t ? `: ${t}` : ''}`;
+    return `${i + 1}. ${k._naglowek ?? kto} (${kto}, ${k.platforma})`;
   });
   return [
-    'GTA 6 na streamach: 2 klipy z ostatnich godzin 🎮 Przewiń ➡️',
+    'GTA 6 na streamach: najgorętsze klipy 🎮 Przewiń ➡️',
     pozycje.join('\n'),
     `Klipy: ${lista.map((k) => k.url).join(' , ')}`,
     'Klipy co 30 minut, newsy co godzinę. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
@@ -226,18 +277,25 @@ async function czekaj(id, s = 300) {
   }
   throw new Error(`Kontener ${id}: Instagram nie przetworzył pliku w ${s} s`);
 }
-async function postyZKlipem(urls) {
+// Post z tymi klipami opublikowany w TYM przebiegu (Meta potrafi zwrócić błąd, a post i tak wychodzi). Powtórki klipów są dozwolone.
+async function postyZKlipem(urls, od) {
   try {
     const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp', limit: '20' } });
-    return data.find((p) => urls.some((u) => p.caption?.includes(u))) ?? null;
+    return data.find((p) => new Date(p.timestamp) >= new Date(od) && urls.every((u) => p.caption?.includes(u))) ?? null;
   } catch { return undefined; }
 }
 
 async function main() {
   const stan = wczytajStan();
-  stan.opublikowane ??= {}; stan.posty ??= [];
+  stan.opublikowane ??= {}; stan.posty ??= []; stan.naglowki ??= {};
+  wczytajNaglowki(stan);
+  const start = new Date(Date.now() - 60_000).toISOString();
   const kandydaci = [...reczne(), ...(await zTwitcha())];
   log(`Kandydaci: ${kandydaci.length}`);
+  // Lista dla zaplanowanego zadania, które pisze nagłówki na kolejny przebieg (najpopularniejsze bez nagłówka).
+  writeFileSync(join(STAN_DIR, 'kandydaci.json'), JSON.stringify(wybierz(kandydaci, stan, 30)
+    .map(({ klucz, kanal, login, platforma, tytul, wyswietlenia, jezyk, url }) => ({ klucz, kanal, login, platforma, tytul, wyswietlenia, jezyk, url,
+      razy: razy(stan.opublikowane[klucz]), naglowek: stan.naglowki[klucz] ?? null })), null, 1) + '\n');
   const dir = join(STAN_DIR, 'klipy');
   mkdirSync(dir, { recursive: true });
   mkdirSync(TMP, { recursive: true });
@@ -248,25 +306,30 @@ async function main() {
   for (const k of lista) {
     if (gotowe.length === NA_POST) break;
     if (gotowe.some((x) => !k.reczny && (x.login ?? x.kanal) === (k.login ?? k.kanal))) continue;
-    const surowy = join(TMP, `surowy-${gotowe.length + 1}.mp4`);
+    const surowy = join(TMP, `surowy-${k.klucz.replace(/[^a-z0-9_-]/gi, '_')}.mp4`);
+    rmSync(surowy, { force: true });
     try {
       pobierz(k, surowy);
       const s = czasTrwania(surowy);
       if (!k.reczny && s > 61) { log(`– za długi (${s} s): ${k.url}`); continue; }
       // Filtr obrazu (NudeNet, instagram/nagosc.py): każdy klip, także ręczny. Błąd sprawdzenia = klip odpada.
       const ocena = sprawdzObraz(surowy);
-      if (ocena) { log(`– odrzucony przez filtr obrazu (${ocena}): ${k.url}`); stan.opublikowane[k.klucz] = { pominiete: `filtr obrazu: ${ocena}`.slice(0, 200) }; continue; }
-      gotowe.push({ ...k, surowy });
+      if (ocena) { log(`– odrzucony przez filtr obrazu (${ocena}): ${k.url}`); stan.opublikowane[k.klucz] = { ...stan.opublikowane[k.klucz], pominiete: `filtr obrazu: ${ocena}`.slice(0, 200) }; continue; }
+      gotowe.push({ ...k, surowy, _naglowek: naglowek(k, stan) });
       log(`✓ ${k.kanal ?? k.login} (${k.platforma}) ${k.url} [${k.wyswietlenia ?? 'ręczny'} wyśw.] „${k.tytul}”`);
     } catch (e) { log(`– nie udało się pobrać ${k.url}: ${e.message.slice(0, 200)}`); stan.opublikowane[k.klucz] = { pominiete: 'pobieranie' }; }
   }
   if (gotowe.length < NA_POST) { log(`Za mało klipów (${gotowe.length}/${NA_POST}), post czeka na kolejne uruchomienie.`); commitStanu(stan, 'Klipy: brak posta'); return; }
 
-  await nakladki(gotowe, TMP);
-  gotowe.forEach((k, i) => zmontuj(k.surowy, join(TMP, `nakladka-${i + 1}.png`), join(dir, `klip-${i + 1}.mp4`)));
+  await nakladki(gotowe, TMP, stan);
+  gotowe.forEach((k, i) => {
+    slajdNaglowka(k.surowy, join(TMP, `naglowek-${i + 1}.png`), join(dir, `${i + 1}a-napis.mp4`));
+    zmontuj(k.surowy, join(TMP, `nakladka-${i + 1}.png`), join(dir, `${i + 1}b-klip.mp4`));
+  });
   const { renderuj } = await import('./karta.mjs');
   const { harmonogram } = await import('./slot.mjs');
-  await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Klipy co 30 minut, newsy co godzinę', plik: join(dir, 'zz-follow.jpg') }]);
+  await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Klipy co 30 minut, newsy co godzinę', plik: join(TMP, 'follow.jpg') }]);
+  slajdObrazu(join(TMP, 'follow.jpg'), join(dir, 'zz-follow.mp4'));
   const opis = opisPosta(gotowe);
   writeFileSync(join(dir, 'opis.txt'), opis + '\n');
   log(`\n${opis}\n`);
@@ -281,29 +344,30 @@ async function main() {
     env.IG_USER_ID = ja.user_id;
     log(`Konto: @${ja.username} (${ja.user_id})`);
   }
-  const juz = await postyZKlipem(gotowe.map((k) => k.url));
+  const juz = await postyZKlipem(gotowe.map((k) => k.url), start);
   if (juz === undefined) throw new Error('Nie udało się sprawdzić profilu IG, nie publikuję (żeby nie zdublować).');
   let id = juz?.id;
   if (!id) {
     try {
       const dzieci = [];
-      for (const [i] of gotowe.entries())
-        dzieci.push((await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'VIDEO', video_url: raw(`klip-${i + 1}.mp4`), is_carousel_item: 'true' } })).id);
-      dzieci.push((await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { image_url: raw('zz-follow.jpg'), is_carousel_item: 'true' } })).id);
+      // Kolejność slajdów: napis 1, klip 1, napis 2, klip 2, follow. Wszystko jako wideo.
+      const pliki = [...gotowe.flatMap((_, i) => [`${i + 1}a-napis.mp4`, `${i + 1}b-klip.mp4`]), 'zz-follow.mp4'];
+      for (const f of pliki)
+        dzieci.push((await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'VIDEO', video_url: raw(f), is_carousel_item: 'true' } })).id);
       for (const d of dzieci) await czekaj(d);
       const { id: kont } = await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'CAROUSEL', children: dzieci.join(','), caption: opis } });
       await czekaj(kont, 120);
       ({ id } = await ig(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kont } }));
     } catch (e) {
       await sleep(20_000);
-      const p = await postyZKlipem(gotowe.map((k) => k.url));
+      const p = await postyZKlipem(gotowe.map((k) => k.url), start);
       if (!p) { commitStanu(stan, 'Klipy: błąd'); throw e; }
       id = p.id; log(`Błąd API (${e.message.slice(0, 150)}), ale post jest na profilu.`);
     }
   }
   const kiedy = new Date().toISOString();
-  for (const k of gotowe) stan.opublikowane[k.klucz] = { media_id: id, kiedy, url: k.url };
-  stan.posty = [...stan.posty, { media_id: id, kiedy, kanaly: gotowe.map((k) => k.login ?? k.kanal) }].slice(-200);
+  for (const k of gotowe) stan.opublikowane[k.klucz] = { media_id: id, kiedy, url: k.url, razy: razy(stan.opublikowane[k.klucz]) + 1 };
+  stan.posty = [...stan.posty, { media_id: id, kiedy, kanaly: gotowe.map((k) => k.login ?? k.kanal), klucze: gotowe.map((k) => k.klucz) }].slice(-200);
   commitStanu(stan, `Klipy: opublikowano ${id}`);
   log(`Opublikowano post ${id}.`);
 }
