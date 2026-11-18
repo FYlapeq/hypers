@@ -48,7 +48,13 @@ function wczytajStan() {
 const git = (...a) => execFileSync('git', ['-C', STAN_DIR, ...a], { encoding: 'utf8' }).trim();
 function commitStanu(stan, wiadomosc) {
   writeFileSync(STAN_PLIK, JSON.stringify(stan, null, 1) + '\n');
-  if (DRY) return null;
+  if (DRY) {
+    // Próba: pliki na osobną gałąź podglądu (nadpisywana), stan bez zmian.
+    git('add', '-A');
+    if (git('status', '--porcelain') !== '') git('commit', '-q', '-m', wiadomosc);
+    git('push', '-q', '--force', 'origin', 'HEAD:instagram-klipy-podglad');
+    return null;
+  }
   git('add', '-A');
   if (git('status', '--porcelain') !== '') git('commit', '-q', '-m', wiadomosc);
   git('push', '-q', '--force', 'origin', 'HEAD:instagram-klipy');
