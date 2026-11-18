@@ -123,7 +123,8 @@ export const MAKS_RAZY = 4;
 export const razy = (st) => st?.razy ?? (st?.media_id ? 1 : 0);
 export function wybierz(kandydaci, stan, ile = NA_POST) {
   const ostatniPost = (stan.posty ?? []).at(-1);
-  const zOstatniego = new Set(ostatniPost?.klucze ?? []);
+  // Starsze wpisy nie mają `klucze`: wtedy klipy ostatniego posta szukamy po media_id.
+  const zOstatniego = new Set(ostatniPost?.klucze ?? Object.entries(stan.opublikowane).filter(([, v]) => ostatniPost && v.media_id === ostatniPost.media_id).map(([k]) => k));
   const wolne = kandydaci.filter((k) => {
     const st = stan.opublikowane[k.klucz];
     if (st?.pominiete || razy(st) >= MAKS_RAZY || zOstatniego.has(k.klucz)) return false;
@@ -147,8 +148,7 @@ export function wybierz(kandydaci, stan, ile = NA_POST) {
 export function naglowek(k, stan) {
   const n = stan.naglowki?.[k.klucz];
   if (n) return n;
-  const t = tytulDoOpisu(k.tytul);
-  return `${k.kanal ?? k.login} w GTA 6${t && t.length > 3 ? `: „${t}”` : ''}`;
+  return `${k.kanal ?? k.login} w GTA 6`;
 }
 function wczytajNaglowki(stan) {
   try {
@@ -185,7 +185,7 @@ html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;
 .e{align-self:flex-start;background:#0a84ff;font:600 32px WS;padding:12px 24px;border-radius:999px;letter-spacing:.04em;text-transform:uppercase}
 .t{font:400 104px/1.04 Anton;margin-top:34px;text-transform:uppercase;text-shadow:0 6px 30px rgba(0,0,0,.7)}
 .s{font:600 34px WS;margin-top:36px;opacity:.9}.f{position:absolute;left:80px;bottom:70px;font:500 32px WS;opacity:.85}</style></head><body>
-<div class="w"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="t">${esc(tekst)}</div><div class="s">Klip niżej ➡️</div></div><div class="f">@hypers.tech</div></body></html>`;
+<div class="w"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="t">${esc(tekst)}</div><div class="s">Przesuń ➡️</div></div><div class="f">@hypers.tech</div></body></html>`;
 }
 
 async function nakladki(lista, dir, stan) {
