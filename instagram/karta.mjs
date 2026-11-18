@@ -250,7 +250,9 @@ export async function pobierzKadr(news) {
   for (const url of [news.image.src, news.image.fallback].filter(Boolean)) {
     try {
       const u = new URL(url);
-      if (u.protocol !== 'https:' || (news.image.kind === 'kadr' && u.hostname !== 'i.ytimg.com')
+      // Kadr: miniatura YouTube albo miniatura klipu Twitch (static-cdn.jtvnw.net/twitch-video-assets/, tylko newsy z tylko-ig.json, nie strona).
+      const kadrOK = u.hostname === 'i.ytimg.com' || (u.hostname === 'static-cdn.jtvnw.net' && u.pathname.startsWith('/twitch-video-assets/'));
+      if (u.protocol !== 'https:' || (news.image.kind === 'kadr' && !kadrOK)
         || (news.image.kind === 'wolne' && u.hostname !== 'upload.wikimedia.org')) continue;
       // Wikimedia wymaga opisowego User-Agenta
       const r = await fetch(u, { signal: AbortSignal.timeout(15000), headers: { 'User-Agent': 'HypersBot/1.0 (https://hypers.tech; kontakt@hypers.tech)' } });

@@ -42,7 +42,24 @@ function wczytaj() {
   const ctx = { window: {} };
   vm.runInNewContext(readFileSync(join(ROOT, 'data/editions.js'), 'utf8'), ctx);
   vm.runInNewContext(readFileSync(join(ROOT, 'data/urls.js'), 'utf8'), ctx);
-  return { E: ctx.window.HYPERS_EDITIONS, U: ctx.window.HYPERS_URLS };
+  return dolaczTylkoIG(ctx.window.HYPERS_EDITIONS, ctx.window.HYPERS_URLS);
+}
+
+// Newsy tylko na Instagram (prośba Filipa 18.11.2026): instagram/tylko-ig.json = { "RRRR-MM-DD": [news, ...] }.
+// Nie trafiają na stronę; tu dochodzą na początek sekcji Na luzie danego dnia, ze ścieżką tylko-ig/RRRR-MM-DD/<slug>.html.
+export const TYLKO_IG = 'tylko-ig/';
+export function dolaczTylkoIG(E, U) {
+  const plik = join(ROOT, 'instagram/tylko-ig.json');
+  if (!existsSync(plik)) return { E, U };
+  const dane = JSON.parse(readFileSync(plik, 'utf8'));
+  for (const [data, lista] of Object.entries(dane)) {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(data) || !Array.isArray(lista) || !lista.length) continue;
+    E[data] ??= {}; U[data] ??= {};
+    const sciezki = lista.map((n, i) => `${TYLKO_IG}${data}/${n.slug || `news-${i + 1}`}.html`);
+    E[data].luz = [...lista.map((n) => ({ slot: '15:00', ...n })), ...(E[data].luz ?? [])];
+    U[data].luz = [...sciezki, ...(U[data].luz ?? [])];
+  }
+  return { E, U };
 }
 
 // Wszystkie newsy z obecnych sekcji, w kolejności publikacji na IG:
@@ -115,7 +132,7 @@ export function opisKaruzeli(lista) {
     '',
     zrodla && `Źródła: ${zrodla}`,
     kadry && `Kadry i zdjęcia: ${kadry}`,
-    'Więcej szczegółów i linki do źródeł: hypers.tech (link w bio)',
+    lista.every((x) => x.sciezka?.startsWith(TYLKO_IG)) ? 'Więcej newsów: hypers.tech (link w bio)' : 'Więcej szczegółów i linki do źródeł: hypers.tech (link w bio)',
     '',
     ['#hypers', ...tagi.filter((t) => t !== '#hypers')].slice(0, 15).join(' '),
   ].filter((x) => x !== false && x !== undefined && x !== null).join('\n');
