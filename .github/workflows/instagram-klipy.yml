@@ -1,0 +1,65 @@
+# Posty z klipami GTA 6 na Instagram: karuzela 2 klipów wideo (Twitch/Kick) + slajd „Daj follow”, co 30 minut.
+# Wywoływany z zewnątrz przez zaplanowane zadanie Claude „Hypers – klipy na Instagram” (workflow_dispatch).
+# ZAKAZ (po blokadzie konta 10.2026): żadnych czekających jobów, żadnego uruchamiania workflowów z workflowów.
+# Szczegóły: instagram/klipy.mjs. Wyłącznik: zmienna repo IG_WLACZONY (ta sama co dla newsów) albo KLIPY_WLACZONE=0.
+name: Instagram klipy
+on:
+  workflow_dispatch:
+    inputs:
+      tryb:
+        description: "publikuj = post z 2 klipami, proba = tylko pliki na gałęzi instagram-klipy (bez publikacji)"
+        type: choice
+        options: ["publikuj", "proba"]
+        default: "publikuj"
+permissions:
+  contents: write
+  actions: none
+concurrency:
+  group: instagram-klipy
+  cancel-in-progress: false
+
+jobs:
+  klipy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+      TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+      DRY_RUN: ${{ inputs.tryb == 'proba' && '1' || '0' }}
+      STAN_DIR: ${{ github.workspace }}/klipy-stan
+    steps:
+      - name: Wyłącznik
+        id: wl
+        run: |
+          if [ "$DRY_RUN" = "1" ] || { [ "${{ vars.IG_WLACZONY }}" = "1" ] && [ "${{ vars.KLIPY_WLACZONE }}" != "0" ]; }; then echo "dziala=1" >> "$GITHUB_OUTPUT"
+          else echo "Klipy wyłączone (IG_WLACZONY != 1 albo KLIPY_WLACZONE = 0)." >> "$GITHUB_STEP_SUMMARY"; fi
+      - uses: actions/checkout@v4
+        if: steps.wl.outputs.dziala == '1'
+      - name: Stan z gałęzi instagram-klipy
+        if: steps.wl.outputs.dziala == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$STAN_DIR" && cd "$STAN_DIR"
+          git init -q -b instagram-klipy
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin instagram-klipy; then git checkout -q FETCH_HEAD -- klipy.json && echo "Stan wczytany." || echo "Brak stanu."; fi
+      - uses: actions/setup-node@v4
+        if: steps.wl.outputs.dziala == '1'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: instagram/package-lock.json
+      - name: Zależności (Chromium, ffmpeg, yt-dlp)
+        if: steps.wl.outputs.dziala == '1'
+        run: |
+          cd instagram && npm ci --no-audit --no-fund && npx playwright install --with-deps chromium && cd ..
+          sudo apt-get install -y -qq ffmpeg > /dev/null
+          pipx install -q yt-dlp || pip install -q --user yt-dlp
+      - name: Klipy
+        if: steps.wl.outputs.dziala == '1'
+        run: node instagram/klipy.mjs

@@ -1,0 +1,290 @@
+// Posty z klipami GTA 6 na Instagram (prośba Filipa 18.11.2026): karuzela = 2 klipy wideo (Twitch, Kick) + slajd „Daj follow”.
+// Uruchamiane przez .github/workflows/instagram-klipy.yml co 30 min (zaplanowane zadanie Claude, workflow_dispatch).
+//
+// Skąd klipy, w tej kolejności:
+//   1. instagram/klipy-reczne.json: linki do klipów, które Filip zrobił sam (Twitch albo Kick), najstarsze pierwsze.
+//   2. Twitch Helix API (oficjalne, token aplikacji z TWITCH_CLIENT_ID/TWITCH_CLIENT_SECRET): najpopularniejsze klipy
+//      z kategorii Grand Theft Auto VI z ostatnich KLIPY_GODZIN godzin, najpierw po polsku, potem po angielsku, potem reszta.
+// Filtr bezpieczeństwa (zasady IG): klip do 60 s, bez słów z KLIPY_STOP w tytule (nagość, wulgaryzmy, wyzwiska),
+// bez ocenzurowanych przekleństw (***), każdy streamer najwyżej raz na post i nie w dwóch postach z rzędu.
+// Wideo: kadr 1080x1350 (4:5 jak karty Hypers), rozmyte tło z tego samego klipu, klip na środku, u góry nazwa streamera,
+// na dole skąd klip. Pliki idą na gałąź instagram-klipy (orphan, nadpisywana), Instagram pobiera je z raw.githubusercontent.com.
+//
+// Zmienne: IG_TOKEN, IG_USER_ID, TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, STAN_DIR (checkout gałęzi instagram-klipy),
+//          DRY_RUN=1 (tylko pliki, bez publikacji), KLIPY_GODZIN (domyślnie 6), KLIPY_MIN_WYSWIETLEN (domyślnie 300).
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
+import { join, resolve, dirname } from 'node:path';
+import { tmpdir } from 'node:os';
+import { fileURLToPath } from 'node:url';
+import { execFileSync } from 'node:child_process';
+
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const env = process.env;
+const DRY = env.DRY_RUN === '1';
+const STAN_DIR = resolve(env.STAN_DIR || join(ROOT, 'klipy-stan'));
+const STAN_PLIK = join(STAN_DIR, 'klipy.json');
+const REPO = env.GITHUB_REPOSITORY || 'FYlapeq/hypers';
+const IG_API = 'https://graph.instagram.com/v25.0';
+const GRA = 'Grand Theft Auto VI';
+const GODZIN = Number(env.KLIPY_GODZIN || 6);
+const MIN_WYSW = Number(env.KLIPY_MIN_WYSWIETLEN || 300);
+const NA_POST = 2;
+const TMP = join(tmpdir(), 'hypers-klipy');
+const MAKS_S = 59;
+const log = (...a) => console.log(...a);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Słowa, przez które klip nie idzie na IG (nagość, seks, wyzwiska). Sprawdzane w tytule i nazwie kanału.
+export const KLIPY_STOP = /strip|стрип|naked|nude|nudes|nsfw|boob|tits|titt|сис|голая|секс|\bsex|porn|порн|18\+|hooters|onlyfans|nigg|negr|faggot|pedał|cwel|retard|kurw|chuj|huj|pizd|jeb|fuck|shit|сук|бля|хуй|пизд|ебат|жоп/i;
+// Automatycznie bierzemy tylko klipy z tytułem w alfabecie łacińskim: filtr słów nie działa na tytułach, których nie umiemy sprawdzić.
+export const bezpieczny = (k) => !KLIPY_STOP.test(`${k.tytul} ${k.kanal}`) && !/\*{2,}/.test(k.tytul) && (k.czas ?? 0) <= 60 && !!tytulDoOpisu(k.tytul);
+// Tytuł klipu (napisany przez widza) wstawiamy do opisu tylko, gdy jest krótki i w alfabecie łacińskim.
+export const tytulDoOpisu = (t) => (t && t.length <= 80 && /^[\p{Script=Latin}\p{N}\p{P}\p{Zs}\p{Emoji_Presentation}]+$/u.test(t) ? t : null);
+
+// ---------- stan ----------
+function wczytajStan() {
+  return existsSync(STAN_PLIK) ? JSON.parse(readFileSync(STAN_PLIK, 'utf8')) : { opublikowane: {}, posty: [] };
+}
+const git = (...a) => execFileSync('git', ['-C', STAN_DIR, ...a], { encoding: 'utf8' }).trim();
+function commitStanu(stan, wiadomosc) {
+  writeFileSync(STAN_PLIK, JSON.stringify(stan, null, 1) + '\n');
+  if (DRY) return null;
+  git('add', '-A');
+  if (git('status', '--porcelain') !== '') git('commit', '-q', '-m', wiadomosc);
+  git('push', '-q', '--force', 'origin', 'HEAD:instagram-klipy');
+  return git('rev-parse', 'HEAD');
+}
+
+// ---------- źródła klipów ----------
+export function klipRecznie(url) {
+  const u = new URL(url);
+  const host = u.hostname.replace(/^www\./, '');
+  let m;
+  if (host === 'clips.twitch.tv') return { klucz: `twitch:${u.pathname.slice(1)}`, url, platforma: 'Twitch', kanal: null };
+  if (host.endsWith('twitch.tv') && (m = u.pathname.match(/^\/([^/]+)\/clip\/([^/?]+)/)))
+    return { klucz: `twitch:${m[2]}`, url, platforma: 'Twitch', kanal: m[1], login: m[1] };
+  if (host === 'kick.com' && (m = u.pathname.match(/^\/([^/]+)\/clips\/([^/?]+)/)))
+    return { klucz: `kick:${m[2]}`, url, platforma: 'Kick', kanal: m[1], login: m[1] };
+  if (host === 'kick.com' && (m = u.pathname.match(/^\/([^/]+)\/?$/)) && u.searchParams.get('clip'))
+    return { klucz: `kick:${u.searchParams.get('clip')}`, url, platforma: 'Kick', kanal: m[1], login: m[1] };
+  throw new Error(`Nieznany link do klipu: ${url}`);
+}
+
+function reczne() {
+  const plik = join(ROOT, 'instagram/klipy-reczne.json');
+  if (!existsSync(plik)) return [];
+  const lista = JSON.parse(readFileSync(plik, 'utf8'));
+  return lista.flatMap((x) => {
+    const o = typeof x === 'string' ? { url: x } : x;
+    try { return [{ ...klipRecznie(o.url), tytul: o.opis ?? '', reczny: true, opis: o.opis ?? null, czas: 0, ...(o.kto && { kanal: o.kto }) }]; }
+    catch (e) { log(`– ${e.message}`); return []; }
+  });
+}
+
+async function twitch(sciezka, token) {
+  const r = await fetch(`https://api.twitch.tv/helix/${sciezka}`, {
+    headers: { 'Client-Id': env.TWITCH_CLIENT_ID, Authorization: `Bearer ${token}` }, signal: AbortSignal.timeout(20000),
+  });
+  if (!r.ok) throw new Error(`Twitch ${sciezka.split('?')[0]}: ${r.status} ${await r.text()}`);
+  return r.json();
+}
+
+async function zTwitcha() {
+  if (!env.TWITCH_CLIENT_ID || !env.TWITCH_CLIENT_SECRET) { log('Brak sekretów TWITCH_CLIENT_ID/TWITCH_CLIENT_SECRET: tylko klipy ręczne.'); return []; }
+  const t = await fetch('https://id.twitch.tv/oauth2/token', {
+    method: 'POST', body: new URLSearchParams({ client_id: env.TWITCH_CLIENT_ID, client_secret: env.TWITCH_CLIENT_SECRET, grant_type: 'client_credentials' }),
+  }).then((r) => r.json());
+  if (!t.access_token) throw new Error(`Twitch token: ${JSON.stringify(t)}`);
+  const { data: [gra] = [] } = await twitch(`games?name=${encodeURIComponent(GRA)}`, t.access_token);
+  if (!gra) throw new Error(`Twitch: nie ma kategorii ${GRA}`);
+  const od = new Date(Date.now() - GODZIN * 3600_000).toISOString();
+  const { data = [] } = await twitch(`clips?game_id=${gra.id}&started_at=${od}&ended_at=${new Date().toISOString()}&first=100`, t.access_token);
+  const ids = [...new Set(data.map((c) => c.broadcaster_id))];
+  const loginy = new Map();
+  for (let i = 0; i < ids.length; i += 100) {
+    const { data: u = [] } = await twitch(`users?${ids.slice(i, i + 100).map((id) => `id=${id}`).join('&')}`, t.access_token);
+    for (const x of u) loginy.set(x.id, x.login);
+  }
+  return data.map((c) => ({
+    klucz: `twitch:${c.id}`, url: c.url, platforma: 'Twitch', kanal: c.broadcaster_name, login: loginy.get(c.broadcaster_id) ?? c.broadcaster_name.toLowerCase(),
+    tytul: c.title, wyswietlenia: c.view_count, czas: c.duration, jezyk: c.language, utworzono: c.created_at,
+  }));
+}
+
+const PRIORYTET_JEZYKA = (j) => (j === 'pl' ? 0 : j === 'en' ? 1 : 2);
+export function wybierz(kandydaci, stan, ile = NA_POST) {
+  const ostatni = new Set((stan.posty ?? []).slice(-1).flatMap((p) => p.kanaly ?? []).map((k) => k.toLowerCase()));
+  const wolne = kandydaci.filter((k) => !stan.opublikowane[k.klucz] && (k.reczny || (bezpieczny(k) && (k.wyswietlenia ?? 0) >= MIN_WYSW)));
+  const posort = [...wolne.filter((k) => k.reczny), ...wolne.filter((k) => !k.reczny)
+    .sort((a, b) => PRIORYTET_JEZYKA(a.jezyk) - PRIORYTET_JEZYKA(b.jezyk) || b.wyswietlenia - a.wyswietlenia)];
+  const out = [];
+  for (const k of posort) {
+    const kto = (k.login ?? k.kanal ?? '').toLowerCase();
+    if (!k.reczny && (ostatni.has(kto) || out.some((x) => (x.login ?? x.kanal ?? '').toLowerCase() === kto))) continue;
+    out.push(k);
+    if (out.length === ile) break;
+  }
+  return out;
+}
+
+// ---------- wideo ----------
+const b64 = (p) => readFileSync(join(ROOT, p)).toString('base64');
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
+function htmlNakladki(k, nr, ile) {
+  const fonty = `@font-face{font-family:Anton;src:url(data:font/woff2;base64,${b64('fonts/anton-latin.woff2')}) format('woff2');unicode-range:U+0000-00FF}
+@font-face{font-family:Anton;src:url(data:font/woff2;base64,${b64('fonts/anton-latin-ext.woff2')}) format('woff2');unicode-range:U+0100-024F}
+@font-face{font-family:WS;src:url(data:font/woff2;base64,${b64('fonts/worksans-latin.woff2')}) format('woff2');unicode-range:U+0000-00FF}
+@font-face{font-family:WS;src:url(data:font/woff2;base64,${b64('fonts/worksans-latin-ext.woff2')}) format('woff2');unicode-range:U+0100-024F}`;
+  const zrodlo = k.login ? `${k.platforma.toLowerCase()}.${k.platforma === 'Twitch' ? 'tv' : 'com'}/${k.login}` : k.platforma;
+  return `<!doctype html><html><head><meta charset="utf-8"><style>${fonty}
+html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;font-family:WS,sans-serif}
+.g{position:absolute;left:64px;right:64px;top:70px}.e{display:inline-block;background:#0a84ff;color:#fff;font:600 30px WS;padding:10px 20px;border-radius:999px;letter-spacing:.04em;text-transform:uppercase}
+.n{font:400 96px/1.05 Anton;margin-top:26px;text-shadow:0 4px 24px rgba(0,0,0,.6);text-transform:uppercase;word-break:break-word}
+.d{position:absolute;left:64px;right:64px;bottom:70px;display:flex;justify-content:space-between;align-items:flex-end;font:500 32px WS;text-shadow:0 2px 12px rgba(0,0,0,.7)}
+.d b{font-weight:700}.nr{opacity:.85}</style></head><body>
+<div class="g"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="n">${esc(k.kanal ?? k.login ?? 'Klip')}</div></div>
+<div class="d"><span>Klip: <b>${esc(zrodlo)}</b><br>@hypers.tech</span><span class="nr">${nr}/${ile}</span></div></body></html>`;
+}
+
+async function nakladki(lista, dir) {
+  const { chromium } = await import('playwright');
+  const b = await chromium.launch();
+  const p = await b.newPage({ viewport: { width: 1080, height: 1350 } });
+  for (const [i, k] of lista.entries()) {
+    await p.setContent(htmlNakladki(k, i + 1, lista.length), { waitUntil: 'load' });
+    await p.evaluate(() => document.fonts.ready);
+    await p.screenshot({ path: join(dir, `nakladka-${i + 1}.png`), omitBackground: true });
+  }
+  await b.close();
+}
+
+function pobierz(k, plik) {
+  execFileSync('yt-dlp', ['-q', '--no-warnings', '--no-playlist', '-f', 'best[ext=mp4]/best', '-o', plik, k.url], { stdio: 'inherit', timeout: 180_000 });
+}
+function czasTrwania(plik) {
+  return Number(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', plik], { encoding: 'utf8' }).trim()) || 0;
+}
+function zmontuj(wej, nakladka, wyj) {
+  const filtr = '[0:v]fps=30,scale=1080:1350:force_original_aspect_ratio=increase,crop=1080:1350,boxblur=30:5,eq=brightness=-0.28[tlo];'
+    + '[0:v]fps=30,scale=1080:-2[klip];[tlo][klip]overlay=(W-w)/2:(H-h)/2[v1];[v1][1:v]overlay=0:0,format=yuv420p[v]';
+  execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', wej, '-i', nakladka, '-filter_complex', filtr, '-map', '[v]', '-map', '0:a?',
+    '-t', String(MAKS_S), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high', '-level', '4.1',
+    '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 300_000 });
+}
+
+// ---------- opis ----------
+function kontaIG() {
+  try { return JSON.parse(readFileSync(join(ROOT, 'instagram/konta.json'), 'utf8')); } catch { return {}; }
+}
+export function opisPosta(lista, konta = kontaIG()) {
+  const klucz = (s) => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+  const mapa = new Map(Object.entries(konta).map(([k, v]) => [klucz(k), v]));
+  const pozycje = lista.map((k, i) => {
+    const ig = mapa.get(klucz(k.kanal)) ?? mapa.get(klucz(k.login));
+    const kto = `${k.kanal ?? k.login}${ig ? ` @${ig}` : ''}`;
+    const t = k.opis || tytulDoOpisu(k.tytul);
+    return `${i + 1}. ${kto} (${k.platforma})${t ? `: „${t}”` : ''}`;
+  });
+  return [
+    'GTA 6 na streamach: 2 klipy z ostatnich godzin 🎮 Przewiń ➡️',
+    pozycje.join('\n'),
+    `Klipy: ${lista.map((k) => k.url).join(' , ')}`,
+    'Klipy co 30 minut, newsy co godzinę. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
+    '#gta6 #gtavi #grandtheftauto6 #twitch #kick #streamer #hypers',
+  ].join('\n\n');
+}
+
+// ---------- Instagram ----------
+async function ig(sciezka, { method = 'GET', params = {} } = {}) {
+  const url = new URL(`${IG_API}/${sciezka}`);
+  const o = { method, headers: { Authorization: `Bearer ${env.IG_TOKEN}` } };
+  if (method === 'GET') for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v);
+  else o.body = new URLSearchParams(params);
+  const r = await fetch(url, o);
+  const j = await r.json().catch(() => ({}));
+  if (!r.ok || j.error) throw new Error(`Instagram API ${sciezka}: ${r.status} ${j.error?.message ?? JSON.stringify(j)}`);
+  return j;
+}
+async function czekaj(id, s = 300) {
+  for (let i = 0; i < s / 10; i++) {
+    const { status_code, status } = await ig(id, { params: { fields: 'status_code,status' } });
+    if (status_code === 'FINISHED') return;
+    if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error(`Kontener ${id}: ${status_code} ${status ?? ''}`);
+    await sleep(10_000);
+  }
+  throw new Error(`Kontener ${id}: Instagram nie przetworzył pliku w ${s} s`);
+}
+async function postyZKlipem(urls) {
+  try {
+    const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp', limit: '20' } });
+    return data.find((p) => urls.some((u) => p.caption?.includes(u))) ?? null;
+  } catch { return undefined; }
+}
+
+async function main() {
+  const stan = wczytajStan();
+  stan.opublikowane ??= {}; stan.posty ??= [];
+  const kandydaci = [...reczne(), ...(await zTwitcha())];
+  log(`Kandydaci: ${kandydaci.length}`);
+  const dir = join(STAN_DIR, 'klipy');
+  mkdirSync(dir, { recursive: true });
+  mkdirSync(TMP, { recursive: true });
+
+  // Pobieramy po kolei; klip, którego nie da się pobrać albo jest za długi, odpada i bierzemy następny.
+  const gotowe = [];
+  let lista = wybierz(kandydaci, stan, kandydaci.length);
+  for (const k of lista) {
+    if (gotowe.length === NA_POST) break;
+    if (gotowe.some((x) => !k.reczny && (x.login ?? x.kanal) === (k.login ?? k.kanal))) continue;
+    const surowy = join(TMP, `surowy-${gotowe.length + 1}.mp4`);
+    try {
+      pobierz(k, surowy);
+      const s = czasTrwania(surowy);
+      if (!k.reczny && s > 61) { log(`– za długi (${s} s): ${k.url}`); continue; }
+      gotowe.push({ ...k, surowy });
+      log(`✓ ${k.kanal ?? k.login} (${k.platforma}) ${k.url} [${k.wyswietlenia ?? 'ręczny'} wyśw.] „${k.tytul}”`);
+    } catch (e) { log(`– nie udało się pobrać ${k.url}: ${e.message.slice(0, 200)}`); stan.opublikowane[k.klucz] = { pominiete: 'pobieranie' }; }
+  }
+  if (gotowe.length < NA_POST) { log(`Za mało klipów (${gotowe.length}/${NA_POST}), post czeka na kolejne uruchomienie.`); commitStanu(stan, 'Klipy: brak posta'); return; }
+
+  await nakladki(gotowe, TMP);
+  gotowe.forEach((k, i) => zmontuj(k.surowy, join(TMP, `nakladka-${i + 1}.png`), join(dir, `klip-${i + 1}.mp4`)));
+  const { renderuj } = await import('./karta.mjs');
+  const { harmonogram } = await import('./slot.mjs');
+  await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Klipy co 30 minut, newsy co godzinę', plik: join(dir, 'zz-follow.jpg') }]);
+  const opis = opisPosta(gotowe);
+  writeFileSync(join(dir, 'opis.txt'), opis + '\n');
+  log(`\n${opis}\n`);
+  if (DRY) { log('DRY_RUN: bez publikacji.'); commitStanu(stan, 'Klipy: podgląd'); return; }
+
+  // Pliki muszą być w sieci, zanim Instagram je pobierze: commit na gałąź, potem adresy raw z konkretnym SHA.
+  const sha = commitStanu(stan, `Klipy: ${gotowe.map((k) => k.kanal ?? k.login).join(', ')}`);
+  const raw = (p) => `https://raw.githubusercontent.com/${REPO}/${sha}/klipy/${p}`;
+  const juz = await postyZKlipem(gotowe.map((k) => k.url));
+  if (juz === undefined) throw new Error('Nie udało się sprawdzić profilu IG, nie publikuję (żeby nie zdublować).');
+  let id = juz?.id;
+  if (!id) {
+    try {
+      const dzieci = [];
+      for (const [i] of gotowe.entries())
+        dzieci.push((await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'VIDEO', video_url: raw(`klip-${i + 1}.mp4`), is_carousel_item: 'true' } })).id);
+      dzieci.push((await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { image_url: raw('zz-follow.jpg'), is_carousel_item: 'true' } })).id);
+      for (const d of dzieci) await czekaj(d);
+      const { id: kont } = await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'CAROUSEL', children: dzieci.join(','), caption: opis } });
+      await czekaj(kont, 120);
+      ({ id } = await ig(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kont } }));
+    } catch (e) {
+      await sleep(20_000);
+      const p = await postyZKlipem(gotowe.map((k) => k.url));
+      if (!p) { commitStanu(stan, 'Klipy: błąd'); throw e; }
+      id = p.id; log(`Błąd API (${e.message.slice(0, 150)}), ale post jest na profilu.`);
+    }
+  }
+  const kiedy = new Date().toISOString();
+  for (const k of gotowe) stan.opublikowane[k.klucz] = { media_id: id, kiedy, url: k.url };
+  stan.posty = [...stan.posty, { media_id: id, kiedy, kanaly: gotowe.map((k) => k.login ?? k.kanal) }].slice(-200);
+  commitStanu(stan, `Klipy: opublikowano ${id}`);
+  log(`Opublikowano post ${id}.`);
+}
+
+if (process.argv[1] === fileURLToPath(import.meta.url)) await main();
