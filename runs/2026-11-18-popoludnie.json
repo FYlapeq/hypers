@@ -1,0 +1,17 @@
+{
+ "run": {
+  "date": "2026-11-18",
+  "slot": "popoludnie",
+  "started": "14:46",
+  "since": "2026-11-18T14:44+01:00"
+ },
+ "status": {
+  "youtube": "ok",
+  "transcripts": "wyłączone",
+  "twitch": "brak klucza",
+  "kick": "brak klucza"
+ },
+ "videos": [],
+ "streams": [],
+ "to_check": []
+}
