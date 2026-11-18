@@ -11,6 +11,10 @@ on:
         type: choice
         options: ["publikuj", "proba"]
         default: "publikuj"
+      rolka:
+        description: "1 = po karuzeli także rolka z najlepszym klipem (nagłówek pod klipem)"
+        type: string
+        required: false
       naglowki:
         description: "JSON {klucz: nagłówek} od zaplanowanego zadania Claude (z kandydaci.json na gałęzi instagram-klipy)"
         type: string
@@ -25,7 +29,7 @@ concurrency:
 jobs:
   klipy:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 22
     env:
       IG_TOKEN: ${{ secrets.IG_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -33,6 +37,7 @@ jobs:
       TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
       DRY_RUN: ${{ inputs.tryb == 'proba' && '1' || '0' }}
       KLIPY_NAGLOWKI: ${{ inputs.naglowki }}
+      KLIPY_ROLKA: ${{ inputs.rolka }}
       STAN_DIR: ${{ github.workspace }}/klipy-stan
     steps:
       - name: Wyłącznik
@@ -74,5 +79,5 @@ jobs:
           echo "NUDENET_PY=/tmp/nn/bin/python" >> "$GITHUB_ENV"
       - name: Klipy
         if: steps.wl.outputs.dziala == '1'
-        timeout-minutes: 9
+        timeout-minutes: 12
         run: node instagram/klipy.mjs

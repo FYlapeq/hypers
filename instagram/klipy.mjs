@@ -113,7 +113,7 @@ async function zTwitcha() {
   }
   return data.map((c) => ({
     klucz: `twitch:${c.id}`, url: c.url, platforma: 'Twitch', kanal: c.broadcaster_name, login: loginy.get(c.broadcaster_id) ?? c.broadcaster_name.toLowerCase(),
-    tytul: c.title, wyswietlenia: c.view_count, czas: c.duration, jezyk: c.language, utworzono: c.created_at,
+    tytul: c.title, miniatura: c.thumbnail_url, wyswietlenia: c.view_count, czas: c.duration, jezyk: c.language, utworzono: c.created_at,
   }));
 }
 
@@ -157,6 +157,27 @@ function wczytajNaglowki(stan) {
   } catch (e) { log(`– nagłówki z inputu nieczytelne: ${e.message}`); }
 }
 
+// Miniatury (pierwsza klatka klipu z Twitcha) dla 8 najpopularniejszych bez nagłówka: zadanie Claude ogląda je,
+// żeby nagłówek miał hook, a nie tylko suchy tytuł. Pliki kandydaci/<klucz>.jpg na gałęzi instagram-klipy.
+async function miniaturyDlaNaglowkow(kandydaci, stan) {
+  const lista = JSON.parse(readFileSync(join(STAN_DIR, 'kandydaci.json'), 'utf8'));
+  mkdirSync(join(STAN_DIR, 'kandydaci'), { recursive: true });
+  let n = 0;
+  for (const x of lista) {
+    if (n >= 8 || x.naglowek) continue;
+    const src = kandydaci.find((k) => k.klucz === x.klucz)?.miniatura;
+    if (!src) continue;
+    try {
+      const r = await fetch(src, { signal: AbortSignal.timeout(15000) });
+      if (!r.ok) continue;
+      const plik = `kandydaci/${x.klucz.replace(/[^a-z0-9_-]/gi, '_')}.jpg`;
+      writeFileSync(join(STAN_DIR, plik), Buffer.from(await r.arrayBuffer()));
+      x.miniatura = plik; n++;
+    } catch { /* bez miniatury */ }
+  }
+  writeFileSync(join(STAN_DIR, 'kandydaci.json'), JSON.stringify(lista, null, 1) + '\n');
+}
+
 // ---------- wideo ----------
 const b64 = (p) => readFileSync(join(ROOT, p)).toString('base64');
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
@@ -186,6 +207,25 @@ html,body{margin:0;width:1080px;height:1350px;background:transparent;color:#fff;
 .t{font:400 104px/1.04 Anton;margin-top:34px;text-transform:uppercase;text-shadow:0 6px 30px rgba(0,0,0,.7)}
 .s{font:600 34px WS;margin-top:36px;opacity:.9}.f{position:absolute;left:80px;bottom:70px;font:500 32px WS;opacity:.85}</style></head><body>
 <div class="w"><span class="e">GTA 6 · ${esc(k.platforma)}</span><div class="t">${esc(tekst)}</div><div class="s">Przesuń ➡️</div></div><div class="f">@hypers.tech</div></body></html>`;
+}
+
+// Rolka 9:16: nagłówek POD klipem (prośba Filipa 18.11.2026), u góry etykieta, na dole @hypers.tech.
+function htmlRolki(k, tekst) {
+  return `<!doctype html><html><head><meta charset="utf-8"><style>${FONTY()}
+html,body{margin:0;width:1080px;height:1920px;background:transparent;color:#fff;font-family:WS,sans-serif}
+.e{position:absolute;left:70px;top:420px;background:#0a84ff;font:600 34px WS;padding:12px 26px;border-radius:999px;letter-spacing:.04em;text-transform:uppercase}
+.t{position:absolute;left:70px;right:70px;top:1250px;font:400 92px/1.05 Anton;text-transform:uppercase;text-shadow:0 6px 30px rgba(0,0,0,.7)}
+.f{position:absolute;left:70px;top:1640px;font:600 36px WS;opacity:.9}</style></head><body>
+<span class="e">GTA 6 · ${esc(k.platforma)} · ${esc(k.kanal ?? k.login)}</span><div class="t">${esc(tekst)}</div><div class="f">@hypers.tech · klipy co 30 min</div></body></html>`;
+}
+async function nakladkaRolki(k, tekst, plik) {
+  const { chromium } = await import('playwright');
+  const b = await chromium.launch();
+  const p = await b.newPage({ viewport: { width: 1080, height: 1920 } });
+  await p.setContent(htmlRolki(k, tekst), { waitUntil: 'load' });
+  await p.evaluate(() => document.fonts.ready);
+  await p.screenshot({ path: plik, omitBackground: true });
+  await b.close();
 }
 
 async function nakladki(lista, dir, stan) {
@@ -227,6 +267,17 @@ function slajdObrazu(jpg, wyj) {
   execFileSync(env.FFMPEG || 'ffmpeg', ['-y', '-loglevel', 'error', '-loop', '1', '-i', jpg, '-f', 'lavfi', '-i', 'anullsrc=r=48000:cl=stereo',
     '-vf', 'fps=30,scale=1080:1350,format=yuv420p', '-t', '4', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22',
     '-c:a', 'aac', '-b:a', '64k', '-shortest', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 120_000 });
+}
+function zmontujRolke(wej, nakladka, wyj) {
+  const filtr = '[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:5,eq=brightness=-0.35[tlo];'
+    + '[0:v]fps=30,scale=1080:-2[klip];[tlo][klip]overlay=0:540[v1];[v1][1:v]overlay=0:0,format=yuv420p[v]';
+  execFileSync(env.FFMPEG || 'ffmpeg', ['-y', '-loglevel', 'error', '-i', wej, '-i', nakladka, '-filter_complex', filtr, '-map', '[v]', '-map', '0:a?',
+    '-t', String(MAKS_S), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high', '-level', '4.1',
+    '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 300_000 });
+}
+export function opisRolki(k, tekst) {
+  return [tekst, `Klip: ${k.kanal ?? k.login} (${k.platforma}) ${k.url}`, 'Klipy z GTA 6 co 30 minut. Daj follow @hypers.tech 🎮',
+    '#gta6 #gtavi #grandtheftauto6 #twitch #streamer #reels #hypers'].join('\n\n');
 }
 function zmontuj(wej, nakladka, wyj) {
   const filtr = '[0:v]fps=30,scale=1080:1350:force_original_aspect_ratio=increase,crop=1080:1350,boxblur=30:5,eq=brightness=-0.28[tlo];'
@@ -278,10 +329,16 @@ async function czekaj(id, s = 300) {
   throw new Error(`Kontener ${id}: Instagram nie przetworzył pliku w ${s} s`);
 }
 // Post z tymi klipami opublikowany w TYM przebiegu (Meta potrafi zwrócić błąd, a post i tak wychodzi). Powtórki klipów są dozwolone.
+async function rolkaJuzJest(url, od) {
+  try {
+    const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp,media_product_type', limit: '20' } });
+    return data.find((p) => p.media_product_type === 'REELS' && new Date(p.timestamp) >= new Date(od) && p.caption?.includes(url)) ?? null;
+  } catch { return undefined; }
+}
 async function postyZKlipem(urls, od) {
   try {
-    const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp', limit: '20' } });
-    return data.find((p) => new Date(p.timestamp) >= new Date(od) && urls.every((u) => p.caption?.includes(u))) ?? null;
+    const { data = [] } = await ig(`${env.IG_USER_ID}/media`, { params: { fields: 'id,caption,timestamp,media_product_type', limit: '20' } });
+    return data.find((p) => p.media_product_type !== 'REELS' && new Date(p.timestamp) >= new Date(od) && urls.every((u) => p.caption?.includes(u))) ?? null;
   } catch { return undefined; }
 }
 
@@ -296,6 +353,7 @@ async function main() {
   writeFileSync(join(STAN_DIR, 'kandydaci.json'), JSON.stringify(wybierz(kandydaci, stan, 30)
     .map(({ klucz, kanal, login, platforma, tytul, wyswietlenia, jezyk, url }) => ({ klucz, kanal, login, platforma, tytul, wyswietlenia, jezyk, url,
       razy: razy(stan.opublikowane[klucz]), naglowek: stan.naglowki[klucz] ?? null })), null, 1) + '\n');
+  await miniaturyDlaNaglowkow(kandydaci, stan);
   const dir = join(STAN_DIR, 'klipy');
   mkdirSync(dir, { recursive: true });
   mkdirSync(TMP, { recursive: true });
@@ -330,6 +388,14 @@ async function main() {
   const { harmonogram } = await import('./slot.mjs');
   await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Klipy co 30 minut, newsy co godzinę', plik: join(TMP, 'follow.jpg') }]);
   slajdObrazu(join(TMP, 'follow.jpg'), join(dir, 'zz-follow.mp4'));
+  // Rolka (KLIPY_ROLKA=1, co drugi przebieg): pierwszy klip tego posta, który nie był jeszcze rolką.
+  stan.rolki ??= {};
+  const rolka = env.KLIPY_ROLKA === '1' ? gotowe.find((k) => !stan.rolki[k.klucz]) : null;
+  if (rolka) {
+    await nakladkaRolki(rolka, rolka._naglowek, join(TMP, 'rolka.png'));
+    zmontujRolke(rolka.surowy, join(TMP, 'rolka.png'), join(dir, 'rolka.mp4'));
+    writeFileSync(join(dir, 'opis-rolki.txt'), opisRolki(rolka, rolka._naglowek) + '\n');
+  }
   const opis = opisPosta(gotowe);
   writeFileSync(join(dir, 'opis.txt'), opis + '\n');
   log(`\n${opis}\n`);
@@ -370,6 +436,28 @@ async function main() {
   stan.posty = [...stan.posty, { media_id: id, kiedy, kanaly: gotowe.map((k) => k.login ?? k.kanal), klucze: gotowe.map((k) => k.klucz) }].slice(-200);
   commitStanu(stan, `Klipy: opublikowano ${id}`);
   log(`Opublikowano post ${id}.`);
+
+  // Rolka po karuzeli; jej błąd nie psuje przebiegu (karuzela już jest).
+  if (rolka) {
+    try {
+      const jest = await rolkaJuzJest(rolka.url, start);
+      let rid = jest?.id;
+      if (jest === undefined) throw new Error('nie udało się sprawdzić profilu');
+      if (!rid) {
+        const { id: kont } = await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'REELS', video_url: raw('rolka.mp4'), caption: opisRolki(rolka, rolka._naglowek), share_to_feed: 'true' } });
+        await czekaj(kont, 400);
+        ({ id: rid } = await ig(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kont } }));
+      }
+      stan.rolki[rolka.klucz] = { media_id: rid, kiedy: new Date().toISOString() };
+      commitStanu(stan, `Klipy: rolka ${rid}`);
+      log(`Opublikowano rolkę ${rid}.`);
+    } catch (e) {
+      await sleep(20_000);
+      const p = await rolkaJuzJest(rolka.url, start).catch(() => null);
+      if (p) { stan.rolki[rolka.klucz] = { media_id: p.id, kiedy: p.timestamp }; commitStanu(stan, `Klipy: rolka ${p.id}`); log(`Rolka jest na profilu mimo błędu API.`); }
+      else { log(`– rolka nie wyszła: ${e.message.slice(0, 200)}`); process.exitCode = 1; }
+    }
+  }
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) await main();
