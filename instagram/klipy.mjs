@@ -5,7 +5,7 @@
 //   1. instagram/klipy-reczne.json: linki do klipów, które Filip zrobił sam (Twitch albo Kick), najstarsze pierwsze.
 //   2. Twitch Helix API (oficjalne, token aplikacji z TWITCH_CLIENT_ID/TWITCH_CLIENT_SECRET): najpopularniejsze klipy
 //      z kategorii Grand Theft Auto VI z ostatnich KLIPY_GODZIN godzin, najpierw po polsku, potem po angielsku, potem reszta.
-// Filtr bezpieczeństwa (zasady IG): klip do 60 s, bez słów z KLIPY_STOP w tytule (nagość, wulgaryzmy, wyzwiska),
+// Filtr bezpieczeństwa (zasady IG): filtr obrazu NudeNet (instagram/nagosc.py) na każdym klipie, klip do 60 s, bez słów z KLIPY_STOP w tytule (nagość, wulgaryzmy, wyzwiska),
 // bez ocenzurowanych przekleństw (***), każdy streamer najwyżej raz na post i nie w dwóch postach z rzędu.
 // Wideo: kadr 1080x1350 (4:5 jak karty Hypers), rozmyte tło z tego samego klipu, klip na środku, u góry nazwa streamera,
 // na dole skąd klip. Pliki idą na gałąź instagram-klipy (orphan, nadpisywana), Instagram pobiera je z raw.githubusercontent.com.
@@ -167,6 +167,12 @@ async function nakladki(lista, dir) {
 function pobierz(k, plik) {
   execFileSync('yt-dlp', ['-q', '--no-warnings', '--no-playlist', ...(env.FFMPEG ? ['--ffmpeg-location', env.FFMPEG] : []), '-f', 'best[ext=mp4]/best', '-o', plik, k.url], { stdio: 'inherit', timeout: 180_000 });
 }
+export function sprawdzObraz(plik) {
+  try {
+    execFileSync(env.NUDENET_PY || 'python3', [join(ROOT, 'instagram/nagosc.py'), plik], { encoding: 'utf8', timeout: 240_000, stdio: ['ignore', 'pipe', 'ignore'] });
+    return null;
+  } catch (e) { return (e.stdout || e.message || 'błąd').toString().trim().split('\n').pop().slice(0, 150); }
+}
 function czasTrwania(plik) {
   return Number(execFileSync(env.FFPROBE || 'ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', plik], { encoding: 'utf8' }).trim()) || 0;
 }
@@ -228,7 +234,6 @@ async function postyZKlipem(urls) {
 }
 
 async function main() {
-  if (!DRY && env.KLIPY_STOP_AWARYJNY !== '0') { log('Publikacja klipów wstrzymana (brak filtra obrazu). Tylko próba.'); return; }
   const stan = wczytajStan();
   stan.opublikowane ??= {}; stan.posty ??= [];
   const kandydaci = [...reczne(), ...(await zTwitcha())];
@@ -248,6 +253,9 @@ async function main() {
       pobierz(k, surowy);
       const s = czasTrwania(surowy);
       if (!k.reczny && s > 61) { log(`– za długi (${s} s): ${k.url}`); continue; }
+      // Filtr obrazu (NudeNet, instagram/nagosc.py): każdy klip, także ręczny. Błąd sprawdzenia = klip odpada.
+      const ocena = sprawdzObraz(surowy);
+      if (ocena) { log(`– odrzucony przez filtr obrazu (${ocena}): ${k.url}`); stan.opublikowane[k.klucz] = { pominiete: `filtr obrazu: ${ocena}`.slice(0, 200) }; continue; }
       gotowe.push({ ...k, surowy });
       log(`✓ ${k.kanal ?? k.login} (${k.platforma}) ${k.url} [${k.wyswietlenia ?? 'ręczny'} wyśw.] „${k.tytul}”`);
     } catch (e) { log(`– nie udało się pobrać ${k.url}: ${e.message.slice(0, 200)}`); stan.opublikowane[k.klucz] = { pominiete: 'pobieranie' }; }
