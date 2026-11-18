@@ -182,8 +182,8 @@ export function opisPosta(lista, konta = kontaIG()) {
   const pozycje = lista.map((k, i) => {
     const ig = mapa.get(klucz(k.kanal)) ?? mapa.get(klucz(k.login));
     const kto = `${k.kanal ?? k.login}${ig ? ` @${ig}` : ''}`;
-    const t = k.opis || tytulDoOpisu(k.tytul);
-    return `${i + 1}. ${kto} (${k.platforma})${t ? `: „${t}”` : ''}`;
+    const t = k.opis ? k.opis : tytulDoOpisu(k.tytul) ? `„${k.tytul}”` : null;
+    return `${i + 1}. ${kto} (${k.platforma})${t ? `: ${t}` : ''}`;
   });
   return [
     'GTA 6 na streamach: 2 klipy z ostatnich godzin 🎮 Przewiń ➡️',
@@ -260,6 +260,12 @@ async function main() {
   // Pliki muszą być w sieci, zanim Instagram je pobierze: commit na gałąź, potem adresy raw z konkretnym SHA.
   const sha = commitStanu(stan, `Klipy: ${gotowe.map((k) => k.kanal ?? k.login).join(', ')}`);
   const raw = (p) => `https://raw.githubusercontent.com/${REPO}/${sha}/klipy/${p}`;
+  if (!env.IG_TOKEN) throw new Error('Brak sekretu IG_TOKEN w repo.');
+  if (!env.IG_USER_ID) {
+    const ja = await ig('me', { params: { fields: 'user_id,username' } });
+    env.IG_USER_ID = ja.user_id;
+    log(`Konto: @${ja.username} (${ja.user_id})`);
+  }
   const juz = await postyZKlipem(gotowe.map((k) => k.url));
   if (juz === undefined) throw new Error('Nie udało się sprawdzić profilu IG, nie publikuję (żeby nie zdublować).');
   let id = juz?.id;
