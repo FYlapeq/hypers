@@ -1,0 +1,72 @@
+{
+ "opublikowane": {
+  "twitch:WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke": {
+   "media_id": "18189106654417426",
+   "kiedy": "2026-11-18T15:21:06.804Z",
+   "url": "https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke"
+  },
+  "twitch:CalmElatedPrariedog4Head-r1jQrPTSP5J2vEkV": {
+   "media_id": "18189106654417426",
+   "kiedy": "2026-11-18T15:21:06.804Z",
+   "url": "https://www.twitch.tv/montanablack88/clip/CalmElatedPrariedog4Head-r1jQrPTSP5J2vEkV"
+  },
+  "twitch:DifferentSullenReubenItsBoshyTime-K1Eo8-_fjY3ZqQan": {
+   "pominiete": "filtr obrazu: jedna klatka >= 0.5: (3, 'BUTTOCKS_EXPOSED', 0.81)"
+  },
+  "twitch:CrypticUnusualRhinocerosFeelsBadMan-UorQqsjSTHl3ApYE": {
+   "pominiete": "filtr obrazu: jedna klatka >= 0.5: (3, 'BUTTOCKS_EXPOSED', 0.71)"
+  },
+  "twitch:ElegantSparklingRavenBigBrother-Wjzo9YZf7p-veV41": {
+   "pominiete": "filtr obrazu: jedna klatka >= 0.5: (5, 'FEMALE_BREAST_EXPOSED', 0.82)"
+  },
+  "twitch:BelovedMushyCoyoteDxAbomb-NpGAw2u5UP2Xa4tR": {
+   "media_id": "18134749882701961",
+   "kiedy": "2026-11-18T16:01:41.775Z",
+   "url": "https://www.twitch.tv/rumathra/clip/BelovedMushyCoyoteDxAbomb-NpGAw2u5UP2Xa4tR",
+   "razy": 1
+  },
+  "twitch:SlickStylishBeaverStrawBeary-ljpqadoCXEhYwJx5": {
+   "media_id": "18134749882701961",
+   "kiedy": "2026-11-18T16:01:41.775Z",
+   "url": "https://www.twitch.tv/lacy/clip/SlickStylishBeaverStrawBeary-ljpqadoCXEhYwJx5",
+   "razy": 1
+  },
+  "twitch:CredulousKawaiiTriangleFUNgineer-Zys54vtw1G4OmIkN": {
+   "pominiete": "filtr obrazu: jedna klatka >= 0.5: (0, 'BUTTOCKS_EXPOSED', 0.76)"
+  },
+  "twitch:UnusualMoistSharkBIRB-Wlz2wmgaTOQAniKu": {
+   "pominiete": "filtr obrazu: jedna klatka >= 0.5: (18, 'BUTTOCKS_EXPOSED', 0.66)"
+  }
+ },
+ "posty": [
+  {
+   "media_id": "18189106654417426",
+   "kiedy": "2026-11-18T15:21:06.804Z",
+   "kanaly": [
+    "xqc",
+    "montanablack88"
+   ]
+  },
+  {
+   "media_id": "18134749882701961",
+   "kiedy": "2026-11-18T16:01:41.775Z",
+   "kanaly": [
+    "rumathra",
+    "lacy"
+   ],
+   "klucze": [
+    "twitch:BelovedMushyCoyoteDxAbomb-NpGAw2u5UP2Xa4tR",
+    "twitch:SlickStylishBeaverStrawBeary-ljpqadoCXEhYwJx5"
+   ]
+  }
+ ],
+ "naglowki": {
+  "twitch:TrustworthyRacyTruffleSoonerLater-8ijiN0R2E6tupKKx": "alanzoka i jego pierwszy skok w GTA 6",
+  "twitch:ModernSuavePorpoiseOSfrog-nBi_xhB9_QCiSAJ8": "Zoil w GTA 6",
+  "twitch:TubularAwkwardFrogPanicBasket-16J-tuUOS6Kxw8bS": "Kai Cenat: „co to w ogóle jest za GTA”",
+  "twitch:EnergeticGoldenAppleHumbleLife-T1Fku6YlJH7HjFih": "zarbex ma przekaz dla Rohata",
+  "twitch:HelpfulThirstyKaleGOWSkull-OQ5YUWU6Fn7_T88b": "DjMaRiiO w GTA 6",
+  "twitch:CredulousKawaiiTriangleFUNgineer-Zys54vtw1G4OmIkN": "Lacy w GTA 6"
+ },
+ "rolki": {}
+}
