@@ -159,15 +159,15 @@ async function nakladki(lista, dir) {
 }
 
 function pobierz(k, plik) {
-  execFileSync('yt-dlp', ['-q', '--no-warnings', '--no-playlist', '-f', 'best[ext=mp4]/best', '-o', plik, k.url], { stdio: 'inherit', timeout: 180_000 });
+  execFileSync('yt-dlp', ['-q', '--no-warnings', '--no-playlist', ...(env.FFMPEG ? ['--ffmpeg-location', env.FFMPEG] : []), '-f', 'best[ext=mp4]/best', '-o', plik, k.url], { stdio: 'inherit', timeout: 180_000 });
 }
 function czasTrwania(plik) {
-  return Number(execFileSync('ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', plik], { encoding: 'utf8' }).trim()) || 0;
+  return Number(execFileSync(env.FFPROBE || 'ffprobe', ['-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', plik], { encoding: 'utf8' }).trim()) || 0;
 }
 function zmontuj(wej, nakladka, wyj) {
   const filtr = '[0:v]fps=30,scale=1080:1350:force_original_aspect_ratio=increase,crop=1080:1350,boxblur=30:5,eq=brightness=-0.28[tlo];'
     + '[0:v]fps=30,scale=1080:-2[klip];[tlo][klip]overlay=(W-w)/2:(H-h)/2[v1];[v1][1:v]overlay=0:0,format=yuv420p[v]';
-  execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', wej, '-i', nakladka, '-filter_complex', filtr, '-map', '[v]', '-map', '0:a?',
+  execFileSync(env.FFMPEG || 'ffmpeg', ['-y', '-loglevel', 'error', '-i', wej, '-i', nakladka, '-filter_complex', filtr, '-map', '[v]', '-map', '0:a?',
     '-t', String(MAKS_S), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high', '-level', '4.1',
     '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 300_000 });
 }

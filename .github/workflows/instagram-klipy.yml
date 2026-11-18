@@ -56,10 +56,16 @@ jobs:
           cache-dependency-path: instagram/package-lock.json
       - name: Zależności (Chromium, ffmpeg, yt-dlp)
         if: steps.wl.outputs.dziala == '1'
+        timeout-minutes: 8
         run: |
-          cd instagram && npm ci --no-audit --no-fund && npx playwright install --with-deps chromium && cd ..
-          sudo apt-get install -y -qq ffmpeg > /dev/null
-          pipx install -q yt-dlp || pip install -q --user yt-dlp
+          cd instagram
+          npm ci --no-audit --no-fund
+          npm i --no-save --no-audit --no-fund ffmpeg-static@5 ffprobe-static@3
+          echo "FFMPEG=$(node -p "require('ffmpeg-static')")" >> "$GITHUB_ENV"
+          echo "FFPROBE=$(node -p "require('ffprobe-static').path")" >> "$GITHUB_ENV"
+          npx playwright install chromium-headless-shell || npx playwright install --with-deps chromium
+          pipx install yt-dlp
       - name: Klipy
         if: steps.wl.outputs.dziala == '1'
+        timeout-minutes: 6
         run: node instagram/klipy.mjs
