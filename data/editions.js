@@ -1,5 +1,522 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-19": {
+    "date": "2026-11-19",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "GTA 6",
+        "hype": 5,
+        "title": "Kai Cenat grał w GTA 6 przez ponad 11 godzin. Zapis streamu ma już ponad 11 mln wyświetleń",
+        "summary": "Na kanale Kai Cenat Live pojawił się zapis jego pierwszego streamu z GTA 6. Materiał trwa ponad 11,5 godziny, a w kilka godzin od publikacji obejrzano go ponad 11 mln razy.",
+        "body": [
+          "Kai Cenat, jeden z największych streamerów na świecie, wrzucił na kanał Kai Cenat Live zapis swojego pierwszego podejścia do GTA 6. Film „PLAYING GTA 6 FOR THE FIRST TIME (PART 1)” trwa ponad 11,5 godziny i pojawił się w nocy z 18 na 19 listopada.",
+          "Do czwartku, godz. 6:16, materiał miał ok. 11,3 mln wyświetleń i ponad 100 tys. polubień. Tytuł zapowiada, że to dopiero pierwsza część.",
+          "Widzowie w komentarzach podkreślają, że tak długi film rzadko zbiera takie liczby, i żartują, że Cenat skończy grę dopiero w styczniu. Kilku pisze, że premiera zamyka erę memów „przed GTA 6”."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/VZqAPdUvqnQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/VZqAPdUvqnQ/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+          "alt": "Miniatura zapisu streamu Kaia Cenata z GTA 6",
+          "caption": "Pierwszy stream Kaia Cenata z GTA 6"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura ponad 11-godzinnego zapisu streamu, w którym Kai Cenat pierwszy raz gra w GTA 6. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Kai Cenat grał w GTA 6 ponad 11 godzin z rzędu",
+          "opis": "Zapis streamu wrzucił na YouTube i w kilka godzin miał ponad 11 mln wyświetleń. A to dopiero część pierwsza."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-18",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "GTA 6",
+        "hype": 5,
+        "title": "Kaluch ruszył z serią GTA 6. Pierwszy odcinek ma już 630 tys. wyświetleń, a twórca obiecuje odcinki codziennie",
+        "summary": "Po pożegnaniu z GTA V Kaluch wrzucił pierwszy odcinek z GTA 6, „WITAMY w VICE CITY!”. W przypiętym komentarzu zapowiedział, że nowe odcinki będą wychodzić codziennie.",
+        "body": [
+          "W środę wieczorem na kanale Kalucha pojawił się 86-minutowy film „WITAMY w VICE CITY! - GTA 6 #1”. To start nowej serii po tym, jak w ostatnich dniach twórca żegnał się z GTA V ostatnimi odcinkami swoich cyklów.",
+          "W przypiętym komentarzu Kaluch nawiązał do spóźnienia z premierą odcinka i zapowiedział, że w zamian odcinki będą wychodzić codziennie „do odwołania”.",
+          "Do czwartku, godz. 6:16, film miał ok. 630 tys. wyświetleń, 34,7 tys. polubień i ponad 2,3 tys. komentarzy. Widzowie wspominają serie z GTA V, które oglądali przez 13 lat, i doradzają, czy najpierw przejść fabułę, czy od razu wracać do znanych formatów, jak „Pogromcy mitów”."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=ILu2znJQM2M",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ILu2znJQM2M",
+        "ig": [
+          "kaluch_"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ILu2znJQM2M/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ILu2znJQM2M/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=ILu2znJQM2M",
+          "alt": "Miniatura pierwszego odcinka GTA 6 na kanale Kalucha",
+          "caption": "Kaluch wita się z Vice City"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura pierwszego odcinka serii GTA 6 u Kalucha. To ten film otwiera nowy rozdział kanału po latach z GTA V."
+        },
+        "insta": {
+          "tytul": "Kaluch odpalił GTA 6 i obiecał odcinki codziennie",
+          "opis": "Pierwszy odcinek z Vice City ma już ok. 630 tys. wyświetleń. Seria leci „do odwołania”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "theRadBrad",
+        "initials": "RB",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "theRadBrad wrzucił pierwszą część przejścia GTA 6. W niecałą dobę ma 3,7 mln wyświetleń",
+        "summary": "Weteran gamingowego YouTube’a theRadBrad opublikował pierwszy odcinek swojego przejścia GTA 6. Film nagrany na PS5 Pro obejrzano już ponad 3,7 mln razy.",
+        "body": [
+          "theRadBrad, znany z przechodzenia dużych premier od początku do końca, wrzucił w środę ponad godzinny odcinek „GTA 6 Walkthrough Gameplay Part 1 - INTRO”. Według opisu materiał nagrano w 4K i 60 kl./s na PS5 Pro i Xbox Series X/S, a seria ma objąć całą fabułę z Lucią i Jasonem.",
+          "Do czwartku, godz. 6:16, film miał ok. 3,7 mln wyświetleń, ponad 125 tys. polubień i blisko 9,7 tys. komentarzy. Twórca w przypiętym komentarzu dziękuje za 100 tys. polubień, które wyznaczył sobie jako cel.",
+          "Najwyżej oceniane komentarze to wspomnienia o 13 latach czekania od premiery GTA V i żarty, że „przejście GTA 6 przed GTA 6” było ostatnim memem tej ery."
+        ],
+        "sources": [
+          {
+            "name": "theRadBrad / YouTube",
+            "url": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/rQLEb0W7REo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/rQLEb0W7REo/hqdefault.jpg",
+          "credit": "theRadBrad / YouTube",
+          "href": "https://www.youtube.com/watch?v=rQLEb0W7REo",
+          "alt": "Miniatura pierwszej części przejścia GTA 6 na kanale theRadBrad",
+          "caption": "Pierwsza część przejścia GTA 6"
+        },
+        "caption": {
+          "credit": "theRadBrad / YouTube",
+          "text": "Miniatura otwierającego odcinka przejścia GTA 6 u theRadBrada. Opis filmu zapowiada całą fabułę nagraną na PS5 Pro."
+        },
+        "insta": {
+          "tytul": "theRadBrad zaczął przechodzić GTA 6 i od razu 3,7 mln wyświetleń",
+          "opis": "Pierwsza część trwa ponad godzinę. W komentarzach głównie wspomnienia o 13 latach czekania."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "gameranx",
+        "initials": "GX",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Gameranx opublikował „GTA 6 - Before You Buy”. Widzowie zauważają, że to jedna z bardziej krytycznych opinii",
+        "summary": "W znanym cyklu „Before You Buy” Jake z Gameranx omawia GTA 6 i to, czy gra jest warta hype’u. Film ma już ok. 3,4 mln wyświetleń i ponad 10 tys. komentarzy.",
+        "body": [
+          "Kanał gameranx wrzucił w środę 25-minutowy odcinek „GTA 6 - Before You Buy”. Według opisu twórcy rozmawiają w nim o długo wyczekiwanej grze na PS5 i Xbox Series X/S i o tym, czy jest warta całego szumu.",
+          "Do czwartku, godz. 6:16, film miał ok. 3,4 mln wyświetleń, 77,8 tys. polubień i ponad 10,2 tys. komentarzy.",
+          "Widzowie piszą, że prowadzący przez kilka tygodni zapewniał w innych filmach, że jeszcze nie grał, i że to jedna z bardziej krytycznych opinii o GTA 6, jakie widzieli. Inni żartują, że czekają już na odcinek „After You Buy”."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vVVIWEGciKk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vVVIWEGciKk/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+          "alt": "Miniatura filmu GTA 6 Before You Buy na kanale gameranx",
+          "caption": "GTA 6 w cyklu „Before You Buy”"
+        },
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Miniatura odcinka „Before You Buy” o GTA 6. Film nie ma napisów, więc opisujemy tytuł, opis, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Gameranx ocenił GTA 6 przed zakupem i widzowie mówią: dość krytycznie",
+          "opis": "Odcinek „Before You Buy” ma ok. 3,4 mln wyświetleń. Ludzie już proszą o wersję „After You Buy”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "Yoji720",
+        "initials": "YO",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Yoji720 i Tivolt zaczęli serie GTA 6 po polsku. Widzowie wracają do nich po 13 latach",
+        "summary": "Yoji720, który nagrywał GTA V w 2013 roku, i Tivolt ruszyli z let’s playami GTA 6. Yoji ma już trzy odcinki, a pierwszy obejrzało ok. 145 tys. osób.",
+        "body": [
+          "Yoji720 wrzucił w środę pierwszy odcinek „GTA 6 PL #1 – PO 13 LATACH W KOŃCU JEST!”, a w nocy dwa kolejne. W opisie zapowiada największą serię let’s play na swoim kanale od lat. Do czwartku, godz. 6:16, pierwszy odcinek miał ok. 145 tys. wyświetleń.",
+          "Tuż przed północą swoją serię zaczął też Tivolt odcinkiem „13 DŁUGICH LAT 😭 | GTA 6 PL [#1]” (ok. 47 tys. wyświetleń o tej samej godzinie). W nocy dorzucił drugi i trzeci odcinek, a czwarty zapowiedział na 10:00.",
+          "Pod oboma filmami widzowie piszą, że oglądali tych twórców przy GTA V jeszcze w podstawówce, a teraz wracają do nich jako dorośli. Część narzeka, że przez prawa autorskie na YouTube trzeba wyciszać licencjonowaną muzykę z gry."
+        ],
+        "sources": [
+          {
+            "name": "Yoji720 / YouTube",
+            "url": "https://www.youtube.com/watch?v=Mp6ocIZzUiw",
+            "origin": true
+          },
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=zsMVH0OTHp8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Mp6ocIZzUiw",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Mp6ocIZzUiw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Mp6ocIZzUiw/hqdefault.jpg",
+          "credit": "Yoji720 / YouTube",
+          "href": "https://www.youtube.com/watch?v=Mp6ocIZzUiw",
+          "alt": "Miniatura pierwszego odcinka GTA 6 PL na kanale Yoji720",
+          "caption": "Pierwszy odcinek GTA 6 u Yoji720"
+        },
+        "caption": {
+          "credit": "Yoji720 / YouTube",
+          "text": "Miniatura pierwszego odcinka serii GTA 6 PL u Yoji720. To jeden z dwóch polskich let’s playów, o których piszemy."
+        },
+        "insta": {
+          "tytul": "Yoji720 i Tivolt wrócili z GTA, tym razem szóstką",
+          "opis": "Widzowie piszą, że oglądali ich przy GTA V w podstawówce. Teraz wracają do tych samych twórców po 13 latach."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-18",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "IShowSpeed pokazał swoją reakcję na pierwsze chwile w GTA 6. Short ma 1,8 mln wyświetleń",
+        "summary": "Na kanale IShowSpeeda pojawił się 30-sekundowy short „iShowSpeed’s First Look At GTA 6”. W kilkanaście godzin obejrzało go blisko 1,8 mln osób.",
+        "body": [
+          "IShowSpeed wrzucił w środę wieczorem krótki film z pierwszego kontaktu z GTA 6. Short trwa 30 sekund i nie ma opisu.",
+          "Do czwartku, godz. 6:16, miał ok. 1,79 mln wyświetleń i 76 tys. polubień.",
+          "Widzowie żartują, że Speed zagrał w GTA 6 „przed GTA 6”, i piszą, że nikt nie reaguje na premiery tak jak on. Kilka dni wcześniej streamer razem z Kaiem Cenatem wypuścił zwiastun swojego maratonu z grą."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/shorts/1wzzrOvl_Jg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/1wzzrOvl_Jg",
+        "ig": [
+          "ishowspeed"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/1wzzrOvl_Jg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/1wzzrOvl_Jg/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/shorts/1wzzrOvl_Jg",
+          "alt": "Miniatura shorta IShowSpeeda z pierwszymi chwilami w GTA 6",
+          "caption": "IShowSpeed i pierwsze chwile w GTA 6"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura shorta z pierwszym spojrzeniem IShowSpeeda na GTA 6. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "IShowSpeed odpalił GTA 6 i to wystarczyło na 1,8 mln wyświetleń",
+          "opis": "Short trwa 30 sekund. W komentarzach: nikt nie reaguje na premiery jak on."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-18",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "Książulo sprawdza, czy McDonald’s zmniejszył Drwala. Film ma blisko 800 tys. wyświetleń",
+        "summary": "Wraca sezon na Drwala, a Książulo wziął go na warsztat w filmie „CZY McDonald’s ZMNIEJSZYŁ DRWALA?!”. W kilkanaście godzin obejrzało go ok. 795 tys. osób.",
+        "body": [
+          "W środę wieczorem na kanale Książula pojawił się 20-minutowy film „CZY McDonald’s ZMNIEJSZYŁ DRWALA?!”. W opisie twórca odsyła też do drugiego, dłuższego materiału na kanale KSIAPULO.",
+          "Do czwartku, godz. 6:16, film miał ok. 795 tys. wyświetleń, 13,2 tys. polubień i ponad 870 komentarzy.",
+          "Widzowie żartują, że gdy wszyscy influencerzy przetestują Drwala, to znak, że idą święta. Część chwali nowy, mroczniejszy styl kolorów w filmie."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=wz1g7GJ7lps",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=wz1g7GJ7lps",
+        "ig": [
+          "ksiazulo"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wz1g7GJ7lps/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wz1g7GJ7lps/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=wz1g7GJ7lps",
+          "alt": "Miniatura filmu Książula o burgerze Drwal",
+          "caption": "Książulo i tegoroczny Drwal"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura filmu, w którym Książulo sprawdza tegorocznego Drwala. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Książulo sprawdził, czy McDonald’s zmniejszył Drwala",
+          "opis": "Film ma już prawie 800 tys. wyświetleń. Widzowie: jak wszyscy przetestują Drwala, to znaczy, że idą święta 🎄"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "USA",
+        "initials": "UG",
+        "category": "Typografia",
+        "hype": 4,
+        "title": "Istnieje czcionka, w której każda litera to kształt prawdziwego okręgu wyborczego w USA",
+        "summary": "Font Ugly Gerry powstał w 2019 roku z kształtów amerykańskich okręgów wyborczych do Kongresu. To protest przeciw gerrymanderingowi, czyli takiemu rysowaniu granic, by pomóc jednej partii.",
+        "body": [
+          "Ugly Gerry zaprojektowali w 2019 roku Ben Doessel i James Lee z agencji Leo Burnett w ramach projektu dla organizacji RepresentUs. Każdy znak to obrys prawdziwego okręgu wyborczego do Kongresu USA.",
+          "Pomysł działa, bo niektóre okręgi mają tak powykręcane granice, że da się w nich zobaczyć litery. Nazwa nawiązuje do gerrymanderingu, czyli manipulowania granicami okręgów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ugly_Gerry"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com/you-can-download-font-gerrymandered-congressional-districts-2019-8"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ugly_Gerry_font_sample.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Ugly_Gerry_font_sample.png",
+          "credit": "Ben Doessel and James Lee (font), Xeroctic (screenshot) / Wikimedia Commons, domena publiczna",
+          "alt": "Próbka czcionki Ugly Gerry z literami w kształcie okręgów wyborczych",
+          "caption": "Próbka czcionki Ugly Gerry"
+        },
+        "caption": {
+          "credit": "Xeroctic / Wikimedia Commons",
+          "text": "Próbka fontu Ugly Gerry. Każda litera to obrys jednego z okręgów wyborczych do Kongresu USA."
+        },
+        "insta": {
+          "tytul": "Jest czcionka, w której litery to granice okręgów wyborczych w USA",
+          "opis": "Niektóre okręgi są tak powykręcane, że wyglądają jak litery. Font powstał w 2019 r. jako protest przeciw takiemu rysowaniu map."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Anglia",
+        "initials": "WA",
+        "category": "Język",
+        "hype": 4,
+        "title": "Na stacji metra w angielskim Wallsend tablice są także po łacinie",
+        "summary": "Stacja Wallsend w sieci Tyne and Wear Metro ma oznaczenia w łacinie, bo stoi przy dawnym rzymskim forcie Segedunum. Po łacinie jest nawet zakaz palenia.",
+        "body": [
+          "Wallsend to miasto na końcu Muru Hadriana, gdzie Rzymianie mieli fort Segedunum. Stacja metra, działająca od 1982 roku, nawiązuje do tej historii: obok angielskich napisów są tam łacińskie.",
+          "Po łacinie są także tablice o zakazie palenia, choć Rzymianie tytoniu nie znali."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Wallsend_Metro_station"
+          },
+          {
+            "name": "BBC News",
+            "url": "http://news.bbc.co.uk/2/hi/uk_news/england/2847385.stm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Wallsend_Metro_Station_(detail)_(geograph_4747420).jpg",
+          "credit": "Andrew Curtis / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Fragment stacji metra Wallsend z oznaczeniami",
+          "caption": "Stacja metra Wallsend"
+        },
+        "caption": {
+          "credit": "Andrew Curtis / Wikimedia Commons",
+          "text": "Fragment stacji Wallsend w sieci Tyne and Wear Metro. To tu oznaczenia są także po łacinie."
+        },
+        "insta": {
+          "tytul": "W Anglii jest stacja metra z tablicami po łacinie",
+          "opis": "Stoi przy dawnym rzymskim forcie. Po łacinie jest nawet zakaz palenia, choć Rzymianie tytoniu nie znali."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Komiksy",
+        "initials": "GR",
+        "category": "Język",
+        "hype": 3,
+        "title": "Ciąg symboli w stylu „$#@&%” zamiast przekleństwa ma swoją nazwę: grawlix",
+        "summary": "Grawlix to typograficzne znaczki zastępujące wulgaryzmy, głównie w komiksach. To graficzny odpowiednik piknięcia w telewizji.",
+        "body": [
+          "Grawlix, nazywany też obscenikonem, to zestaw „niewymawialnych” symboli w miejscu brzydkiego słowa. Używa się go głównie w komiksach i kreskówkach.",
+          "Pierwszy znany grawlix pojawił się 1 listopada 1901 roku w komiksie „Lady Bountiful” Gene’a Carra."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Grawlix"
+          },
+          {
+            "name": "ThoughtCo (archiwum)",
+            "url": "https://web.archive.org/web/20240709011251/https://www.thoughtco.com/what-is-grawlix-1690824"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Grawlix.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Grawlix.jpg",
+          "credit": "Myresa Hurst / Wikimedia Commons, domena publiczna",
+          "alt": "Przykład grawlixu, czyli ciągu symboli zamiast przekleństwa",
+          "caption": "Przykład grawlixu"
+        },
+        "caption": {
+          "credit": "Myresa Hurst / Wikimedia Commons",
+          "text": "Przykładowy grawlix, czyli symbole w miejscu przekleństwa. Tak wygląda to, o czym jest ciekawostka."
+        },
+        "insta": {
+          "tytul": "Te znaczki „$#@&%” zamiast przekleństwa mają nazwę: grawlix",
+          "opis": "Pierwszy znany pojawił się w komiksie w 1901 r. Teraz już wiesz, jak to się nazywa."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Cornell",
+        "initials": "CO",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W 1997 r. ktoś zatknął dynię na szczycie wieży uniwersytetu Cornell. Nie wiadomo, kto i jak",
+        "summary": "Dynia na iglicy McGraw Tower trafiła do ogólnokrajowych mediów i miała własną stronę z kamerą. Sprawcy nigdy nie ustalono.",
+        "body": [
+          "W październiku 1997 roku na piorunochronie wieży McGraw Tower na Uniwersytecie Cornella w Ithace pojawiła się dynia. Spekulacje, czy to na pewno dynia, jak się tam dostała i kto ją zostawił, zrobiły z niej temat ogólnokrajowych mediów. Mówiono o „Wielkiej tajemnicy dyni”.",
+          "Dynia przetrwała na szczycie do marca 1998 roku, kiedy przypadkiem strącił ją kosz dźwigu podczas próby zdejmowania. Kto ją tam umieścił, do dziś nie wiadomo."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cornell_University_pumpkin_prank"
+          },
+          {
+            "name": "The Cornell Daily Sun",
+            "url": "https://www.cornellsun.com/article/2000/11/how-the-pumpkin-got-on-the-tower"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/McGrawTowerPumpkin_Inset_zoom.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:McGrawTowerPumpkin_Inset_zoom.jpg",
+          "credit": "Wasted Time R, Beejamjam / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Dynia na szczycie iglicy McGraw Tower na Uniwersytecie Cornella",
+          "caption": "Dynia na iglicy McGraw Tower"
+        },
+        "caption": {
+          "credit": "Wasted Time R, Beejamjam / Wikimedia Commons",
+          "text": "Zbliżenie na szczyt McGraw Tower z dynią na iglicy. To ta dynia, której pochodzenia nie wyjaśniono."
+        },
+        "insta": {
+          "tytul": "Ktoś wsadził dynię na szczyt wieży uniwersytetu i nikt nie wie, kto",
+          "opis": "Wisiała tam od października 1997 do marca 1998. Sprawcy nie znaleziono do dziś 🎃"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "R. Stevie Moore",
+        "initials": "RS",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Amerykański muzyk sam wydał ok. 400 albumów, nagrywając je w domu",
+        "summary": "R. Stevie Moore to pionier muzyki lo-fi, nazywany „ojcem chrzestnym nagrań domowych”. Swoje płyty od lat rozsyła sam, pocztą.",
+        "body": [
+          "Robert Steven Moore, rocznik 1952, to multiinstrumentalista, który nagrywa sam w domu. Od 1968 roku wydał w ten sposób ok. 400 albumów, a od 1982 roku rozprowadzał je przez własną wysyłkę pocztową.",
+          "Oficjalnie, przez wytwórnie, ukazało się tylko ok. trzech tuzinów jego płyt, głównie kompilacji. Uchodzi za jednego z pionierów muzyki „zrób to sam” i bedroom popu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/R._Stevie_Moore"
+          },
+          {
+            "name": "SF Weekly (archiwum)",
+            "url": "https://web.archive.org/web/20180205001012/https://archives.sfweekly.com/sanfrancisco/meet-r-stevie-moore-the-original-bedroom-pop-savant/Content?oid=2181463"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/R._Stevie_Moore_in_Madison_TN_November_2025.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:R._Stevie_Moore_in_Madison_TN_November_2025.jpg",
+          "credit": "Squirrelhouse / Wikimedia Commons, CC0",
+          "alt": "R. Stevie Moore w Madison w Tennessee w 2025 roku",
+          "caption": "R. Stevie Moore w 2025 roku"
+        },
+        "caption": {
+          "credit": "Squirrelhouse / Wikimedia Commons",
+          "text": "R. Stevie Moore sfotografowany w listopadzie 2025 roku. To muzyk, który sam wydał ok. 400 albumów."
+        },
+        "insta": {
+          "tytul": "Ten muzyk sam wydał ok. 400 albumów nagranych w domu",
+          "opis": "R. Stevie Moore przez lata rozsyłał swoje płyty pocztą. Nazywają go ojcem chrzestnym nagrań domowych."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-18": {
     "date": "2026-11-18",
     "ryby": [],

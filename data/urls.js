@@ -1,5 +1,23 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-19": {
+  "luz": [
+   "artykuly/2026-11-19/kai-cenat-gral-w-gta-6-przez-ponad-11-godzin-zapis-streamu-ma-juz.html",
+   "artykuly/2026-11-19/kaluch-ruszyl-z-seria-gta-6-pierwszy-odcinek-ma-juz-630-tys.html",
+   "artykuly/2026-11-19/theradbrad-wrzucil-pierwsza-czesc-przejscia-gta-6-w-niecala-dobe-ma-3.html",
+   "artykuly/2026-11-19/gameranx-opublikowal-gta-6-before-you-buy-widzowie-zauwazaja.html",
+   "artykuly/2026-11-19/yoji720-i-tivolt-zaczeli-serie-gta-6-po-polsku-widzowie-wracaja.html",
+   "artykuly/2026-11-19/ishowspeed-pokazal-swoja-reakcje-na-pierwsze-chwile-w-gta-6-short.html",
+   "artykuly/2026-11-19/ksiazulo-sprawdza-czy-mcdonald-s-zmniejszyl-drwala-film-ma-blisko-800.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-19/istnieje-czcionka-w-ktorej-kazda-litera-to-ksztalt-prawdziwego-okregu.html",
+   "artykuly/2026-11-19/na-stacji-metra-w-angielskim-wallsend-tablice-sa-takze-po-lacinie.html",
+   "artykuly/2026-11-19/ciag-symboli-w-stylu-zamiast-przeklenstwa-ma-swoja-nazwe-grawlix.html",
+   "artykuly/2026-11-19/w-1997-r-ktos-zatknal-dynie-na-szczycie-wiezy-uniwersytetu-cornell.html",
+   "artykuly/2026-11-19/amerykanski-muzyk-sam-wydal-ok-400-albumow-nagrywajac-je-w-domu.html"
+  ]
+ },
  "2026-11-18": {
   "luz": [
    "artykuly/2026-11-18/gta-6-ma-8-nominacji-do-the-game-awards-w-tym-do-gry-roku-wiedzmin-4.html",
