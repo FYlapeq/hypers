@@ -1,0 +1,2125 @@
+{
+ "run": {
+  "date": "2026-11-19",
+  "slot": "rano",
+  "generated_at": "2026-11-19T05:16:45.107Z",
+  "candidates": 101,
+  "with_free_image": 37,
+  "ready": 23
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 6",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 10",
+  "wiki-en:Wikipedia:Recent additions": "ok 252",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4258",
+  "drugie-zrodlo": "ok 23/33"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjski premier Tony Blair nie uczestniczył w obchodach 60. rocznicy zakończenia II wojny światowej w Moskwie?",
+   "article": {
+    "title": "Parada z okazji Dnia Zwycięstwa w Moskwie (2005)",
+    "url": "https://pl.wikipedia.org/wiki/Parada_z_okazji_Dnia_Zwyci%C4%99stwa_w_Moskwie_(2005)",
+    "extract": "Parada z okazji Dnia Zwycięstwa w Moskwie – parada wojskowa, która odbyła się 9 maja 2005 r. na Placu Czerwonym w Moskwie z okazji 60. rocznicy zakończenia II wojny światowej i obchodów Dnia Zwycięstwa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Victory Day Parade 2005-1.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak przebiega test penetracyjny?",
+   "article": {
+    "title": "Test penetracyjny",
+    "url": "https://pl.wikipedia.org/wiki/Test_penetracyjny",
+    "extract": "Test penetracyjny – proces polegający na przeprowadzeniu kontrolowanego ataku na system teleinformatyczny, mający na celu praktyczną ocenę bieżącego stanu bezpieczeństwa tego systemu, w szczególności obecności znanych podatności i odporności na próby przełamania zabezpieczeń. Polega na analizie systemu pod kątem występowania potencjalnych błędów bezpieczeństwa spowodowanych niewłaściwą konfiguracją, lukami w oprogramowaniu lub sprzęcie, słabościami w technicznych lub proceduralnych środkach zabezpieczeń, a nawet niewystarczającą świadomością użytkowników. Analiza ta jest przeprowadzana z perspektywy potencjalnego włamywacza i może zawierać aktywne wykorzystywanie podatności (np. poprzez użycie exploitów)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która odsłona serii Panzer General po raz pierwszy wykorzystywała w pełni trójwymiarowe pole bitwy?",
+   "article": {
+    "title": "Panzer General 3D Assault",
+    "url": "https://pl.wikipedia.org/wiki/Panzer_General_3D_Assault",
+    "extract": "Panzer General 3D Assault – komputerowa strategiczna gra turowa osadzona w realiach II wojny światowej, wyprodukowana i wydana w 1999 roku przez amerykańskie przedsiębiorstwo Strategic Simulations (SSI) na platformę Microsoft Windows. Należy do serii Panzer General i jest następcą gry Panzer General II z 1997 roku. W Niemczech została wydana pod tytułem Panzer General IV: Western Assault."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która gra komputerowa z 2020 roku wpisała się w nurt roguelike’ów karcianych?",
+   "article": {
+    "title": "Iris and the Giant",
+    "url": "https://pl.wikipedia.org/wiki/Iris_and_the_Giant",
+    "extract": "Iris and the Giant – gra komputerowa łącząca elementy gry fabularnej, strategicznej oraz karcianej, stworzona przez francuskiego projektanta Louisa Rigauda i wydana przez Goblinz Studio, Plug In Digital, Maple Whispering Limited oraz Mugen Creations. Premiera na Windows, macOS i Linux odbyła się 27 lutego 2020 roku, a port na Nintendo Switch ukazał się 5 listopada tego samego roku."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że silnik Limbach L550E napędza irańskie i rosyjskie drony bojowe?",
+   "article": {
+    "title": "Limbach L550E",
+    "url": "https://pl.wikipedia.org/wiki/Limbach_L550E",
+    "extract": "Limbach L550E – niemiecki czterocylindrowy, dwusuwowy tłokowy silnik lotniczy o przeciwsobnym układzie cylindrów, produkowany przez przedsiębiorstwo Limbach Flugmotorenbau od 1987 r. Silnik o pojemności skokowej 548 cm³ jest chłodzony powietrzem i przeznaczony do napędu lekkich statków powietrznych. Na jego konstrukcji oparto produkowany w Chinach silnik Mado MD550, stanowiący jednostkę napędową m.in. irańskiej amunicji krążącej Shahed 136."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/L550e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:L550e.jpg",
+    "file": "File:L550e.jpg",
+    "artist": "Peter Limbach",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tech.wp.pl",
+    "url": "https://tech.wp.pl/zajrzeli-do-drona-rosjan-ten-widok-ich-zaskoczyl,7005478913723104a",
+    "title": "Zajrzeli do drona Rosjan. Ten widok ich zaskoczył",
+    "matched": [
+     "550",
+     "silnik",
+     "limbach",
+     "l550e",
+     "iranskie",
+     "rosyjskie",
+     "drony"
+    ]
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który piłkarz Pogoni Szczecin wystąpił w finale Superpucharu Chorwacji?",
+   "article": {
+    "title": "Filip Čuić",
+    "url": "https://pl.wikipedia.org/wiki/Filip_%C4%8Cui%C4%87",
+    "extract": "Filip Čuić (ur. 22 lutego 2003 w Splicie) – chorwacko-bośniacki piłkarz występujący na pozycji napastnika w polskim klubie Pogoń Szczecin."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto jest autorem dialogów sokratejskich?",
+   "article": {
+    "title": "Aischines ze Sfettos",
+    "url": "https://pl.wikipedia.org/wiki/Aischines_ze_Sfettos",
+    "extract": "Aischines ze Sfettos (stgr. Αἰσχίνης Σφήττιος), zwany też Aischinesem Sokratykiem (stgr. Αἰσχίνης Σωκρατικός; łac. Aeschines Socraticus, ur."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…które brytyjskie studio (obok logo) wyprodukowało trzy gry z serii Grand Theft Auto na konsole przenośne?",
+   "article": {
+    "title": "Rockstar Leeds",
+    "url": "https://pl.wikipedia.org/wiki/Rockstar_Leeds",
+    "extract": "Rockstar Leeds (dawniej Möbius Entertainment Limited) – brytyjski producent gier komputerowych z siedzibą w Leeds. Jego założycielami byli Ian J. Bowden, Dave Box, Gordon Hall i Jason McGann, którzy w grudniu 1997 roku założyli studio pod nazwą Möbius Entertainment, po wspólnej pracy w studiu Hookstone. Möbius współpracował z SCi Games przy dwóch grach: Alfred's Adventure (2000), remake'u na Game Boy Color gry Alfred Chicken (1993), oraz anulowanej grze Titanium Angels. Począwszy od 2001 roku, studio tworzyło gry na Game Boy Advance dla kilku wydawców, w tym kilka tytułów dla The 3DO Company oraz grę Max Payne (2003) dla Rockstar Games."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Rockstar Leeds Logo.svg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie obchodzony jest dzień bułeczki cynamonowej?",
+   "article": {
+    "title": "Kanelbullens dag",
+    "url": "https://pl.wikipedia.org/wiki/Kanelbullens_dag",
+    "extract": "Kanelbullens dag (z szw. Dzień bułeczki cynamonowej) – zwyczaj kulinarny obchodzony w Szwecji 4 października, praktykowany również w szwedzkojęzycznych wspólnotach w Finlandii i Stanach Zjednoczonych."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Kanelbullar homemade.jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mary Ellis grave: A grave that found itself in the middle of a movie theater parking lot.",
+   "article": {
+    "title": "Mary Ellis grave",
+    "url": "https://en.wikipedia.org/wiki/Mary_Ellis_grave",
+    "extract": "The Mary Ellis grave is a grave now located behind an AMC Theatre on U.S. Route 1 in New Brunswick, Middlesex County, New Jersey, United States. The granite gravestone is located on a 7-foot (2.1 m) high stonework platform surrounded by the back parking lot. Seven relatives are also buried and marked on the grave itself."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Mary Ellis Burial Site, New Brunswick, NJ.jpg)"
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Linux for PlayStation 2: Sony's ancestor to the Steam Machine.",
+   "article": {
+    "title": "Linux for PlayStation 2",
+    "url": "https://en.wikipedia.org/wiki/Linux_for_PlayStation_2",
+    "extract": "Linux for PlayStation 2 (or PS2 Linux) is a kit released by Sony Computer Entertainment in 2002 that allows the PlayStation 2 console to be used as a personal computer. It includes a Linux-based operating system, a USB keyboard and mouse, a VGA adapter, a PS2 network adapter (Ethernet only), and a 40 GB hard disk drive (HDD). An 8 MB memory card is required; It must be formatted during installation, erasing all data previously saved on it, though afterwards the remaining space may be used for savegames. It is strongly recommended that a user of Linux for PlayStation 2 have some basic knowledge of Linux before installing and using it, due to the command-line interface for installation."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Linux for PlayStation 2 box art.svg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "White House horseshoe pit: Where George H. W. Bush won an epic duel of horseshoes 21–0 in five minutes.",
+   "article": {
+    "title": "White House horseshoe pit",
+    "url": "https://en.wikipedia.org/wiki/White_House_horseshoe_pit",
+    "extract": "The White House horseshoe pit is a horseshoe pit on the South Lawn of the White House, the official residence of the president of the United States. It was established by President Harry Truman and later rebuilt by George H. W. Bush."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Collision between a car and a submarine: A truly once-in-a-lifetime crash.",
+   "article": {
+    "title": "Collision between a car and a submarine",
+    "url": "https://en.wikipedia.org/wiki/Collision_between_a_car_and_a_submarine",
+    "extract": "On 19 August 1961, a driverless Volvo PV544 crashed into the docked submarine HSwMS Bävern in Lysekil, Sweden. It is the only known collision between a car and a submarine."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:A collision between a car and a submarine.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "2008 French mistaken virginity case: France's most bizarre lawsuit: an angry man takes legal action against his newly married wife for not being a virgin.",
+   "article": {
+    "title": "2008 French mistaken virginity case",
+    "url": "https://en.wikipedia.org/wiki/2008_French_mistaken_virginity_case",
+    "extract": "On 1 April 2008, the high court of Lille (France) annulled a marriage on the grounds of \"mistaken essential qualities of the spouse\" in accordance with article 180 paragraph 2 [archive] of the French civil code. The woman was not a virgin at the time of the marriage ceremony, but had not admitted this to the man even though she knew that her status as a virgin was a determining factor in his motivation and consent to marry her. According to this initial court ruling, this was sufficient to declare the marriage annulled and therefore not to be recognized as a lawful marriage.\nAt the end of May 2008, a controversy ensued, and several public figures, politicians, religious figures, and intellectuals reacted to the decision."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kasongo Ilunga: A man who spent several months of 2007 as the Minister for Foreign Trade of the Democratic Republic of the Congo – even though he wasn't a real person.",
+   "article": {
+    "title": "Kasongo Ilunga",
+    "url": "https://en.wikipedia.org/wiki/Kasongo_Ilunga",
+    "extract": "Andre Kasongo Ilunga (allegedly born 20 October 1972) was supposedly the Vice-President of the UNAFEC party and the Minister for Foreign Trade of the Democratic Republic of the Congo for much of 2007, despite doubts on whether or not he ever actually existed as a real person. Although a member of the UNAFEC party selected by Prime Minister Antoine Gizenga, he failed to appear at the opening of the new Government, and never claimed his office. As a result, Kasongo Ilunga is now considered by the local media and the international community to have been an imaginary person, most likely created by Kisimba Ngoy, leader of the UNAFEC party, as a part of a plan to win the lucrative role for himself.\nUnder government rules, a party must provide a short list of at least two candidates for any ministerial role, with the Prime Minister making the final choice from the list."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Camp Bonifas: The bunkers on this golf course feature machine-guns and landmines.",
+   "article": {
+    "title": "Camp Bonifas",
+    "url": "https://en.wikipedia.org/wiki/Camp_Bonifas",
+    "extract": "Camp Bonifas is a United Nations Command military post located 400 m (1,300 ft) south of the southern boundary of the Korean Demilitarized Zone (DMZ). It is 2,400 m (7,900 ft) south of the Military Demarcation Line, which forms the border between South Korea (the Republic of Korea) and North Korea (the Democratic People's Republic of Korea). It was returned to the Republic of Korea in 2006."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:CampBonifas1.jpg)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Floyd pigs: The band's recurring props and references.",
+   "article": {
+    "title": "Pink Floyd pigs",
+    "url": "https://en.wikipedia.org/wiki/Pink_Floyd_pigs",
+    "extract": "Inflatable flying pigs were one of the staple props of Pink Floyd's live shows. The first balloon was a sow, with a male pig balloon later introduced in their 1987 tour. Pigs appeared numerous times in concerts by the band, promoting concerts and record releases, and on the cover of their 1977 album Animals.\nThe image rights for the pigs passed to Roger Waters when he split from the rest of the group, though the pigs continued to be used by both Pink Floyd and Roger Waters in their gigs after his departure."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Coachella_pigstage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Coachella_pigstage.jpg",
+    "file": "File:Coachella pigstage.jpg",
+    "artist": "Michael Simone",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 512,
+    "height": 363,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.superseventies.com/floydcvr.html"
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Geographic tongue: When a map appears on your tongue.",
+   "article": {
+    "title": "Geographic tongue",
+    "url": "https://en.wikipedia.org/wiki/Geographic_tongue",
+    "extract": "Geographic tongue, also known by several other terms, is a condition of the mucous membrane of the tongue, usually on the dorsal surface. It is a condition affecting approximately 2–3% of the general population. It is characterized by areas of smooth, red depapillation (loss of lingual papillae) that migrate over time. The name comes from the map-like appearance of the tongue, with the patches resembling the islands of an archipelago."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Landkartenzunge 005.jpg)"
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Drunkard's cloak: Attire for the village drunk.",
+   "article": {
+    "title": "Drunkard's cloak",
+    "url": "https://en.wikipedia.org/wiki/Drunkard%27s_cloak",
+    "extract": "A drunkard's cloak was a type of pillory used in various jurisdictions to punish miscreants."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png",
+    "file": "File:Brank and Drunkard's cloak at newcastle-on-tyne.png",
+    "artist": "William Andrews",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 918,
+    "height": 550,
+    "ok": true
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Šulak: A demon from Babylonian mythology believed to live in toilets and attack people while they poop, giving them strokes and epilepsy.",
+   "article": {
+    "title": "Šulak",
+    "url": "https://en.wikipedia.org/wiki/%C5%A0ulak",
+    "extract": "In ancient Babylonian medicine and religion, Šulak (Akkadian: 𒀭𒋗𒋃, dšu-lak, or 𒀭𒋗𒆷𒀝, dšu-la-ak) was a demon that lived within toilets. It was believed by Babylonians and Assyrians to attack those who sat on toilets while they defecated, striking them or possessing them and inflicting maladies such as stroke and epilepsy. Šulak was described as resembling a bipedal lion, and Babylonians invoked the lion-centaur spirit Urmahlullu to ward off the demon. A similar demon, Bar Širiqa, appears in the Babylonian Talmud and has been theorized to derive from Babylonian beliefs surrounding Šulak."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Middle_Assyrian_cylinder-seal_depicting_a_Lion_Centaur_and_the_demon_%C5%A0ulak_in_combat.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Middle_Assyrian_cylinder-seal_depicting_a_Lion_Centaur_and_the_demon_%C5%A0ulak_in_combat.png",
+    "file": "File:Middle Assyrian cylinder-seal depicting a Lion Centaur and the demon Šulak in combat.png",
+    "artist": "George, A.R.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1088,
+    "height": 558,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cambridge.org",
+    "url": "https://www.cambridge.org/core/journals/iraq/article/abs/on-babylonian-lavatories-and-sewers/8FCABF72C58BBFA6BC58BEB253A46FDF",
+    "title": "ON BABYLONIAN LAVATORIES AND SEWERS* | IRAQ | Cambridge Core",
+    "matched": [
+     "sulak",
+     "demon",
+     "babylonian",
+     "mythology",
+     "toilets",
+     "strokes",
+     "epilepsy"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Confessions of an English Opium-Eater: This highly popular autobiographical account about the effects of laudanum led several English authors to opium use.",
+   "article": {
+    "title": "Confessions of an English Opium-Eater",
+    "url": "https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater",
+    "extract": "Confessions of an English Opium-Eater is a memoir by Thomas De Quincey that recounts the circumstances of his addiction to laudanum, his experience of the drug, and its effect on his life. De Quincey was born in 1785. The chronology of his narrative begins with the death of his father in 1793, continues through his opium years beginning in 1804, and concludes after his marriage (in 1817) to a farmer's daughter named Margaret Simpson.\nDe Quincey completed the first edition of Confessions in 1821, at which point he published them anonymously in The London Magazine, where they appeared in two parts (in the September and October issues, respectively)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Confessions_of_an_English_Opium-Eater_cover_1823.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Confessions_of_an_English_Opium-Eater_cover_1823.jpg",
+    "file": "File:Confessions of an English Opium-Eater cover 1823.jpg",
+    "artist": "w:Thomas De Quincey",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 269,
+    "height": 500,
+    "ok": true
+   },
+   "second_source": {
+    "name": "historic-uk.com",
+    "url": "https://www.historic-uk.com/CultureUK/Thomas-De-Quincey/",
+    "title": "Thomas De Quincey - Historic UK",
+    "matched": [
+     "confessions",
+     "english",
+     "opium",
+     "eater",
+     "highly",
+     "popular",
+     "autobiographical",
+     "laudanum",
+     "authors"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Modern flat Earth beliefs: Despite overwhelming evidence against them, it seems more people believe in a flat Earth nowadays than they did in classical times.",
+   "article": {
+    "title": "Modern flat Earth beliefs",
+    "url": "https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs",
+    "extract": "Anti-scientific beliefs in a flat Earth are promoted by a number of organizations and individuals. The claims of modern flat Earth proponents are not based on scientific knowledge and are contrary to over two millennia of scientific consensus based on multiple confirming lines of evidence that Earth is roughly spherical. Flat Earth beliefs are classified by experts in philosophy and physics as a form of science denial.\nFlat Earth groups of the modern era date from the middle of the 20th century; some adherents are serious and some are not."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flat_earth.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Flat_earth.png",
+    "file": "File:Flat earth.png",
+    "artist": "Trekky0623 at English Wikipedia (\"I made this map myself\")",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 543,
+    "height": 543,
+    "ok": true
+   },
+   "second_source": {
+    "name": "physicsworld.com",
+    "url": "https://physicsworld.com/a/fighting-flat-earth-theory/",
+    "title": "Fighting flat-Earth theory – Physics World",
+    "matched": [
+     "modern",
+     "earth",
+     "beliefs",
+     "despite",
+     "evidence",
+     "against",
+     "seems",
+     "people",
+     "believe"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ararat anomaly: A strange geological element that, for years, has confused practicing Christians and geologists.",
+   "article": {
+    "title": "Ararat anomaly",
+    "url": "https://en.wikipedia.org/wiki/Ararat_anomaly",
+    "extract": "The Ararat anomaly is an alleged structure appearing on photographs of the snowfields near the summit of Mount Ararat, Turkey, and advanced by some Christian believers  as the remains of Noah's Ark."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ararat_anomaly_1949.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ararat_anomaly_1949.jpeg",
+    "file": "File:Ararat anomaly 1949.jpeg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 400,
+    "height": 305,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cnn.com",
+    "url": "http://www.cnn.com/2006/TECH/space/03/13/satellite.noahs.ark/index.html",
+    "title": "CNN.com - Satellite closes in on Noah's Ark mystery - Mar 13, 2006",
+    "matched": [
+     "ararat",
+     "anomaly",
+     "strange",
+     "geological",
+     "geologists"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Feral child: Children raised without parents.",
+   "article": {
+    "title": "Feral child",
+    "url": "https://en.wikipedia.org/wiki/Feral_child",
+    "extract": "A feral child (also called wild child) is a young individual who has lived isolated from human contact from a very young age, with little or no experience of human care, social behavior, or language. Such children lack the basics of primary and secondary socialization. The term is used to refer to children who have suffered severe abuse or trauma before being abandoned or running away. They are sometimes the subjects of folklore and legends, often portrayed as having been raised by animals."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mowgli-1895-illustration.png",
+    "file": "File:Mowgli-1895-illustration.png",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 500,
+    "height": 752,
+    "ok": true
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that ancient Greek playwrights could use a rolling platform to bring scenery or corpses onto the stage?",
+   "article": {
+    "title": "Ekkyklema",
+    "url": "https://en.wikipedia.org/wiki/Ekkyklema",
+    "extract": "An ekkyklema (lit. 'roll-out machine') was a wheeled platform used in ancient Greek theatre. From at least the middle of the fifth century BCE, it was used to reveal events conceived of as having happened within the skene, a structure behind the stage which usually represented some sort of interior space. Since early manuscripts of ancient Greek plays did not include stage directions, modern scholars must infer its use from evidence within the plays' dialogue, as well as from marginal notes (scholia) added by post-classical scholars to surviving manuscripts. \nIt is debated how often the ekkyklema was used in the original performances of known plays, and whether it featured in the plays of Aeschylus, the earliest tragic playwright whose works survive."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ekkyklema_.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ekkyklema_.gif",
+    "file": "File:Ekkyklema .gif",
+    "artist": "Lauracorominas",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 368,
+    "height": 299,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Count of St. Germain: The original Tommy Wiseau, an eighteenth century polymath who made a number of contradictory claims about his origins, including that he was 500 years old. People have also claimed he is an important theosophical figure who many have claimed to have met years after his supposed death in 1784.",
+   "article": {
+    "title": "Count of St. Germain",
+    "url": "https://en.wikipedia.org/wiki/Count_of_St._Germain",
+    "extract": "The Count of St. Germain (French: Comte de Saint-Germain; French pronunciation: [kɔ̃t də sɛ̃ ʒɛʁmɛ̃]; 1691 or 1712 – 27 February 1784), whose real name and origins remain unknown, was a European adventurer who had interests and achievements in science, alchemy, philosophy, and the arts. He rose to prominence in the European high society of the mid-18th century due to his works and interests. He associated himself with some of the most prominent figures of the era, including Giacomo Casanova, Voltaire and Wolfgang Amadeus Mozart."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Count_of_St_Germain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Count_of_St_Germain.jpg",
+    "file": "File:Count of St Germain.jpg",
+    "artist": "Nicolas Thomas",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 505,
+    "height": 632,
+    "ok": true
+   },
+   "second_source": {
+    "name": "davidpratt.info",
+    "url": "http://davidpratt.info/st-germain1.htm",
+    "title": "The Count of Saint-Germain (1)",
+    "matched": [
+     "500",
+     "count",
+     "germain",
+     "original",
+     "century",
+     "contradictory",
+     "claims",
+     "origins"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mock Turtle: The weirdest, and least recorded, character in Alice in Wonderland.",
+   "article": {
+    "title": "Mock Turtle",
+    "url": "https://en.wikipedia.org/wiki/Mock_Turtle",
+    "extract": "The Mock Turtle is a fictional character devised by Lewis Carroll for his popular 1865 book Alice's Adventures in Wonderland. Its name is taken from a dish that was popular in the Victorian period, mock turtle soup."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alice_par_John_Tenniel_34.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Alice_par_John_Tenniel_34.png",
+    "file": "File:Alice par John Tenniel 34.png",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 849,
+    "height": 1018,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://www.oed.com/search/dictionary/?q=tortoise"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Paul is dead\": Was Paul McCartney replaced by a lookalike in the 1960s?",
+   "article": {
+    "title": "Paul is dead",
+    "url": "https://en.wikipedia.org/wiki/Paul_is_dead",
+    "extract": "\"Paul is dead\" is an urban legend and conspiracy theory alleging that English musician Paul McCartney of the Beatles died in 1966 and was secretly replaced by a look-alike. The rumour began circulating in 1966, gaining broad popularity in September 1969 following reports on American college campuses. Rumours declined after Life published an interview with McCartney in November 1969.\nAccording to the story, McCartney died in a car crash, and, to spare the public from grief, the surviving Beatles, aided by Britain's MI5, replaced him with a McCartney look-alike, subsequently communicating this secret through subtle details of their albums."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Paul_McCartney_in_1966_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paul_McCartney_in_1966_(cropped).jpg",
+    "file": "File:Paul McCartney in 1966 (cropped).jpg",
+    "artist": "WCFL/Chicago Federation of Labor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 327,
+    "height": 451,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.the-paulmccartney-project.com/1966/10/brian-epstein-denies-paul-mccartney-is-leaving-the-beatles/"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Criterion of embarrassment: You know it's true because it's too embarrassing for anyone to have made it up.",
+   "article": {
+    "title": "Criterion of embarrassment",
+    "url": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
+    "extract": "The criterion of embarrassment is a type of historical analysis in which a historical account is deemed more likely to be true if the author would have no reason to invent a historical account which might embarrass them. It is logically similar to statements against interest in a legal context. Certain Biblical scholars have used this as a meter for assessing whether the New Testament's accounts of Jesus's actions and words are historically probable.\nThe criterion of embarrassment is one of the criteria of authenticity used by academics, the others being the criterion of dissimilarity, the criterion of language and environment, criterion of coherence, and the criterion of multiple attestation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Francesco_Albani_-_Baptism_of_Christ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Francesco_Albani_-_Baptism_of_Christ.jpg",
+    "file": "File:Francesco Albani - Baptism of Christ.jpg",
+    "artist": "Francesco Albani",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 475,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070316185139/http://ancienthistory.about.com/b/a/229667.htm",
+    "title": "Discussion of the Historical Jesus",
+    "matched": [
+     "criterion",
+     "embarrassment",
+     "embarrassing"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the Great Pumpkin Mystery has never been solved?",
+   "article": {
+    "title": "Cornell University pumpkin prank",
+    "url": "https://en.wikipedia.org/wiki/Cornell_University_pumpkin_prank",
+    "extract": "In October 1997, a pumpkin was placed on the lightning rod of McGraw Tower at Cornell University in Ithaca, New York, United States. Due to attempts to identify the object, speculation on how it was placed, and the unknown identity of the culprit, the pumpkin acquired national news coverage as well as a dedicated website with a webcam. It was referred to as the Great Pumpkin Mystery.\nThe pumpkin stayed on the top of the tower until March 1998, when it was accidentally knocked down by a crane cage during a rehearsal for its removal."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/McGrawTowerPumpkin_Inset_zoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:McGrawTowerPumpkin_Inset_zoom.jpg",
+    "file": "File:McGrawTowerPumpkin Inset zoom.jpg",
+    "artist": "User:Wasted Time R, User:Beejamjam",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1140,
+    "height": 1704,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cornellsun.com",
+    "url": "https://www.cornellsun.com/article/2000/11/how-the-pumpkin-got-on-the-tower",
+    "title": "How the Pumpkin Got on the Tower! - The Cornell Daily Sun",
+    "matched": [
+     "great",
+     "pumpkin",
+     "mystery",
+     "never",
+     "cornell",
+     "university",
+     "prank"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Borscht Belt: For those who love borscht and find the Bible Belt and Rust Belt too boring.",
+   "article": {
+    "title": "Borscht Belt",
+    "url": "https://en.wikipedia.org/wiki/Borscht_Belt",
+    "extract": "The Borscht Belt, or Yiddish Alps, is a region of the U.S. state of New York that had summer resorts catering to American Jewish vacationers, especially residents of New York City. The resorts, most later defunct, were located in the southern foothills of the Catskill Mountains in parts of Sullivan and Ulster counties, bordering the northern edges of the New York metropolitan area.\nA 2019 review of the history is more specific: \"in its heyday, as many as 500 resorts catered to guests of various incomes.\" These resorts, as well as the Borscht Belt bungalow colonies, were a popular vacation spot for New York City Jews from the 1920s through the 1960s. By the late 1950s, many began closing, with most gone by the 1970s, but some major resorts continued to operate, a few into the 2010s."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Map_of_New_York_highlighting_Borscht_Belt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Map_of_New_York_highlighting_Borscht_Belt.png",
+    "file": "File:Map of New York highlighting Borscht Belt.png",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 232,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.smithsonianmag.com/travel/pop-up-exhibition-on-the-catskills-borscht-belt-to-evolve-into-permanent-museum-180982906/"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Spherical cow: \"Consider a spherical cow in a vacuum…\"",
+   "article": {
+    "title": "Spherical cow",
+    "url": "https://en.wikipedia.org/wiki/Spherical_cow",
+    "extract": "The spherical cow is a humorous metaphor for highly simplified scientific models of complex phenomena. Originating in theoretical physics, the metaphor refers to a tendency within some modern fields of science  to develop toy models that reduce a problem to the simplest form imaginable, making calculations more feasible, even if the simplification hinders the model's application to reality."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/SphericalCow2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SphericalCow2.gif",
+    "file": "File:SphericalCow2.gif",
+    "artist": "Ingrid Kallick (http://www.ikallick.com)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 200,
+    "height": 231,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nautil.us",
+    "url": "https://nautil.us/the-sacred-spherical-cows-of-physics-234898/?_sp=8f9da26e-b83c-494c-b924-2299f583b41a.1686083977685",
+    "title": "The Sacred, Spherical Cows of Physics - Nautilus",
+    "matched": [
+     "spherical",
+     "consider",
+     "vacuum"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aldibo­rontip­hosky­phornio­stikos: Published in 1825 as a Victorian children's book and described as \"a round game for merry parties\", the object of the game was to quickly recite alphabetical tongue-twisting mock-Latin gibberish.",
+   "article": {
+    "title": "Aldiborontiphoskyphorniostikos",
+    "url": "https://en.wikipedia.org/wiki/Aldiborontiphoskyphorniostikos",
+    "extract": "Aldiborontiphoskyphorniostikos was a book that contained a game in which players had to read the snippet for each letter of the alphabet as fast as they could without making a mistake. Alternatively, several players could read the snippets in a staggered manner. The snippets for each letter contain tongue-twisting mock-Latin names whose content is cumulatively appended at the end of each new letter snippet.\nThe book is based on Chrononhotonthologos, which in turn was based on Henry Fielding's Tom Thumb."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Odds_nipperkins.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Odds_nipperkins.png",
+    "file": "File:Odds nipperkins.png",
+    "artist": "R Stennet",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 457,
+    "height": 397,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20110721214454/http://www.cts.dmu.ac.uk/AnaServer?hockliffe+120054+hoccview.anv"
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of hazing deaths in the United States: A frankly enormous list of people in the United States alone who have died due to hazing.",
+   "article": {
+    "title": "List of hazing deaths in the United States",
+    "url": "https://en.wikipedia.org/wiki/List_of_hazing_deaths_in_the_United_States",
+    "extract": "This is a list of hazing deaths in the United States. This is not an exhaustive list. An exact list is not available because there is no central system for tracking hazing deaths, and the role of hazing in some deaths is subject to disagreement. Inclusion in this list requires that the incident be described as a hazing-related death by the media."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Stuart_Pierson%2C_hazing_casualty_%281905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stuart_Pierson,_hazing_casualty_(1905).jpg",
+    "file": "File:Stuart Pierson, hazing casualty (1905).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1144,
+    "height": 1252,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hanknuwer.com",
+    "url": "http://www.hanknuwer.com/articles/hazing-deaths/",
+    "title": "U.S. Hazing Deaths: 1838-1999 – Hank Nuwer, Author; Hazing Deaths Database",
+    "matched": [
+     "hazing",
+     "deaths",
+     "united",
+     "states",
+     "frankly",
+     "people",
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Arses of Persia: Unfortunately, 4th century BC Persian rulers were unable to predict modern profanity.",
+   "article": {
+    "title": "Arses of Persia",
+    "url": "https://en.wikipedia.org/wiki/Arses_of_Persia",
+    "extract": "Arses (Old Persian: *R̥šā; Ancient Greek: Ἀρσής), also known by his regnal name Artaxerxes IV (; Old Persian: 𐎠𐎼𐎫𐎧𐏁𐏂𐎠 Artaxšaçāʰ; Ancient Greek: Ἀρταξέρξης), was the twelfth Achaemenid King of Kings from 338 to 336 BC.\nArses ascended the throne, after his father Artaxerxes III—who had caused a resurgence of the Persian Empire—was poisoned by the eunuch Bagoas. The latter put Arses on the throne with the expectation of being able to control him. With the weakening of the Achaemenid Empire from the assassination of Artaxerxes III and the succession of Arses, the Greek league sent troops into Asia in 336.\nArses, in an attempt to free himself from Bagoas' influences, tried to have the eunuch poisoned; but did not succeed, instead succumbing to poison himself at the orders of Bagoas."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Artaxerxes_IV_Arses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Artaxerxes_IV_Arses.jpg",
+    "file": "File:Artaxerxes IV Arses.jpg",
+    "artist": "Classical Numismatic Group; [1]",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 404,
+    "height": 420,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "http://www.iranicaonline.org/articles/arses-greek-rendering-of-an-old-persian-name-used-as-a-hypocoristic"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Butt Fumble: Be careful where you run with that ball, Mark.",
+   "article": {
+    "title": "Butt Fumble",
+    "url": "https://en.wikipedia.org/wiki/Butt_Fumble",
+    "extract": "The Butt Fumble was a notorious American football play from a National Football League (NFL) game played on Thanksgiving Day, November 22, 2012, between the New York Jets and New England Patriots.\nIn front of the home crowd of over 79,000 fans at MetLife Stadium and a primetime television audience of over 20 million, Jets quarterback Mark Sanchez collided with the buttocks of his teammate, offensive lineman Brandon Moore, causing a fumble, which was then recovered by the Patriots' safety Steve Gregory and returned for a touchdown. The play was the centerpiece of a disastrous sequence in the second quarter, wherein the Jets lost three fumbles and the Patriots scored three touchdowns in the span of 52 seconds of game time. In that second quarter, the Jets held the ball for over 12 minutes (out of a possible 15), but managed to be outscored 35–3."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/New_Meadowlands_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:New_Meadowlands_Stadium.jpg",
+    "file": "File:New Meadowlands Stadium.jpg",
+    "artist": "RYANonWIKIPEDIA at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 512,
+    "height": 384,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.theringer.com/nfl/2022/11/22/23471718/new-york-jets-butt-fumble-10-year-anniversary-mark-sanchez"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ota Benga: The tragic story of a Pygmy man from the Congo Free State who was briefly exhibited in the Bronx Zoo.",
+   "article": {
+    "title": "Ota Benga",
+    "url": "https://en.wikipedia.org/wiki/Ota_Benga",
+    "extract": "Ota Benga (c. 1883 – March 20, 1916) was a Mbuti (Congo pygmy) former slave and performer at an exhibit at the 1904 Louisiana Purchase Exposition in St. Louis, Missouri, and as a human zoo exhibit in 1906 at the Bronx Zoo. Benga had been purchased from native African slave traders by Samuel Phillips Verner, a businessman searching for African people for the exhibition, who brought him to the United States and hired him for stagework. While at the Bronx Zoo, Benga was allowed to walk the grounds before and after he was exhibited in the zoo's Monkey House."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ota_Benga_at_1904_World%27s_Fair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ota_Benga_at_1904_World%27s_Fair.jpg",
+    "file": "File:Ota Benga at 1904 World's Fair.jpg",
+    "artist": "Gerhard Sisters",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 900,
+    "height": 1200,
+    "ok": true
+   },
+   "second_source": {
+    "name": "critograph.com",
+    "url": "https://critograph.com/2017/09/14/ota-benga-honored/",
+    "title": "Ota Benga Honored",
+    "matched": [
+     "benga",
+     "story",
+     "pygmy",
+     "congo",
+     "exhibited",
+     "bronx"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ugly Gerry: A typeface where each letter is represented by a not-so-beautiful U.S. congressional district.",
+   "article": {
+    "title": "Ugly Gerry",
+    "url": "https://en.wikipedia.org/wiki/Ugly_Gerry",
+    "extract": "Ugly Gerry is a font that uses the shapes of United States congressional districts for each of its characters, created in 2019 as a protest against gerrymandering. It was designed by Ben Doessel and James Lee of the Leo Burnett Agency in a project for RepresentUs."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ugly_Gerry_font_sample.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ugly_Gerry_font_sample.png",
+    "file": "File:Ugly Gerry font sample.png",
+    "artist": "Ben Doessel and James Lee (font), Xeroctic (screenshot)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 864,
+    "height": 337,
+    "ok": true
+   },
+   "second_source": {
+    "name": "businessinsider.com",
+    "url": "https://www.businessinsider.com/you-can-download-font-gerrymandered-congressional-districts-2019-8",
+    "title": "New Downloadable Font Based on Gerrymandered Congressional Districts - Business Insider",
+    "matched": [
+     "gerry",
+     "letter",
+     "represented",
+     "congressional",
+     "district"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Adam Rainer: The only person known to be both a dwarf and a giant.",
+   "article": {
+    "title": "Adam Rainer",
+    "url": "https://en.wikipedia.org/wiki/Adam_Rainer",
+    "extract": "Adam Rainer (22 February 1899 – 4 March 1950) was an Austrian man who is the only person in recorded history to have been both a dwarf and a giant. He is believed to have had acromegaly."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Adam_Rainer_%281899-1950%29_circa_1930.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Adam_Rainer_(1899-1950)_circa_1930.webp",
+    "file": "File:Adam Rainer (1899-1950) circa 1930.webp",
+    "artist": "AnonymousUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 194,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150206050935/http://thechirurgeonsapprentice.com/2015/01/20/worlds-littlest-giant-the-curious-case-of-adam-rainer/",
+    "title": "World’s Littlest Giant: The Curious Case of Adam Rainer &laquo; The Chirurgeon's Apprentice",
+    "matched": [
+     "rainer",
+     "person",
+     "known",
+     "dwarf",
+     "giant"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "R. Stevie Moore: A one-man band who has self-released over 400 albums through his home-based mailing service since 1982. Later noted as a pioneer of DIY music and indie rock.",
+   "article": {
+    "title": "R. Stevie Moore",
+    "url": "https://en.wikipedia.org/wiki/R._Stevie_Moore",
+    "extract": "Robert Steven Moore (born January 18, 1952) is an American multi-instrumentalist, singer, and songwriter who pioneered lo-fi (or \"DIY\") music. Often called the \"godfather of home recording\", he is one of the most recognized artists of the cassette underground, and his influence is particularly felt in the bedroom and hypnagogic pop artists of the post-millennium. Since 1968, he has self-released approximately 400 albums, while about three dozen official albums (largely compilations) have been issued on various labels.\nBorn the son of Nashville A-Team bassist Bob Moore, Steven grew up in the 1960s listening to the Beatles, the Beach Boys, the Mothers of Invention, and Jimi Hendrix."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/R._Stevie_Moore_in_Madison_TN_November_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:R._Stevie_Moore_in_Madison_TN_November_2025.jpg",
+    "file": "File:R. Stevie Moore in Madison TN November 2025.jpg",
+    "artist": "Squirrelhouse",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 499,
+    "height": 689,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20180205001012/https://archives.sfweekly.com/sanfrancisco/meet-r-stevie-moore-the-original-bedroom-pop-savant/Content?oid=2181463",
+    "title": "Meet R. Stevie Moore, the Original Bedroom-Pop Savant | Music | San Francisco | San Francisco News and Events | SF Weekly",
+    "matched": [
+     "400",
+     "1982",
+     "stevie",
+     "moore",
+     "released",
+     "albums",
+     "through",
+     "service",
+     "since"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bushism: Any of a number of peculiar words, phrases, pronunciations, malapropisms, semantic or linguistic errors that have occurred in the public speaking of former United States President George W. Bush.",
+   "article": {
+    "title": "Bushism",
+    "url": "https://en.wikipedia.org/wiki/Bushism",
+    "extract": "Bushisms are unconventional statements, phrases, pronunciations, malapropisms, and semantic or linguistic errors made in the public speaking of George W. Bush, the 43rd president of the United States. Common characteristics of Bushisms include malapropisms, spoonerisms, the creation of neologisms or stunt words, and errors in subject–verb agreement."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/President_George_W._Bush_address_the_nation_on_the_economy_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:President_George_W._Bush_address_the_nation_on_the_economy_2008.jpg",
+    "file": "File:President George W. Bush address the nation on the economy 2008.jpg",
+    "artist": "White House photo by Eric Draper",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 515,
+    "height": 616,
+    "ok": true
+   },
+   "second_source": {
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/politics/bush/piehigher.asp",
+    "title": "Make the Pie Higher! | Snopes.com",
+    "matched": [
+     "bushism",
+     "number",
+     "words",
+     "phrases",
+     "malapropisms",
+     "occurred",
+     "public"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "New Swabia: The Nazi territory in Antarctica.",
+   "article": {
+    "title": "New Swabia",
+    "url": "https://en.wikipedia.org/wiki/New_Swabia",
+    "extract": "New Swabia (Norwegian and German: Neuschwabenland) was an area of Antarctica explored, with the intention to claim it, by Nazi Germany between 1938 and 1939, within the Norwegian territorial claim of Queen Maud Land. The region was named after the expedition's ship, Schwabenland, itself named after the German region of Swabia. Although the name \"New Swabia\" is occasionally mentioned in historical contexts, it is not an officially recognized cartographic name in modern use. The area is now part of Queen Maud Land, governed under the Antarctic Treaty System."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/NewSwabiaMap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NewSwabiaMap.jpg",
+    "file": "File:NewSwabiaMap.jpg",
+    "artist": "Thomas Blomberg",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 714,
+    "height": 714,
+    "ok": true
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Wallsend Metro station: A station on the Tyne and Wear Metro in Northern England which has Latin signage. Still, it contains \"no smoking\" signs, despite tobacco being unknown to ancient Romans… Talk about being anachronistic.",
+   "article": {
+    "title": "Wallsend Metro station",
+    "url": "https://en.wikipedia.org/wiki/Wallsend_Metro_station",
+    "extract": "Wallsend (Latin: Segedunum) is a Tyne and Wear Metro station, serving the town of Wallsend, North Tyneside in Tyne and Wear, England. It joined the network on 14 November 1982, following the opening of the fourth phase of the network, between Tynemouth and St James via Wallsend."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wallsend_Metro_Station_%28detail%29_%28geograph_4747420%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wallsend_Metro_Station_(detail)_(geograph_4747420).jpg",
+    "file": "File:Wallsend Metro Station (detail) (geograph 4747420).jpg",
+    "artist": "Andrew Curtis",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1024,
+    "height": 767,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/2/hi/uk_news/england/2847385.stm",
+    "title": "BBC NEWS | UK | England | Latin lessons for Tyneside travellers",
+    "matched": [
+     "wallsend",
+     "metro",
+     "station",
+     "northern",
+     "england",
+     "latin",
+     "smoking",
+     "signs"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eskimo words for snow: The claim that Eskimo languages have an unusually large number of words for \"snow\".",
+   "article": {
+    "title": "Eskimo words for snow",
+    "url": "https://en.wikipedia.org/wiki/Eskimo_words_for_snow",
+    "extract": "The claim that Eskimo words for snow are unusually numerous, particularly in contrast to English, is a cliché commonly used to support the controversial linguistic relativity hypothesis. In linguistic terminology, the relevant languages are the Eskaleut languages, specifically the Yupik and Inuit varieties.\nThe strongest interpretation of the linguistic relativity hypothesis posits that a language's vocabulary (among other features) shapes or limits its speakers' view of the world. This interpretation is widely criticized by linguists, though a 2010 study supports the core notion that the Yupik and Inuit languages have many more root words for frozen variants of water than the English language."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaskan_Inuit_winter_home_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Alaskan_Inuit_winter_home_1900.jpg",
+    "file": "File:Alaskan Inuit winter home 1900.jpg",
+    "artist": "not indicated",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 449,
+    "ok": true
+   },
+   "second_source": {
+    "name": "languagelog.ldc.upenn.edu",
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=4419",
+    "title": "Language Log &raquo; Bad science reporting again: the Eskimos are back",
+    "matched": [
+     "eskimo",
+     "words",
+     "claim",
+     "languages",
+     "unusually",
+     "number"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Operation Pastorius: Hitler's disastrous attempt to sabotage America from the inside, including one guy who left his confidential documents on a train, two others who accidentally revealed they were secret agents, and two who just turned themselves in.",
+   "article": {
+    "title": "Operation Pastorius",
+    "url": "https://en.wikipedia.org/wiki/Operation_Pastorius",
+    "extract": "Operation Pastorius was a failed German intelligence plan for sabotage inside the United States during World War II. The operation was staged in June 1942 and was to be directed against strategic American economic targets. The operation was named for Francis Daniel Pastorius, the founder of the first organized settlement of Germans in North America. The plan involved eight German saboteurs who had previously spent time in the United States.\nThe plan quickly failed after two of the agents, George John Dasch and Ernest Peter Burger, defected to the Federal Bureau of Investigation shortly after being deployed, betraying the other six."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nazi_saboteur_trial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nazi_saboteur_trial.jpg",
+    "file": "File:Nazi saboteur trial.jpg",
+    "artist": "U.S. Army Signal Corps",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 557,
+    "height": 422,
+    "ok": true
+   },
+   "second_source": {
+    "name": "flickr.com",
+    "url": "https://www.flickr.com/photos/washington_area_spark/50093850417/",
+    "title": "Nazi saboteur Neubauer after his arrest: 1942 | Hermann Otto… | Flickr",
+    "matched": [
+     "operation",
+     "pastorius",
+     "hitler",
+     "attempt",
+     "sabotage",
+     "america",
+     "inside",
+     "including",
+     "documents",
+     "train"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Uncombable hair syndrome: Not just a bad hair day.",
+   "article": {
+    "title": "Uncombable hair syndrome",
+    "url": "https://en.wikipedia.org/wiki/Uncombable_hair_syndrome",
+    "extract": "Uncombable hair syndrome (UHS) is a rare structural anomaly of the hair with a variable degree of effect. It is characterized by hair that is silvery, dry, frizzy, wiry, and impossible to comb. It was first reported in the early 20th century. UHS has several names, including pili trianguli et canaliculi (Latin), cheveux incoiffables (French), and \"spun-glass hair\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Scalp_hair-uncombable_hair_syndrome.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Scalp_hair-uncombable_hair_syndrome.gif",
+    "file": "File:Scalp hair-uncombable hair syndrome.gif",
+    "artist": "Hana Kathryn Cobb, Alvin Yuhico Tiu",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 500,
+    "height": 274,
+    "ok": true
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MP4 (band): Rock music and Members of Parliament do mix.",
+   "article": {
+    "title": "MP4 (band)",
+    "url": "https://en.wikipedia.org/wiki/MP4_(band)",
+    "extract": "MP4 are a British rock band made up of four current and former British Members of Parliament."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mp4theband.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mp4theband.jpg",
+    "file": "File:Mp4theband.jpg",
+    "artist": "Matthew Thomas",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 500,
+    "height": 311,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/humber/content/articles/2005/05/11/mp4_music_feature.shtml",
+    "title": "BBC - Humber - Entertainment - MP4 strike a chord with voters",
+    "matched": [
+     "music",
+     "members",
+     "parliament"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of classical music concerts with an unruly audience response: Concerts which didn't work out quite as well as hoped.",
+   "article": {
+    "title": "List of classical music concerts with an unruly audience response",
+    "url": "https://en.wikipedia.org/wiki/List_of_classical_music_concerts_with_an_unruly_audience_response",
+    "extract": "There have been many notable instances of unruly behaviour at classical music concerts, often at the premiere of a new work or production. Audience members displayed unruly behavior for a variety of reasons."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Artaxerxes_riots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Artaxerxes_riots.jpg",
+    "file": "File:Artaxerxes riots.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 955,
+    "height": 602,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.hberlioz.com/Special/cwasselin_1e.htm"
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Grawlix: Those symbols in place of profanity have a name, but knowing this fact is $#@&%in' useless!",
+   "article": {
+    "title": "Grawlix",
+    "url": "https://en.wikipedia.org/wiki/Grawlix",
+    "extract": "Grawlix () or obscenicon is the use of typographical symbols to replace profanity, typically using \"unpronounceable\" characters. Mainly used in cartoons and comics, it has been described as the graphical equivalent of a bleep censor. The first known grawlix appeared in the November 1, 1901 story of Gene Carr's comic strip Lady Bountiful."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Grawlix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Grawlix.jpg",
+    "file": "File:Grawlix.jpg",
+    "artist": "Myresa Hurst",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 364,
+    "height": 284,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20240709011251/https://www.thoughtco.com/what-is-grawlix-1690824",
+    "title": "Definition and Examples of Grawlixes in Comics",
+    "matched": [
+     "grawlix",
+     "symbols",
+     "profanity"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Norway Debate: A series of adjournment debates over three days, one of which ended with the House of Commons nearly voting against the question 'that this House do now adjourn'. Highlights include former Prime Minister David Lloyd George comparing future Prime Minister Winston Churchill to an air raid shelter.",
+   "article": {
+    "title": "Norway Debate",
+    "url": "https://en.wikipedia.org/wiki/Norway_Debate",
+    "extract": "The Norway Debate, sometimes called the Narvik Debate, was a momentous debate in the British House of Commons from 7 to 9 May 1940, during the Second World War. The official title of the debate, as held in the Hansard parliamentary archive, is Conduct of the War. Scheduled in advance, it was initiated by an adjournment motion enabling the Commons to freely discuss the progress of the Norwegian campaign. The debate quickly brought to a head widespread dissatisfaction with the overall conduct of the war by Neville Chamberlain's government."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Neville_Chamberlain_by_William_Orpen_-_1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Neville_Chamberlain_by_William_Orpen_-_1929.jpg",
+    "file": "File:Neville Chamberlain by William Orpen - 1929.jpg",
+    "artist": "William Orpen",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 460,
+    "height": 592,
+    "ok": true
+   },
+   "second_source": {
+    "name": "api.parliament.uk",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/may/02/norway-situation#column_906",
+    "title": "NORWAY (SITUATION). (Hansard, 2 May 1940)",
+    "matched": [
+     "norway",
+     "debate",
+     "debates",
+     "three",
+     "ended",
+     "house",
+     "commons",
+     "against"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Frank Lloyd Wright decided to continue building a house on a fault line despite warnings from a geologist neighbor?",
+   "article": {
+    "title": "Hanna–Honeycomb House",
+    "url": "https://en.wikipedia.org/wiki/Hanna%E2%80%93Honeycomb_House",
+    "extract": "The Hanna–Honeycomb House (also known as the Paul R. Hanna House; shortened to Hanna House) is a residence at 737 Frenchmans Road on the Stanford University campus in Stanford, California, United States. Designed by Frank Lloyd Wright in the Usonian style, it was his first work in the San Francisco Bay Area. The house is built atop a hill and consists of two interconnected wings, which include a main building, guest wing, hobby shop, storage building, double carport, breezeway, and garden house. Its floor plan, built around a hexagonal grid, was the first non-rectangular plan Wright ever designed."
+   },
+   "related": [
+    "Frank Lloyd Wright"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hanna_House_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanna_House_10.JPG",
+    "file": "File:Hanna House 10.JPG",
+    "artist": "Fizbin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 539,
+    "height": 259,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nps.gov",
+    "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/list-of-nhls-by-state.htm",
+    "title": "List of NHLs by State - National Historic Landmarks (U.S. National Park Service)",
+    "matched": [
+     "frank",
+     "lloyd",
+     "wright",
+     "continue",
+     "building",
+     "house",
+     "neighbor"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Peter Sotos: A writer and musician who explores serial killer and pedophile lore, while simultaneously praising them in his work. For one of his magazine covers, he used an image taken from real child pornography, which he plead guilty to possessing.",
+   "article": {
+    "title": "Peter Sotos",
+    "url": "https://en.wikipedia.org/wiki/Peter_Sotos",
+    "extract": "Peter Gus Sotos (born April 17, 1960) is an American author and musician. As an author, Sotos has 31 published books with several translated into foreign languages. In his books, Sotos writes about sadistic sexual criminals and sexually violent pornography in great detail, particularly involving children. His books tend to be first-person narratives, taking on the point of view of the sexual predator in order to portray sadistic and pedophilic sexual impulses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peter_Sotos_at_Tesco_Fest_Day_2%2C_2011%2C_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Peter_Sotos_at_Tesco_Fest_Day_2,_2011,_1_(cropped).jpg",
+    "file": "File:Peter Sotos at Tesco Fest Day 2, 2011, 1 (cropped).jpg",
+    "artist": "Beverly Hames/Beverly Battle",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://baltimorepostexaminer.com/understanding-peter-sotos-beyond-the-controversies/2024/06/12"
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Josip Šimunić: A Croatian footballer booked three times before being sent off in the 2006 World Cup, and also known for giving Ustaše chants to the crowd.",
+   "article": {
+    "title": "Josip Šimunić",
+    "url": "https://en.wikipedia.org/wiki/Josip_%C5%A0imuni%C4%87",
+    "extract": "Josip \"Joe\" Šimunić (Croatian pronunciation: [jǒsip ʃǐmunitɕ]; born 18 February 1978) is a former professional footballer who played as a centre-back.\nBorn in Australia to Bosnian Croat parents, Šimunić started his career at Melbourne Knights, then moved to Germany where he spent 14 seasons in the Bundesliga with Hamburger SV, Hertha BSC and TSG 1899 Hoffenheim before finishing his career in Croatia with Dinamo Zagreb.\nŠimunić played for Croatia from 2001 to 2013, appearing in five major tournaments – the 2002 and 2006 World Cups as well as the 2004, 2008 and 2012 European Championships – and is the sixth-most-capped player in the history of the Croatia national team."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_%D0%9A%D0%B8%D0%B5%D0%B2_-_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1_2-0._3_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2012_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_276854.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_%D0%9A%D0%B8%D0%B5%D0%B2_-_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1_2-0._3_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2012_%D0%B3%D0%BE%D0%B4%D0%B0_%E2%80%94_276854.jpg",
+    "file": "File:Матч «Динамо» Киев - «Динамо» Загреб 2-0. 3 октября 2012 года — 276854.jpg",
+    "artist": "Dynamomania.com",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 600,
+    "height": 400,
+    "ok": true
+   },
+   "second_source": {
+    "name": "smh.com.au",
+    "url": "https://www.smh.com.au/sport/soccer/documentary-helps-josip-simunic-continue-his-fight-to-clear-his-name-after-fifa-ban-20160204-gmleu8.html",
+    "title": "Documentary helps Josip Simunic continue his fight to clear his name after FIFA ban",
+    "matched": [
+     "2006",
+     "josip",
+     "simunic",
+     "croatian",
+     "three",
+     "times",
+     "world",
+     "ustase"
+    ]
+   }
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+   "article": {
+    "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+    "url": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
+    "extract": "In the highland villages of North Toraja, the skyline is dominated by tongkonan—traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual and social anchor for Torajan clans, decorated strictly according to Aluk Todolo (\"the way of the ancestors\"), the indigenous animist belief"
+   },
+   "published": "Wed, 18 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+   "article": {
+    "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+    "url": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
+    "extract": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifacts and films that tell the stories of these baseball players and all the people that made these teams possible. Notable highlights include:"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thermes Romains de Cimiez in Nice, France",
+   "article": {
+    "title": "Thermes Romains de Cimiez in Nice, France",
+    "url": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+    "extract": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered;"
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+   "article": {
+    "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
+    "extract": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only for two to three months during the summer when seasonal tides and currents recede. When the tide drops, it reveals smooth golden sandbanks "
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Astronaut Roundabout in Valdemoro, Spain",
+   "article": {
+    "title": "Astronaut Roundabout in Valdemoro, Spain",
+    "url": "https://www.atlasobscura.com/places/astronaut-roundabout",
+    "extract": "Valdemoro, a town south of Madrid better known for its proximity to Pinto than for space exploration, has an unlikely visitor from another world standing in the middle of one of its roundabouts. Francisco Leiro’s El Astronauta, installed in 2001, has become one of the town’s most distinctive modern landmarks. The four-meter-tall stainless-steel figure appears to be taking a monumental step across "
+   },
+   "published": "Tue, 17 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Glass Wonders Gallery in Karpacz, Poland",
+   "article": {
+    "title": "Glass Wonders Gallery in Karpacz, Poland",
+    "url": "https://www.atlasobscura.com/places/glass-wonders-gallery",
+    "extract": "Step into a realm where sand and fire transform into pure magic at the Glass Wonders Gallery in Karpacz. Nestled in the heart of the Karkonosze Mountains, this hidden gem turns an ordinary afternoon walk into a mesmerizing journey through light and color. Forget boring, dusty display cases; this place feels alive with vibrant hues and shapes that seem to defy gravity, instantly capturing the imagi"
+   },
+   "published": "Tue, 17 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+   "article": {
+    "title": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+    "url": "https://www.atlasobscura.com/places/agnese-visconti-memorial-plaque",
+    "extract": "Within the sprawling grounds of Mantua's Ducal Palace lies Piazza Pallone (now officially Piazza Lega Lombarda), a quiet, tree-lined square, few tourists notice the simple stone plaque mounted on the perimeter wall enclosing the space. The plaque commemorates one of the darkest episodes of Mantuan Renaissance history: the beheading of Agnese Visconti on February 7, 1391. Agnese, daughter of the Lo"
+   },
+   "published": "Mon, 16 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+   "article": {
+    "title": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+    "url": "https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d",
+    "extract": "Looming over the quiet countryside of An Nhon, Hoang De Citadel represents an extraordinary historical palimpsest where two distinct Vietnamese empires converged upon a single plot of land. Originally built in the eleventh century as Vijaya, the formidable stone-walled capital of the Champa Kingdom, the grounds were transformed in 1776 when Emperor Nguyen Nhac established it as the imperial strong"
+   },
+   "published": "Mon, 16 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+   "article": {
+    "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
+    "extract": "On the east side of State Road 31 near Peru, Indiana, sits a naval gun on the grounds of the Pipe Creek Mercantile Trading House. The shop features a wide selection of items in individual booths. If you go in not knowing what you are looking for, they probably have it. The gun sits in the northwest corner of the property, along the fence line near the highway. The gun's information identifies it a"
+   },
+   "published": "Mon, 16 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+   "article": {
+    "title": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/thanksgiving-turkey-prices-by-state-2026-map?utm_source=RSS",
+    "extract": "Find out how much a Thanksgiving turkey costs in your state for 2026. See which states pay the highest prices and where you can find a bargain."
+   },
+   "published": "Thu, 19 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/robert-pattinson-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'The Odyssey' to 'Twilight' and everything in between, Robert Pattinson has amassed quite a filmography. Read about all his major film roles, ranked from best to worst based on Rotten Tomatoes scores."
+   },
+   "published": "Thu, 19 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+   "article": {
+    "title": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-us-cities-visit-thanksgiving-map?utm_source=RSS",
+    "extract": "Planning a Turkey Day trip? WalletHub ranked 100 U.S. cities on weather, affordability, and festive traditions to find the best places to visit."
+   },
+   "published": "Wed, 18 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Charles Dickens Novel He Considered His Favorite",
+   "article": {
+    "title": "The Charles Dickens Novel He Considered His Favorite",
+    "url": "https://www.mentalfloss.com/literature/books/charles-dickens-favorite-novel?utm_source=RSS",
+    "extract": "Discover the real-life history behind Charles Dickens’s favorite book, 'David Copperfield,' and the grueling childhood secret he kept even from his wife."
+   },
+   "published": "Wed, 18 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Paul Simon Once Called This the Best Cover of Any of His Songs",
+   "article": {
+    "title": "Paul Simon Once Called This the Best Cover of Any of His Songs",
+    "url": "https://www.mentalfloss.com/entertainment/music/paul-simon-favorite-cover-aretha-franklin?utm_source=RSS",
+    "extract": "Paul Simon's songs have been covered many times, but none stood out as much as Aretha Franklin's powerful cover of \"Bridge Over Troubled Water.\""
+   },
+   "published": "Wed, 18 Nov 2026 20:30:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Forgotten Dating Terms From the Early 1900s",
+   "article": {
+    "title": "6 Forgotten Dating Terms From the Early 1900s",
+    "url": "https://www.mentalfloss.com/language/slang/forgotten-dating-terms-early-1900s?utm_source=RSS",
+    "extract": "These old words and phrases used to be a common part of dating language in the 1900s."
+   },
+   "published": "Wed, 18 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Famous Movie Props That Were Totally Improvised",
+   "article": {
+    "title": "5 Famous Movie Props That Were Totally Improvised",
+    "url": "https://www.mentalfloss.com/entertainment/movies/movie-props-improvised?utm_source=RSS",
+    "extract": "Before CGI and blockbuster budgets, filmmakers had to learn to make do. These five props show just how well that ingenuity worked."
+   },
+   "published": "Wed, 18 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Did George Washington Really Have ‘The American Crisis’ Read to His Troops?",
+   "article": {
+    "title": "Did George Washington Really Have ‘The American Crisis’ Read to His Troops?",
+    "url": "https://www.mentalfloss.com/history/presidents/george-washington-the-american-crisis-read-to-troops?utm_source=RSS",
+    "extract": "“These are the times that try men’s souls” turns 250 on December 19, but the earliest known printed account of the army hearing it before Trenton comes 33 years later."
+   },
+   "published": "Wed, 18 Nov 2026 15:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/james-bond-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'Goldfinger' to 'A View to Kill,' James Bond movies have a very wide range of ratings on Rotten Tomatoes."
+   },
+   "published": "Tue, 17 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Greek Myth That Inspired the Hunger Games",
+   "article": {
+    "title": "The Greek Myth That Inspired the Hunger Games",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/greek-myth-inspired-hunger-games?utm_source=RSS",
+    "extract": "The hero that inspired Katniss Everdeen also comes from the story of the labyrinth at Knossos and the Minotaur who haunts it. Here's how the labyrinth myth inspired Suzanne Collins' 'Hunger Games' series, including 'Sunrise on the Reaping.'"
+   },
+   "published": "Wed, 18 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Rarest Zodiac Signs, Ranked",
+   "article": {
+    "title": "The Rarest Zodiac Signs, Ranked",
+    "url": "https://www.mentalfloss.com/culture/rarest-zodiac-signs-ranked?utm_source=RSS",
+    "extract": "Are you a rare Capricorn or a common Virgo? Here are all 12 zodiac signs ranked from least to most common, backed by real U.S. birth statistics."
+   },
+   "published": "Tue, 17 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's 9 Most Hated Chores, Ranked",
+   "article": {
+    "title": "America's 9 Most Hated Chores, Ranked",
+    "url": "https://www.mentalfloss.com/live-smarter/home/america-most-hated-chores-ranked?utm_source=RSS",
+    "extract": "Did your least favorite chore make the list?"
+   },
+   "published": "Tue, 17 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+   "article": {
+    "title": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+    "url": "https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/",
+    "extract": "Archaeologists teamed up with a coroner to determine that the \"Ballymacombs More Woman\" was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice"
+   },
+   "published": "Wed, 18 Nov 2026 20:36:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+   "article": {
+    "title": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+    "url": "https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/",
+    "extract": "About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It's associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia"
+   },
+   "published": "Wed, 18 Nov 2026 19:57:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+   "article": {
+    "title": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+    "url": "https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/",
+    "extract": "\"The Book of Miracles,\" a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena"
+   },
+   "published": "Wed, 18 Nov 2026 18:53:36 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block",
+   "article": {
+    "title": "Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block",
+    "url": "https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/",
+    "extract": "The 1952 painting, \"Congreso de los pueblos por la paz,\" allegedly disappeared from Kahlo's house-museum in Mexico City under suspicious circumstances. Heritage groups argue that it rightfully belongs to the Mexican public"
+   },
+   "published": "Wed, 18 Nov 2026 18:30:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo's Zoo Enclosure, Where the Animal Ate It. Here's How the Care Team Is Responding",
+   "article": {
+    "title": "A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo's Zoo Enclosure, Where the Animal Ate It. Here's How the Care Team Is Responding",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
+   "article": {
+    "title": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
+    "url": "https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/",
+    "extract": "The 1.7 million gigabytes of data include more than 900 million galaxies, more than 60 million potential quasars and about 15,000 candidates of an elusive cosmic phenomenon that can help scientists understand dark matter and dark energy"
+   },
+   "published": "Wed, 18 Nov 2026 16:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That's Probably Not Why They Have Fearless Personalities",
+   "article": {
+    "title": "Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That's Probably Not Why They Have Fearless Personalities",
+    "url": "https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/",
+    "extract": "New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahua genome, likely the result of interbreeding between coyotes and the domesticated dog's ancestors long ago"
+   },
+   "published": "Wed, 18 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+   "article": {
+    "title": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/from-a-small-island-in-denmark-this-man-lived-through-the-transition-from-hunter-gathering-to-farming-6000-years-ago-180989889/",
+    "extract": "A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolution in his lifetime, growing up eating mostly foraged seafood before shifting to more land-based, likely farmed, foods as an adult"
+   },
+   "published": "Wed, 18 Nov 2026 13:15:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+   "article": {
+    "title": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+    "url": "https://www.smithsonianmag.com/smart-news/this-tiny-unassuming-fungus-is-a-dark-magic-mushroom-the-first-found-to-contain-both-psychedelic-compounds-and-deadly-toxins-180989885/",
+    "extract": "Researchers collected the mushroom from a moss-covered palm trunk in the central Florida wetland. Its relatives are known to produce amatoxins, but the fungus surprisingly turned blue when handled, a telltale sign that the organism makes psilocybin"
+   },
+   "published": "Tue, 17 Nov 2026 21:06:13 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+   "article": {
+    "title": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+    "url": "https://www.smithsonianmag.com/smart-news/how-did-ancient-egypts-sacred-cats-live-more-than-100-unwrapped-mummies-reveal-poor-living-conditions-infections-and-violence-before-death-180989888/",
+    "extract": "Osteological and chemical tests on 131 museum specimens reveal that domestic cats and wild-caught jungle cats later destined for mummification suffered high rates of disease and physical trauma"
+   },
+   "published": "Tue, 17 Nov 2026 20:58:18 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+   "article": {
+    "title": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+    "url": "https://www.smithsonianmag.com/smart-news/for-almost-600-years-this-enigmatic-jan-van-eyck-painting-has-entraced-viewers-could-it-actually-be-a-self-portrait-in-disguise-180989883/",
+    "extract": "The new theory about the \"Arnolfini Portrait\" comes as London's National Gallery brings together all 10 of the artist's known portraits for the first time ever"
+   },
+   "published": "Tue, 17 Nov 2026 18:32:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+   "article": {
+    "title": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+    "url": "https://www.smithsonianmag.com/smart-news/spacex-catches-the-upper-stage-of-its-starship-for-the-first-time-making-the-company-one-step-closer-to-a-reusable-rocket-180989877/",
+    "extract": "After circling the Earth 14 times, the upper portion of Starship descended to the planet's surface and was caught by a giant pair of robotic, chopstick-like arms. However, the company failed to snatch the lower stage, which it had previously demonstrated"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+   "article": {
+    "title": "Jak Stalin pozbył się ponad 20 tysięcy polskich jeńców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/jak-stalin-pozbyl-sie-ponad-20-tysiecy-polskich-jencow/",
+    "extract": "Po agresji ZSRR na Polskę we wrześniu 1939 roku tysiące polskich oficerów trafiły do sowieckich obozów jenieckich. Panowały tam dramatyczne warunki, a raporty NKWD ujawniały skalę zaniedbań, głodu i cierpienia więźniów. Kreml doskonale wiedział, co dzieje się za drutami kolczastymi. Wkrótce jednak Stalin i jego współpracownicy postanowili rozwiązać problem polskich jeńców w zupełnie inny sposób. T"
+   },
+   "published": "Sun, 08 Nov 2026 08:11:57 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+   "article": {
+    "title": "Biskupi żyli tu jak królowie. Zamek w Prabutach był kulturalną stolicą Prus",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/07/biskupi-zyli-tu-jak-krolowie-zamek-w-prabutach-byl-kulturalna-stolica-prus/",
+    "extract": "W średniowieczu był jedną z najwspanialszych rezydencji biskupich w Prusach. Gościł możnych, a później także poetów, pisarzy i wybitnych humanistów. W XVI wieku zamek w Prabutach przeżywał okres największej świetności, stając się ważnym ośrodkiem życia intelektualnego. Dziś po tej imponującej budowli pozostały jedynie skromne ślady. Co doprowadziło do upadku dawnej siedziby biskupów? The post Bisk"
+   },
+   "published": "Sat, 07 Nov 2026 10:54:52 +0000",
+   "image": null
+  }
+ ]
+}
