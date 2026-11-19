@@ -1,0 +1,2114 @@
+{
+ "run": {
+  "date": "2026-11-19",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-19T13:20:28.273Z",
+  "candidates": 101,
+  "with_free_image": 37,
+  "ready": 20
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 6",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 10",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 261",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4258",
+  "drugie-zrodlo": "ok 20/34"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego brytyjski premier Tony Blair nie uczestniczył w obchodach 60. rocznicy zakończenia II wojny światowej w Moskwie?",
+   "article": {
+    "title": "Parada z okazji Dnia Zwycięstwa w Moskwie (2005)",
+    "url": "https://pl.wikipedia.org/wiki/Parada_z_okazji_Dnia_Zwyci%C4%99stwa_w_Moskwie_(2005)",
+    "extract": "Parada z okazji Dnia Zwycięstwa w Moskwie – parada wojskowa, która odbyła się 9 maja 2005 r. na Placu Czerwonym w Moskwie z okazji 60. rocznicy zakończenia II wojny światowej i obchodów Dnia Zwycięstwa."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Victory Day Parade 2005-1.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto jest autorem dialogów sokratejskich?",
+   "article": {
+    "title": "Aischines ze Sfettos",
+    "url": "https://pl.wikipedia.org/wiki/Aischines_ze_Sfettos",
+    "extract": "Aischines ze Sfettos (stgr. Αἰσχίνης Σφήττιος), zwany też Aischinesem Sokratykiem (stgr. Αἰσχίνης Σωκρατικός; łac. Aeschines Socraticus, ur."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak przebiega test penetracyjny?",
+   "article": {
+    "title": "Test penetracyjny",
+    "url": "https://pl.wikipedia.org/wiki/Test_penetracyjny",
+    "extract": "Test penetracyjny – proces polegający na przeprowadzeniu kontrolowanego ataku na system teleinformatyczny, mający na celu praktyczną ocenę bieżącego stanu bezpieczeństwa tego systemu, w szczególności obecności znanych podatności i odporności na próby przełamania zabezpieczeń. Polega na analizie systemu pod kątem występowania potencjalnych błędów bezpieczeństwa spowodowanych niewłaściwą konfiguracją, lukami w oprogramowaniu lub sprzęcie, słabościami w technicznych lub proceduralnych środkach zabezpieczeń, a nawet niewystarczającą świadomością użytkowników. Analiza ta jest przeprowadzana z perspektywy potencjalnego włamywacza i może zawierać aktywne wykorzystywanie podatności (np. poprzez użycie exploitów)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która odsłona serii Panzer General po raz pierwszy wykorzystywała w pełni trójwymiarowe pole bitwy?",
+   "article": {
+    "title": "Panzer General 3D Assault",
+    "url": "https://pl.wikipedia.org/wiki/Panzer_General_3D_Assault",
+    "extract": "Panzer General 3D Assault – komputerowa strategiczna gra turowa osadzona w realiach II wojny światowej, wyprodukowana i wydana w 1999 roku przez amerykańskie przedsiębiorstwo Strategic Simulations (SSI) na platformę Microsoft Windows. Należy do serii Panzer General i jest następcą gry Panzer General II z 1997 roku. W Niemczech została wydana pod tytułem Panzer General IV: Western Assault."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która gra komputerowa z 2020 roku wpisała się w nurt roguelike’ów karcianych?",
+   "article": {
+    "title": "Iris and the Giant",
+    "url": "https://pl.wikipedia.org/wiki/Iris_and_the_Giant",
+    "extract": "Iris and the Giant – gra komputerowa łącząca elementy gry fabularnej, strategicznej oraz karcianej, stworzona przez francuskiego projektanta Louisa Rigauda i wydana przez Goblinz Studio, Plug In Digital, Maple Whispering Limited oraz Mugen Creations. Premiera na Windows, macOS i Linux odbyła się 27 lutego 2020 roku, a port na Nintendo Switch ukazał się 5 listopada tego samego roku."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który piłkarz Pogoni Szczecin wystąpił w finale Superpucharu Chorwacji?",
+   "article": {
+    "title": "Filip Čuić",
+    "url": "https://pl.wikipedia.org/wiki/Filip_%C4%8Cui%C4%87",
+    "extract": "Filip Čuić (ur. 22 lutego 2003 w Splicie) – chorwacko-bośniacki piłkarz występujący na pozycji napastnika w polskim klubie Pogoń Szczecin."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że silnik Limbach L550E napędza irańskie i rosyjskie drony bojowe?",
+   "article": {
+    "title": "Limbach L550E",
+    "url": "https://pl.wikipedia.org/wiki/Limbach_L550E",
+    "extract": "Limbach L550E – niemiecki czterocylindrowy, dwusuwowy tłokowy silnik lotniczy o przeciwsobnym układzie cylindrów, produkowany przez przedsiębiorstwo Limbach Flugmotorenbau od 1987 r. Silnik o pojemności skokowej 548 cm³ jest chłodzony powietrzem i przeznaczony do napędu lekkich statków powietrznych. Na jego konstrukcji oparto produkowany w Chinach silnik Mado MD550, stanowiący jednostkę napędową m.in. irańskiej amunicji krążącej Shahed 136."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/L550e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:L550e.jpg",
+    "file": "File:L550e.jpg",
+    "artist": "Peter Limbach",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 960,
+    "height": 960,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tech.wp.pl",
+    "url": "https://tech.wp.pl/zajrzeli-do-drona-rosjan-ten-widok-ich-zaskoczyl,7005478913723104a",
+    "title": "Zajrzeli do drona Rosjan. Ten widok ich zaskoczył",
+    "matched": [
+     "550",
+     "silnik",
+     "limbach",
+     "l550e",
+     "iranskie",
+     "drony"
+    ]
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…które brytyjskie studio (obok logo) wyprodukowało trzy gry z serii Grand Theft Auto na konsole przenośne?",
+   "article": {
+    "title": "Rockstar Leeds",
+    "url": "https://pl.wikipedia.org/wiki/Rockstar_Leeds",
+    "extract": "Rockstar Leeds (dawniej Möbius Entertainment Limited) – brytyjski producent gier komputerowych z siedzibą w Leeds. Jego założycielami byli Ian J. Bowden, Dave Box, Gordon Hall i Jason McGann, którzy w grudniu 1997 roku założyli studio pod nazwą Möbius Entertainment, po wspólnej pracy w studiu Hookstone. Möbius współpracował z SCi Games przy dwóch grach: Alfred's Adventure (2000), remake'u na Game Boy Color gry Alfred Chicken (1993), oraz anulowanej grze Titanium Angels. Począwszy od 2001 roku, studio tworzyło gry na Game Boy Advance dla kilku wydawców, w tym kilka tytułów dla The 3DO Company oraz grę Max Payne (2003) dla Rockstar Games."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Rockstar Leeds Logo.svg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który japoński kompozytor skomponował muzykę do gry Super Mario 64?",
+   "article": {
+    "title": "Super Mario 64",
+    "url": "https://pl.wikipedia.org/wiki/Super_Mario_64",
+    "extract": "Super Mario 64 (jap. スーパーマリオ64 Sūpā Mario 64) – gra platformowa stworzona i wydana przez Nintendo w 1996 roku na konsolę Nintendo 64. Jest pierwszą grą z serii Super Mario z grafiką trójwymiarową. Bowser najeżdża zamek księżniczki Peach, porywa ją, a gwiazdy z zamku ukrywa w światach, do których prowadzą magiczne obrazy."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Super Mario 64 logo.png)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Donald Trump and handshakes: Who knew people had this much to say about how Donald Trump gives handshakes?",
+   "article": {
+    "title": "Donald Trump and handshakes",
+    "url": "https://en.wikipedia.org/wiki/Donald_Trump_and_handshakes",
+    "extract": "The handshakes of Donald Trump, the 45th and 47th president of the United States, with world leaders have been the subject of extensive commentary. Scholars have noted that politicians' handshakes are usually unnoticed or restricted to silent interpretation by the participants, and only in the case of Trump do they appear to receive widespread media attention.\nNotable incidents of handshakes (and avoidance of handshakes) have included interactions with French president Emmanuel Macron, Japanese prime minister Shinzo Abe, Canadian prime minister Justin Trudeau, German chancellor Angela Merkel, and U.S. leaders including FBI director James Comey and Supreme Court justice nominee Neil Gorsuch. The same characteristic or mannerism was identified during Trump's 2016 presidential campaign, although it was not widely reported on at the time."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Shinz%C5%8D_Abe_met_with_President-elect_Donald_Trump_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shinz%C5%8D_Abe_met_with_President-elect_Donald_Trump_(1).jpg",
+    "file": "File:Shinzō Abe met with President-elect Donald Trump (1).jpg",
+    "artist": "首相官邸ホームページ",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 600,
+    "height": 448,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/us-news/2017/may/28/the-trump-handshake-how-world-leaders-are-fighting-back",
+    "title": "The Trump handshake: how world leaders are fighting back | Donald Trump | The Guardian",
+    "matched": [
+     "donald",
+     "trump",
+     "handshakes"
+    ]
+   }
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Francesco Antonio Giorgioli painted himself in a fresco at Rheinau Abbey as a beggar kneeling beside Saint Martin?",
+   "article": {
+    "title": "Francesco Antonio Giorgioli",
+    "url": "https://en.wikipedia.org/wiki/Francesco_Antonio_Giorgioli",
+    "extract": "Francesco Antonio Giorgioli (c. 1655 – 15 November 1725) was a Swiss painter of the Baroque period. He was known for religious fresco painting and created major works for churches and abbeys in Switzerland and southern Germany. His work was an important early contribution to Italian Baroque fresco painting in Switzerland."
+   },
+   "related": [
+    "Rheinau Abbey"
+   ],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Kloster Pfäffers. Kirche St. Maria. Freske 08. 2019-02-16 12-43-26.jpg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Heart Attack Grill: Noted for its 8,000-calorie \"Quadruple Bypass Burger\". It also lives up to its name.",
+   "article": {
+    "title": "Heart Attack Grill",
+    "url": "https://en.wikipedia.org/wiki/Heart_Attack_Grill",
+    "extract": "The Heart Attack Grill was an American independent restaurant in Downtown Las Vegas, Nevada. It had restaurants in Arizona (2005-2011) and Texas (2011), but its longest-running location was in Las Vegas, Nevada where it operated from October 2011 to May 2026. The restaurant served junk food deliberately high in fat, sugar, and cholesterol, and its staff wore hospital-themed uniforms."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Heart Attack Grill, Las Vegas - Logo.JPG)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Living root bridge: Double-decker suspension bridges formed of living plant aerial roots of rubber fig trees by tree shaping common in the southern part of the Northeast Indian state of Meghalaya.",
+   "article": {
+    "title": "Living root bridge",
+    "url": "https://en.wikipedia.org/wiki/Living_root_bridge",
+    "extract": "Living root bridges are a kind of tree shaping in which rivers are spanned by bridges formed out of the roots of ficus plants. Due to their being made from living, growing trees, they \"show a very wide variety of structural typologies, with various aspects of particular bridges resembling characteristics of suspension bridges, cable-stayed bridges, arches, trusses, and simply-supported beams.\"  They are common in the Indian state of Meghalaya.\nThe structures are handmade from the aerial roots of rubber fig trees (Ficus elastica) by the Khasi and Jaiñtia peoples of the mountainous terrain along the southern part of the Shillong Plateau. Most of the bridges grow on steep slopes of subtropical moist broadleaf forest between 50 and 1,150 m (160 and 3,770 ft) above sea level."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Living root bridges, Nongriat village, Meghalaya2.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Head-Smashed-In Buffalo Jump: Life lesson: if you see hunters chasing buffalo off a cliff, don't stand at the bottom.",
+   "article": {
+    "title": "Head-Smashed-In Buffalo Jump",
+    "url": "https://en.wikipedia.org/wiki/Head-Smashed-In_Buffalo_Jump",
+    "extract": "Head-Smashed-In Buffalo Jump (Blackfoot: Estipah-skikikini-kots) is a museum of Blackfoot culture 18 kilometres (11 mi) west of Fort Macleod, Alberta, Canada. The now disused buffalo jump is a UNESCO world heritage site in an area where the foothills of the Rocky Mountains begin to rise from the prairie.\nJoe Crowshoe Sr.  (1903–1999) – Aapohsoy’yiis (Weasel Tail) – a ceremonial elder of the Piikani Nation in southern Alberta, was instrumental in the development of the site."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Head-Smashed-In Buffalo Jump-27527-2.jpg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Hot Coffee (minigame)\": All you had to do was do yo' damn girlfriend, CJ!",
+   "article": {
+    "title": "Hot Coffee (minigame)",
+    "url": "https://en.wikipedia.org/wiki/Hot_Coffee_(minigame)",
+    "extract": "\"Hot Coffee\" is the unofficial name for a minigame in the 2004 action-adventure video game Grand Theft Auto: San Andreas by Rockstar Games. While it was not playable in the official game release, the modding community discovered hidden code that, when enabled, allows protagonist Carl \"CJ\" Johnson to have animated sexual intercourse with his in-game girlfriend.\nRockstar Games president Sam Houser wanted to include more role-playing elements in San Andreas while also pushing the Grand Theft Auto series' controversial reputation. The development team was forced to curtail the nudity and sexual content of Houser's original vision, however."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that RuPaul's song \"Sissy That Walk\" was inspired by a phrase used by a child-pageant coach?",
+   "article": {
+    "title": "Sissy That Walk",
+    "url": "https://en.wikipedia.org/wiki/Sissy_That_Walk",
+    "extract": "\"Sissy That Walk\" is a song recorded by the American drag queen RuPaul for his seventh studio album, Born Naked (2014). The electropop song was written by RuPaul and Lucian Piane, with Piane also serving as its producer. It was released as the lead single of Born Naked by RuCo, Inc. on May 5, 2014."
+   },
+   "related": [
+    "RuPaul",
+    "Child beauty pageant"
+   ],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Leck mich im Arsch\": Three canons by Mozart about licking him in the arse (See also Mozart and scatology above.)",
+   "article": {
+    "title": "Leck mich im Arsch",
+    "url": "https://en.wikipedia.org/wiki/Leck_mich_im_Arsch",
+    "extract": "\"Leck mich im Arsch\" (German for \"Lick me in the arse\") is a canon in B♭ major composed by Wolfgang Amadeus Mozart, K. 231 (K. 382c), with lyrics in German. It was one of a set of at least six canons probably written in Vienna in 1782. Sung by six voices, it is thought to be a party piece for his friends."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Mozart (unfinished) by Lange 1782.jpg)"
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Diella (AI system): The world's first AI-generated cabinet minister.",
+   "article": {
+    "title": "Diella (AI system)",
+    "url": "https://en.wikipedia.org/wiki/Diella_(AI_system)",
+    "extract": "Diella (Albanian pronunciation: [djɛɫa], from diell 'sun') is an artificial intelligence system developed by the National Agency for Information Society of Albania (AKSHI). Introduced in January 2025 as a virtual assistant integrated into the eAlbania platform, it assists citizens with online public services and issuing digital documents. In September 2025, following a presidential decree authorizing Prime Minister Edi Rama to oversee the creation of a virtual AI minister, Diella was formally appointed as \"Minister of State for Artificial Intelligence\" of Albania in the fourth Rama government, making it the first AI system in the world to be named in a cabinet-level government role."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Black and white hat symbolism in film: The hat, sir, whatever could it mean?",
+   "article": {
+    "title": "Black and white hat symbolism in film",
+    "url": "https://en.wikipedia.org/wiki/Black_and_white_hat_symbolism_in_film",
+    "extract": "In American films of the Western genre between the 1920s and the 1940s, white hats were often worn by heroes and black hats by villains to symbolize the contrast in good versus evil. The 1903 short film The Great Train Robbery provides an early example of this convention. Two exceptions to the convention were portrayals by William Boyd (active 1918–1954), who wore dark clothing as Hopalong Cassidy, and Robert Taylor's portrayal in the film The Law and Jake Wade (1958).\nThe book Investigating Information Society said the convention was arbitrarily imposed by filmmakers in the genre with the expectation that audiences would understand the categorizations."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_Bild_102-00053%2C_Tom_Mix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-00053,_Tom_Mix.jpg",
+    "file": "File:Bundesarchiv Bild 102-00053, Tom Mix.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 523,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Names of Soviet origin: In the wake of the Russian Revolution, there was a craze for parents giving names of overtly revolutionary or Soviet inspiration. Examples include \"Vladlen\" (short for Vladimir Lenin), \"Revmir\" (\"Revolution of the world\"), \"Elmira\" (electrification of the world), \"Barrikad\" (barricade) and \"Geliy\" (helium).",
+   "article": {
+    "title": "Names of Soviet origin",
+    "url": "https://en.wikipedia.org/wiki/Names_of_Soviet_origin",
+    "extract": "Given names of Soviet origin appeared in the early history of the Soviet Union, coinciding with the period of intensive word formation, both being part of the so-called \"revolutionary transformation of the society\" with the corresponding fashion of neologisms and acronyms, which Richard Stites characterized as a utopian vision of creating a new reality by means of verbal imagery. They constituted a notable part of the new Soviet phraseology.\nSuch names may be primarily found in Russian persons, and sometimes in Belarusians and Ukrainians, as well as in other minorities of the former USSR (e.g. Tatar)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8.jpg",
+    "file": "File:Токарев Вилли.jpg",
+    "artist": "Mikhail Popov",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 300,
+    "height": 300,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://web.archive.org/web/20150704074808/http://akazak.ru/chitalnyj-zal/interesnye-stati/117-villi-tokarev-lkogda-tebya-podgonyayut-nado-govorit-lokejr-i-delat-po-svoemur.html"
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Toilets in Japan: The most advanced toilets in the world with computers, nozzles and flashing lights.",
+   "article": {
+    "title": "Toilets in Japan",
+    "url": "https://en.wikipedia.org/wiki/Toilets_in_Japan",
+    "extract": "Toilets in Japan are sometimes designed more elaborately than toilets commonly seen in other developed nations. European toilets occasionally have a separate bidet whilst Japan combines an electronic bidet with the toilet. The current state of the art for Western-style toilets in Japan is the bidet toilet, which as of March 2016 is installed in 81% of Japanese households. In Japan, these bidets are commonly called washlets, a brand name of Toto Ltd., and they may include many advanced features rarely seen outside of Asia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/JapaneseToiletBidet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JapaneseToiletBidet.jpg",
+    "file": "File:JapaneseToiletBidet.jpg",
+    "artist": "Chris 73",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 1206,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20060830204308/http://www.neverland.to/kanji/list/toilet.html"
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Half-hanging: For when you don't want to go all the way.",
+   "article": {
+    "title": "Half-hanging",
+    "url": "https://en.wikipedia.org/wiki/Half-hanging",
+    "extract": "Half-hanging is a method of torture in which the victim is non-lethally hanged. The victim may be strangled to the point of unconsciousness, in which case they are revived."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Half-hanging_on_travelling_gallows.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Half-hanging_on_travelling_gallows.gif",
+    "file": "File:Half-hanging on travelling gallows.gif",
+    "artist": "Henry Brocas",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 182,
+    "height": 267,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "za mało słów kluczowych w haczyku"
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Accessory breast: Some people have more than two.",
+   "article": {
+    "title": "Accessory breast",
+    "url": "https://en.wikipedia.org/wiki/Accessory_breast",
+    "extract": "Accessory breasts, also known as polymastia, supernumerary breasts, or mammae erraticae, is the atavistic condition of having an additional breast. These extra breasts may appear with or without nipples or areolae. The condition is most commonly observed in males and is generally harmless, often going untreated, but many affected individuals opt to undergo plastic surgery to remove the additional breasts for aesthetic reasons.\nPolythelia is a related condition in which one or more additional nipples form in the absence of developed breast tissue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Polymastia_of_the_Japanese_Wellcome_L0027954.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Polymastia_of_the_Japanese_Wellcome_L0027954.jpg",
+    "file": "File:Polymastia of the Japanese Wellcome L0027954.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1188,
+    "height": 1592,
+    "ok": true
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Auto-brewery syndrome: Like a microbrewery in your digestive system.",
+   "article": {
+    "title": "Auto-brewery syndrome",
+    "url": "https://en.wikipedia.org/wiki/Auto-brewery_syndrome",
+    "extract": "Auto-brewery syndrome (ABS) (also known as gut fermentation syndrome or endogenous ethanol fermentation) is an extremely rare and underdiagnosed medical condition characterized by the fermentation of ingested carbohydrates in the gastrointestinal tract caused by bacteria or fungi.\nIntoxicating amounts of ethanol are produced through endogenous fermentation within the digestive system. The organisms responsible for ABS include various yeasts and bacteria, including Saccharomyces cerevisiae, S. boulardii, Candida albicans, C. tropicalis, P. kudriavzevii, N. glabratus, C. parapsilosis, Kluyveromyces marxianus, Klebsiella pneumoniae, and Enterococcus faecium. These organisms undergo lactic acid fermentation or mixed acid fermentation pathways to produce an ethanol end product."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/2401_Components_of_the_Digestive_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2401_Components_of_the_Digestive_System.jpg",
+    "file": "File:2401 Components of the Digestive System.jpg",
+    "artist": "OpenStax College",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 936,
+    "height": 1185,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3484320"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lord Bloody Wog Rolo: Australian political personality and founder of the British Ultra Loyalist League Serving Historical Interests Today (B.U.L.L……).",
+   "article": {
+    "title": "Lord Bloody Wog Rolo",
+    "url": "https://en.wikipedia.org/wiki/Lord_Bloody_Wog_Rolo",
+    "extract": "Rolo Mestman Tapier (1 July 1945 – 3 December 2007) otherwise known as Lord Bloody Wog Rolo was an activist and colourful eccentric Sydney identity. He initially achieved notoriety for his anti-monarchist statements and activities and became one of the early members of BUGAUP (Billboard Utilising Graffitists Against Unhealthy Promotions). His provocative and sometimes confrontational manner, particularly with police, saw him detained or arrested on minor charges a number of times."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lord_Bloody_Wog_Rolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lord_Bloody_Wog_Rolo.jpg",
+    "file": "File:Lord Bloody Wog Rolo.jpg",
+    "artist": "Rozziew at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 229,
+    "height": 400,
+    "ok": true
+   },
+   "second_source": {
+    "name": "smh.com.au",
+    "url": "https://www.smh.com.au/national/activist-used-humour-as-his-best-defence-20080117-gdrx41.html?page=fullpage",
+    "title": "Activist used humour as his best defence",
+    "matched": [
+     "bloody",
+     "australian",
+     "british",
+     "ultra",
+     "loyalist",
+     "league",
+     "serving",
+     "historical",
+     "interests"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gorilla suit: What to wear when you don't want to look human.",
+   "article": {
+    "title": "Gorilla suit",
+    "url": "https://en.wikipedia.org/wiki/Gorilla_suit",
+    "extract": "Gorilla suits are a type of creature suit resembling a gorilla. The gorilla suit is a popular Halloween and costume party costume, and is also used as a source of humour, while more realistic suits have been used to represent real gorillas in film and on stage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Gorilla_suit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gorilla_suit_1.jpg",
+    "file": "File:Gorilla suit 1.jpg",
+    "artist": "internets dairy derivative work: Hic et nunc",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 406,
+    "height": 646,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20160502195102/http://www.theinvisiblegorilla.com/videos.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aeroflot Flight 6502: A plane that crashed after the pilot made a bet with the first officer that he could land it blind. Unfortunately for 70 people on board, he couldn't.",
+   "article": {
+    "title": "Aeroflot Flight 6502",
+    "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+    "extract": "Aeroflot Flight 6502 was a Soviet domestic passenger flight from Sverdlovsk (now Yekaterinburg) to Grozny via Kuibyshev (now Samara). On 20 October 1986, the Tupolev Tu-134A serving the flight crashed in Kuibyshev. Of the 94 passengers and crew on board, 70 were killed when the plane overran the runway after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot error."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png",
+    "file": "File:Aeroflot Tu-134A CCCP-65862 LFSB 1975-12-28.png",
+    "artist": "Eduard Marmet",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1023,
+    "height": 681,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20210111233158/https://aviation-safety.net/database/record.php?id=19861020-1"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Llanfairpwllgwyngyll: Or Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch, if you want to get technical.",
+   "article": {
+    "title": "Llanfairpwllgwyngyll",
+    "url": "https://en.wikipedia.org/wiki/Llanfairpwllgwyngyll",
+    "extract": "Llanfairpwllgwyngyll or Llanfair Pwllgwyngyll (Welsh: [ɬan.ˌvair.puɬˈɡwɨ̞n.ɡɨ̞ɬ]), often shortened to Llanfairpwll and sometimes to Llanfair PG, is a village and community on the Isle of Anglesey, Wales. It is located on the Menai Strait, next to the Britannia Bridge. At the 2011 Census the population was 3,107, of whom 71% could speak Welsh. As of the 2021 census, the population had decreased to 2,900 (rounded to the nearest 100)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Llanfair_Pwllgwyngyll_roofscape_%281%29_-_geograph.org.uk_-_1058331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Llanfair_Pwllgwyngyll_roofscape_(1)_-_geograph.org.uk_-_1058331.jpg",
+    "file": "File:Llanfair Pwllgwyngyll roofscape (1) - geograph.org.uk - 1058331.jpg",
+    "artist": "Robin Drayton",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20190207015655/http://www.llanfairpwll.org/community-council/"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn: Angus McDiarmad, a native Scots-Gaelic speaker, writes a book on a Scottish Highland area with the help of an English dictionary to great comic effect and is termed \"the world's worst author\".",
+   "article": {
+    "title": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn",
+    "url": "https://en.wikipedia.org/wiki/Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn",
+    "extract": "Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn, also published as A Description of the Beauties of Edinample and Lochearnhead, is a short book by the Scottish writer Angus McDiarmid (fl. early 19th century) that led the local history populariser Archie McKerracher to call him \"the world's worst author\".\nThe book is poorly written and has been humorously criticized by readers. The main text describes the scenery near Lochearnhead, including landmarks and local history."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Striking_and_Picturesque_Delineations_of_the_Grand%2C_Beautiful%2C_Wonderful%2C_and_Interesting_Scenery_Around_Loch-Earn_%28Book_Cover%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Striking_and_Picturesque_Delineations_of_the_Grand,_Beautiful,_Wonderful,_and_Interesting_Scenery_Around_Loch-Earn_(Book_Cover).png",
+    "file": "File:Striking and Picturesque Delineations of the Grand, Beautiful, Wonderful, and Interesting Scenery Around Loch-Earn (Book Cover).png",
+    "artist": "Angus McDiarmid",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1025,
+    "height": 1795,
+    "ok": true
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Baby cage: The pre-War way to get your baby some fresh air if you live in a high-rise apartment. Used by none other than Eleanor Roosevelt.",
+   "article": {
+    "title": "Baby cage",
+    "url": "https://en.wikipedia.org/wiki/Baby_cage",
+    "extract": "A baby cage was a bed in a wire cage suspended from city apartment windows. The \"health cage\", as it was initially called, was invented by Mrs. Robert C. Lafferty to provide babies with fresh air and sunshine while living in crowded cities."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/US1448235_Portable_Baby_Cage_Fig_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:US1448235_Portable_Baby_Cage_Fig_1.png",
+    "file": "File:US1448235 Portable Baby Cage Fig 1.png",
+    "artist": "Inventor Emma Read, by Watson E. Coleman Attorney.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1197,
+    "height": 1577,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nypost.com",
+    "url": "https://nypost.com/2018/12/29/good-parents-used-to-cover-their-babies-in-salt-and-put-them-in-cages/",
+    "title": "Parents once covered babies in salt and kept them in cages",
+    "matched": [
+     "fresh",
+     "eleanor",
+     "roosevelt"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Benjaman Kyle\": Found naked and unconscious outside a Burger King dumpster (where he derived his new alias from), he doesn't remember 20 years of his life, or how he ended up in Georgia from Colorado.",
+   "article": {
+    "title": "Benjaman Kyle",
+    "url": "https://en.wikipedia.org/wiki/Benjaman_Kyle",
+    "extract": "Benjaman Kyle is the alias chosen by William Burgess Powell (born August 29, 1948), an American man who has claimed to have severe amnesia.\nOn August 31, 2004, he was found naked, wounded, and without any possessions, next to a dumpster behind a Burger King restaurant in Richmond Hill, Georgia. Between 2004 and 2015, his real identity was unknown despite an intensive search that included television publicity and various other methods. In late 2015, genetic detective work led to the discovery of his identity as Powell."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Benjaman_Kyle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Benjaman_Kyle.jpg",
+    "file": "File:Benjaman Kyle.jpg",
+    "artist": "Adam Harbottle",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 401,
+    "height": 604,
+    "ok": true
+   },
+   "second_source": {
+    "name": "newrepublic.com",
+    "url": "https://newrepublic.com/article/138068/last-unknown-man",
+    "title": "The Last Unknown Man | The New Republic",
+    "matched": [
+     "20",
+     "benjaman",
+     "found",
+     "naked",
+     "unconscious",
+     "outside",
+     "burger",
+     "dumpster",
+     "doesn",
+     "remember",
+     "ended",
+     "georgia",
+     "colorado"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Ruth Ellen Gruber was awarded the Order of Merit of the Republic of Poland almost three decades after its communist government expelled her?",
+   "article": {
+    "title": "Ruth Ellen Gruber",
+    "url": "https://en.wikipedia.org/wiki/Ruth_Ellen_Gruber",
+    "extract": "Ruth Ellen Gruber (born October 6, 1949) is an American journalist and author. After serving as an intern at Associated Press, she became a correspondent at United Press International, where she was chief correspondent of the Warsaw bureau from 1981 until her 1983 expulsion from the country by communist authorities. She later became a senior correspondent at Jewish Telegraphic Agency. She has also written several books in Jewish heritage and culture as an independent scholar."
+   },
+   "related": [
+    "Order of Merit of the Republic of Poland"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ruth_Ellen_Gruber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ruth_Ellen_Gruber.jpg",
+    "file": "File:Ruth Ellen Gruber.jpg",
+    "artist": "Joe Mabel",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 1212,
+    "height": 1673,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110923045504/http://content.usatoday.com/communities/ondeadline/post/2011/09/28-years-after-expelling-us-reporter-poland-awards-her-order-of-merit-/1",
+    "title": "28 years after expelling U.S. reporter, Poland awards her Order of Merit",
+    "matched": [
+     "ellen",
+     "gruber",
+     "awarded",
+     "order",
+     "merit",
+     "republic",
+     "poland",
+     "communist",
+     "government"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Zhang Zongchang: Eccentric Chinese warlord who, among other things, assigned numbers to his many concubines, as he could not remember all of their names.",
+   "article": {
+    "title": "Zhang Zongchang",
+    "url": "https://en.wikipedia.org/wiki/Zhang_Zongchang",
+    "extract": "Zhang Zongchang (Chinese: 張宗昌; pinyin: Zhāng Zōngchāng; also romanized as Chang Tsung-chang; 1881 – 3 September 1932), courtesy name Xiaokun, was a Chinese warlord who ruled Shandong from 1925 to 1928. A member of the Fengtian clique, Zhang was notorious for his brutal and ruthless behavior, eccentric personality, and extravagant lifestyle, which earned him nicknames such as the \"Dogmeat General\". In 1927, Time  dubbed him China's \"basest warlord\".\nZhang's troops were defeated by the National Revolutionary Army during the Northern Expedition in 1928, and he fled to Japan before returning to Shandong in 1932, where he was assassinated by a young officer."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Zhang_Zongchang5_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zhang_Zongchang5_(cropped).jpg",
+    "file": "File:Zhang Zongchang5 (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 426,
+    "height": 575,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20090923031317/http://www.time.com/time/magazine/article/0,9171,928072,00.html"
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dan Saunders ATM glitch: Next time you're drunk in Australia, go to a National Australia Bank ATM. It could bring you fortunes! Note: Do not try this at home. Or anywhere else, for that matter.",
+   "article": {
+    "title": "Dan Saunders ATM glitch",
+    "url": "https://en.wikipedia.org/wiki/Dan_Saunders_ATM_glitch",
+    "extract": "In 2011, Dan Saunders, an Australian man from Wangaratta, found a glitch in National Australia Bank (NAB) ATMs which allowed him to withdraw an unlimited amount of Australian dollars from the machines. Over the next four and half months Saunders obtained AU$1.6 million, before he outed himself on A Current Affair."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Just_an_ATM_%286624824597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Just_an_ATM_(6624824597).jpg",
+    "file": "File:Just an ATM (6624824597).jpg",
+    "artist": "Michael Coghlan from Adelaide, Australia",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 610,
+    "height": 981,
+    "ok": true
+   },
+   "second_source": {
+    "name": "vice.com",
+    "url": "https://www.vice.com/en/article/this-australian-bartender-dan-saunders-found-an-atm-bank-glitch-hack-and-blew-16-million-dollars/",
+    "title": "This Australian Bartender Found an ATM Glitch and Blew $1.6 Million",
+    "matched": [
+     "saunders",
+     "glitch",
+     "australia",
+     "national",
+     "matter"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Red rain in Kerala: Did blood rain from the sky?",
+   "article": {
+    "title": "Red rain in Kerala",
+    "url": "https://en.wikipedia.org/wiki/Red_rain_in_Kerala",
+    "extract": "The Kerala red rain phenomenon was a blood rain event that occurred in Wayanad district of the southern Indian state Kerala on Monday, 15 July 1957 , and also from 25 July to 23 September 2001, when heavy downpours of red-coloured rain fell sporadically in Kerala, staining clothes pink. Yellow, green and black rain was also reported. Coloured rain was also reported in Kerala in 1896 and several times since, most recently in June 2012, and from 15 November 2012 to 27 December 2012 in eastern and north-central provinces of Sri Lanka.\nFollowing a light-microscopy examination in 2001, it was initially thought that the rains were coloured by fallout from a hypothetical meteor burst, but a study commissioned by the Government of India concluded that the rains had been coloured by airborne spores from a locally prolific terrestrial green algae from the genus Trentepohlia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/WaterSample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:WaterSample.jpg",
+    "file": "File:WaterSample.jpg",
+    "artist": "The original uploader was Vsasi at English Wikipedia.",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 310,
+    "height": 176,
+    "ok": true
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yasuke: An African man who ended up becoming a retainer for Oda Nobunaga, one of Japan's most important feudal lords, in 1581.",
+   "article": {
+    "title": "Yasuke",
+    "url": "https://en.wikipedia.org/wiki/Yasuke",
+    "extract": "Yasuke (Japanese: 弥助 / 弥介; pronounced [jasɯ̥ke]) was a samurai of African origin who served Oda Nobunaga between 1581 and 1582, during the Sengoku period, until Nobunaga's death.\nAccording to historical accounts, Yasuke first arrived in Japan in the service of Italian Jesuit Alessandro Valignano. Nobunaga summoned him out of a desire to see a black man. Subsequently, Nobunaga took him into his service and gave him the name Yasuke."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rinpa_style_ink-stone_box_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rinpa_style_ink-stone_box_(cropped).jpg",
+    "file": "File:Rinpa style ink-stone box (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 506,
+    "height": 496,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20240716194719/https://www.britannica.com/biography/Yasuke",
+    "title": "Yasuke | African Samurai, History, Oda Nobunaga, & Japan | Britannica",
+    "matched": [
+     "1581",
+     "yasuke",
+     "african",
+     "ended",
+     "retainer",
+     "nobunaga",
+     "japan"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Extreme ironing: A sport whereby participants take an ironing board to a remote location and iron a few items of clothing.",
+   "article": {
+    "title": "Extreme ironing",
+    "url": "https://en.wikipedia.org/wiki/Extreme_ironing",
+    "extract": "Extreme Ironing (also called EI) is an extreme sport in which people take ironing boards to remote locations and iron items of clothing. According to the Extreme Ironing Bureau, extreme ironing is \"the latest dangerous sport that combines the thrills of an extreme outdoor activity with the satisfaction of a well-pressed shirt.\"\nPart of the attraction and interest the media has shown towards extreme ironing seems to center on the issue of whether it is really a sport or not. It is widely considered to be tongue-in-cheek.\nSome locations where such performances have taken place include a mountainside of a difficult climb; a forest; in a canoe; while skiing or snowboarding; on top of large bronze statues; in the middle of a street; underwater; in the middle of the M1 motorway; in a keirin cycle race; while parachuting; and under the ice sheet of a frozen lake."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Extermeironingrivelin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Extermeironingrivelin.jpg",
+    "file": "File:Extermeironingrivelin.jpg",
+    "artist": "Phil Shaw",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 1280,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/tv_and_radio/story/0,,1499886,00.html",
+    "title": "O brother, where art thou | Sam Wollaston | The Guardian",
+    "matched": [
+     "extreme",
+     "ironing",
+     "sport",
+     "board",
+     "clothing"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Turkey bowling: So much for \"don't play with your food\".",
+   "article": {
+    "title": "Turkey bowling",
+    "url": "https://en.wikipedia.org/wiki/Turkey_bowling",
+    "extract": "Turkey bowling is a sport which is based on ordinary bowling, played with a frozen turkey and 10 liquid-filled plastic beverage bottles. The turkey is bowled like a bowling ball down a smooth surface such as ice or a soap-covered sheet of painter's plastic, striking the bottles as if they were bowling pins. The sport is commonly associated with Thanksgiving.\nThe original variant involves turkey bowling in an aisle of a grocery store."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Turkey-bowl-Willowick-Ohio-2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Turkey-bowl-Willowick-Ohio-2006.jpg",
+    "file": "File:Turkey-bowl-Willowick-Ohio-2006.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.manchestereveningnews.co.uk/news/s/71/71914_protestors_cry_foul_at_turkey_bowling.html"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hanno (elephant): An Indian elephant that was a gift from the Portuguese king Manuel I to the pope in the 16th century.",
+   "article": {
+    "title": "Hanno (elephant)",
+    "url": "https://en.wikipedia.org/wiki/Hanno_(elephant)",
+    "extract": "Hanno (Italian: Annone; c. 1510 – 8 June 1516) was the pet white elephant given by King Manuel I of Portugal to Pope Leo X (born Giovanni de' Medici) at his coronation. He was named Annon and Hanno after the Malayalam word Aana (ആന) meaning elephant. Hanno, an Asian elephant, came to Rome in 1514 with the Portuguese ambassador Tristão da Cunha and quickly became the Pope's favorite animal."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hanno.raffael.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanno.raffael.jpg",
+    "file": "File:Hanno.raffael.jpg",
+    "artist": "Raffael or Giulio Romano (after a lost drawing by Raffael)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 571,
+    "height": 560,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "He lücht: Like a German Jungle Cruise, Hamburg port tour guides tell such tall tales that \"He's lying\" has become a name for them.",
+   "article": {
+    "title": "He lücht",
+    "url": "https://en.wikipedia.org/wiki/He_l%C3%BCcht",
+    "extract": "He lücht (low German he is lying) is an expression used in Hamburg, Germany, for tour guides in the port of Hamburg."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Barkasseglp.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Barkasseglp.JPG",
+    "file": "File:Barkasseglp.JPG",
+    "artist": "Gulp at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 5,
+    "closest": "http://www.ndr903.de/programm/platt/platt116.html"
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Billboard Utilising Graffitists Against Unhealthy Promotions: Or \"BUGA-UP\" for short. An Australian group of subversive artists who live up to their self-description by defacing tobacco and alcohol billboard advertisements to promote healthy living.",
+   "article": {
+    "title": "Billboard Utilising Graffitists Against Unhealthy Promotions",
+    "url": "https://en.wikipedia.org/wiki/Billboard_Utilising_Graffitists_Against_Unhealthy_Promotions",
+    "extract": "Billboard Utilising Graffitists Against Unhealthy Promotions, or B.U.G.A.U.P. (alternatively, BUGA-UP or BUGA UP) is an Australian subvertising artistic movement that plays on the phrase \"bugger up\". It practices billboard hijacking using détournement or modification with graffiti of billboard advertising that promote things that are deemed unhealthy. At the time of its formation, smoking in Australia was common and increasing in popularity, since cigarette advertising was largely unregulated, leading to popular campaigns such as Paul Hogan's Winfield ad series."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Its_a_bore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Its_a_bore.jpg",
+    "file": "File:Its a bore.jpg",
+    "artist": "Rozziew at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 235,
+    "height": 375,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bugaup.org",
+    "url": "http://bugaup.org/",
+    "title": "BUGA-UP",
+    "matched": [
+     "billboard",
+     "utilising",
+     "graffitists",
+     "against",
+     "unhealthy",
+     "promotions",
+     "australian",
+     "group",
+     "artists"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tomb of Suleyman Shah: One of the burial sites of the first Ottoman emperor's grandfather is part of Turkey despite being 27 kilometres (17 mi) south of the country's border with Syria.",
+   "article": {
+    "title": "Tomb of Suleyman Shah",
+    "url": "https://en.wikipedia.org/wiki/Tomb_of_Suleyman_Shah",
+    "extract": "The Tomb of Suleyman Shah (Arabic: ضريح سليمان شاه; Turkish: Süleyman Şah Türbesi) is, according to Ottoman tradition, the grave (tomb, mausoleum) housing the relics of Suleyman Shah (c. 1178–1236), grandfather of Osman I (d. 1323/4), the founder of the Ottoman Empire. This legendary tomb has since 1236 had three locations, all in present-day Syria."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tombeau_de_Suleiman_Chah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tombeau_de_Suleiman_Chah.jpg",
+    "file": "File:Tombeau de Suleiman Chah.jpg",
+    "artist": "Céline Rayne",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 500,
+    "height": 303,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hurriyetdailynews.com",
+    "url": "http://www.hurriyetdailynews.com/minister-invites-turks-to-visit-planned-tomb-site-in-syria.aspx?pageID=517&nID=78752&NewsCatID=338",
+    "title": "Minister invites Turks to visit planned tomb site in Syria - Türkiye News",
+    "matched": [
+     "17",
+     "suleyman",
+     "ottoman",
+     "turkey",
+     "south",
+     "country",
+     "border"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "George Psalmanazar: A Frenchman who was so successful in convincing 18th-century Britain he was a Taiwanese man, that he wrote an elaborate and blatantly fictitious history of the island.",
+   "article": {
+    "title": "George Psalmanazar",
+    "url": "https://en.wikipedia.org/wiki/George_Psalmanazar",
+    "extract": "George Psalmanazar (c. 1679 – 3 May 1763) was a Frenchman who claimed to be the first native of Formosa (today Taiwan) to visit Europe. For some years, he convinced many in Britain, but he was eventually revealed to be of European origin. He subsequently became a theological essayist, and a friend and acquaintance of Samuel Johnson and other noted figures in 18th-century literary London."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Houghton_MS_Hyde_76_%281.1.xix%29_-_George_Psalmanazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Houghton_MS_Hyde_76_(1.1.xix)_-_George_Psalmanazar.jpg",
+    "file": "File:Houghton MS Hyde 76 (1.1.xix) - George Psalmanazar.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1118,
+    "height": 1685,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20190303031016/http://www.lib.udel.edu/ud/spec/exhibits/forgery/psalm.htm",
+    "title": "University of Delaware Library: Forging a Collection",
+    "matched": [
+     "18",
+     "george",
+     "psalmanazar",
+     "frenchman",
+     "successful",
+     "century",
+     "wrote",
+     "elaborate"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jerusalem syndrome: For some people, a visit there is just too much.",
+   "article": {
+    "title": "Jerusalem syndrome",
+    "url": "https://en.wikipedia.org/wiki/Jerusalem_syndrome",
+    "extract": "Jerusalem syndrome is a group of mental phenomena involving the presence of religiously themed ideas or experiences that are triggered by a visit to the city of Jerusalem. It is not endemic to one single religion or denomination but has affected Jews, Christians, and Muslims of many different backgrounds.  It is not listed as a recognised condition in the Diagnostic and Statistical Manual of Mental Disorders or the International Classification of Diseases.\nThe best known, although not the most prevalent, manifestation of Jerusalem syndrome (classified as Type III) is the phenomenon whereby a person who seems previously balanced and devoid of any signs of psychopathology becomes psychotic after arriving in Jerusalem."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jerusalem_Syndrome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jerusalem_Syndrome.jpg",
+    "file": "File:Jerusalem Syndrome.jpg",
+    "artist": "Jacek Proszyk",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1280,
+    "height": 1219,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.com",
+    "url": "https://www.bbc.com/future/article/20190408-paris-syndrome-when-travel-sparks-a-psychotic-state",
+    "title": "The cities that need a warning label?",
+    "matched": [
+     "jerusalem",
+     "syndrome",
+     "people",
+     "visit",
+     "there"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Archbishop Eustorge of Nicosia excommunicated his nephew's widow and her new husband, who were said to be \"happy to fester in their own excrement\"?",
+   "article": {
+    "title": "Eustorge of Montaigu",
+    "url": "https://en.wikipedia.org/wiki/Eustorge_of_Montaigu",
+    "extract": "Eustorge of Montaigu (Latin: Eustorgius) was a Latin churchman who served as the archbishop of Nicosia in the Kingdom of Cyprus from the mid-1210s until his death in 1250. He was an energetic leader who oversaw the completion of key church infrastructure in Nicosia as well as an increase in the church's wealth. He was involved in several crusades."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Seal_of_Eustorge_of_Montaigu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Seal_of_Eustorge_of_Montaigu.jpg",
+    "file": "File:Seal of Eustorge of Montaigu.jpg",
+    "artist": "Delaville Le Roulx, Joseph (1855-1911)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 341,
+    "height": 376,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1,
+    "closest": "https://scholar.archive.org/work/iolr24ufnva33p3ydz6oowpzai/access/wayback/http://apcz.umk.pl/czasopisma/index.php/OM/article/download/OM.2014.001/5850"
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Titivillus: The patron demon of scribes, responsible for many errors.",
+   "article": {
+    "title": "Titivillus",
+    "url": "https://en.wikipedia.org/wiki/Titivillus",
+    "extract": "In Christianity, Titivillus is a demon said to collect errors in the work of scribes. Titivillus has also been described as collecting idle chat that occurs during church service, as well as any mispronounced, mumbled or skipped words of the service, to take to Hell to be counted against the offenders. The first reference to Titivillus by name occurred in Tractatus de Penitentia, c. 1285, by Johannes Galensis (John of Wales). Attribution has also been given to Caesarius of Heisterbach."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Titivillus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Titivillus.jpg",
+    "file": "File:Titivillus.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 945,
+    "height": 1042,
+    "ok": true
+   },
+   "second_source": {
+    "name": "healthsciedit.com",
+    "url": "http://www.healthsciedit.com/tes-whois.htm",
+    "title": "Titivillus Editing for the Health Sciences: Who Is Titivillus?",
+    "matched": [
+     "titivillus",
+     "patron",
+     "demon",
+     "scribes",
+     "responsible",
+     "errors"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ignaz Trebitsch-Lincoln: A Hungarian-Jewish man who was, at various times, a UK Member of Parliament, German World War I spy, Nazi collaborator and self-proclaimed Dalai Lama.",
+   "article": {
+    "title": "Ignaz Trebitsch-Lincoln",
+    "url": "https://en.wikipedia.org/wiki/Ignaz_Trebitsch-Lincoln",
+    "extract": "Ignatius Timothy Trebitsch-Lincoln (Hungarian: Trebitsch-Lincoln Ignác, German: Ignaz Thimoteus Trebitzsch; 4 April 1879 – 6 October 1943) was a Hungarian-born adventurer and convicted con artist. Born in Hungary of Jewish descent, he spent much of his life traveling the world engaging in various confidence scams. Among his adventures, he worked as a Protestant missionary, Anglican priest, British Member of Parliament for Darlington, German right-wing politician and spy, Nazi collaborator, Buddhist abbot in China, and self-proclaimed Dalai Lama."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ignatius_Timothy_Trebitsch-Lincoln_circa_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ignatius_Timothy_Trebitsch-Lincoln_circa_1915.jpg",
+    "file": "File:Ignatius Timothy Trebitsch-Lincoln circa 1915.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 744,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20221103221321/https://www.nytimes.com/1988/05/08/books/on-the-trail-of-trebitsch-lincoln-triple-agent.html",
+    "title": "ON THE TRAIL OF TREBITSCH LINCOLN, TRIPLE AGENT - The New York Times",
+    "matched": [
+     "trebitsch",
+     "lincoln",
+     "hungarian",
+     "various",
+     "times",
+     "member",
+     "parliament",
+     "german",
+     "world"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "ISIS-chan: Created by Japanese internet users to purposely offset search results for… the actual thing it was referencing.",
+   "article": {
+    "title": "ISIS-chan",
+    "url": "https://en.wikipedia.org/wiki/ISIS-chan",
+    "extract": "ISIS-chan (ISIS（アイシス）ちゃん, Aishisuchan) is a fictional manga character that originated on the Japanese internet textboard 2channel and was created in 2015 after a series of incidents in which Japanese nationals were kidnapped and beheaded by ISIS.  The character is portrayed as a moe-style girl."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/ISIS_Chan_by_Ellie_Smiley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:ISIS_Chan_by_Ellie_Smiley.jpg",
+    "file": "File:ISIS Chan by Ellie Smiley.jpg",
+    "artist": "Ellie Smiley",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 800,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thetimes.com",
+    "url": "https://www.thetimes.com/article/manga-girl-takes-on-isis-with-a-slice-of-melon-7plckhmgpg3",
+    "title": "Manga girl takes on Isis with a slice of melon",
+    "matched": [
+     "created",
+     "japanese",
+     "internet",
+     "search",
+     "results",
+     "thing"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sinking of U-864: Somehow the only entirely-underwater military combat in history, and the only time a submarine was sunk by another submarine.",
+   "article": {
+    "title": "Sinking of U-864",
+    "url": "https://en.wikipedia.org/wiki/Sinking_of_U-864",
+    "extract": "The German U-boat U-864 was attacked and sunk on 9 February 1945 by HMS Venturer, a V-class submarine of the Royal Navy. Venturer was patrolling the waters around Fedje Island, off the Norwegian coast in the North Sea. The sinking remains the only incident in the history of naval warfare where one submarine sank another while both were submerged."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/HMS_Venturer_%28P68%29_%28IWM_FL_004031%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:HMS_Venturer_(P68)_(IWM_FL_004031).jpg",
+    "file": "File:HMS Venturer (P68) (IWM FL 004031).jpg",
+    "artist": "Royal Navy official photographer. Post-Work: User:Gunfighter-6",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1042,
+    "height": 760,
+    "ok": true
+   },
+   "second_source": {
+    "name": "uboat.net",
+    "url": "http://uboat.net/boats/u864.htm",
+    "title": "The Type IXD2 U-boat U-864 - German U-boats of WWII - uboat.net",
+    "matched": [
+     "864",
+     "underwater",
+     "combat",
+     "history",
+     "submarine",
+     "another"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Seedfeeder: Drew all the illustrations on the Wikipedia articles about sexual acts, thereby living up to their username.",
+   "article": {
+    "title": "Seedfeeder",
+    "url": "https://en.wikipedia.org/wiki/Seedfeeder",
+    "extract": "Seedfeeder (fl. 7 July 2008 – 22 June 2012) is a pseudonymous illustrator known for contributing sexually explicit drawings to Wikipedia. Between 2008 and 2012, the artist created 48 depictions of various sexual acts. Seedfeeder's illustrations garnered mixed reactions: some Wikipedia editors claimed they contained racist and sexist undertones, while Andy Cush of Gawker called him \"Wikipedia's greatest artist of sex acts\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Wiki-prostitute.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wiki-prostitute.png",
+    "file": "File:Wiki-prostitute.png",
+    "artist": "Seedfeeder",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source": {
+    "name": "derstandard.at",
+    "url": "http://derstandard.at/2000008788005/Die-Geschichte-von-Wikipedias-bekanntesten-Sex-Illustrators",
+    "title": "Die Geschichte von Wikipedias bekanntestem Sex-Illustrator - Netzpolitik - derStandard.at &#x203A; Web",
+    "matched": [
+     "seedfeeder",
+     "illustrations",
+     "wikipedia",
+     "sexual"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "See-through clothing: A piece of clothing, that it makes you see someone’s boobs through it.",
+   "article": {
+    "title": "See-through clothing",
+    "url": "https://en.wikipedia.org/wiki/See-through_clothing",
+    "extract": "See-through clothing (also known as naked dress) is any garment of clothing made with lace, mesh or sheer fabric that allows the wearer's body or undergarments to be seen through its fabric. See-through fabrics have been fashionable at various times in history, ranging from eighteenth-century Europe to the modern \"sheer fashion trend\" that started with designer clothing from 2008."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Gisella_Marengo_-_66th_Venice_International_Film_Festival%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gisella_Marengo_-_66th_Venice_International_Film_Festival,_2009.jpg",
+    "file": "File:Gisella Marengo - 66th Venice International Film Festival, 2009.jpg",
+    "artist": "nicolas genin from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1000,
+    "height": 1500,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20100521161341/http://www.metmuseum.org/toah/works-of-art/1983.6.1,07.146.5"
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Veyshnoria: A nonexistent border country of Belarus invented for a Union State military exercise and adopted by the Internet. It's totally coincidental that the territory of this \"enemy state\" corresponds to the most Catholic, most anti-Lukashenko, and least Russian-speaking regions of Belarus, honest.",
+   "article": {
+    "title": "Veyshnoria",
+    "url": "https://en.wikipedia.org/wiki/Veyshnoria",
+    "extract": "Veyshnoria (Russian: Вейшнория, romanized: Veyshnoriya, Belarusian: Вайшнорыя, romanized: Vajšnoryja) is a fictional state created for Zapad 2017, a joint Russo-Belarusian military training exercise. It neighbours Belarus and is an enemy of the Union State. Veyshnoria occupies most of Grodno Region and the northwestern parts of the Minsk and Vitebsk regions.\nThere are two other fictional enemies of the Zapad 2017 participants: Vesbaria and Lubenia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zapad2017_Conditioned_situation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Zapad2017_Conditioned_situation.jpg",
+    "file": "File:Zapad2017 Conditioned situation.jpg",
+    "artist": "B.niekrashevich",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 720,
+    "height": 501,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/news/blogs-news-from-elsewhere-41107540",
+    "title": "Belarus at &#x27;war&#x27; with imaginary country of Veyshnoria - BBC News",
+    "matched": [
+     "veyshnoria",
+     "border",
+     "country",
+     "belarus",
+     "invented",
+     "union",
+     "state",
+     "military",
+     "exercise"
+    ]
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "COINTELPRO: The FBI's name for their undercover operation of investigation, and at times disruption, of influential groups and people in the inland United States during the Cold War. Some of the most famous individuals observed in this operation include: Martin Luther King Jr., Muhammad Ali, John Lennon, Charles Chaplin and Malcolm X.",
+   "article": {
+    "title": "COINTELPRO",
+    "url": "https://en.wikipedia.org/wiki/COINTELPRO",
+    "extract": "COINTELPRO (a syllabic abbreviation derived from Counter Intelligence Program) was a series of covert projects conducted between 1956 and 1971 by the United States Federal Bureau of Investigation (FBI) aimed at surveilling, infiltrating, discrediting, and disrupting American political parties and organizations that the FBI perceived as subversive.\nGroups and individuals targeted by the FBI included feminist organizations, the Communist Party USA, anti-Vietnam War organizers, activists in the civil rights and Black power movements (e.g., Martin Luther King Jr., Malcolm X, and the Black Panther Party), student organizations such as Students for a Democratic Society (SDS) and Student Nonviolent Coordinating Committee (SNCC), the American Indian Movement (AIM), Chicano and Mexican-American groups like the Brown Berets and the United Farm Workers, and independence movements (including Puerto "
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/COINTELPRO_-_Jean_Seberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:COINTELPRO_-_Jean_Seberg.jpg",
+    "file": "File:COINTELPRO - Jean Seberg.jpg",
+    "artist": "Richard W. Held",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 687,
+    "height": 809,
+    "ok": true
+   },
+   "second_source": {
+    "name": "latimes.com",
+    "url": "https://www.latimes.com/archives/la-xpm-2006-mar-08-oe-jalon8-story.html",
+    "title": "A break-in to end all break-ins - Los Angeles Times",
+    "matched": [
+     "cointelpro",
+     "operation",
+     "investigation",
+     "times",
+     "disruption",
+     "influential",
+     "groups",
+     "people",
+     "united",
+     "states"
+    ]
+   }
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+   "article": {
+    "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+    "url": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
+    "extract": "In the highland villages of North Toraja, the skyline is dominated by tongkonan—traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual and social anchor for Torajan clans, decorated strictly according to Aluk Todolo (\"the way of the ancestors\"), the indigenous animist belief"
+   },
+   "published": "Wed, 18 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+   "article": {
+    "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+    "url": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
+    "extract": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifacts and films that tell the stories of these baseball players and all the people that made these teams possible. Notable highlights include:"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thermes Romains de Cimiez in Nice, France",
+   "article": {
+    "title": "Thermes Romains de Cimiez in Nice, France",
+    "url": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+    "extract": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered;"
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+   "article": {
+    "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
+    "extract": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only for two to three months during the summer when seasonal tides and currents recede. When the tide drops, it reveals smooth golden sandbanks "
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Astronaut Roundabout in Valdemoro, Spain",
+   "article": {
+    "title": "Astronaut Roundabout in Valdemoro, Spain",
+    "url": "https://www.atlasobscura.com/places/astronaut-roundabout",
+    "extract": "Valdemoro, a town south of Madrid better known for its proximity to Pinto than for space exploration, has an unlikely visitor from another world standing in the middle of one of its roundabouts. Francisco Leiro’s El Astronauta, installed in 2001, has become one of the town’s most distinctive modern landmarks. The four-meter-tall stainless-steel figure appears to be taking a monumental step across "
+   },
+   "published": "Tue, 17 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Glass Wonders Gallery in Karpacz, Poland",
+   "article": {
+    "title": "Glass Wonders Gallery in Karpacz, Poland",
+    "url": "https://www.atlasobscura.com/places/glass-wonders-gallery",
+    "extract": "Step into a realm where sand and fire transform into pure magic at the Glass Wonders Gallery in Karpacz. Nestled in the heart of the Karkonosze Mountains, this hidden gem turns an ordinary afternoon walk into a mesmerizing journey through light and color. Forget boring, dusty display cases; this place feels alive with vibrant hues and shapes that seem to defy gravity, instantly capturing the imagi"
+   },
+   "published": "Tue, 17 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+   "article": {
+    "title": "Agnese Visconti Memorial Plaque in Mantova, Italy",
+    "url": "https://www.atlasobscura.com/places/agnese-visconti-memorial-plaque",
+    "extract": "Within the sprawling grounds of Mantua's Ducal Palace lies Piazza Pallone (now officially Piazza Lega Lombarda), a quiet, tree-lined square, few tourists notice the simple stone plaque mounted on the perimeter wall enclosing the space. The plaque commemorates one of the darkest episodes of Mantuan Renaissance history: the beheading of Agnese Visconti on February 7, 1391. Agnese, daughter of the Lo"
+   },
+   "published": "Mon, 16 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+   "article": {
+    "title": "Hoang De Citadel (Thành Hoàng Đế) in An Nhon, Vietnam",
+    "url": "https://www.atlasobscura.com/places/hoang-de-citadel-thanh-hoang-d",
+    "extract": "Looming over the quiet countryside of An Nhon, Hoang De Citadel represents an extraordinary historical palimpsest where two distinct Vietnamese empires converged upon a single plot of land. Originally built in the eleventh century as Vijaya, the formidable stone-walled capital of the Champa Kingdom, the grounds were transformed in 1776 when Emperor Nguyen Nhac established it as the imperial strong"
+   },
+   "published": "Mon, 16 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+   "article": {
+    "title": "Pipe Creek Mercantile Trading House in Peru, Indiana",
+    "url": "https://www.atlasobscura.com/places/pipe-creek-mercantile-trading-house",
+    "extract": "On the east side of State Road 31 near Peru, Indiana, sits a naval gun on the grounds of the Pipe Creek Mercantile Trading House. The shop features a wide selection of items in individual booths. If you go in not knowing what you are looking for, they probably have it. The gun sits in the northwest corner of the property, along the fence line near the highway. The gun's information identifies it a"
+   },
+   "published": "Mon, 16 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+   "article": {
+    "title": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/thanksgiving-turkey-prices-by-state-2026-map?utm_source=RSS",
+    "extract": "Find out how much a Thanksgiving turkey costs in your state for 2026. See which states pay the highest prices and where you can find a bargain."
+   },
+   "published": "Thu, 19 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/robert-pattinson-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'The Odyssey' to 'Twilight' and everything in between, Robert Pattinson has amassed quite a filmography. Read about all his major film roles, ranked from best to worst based on Rotten Tomatoes scores."
+   },
+   "published": "Thu, 19 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+   "article": {
+    "title": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-us-cities-visit-thanksgiving-map?utm_source=RSS",
+    "extract": "Planning a Turkey Day trip? WalletHub ranked 100 U.S. cities on weather, affordability, and festive traditions to find the best places to visit."
+   },
+   "published": "Wed, 18 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Charles Dickens Novel He Considered His Favorite",
+   "article": {
+    "title": "The Charles Dickens Novel He Considered His Favorite",
+    "url": "https://www.mentalfloss.com/literature/books/charles-dickens-favorite-novel?utm_source=RSS",
+    "extract": "Discover the real-life history behind Charles Dickens’s favorite book, 'David Copperfield,' and the grueling childhood secret he kept even from his wife."
+   },
+   "published": "Wed, 18 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Paul Simon Once Called This the Best Cover of Any of His Songs",
+   "article": {
+    "title": "Paul Simon Once Called This the Best Cover of Any of His Songs",
+    "url": "https://www.mentalfloss.com/entertainment/music/paul-simon-favorite-cover-aretha-franklin?utm_source=RSS",
+    "extract": "Paul Simon's songs have been covered many times, but none stood out as much as Aretha Franklin's powerful cover of \"Bridge Over Troubled Water.\""
+   },
+   "published": "Wed, 18 Nov 2026 20:30:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Forgotten Dating Terms From the Early 1900s",
+   "article": {
+    "title": "6 Forgotten Dating Terms From the Early 1900s",
+    "url": "https://www.mentalfloss.com/language/slang/forgotten-dating-terms-early-1900s?utm_source=RSS",
+    "extract": "These old words and phrases used to be a common part of dating language in the 1900s."
+   },
+   "published": "Wed, 18 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Famous Movie Props That Were Totally Improvised",
+   "article": {
+    "title": "5 Famous Movie Props That Were Totally Improvised",
+    "url": "https://www.mentalfloss.com/entertainment/movies/movie-props-improvised?utm_source=RSS",
+    "extract": "Before CGI and blockbuster budgets, filmmakers had to learn to make do. These five props show just how well that ingenuity worked."
+   },
+   "published": "Wed, 18 Nov 2026 17:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Did George Washington Really Have ‘The American Crisis’ Read to His Troops?",
+   "article": {
+    "title": "Did George Washington Really Have ‘The American Crisis’ Read to His Troops?",
+    "url": "https://www.mentalfloss.com/history/presidents/george-washington-the-american-crisis-read-to-troops?utm_source=RSS",
+    "extract": "“These are the times that try men’s souls” turns 250 on December 19, but the earliest known printed account of the army hearing it before Trenton comes 33 years later."
+   },
+   "published": "Wed, 18 Nov 2026 15:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 26 James Bond Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/james-bond-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'Goldfinger' to 'A View to Kill,' James Bond movies have a very wide range of ratings on Rotten Tomatoes."
+   },
+   "published": "Tue, 17 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Greek Myth That Inspired the Hunger Games",
+   "article": {
+    "title": "The Greek Myth That Inspired the Hunger Games",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/greek-myth-inspired-hunger-games?utm_source=RSS",
+    "extract": "The hero that inspired Katniss Everdeen also comes from the story of the labyrinth at Knossos and the Minotaur who haunts it. Here's how the labyrinth myth inspired Suzanne Collins' 'Hunger Games' series, including 'Sunrise on the Reaping.'"
+   },
+   "published": "Wed, 18 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Rarest Zodiac Signs, Ranked",
+   "article": {
+    "title": "The Rarest Zodiac Signs, Ranked",
+    "url": "https://www.mentalfloss.com/culture/rarest-zodiac-signs-ranked?utm_source=RSS",
+    "extract": "Are you a rare Capricorn or a common Virgo? Here are all 12 zodiac signs ranked from least to most common, backed by real U.S. birth statistics."
+   },
+   "published": "Tue, 17 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's 9 Most Hated Chores, Ranked",
+   "article": {
+    "title": "America's 9 Most Hated Chores, Ranked",
+    "url": "https://www.mentalfloss.com/live-smarter/home/america-most-hated-chores-ranked?utm_source=RSS",
+    "extract": "Did your least favorite chore make the list?"
+   },
+   "published": "Tue, 17 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+   "article": {
+    "title": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+    "url": "https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/",
+    "extract": "Archaeologists teamed up with a coroner to determine that the \"Ballymacombs More Woman\" was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice"
+   },
+   "published": "Wed, 18 Nov 2026 20:36:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+   "article": {
+    "title": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+    "url": "https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/",
+    "extract": "About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It's associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia"
+   },
+   "published": "Wed, 18 Nov 2026 19:57:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+   "article": {
+    "title": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+    "url": "https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/",
+    "extract": "\"The Book of Miracles,\" a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena"
+   },
+   "published": "Wed, 18 Nov 2026 18:53:36 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block",
+   "article": {
+    "title": "Hours Before It Was Expected to Sell for Up to $3.5 Million, This Frida Kahlo Painting Was Whisked From the Auction Block",
+    "url": "https://www.smithsonianmag.com/smart-news/hours-before-it-was-expected-to-sell-for-up-to-3-million-this-frida-kahlo-painting-was-whisked-from-the-auction-block-180989890/",
+    "extract": "The 1952 painting, \"Congreso de los pueblos por la paz,\" allegedly disappeared from Kahlo's house-museum in Mexico City under suspicious circumstances. Heritage groups argue that it rightfully belongs to the Mexican public"
+   },
+   "published": "Wed, 18 Nov 2026 18:30:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo's Zoo Enclosure, Where the Animal Ate It. Here's How the Care Team Is Responding",
+   "article": {
+    "title": "A Child Tossed a Hat, and a Ceiling Fan Sent It Flying Into a Hippo's Zoo Enclosure, Where the Animal Ate It. Here's How the Care Team Is Responding",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "The Cincinnati Zoo’s beloved hippo Fiona is under constant medical surveillance, but her carers are “cautiously optimistic” that she will pass the object on her own and recover"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
+   "article": {
+    "title": "See Stunning Images of the Universe Captured by Europe's Euclid Space Telescope, Which Is Building the Biggest 3D Map of the Cosmos",
+    "url": "https://www.smithsonianmag.com/smart-news/see-stunning-images-of-the-universe-captured-by-europes-euclid-space-telescope-which-is-buildling-the-biggest-3d-map-of-the-cosmos-180989884/",
+    "extract": "The 1.7 million gigabytes of data include more than 900 million galaxies, more than 60 million potential quasars and about 15,000 candidates of an elusive cosmic phenomenon that can help scientists understand dark matter and dark energy"
+   },
+   "published": "Wed, 18 Nov 2026 16:32:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That's Probably Not Why They Have Fearless Personalities",
+   "article": {
+    "title": "Chihuahuas Seem to Carry a Tiny Bit of Coyote DNA—but That's Probably Not Why They Have Fearless Personalities",
+    "url": "https://www.smithsonianmag.com/smart-news/chihuahuas-seem-to-carry-a-tiny-bit-of-coyote-dna-but-thats-probably-not-why-they-have-fearless-personalities-180989886/",
+    "extract": "New research suggests that coyote DNA makes up about 0.1 percent of the Chihuahua genome, likely the result of interbreeding between coyotes and the domesticated dog's ancestors long ago"
+   },
+   "published": "Wed, 18 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+   "article": {
+    "title": "From a Small Island in Denmark, This Man Lived Through the Transition From Hunter-Gathering to Farming 6,000 Years Ago",
+    "url": "https://www.smithsonianmag.com/smart-news/from-a-small-island-in-denmark-this-man-lived-through-the-transition-from-hunter-gathering-to-farming-6000-years-ago-180989889/",
+    "extract": "A new analysis of the Rødhals Man suggests he witnessed the Neolithic Revolution in his lifetime, growing up eating mostly foraged seafood before shifting to more land-based, likely farmed, foods as an adult"
+   },
+   "published": "Wed, 18 Nov 2026 13:15:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+   "article": {
+    "title": "This Tiny, Unassuming Fungus Is a 'Dark Magic Mushroom'—the First Found to Contain Both Psychedelic Compounds and Deadly Toxins",
+    "url": "https://www.smithsonianmag.com/smart-news/this-tiny-unassuming-fungus-is-a-dark-magic-mushroom-the-first-found-to-contain-both-psychedelic-compounds-and-deadly-toxins-180989885/",
+    "extract": "Researchers collected the mushroom from a moss-covered palm trunk in the central Florida wetland. Its relatives are known to produce amatoxins, but the fungus surprisingly turned blue when handled, a telltale sign that the organism makes psilocybin"
+   },
+   "published": "Tue, 17 Nov 2026 21:06:13 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+   "article": {
+    "title": "How Did Ancient Egypt's Sacred Cats Live? More Than 100 Unwrapped Mummies Reveal Poor Living Conditions, Infections and Violence Before Death",
+    "url": "https://www.smithsonianmag.com/smart-news/how-did-ancient-egypts-sacred-cats-live-more-than-100-unwrapped-mummies-reveal-poor-living-conditions-infections-and-violence-before-death-180989888/",
+    "extract": "Osteological and chemical tests on 131 museum specimens reveal that domestic cats and wild-caught jungle cats later destined for mummification suffered high rates of disease and physical trauma"
+   },
+   "published": "Tue, 17 Nov 2026 20:58:18 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+   "article": {
+    "title": "For Almost 600 Years, This Enigmatic Jan van Eyck Painting Has Entranced Viewers. Could It Actually Be a Self-Portrait in Disguise?",
+    "url": "https://www.smithsonianmag.com/smart-news/for-almost-600-years-this-enigmatic-jan-van-eyck-painting-has-entraced-viewers-could-it-actually-be-a-self-portrait-in-disguise-180989883/",
+    "extract": "The new theory about the \"Arnolfini Portrait\" comes as London's National Gallery brings together all 10 of the artist's known portraits for the first time ever"
+   },
+   "published": "Tue, 17 Nov 2026 18:32:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+   "article": {
+    "title": "SpaceX Catches the Upper Stage of Its Starship for the First Time, Making the Company One Step Closer to a Reusable Rocket",
+    "url": "https://www.smithsonianmag.com/smart-news/spacex-catches-the-upper-stage-of-its-starship-for-the-first-time-making-the-company-one-step-closer-to-a-reusable-rocket-180989877/",
+    "extract": "After circling the Earth 14 times, the upper portion of Starship descended to the planet's surface and was caught by a giant pair of robotic, chopstick-like arms. However, the company failed to snatch the lower stage, which it had previously demonstrated"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  }
+ ]
+}
