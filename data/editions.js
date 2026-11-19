@@ -7,6 +7,155 @@ window.HYPERS_EDITIONS = {
       {
         "region": "world",
         "published": "2026-11-19",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Według Sensor Tower GTA 6 sprzedało się w ok. 17 mln kopii jeszcze przed premierą. Rockstar nie podał oficjalnych liczb",
+        "summary": "Firma analityczna Sensor Tower szacuje, że do startu gry kupiono ok. 17,1 mln egzemplarzy GTA 6 za ok. 1,65 mld dolarów. To szacunki, nie dane Rockstar ani Take-Two.",
+        "body": [
+          "Pierwsze liczby sprzedaży GTA 6 pochodzą od firmy analitycznej Sensor Tower. Według jej szacunków, na które powołują się m.in. CNBC i Reuters, do środy rano gracze kupili ok. 17,1 mln kopii o wartości ok. 1,65 mld dolarów. Kilka dni wcześniej ta sama firma podawała 15–16 mln egzemplarzy w przedsprzedaży.",
+          "Ani Rockstar, ani Take-Two nie podały oficjalnych wyników sprzedaży nowej gry. Według Rockstar cała seria GTA sprzedała się dotąd w ponad 470 mln egzemplarzy.",
+          "Rekordowo było też na streamach. Według StreamCharts, na które powołuje się GRYOnline, transmisje z GTA 6 oglądało jednocześnie 7,89 mln osób na Twitchu, YouTube i Kicku. Analitycy Wells Fargo podnieśli prognozę sprzedaży do ok. 65 mln kopii do marca, a akcje Take-Two rosły przed sesją o ponad 6 proc., podaje CNBC.",
+          "Temat sprzedaży omawiał na streamie m.in. Tamae, który oglądał materiał LootBoxa o liczbach GTA 6."
+        ],
+        "sources": [
+          {
+            "name": "HappyGamer",
+            "url": "https://happygamer.com/gta-6-launch-night-psn-ps5-update-sales-176014/"
+          },
+          {
+            "name": "GRYOnline.pl",
+            "url": "https://www.gry-online.pl/newsroom/polacy-juz-mozecie-grac-w-gta-6-bawcie-sie-dobrze-w-najlepiej-oce/zd323b3"
+          },
+          {
+            "name": "Rzeczpospolita",
+            "url": "https://cyfrowa.rp.pl/gry-e-sport/art45506341-gta-vi-zadebiutowalo-firmy-daja-wolne-hakerzy-ruszaja-do-ataku-a-polacy-juz-graja"
+          },
+          {
+            "name": "Tamae / YouTube",
+            "url": "https://www.youtube.com/watch?v=Tdtuvx-jTt0"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Tdtuvx-jTt0",
+        "ig": [
+          "tamae_0"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Tdtuvx-jTt0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Tdtuvx-jTt0/hqdefault.jpg",
+          "credit": "Tamae / YouTube",
+          "href": "https://www.youtube.com/watch?v=Tdtuvx-jTt0",
+          "alt": "Miniatura filmu Tamae „CHORA SPRZEDAŻ GTA 6..”",
+          "caption": "Tamae o sprzedaży GTA 6"
+        },
+        "caption": {
+          "credit": "Tamae / YouTube",
+          "text": "Miniatura filmu „CHORA SPRZEDAŻ GTA 6..”, w którym Tamae ogląda gamingowe newsy LootBoxa. Liczby w tekście to szacunki Sensor Tower i StreamCharts, nie dane Rockstar."
+        },
+        "insta": {
+          "tytul": "GTA 6 miało sprzedać ok. 17 mln kopii, zanim w ogóle wyszło",
+          "opis": "Tyle szacuje Sensor Tower, ok. 1,65 mld dolarów. Rockstar oficjalnych liczb jeszcze nie podał."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "izak",
+        "initials": "IZ",
+        "category": "Gry",
+        "hype": 4,
+        "title": "izak, Lachu i Dobrodziej ruszyli z GTA 6. izak zapowiada codzienną serię",
+        "summary": "Kolejni polscy twórcy wrzucili pierwsze odcinki GTA 6. izak obiecuje serię codziennie, a Lachu i Dobrodziej w tytułach liczą 13 lat czekania na grę.",
+        "body": [
+          "W dniu premiery GTA 6 pierwsze odcinki wrzucili kolejni polscy twórcy. izak opublikował rano godzinny film „NIE WIERZĘ, ŻE TAK WYGLĄDA GTA 6! #1” i napisał w opisie, że rusza z nową codzienną serią, a kolejny odcinek pojawi się jeszcze dziś. O 14:20 film miał ok. 35 tys. wyświetleń i 1,1 tys. polubień.",
+          "Lachu (kanał LachuFifa) wrzucił odcinek „Czekaliśmy Na To 13 Lat [#1] GTA 6”, a w komentarzu pyta widzów, czy wolą jeden, czy dwa odcinki dziennie. Dobrodziej zatytułował swój początek serii „13 LAT CZEKANIA! W KOŃCU JEST!!!” i w opisie zapowiada wspólną drogę z Jasonem i Lucią po Vice City i stanie Leonida.",
+          "Widzowie u izaka proszą głównie, żeby nie zdradzał zakończenia. Rano pisaliśmy o seriach Kalucha, Yoji720 i Tivolta."
+        ],
+        "sources": [
+          {
+            "name": "izak LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=qNp2sERdtCU",
+            "origin": true
+          },
+          {
+            "name": "LachuFifa / YouTube",
+            "url": "https://www.youtube.com/watch?v=wJbqD5_x9Xk"
+          },
+          {
+            "name": "Dobrodziej / YouTube",
+            "url": "https://www.youtube.com/watch?v=YLb6q9xFGf0"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qNp2sERdtCU",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qNp2sERdtCU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qNp2sERdtCU/hqdefault.jpg",
+          "credit": "izak LIVE / YouTube",
+          "href": "https://www.youtube.com/watch?v=qNp2sERdtCU",
+          "alt": "Miniatura pierwszego odcinka GTA 6 na kanale izak LIVE",
+          "caption": "Pierwszy odcinek GTA 6 u izaka"
+        },
+        "caption": {
+          "credit": "izak LIVE / YouTube",
+          "text": "Miniatura pierwszego odcinka serii GTA 6 na kanale izak LIVE. Według opisu to start codziennej serii."
+        },
+        "insta": {
+          "tytul": "izak, Lachu i Dobrodziej też już grają w GTA 6",
+          "opis": "izak zapowiada odcinki codziennie, a Lachu i Dobrodziej w tytułach liczą 13 lat czekania 🎮"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "Wersow",
+        "initials": "WE",
+        "category": "Lifestyle",
+        "hype": 4,
+        "title": "Wersow wraca na YouTube. W pierwszym filmie po przerwie pokazała premierę serialu „Friz i Wersow. W drodze”",
+        "summary": "Weronika „Wersow” Sowa po przerwie wrzuciła nowy film. Zabiera w nim widzów na oficjalną premierę serialu „Friz i Wersow. W drodze” i pod mural pary w centrum Warszawy.",
+        "body": [
+          "Wersow opublikowała w czwartek o 13:00 18-minutowy film „WRACAM NA YOUTUBE!”. Jak pisze w opisie, wraca po przerwie, a w odcinku zabiera widzów na oficjalną premierę serialu „Friz i Wersow. W drodze”.",
+          "W filmie ma być widać mural pary w centrum Warszawy, gości premiery, w tym Michała Wiśniewskiego, oraz pierwsze reakcje na serial m.in. Yoshiego, Julii Żugaj, Bazy i Natana.",
+          "O 14:20 film miał ok. 11 tys. wyświetleń i 870 polubień. Widzowie w komentarzach cieszą się z powrotu i piszą, że brakowało im luźnych odcinków na jej kanale."
+        ],
+        "sources": [
+          {
+            "name": "Wersow / YouTube",
+            "url": "https://www.youtube.com/watch?v=BtgFx8INLCY",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=BtgFx8INLCY",
+        "ig": [
+          "wersow"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/BtgFx8INLCY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/BtgFx8INLCY/hqdefault.jpg",
+          "credit": "Wersow / YouTube",
+          "href": "https://www.youtube.com/watch?v=BtgFx8INLCY",
+          "alt": "Miniatura filmu Wersow „WRACAM NA YOUTUBE!”",
+          "caption": "Wersow wraca na YouTube"
+        },
+        "caption": {
+          "credit": "Wersow / YouTube",
+          "text": "Miniatura filmu, którym Wersow wraca na YouTube po przerwie. Odcinek pokazuje premierę serialu „Friz i Wersow. W drodze”."
+        },
+        "insta": {
+          "tytul": "Wersow wróciła na YouTube i od razu z premierą serialu z Frizem",
+          "opis": "W pierwszym filmie po przerwie pokazuje premierę „Friz i Wersow. W drodze” i ich mural w centrum Warszawy."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
         "who": "Kai Cenat",
         "initials": "KC",
         "category": "GTA 6",
@@ -310,6 +459,252 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Syria",
+        "initials": "SY",
+        "category": "Geografia",
+        "hype": 4,
+        "title": "Grób dziadka założyciela Imperium Osmańskiego jest częścią Turcji, choć leży w Syrii",
+        "summary": "Grobowiec Sulejmana Szacha, dziadka Osmana I, jest traktowany jako część Turcji, choć leży na terenie Syrii. Jedna z jego lokalizacji była ok. 27 km od granicy.",
+        "body": [
+          "Według osmańskiej tradycji w grobowcu spoczywają szczątki Sulejmana Szacha, dziadka Osmana I, założyciela Imperium Osmańskiego. Od 1236 roku grób miał już trzy lokalizacje, wszystkie na terenie dzisiejszej Syrii.",
+          "Mimo to teren grobowca jest traktowany jako część Turcji. Jedna z jego lokalizacji leżała ok. 27 km na południe od turecko-syryjskiej granicy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tomb_of_Suleyman_Shah"
+          },
+          {
+            "name": "Hürriyet Daily News",
+            "url": "http://www.hurriyetdailynews.com/minister-invites-turks-to-visit-planned-tomb-site-in-syria.aspx?pageID=517&nID=78752&NewsCatID=338"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tombeau_de_Suleiman_Chah.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Tombeau_de_Suleiman_Chah.jpg",
+          "credit": "Céline Rayne / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Grobowiec Sulejmana Szacha z turecką flagą",
+          "caption": "Grobowiec Sulejmana Szacha"
+        },
+        "caption": {
+          "credit": "Céline Rayne / Wikimedia Commons",
+          "text": "Zdjęcie przedstawia grobowiec Sulejmana Szacha. To ten kawałek terenu w Syrii, który formalnie należy do Turcji."
+        },
+        "insta": {
+          "tytul": "Kawałek Turcji leży w Syrii. To grób dziadka założyciela imperium",
+          "opis": "Grobowiec Sulejmana Szacha jest turecką enklawą, ok. 27 km od granicy."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Białoruś",
+        "initials": "BY",
+        "category": "Internet",
+        "hype": 3,
+        "title": "Na potrzeby ćwiczeń wojskowych wymyślono kraj Wejsznoria. Internet zrobił z niego mem",
+        "summary": "Wejsznoria to fikcyjne państwo stworzone do ćwiczeń Zapad 2017. W scenariuszu sąsiadowało z Białorusią, a internauci szybko podchwycili ją jako żart.",
+        "body": [
+          "Wejsznoria (Veyshnoria) powstała jako fikcyjny przeciwnik w scenariuszu rosyjsko-białoruskich ćwiczeń Zapad 2017. Na mapie zajmowała większość obwodu grodzieńskiego i część obwodów mińskiego i witebskiego.",
+          "Po ogłoszeniu scenariusza Wejsznoria zaczęła żyć własnym życiem w internecie, o czym pisało BBC w tekście o Białorusi „w stanie wojny” z wymyślonym krajem. W ćwiczeniach były jeszcze dwa wymyślone państwa: Wesbaria i Lubenia."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Veyshnoria"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/blogs-news-from-elsewhere-41107540"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Zapad2017_Conditioned_situation.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Zapad2017_Conditioned_situation.jpg",
+          "credit": "B.niekrashevich / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Mapa scenariusza ćwiczeń Zapad 2017 z fikcyjnymi państwami",
+          "caption": "Mapa scenariusza Zapad 2017"
+        },
+        "caption": {
+          "credit": "B.niekrashevich / Wikimedia Commons",
+          "text": "Mapa scenariusza ćwiczeń Zapad 2017 z zaznaczonymi fikcyjnymi państwami. Jednym z nich jest Wejsznoria."
+        },
+        "insta": {
+          "tytul": "Wojsko wymyśliło kraj do ćwiczeń, a internet zrobił z niego mem",
+          "opis": "Wejsznoria powstała na ćwiczenia Zapad 2017 i miała leżeć tuż obok Białorusi."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Kiedyś niemowlęta w miastach wietrzono w drucianych klatkach wywieszonych za okno",
+        "summary": "Tzw. klatka dla dziecka to łóżeczko w drucianej klatce mocowanej na zewnątrz okna. Miała dawać maluchom z ciasnych mieszkań świeże powietrze i słońce.",
+        "body": [
+          "Na początku XX wieku w zatłoczonych miastach popularność zdobyły „klatki zdrowia”: łóżeczko w drucianej konstrukcji przymocowanej do parapetu, wiszące na zewnątrz budynku. Chodziło o to, by dzieci z mieszkań bez ogrodu dostawały świeże powietrze.",
+          "Z takiej klatki korzystała podobno Eleanor Roosevelt, przyszła pierwsza dama USA. Wynalazek opatentowano, a jeden z patentów ilustruje rysunek powyżej."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Baby_cage"
+          },
+          {
+            "name": "New York Post",
+            "url": "https://nypost.com/2018/12/29/good-parents-used-to-cover-their-babies-in-salt-and-put-them-in-cages/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/US1448235_Portable_Baby_Cage_Fig_1.png",
+          "href": "https://commons.wikimedia.org/wiki/File:US1448235_Portable_Baby_Cage_Fig_1.png",
+          "credit": "Emma Read (rysunek patentowy) / Wikimedia Commons, domena publiczna",
+          "alt": "Rysunek patentowy przenośnej klatki dla niemowlęcia mocowanej do okna",
+          "caption": "Rysunek z amerykańskiego patentu na przenośną klatkę dla niemowląt"
+        },
+        "caption": {
+          "credit": "Emma Read / Wikimedia Commons",
+          "text": "Rysunek z patentu US1448235 pokazuje, jak klatkę mocowano przy oknie. To właśnie ten wynalazek miał dawać dzieciom z miejskich mieszkań świeże powietrze."
+        },
+        "insta": {
+          "tytul": "Kiedyś niemowlaki wietrzono w klatkach wywieszonych za okno",
+          "opis": "Druciane łóżeczko wisiało na zewnątrz bloku, żeby dziecko łapało świeże powietrze. Podobno korzystała z tego Eleanor Roosevelt."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Sport",
+        "initials": "SP",
+        "category": "Sport",
+        "hype": 4,
+        "title": "Istnieje „sport ekstremalny”, w którym prasuje się ubrania na szczytach gór i pod wodą",
+        "summary": "Extreme ironing polega na zabieraniu deski do prasowania w trudno dostępne miejsca i prasowaniu tam ubrań. Uchodzi za żart, ale ma swoich zawodników.",
+        "body": [
+          "W extreme ironing chodzi o to, by wyprasować kilka rzeczy w możliwie absurdalnym miejscu: na zboczu góry, w kajaku, na nartach, w środku ulicy, pod wodą, a nawet podczas skoku ze spadochronem.",
+          "Twórcy z Extreme Ironing Bureau reklamowali go jako połączenie dreszczyku sportów ekstremalnych z satysfakcją z dobrze wyprasowanej koszuli. Media od lat spierają się, czy to jeszcze sport, czy już żart."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Extreme_ironing"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/tv_and_radio/story/0,,1499886,00.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Extermeironingrivelin.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Extermeironingrivelin.jpg",
+          "credit": "Phil Shaw / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mężczyzna prasuje ubranie na desce w plenerze",
+          "caption": "Extreme ironing w praktyce"
+        },
+        "caption": {
+          "credit": "Phil Shaw / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje prasowanie na desce ustawionej w plenerze. Tak wygląda extreme ironing: zwykła czynność w miejscu, gdzie nikt by się jej nie spodziewał."
+        },
+        "insta": {
+          "tytul": "Jest sport, w którym prasuje się koszule na szczytach gór",
+          "opis": "Nazywa się extreme ironing. Ludzie prasowali już w kajaku, pod wodą i podczas skoku ze spadochronem."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "George Psalmanazar",
+        "initials": "GP",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Francuz przez lata udawał w Londynie mieszkańca Tajwanu i napisał zmyśloną historię wyspy",
+        "summary": "George Psalmanazar przekonał XVIII-wieczną Brytanię, że jest pierwszym przybyszem z Formozy w Europie. Wydał nawet całkowicie wymyślony opis wyspy.",
+        "body": [
+          "George Psalmanazar (ok. 1679–1763) był Francuzem, który podawał się za pierwszego mieszkańca Formozy, czyli dzisiejszego Tajwanu, jaki dotarł do Europy. Przez kilka lat wielu Brytyjczyków mu wierzyło.",
+          "Na fali popularności napisał szczegółową, ale całkowicie zmyśloną historię wyspy. Gdy oszustwo wyszło na jaw, został eseistą teologicznym i znajomym m.in. Samuela Johnsona."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/George_Psalmanazar"
+          },
+          {
+            "name": "University of Delaware Library",
+            "url": "https://web.archive.org/web/20190303031016/http://www.lib.udel.edu/ud/spec/exhibits/forgery/psalm.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Houghton_MS_Hyde_76_%281.1.xix%29_-_George_Psalmanazar.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Houghton_MS_Hyde_76_(1.1.xix)_-_George_Psalmanazar.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Dawny portret George'a Psalmanazara",
+          "caption": "George Psalmanazar"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Dawny portret George'a Psalmanazara ze zbiorów Houghton Library. To on przez lata udawał w Brytanii przybysza z Formozy."
+        },
+        "insta": {
+          "tytul": "Francuz udawał Tajwańczyka i wszyscy w Londynie mu wierzyli",
+          "opis": "George Psalmanazar napisał nawet zmyśloną historię wyspy. Prawda wyszła na jaw dopiero po latach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "Średniowiecze",
+        "initials": "SR",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W średniowieczu literówki w rękopisach zrzucano na demona. Nazywał się Titivillus",
+        "summary": "Titivillus to demon, który według średniowiecznych wierzeń zbierał błędy skrybów. Kolekcjonował też przekręcone i pominięte słowa z nabożeństw.",
+        "body": [
+          "W chrześcijańskich wierzeniach Titivillus był demonem odpowiedzialnym za błędy w pracy kopistów. Miał też zbierać plotki w czasie mszy oraz źle wymówione, wymamrotane albo pominięte słowa i zanosić je do piekła jako dowód przeciw winnym.",
+          "Pierwsza wzmianka o nim z imienia pojawia się ok. 1285 roku w traktacie Jana z Walii. Dziś bywa żartobliwie nazywany patronem korektorów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Titivillus"
+          },
+          {
+            "name": "Titivillus Editing",
+            "url": "http://www.healthsciedit.com/tes-whois.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Titivillus.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Titivillus.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Dawna ilustracja przedstawiająca demona Titivillusa",
+          "caption": "Titivillus na dawnej ilustracji"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Dawne przedstawienie Titivillusa, demona błędów. Tak wyobrażano sobie istotę, która podsuwała skrybom literówki."
+        },
+        "insta": {
+          "tytul": "W średniowieczu za literówki obwiniano demona",
+          "opis": "Nazywał się Titivillus i miał zbierać błędy skrybów, a potem zanosić je do piekła."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-19",

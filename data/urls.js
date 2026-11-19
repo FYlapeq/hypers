@@ -2,6 +2,9 @@
 window.HYPERS_URLS = {
  "2026-11-19": {
   "luz": [
+   "artykuly/2026-11-19/wedlug-sensor-tower-gta-6-sprzedalo-sie-w-ok-17-mln-kopii-jeszcze.html",
+   "artykuly/2026-11-19/izak-lachu-i-dobrodziej-ruszyli-z-gta-6-izak-zapowiada-codzienna-serie.html",
+   "artykuly/2026-11-19/wersow-wraca-na-youtube-w-pierwszym-filmie-po-przerwie-pokazala.html",
    "artykuly/2026-11-19/kai-cenat-gral-w-gta-6-przez-ponad-11-godzin-zapis-streamu-ma-juz.html",
    "artykuly/2026-11-19/kaluch-ruszyl-z-seria-gta-6-pierwszy-odcinek-ma-juz-630-tys.html",
    "artykuly/2026-11-19/theradbrad-wrzucil-pierwsza-czesc-przejscia-gta-6-w-niecala-dobe-ma-3.html",
@@ -11,6 +14,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-19/ksiazulo-sprawdza-czy-mcdonald-s-zmniejszyl-drwala-film-ma-blisko-800.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-19/grob-dziadka-zalozyciela-imperium-osmanskiego-jest-czescia-turcji.html",
+   "artykuly/2026-11-19/na-potrzeby-cwiczen-wojskowych-wymyslono-kraj-wejsznoria-internet.html",
+   "artykuly/2026-11-19/kiedys-niemowleta-w-miastach-wietrzono-w-drucianych-klatkach.html",
+   "artykuly/2026-11-19/istnieje-sport-ekstremalny-w-ktorym-prasuje-sie-ubrania-na-szczytach.html",
+   "artykuly/2026-11-19/francuz-przez-lata-udawal-w-londynie-mieszkanca-tajwanu-i-napisal.html",
+   "artykuly/2026-11-19/w-sredniowieczu-literowki-w-rekopisach-zrzucano-na-demona-nazywal-sie.html",
    "artykuly/2026-11-19/istnieje-czcionka-w-ktorej-kazda-litera-to-ksztalt-prawdziwego-okregu.html",
    "artykuly/2026-11-19/na-stacji-metra-w-angielskim-wallsend-tablice-sa-takze-po-lacinie.html",
    "artykuly/2026-11-19/ciag-symboli-w-stylu-zamiast-przeklenstwa-ma-swoja-nazwe-grawlix.html",
