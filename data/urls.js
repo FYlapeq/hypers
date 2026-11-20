@@ -2,6 +2,10 @@
 window.HYPERS_URLS = {
  "2026-11-20": {
   "luz": [
+   "artykuly/2026-11-20/wedlug-sensor-tower-gta-6-w-pierwszej-dobie-kupilo-ok-24-5-mln-osob.html",
+   "artykuly/2026-11-20/premiere-gta-6-ogladalo-naraz-prawie-7-9-mln-osob-na-streamach.html",
+   "artykuly/2026-11-20/kai-cenat-wrzucil-czwarta-czesc-swojego-grania-w-gta-6-stream-trwal.html",
+   "artykuly/2026-11-20/enzo-i-kabe-wypuscili-wspolny-singiel-yabadaba-klip-nakrecil-og-jerzyk.html",
    "artykuly/2026-11-20/ishowspeed-gral-w-gta-6-prawie-dobe-bez-przerwy-zapis-streamu.html",
    "artykuly/2026-11-20/mrbeast-spedzil-100-godzin-w-gta-6-jeszcze-przed-premiera-dostal.html",
    "artykuly/2026-11-20/gothamchess-znalazl-szachy-w-gta-6-widzowie-od-razu-wytykaja.html",
@@ -11,6 +15,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-20/palion-pierwszy-raz-zagral-w-gta-6-fani-juz-prosza-o-odcinek.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-20/gitarzysta-buckethead-wystepuje-w-masce-i-z-kubelkiem-po-kurczakach.html",
+   "artykuly/2026-11-20/na-srodku-forum-romanum-byl-dol-a-sami-rzymianie-nie-wiedzieli-skad.html",
+   "artykuly/2026-11-20/w-starszych-pociagach-nie-wolno-bylo-korzystac-z-toalety-na-stacji.html",
+   "artykuly/2026-11-20/pierwszym-kenijczykiem-na-zimowych-igrzyskach-byl-biegacz-narciarski.html",
+   "artykuly/2026-11-20/mur-berlinski-otwarto-po-pomylce-urzednika-nrd-na-konferencji-prasowej.html",
+   "artykuly/2026-11-20/19-stycznia-2038-r-o-3-14-07-czesc-komputerow-cofnie-sie-w-czasie.html",
    "artykuly/2026-11-20/na-srodku-pustyni-mojave-przez-lata-stala-budka-telefoniczna-19.html",
    "artykuly/2026-11-20/w-czasie-ii-wojny-swiatowej-brytyjczycy-chcieli-zbudowac-lotniskowiec.html",
    "artykuly/2026-11-20/belgijska-linia-kolejowa-odcina-od-niemiec-piec-kawalkow-niemieckiego.html",

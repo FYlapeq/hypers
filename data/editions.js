@@ -6,6 +6,159 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "world",
+        "published": "2026-11-20",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Według Sensor Tower GTA 6 w pierwszej dobie kupiło ok. 24,5 mln osób. To ok. 2,36 mld dolarów",
+        "summary": "Firma analityczna Sensor Tower szacuje, że do końca dnia premiery GTA 6 kupiło ok. 24,5 mln graczy, a przychód sięgnął ok. 2,36 mld dolarów. Rockstar i Take-Two nie podały jeszcze oficjalnych danych o sprzedaży.",
+        "body": [
+          "Sensor Tower, na którego dane powołuje się m.in. Reuters, szacuje, że do wieczora 19 listopada GTA 6 kupiło ok. 24,5 mln osób, licząc przedsprzedaż i pierwszy dzień. Przychód wyliczono na ok. 2,36 mld dolarów.",
+          "Według tych szacunków ok. trzy czwarte sprzedaży przypadło na PlayStation 5, a reszta na Xbox Series X/S. Dla porównania GTA 5 zarobiło w pierwszej dobie ok. 800 mln dolarów, a miliard przekroczyło po trzech dniach.",
+          "To szacunki zewnętrznej firmy, nie dane wydawcy. Take-Two nie podało liczb; przedstawiciele firmy mówili jedynie, że zainteresowanie jest bezprecedensowe i wyraźnie przekracza oczekiwania, a oficjalne wyniki mają pojawić się później.",
+          "Dzień wcześniej Sensor Tower szacował samą przedsprzedaż na ok. 17 mln kopii."
+        ],
+        "sources": [
+          {
+            "name": "Benchmark.pl (za Reuters)",
+            "url": "https://www.benchmark.pl/gta-6-bije-rekordy-takiej-premiery-w-historii-gier-jeszcze-nie-bylo-7352972408141824a"
+          },
+          {
+            "name": "Spider's Web",
+            "url": "https://spidersweb.pl/2026/11/gta-6-bije-rekordy-twitch-sprzedaz.html"
+          },
+          {
+            "name": "mobiManiaK",
+            "url": "https://www.mobimaniak.pl/439874/gta-6-sprzedaz-236-mld-dolarow-dzien-premiery-szacunki/"
+          }
+        ],
+        "noImage": "brak oficjalnego materiału Rockstar o sprzedaży ani filmu twórcy omawiającego te dane",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Premierę GTA 6 oglądało naraz prawie 7,9 mln osób na streamach. Najwięcej godzin zebrał IShowSpeed",
+        "summary": "Według Streams Charts szczyt oglądalności streamów z GTA 6 wyniósł prawie 7,9 mln widzów jednocześnie, ok. 4,5 raza więcej niż poprzedni rekord premiery gry. Najczęściej oglądanym twórcą był IShowSpeed.",
+        "body": [
+          "Serwis Streams Charts, który zlicza oglądalność na Twitchu, YouTube, Kicku i azjatyckich platformach, podaje, że w szczycie premierę GTA 6 oglądało jednocześnie prawie 7,91 mln osób. Poprzedni rekord premiery gry należał do Valoranta (ok. 1,74 mln).",
+          "W pierwszej dobie widzowie spędzili na streamach z GTA 6 ok. 125 mln godzin: najwięcej na Twitchu (ok. 52 mln), potem na YouTube (ok. 44 mln) i Kicku (ok. 28 mln). Twitch nazwał premierę największą premierą gry w historii platformy.",
+          "Wśród twórców prowadzi IShowSpeed z ok. 4,47 mln godzin oglądania na YouTube i Twitchu razem. Za nim są vtuber TheBurntPeanut (ok. 3,89 mln) i brazylijski streamer alanzoka (ok. 3,11 mln).",
+          "Szef Twitcha Dan Clancy spodziewa się dalszych wzrostów oglądalności po premierze trybu wieloosobowego."
+        ],
+        "sources": [
+          {
+            "name": "SilesiON.pl (za Streams Charts)",
+            "url": "https://silesion.pl/rekordy-premiery-gta-6-liczby/"
+          },
+          {
+            "name": "Spider's Web",
+            "url": "https://spidersweb.pl/2026/11/gta-6-bije-rekordy-twitch-sprzedaz.html"
+          },
+          {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/live-updates-on-gta-6-the-biggest-launch-in-gaming-history-2000758030"
+          }
+        ],
+        "noImage": "kadr streamu IShowSpeeda wykorzystano już w porannym newsie",
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Kai Cenat wrzucił czwartą część swojego grania w GTA 6. Stream trwał ponad 11,5 godziny",
+        "summary": "Na kanale Kai Cenat Live pojawił się zapis kolejnego streamu z GTA 6, czwartej części serii. Ponad 11-godzinne nagranie miało przy odczycie ok. 2,4 mln wyświetleń.",
+        "body": [
+          "Kai Cenat kontynuuje maraton GTA 6. Na kanale Kai Cenat Live w piątek po południu pojawił się zapis streamu „PLAYING GTA 6 FOR THE FIRST TIME (PART 4)”, który trwa ok. 11 godzin i 34 minut.",
+          "W piątek o 14:19 nagranie miało ok. 2,38 mln wyświetleń i 21,5 tys. polubień. Duża część tych wyświetleń pochodzi z czasu transmisji na żywo.",
+          "To kolejny odcinek po streamie z dnia premiery, który trwał ponad 11 godzin. Film nie ma napisów, więc opisujemy tylko tytuł i statystyki."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/yX4DH_msPkI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/yX4DH_msPkI/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=yX4DH_msPkI",
+          "alt": "Miniatura czwartej części streamu Kaia Cenata z GTA 6",
+          "caption": "Kai Cenat, GTA 6, część 4"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura zapisu czwartego streamu Kaia Cenata z GTA 6. Nagranie trwa ponad 11,5 godziny i jest ciągiem dalszym jego premierowego maratonu."
+        },
+        "insta": {
+          "tytul": "Kai Cenat dalej siedzi w GTA 6. Czwarty stream trwał ponad 11,5 godziny",
+          "opis": "Zapis wrzucił dziś na YouTube i w godzinę miał już ok. 2,4 mln wyświetleń."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-20",
+        "who": "ENZO i Kabe",
+        "initials": "EK",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "ENZO i Kabe wypuścili wspólny singiel „YABADABA”. Klip nakręcił OG Jerzyk",
+        "summary": "Na kanale Eastern Block Klan pojawił się klip do „YABADABA”, wspólnego numeru ENZO i Kabe. Singiel jest już w serwisach streamingowych.",
+        "body": [
+          "ENZO z Eastern Block Klan i Kabe nagrali razem singiel „YABADABA”. Klip pojawił się w piątek na kanale Eastern Block Klan, a utwór trafił też do serwisów streamingowych.",
+          "Według opisu za muzykę odpowiada prod.adi, a teledysk nakręcił OG Jerzyk.",
+          "Kilka godzin po premierze widzowie w komentarzach chwalą przede wszystkim zwrotki Kabe i sam klip."
+        ],
+        "sources": [
+          {
+            "name": "Eastern Block Klan / YouTube",
+            "url": "https://www.youtube.com/watch?v=EWgvmLYI7Js",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=EWgvmLYI7Js",
+        "ig": [
+          "enzo.3bk",
+          "kabe.gcbw"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/EWgvmLYI7Js/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/EWgvmLYI7Js/hqdefault.jpg",
+          "credit": "Eastern Block Klan / YouTube",
+          "href": "https://www.youtube.com/watch?v=EWgvmLYI7Js",
+          "alt": "Kadr z klipu ENZO i Kabe do „YABADABA”",
+          "caption": "Klip „YABADABA”"
+        },
+        "caption": {
+          "credit": "Eastern Block Klan / YouTube",
+          "text": "Kadr z klipu do „YABADABA”, który wyreżyserował OG Jerzyk. To premiera wspólnego singla ENZO i Kabe."
+        },
+        "insta": {
+          "tytul": "ENZO i Kabe razem na „YABADABA”",
+          "opis": "Klip kręcił OG Jerzyk, numer jest już na streamingach. W komentarzach wszyscy piszą o zwrotkach Kabe 🔥"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
         "published": "2026-11-19",
         "who": "IShowSpeed",
         "initials": "IS",
@@ -311,6 +464,252 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Muzyka",
+        "initials": "BH",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Gitarzysta Buckethead występuje w masce i z kubełkiem po kurczakach na głowie. Wydał setki albumów",
+        "summary": "Amerykański gitarzysta Brian Carroll, czyli Buckethead, gra w białej masce i z kubełkiem na głowie. Poza ponad 30 albumami studyjnymi wydał ponad 800 krótkich płyt z serii „Pike”.",
+        "body": [
+          "Buckethead to pseudonim Briana Carrolla, amerykańskiego gitarzysty urodzonego w 1969 roku. Na scenie zawsze pokazuje się w białej masce i z kubełkiem na głowie.",
+          "Jest też jednym z najpłodniejszych muzyków na świecie: ma ponad 30 albumów studyjnych, a od 2011 roku wydaje mini-albumy z serii „Pike”, zwykle po ok. 30 minut. Według Wikipedii do lipca 2026 roku ukazało się ich 810."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Buckethead"
+          },
+          {
+            "name": "sputnikmusic.com",
+            "url": "https://www.sputnikmusic.com/list.php?memberid=252408&listid=135012"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Buckethead%2C_2006.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Buckethead,_2006.jpg",
+          "credit": "Jason Scragz; modified by anetode / Wikimedia Commons, CC BY 2.0",
+          "alt": "Buckethead w białej masce i z kubełkiem na głowie gra na gitarze",
+          "caption": "Buckethead na koncercie w 2006 roku"
+        },
+        "caption": {
+          "credit": "Jason Scragz / Wikimedia Commons",
+          "text": "Buckethead na scenie w 2006 roku, w masce i z kubełkiem na głowie. W takim stroju występuje od lat."
+        },
+        "insta": {
+          "tytul": "Ten gitarzysta gra w masce i z kubełkiem po kurczakach na głowie",
+          "opis": "To Buckethead. Oprócz ponad 30 albumów studyjnych wydał ponad 800 krótkich płyt z serii „Pike”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Starożytny Rzym",
+        "initials": "SR",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Na środku Forum Romanum był dół, a sami Rzymianie nie wiedzieli, skąd się wziął",
+        "summary": "Lacus Curtius to zagłębienie w samym sercu Forum Romanum. O jego pochodzeniu krążyło w starożytności kilka sprzecznych legend.",
+        "body": [
+          "Teren, na którym zbudowano Forum Romanum, był prawdopodobnie kiedyś jeziorem otoczonym strumieniami i bagnami. Jedna jego część nigdy nie została osuszona i kurczyła się, aż został po niej tylko basen nazwany Lacus Curtius.",
+          "Już Rzymianie nie byli pewni, czym to miejsce jest i jaką miało rolę we wczesnej historii miasta. Krążyło o nim kilka wykluczających się opowieści."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Lacus_Curtius"
+          },
+          {
+            "name": "Livius.org",
+            "url": "https://www.livius.org/articles/place/rome/rome-photos/rome-forum-romanum/lacus-curtius/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/RomaForoRomanoLacusCurtius.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:RomaForoRomanoLacusCurtius.jpg",
+          "credit": "MM / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Ogrodzone zagłębienie z kamiennym obramowaniem na Forum Romanum",
+          "caption": "Lacus Curtius na Forum Romanum"
+        },
+        "caption": {
+          "credit": "MM / Wikimedia Commons",
+          "text": "Tak dziś wygląda miejsce Lacus Curtius na Forum Romanum. To po tym dawnym basenie zostało tylko kamienne obramowanie."
+        },
+        "insta": {
+          "tytul": "Na środku Forum Romanum był dół i nawet Rzymianie nie wiedzieli, po co",
+          "opis": "To Lacus Curtius, resztka dawnego jeziora. O jego pochodzeniu krążyło kilka sprzecznych legend."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Kolej",
+        "initials": "KO",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "W starszych pociągach nie wolno było korzystać z toalety na stacji. Wszystko leciało na tory",
+        "summary": "Najprostsze toalety w pociągach nie miały zbiorników i opróżniały się prosto pod wagon. Dlatego pasażerów proszono, żeby nie spłukiwali na postoju.",
+        "body": [
+          "W wielu starszych wagonach toaleta była zwykłym otworem, przez który nieczystości trafiały bezpośrednio na tory. W czasie jazdy rozpraszały się po trasie, ale na stacji zostawałyby przy peronie.",
+          "Stąd znane z wielu krajów tabliczki z prośbą, by nie korzystać z toalety podczas postoju. Nowsze pociągi mają zamknięte zbiorniki, opróżniane w zajezdniach."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Passenger_train_toilet"
+          },
+          {
+            "name": "Toilet Guru",
+            "url": "http://toilet-guru.com/train.php"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Train_toilet.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Train_toilet.jpg",
+          "credit": "KF / Wikimedia Commons, domena publiczna",
+          "alt": "Wnętrze toalety w wagonie pociągu",
+          "caption": "Toaleta w wagonie pasażerskim"
+        },
+        "caption": {
+          "credit": "KF / Wikimedia Commons",
+          "text": "Toaleta w wagonie pociągu pasażerskiego. Właśnie z takich toalet w starszych wagonach nieczystości trafiały prosto na tory."
+        },
+        "insta": {
+          "tytul": "Dlaczego w starych pociągach nie wolno było iść do toalety na stacji?",
+          "opis": "Bo wszystko leciało prosto na tory. W trasie się rozpraszało, na peronie już nie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Kenia",
+        "initials": "KE",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Pierwszym Kenijczykiem na zimowych igrzyskach był biegacz narciarski Philip Boit",
+        "summary": "Philip Boit z Eldoret jako pierwszy reprezentant Kenii wystartował w zimowych igrzyskach olimpijskich. Startował w biegach narciarskich.",
+        "body": [
+          "Philip Boit urodził się w 1971 roku w Eldoret, w kraju słynącym z biegaczy długodystansowych, nie z narciarzy. Został pierwszym Kenijczykiem w historii, który wystąpił na zimowych igrzyskach.",
+          "Startował w biegach narciarskich. Jego historię opisywało m.in. BBC, przypominając przyjaźń z norweską legendą biegów Bjørnem Dæhlie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Philip_Boit"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/magazine-25861305"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2011-02-27_Philip_Boit_01.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:2011-02-27_Philip_Boit_01.jpg",
+          "credit": "Chell Hill / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Philip Boit w stroju narciarskim",
+          "caption": "Philip Boit w 2011 roku"
+        },
+        "caption": {
+          "credit": "Chell Hill / Wikimedia Commons",
+          "text": "Philip Boit na zdjęciu z 2011 roku. To pierwszy Kenijczyk, który startował w zimowych igrzyskach."
+        },
+        "insta": {
+          "tytul": "Kenia też miała swojego narciarza na zimowych igrzyskach",
+          "opis": "Philip Boit z Eldoret był pierwszym Kenijczykiem na zimowej olimpiadzie. Biegał na nartach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Niemcy",
+        "initials": "GS",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Mur Berliński otwarto po pomyłce urzędnika NRD na konferencji prasowej",
+        "summary": "W listopadzie 1989 roku rzecznik władz NRD Günter Schabowski improwizował odpowiedź o nowych przepisach. Wyszło na to, że granica otwiera się od razu.",
+        "body": [
+          "Günter Schabowski był wysokim działaczem rządzącej w NRD partii SED i nieoficjalnym rzecznikiem władz. W listopadzie 1989 roku na konferencji prasowej odpowiedział na pytanie o przyszłość muru nie do końca tak, jak planował rząd.",
+          "Jego słowa zabrzmiały, jakby mur przestawał obowiązywać natychmiast. Tej samej nocy pod murem zebrały się tłumy i po 28 latach przejścia otwarto."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski"
+          },
+          {
+            "name": "DW",
+            "url": "http://www.dw.com/en/former-east-german-communist-official-g%C3%BCnter-schabowski-dies-in-berlin/a-18819829"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1982-0504-421,_G%C3%BCnter_Schabowski.jpg",
+          "credit": "Bundesarchiv / Wikimedia Commons, CC BY-SA 3.0 de",
+          "alt": "Portret Güntera Schabowskiego",
+          "caption": "Günter Schabowski w 1982 roku"
+        },
+        "caption": {
+          "credit": "Bundesarchiv / Wikimedia Commons",
+          "text": "Günter Schabowski na zdjęciu z archiwum federalnego Niemiec. To jego improwizowana odpowiedź przyspieszyła otwarcie muru."
+        },
+        "insta": {
+          "tytul": "Mur Berliński otworzyła… pomyłka na konferencji prasowej",
+          "opis": "Rzecznik NRD Günter Schabowski źle zrozumiał nowe przepisy i ogłosił, że granica jest otwarta od razu. Tej nocy tłumy ruszyły pod mur."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Informatyka",
+        "initials": "IT",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "19 stycznia 2038 r. o 3:14:07 część komputerów „cofnie się w czasie”",
+        "summary": "Systemy zapisujące czas jako 32-bitową liczbę sekund od 1 stycznia 1970 r. nie zmieszczą dat po tej chwili. To tzw. problem roku 2038.",
+        "body": [
+          "Wiele systemów liczy czas jako liczbę sekund od 1 stycznia 1970 roku (tzw. czas uniksowy) i trzyma ją w 32-bitowej liczbie ze znakiem. Jej maksimum przypada na 19 stycznia 2038 roku, godz. 3:14:07 UTC.",
+          "Sekundę później licznik się przepełni i przeskoczy na wartość minimalną, którą system odczyta jako datę z przeszłości. Problem przypomina „pluskwę milenijną” z 2000 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Year_2038_problem"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/technology/2014/dec/17/is-the-year-2038-problem-the-new-y2k-bug"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Year_2038_problem.gif",
+          "href": "https://commons.wikimedia.org/wiki/File:Year_2038_problem.gif",
+          "credit": "Monaneko / Wikimedia Commons, domena publiczna",
+          "alt": "Animacja licznika czasu, który po przepełnieniu przeskakuje z 2038 na 1901 rok",
+          "caption": "Przepełnienie licznika w 2038 roku"
+        },
+        "caption": {
+          "credit": "Monaneko / Wikimedia Commons",
+          "text": "Animacja pokazuje 32-bitowy licznik czasu w chwili przepełnienia. Data przeskakuje z 2038 roku daleko w przeszłość."
+        },
+        "insta": {
+          "tytul": "W 2038 r. część komputerów nagle „cofnie się” do 1901 roku",
+          "opis": "Liczą czas w sekundach od 1970 r. i 19 stycznia 2038 r. o 3:14:07 UTC skończy im się skala."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-20",
