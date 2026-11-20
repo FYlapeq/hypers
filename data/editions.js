@@ -1,5 +1,564 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-20": {
+    "date": "2026-11-20",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "GTA 6",
+        "hype": 5,
+        "title": "IShowSpeed grał w GTA 6 prawie dobę bez przerwy. Zapis streamu ma blisko 65 mln wyświetleń",
+        "summary": "IShowSpeed ruszył z GTA 6 w dniu premiery i nie skończył przez prawie 24 godziny. Zapis transmisji na YouTube trwa ok. 23 h 45 min i ma już niemal 65 mln wyświetleń.",
+        "body": [
+          "IShowSpeed rozpoczął w czwartek wieczorem transmisję „PLAYING GTA 6 EARLY ACCESS GAMEPLAY GET IN HERE!”. Zapis streamu, który został na jego kanale, trwa ok. 23 godziny i 45 minut.",
+          "W piątek o 6:16 nagranie miało ok. 64,7 mln wyświetleń i ponad 816 tys. polubień. To wielokrotnie więcej niż zapis maratonu Kaia Cenata, o którym pisaliśmy wczoraj.",
+          "W najwyżej ocenianych komentarzach widzowie dziwią się, że Speed grał prawie całą dobę bez snu, a część porównuje oglądalność streamu do finału mistrzostw świata."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=qSyo5d-dVzA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=qSyo5d-dVzA",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/qSyo5d-dVzA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/qSyo5d-dVzA/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=qSyo5d-dVzA",
+          "alt": "Miniatura zapisu streamu IShowSpeeda z GTA 6",
+          "caption": "Zapis prawie 24-godzinnego streamu IShowSpeeda z GTA 6"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Kadr z zapisu transmisji, w której IShowSpeed grał w GTA 6 od premiery. Nagranie trwa prawie dobę i to ono zebrało blisko 65 mln wyświetleń."
+        },
+        "insta": {
+          "tytul": "IShowSpeed grał w GTA 6 prawie 24 godziny bez przerwy",
+          "opis": "Zapis streamu ma już prawie 65 mln wyświetleń. Widzowie w komentarzach nie wierzą, że wytrzymał bez snu."
+        },
+        "ig": [
+          "ishowspeed"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-19",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "GTA 6",
+        "hype": 5,
+        "title": "MrBeast spędził 100 godzin w GTA 6 jeszcze przed premierą. Dostał wczesny dostęp od Rockstar",
+        "summary": "Na kanale MrBeast Gaming pojawił się film „I Survived 100 Hours In GTA 6”. Jak pisze twórca, dostał od Rockstar wczesny dostęp do gry. W pół doby film obejrzało ponad 12 mln osób.",
+        "body": [
+          "MrBeast wrzucił na kanał MrBeast Gaming półgodzinny film o swoich pierwszych 100 godzinach w GTA 6 (liczonych w czasie gry).",
+          "W opisie twórca tłumaczy, że dostał wczesny dostęp do gry, dziękuje Rockstar za „ten przywilej” i zapewnia, że w filmie nie ma spoilerów fabuły.",
+          "W piątek o 6:16 film miał ok. 12,6 mln wyświetleń, 250 tys. polubień i ponad 8 tys. komentarzy. Najpopularniejsze z nich żartują, że MrBeast miał GTA 6, zanim wyszło GTA 6."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ymCHX_Dcc-U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ymCHX_Dcc-U/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/watch?v=ymCHX_Dcc-U",
+          "alt": "Miniatura filmu MrBeast Gaming o 100 godzinach w GTA 6",
+          "caption": "MrBeast i 100 godzin w GTA 6"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura filmu, w którym MrBeast pokazuje pierwsze 100 godzin w GTA 6. W opisie dziękuje Rockstar za wczesny dostęp do gry."
+        },
+        "insta": {
+          "tytul": "MrBeast dostał GTA 6 wcześniej i od razu nabił w nim 100 godzin",
+          "opis": "Rockstar dał mu wczesny dostęp, a film ma już ponad 12 mln wyświetleń. Spoilerów fabuły podobno brak."
+        },
+        "ig": [
+          "mrbeast"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "GothamChess znalazł szachy w GTA 6. Widzowie od razu wytykają, że plansza jest źle ustawiona",
+        "summary": "Levy Rozman wrzucił short „CHESS IN GTA 6”. W kilka godzin obejrzało go ponad pół miliona osób, a komentarze kręcą się wokół szachowych błędów w grze.",
+        "body": [
+          "Najpopularniejszy szachowy twórca na YouTube też nie odpuścił premiery GTA 6. Na kanale GothamChess pojawił się krótki film „CHESS IN GTA 6”.",
+          "W piątek o 6:16 short miał ok. 519 tys. wyświetleń i 25 tys. polubień.",
+          "Widzowie żartują, że Rozman „podpina się pod trend”, a inni zauważają, że szachownice w grach i filmach są ustawione poprawnie mniej więcej w połowie przypadków."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/shorts/uOIwXJVPXks",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/uOIwXJVPXks",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/uOIwXJVPXks/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/uOIwXJVPXks/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/shorts/uOIwXJVPXks",
+          "alt": "Miniatura shorta GothamChess o szachach w GTA 6",
+          "caption": "Short GothamChess o szachach w GTA 6"
+        },
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura shorta, w którym GothamChess pokazuje szachy w GTA 6. Filmu nie opisujemy szerzej, bo nie ma napisów, ale komentarze dotyczą ustawienia planszy."
+        },
+        "insta": {
+          "tytul": "Nawet GothamChess wszedł do GTA 6. Oczywiście szukał szachów",
+          "opis": "Short ma ponad pół miliona wyświetleń, a widzowie wytykają, że plansza w grze jest źle ustawiona."
+        },
+        "ig": [
+          "gothamchess"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "ZMASLO",
+        "initials": "ZM",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Jak GTA 6 działa na PS5? ZMASLO sprawdził wydajność i grafikę dla moreleTV",
+        "summary": "Na kanale moreleTV pojawił się short, w którym ZMASLO testuje GTA 6 na PlayStation 5. Obejrzało go już ponad 160 tys. osób, a widzowie proszą o porównanie wszystkich konsol.",
+        "body": [
+          "W dniu premiery kanał moreleTV opublikował short „Jak PS5 radzi sobie z GTA VI?”. Jak czytamy w opisie, wydajność i grafikę gry na PlayStation 5 sprawdził ZMASLO.",
+          "W piątek o 6:16 film miał ok. 164 tys. wyświetleń i 2,6 tys. polubień.",
+          "Najwyżej oceniany komentarz prosi o porównanie liczby klatek i grafiki na wszystkich czterech konsolach, na które wyszła gra. Część widzów dopytuje też, jak włączyć licznik FPS na PS5."
+        ],
+        "sources": [
+          {
+            "name": "ZMASLO / YouTube",
+            "url": "https://www.youtube.com/shorts/k_yTVLvIB_g",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/k_yTVLvIB_g",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/k_yTVLvIB_g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/k_yTVLvIB_g/hqdefault.jpg",
+          "credit": "ZMASLO / YouTube",
+          "href": "https://www.youtube.com/shorts/k_yTVLvIB_g",
+          "alt": "Miniatura shorta moreleTV o GTA 6 na PS5",
+          "caption": "ZMASLO testuje GTA 6 na PS5"
+        },
+        "caption": {
+          "credit": "ZMASLO / YouTube",
+          "text": "Miniatura shorta moreleTV o tym, jak GTA 6 działa na PS5. Test przeprowadził ZMASLO, co potwierdza opis filmu."
+        },
+        "insta": {
+          "tytul": "ZMASLO sprawdził, jak GTA 6 chodzi na zwykłym PS5",
+          "opis": "Short ma już ponad 160 tys. wyświetleń. Widzowie chcą teraz porównania na wszystkich konsolach."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "HUBSON GAMES",
+        "initials": "HG",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Hubson już w dniu premiery wypuścił odcinek o sekretach GTA 6: kosmici, Wielka Stopa i Tommy Vercetti",
+        "summary": "HUBSON GAMES ruszył z serią „GTA 6 Tajemnice i Ciekawostki”. Pierwszy, ponad 12-minutowy odcinek obiecuje kosmitów, Wielką Stopę i nawiązanie do Tommy’ego Vercettiego.",
+        "body": [
+          "Polski twórca znany z filmów o sekretach serii GTA opublikował w czwartek wieczorem pierwszy odcinek nowej serii: „GTA 6 Tajemnice i Ciekawostki (01) - Kosmici, Wielka Stopa, Tommy Vercetti i inne sekrety”.",
+          "W piątek o 6:16 film miał ok. 42 tys. wyświetleń, 1,2 tys. polubień i ponad 180 komentarzy.",
+          "Widzowie w komentarzach chwalą tempo, bo materiał wyszedł w dniu premiery gry. Część dyskutuje o pochodzeniu jednego z nawiązań, wskazując na starszą misję z GTA San Andreas i serial „Z archiwum X”."
+        ],
+        "sources": [
+          {
+            "name": "HUBSON GAMES / YouTube",
+            "url": "https://www.youtube.com/watch?v=2-QxsJTJ5Z4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=2-QxsJTJ5Z4",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/2-QxsJTJ5Z4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/2-QxsJTJ5Z4/hqdefault.jpg",
+          "credit": "HUBSON GAMES / YouTube",
+          "href": "https://www.youtube.com/watch?v=2-QxsJTJ5Z4",
+          "alt": "Miniatura filmu HUBSON GAMES o sekretach GTA 6",
+          "caption": "Hubson i pierwsze sekrety GTA 6"
+        },
+        "caption": {
+          "credit": "HUBSON GAMES / YouTube",
+          "text": "Miniatura pierwszego odcinka serii o tajemnicach GTA 6. Tytuł zapowiada kosmitów, Wielką Stopę i Tommy’ego Vercettiego."
+        },
+        "insta": {
+          "tytul": "Hubson już znalazł w GTA 6 kosmitów i Wielką Stopę",
+          "opis": "Pierwszy odcinek o sekretach wyszedł w dniu premiery. W tytule jest też Tommy Vercetti 👀"
+        },
+        "ig": [
+          "hubson_games"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-20",
+        "who": "Lukasyno",
+        "initials": "LU",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Lukasyno wypuścił czwarty singiel przed albumem „Amor Fati”. Płyta wychodzi 27 listopada",
+        "summary": "Utwór „Na własnych zasadach” w produkcji Kriso to czwarta zapowiedź nowego albumu Lukasyno. „Amor Fati” ukaże się 27 listopada, a raper ogłosił też trasę.",
+        "body": [
+          "W nocy z czwartku na piątek na kanale Lukasyno pojawił się utwór „Na własnych zasadach”. Bit wyprodukował Kriso, a realizacja, miks i mastering powstały w Slang Studio.",
+          "Jak czytamy w opisie, to czwarty singiel zapowiadający album „Amor Fati”, który wychodzi 27 listopada nakładem Persona non grata. W utworze słychać akordeon Piotra Ostaszewskiego.",
+          "W komentarzu pod filmem pojawiły się linki do przedsprzedaży płyty i biletów na trasę Amor Fati Tour."
+        ],
+        "sources": [
+          {
+            "name": "Lukasyno / YouTube",
+            "url": "https://www.youtube.com/watch?v=Br22HEGoM_Y",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Br22HEGoM_Y",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Br22HEGoM_Y/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Br22HEGoM_Y/hqdefault.jpg",
+          "credit": "Lukasyno / YouTube",
+          "href": "https://www.youtube.com/watch?v=Br22HEGoM_Y",
+          "alt": "Miniatura utworu „Na własnych zasadach” Lukasyno",
+          "caption": "Lukasyno, „Na własnych zasadach”"
+        },
+        "caption": {
+          "credit": "Lukasyno / YouTube",
+          "text": "Oprawa utworu „Na własnych zasadach”, czwartego singla z płyty „Amor Fati”. Opis filmu podaje datę premiery albumu: 27 listopada."
+        },
+        "insta": {
+          "tytul": "Lukasyno wrzucił czwarty singiel. Album „Amor Fati” wychodzi 27 listopada",
+          "opis": "Numer „Na własnych zasadach” zrobił z Kriso, a w środku jest akordeon. Rusza też trasa Amor Fati Tour."
+        },
+        "ig": [
+          "lukasynoofficial"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-19",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Palion pierwszy raz zagrał w GTA 6. Fani już proszą o odcinek z sześcioma gwiazdkami",
+        "summary": "Palion opublikował 44-minutowy film „GRAM PIERWSZY RAZ w GTA 6!”. W kilkanaście godzin obejrzało go blisko 90 tys. osób.",
+        "body": [
+          "W czwartek wieczorem na kanale Paliona pojawił się film „GRAM PIERWSZY RAZ w GTA 6!”. Materiał trwa ok. 44 minuty.",
+          "W piątek o 6:16 miał ok. 88 tys. wyświetleń, 3,2 tys. polubień i ponad 430 komentarzy.",
+          "Widzowie w komentarzach piszą, że długo czekali na ten odcinek, część wspomina jego niedawne granie w GTA V, a kilku prosi o film, w którym zdobędzie sześć gwiazdek poszukiwania."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=slSc3pbysGs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=slSc3pbysGs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/slSc3pbysGs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/slSc3pbysGs/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=slSc3pbysGs",
+          "alt": "Miniatura filmu Paliona o pierwszym graniu w GTA 6",
+          "caption": "Palion pierwszy raz w GTA 6"
+        },
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Miniatura filmu, w którym Palion pierwszy raz gra w GTA 6. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Palion w końcu odpalił GTA 6",
+          "opis": "Film ma już blisko 90 tys. wyświetleń, a widzowie proszą o odcinek z sześcioma gwiazdkami."
+        },
+        "ig": [
+          "pawel_palion"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Kalifornia",
+        "initials": "KA",
+        "category": "Ciekawostki",
+        "hype": 3,
+        "title": "Na środku pustyni Mojave przez lata stała budka telefoniczna, 19 km od najbliższej asfaltowej drogi",
+        "summary": "Samotny automat stał na skrzyżowaniu dwóch gruntowych dróg w Kalifornii. W 1997 roku zrobiło się o nim głośno w internecie.",
+        "body": [
+          "Budka stała w odludnej części pustyni Mojave, na terenie dzisiejszego rezerwatu Mojave National Preserve, ok. 19 km od najbliższej utwardzonej drogi i daleko od jakichkolwiek budynków.",
+          "W 1997 roku jej nietypowe położenie zaczęło przyciągać uwagę internautów. Ludzie dzwonili pod jej numer i jeździli na pustynię, żeby ją zobaczyć."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mojave_phone_booth"
+          },
+          {
+            "name": "npshistory.com",
+            "url": "http://www.npshistory.com/publications/moja/adhi/chap6.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mojave_Phone_Booth_NO_FACE.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mojave_Phone_Booth_NO_FACE.jpg",
+          "credit": "James13619 / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Samotna budka telefoniczna na pustyni",
+          "caption": "Budka telefoniczna na pustyni Mojave"
+        },
+        "caption": {
+          "credit": "James13619 / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje słynną budkę na pustyni Mojave. Dookoła nie widać żadnych zabudowań, co dobrze oddaje, jak odludne było to miejsce."
+        },
+        "insta": {
+          "tytul": "Na środku pustyni stała budka telefoniczna. 19 km od najbliższego asfaltu",
+          "opis": "Internet odkrył ją w 1997 roku i ludzie zaczęli tam dzwonić i jeździć."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Wielka Brytania",
+        "initials": "WB",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "W czasie II wojny światowej Brytyjczycy chcieli zbudować lotniskowiec z lodu zmieszanego z trocinami",
+        "summary": "Pykret to zamrożona mieszanka ok. 86% lodu i 14% trocin. Jest znacznie mocniejszy od zwykłego lodu i topi się wolniej.",
+        "body": [
+          "Materiał wymyślił Geoffrey Pyke, który podczas II wojny światowej zaproponował go Royal Navy jako tworzywo na ogromny lotniskowiec.",
+          "Pykret topi się powoli, bo słabo przewodzi ciepło, a dopóki jest zamrożony, pod względem wytrzymałości można go porównać do betonu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pykrete"
+          },
+          {
+            "name": "Cabinet Magazine",
+            "url": "http://www.cabinetmagazine.org/issues/7/floatingisland.php"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Block_of_pykrete.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Block_of_pykrete.jpg",
+          "credit": "Charles Nichols (uploader) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Blok pykretu, czyli lodu z trocinami",
+          "caption": "Blok pykretu"
+        },
+        "caption": {
+          "credit": "Charles Nichols (uploader) / Wikimedia Commons",
+          "text": "Na zdjęciu blok pykretu, czyli lodu zmieszanego z trocinami. Z takiego materiału miał powstać wojenny lotniskowiec."
+        },
+        "insta": {
+          "tytul": "Brytyjczycy chcieli zbudować lotniskowiec z lodu i trocin",
+          "opis": "Mieszanka zwana pykretem jest mocna jak beton, dopóki jest zamrożona. Serio."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Niemcy i Belgia",
+        "initials": "NB",
+        "category": "Geografia",
+        "hype": 3,
+        "title": "Belgijska linia kolejowa odcina od Niemiec pięć kawałków niemieckiego terytorium",
+        "summary": "Tory Vennbahn wraz ze stacjami przyznano Belgii po I wojnie światowej. Po zachodniej stronie linii zostały niemieckie eksklawy.",
+        "body": [
+          "Vennbahn zbudowały pruskie koleje państwowe, częściowo na ówczesnym terenie Niemiec. Na mocy traktatu wersalskiego torowisko, stacje i inne instalacje stały się w 1919 r. tymczasowo, a w 1922 r. na stałe terytorium Belgii.",
+          "Powstało w ten sposób sześć małych niemieckich eksklaw po zachodniej stronie linii. Do dziś zostało pięć."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Vennbahn"
+          },
+          {
+            "name": "Jan S. Krogh's Geosite",
+            "url": "http://geosite.jankrogh.com/vennbahn.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vennbahn.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Vennbahn.png",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Mapa linii Vennbahn na granicy belgijsko-niemieckiej",
+          "caption": "Mapa linii Vennbahn"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Mapa pokazuje przebieg Vennbahn na pograniczu Belgii i Niemiec. Widać na niej, jak pas belgijskich torów oddziela kawałki Niemiec."
+        },
+        "insta": {
+          "tytul": "Belgijskie tory odcinają od Niemiec pięć kawałków Niemiec",
+          "opis": "Po I wojnie światowej linię kolejową oddano Belgii. Po drugiej stronie torów zostały małe niemieckie wysepki."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Historia",
+        "initials": "HI",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Kiedyś produkowano trumny z mechanizmem, którym pochowany żywcem mógł dać znać, że żyje",
+        "summary": "W XVIII i XIX wieku opatentowano wiele „bezpiecznych trumien”. Miały chronić przed pochowaniem kogoś, kto wcale nie umarł.",
+        "body": [
+          "Bezpieczna trumna miała mechanizm, który zapobiegał przedwczesnemu pochówkowi albo pozwalał osobie w środku dać sygnał, że została pochowana żywcem.",
+          "W XVIII i XIX wieku opatentowano mnóstwo takich projektów, a różne wersje tego pomysłu są dostępne do dziś."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Safety_coffin"
+          },
+          {
+            "name": "Australian Museum",
+            "url": "https://australian.museum/about/history/exhibitions/death-the-last-taboo/safety-coffins/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Safetycoffin.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Safetycoffin.jpg",
+          "credit": "Johann Taberger / Wikimedia Commons, domena publiczna",
+          "alt": "Rycina przedstawiająca trumnę z mechanizmem sygnalizacyjnym",
+          "caption": "Projekt bezpiecznej trumny"
+        },
+        "caption": {
+          "credit": "Johann Taberger / Wikimedia Commons",
+          "text": "Dawna ilustracja bezpiecznej trumny z mechanizmem do dawania sygnału. Takie projekty patentowano w XVIII i XIX wieku."
+        },
+        "insta": {
+          "tytul": "Kiedyś robiono trumny na wypadek, gdyby ktoś jednak żył",
+          "opis": "Miały mechanizm, którym pochowany mógł dać sygnał. Takich patentów było w XIX wieku mnóstwo."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Wielka Brytania",
+        "initials": "WB",
+        "category": "Telewizja",
+        "hype": 3,
+        "title": "W 1977 r. w brytyjskiej telewizji przemówił „przedstawiciel galaktycznego dowództwa”",
+        "summary": "26 listopada 1977 r. dźwięk programu Southern Television na południu Anglii zastąpił głos przybysza z kosmosu. Po pięciu i pół minuty wróciła kreskówka.",
+        "body": [
+          "Głos przedstawił się jako reprezentant „Ashtar Galactic Command” i wzywał ludzkość do porzucenia broni i życia w pokoju. Po ok. 5,5 minuty program wrócił do planowej kreskówki Looney Tunes „Goofy Gophers”.",
+          "Śledztwo wykazało, że nadajnik Hannington zamiast właściwego sygnału przekazał dalej transmisję z małego, nielegalnego nadajnika w pobliżu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption"
+          },
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/news/long_reads/vrillon-hacking-alien-voice-seventies-extra-terrestrial-hoax-unexplained-mysteries-a8069926.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HanningtonTransmitter.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:HanningtonTransmitter.jpg",
+          "credit": "Roberto Casula / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Maszt nadajnika telewizyjnego Hannington",
+          "caption": "Nadajnik Hannington"
+        },
+        "caption": {
+          "credit": "Roberto Casula / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje nadajnik Hannington. To on w 1977 roku przekazał dalej sygnał z pirackiej transmisji."
+        },
+        "insta": {
+          "tytul": "W 1977 r. w brytyjskiej telewizji odezwał się „kosmita”",
+          "opis": "Zamiast dźwięku programu poleciał apel o pokój od „galaktycznego dowództwa”. Winny był piracki nadajnik."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "Lotnictwo",
+        "initials": "LO",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Istniała liga, która chciała urządzać wyścigi samolotów z silnikami rakietowymi",
+        "summary": "Rocket Racing League działała w latach 2005–2014. Zbudowano trzy prototypy rakietowych samolotów wyścigowych.",
+        "body": [
+          "Liga miała ścigać samoloty o napędzie rakietowym po zamkniętym, powietrznym torze, który widzowie śledziliby na żywo i na dużych ekranach.",
+          "Pierwsze publiczne loty odbyły się w 2010 roku. W latach 2006–2010 powstały trzy prototypy, ale regularnych sezonów nie udało się uruchomić przed zamknięciem ligi w 2014 roku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Rocket_Racing_League"
+          },
+          {
+            "name": "Rocket Racing League (archiwum)",
+            "url": "https://web.archive.org/web/20080810103131/http://www.rocketracingleague.com/about-rocket-racer.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Xcor-rocketracer-N216MR-071029-07cr-7.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Xcor-rocketracer-N216MR-071029-07cr-7.jpg",
+          "credit": "Alan Radecki / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Samolot z silnikiem rakietowym Rocket Racer na lotnisku",
+          "caption": "Prototyp Rocket Racera"
+        },
+        "caption": {
+          "credit": "Alan Radecki / Wikimedia Commons",
+          "text": "Na zdjęciu jeden z prototypów samolotów Rocket Racer. Takimi maszynami liga chciała się ścigać w powietrzu."
+        },
+        "insta": {
+          "tytul": "Była kiedyś liga wyścigów rakietowych samolotów",
+          "opis": "Zbudowali trzy prototypy i zrobili pokazy, ale prawdziwego sezonu się nie doczekała."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-19": {
     "date": "2026-11-19",
     "ryby": [],

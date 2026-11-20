@@ -1,5 +1,24 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-20": {
+  "luz": [
+   "artykuly/2026-11-20/ishowspeed-gral-w-gta-6-prawie-dobe-bez-przerwy-zapis-streamu.html",
+   "artykuly/2026-11-20/mrbeast-spedzil-100-godzin-w-gta-6-jeszcze-przed-premiera-dostal.html",
+   "artykuly/2026-11-20/gothamchess-znalazl-szachy-w-gta-6-widzowie-od-razu-wytykaja.html",
+   "artykuly/2026-11-20/jak-gta-6-dziala-na-ps5-zmaslo-sprawdzil-wydajnosc-i-grafike-dla.html",
+   "artykuly/2026-11-20/hubson-juz-w-dniu-premiery-wypuscil-odcinek-o-sekretach-gta-6-kosmici.html",
+   "artykuly/2026-11-20/lukasyno-wypuscil-czwarty-singiel-przed-albumem-amor-fati-plyta.html",
+   "artykuly/2026-11-20/palion-pierwszy-raz-zagral-w-gta-6-fani-juz-prosza-o-odcinek.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-20/na-srodku-pustyni-mojave-przez-lata-stala-budka-telefoniczna-19.html",
+   "artykuly/2026-11-20/w-czasie-ii-wojny-swiatowej-brytyjczycy-chcieli-zbudowac-lotniskowiec.html",
+   "artykuly/2026-11-20/belgijska-linia-kolejowa-odcina-od-niemiec-piec-kawalkow-niemieckiego.html",
+   "artykuly/2026-11-20/kiedys-produkowano-trumny-z-mechanizmem-ktorym-pochowany-zywcem-mogl.html",
+   "artykuly/2026-11-20/w-1977-r-w-brytyjskiej-telewizji-przemowil-przedstawiciel.html",
+   "artykuly/2026-11-20/istniala-liga-ktora-chciala-urzadzac-wyscigi-samolotow-z-silnikami.html"
+  ]
+ },
  "2026-11-19": {
   "luz": [
    "artykuly/2026-11-19/wedlug-sensor-tower-gta-6-sprzedalo-sie-w-ok-17-mln-kopii-jeszcze.html",
