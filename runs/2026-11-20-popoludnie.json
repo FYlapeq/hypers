@@ -1,0 +1,2047 @@
+{
+ "run": {
+  "date": "2026-11-20",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-20T13:20:30.206Z",
+  "candidates": 100,
+  "with_free_image": 36,
+  "ready": 17
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 11",
+  "rss:Mental Floss": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 270",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4259",
+  "drugie-zrodlo": "ok 17/34"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która gra komputerowa z 2020 roku wpisała się w nurt roguelike’ów karcianych?",
+   "article": {
+    "title": "Iris and the Giant",
+    "url": "https://pl.wikipedia.org/wiki/Iris_and_the_Giant",
+    "extract": "Iris and the Giant – gra komputerowa łącząca elementy gry fabularnej, strategicznej oraz karcianej, stworzona przez francuskiego projektanta Louisa Rigauda i wydana przez Goblinz Studio, Plug In Digital, Maple Whispering Limited oraz Mugen Creations. Premiera na Windows, macOS i Linux odbyła się 27 lutego 2020 roku, a port na Nintendo Switch ukazał się 5 listopada tego samego roku."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…gdzie Jean Baulu prowadził swoje badania terenowe nad kotawcami?",
+   "article": {
+    "title": "Jean Baulu",
+    "url": "https://pl.wikipedia.org/wiki/Jean_Baulu",
+    "extract": "Jean Baulu (ur. 9 września 1944 w Montrealu, zm. 11 listopada 2022 w Singapurze) – kanadyjski prymatolog i działacz na rzecz ochrony przyrody. Na Barbadosie założył ośrodek badawczy Barbados Primate Research Center oraz rezerwat zwierząt Barbados Wildlife Reserve, po którym swobodnie poruszają się kotawce jasnonogie (Chlorocebus sabaeus)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…która odsłona serii Panzer General po raz pierwszy wykorzystywała w pełni trójwymiarowe pole bitwy?",
+   "article": {
+    "title": "Panzer General 3D Assault",
+    "url": "https://pl.wikipedia.org/wiki/Panzer_General_3D_Assault",
+    "extract": "Panzer General 3D Assault – komputerowa strategiczna gra turowa osadzona w realiach II wojny światowej, wyprodukowana i wydana w 1999 roku przez amerykańskie przedsiębiorstwo Strategic Simulations (SSI) na platformę Microsoft Windows. Należy do serii Panzer General i jest następcą gry Panzer General II z 1997 roku. W Niemczech została wydana pod tytułem Panzer General IV: Western Assault."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…ile zamachów na swoje życie przeżył Wilhelm Leitgeber?",
+   "article": {
+    "title": "Zamachy na Wilhelma Leitgebera",
+    "url": "https://pl.wikipedia.org/wiki/Zamachy_na_Wilhelma_Leitgebera",
+    "extract": "Zamachy na Wilhelma Leitgebera – dwa zamachy na Wilhelma Leitgebera, funkcjonariusza niemieckiej Kriminalpolizei i jednego z najgroźniejszych szmalcowników w okupowanej Warszawie, przeprowadzone przez żołnierzy Armii Krajowej w lutym i czerwcu 1944 roku.\nPierwszy zamach miał miejsce 21 lutego 1944 roku w mieszkaniu Leitgebera przy ul. Jaworzyńskiej 8. Przeprowadzili go żołnierze oddziału 993/W. Doszło do strzelaniny, w której ranny został jeden z polskich wykonawców, a kilku współpracowników Leitgebera zostało rannych lub zabitych."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że nowa piłkarka portugalskiego SL Benfica została w przeszłości MVP Nigeria Women Football League?",
+   "article": {
+    "title": "Janet Akekoromowei",
+    "url": "https://pl.wikipedia.org/wiki/Janet_Akekoromowei",
+    "extract": "Seimeyeha Janet Akekoromowei (ur. 6 listopada 2007 w Ese-Odo) – nigeryjska piłkarka występująca na pozycji napastniczki, zawodniczka portugalskiego klubu SL Benfica oraz młodzieżowej reprezentacji Nigerii."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który niemiecki filozof twierdził, że każdy organizm żywy należy ujmować jako strukturę polikontekstualną?",
+   "article": {
+    "title": "Gotthard Günther",
+    "url": "https://pl.wikipedia.org/wiki/Gotthard_G%C3%BCnther",
+    "extract": "Gotthard Günther (ur. 15 czerwca 1900 w Miłkowie w powiecie Hirschberg w prowincji Śląsk, zm. 29 listopada 1984 w Hamburgu) – niemiecki filozof i logik. Chciał wykazać, że logikę wykraczającą poza klasyczną logikę dwuwartościową, w której każde zdanie jest albo prawdziwe, albo fałszywe, da się zbudować jako rachunek formalny, w którym można prowadzić obliczenia."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co było „zdecydowanie największym błędem” popełnionym podczas prac nad grą Super Meat Boy?",
+   "article": {
+    "title": "Super Meat Boy",
+    "url": "https://pl.wikipedia.org/wiki/Super_Meat_Boy",
+    "extract": "Super Meat Boy – gra platformowa z 2010 roku, wyprodukowana i wydana przez amerykańskie niezależne studio Team Meat. Zaprojektowali ją Edmund McMillen i Tommy Refenes. Jest następczynią gry Meat Boy z 2008 roku, którą McMillen stworzył razem z Jonathanem McEntee w technologii Flash. Gracz steruje Meat Boyem, który próbuje uratować swoją dziewczynę, Bandage Girl, z rąk złego Dr."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który japoński kompozytor skomponował muzykę do gry Super Mario 64?",
+   "article": {
+    "title": "Super Mario 64",
+    "url": "https://pl.wikipedia.org/wiki/Super_Mario_64",
+    "extract": "Super Mario 64 (jap. スーパーマリオ64 Sūpā Mario 64) – gra platformowa stworzona i wydana przez Nintendo w 1996 roku na konsolę Nintendo 64. Jest pierwszą grą z serii Super Mario z grafiką trójwymiarową. Bowser najeżdża zamek księżniczki Peach, porywa ją, a gwiazdy z zamku ukrywa w światach, do których prowadzą magiczne obrazy."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Super Mario 64 logo.png)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy otwarto pierwszą linię kolejową na Sardynii?",
+   "article": {
+    "title": "Transport kolejowy na Sardynii",
+    "url": "https://pl.wikipedia.org/wiki/Transport_kolejowy_na_Sardynii",
+    "extract": "Transport kolejowy na Sardynii – system transportu kolejowego na Sardynii. Linie kolejowe na wyspie liczą łącznie około 1038 km: 430 km linii normalnotorowych i około 608 km linii wąskotorowych o rozstawie toru 950 mm. Po II wojnie światowej wiele linii wąskotorowych zamknięto i rozebrano.\nRuch kolejowy na wyspie prowadzą dwa przedsiębiorstwa."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ferrovie_sardegna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ferrovie_sardegna.png",
+    "file": "File:Ferrovie sardegna.png",
+    "artist": "Alex10",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1254,
+    "height": 2366,
+    "ok": true
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lists of films considered the worst: The worst of the worst.",
+   "article": {
+    "title": "Lists of films considered the worst",
+    "url": "https://en.wikipedia.org/wiki/Lists_of_films_considered_the_worst",
+    "extract": "Lists of films considered the worst include:"
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Euthanasia Coaster: A roller coaster intended to kill its passengers.",
+   "article": {
+    "title": "Euthanasia Coaster",
+    "url": "https://en.wikipedia.org/wiki/Euthanasia_Coaster",
+    "extract": "The Euthanasia Coaster is a hypothetical steel roller coaster and euthanasia device designed with the sole purpose of killing its passengers. The concept was conceived in 2010 and made into a scale model by Lithuanian artist Julijonas Urbonas, a PhD candidate at the Royal College of Art in London.\nUrbonas, who had formerly been an amusement park employee, stated that the goal of his concept roller coaster is to take lives \"with elegance and euphoria\", either for euthanasia or execution purposes. John Allen, who had been the president of the Philadelphia Toboggan Company, inspired Urbonas with his description of the \"ultimate\" roller coaster as one that \"sends out 24 people and they all come back dead\"."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Euthanasia coaster profile.svg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Crooked Forest: A grove of pine trees that are all bent in the same direction just as they emerge from the ground, before going straight back up again as normal. Nobody knows why this is the case.",
+   "article": {
+    "title": "Crooked Forest",
+    "url": "https://en.wikipedia.org/wiki/Crooked_Forest",
+    "extract": "The Crooked Forest (Polish: Krzywy Las) is a grove of oddly-shaped Scots pine trees located in the village of Nowe Czarnowo near the town of Gryfino, West Pomerania, in north-western Poland. It is a protected natural monument of Poland.\nThis grove of 400 pines was planted in around 1930. Each pine tree bends sharply to the north, just above ground level, then curves back upright after a sideways excursion of one to three meters (3–9 feet)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Attribution (File:Crooked Forest.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Year 2038 problem: The computing problem that will arise due to the Unix time representation used in many computers.",
+   "article": {
+    "title": "Year 2038 problem",
+    "url": "https://en.wikipedia.org/wiki/Year_2038_problem",
+    "extract": "The year 2038 problem (also known as Y2038, Y2K38, Y2K38 superbug, or the Epochalypse) is a time computing problem that leaves some computer systems unable to represent times after 03:14:07 UTC on 19 January 2038.\nThe problem exists in systems which measure Unix time—the number of seconds elapsed since the Unix epoch (00:00:00 UTC on 1 January 1970)—and store it in a signed 32-bit integer. When the data type's maximum value is exceeded, the integer will overflow to its minimum value, which systems will interpret as in the past. The problem resembles the year 2000 problem, which was caused by use of a fixed-width decimal (base-10) representation, whereas the year 2038 problem is caused by use of a fixed-width binary (base-2) representation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Year_2038_problem.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Year_2038_problem.gif",
+    "file": "File:Year 2038 problem.gif",
+    "artist": "Monaneko",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 400,
+    "height": 130,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/technology/2014/dec/17/is-the-year-2038-problem-the-new-y2k-bug",
+    "title": "Is the Year 2038 problem the new Y2K bug? | Y2K bug | The Guardian",
+    "matched": [
+     "2038",
+     "problem",
+     "computing",
+     "computers"
+    ]
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of people imprisoned for editing Wikipedia: Yes, this has actually happened.",
+   "article": {
+    "title": "List of people imprisoned for editing Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_people_imprisoned_for_editing_Wikipedia",
+    "extract": "There are eight known cases of Wikipedia editors being imprisoned for contributing to Wikipedia: five in Belarus, two in Saudi Arabia, and one in Syria. Bassel Khartabil, arrested in Syria in 2012, was executed in 2015."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Bassel Khartabil (Safadi) (3x4 cropped).jpg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Mexico's reforestation program Sowing Life initially incentivized deforestation?",
+   "article": {
+    "title": "Sowing Life",
+    "url": "https://en.wikipedia.org/wiki/Sowing_Life",
+    "extract": "Sowing Life (Spanish: Sembrando Vida) is a Mexican government social and agricultural development program established in 2019 during the presidency of Andrés Manuel López Obrador. It is a reforestation program administered by the Secretariat of Welfare (Bienestar), proposed to address rural poverty, promote food self-sufficiency, and restore degraded land through sustainable agricultural practices.\nThe agroforestry program provides financial assistance and agricultural supplies, by supporting community nurseries and facilities, as well as the planting of fruit and timber trees. Participants must own the land and require 2.5 hectares (6.2 acres) available to apply."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Sembrando_Vida.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sembrando_Vida.png",
+    "file": "File:Sembrando Vida.png",
+    "artist": "Government of Mexico",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 129,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bloomberg.com",
+    "url": "https://www.bloomberg.com/news/features/2021-03-08/a-tree-planting-program-in-mexico-may-encourage-deforestation",
+    "title": "A Tree-Planting Program in Mexico May Encourage Deforestation - Bloomberg",
+    "matched": [
+     "mexico",
+     "reforestation",
+     "program",
+     "sowing",
+     "deforestation"
+    ]
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Stubbins Ffirth: An American trainee doctor who went to unusual lengths in his quest to prove that yellow fever is not contagious.",
+   "article": {
+    "title": "Stubbins Ffirth",
+    "url": "https://en.wikipedia.org/wiki/Stubbins_Ffirth",
+    "extract": "Stubbins Ffirth (1782 – 1820) was an American trainee medical doctor notable for his unusual investigations into the cause of yellow fever. He theorized that the disease was not contagious, believing that the drop in cases during winter showed that it was more likely a result of the heat and stresses of the summer months.  While correct in noting that yellow fever was significantly more prevalent in summer, Ffirth's explanation proved to be incorrect. It was a full six decades after his death that a breakthrough would be made, with Cuban scientist Carlos Finlay discovering the link to mosquitoes carrying the disease."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:A treatise on malignant fever - with an attempt to prove its non-contagious nature (IA 2554015R.nlm.nih.gov).pdf)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gore effect: Whereby it gets colder when climate change campaigners come to town.",
+   "article": {
+    "title": "Gore effect",
+    "url": "https://en.wikipedia.org/wiki/Gore_effect",
+    "extract": "The Gore effect or Al Gore effect is the coincidental, non-causative occurrence of unseasonably cold weather with some events associated with global warming activism, particularly those attended by former US Vice President and Presidential Candidate Al Gore. The term was coined and used, sometimes humorously, by global warming deniers."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Archbishop Eustorge of Nicosia excommunicated his nephew's widow and her new husband, who were said to be \"happy to fester in their own excrement\"?",
+   "article": {
+    "title": "Eustorge of Montaigu",
+    "url": "https://en.wikipedia.org/wiki/Eustorge_of_Montaigu",
+    "extract": "Eustorge of Montaigu (Latin: Eustorgius) was a Latin churchman who served as the archbishop of Nicosia in the Kingdom of Cyprus from the mid-1210s until his death in 1250. He was an energetic leader who oversaw the completion of key church infrastructure in Nicosia as well as an increase in the church's wealth. He was involved in several crusades."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Seal_of_Eustorge_of_Montaigu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Seal_of_Eustorge_of_Montaigu.jpg",
+    "file": "File:Seal of Eustorge of Montaigu.jpg",
+    "artist": "Delaville Le Roulx, Joseph (1855-1911)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 341,
+    "height": 376,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 1,
+    "closest": "https://scholar.archive.org/work/iolr24ufnva33p3ydz6oowpzai/access/wayback/http://apcz.umk.pl/czasopisma/index.php/OM/article/download/OM.2014.001/5850"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Frog battery: A curious experiment to determine the existence of animal electricity.",
+   "article": {
+    "title": "Frog battery",
+    "url": "https://en.wikipedia.org/wiki/Frog_battery",
+    "extract": "A frog battery is an electrochemical battery consisting of a number of dead frogs (or sometimes live ones), which form the cells of the battery connected in a series arrangement.  It is a kind of biobattery.  It was used in early scientific investigations of electricity and academic demonstrations.\nThe principle behind the battery is the injury potential created in a muscle when it is damaged, although this was not fully understood in the 18th and 19th centuries; the potential being caused incidentally due to the dissection of the frog's muscles."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Matteucci%27s_frog_battery_trimmed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Matteucci%27s_frog_battery_trimmed2.jpg",
+    "file": "File:Matteucci's frog battery trimmed2.jpg",
+    "artist": "Carlo Matteucci. Spinningspark at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 717,
+    "height": 554,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chute na santa incident: An infamous kicking of a saint. Apparently done to one-up a rival TV network's previous blasphemous broadcasting.",
+   "article": {
+    "title": "Chute na santa incident",
+    "url": "https://en.wikipedia.org/wiki/Chute_na_santa_incident",
+    "extract": "The \"Chute na santa\" (Portuguese: Chute na santa - \"kicking the saint\") incident was a religious controversy that erupted in Brazil in late 1995, sparked by a live broadcast of a minister of Universal Church of the Kingdom of God (UCKG), the largest pentecostal church in Brazil, kicking the statue of Our Lady of Aparecida, a Catholic saint."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Khecarī mudrā: How to maximise your spiritual energy: shove your tongue up your nose.",
+   "article": {
+    "title": "Khecarī mudrā",
+    "url": "https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81",
+    "extract": "Khecarī mudrā (Sanskrit, खेचरी मुद्रा) is a hatha yoga practice carried out by curling the tip of the tongue back into the mouth until it reaches above the soft palate and into the nasal cavity. The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.\nThe goal is to attain liberation in the body, by sealing in the energy of bindu in the head so that it is not lost."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC0 (File:Khechari Mudra English Coloured.jpg)"
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Russ Crandall served as a U.S. Navy translator, ran a food blog, wrote a New York Times best-selling cookbook, and is now a gaming YouTuber?",
+   "article": {
+    "title": "Russ Crandall",
+    "url": "https://en.wikipedia.org/wiki/Russ_Crandall",
+    "extract": "Russell \"Russ\" Crandall (born February 24, 1980) is an American YouTuber, podcaster, and former food blogger and writer. He became known for the gluten-free and paleo diet blog The Domestic Man, which he ran from 2010 to 2023, and later for the handheld console YouTube channel Retro Game Corps, created in 2020.\nCrandall joined the United States Navy in 2000 as a Russian and Indonesian translator. In 2005, he suffered a stroke and was later diagnosed with Takayasu's arteritis, which led him to adopt a paleo diet and create The Domestic Man in 2010."
+   },
+   "related": [
+    "The New York Times"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Russ_Crandall_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Russ_Crandall_in_2024.jpg",
+    "file": "File:Russ Crandall in 2024.jpg",
+    "artist": "RG Geek",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 588,
+    "height": 808,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20250217125439/https://www.foodandwine.com/author/russ-crandall",
+    "title": "Russ Crandall - Food & Wine",
+    "matched": [
+     "crandall",
+     "times",
+     "selling",
+     "cookbook",
+     "youtuber"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Disappearance of Frederick Valentich: An Australian pilot disappeared in the ocean, having seen a strange object above his aircraft. No trace of either his body or the aircraft have been found.",
+   "article": {
+    "title": "Disappearance of Frederick Valentich",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich",
+    "extract": "Frederick Valentich (, VAL-ən-tich) was an Australian pilot who disappeared while on a 125-nautical-mile (232 km) flight in a Cessna 182L light aircraft, registered VH-DSJ, over Bass Strait. On the evening of Saturday 21 October 1978, twenty-year-old Valentich informed Melbourne air traffic control that he was being accompanied by an aircraft about 1,000 feet (300 m) above him and that his engine had begun running roughly, before finally reporting: \"It's not an aircraft\".\nThere were belated reports of a UFO sighting in Australia on the night of the disappearance; however, the Department of Transport was sceptical that a UFO was behind Valentich's disappearance, and some of their officials speculated that \"Valentich became disorientated and saw his own lights reflected in the water, or lights from a nearby island, while flying upside down\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Valentich_disappearance.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Valentich_disappearance.png",
+    "file": "File:Valentich disappearance.png",
+    "artist": "Bass-Strasse.png: The original uploader was Ulfl at German Wikipedia. derivative work: TVJunkie",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 551,
+    "height": 561,
+    "ok": true
+   },
+   "second_source": {
+    "name": "skepticalinquirer.org",
+    "url": "https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/",
+    "title": "The Valentich Disappearance: Another UFO Cold Case Solved | Skeptical Inquirer",
+    "matched": [
+     "disappearance",
+     "frederick",
+     "valentich",
+     "australian",
+     "pilot",
+     "disappeared",
+     "having",
+     "strange",
+     "object",
+     "above",
+     "aircraft"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Genie (feral child): A feral child who was neglected by her father and was locked in a room for the first 13 years of her life.",
+   "article": {
+    "title": "Genie (feral child)",
+    "url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+    "extract": "Genie (born 1957) is the pseudonym of an American feral child who was a victim of severe abuse, neglect, and social isolation. Her circumstances are prominently recorded in the annals of linguistics and abnormal child psychology. When she was approximately 20 months old, her father began keeping her in a locked room. During this period, he almost always strapped her to a child's toilet or bound her in a crib with her arms and legs immobilized, forbade anyone to interact with her, provided her with almost no stimulation of any kind, and left her severely malnourished."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Genie_immediately_after_rescue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Genie_immediately_after_rescue.jpg",
+    "file": "File:Genie immediately after rescue.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 620,
+    "height": 791,
+    "ok": true
+   },
+   "second_source": {
+    "name": "6abc.com",
+    "url": "http://6abc.com/archive/6130233/",
+    "title": "Wild child &#x27;genie&#x27;: A tortured life | 6abc Philadelphia | 6abc.com - 6abc Philadelphia",
+    "matched": [
+     "13",
+     "genie",
+     "child",
+     "father",
+     "locked"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Toilets in Japan: The most advanced toilets in the world with computers, nozzles and flashing lights.",
+   "article": {
+    "title": "Toilets in Japan",
+    "url": "https://en.wikipedia.org/wiki/Toilets_in_Japan",
+    "extract": "Toilets in Japan are sometimes designed more elaborately than toilets commonly seen in other developed nations. European toilets occasionally have a separate bidet whilst Japan combines an electronic bidet with the toilet. The current state of the art for Western-style toilets in Japan is the bidet toilet, which as of March 2016 is installed in 81% of Japanese households. In Japan, these bidets are commonly called washlets, a brand name of Toto Ltd., and they may include many advanced features rarely seen outside of Asia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/JapaneseToiletBidet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JapaneseToiletBidet.jpg",
+    "file": "File:JapaneseToiletBidet.jpg",
+    "artist": "Chris 73",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 1206,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20060830204308/http://www.neverland.to/kanji/list/toilet.html"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "You Have to Burn the Rope: …and doing the titular task takes about half as long as listening to the credits song.",
+   "article": {
+    "title": "You Have to Burn the Rope",
+    "url": "https://en.wikipedia.org/wiki/You_Have_to_Burn_the_Rope",
+    "extract": "You Have to Burn the Rope is a platform game for Adobe Flash developed by Swedish designer Kian Bashiri under the moniker \"Mazapán\". The game was a finalist for the Innovation Award at the 2009 Independent Games Festival. and received a considerable amount of \"Internet buzz\" for its humorous gameplay at the time of its release. You Have to Burn the Rope is a brief parody of excessive hand-holding in AAA video games, in which destroying the titular rope is the only way to win and the player is told that fact in advance."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/YouHaveToBurnTheRopeTitle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:YouHaveToBurnTheRopeTitle.png",
+    "file": "File:YouHaveToBurnTheRopeTitle.png",
+    "artist": "Mazapan (Kian Bashiri)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 700,
+    "height": 500,
+    "ok": true
+   },
+   "second_source": {
+    "name": "reachground.se",
+    "url": "http://www.reachground.se/2008/03/31/you-have-to-burn-the-rope/",
+    "title": "You Have to Burn the Rope – Video Editor Henrik Nåmark",
+    "matched": [
+     "doing",
+     "listening",
+     "credits"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of names for the biblical nameless: Where the bible leaves questions, its fans give answers.",
+   "article": {
+    "title": "List of names for the biblical nameless",
+    "url": "https://en.wikipedia.org/wiki/List_of_names_for_the_biblical_nameless",
+    "extract": "Some people who appear in the Bible but whose names are not given there have names that are given in Jewish religious texts, Christian sacred tradition, or apocryphal texts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/MosesRescued_FromTheNile.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MosesRescued_FromTheNile.JPG",
+    "file": "File:MosesRescued FromTheNile.JPG",
+    "artist": "Nicolas Poussin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 451,
+    "height": 429,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.sefaria.org/Bava_Batra.91a"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1961 Goldsboro B-52 crash: A single switch prevented North Carolina from being incinerated.",
+   "article": {
+    "title": "1961 Goldsboro B-52 crash",
+    "url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash",
+    "extract": "The 1961 Goldsboro B-52 crash was an aviation accident that occurred near Goldsboro, North Carolina, United States, on 24 January 1961. A Boeing B-52 Stratofortress carrying two 3.8-megaton Mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process. Five crewmen successfully ejected or bailed out of the aircraft and landed safely; another ejected, but did not survive the landing, and two of them were killed in the crash.\nThe accident is one of the most famous \"Broken Arrow\" nuclear accidents of the Cold War."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Goldsboro_bomb_Weapon_No_1_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Goldsboro_bomb_Weapon_No_1_color.jpg",
+    "file": "File:Goldsboro bomb Weapon No 1 color.jpg",
+    "artist": "United States Air Force",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 638,
+    "height": 843,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nsarchive.gwu.edu",
+    "url": "https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2022-11-18/new-declassifications-nuclear-weapons-safety-and-security",
+    "title": "New Declassifications on Nuclear Weapons Safety and Security | National Security Archive",
+    "matched": [
+     "1961",
+     "52",
+     "goldsboro",
+     "crash",
+     "single",
+     "switch",
+     "prevented",
+     "north",
+     "carolina"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Kathryn Krick went from driving for Lyft to being described as the \"TikTok apostle of Los Angeles\"?",
+   "article": {
+    "title": "Kathryn Krick",
+    "url": "https://en.wikipedia.org/wiki/Kathryn_Krick",
+    "extract": "Kathryn Krick (born January 1, 1991) is an American Pentecostal pastor, author and social media personality. She is the founder of Five-Fold Church in Los Angeles, having been made an \"apostle\" by Tanzanian minister GeorDavie. Krick claims to perform miracles, faith healing and deliverance from demonic activity. Gaining online exposure through social media, she has been labeled \"the TikTok apostle of Los Angeles.\" Critics have described Krick as a \"cult leader,\" and her claims of performing healings have been scrutinized by medical professionals and religious commentators."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kathryn_Krick_on_HungryGen%2C_smiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kathryn_Krick_on_HungryGen,_smiling.jpg",
+    "file": "File:Kathryn Krick on HungryGen, smiling.jpg",
+    "artist": "HungryGen",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 738,
+    "height": 991,
+    "ok": true
+   },
+   "second_source": {
+    "name": "roysreport.com",
+    "url": "https://roysreport.com/5f-leaves-trail-of-disillusionment-and-suspicion-among-ex-followers/",
+    "title": "5F leaves trail of disillusionment and suspicion among ex-followers | The Roys Report",
+    "matched": [
+     "kathryn",
+     "krick",
+     "described",
+     "tiktok",
+     "apostle",
+     "angeles"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Poena cullei: Taking a fatal trip down the river with a dog, snake, monkey, and rooster (none of whom did anything wrong).",
+   "article": {
+    "title": "Poena cullei",
+    "url": "https://en.wikipedia.org/wiki/Poena_cullei",
+    "extract": "Poena cullei (Latin, 'penalty of the sack') under Roman law was a type of death penalty imposed on a subject who had been found guilty of parricide. The punishment consisted of being sewn up in a leather sack, with an assortment of live animals including a dog, snake, monkey, and a chicken or rooster, and then being thrown into water.\nThe punishment may have varied widely in its frequency and precise form during the Roman period. For example, the earliest fully documented case is from ca."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ertr%C3%A4nken_im_Fass_oder_Sack_1560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ertr%C3%A4nken_im_Fass_oder_Sack_1560.jpg",
+    "file": "File:Ertränken im Fass oder Sack 1560.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1280,
+    "height": 1106,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Exsilium.html"
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a future president was married to his landlady for almost twenty years?",
+   "article": {
+    "title": "Inggit Garnasih",
+    "url": "https://en.wikipedia.org/wiki/Inggit_Garnasih",
+    "extract": "Inggit Garnasih (17 February 1888 – 13 April 1984) was the second wife of Sukarno, who later became President of Indonesia. They met in 1921, when she and her husband Sanusi took Sukarno and his wife Siti Oetari as boarders. The two began an extramarital affair that culminated in them divorcing their spouses and marrying on 24 March 1923. Inggit provided emotional and financial support to Sukarno through his university studies and during his involvement in the nationalist movement, including the establishment of the Indonesian National Party in 1927 and Sukarno's exiles to Flores (1934–1938) and Bengkulu (1938–1942)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Inggit_Garnasih_%2870_tahun%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Inggit_Garnasih_(70_tahun).jpg",
+    "file": "File:Inggit Garnasih (70 tahun).jpg",
+    "artist": "AntaraTV",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 487,
+    "height": 560,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://koran.pikiran-rakyat.com/opini/pr-30310285389/memperjuangkan-inggit-garnasih"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Don't Buy This: A rare example of truth in advertising.",
+   "article": {
+    "title": "Don't Buy This",
+    "url": "https://en.wikipedia.org/wiki/Don%27t_Buy_This",
+    "extract": "Don't Buy This (also known as Don't Buy This: Five of the Worst Games Ever) is a compilation of video games for the ZX Spectrum released on 1 April 1985. As described on the box, it contains five of the poorest games submitted to publisher Firebird. Instead of rejecting the submissions, they decided to mock the original developers by releasing them together and publicly brand it as \"unoriginal\" and \"awful\". Firebird even disowned all their copyright to the game and encouraged buyers to redistribute it at will."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Don%27t_Buy_This_ZX_Spectrum_cassette_inlay.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Don%27t_Buy_This_ZX_Spectrum_cassette_inlay.png",
+    "file": "File:Don't Buy This ZX Spectrum cassette inlay.png",
+    "artist": "Firebird Software",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 586,
+    "height": 900,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.badgamehalloffame.com/dont-buy-this/"
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Uday Hussein: Saddam Hussein's oldest son and a real-life Far Cry or James Bond villain. Among other things, he was a rapist and murderer, had a doppelganger named Latif Yahia, (whom Uday would send to torture) and also had the habit of kidnapping women at wedding celebrations.",
+   "article": {
+    "title": "Uday Hussein",
+    "url": "https://en.wikipedia.org/wiki/Uday_Hussein",
+    "extract": "Uday Saddam Hussein (Arabic: عدي صدام حسين; 18 June 1964 – 22 July 2003) was an Iraqi politician, military leader, and businessman. He was the eldest son of Iraqi president Saddam Hussein and his first wife Sajida Talfah. He was known for his extreme excessive cruelty, abuse of women, erratic behavior, and human rights abuses, which included torture, rape, and murder.\nBorn in Baghdad, Uday was seen for several years as the likely successor to his father; however, he lost the place as heir apparent to his younger brother, Qusay, owing to injuries in an assassination attempt."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yunkurin_Kashe_Uday_Hussein_a_Bagadaza_a_1996.jpg",
+    "file": "File:Yunkurin Kashe Uday Hussein a Bagadaza a 1996.jpg",
+    "artist": "HK RIGASA2",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 720,
+    "height": 702,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.latimes.com/archives/la-xpm-1988-11-21-mn-469-story.html"
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bake-danuki: Uses its testicles as a weapon.",
+   "article": {
+    "title": "Bake-danuki",
+    "url": "https://en.wikipedia.org/wiki/Bake-danuki",
+    "extract": "Bake-danuki (化け狸) are a kind of yōkai (supernatural beings) found in the classics and in the folklore and legends of various places in Japan, commonly associated with the Japanese raccoon dog or tanuki.\nAlthough the tanuki is a real, extant animal, the bake-danuki that appears in literature has always been depicted as a strange, even supernatural animal. In some regions of Japan, bake-danuki are reputed to have abilities similar to those attributed to kitsune (foxes): they can shapeshift into other things or people, and can possess human beings.\nMany legends of tanuki exist in the Sado Islands of Niigata Prefecture and in Shikoku, and among them, like the Danzaburou-danuki of Sado, the Kinchō-tanuki and Rokuemon-tanuki of Awa Province (Tokushima Prefecture), and the Yashima no Hage-tanuki of Kagawa Prefecture, the tanuki that possessed special abilities were given names, and even became "
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/SekienTanuki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SekienTanuki.jpg",
+    "file": "File:SekienTanuki.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 384,
+    "height": 512,
+    "ok": true
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of classical music concerts with an unruly audience response: Concerts which didn't work out quite as well as hoped.",
+   "article": {
+    "title": "List of classical music concerts with an unruly audience response",
+    "url": "https://en.wikipedia.org/wiki/List_of_classical_music_concerts_with_an_unruly_audience_response",
+    "extract": "There have been many notable instances of unruly behaviour at classical music concerts, often at the premiere of a new work or production. Audience members displayed unruly behavior for a variety of reasons."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Artaxerxes_riots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Artaxerxes_riots.jpg",
+    "file": "File:Artaxerxes riots.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 955,
+    "height": 602,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.hberlioz.com/Special/cwasselin_1e.htm"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ken McElroy: \"Nobody saw nothing\" taken to its logical extreme.",
+   "article": {
+    "title": "Ken McElroy",
+    "url": "https://en.wikipedia.org/wiki/Ken_McElroy",
+    "extract": "Kenneth Rex McElroy (June 16, 1934 – July 10, 1981) was an American criminal, convicted attempted murderer, child rapist, arsonist, and animal abuser who resided in Skidmore, Missouri. He was known as \"the town bully\", and his unsolved killing became the focus of international attention. Over the course of his life, McElroy was accused of dozens of felonies, including assault, child molestation, statutory rape, arson, animal cruelty, hog and cattle rustling, and burglary.\nIn all, he was indicted 21 times but escaped conviction each time, except for the last."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Kenneth_McElroy_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kenneth_McElroy_(cropped).jpg",
+    "file": "File:Kenneth McElroy (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 576,
+    "height": 750,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20100901203623/http://www.mcclatchydc.com/2010/08/29/99817/3-decades-on-who-killed-skidmores.html",
+    "title": "3 decades on, who killed Skidmore town bully still secret | McClatchy",
+    "matched": [
+     "mcelroy",
+     "nobody",
+     "nothing"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lacus Curtius: A pit in the middle of the Roman Forum; even the Romans didn't know why it was there.",
+   "article": {
+    "title": "Lacus Curtius",
+    "url": "https://en.wikipedia.org/wiki/Lacus_Curtius",
+    "extract": "The Lacus Curtius (\"Lake Curtius\") was a pit or pool in the ground of the Forum Romanum. The area where the Forum would be built was likely once a lake, as the wider area is known to have been surrounded by brooks and marshes. One part was never drained and gradually shrank until only a basin, known as the Lacus Curtius, was left. Its nature and significance in Rome’s early history is uncertain, and several conflicting stories exist about its origin and purpose."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/RomaForoRomanoLacusCurtius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:RomaForoRomanoLacusCurtius.jpg",
+    "file": "File:RomaForoRomanoLacusCurtius.jpg",
+    "artist": "MM",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 936,
+    "height": 638,
+    "ok": true
+   },
+   "second_source": {
+    "name": "livius.org",
+    "url": "https://www.livius.org/articles/place/rome/rome-photos/rome-forum-romanum/lacus-curtius/",
+    "title": "Lacus Curtius - Livius",
+    "matched": [
+     "lacus",
+     "curtius",
+     "roman",
+     "forum",
+     "romans",
+     "there"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Praise-God Barebone: Christened Unless-Jesus-Christ-Had-Not-Died-For-Thee-Thou-Hadst-Been-Damned Barebone; not to be confused with his son Nicholas If-Jesus-Christ-Had-Not-Died-For-Thee-Thou-Hadst-Been-Damned Barbon.",
+   "article": {
+    "title": "Praise-God Barebone",
+    "url": "https://en.wikipedia.org/wiki/Praise-God_Barebone",
+    "extract": "Praise-God Barebone (sometimes spelled Barbon) (c. 1598–1679) was an English leather-seller, preacher, and Fifth Monarchist. He is best known for giving his name to the Barebone's Parliament of the English Commonwealth of 1653."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Praise-god_Barebone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Praise-god_Barebone.jpg",
+    "file": "File:Praise-god Barebone.jpg",
+    "artist": "unknown engraver",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 484,
+    "height": 567,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://snaccooperative.org/ark:/99166/w65b7jqh"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dhana Kumari Bajracharya: A woman did not walk for 60 years.",
+   "article": {
+    "title": "Dhana Kumari Bajracharya",
+    "url": "https://en.wikipedia.org/wiki/Dhana_Kumari_Bajracharya",
+    "extract": "Dhana Kumari Bajracharya is a Nepalese Kumari, and the former Kumari of Patan. Kumaris are prepubescent girls worshipped in Asian religious traditions as manifestations of female divine energy. Bajracharya was chosen as the official Kumari of the city of Patan in 1954, when she was 2 years old. She was supposed to leave her position after her first menstruation, however it never came."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dhana_Kumari_Bajracharya.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dhana_Kumari_Bajracharya.png",
+    "file": "File:Dhana Kumari Bajracharya.png",
+    "artist": "G. Jontes",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 458,
+    "height": 300,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20260127115047/https://thenepalweekly.com/2022/08/16/12186/",
+    "title": "The Nepal Weekly | &raquo; At 70, Dhanakumari is worshiped with the same respect as the official Kumari",
+    "matched": [
+     "60",
+     "dhana",
+     "kumari",
+     "bajracharya"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Philip Boit: How many other Kenyan skiers can you name?",
+   "article": {
+    "title": "Philip Boit",
+    "url": "https://en.wikipedia.org/wiki/Philip_Boit",
+    "extract": "Philip Kimely Boit (born 12 December 1971 in Eldoret, Kenya) is a cross-country skier and the first Kenyan to participate in the Winter Olympics. His first name is sometimes spelled as \"Phillip\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/2011-02-27_Philip_Boit_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2011-02-27_Philip_Boit_01.jpg",
+    "file": "File:2011-02-27 Philip Boit 01.jpg",
+    "artist": "Chell Hill",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 377,
+    "height": 496,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.com",
+    "url": "https://www.bbc.com/news/magazine-25861305",
+    "title": "Philip Boit and Bjorn Daehlie: Cross-country friends - BBC News",
+    "matched": [
+     "philip",
+     "kenyan",
+     "skiers"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Günter Schabowski: A Freudian slip of this East German official started the demolition of the Berlin Wall.",
+   "article": {
+    "title": "Günter Schabowski",
+    "url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+    "extract": "Günter Schabowski ([ˈɡʏntɐ ʃaˈbɔfski]; 4 January 1929 – 1 November 2015) was a German politician who served as an official of the Socialist Unity Party of Germany (Sozialistische Einheitspartei Deutschlands abbreviated SED), the ruling party during most of the existence of East Germany. After climbing up the party ladder, he became the regime's unofficial spokesman. He gained worldwide fame in November 1989 when he improvised a slightly mistaken answer to a press conference question about the future of the Berlin Wall, that seemed to announce the Wall's immediate end and raised popular expectations much more rapidly than the government planned.  Massive crowds gathered at the Wall the same night, which forced its opening after 28 years."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1982-0504-421,_G%C3%BCnter_Schabowski.jpg",
+    "file": "File:Bundesarchiv Bild 183-1982-0504-421, Günter Schabowski.jpg",
+    "artist": "UnknownUnknown",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 627,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "dw.com",
+    "url": "http://www.dw.com/en/former-east-german-communist-official-g%C3%BCnter-schabowski-dies-in-berlin/a-18819829",
+    "title": "East German official Schabowski dies",
+    "matched": [
+     "gunter",
+     "schabowski",
+     "german",
+     "official",
+     "berlin"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Victor Noir: A young journalist killed by the cousin of the French Emperor, who subsequently became a symbol of resistance prior to the fall of the regime… who also got a statue of himself with a massive bulge in his crotch that subsequently became a fertility symbol, with the bulge having become worn and polished due to being fondled by so many members of the public.",
+   "article": {
+    "title": "Victor Noir",
+    "url": "https://en.wikipedia.org/wiki/Victor_Noir",
+    "extract": "Yvan Salmon (27 July 1848 – 11 January 1870), known by his pen name Victor Noir, was a French journalist. After he was shot and killed by Prince Pierre Bonaparte, a cousin of the French Emperor Napoleon III (r. 1852–1870), Noir became a symbol of opposition to the imperial regime. His tomb in Père Lachaise Cemetery in Paris has become a fertility symbol."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Victor_Noir_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Victor_Noir_portrait.jpg",
+    "file": "File:Victor Noir portrait.jpg",
+    "artist": "Google (numérisation)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 480,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "marxists.org",
+    "url": "http://www.marxists.org/history/france/archive/lissagaray/prologue.htm",
+    "title": "History of the Paris Commune of 1871 by Lissagaray",
+    "matched": [
+     "victor",
+     "young",
+     "journalist",
+     "killed",
+     "french",
+     "emperor",
+     "became",
+     "symbol",
+     "resistance"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Buckethead: A virtuoso electric guitarist known for always wearing a white mask and a KFC bucket on his head while performing and releasing over 300 albums over the course of over 30 years.",
+   "article": {
+    "title": "Buckethead",
+    "url": "https://en.wikipedia.org/wiki/Buckethead",
+    "extract": "Brian Patrick Carroll (born May 13, 1969), known professionally as Buckethead, is an American guitarist.\nBuckethead's extensive solo discography currently includes 31 studio albums. In 2011, Buckethead began releasing albums in the \"Pike\" series, mini-albums usually around 30 minutes in length, each with a sequential number similar to a comic book. As of July 2026, Buckethead has released 810 Pike albums, including almost 300 live recordings."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Buckethead%2C_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Buckethead,_2006.jpg",
+    "file": "File:Buckethead, 2006.jpg",
+    "artist": "Jason Scragz; modified by anetode",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 810,
+    "height": 810,
+    "ok": true
+   },
+   "second_source": {
+    "name": "sputnikmusic.com",
+    "url": "https://www.sputnikmusic.com/list.php?memberid=252408&listid=135012",
+    "title": "A Beginner's Guide To Buckethead by Lambda | Sputnikmusic",
+    "matched": [
+     "30",
+     "buckethead",
+     "virtuoso",
+     "electric",
+     "guitarist",
+     "known",
+     "always",
+     "bucket",
+     "releasing",
+     "albums"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vantage loaf: The bread that makes a baker's dozen.",
+   "article": {
+    "title": "Vantage loaf",
+    "url": "https://en.wikipedia.org/wiki/Vantage_loaf",
+    "extract": "A vantage loaf or vantage of bread is the thirteenth loaf of a baker's dozen, a loaf of bread which is to the buyer's advantage, being in addition to the number ordered.\nThe 13th-century English law governing trade in bread and ale, known as the Assize of Bread and Ale, imposed severe punishment for short measure. This could be a fine, destruction of the baker's oven, or even the pillory. To protect themselves, bakers would add a small piece of bread to each order, called the \"in-bread\", to ensure they could not be accused of short measure."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/7-alimenti%2C_pane%2C_Taccuino_Sanitatis%2C_Casanatense_4182.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:7-alimenti,_pane,_Taccuino_Sanitatis,_Casanatense_4182.jpg",
+    "file": "File:7-alimenti, pane, Taccuino Sanitatis, Casanatense 4182.jpg",
+    "artist": "unknown master",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 1075,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://www.pbm.com/~lindahl/cotgrave/928small.html"
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tió de Nadal: A log that defecates sweets for Catalan children on Christmas eve.",
+   "article": {
+    "title": "Tió de Nadal",
+    "url": "https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal",
+    "extract": "The Tió de Nadal (Eastern Catalan: [tiˈo ðə nəˈðal], Western Catalan: [tiˈo ðe naˈðal]; 'Christmas Log'), also known simply as tió ('log'), soca or tronc(a) ('trunk'), is a character in Catalan mythology relating to a Christmas tradition practiced in Catalonia, Valencia (occasionally), Mallorca (known as Nadaler), Aragon, Occitania and Andorra. In Aragon it is also called, in Aragonese, Tizón de Nadal, Toza de Nadal or Tronca de Nadal.\nThe Tió de Nadal is related to the tradition of the Germanic Christmas tree, also a bearer of gifts for the little ones, and with the British Yule log (tizón do Nadal in Galicia and Cachafuòc, Cachofio or Soc de Nadal in Occitania)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cagatio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cagatio.jpg",
+    "file": "File:Cagatio.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 614,
+    "height": 800,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20220407202201/https://www.ccma.cat/324/fer-cagar-el-tio-una-tradicio-dorigen-precristia/noticia/2258654/"
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Minim (palaeography): Why we say cum, sum, luv but write come, some, love.",
+   "article": {
+    "title": "Minim (palaeography)",
+    "url": "https://en.wikipedia.org/wiki/Minim_(palaeography)",
+    "extract": "In palaeography, a minim or minum is a short, vertical stroke used in handwriting. The word is derived from the Latin minimum, meaning least or smallest.\nA minim is the basic stroke for the letters ⟨i⟩, ⟨m⟩, ⟨n⟩, and ⟨u⟩ in uncial script and later scripts deriving from it. Parts of other letters are based on minims as well: when a minim is extended above the line, it becomes an ascender, as in the letters d and b, and when it is extended below the line, it becomes a descender, as in the letters ⟨p⟩ and ⟨q⟩."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Piers_plowman_drolleries.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Piers_plowman_drolleries.gif",
+    "file": "File:Piers plowman drolleries.gif",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 294,
+    "height": 440,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "https://www.historytoday.com/archive/history-matters/medieval-minims"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Passenger train toilet: Why passengers must be discouraged from flushing or using toilets while the train is at a station.",
+   "article": {
+    "title": "Passenger train toilet",
+    "url": "https://en.wikipedia.org/wiki/Passenger_train_toilet",
+    "extract": "Many passenger trains (usually medium- and long-distance) have toilet facilities, often at the ends of carriages. Toilets suitable for wheelchair users are larger, and hence trains with such facilities may not have toilets in each carriage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Train_toilet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Train_toilet.jpg",
+    "file": "File:Train toilet.jpg",
+    "artist": "The original uploader was KF at English Wikipedia.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 757,
+    "height": 1092,
+    "ok": true
+   },
+   "second_source": {
+    "name": "toilet-guru.com",
+    "url": "http://toilet-guru.com/train.php",
+    "title": "Train Toilets &mdash; Toilets Of The World",
+    "matched": [
+     "passenger",
+     "train",
+     "toilet",
+     "passengers",
+     "flushing",
+     "using",
+     "toilets",
+     "station"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Long Boi: An \"exceptionally tall\" duck that lived on the University of York campus before disappearing in 2024.",
+   "article": {
+    "title": "Long Boi",
+    "url": "https://en.wikipedia.org/wiki/Long_Boi",
+    "extract": "Long Boi (before 2018 – April 2023) was an unusually tall male duck that lived by Derwent College, University of York, England. He was thought to be an Indian Runner duck-Mallard cross, standing out among the other ducks on the campus due to his height. He went viral and became an internet meme in 2021. His popularity saw him become an unofficial mascot for the university."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Long_Boi_%28geograph_6938927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Long_Boi_(geograph_6938927).jpg",
+    "file": "File:Long Boi (geograph 6938927).jpg",
+    "artist": "DS Pugh",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 683,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.bbc.com/news/uk-england-york-north-yorkshire-66370400"
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Puckle gun: A gun with square bullets, to \"convince the Turks of the benefits of Christian civilization\". Appear in Assassin's Creed Rogue.",
+   "article": {
+    "title": "Puckle gun",
+    "url": "https://en.wikipedia.org/wiki/Puckle_gun",
+    "extract": "The Puckle gun (also known as the defence gun) was a primitive crew-served, manually operated flintlock revolver patented in 1718 by James Puckle (1667–1724), a British inventor, lawyer and writer. It was one of the earliest weapons to be referred to as a \"machine gun\", being called such in a 1722 shipping manifest, though its operation does not match the modern use of the term. It was never used during any combat operation or war. Production was highly limited and may have been as few as two guns."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Puckle_gun_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Puckle_gun_advertisement.jpg",
+    "file": "File:Puckle gun advertisement.jpg",
+    "artist": "artist not identified",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 767,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20140422075818/http://www.ipo.gov.uk/types/patent/p-about/p-whatis/p-history/p-history-18century.htm"
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pope Donus II: Turns out that maintaining a two millennium old list of popes leads to some confusion and the creation of a new, official, pope.",
+   "article": {
+    "title": "Pope Donus II",
+    "url": "https://en.wikipedia.org/wiki/Pope_Donus_II",
+    "extract": "Pope Donus II is an apocryphal pope who allegedly held the title briefly between Benedict VI and Benedict VII sometime during the 970s. The creation is likely due to papal catalogues accidentally confusing the title domnus for a proper name caused by the later addition of some antipopes into papal listings. His existence had been documented since at least the 15th century, and he was considered a pope by the Vatican for more than 200 years until the timeline was corrected in 1947. Despite his fictitious record, the nonexistent pope had been praised for honorable conduct."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Donus_II_Royal_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Donus_II_Royal_Museum.jpg",
+    "file": "File:Donus II Royal Museum.jpg",
+    "artist": "Giovanni Giacomo de Rossi",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1189,
+    "height": 1508,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "NI tank: 69 improvised tanks made due to Soviet shortages during the Siege of Odessa; almost all were captured after the city fell to Romania.",
+   "article": {
+    "title": "NI tank",
+    "url": "https://en.wikipedia.org/wiki/NI_tank",
+    "extract": "The NI tank also known as the Odessa tank (; Russian: Танк НИ tank NI, abbr."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NI_tank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:NI_tank.jpg",
+    "file": "File:NI tank.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 850,
+    "height": 619,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tanks-encyclopedia.com",
+    "url": "http://www.tanks-encyclopedia.com/ww2/soviet/soviet_NI_Odessa_tank.php",
+    "title": "Odessa Tank / NI - Tank Encyclopedia",
+    "matched": [
+     "69",
+     "improvised",
+     "tanks",
+     "soviet",
+     "shortages",
+     "siege",
+     "odessa",
+     "almost",
+     "captured",
+     "romania"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Battle of Karánsebes: How the Austrians fought against themselves over liquor and resulted in 1,200 own casualties.",
+   "article": {
+    "title": "Battle of Karánsebes",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Kar%C3%A1nsebes",
+    "extract": "The Battle of Karánsebes (Turkish: Şebeş Muharebesi; German: Rückzug von Karánsebes; Hungarian: Karánsebesi csata; Romanian: Bătălia de la Caransebeș) was a friendly fire incident in the Austrian army, occurring during the night of 21–22 September 1788, during the Austro-Turkish War of 1788–1791. Some historians have referred to the battle as \"history's worst friendly fire incident\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Picture_showing_Ottoman_Forces_advance_to_Caransebes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Picture_showing_Ottoman_Forces_advance_to_Caransebes.png",
+    "file": "File:Picture showing Ottoman Forces advance to Caransebes.png",
+    "artist": "Craciun Cristiana CC BY-SA 4.0",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 741,
+    "height": 438,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://g.co/kgs/ufzee3d"
+   }
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Promotions Gallery in Paris, France",
+   "article": {
+    "title": "Promotions Gallery in Paris, France",
+    "url": "https://www.atlasobscura.com/places/promotions-gallery",
+    "extract": "Historically, a secret entrance at the School of Mines, known as the “Mines staircase,” provided students access to the Paris Catacombs. Although this private access is no longer available for use due to safety reasons, the General Inspector of Quarries still grants students permission to uphold this artistic tradition. Each year, on the occasion of Sainte-Barbe, celebrated on December 4th in hono"
+   },
+   "published": "Thu, 19 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Čigoč Stork Village in Kratečko, Croatia",
+   "article": {
+    "title": "Čigoč Stork Village in Kratečko, Croatia",
+    "url": "https://www.atlasobscura.com/places/cigoc-stork-village",
+    "extract": "In the Croatian village of Čigoč, some of the most conspicuous residents live above the rooftops. White storks build bulky nests on traditional wooden houses, sharing the settlement with the people below. Situated in Lonjsko Polje Nature Park beside the Tišina oxbow of the Sava River, the village is surrounded by wet meadows, pastures, and pools. These habitats provide feeding grounds close to the"
+   },
+   "published": "Thu, 19 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thunder Hole in Bar Harbor, Maine",
+   "article": {
+    "title": "Thunder Hole in Bar Harbor, Maine",
+    "url": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "extract": "Located in Maine's Acadia National Park, along the rocky shoreline of Mount Desert Island, Thunder Hole is a natural geological formation known for producing a booming, thunder-like sound phenomenon that gives it its name, as well as for explosive water sprays reaching up to 40 feet. Resulting from glacial activity over thousands of years ago, what began as a small, natural fissure in the solid gr"
+   },
+   "published": "Thu, 19 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+   "article": {
+    "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+    "url": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
+    "extract": "Most memorial museums stay put in the house of the person they remember. This one moved out. It was founded in 1968 in the Tashkent house where Abdulla Avloni (1878–1934) had lived with his family from 1910 until his death. Avloni was one of the Jadids, the Muslim reformers who believed Central Asia could be renewed through new-method schools, newspapers and the theatre. He opened schools, wrote t"
+   },
+   "published": "Thu, 19 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring Alberta’s Rich History in Fiction",
+   "article": {
+    "title": "Podcast: Exploring Alberta’s Rich History in Fiction",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-alberta-s-rich-history-in-fiction",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. In this episode of The Atlas Obscura Podcast, we’re exploring the surprising side of Alberta with the Canadian novelist Esi Edugyan. Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinatin"
+   },
+   "published": "Thu, 19 Nov 2026 07:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+   "article": {
+    "title": "The Crucified Tongkonan of Tolu Deri in North Toraja Regency, Indonesia",
+    "url": "https://www.atlasobscura.com/places/the-crucified-tongkonan-of-tolu-deri",
+    "extract": "In the highland villages of North Toraja, the skyline is dominated by tongkonan—traditional ancestral houses with sweeping, boat-shaped saddle roofs that loom dramatically over the landscape. For centuries, these wooden structures have served as the spiritual and social anchor for Torajan clans, decorated strictly according to Aluk Todolo (\"the way of the ancestors\"), the indigenous animist belief"
+   },
+   "published": "Wed, 18 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+   "article": {
+    "title": "Negro Leagues Baseball Museum in Kansas City, Missouri",
+    "url": "https://www.atlasobscura.com/places/negro-leagues-baseball-museum",
+    "extract": "This privately funded, not-for-profit museum lets visitors witness the greatness and trials of the teams that made up the \"Original Eight\" of the Negro Leagues. In a self guided tour explore the informative and interactive exhibits featuring the photos, artifacts and films that tell the stories of these baseball players and all the people that made these teams possible. Notable highlights include:"
+   },
+   "published": "Tue, 17 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+   "article": {
+    "title": "Tam Thien Cave System (Tam Thiên Động) in Quy Nhon Dong, Vietnam",
+    "url": "https://www.atlasobscura.com/places/tam-thien-cave-system-tam-thien-d-ng",
+    "extract": "Hidden along the rugged coastline near the famous Ky Co beach in Nhon Ly fishing village, Tam Thien Cave is an extraordinary system of three interconnected sea caves that remains largely unknown to most travelers. The site is uniquely ephemeral, surfacing only for two to three months during the summer when seasonal tides and currents recede. When the tide drops, it reveals smooth golden sandbanks "
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thermes Romains de Cimiez in Nice, France",
+   "article": {
+    "title": "Thermes Romains de Cimiez in Nice, France",
+    "url": "https://www.atlasobscura.com/places/thermes-romains-de-cimiez",
+    "extract": "The Roman baths of Cimiez originally belonged to the ancient Roman city of Cemenelum, located in the modern district of Cimiez, Nice. The ruins of the frigidarium of the northern baths have always been visible, never having been covered over since Roman times. The frigidarium of the northern baths was long mistakenly called the \"Temple of Apollo\". Three thermal complexes were eventually uncovered;"
+   },
+   "published": "Tue, 17 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Words and Names in the ‘Hunger Games’ Franchise Drawn From Ancient Greece and Rome",
+   "article": {
+    "title": "10 Words and Names in the ‘Hunger Games’ Franchise Drawn From Ancient Greece and Rome",
+    "url": "https://www.mentalfloss.com/entertainment/movies/words-names-the-hunger-games-franchise-ancient-greece-rome?utm_source=RSS",
+    "extract": "Suzanne Collins has admitted to being inspired by Classical history, but you might be surprised just how much of ‘The Hunger Games’ was based on Greece and Rome."
+   },
+   "published": "Fri, 20 Nov 2026 13:00:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Spiritual Meaning of November's Beaver Moon",
+   "article": {
+    "title": "The Spiritual Meaning of November's Beaver Moon",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/spiritual-meaning-beaver-moon?utm_source=RSS",
+    "extract": "Beavers may build dams, but do you actually give one when it comes to the meaning of the Beaver Moon? Whether you're the type to break out the crystals whenever"
+   },
+   "published": "Fri, 20 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Is Effective Altruism? The Philosophy That Shaped FTX's Founder, Explained",
+   "article": {
+    "title": "What Is Effective Altruism? The Philosophy That Shaped FTX's Founder, Explained",
+    "url": "https://www.mentalfloss.com/history/philosophy/effective-altruism-ftx-sam-bankman-fried?utm_source=RSS",
+    "extract": "The Netflix series 'The Altruists' explores how Sam Bankman-Fried, once the poster child for a movement called effective altruism that focuses entirely on doing the most good possible, wound up losing billions."
+   },
+   "published": "Fri, 20 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Average Cost of Thanksgiving Dinner in the U.S. in 2026, Mapped",
+   "article": {
+    "title": "The Average Cost of Thanksgiving Dinner in the U.S. in 2026, Mapped",
+    "url": "https://www.mentalfloss.com/holidays/average-cost-thanksgiving-dinner-2026?utm_source=RSS",
+    "extract": "Data from the American Farm Bureau shows that Thanksgiving is most definitely more expensive than last year. See the average cost in your region and more."
+   },
+   "published": "Thu, 19 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real Philosopher Who Inspired ‘The Hunger Games: Sunrise on the Reaping’",
+   "article": {
+    "title": "The Real Philosopher Who Inspired ‘The Hunger Games: Sunrise on the Reaping’",
+    "url": "https://www.mentalfloss.com/literature/books/philosopher-who-inspired-sunrise-on-reaping?utm_source=RSS",
+    "extract": "Suzanne Collins built her Haymitch novel around a passage by David Hume, an 18th-century Scotsman who she first encountered as a little kid."
+   },
+   "published": "Thu, 19 Nov 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Greek Myths and Heroes That Inspired All 5 'Percy Jackson and the Olympians' Books",
+   "article": {
+    "title": "The Greek Myths and Heroes That Inspired All 5 'Percy Jackson and the Olympians' Books",
+    "url": "https://www.mentalfloss.com/literature/books/greek-myths-heroes-inspired-percy-jackson-olympians?utm_source=RSS",
+    "extract": "The Percy Jackson series brings the world of Greek mythology into the modern day, but it doesn't forget its origins, teaching readers about its greatest heroes."
+   },
+   "published": "Thu, 19 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real-World Folklore Behind the Creatures in 'The Lord of the Rings'",
+   "article": {
+    "title": "The Real-World Folklore Behind the Creatures in 'The Lord of the Rings'",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/real-world-folklore-lord-of-the-rings-creatures?utm_source=RSS",
+    "extract": "From elves and orcs to trolls and barrows-wights, discover the surprising real-world folklore, Norse mythology, and Anglo-Saxon texts that inspired J.R.R. Tolkien’s Middle-earth creatures."
+   },
+   "published": "Thu, 19 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Common Birth Year in Every State, Mapped",
+   "article": {
+    "title": "The Most Common Birth Year in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/most-common-birth-year-state?utm_source=RSS",
+    "extract": "Compare your birth year with your state’s most common. This map shares the data for the most popular across the country."
+   },
+   "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Popular Dessert the Year You Were Born",
+   "article": {
+    "title": "The Most Popular Dessert the Year You Were Born",
+    "url": "https://www.mentalfloss.com/food/most-popular-dessert-year-you-were-born?utm_source=RSS",
+    "extract": "How many of these nostalgic, delicious desserts do you remember?"
+   },
+   "published": "Thu, 19 Nov 2026 15:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+   "article": {
+    "title": "The Most Expensive States to Buy a Thanksgiving Turkey, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/thanksgiving-turkey-prices-by-state-2026-map?utm_source=RSS",
+    "extract": "Find out how much a Thanksgiving turkey costs in your state for 2026. See which states pay the highest prices and where you can find a bargain."
+   },
+   "published": "Thu, 19 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+   "article": {
+    "title": "All 33 Robert Pattinson Movies, Ranked by Rotten Tomatoes",
+    "url": "https://www.mentalfloss.com/entertainment/movies/robert-pattinson-movies-ranked-rotten-tomatoes?utm_source=RSS",
+    "extract": "From 'The Odyssey' to 'Twilight' and everything in between, Robert Pattinson has amassed quite a filmography. Read about all his major film roles, ranked from best to worst based on Rotten Tomatoes scores."
+   },
+   "published": "Thu, 19 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+   "article": {
+    "title": "The Best U.S. Cities to Visit on Thanksgiving, Mapped",
+    "url": "https://www.mentalfloss.com/geography/maps/best-us-cities-visit-thanksgiving-map?utm_source=RSS",
+    "extract": "Planning a Turkey Day trip? WalletHub ranked 100 U.S. cities on weather, affordability, and festive traditions to find the best places to visit."
+   },
+   "published": "Wed, 18 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+   "article": {
+    "title": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+    "url": "https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/",
+    "extract": "Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+   "article": {
+    "title": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+   "article": {
+    "title": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+    "url": "https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/",
+    "extract": "The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt"
+   },
+   "published": "Thu, 19 Nov 2026 21:22:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+   "article": {
+    "title": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/",
+    "extract": "The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public"
+   },
+   "published": "Thu, 19 Nov 2026 21:18:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+   "article": {
+    "title": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+    "url": "https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/",
+    "extract": "The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue"
+   },
+   "published": "Thu, 19 Nov 2026 20:35:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Have Archaeologists Finally Pieced Together the 'Parthenon Puzzle,' One of Ancient Greece's Greatest Mysteries?",
+   "article": {
+    "title": "Have Archaeologists Finally Pieced Together the 'Parthenon Puzzle,' One of Ancient Greece's Greatest Mysteries?",
+    "url": "https://www.smithsonianmag.com/smart-news/have-archaeologists-finally-pieced-together-the-parthenon-puzzle-one-of-ancient-greece-greatest-mysteries-180989903/",
+    "extract": "Centuries ago, the Parthenon's east pediment was reduced to rubble. German researchers now believe they have recreated the 39-figure scene depicting the birth of Athena with the help of Roman sarcophagi and 3D printers"
+   },
+   "published": "Thu, 19 Nov 2026 19:06:45 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Self-Charging Toothbrush Has Bristles That Generate Electricity to Help Kill Bacteria That Cause Cavities and Gum Disease",
+   "article": {
+    "title": "This Self-Charging Toothbrush Has Bristles That Generate Electricity to Help Kill Bacteria That Cause Cavities and Gum Disease",
+    "url": "https://www.smithsonianmag.com/smart-news/this-self-charging-toothbrush-has-bristles-that-generate-electricity-to-help-kill-bacteria-that-cause-cavities-and-gum-disease-180989895/",
+    "extract": "In a short clinical trial, participants who used the experimental toothbrush reported less plaque, gum inflammation and bleeding than those who used traditional nylon-bristled brushes. However, more research is required to assess the tool's safety and efficacy"
+   },
+   "published": "Thu, 19 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "This Philosopher Was One of the First People to Donate His Body to Science. Nearly 200 Years Later, Researchers Are Still Learning From It",
+   "article": {
+    "title": "This Philosopher Was One of the First People to Donate His Body to Science. Nearly 200 Years Later, Researchers Are Still Learning From It",
+    "url": "https://www.smithsonianmag.com/smart-news/he-was-one-of-the-first-people-to-donate-his-body-to-science-nearly-200-years-later-researchers-are-still-learning-from-it-180989901/",
+    "extract": "Jeremy Bentham, the founder of utilitarianism, had his corpse publicly dissected and turned into an \"auto-icon,\" a lifelike display featuring his skeleton dressed in one of his suits"
+   },
+   "published": "Thu, 19 Nov 2026 15:31:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The North Atlantic Right Whale Population Has Shrunk, Raising Concerns About the Future of the Critically Endangered Species",
+   "article": {
+    "title": "The North Atlantic Right Whale Population Has Shrunk, Raising Concerns About the Future of the Critically Endangered Species",
+    "url": "https://www.smithsonianmag.com/smart-news/the-north-atlantic-right-whale-population-has-shrunk-raising-concerns-about-the-future-of-the-critically-endangered-species-180989896/",
+    "extract": "The massive marine mammals are dying from ship strikes, fishing gear entanglements and other causes, which is affecting the species' ability to grow its numbers. The animals were hunted to the brink of extinction around 100 years ago"
+   },
+   "published": "Thu, 19 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+   "article": {
+    "title": "A Modern Forensic Investigation Reveals the Cause of Death of a 2,000-Year-Old Body Found in a Bog in Northern Ireland",
+    "url": "https://www.smithsonianmag.com/smart-news/a-modern-forensic-investigation-reveals-the-cause-of-death-of-a-2000-year-old-body-found-in-an-bog-in-northern-ireland-180989898/",
+    "extract": "Archaeologists teamed up with a coroner to determine that the \"Ballymacombs More Woman\" was just 15 to 22 years old when she was beheaded in what seems to be an Iron Age ritual sacrifice"
+   },
+   "published": "Wed, 18 Nov 2026 20:36:20 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+   "article": {
+    "title": "A Gene Variant Inherited From Neanderthals Might Affect Modern Humans' Brain Size and Provide Protection Against Schizophrenia",
+    "url": "https://www.smithsonianmag.com/smart-news/a-gene-variant-inherited-from-neanderthals-might-affect-modern-humans-brain-size-and-provide-protection-against-schizophrenia-180989893/",
+    "extract": "About 20 percent of people alive today with European ancestry carry at least one copy of the variant, according to a new study. It's associated with a smaller occipital lobe, a region that processes visual information, and up to a nearly 10 percent lower risk of schizophrenia"
+   },
+   "published": "Wed, 18 Nov 2026 19:57:10 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+   "article": {
+    "title": "Medieval Readers Saw Floods, Plagues and Comets as Omens of Doom—So They Created a Mysterious Manuscript of Apocalyptic Artworks to Peruse at Will",
+    "url": "https://www.smithsonianmag.com/smart-news/medieval-readers-saw-floods-plagues-and-comets-as-omens-of-doom-so-they-created-a-mysterious-manuscript-of-apocalyptic-artworks-to-peruse-at-will-180989891/",
+    "extract": "\"The Book of Miracles,\" a 16th-century manuscript likely created in Augsburg, is heading to auction. It features 167 paintings of extreme weather events and strange celestial phenomena"
+   },
+   "published": "Wed, 18 Nov 2026 18:53:36 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Misja. CIA w XXI wieku",
+   "article": {
+    "title": "Misja. CIA w XXI wieku",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/08/misja-cia-w-xxi-wieku/",
+    "extract": "Tim Weiner, laureat Nagrody Pulitzera, przedstawia fascynującą historię CIA w XXI wieku The post Misja. CIA w XXI wieku first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 08 Nov 2026 15:15:31 +0000",
+   "image": null
+  }
+ ]
+}
