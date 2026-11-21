@@ -1,5 +1,519 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-21": {
+    "date": "2026-11-21",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 5,
+        "title": "Take-Two podało oficjalne liczby: 32,5 mln kopii GTA 6 przed premierą i 3,79 mld dolarów w pierwszej dobie",
+        "summary": "Take-Two i Rockstar ogłosili, że GTA 6 sprzedało się w 32,5 mln egzemplarzy jeszcze przed premierą. Przychód do końca dnia premiery wydawca szacuje na 3,79 mld dolarów.",
+        "body": [
+          "Po nieoficjalnych szacunkach analityków przyszły dane od samego wydawcy. Take-Two poinformowało w czwartek 20 listopada, że przed premierą sprzedano 32,5 mln egzemplarzy Grand Theft Auto VI.",
+          "Według komunikatu przychód z gry do końca dnia premiery, 19 listopada, wyniósł szacunkowo 3,79 mld dolarów. Kotaku zaznacza, że to wynik szacunkowy i nowy rekord przedsprzedaży gier konsolowych.",
+          "Serwisy porównują te liczby z GTA 5, które w pierwszej dobie sprzedało się w ok. 11 mln egzemplarzy, oraz z filmem „Avengers: Koniec gry”, który przez całą obecność w kinach zarobił ok. 2,9 mld dolarów.",
+          "W komunikacie głos zabrał szef Rockstar Games Sam Houser, który podziękował graczom i napisał, że studio wchodzi w nowy rozdział swojej historii."
+        ],
+        "sources": [
+          {
+            "name": "Take-Two Interactive",
+            "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+            "origin": true
+          },
+          {
+            "name": "GRY-Online",
+            "url": "https://www.gry-online.pl/newsroom/gta-6-rozbilo-bank-rockstar-podal-liczby-to-najwieksza-premiera-w/zc32403"
+          },
+          {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/gta-6-sold-32-5-million-copies-in-pre-release-as-take-two-crowns-it-the-biggest-entertainment-launch-in-history-2000758965"
+          }
+        ],
+        "noImage": "brak filmu YouTube omawiającego komunikat Take-Two i zdjęć prasowych z pozwoleniem dla mediów",
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Gry",
+        "hype": 5,
+        "title": "IShowSpeed ukończył GTA 6 dzień po premierze. Zapis finałowego streamu ma ponad 19 mln wyświetleń",
+        "summary": "IShowSpeed przeszedł GTA 6 na streamie zakończonym finałową misją. Widzowie liczą, że od premiery nadawał z przerwami tylko na chwilę, przez ponad dwie doby.",
+        "body": [
+          "W piątek wieczorem na kanale IShowSpeeda pojawił się ponad sześciogodzinny zapis streamu „BEATING GTA 6 RIGHT NOW 100% (FINAL MISSION)”. Chwilę później twórca wrzucił short „I BEAT GTA 6!”, potwierdzając, że ukończył fabułę.",
+          "Do soboty, godz. 6:16, zapis streamu miał ok. 19,4 mln wyświetleń i 266 tys. polubień, a short ok. 2,1 mln wyświetleń. Wcześniejsza część maratonu ma już blisko 37 mln wyświetleń.",
+          "Widzowie w komentarzach przeliczają, że cały maraton trwał ok. 52 godziny prawie bez snu, i żartują, że czekali na grę 13 lat, a Speed przeszedł ją w dwa dni."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=OIeLbmyraRQ",
+            "origin": true
+          },
+          {
+            "name": "IShowSpeed / YouTube (short)",
+            "url": "https://www.youtube.com/shorts/kVk_Nwca6Wk"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=OIeLbmyraRQ",
+        "ig": [
+          "ishowspeed"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/OIeLbmyraRQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/OIeLbmyraRQ/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=OIeLbmyraRQ",
+          "alt": "Miniatura streamu IShowSpeeda z finałową misją GTA 6",
+          "caption": "Stream IShowSpeeda z finałem GTA 6"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura zapisu streamu, na którym IShowSpeed rozegrał finałową misję GTA 6. Opisujemy tytuł, statystyki i reakcje widzów, bo nagranie nie ma napisów."
+        },
+        "insta": {
+          "tytul": "IShowSpeed już przeszedł GTA 6. Dzień po premierze",
+          "opis": "Widzowie liczą, że cały maraton trwał ok. 52 godziny. Zapis finału ma ponad 19 mln wyświetleń 💀"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Gry",
+        "hype": 4,
+        "title": "MrBeast: co ukradniesz w GTA 6, zatrzymujesz naprawdę. Film ma 9 mln wyświetleń w kilka godzin",
+        "summary": "Na kanale MrBeast Gaming wyszedł film „Whatever You Steal in GTA 6, You Keep!”. W opisie MrBeast zapowiada też zwrot 80 dolarów za grę dla tysiąca osób w USA.",
+        "body": [
+          "W piątek wieczorem na kanale MrBeast Gaming pojawił się ponad 20-minutowy film „Whatever You Steal in GTA 6, You Keep!”. Formuła jest prosta: to, co uczestnicy ukradną w grze, mają dostać w prawdziwym życiu. W opisie MrBeast pisze, że zakończenie to „najbardziej szalona rzecz”.",
+          "Do soboty, godz. 6:16, film miał ok. 9,4 mln wyświetleń, 150 tys. polubień i ponad 5,6 tys. komentarzy.",
+          "W opisie jest też akcja z partnerem: 1000 osób, które kupią GTA 6 wskazaną kartą, ma dostać zwrot 80 dolarów. Loteria jest otwarta tylko dla pełnoletnich mieszkańców USA. Widzowie w komentarzach piszą, że MrBeast zamienił GTA w prawdziwe zakupy, i zgłaszają pomysły na kolejne filmy w grze."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast Gaming / YouTube",
+            "url": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
+        "ig": [
+          "mrbeast"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/QQV-0OUGxGs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/QQV-0OUGxGs/hqdefault.jpg",
+          "credit": "MrBeast Gaming / YouTube",
+          "href": "https://www.youtube.com/watch?v=QQV-0OUGxGs",
+          "alt": "Miniatura filmu MrBeast Gaming „Whatever You Steal in GTA 6, You Keep!”",
+          "caption": "MrBeast Gaming w GTA 6"
+        },
+        "caption": {
+          "credit": "MrBeast Gaming / YouTube",
+          "text": "Miniatura filmu, w którym łupy z GTA 6 mają zamienić się w prawdziwe nagrody. Fakty o akcji ze zwrotem za grę pochodzą z opisu filmu."
+        },
+        "insta": {
+          "tytul": "MrBeast zrobił film: co ukradniesz w GTA 6, dostajesz naprawdę",
+          "opis": "W kilka godzin 9 mln wyświetleń. Do tego tysiąc osób w USA ma dostać zwrot kasy za grę."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-20",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Palion nagrał piosenkę o GTA 6. Animowany teledysk wyszedł dzień po premierze gry",
+        "summary": "Palion wypuścił utwór „GTA 6” z gościnnym udziałem Leona, Olka i Lionka. Teledysk jest w całości animowany, a w kilkanaście godzin obejrzało go ponad 220 tys. osób.",
+        "body": [
+          "W piątek o 19:00 na kanale Paliona pojawił się trzyminutowy teledysk „GTA 6”. W tytule jako gości wymieniono Leona, Olka i Lionka.",
+          "Według opisu muzykę i miks przygotował Koder, tekst napisali Koder, Tommy i Palion, a animację i montaż zrobił Marcin Sielach. To kolejny po pierwszym odcinku z gry materiał Paliona o GTA 6.",
+          "Do soboty, godz. 6:16, teledysk miał ok. 229 tys. wyświetleń, 7,4 tys. polubień i blisko 2 tys. komentarzy. Najwyżej polubiony komentarz zapowiada wkrótce ogłoszenie nowej trasy koncertowej, a widzowie wystawiają utworowi oceny i chwalą wokal jednego z gości."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=iNpRZEwd7PA",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=iNpRZEwd7PA",
+        "ig": [
+          "pawel_palion"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/iNpRZEwd7PA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/iNpRZEwd7PA/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=iNpRZEwd7PA",
+          "alt": "Kadr z animowanego teledysku Paliona „GTA 6”",
+          "caption": "Animowany teledysk Paliona „GTA 6”"
+        },
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Kadr z animowanego teledysku do utworu „GTA 6”. Twórców animacji i muzyki podajemy za opisem filmu."
+        },
+        "insta": {
+          "tytul": "Palion zrobił piosenkę o GTA 6, z animowanym klipem",
+          "opis": "Wyszła dzień po premierze gry. W kilkanaście godzin ponad 220 tys. wyświetleń."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-20",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Young Multi zaczął serię z GTA 6. „Na tę grę czekałem 13 lat”",
+        "summary": "Raper i streamer Young Multi wrzucił pierwszy, półtoragodzinny odcinek z GTA VI. Widzowie od razu dopytują, jak często będą kolejne.",
+        "body": [
+          "Na kanale Young Multi LIVE pojawił się w piątek wieczorem odcinek „NA TĘ GRĘ CZEKAŁEM 13 LAT! | GTA VI #1”. Nagranie trwa niemal półtorej godziny.",
+          "Do soboty, godz. 6:16, film miał ok. 75 tys. wyświetleń i 2 tys. polubień.",
+          "Widzowie w komentarzach liczą na regularną serię i proszą o odcinki co najmniej co drugi dzień. Część żartuje, że gdy inni narzekają na grę, Multi spokojnie przeprowadza psa przez ulicę."
+        ],
+        "sources": [
+          {
+            "name": "Young Multi LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=OaJxlRpjiOY",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=OaJxlRpjiOY",
+        "ig": [
+          "youngmulti"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/OaJxlRpjiOY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/OaJxlRpjiOY/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/watch?v=OaJxlRpjiOY",
+          "alt": "Miniatura pierwszego odcinka GTA VI na kanale Young Multi LIVE",
+          "caption": "Young Multi zaczyna serię GTA VI"
+        },
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Miniatura pierwszego odcinka GTA VI u Young Multiego. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Young Multi też już gra w GTA 6. Czekał na to 13 lat",
+          "opis": "Pierwszy odcinek ma półtorej godziny, a widzowie już proszą o kolejne co drugi dzień."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-20",
+        "who": "Konopskyy",
+        "initials": "KO",
+        "category": "Komentarz",
+        "hype": 3,
+        "title": "Konopskyy pyta, czy premiera GTA 6 to rozczarowanie. Widzowie są podzieleni",
+        "summary": "W nowym odcinku Konopskyy omawia premierę GTA 6, a także Książula i Skolima, awarię i wyciek danych kart oraz działania UOKiK wobec Allegro. Film ma 700 tys. wyświetleń.",
+        "body": [
+          "W piątek po 19:00 na kanale Konopskyy'ego pojawił się ponad półgodzinny odcinek „FATALNA PREMIERA NOWEGO GTA 6?”. Według rozdziałów w opisie GTA 6 to ostatni temat, zapowiedziany jako „wielka premiera i wielkie rozczarowanie?”.",
+          "Wcześniej w odcinku są też rozdziały o Książulu i Skolimie, o awarii i wycieku danych kart płatniczych Polaków oraz o UOKiK i Allegro.",
+          "Do soboty, godz. 6:16, film miał ok. 700 tys. wyświetleń, 11,5 tys. polubień i ponad 900 komentarzy. W najwyżej ocenianych komentarzach widzowie bronią gry: piszą, że detale robią wrażenie, błędy na premierę ma każda gra, a o ocenie fabuły trzeba myśleć dopiero po jej przejściu. Inni odpowiadają, że spora część świata GTA po prostu nie interesuje."
+        ],
+        "sources": [
+          {
+            "name": "Konopskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=sGuAxB7BWK8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=sGuAxB7BWK8",
+        "ig": [
+          "konopskyy_"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/sGuAxB7BWK8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/sGuAxB7BWK8/hqdefault.jpg",
+          "credit": "Konopskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=sGuAxB7BWK8",
+          "alt": "Miniatura odcinka Konopskyy'ego o premierze GTA 6",
+          "caption": "Nowy odcinek Konopskyy'ego"
+        },
+        "caption": {
+          "credit": "Konopskyy / YouTube",
+          "text": "Miniatura odcinka, w którym Konopskyy pyta o odbiór premiery GTA 6. Tematy podajemy za rozdziałami w opisie, bo film nie ma napisów."
+        },
+        "insta": {
+          "tytul": "Konopskyy pyta, czy premiera GTA 6 była fatalna",
+          "opis": "W komentarzach spór: jedni bronią detali i fabuły, inni piszą, że GTA ich w ogóle nie obchodzi."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-20",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Szachy",
+        "hype": 3,
+        "title": "MrBeast zagrał w szachy z Magnusem Carlsenem. Short ma 5,6 mln wyświetleń",
+        "summary": "MrBeast wrzucił 39-sekundowy short „Can I Beat Magnus Carlsen?”. Widzowie żartują, że to starcie potęgi nuklearnej z mrówką.",
+        "body": [
+          "Na głównym kanale MrBeasta pojawił się w piątek short „Can I Beat Magnus Carlsen?”, w którym twórca siada do partii z norweskim arcymistrzem.",
+          "Do soboty, godz. 6:16, short miał ok. 5,7 mln wyświetleń, 220 tys. polubień i ponad 4 tys. komentarzy.",
+          "Widzowie w komentarzach przypominają, że Carlsen potrafi grać na ślepo z wieloma arcymistrzami naraz, i żartują, że ziewał nie z nudów, tylko dlatego, że partia była dla niego za łatwa."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/shorts/WjCH5JUNzao",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/WjCH5JUNzao",
+        "ig": [
+          "mrbeast"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/WjCH5JUNzao/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/WjCH5JUNzao/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/shorts/WjCH5JUNzao",
+          "alt": "Miniatura shorta MrBeasta „Can I Beat Magnus Carlsen?”",
+          "caption": "MrBeast kontra Magnus Carlsen"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura shorta, w którym MrBeast gra z Magnusem Carlsenem. Opisujemy tylko tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "MrBeast usiadł do szachów z Magnusem Carlsenem",
+          "opis": "Wynik łatwo zgadnąć. Widzowie piszą, że to starcie potęgi nuklearnej z mrówką 😅"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Hiszpania",
+        "initials": "HI",
+        "category": "Geografia",
+        "hype": 3,
+        "title": "Hiszpania ma skałę przy wybrzeżu Maroka, połączoną z lądem pasem piasku szerokim na 80 metrów",
+        "summary": "Peñón de Vélez de la Gomera to hiszpańska eksklawa tuż przy marokańskim brzegu. Kiedyś była wyspą, dziś łączy ją z Afryką wąski przesmyk.",
+        "body": [
+          "Peñón de Vélez de la Gomera to skalisty cypel na Morzu Śródziemnym, który należy do Hiszpanii jako jedna z tzw. plazas de soberanía. Z marokańskim brzegiem łączy go piaszczysty przesmyk szeroki na ok. 80 metrów, przez który biegnie granica.",
+          "W 2012 roku czterech marokańskich aktywistów próbowało wejść na skałę i ogłosić ją marokańską."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera"
+          },
+          {
+            "name": "El País",
+            "url": "https://english.elpais.com/elpais/2012/09/17/inenglish/1347895561_857013.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Velez_de_la_Gomera.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Velez_de_la_Gomera.jpg",
+          "credit": "Ignacio Gavira / Wikimedia Commons, domena publiczna",
+          "alt": "Skała Peñón de Vélez de la Gomera z zabudowaniami, połączona z lądem",
+          "caption": "Peñón de Vélez de la Gomera przy wybrzeżu Maroka"
+        },
+        "caption": {
+          "credit": "Ignacio Gavira / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje skałę Peñón de Vélez de la Gomera. To ten hiszpański skrawek ziemi przy brzegu Afryki."
+        },
+        "insta": {
+          "tytul": "Hiszpania ma kawałek skały przyklejony do Maroka pasem piasku",
+          "opis": "Granica biegnie przez przesmyk szeroki na ok. 80 metrów. W 2012 r. czterech Marokańczyków próbowało ją „przejąć”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Polityka",
+        "hype": 3,
+        "title": "W Australii był okręg wyborczy Batman. Nazwa nie ma nic wspólnego z superbohaterem",
+        "summary": "Division of Batman to dawny okręg wyborczy w Melbourne. Nazwę wziął od Johna Batmana, jednego z założycieli miasta.",
+        "body": [
+          "Okręg wyborczy Batman w stanie Wiktoria utworzono w 1906 roku. Obejmował północne przedmieścia Melbourne i wybierał posła do federalnego parlamentu Australii.",
+          "Nazwa pochodziła od Johna Batmana, jednego z założycieli Melbourne. Okręg zlikwidowano w 2019 roku, a jego miejsce zajął okręg Cooper."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Division_of_Batman"
+          },
+          {
+            "name": "Australian Electoral Commission",
+            "url": "http://www.aec.gov.au/profiles/vic/batman.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Division_of_BATMAN_2016.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Division_of_BATMAN_2016.png",
+          "credit": "Barrylb / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Mapa okręgu wyborczego Batman w Melbourne z 2016 roku",
+          "caption": "Mapa okręgu Batman (2016)"
+        },
+        "caption": {
+          "credit": "Barrylb / Wikimedia Commons",
+          "text": "Mapa pokazuje granice okręgu Batman w 2016 roku. Trzy lata później okręg zniknął i zastąpił go Cooper."
+        },
+        "insta": {
+          "tytul": "Australia miała okręg wyborczy o nazwie Batman. Serio",
+          "opis": "Nazwa pochodziła od Johna Batmana, współzałożyciela Melbourne. Okręg istniał od 1906 do 2019 roku."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "NFL",
+        "initials": "NF",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Rekord NFL od 1966 roku: w jednym meczu padło 113 punktów. Washington wygrał z Giants 72:41",
+        "summary": "Najwięcej punktów w historii NFL padło 27 listopada 1966 roku w Waszyngtonie. Rekord przetrwał już ponad pół wieku.",
+        "body": [
+          "27 listopada 1966 roku Washington Redskins pokonali New York Giants 72:41 na stadionie w Waszyngtonie. Łącznie 113 punktów to najwyższy wynik meczu w historii NFL.",
+          "Kilka tygodni wcześniej te same drużyny zagrały w Nowym Jorku i skończyło się wynikiem 13:10. Fox Sports pisał w 50. rocznicę, że rekord z 1966 roku wciąż nie został pobity."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/1966_New_York_Giants%E2%80%93Washington_Redskins_game"
+          },
+          {
+            "name": "Fox Sports",
+            "url": "https://www.foxsports.com/stories/nfl/50-years-ago-giants-vs-redskins-set-a-record-that-still-stands"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Exterior_of_the_D.C._stadium_%28Robert_F._Kennedy_Memorial_Stadium%29_with_cars_in_parking_lot_LCCN2022641570.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_D.C._stadium_(Robert_F._Kennedy_Memorial_Stadium)_with_cars_in_parking_lot_LCCN2022641570.jpg",
+          "credit": "Marion S. Trikosko / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie stadionu D.C. Stadium w Waszyngtonie z parkingiem pełnym samochodów",
+          "caption": "D.C. Stadium w Waszyngtonie"
+        },
+        "caption": {
+          "credit": "Marion S. Trikosko / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie D.C. Stadium, późniejszego RFK Stadium. To tu w 1966 roku padł rekord 113 punktów."
+        },
+        "insta": {
+          "tytul": "Najwięcej punktów w meczu NFL? 72:41, i to w 1966 roku",
+          "opis": "Washington rozbił Giants, razem 113 punktów. Ten rekord trzyma się od ponad 50 lat."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Rybacy z Indonezji przez dziesięciolecia pływali do Australii po strzykwy i handlowali z Aborygenami",
+        "summary": "Od połowy XVIII wieku łodzie z Sulawesi przypływały co roku na północ Australii. Ślady tych kontaktów zostały w języku i sztuce Aborygenów.",
+        "body": [
+          "Kupcy z Makasaru i rybacy z południowego Sulawesi zaczęli przypływać na północne wybrzeże Australii mniej więcej w połowie XVIII wieku, najpierw do regionu Kimberley, a potem do Ziemi Arnhema.",
+          "Szukali strzykw, czyli trepangów: zwierząt morskich cenionych na chińskich targach jako przysmak i lek. Przy okazji handlowali z Aborygenami, a te kontakty odcisnęły się na ich kulturze, sztuce i języku."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Makassan_contact_with_Australia"
+          },
+          {
+            "name": "National Museum of Australia",
+            "url": "https://www.nma.gov.au/defining-moments/resources/trade-with-the-makasar"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Macassan_prau.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Macassan_prau.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Dawna ilustracja łodzi typu prau, którą pływali Makasarczycy",
+          "caption": "Łódź prau z Makasaru"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Ilustracja przedstawia makasarską łódź prau. Takimi łodziami rybacy z Sulawesi docierali do Australii po strzykwy."
+        },
+        "insta": {
+          "tytul": "Indonezyjscy rybacy pływali do Australii po… strzykwy",
+          "opis": "Robili to od XVIII wieku i handlowali z Aborygenami. Ślady zostały w ich języku i sztuce."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Wielka Brytania",
+        "initials": "WI",
+        "category": "Rozrywka",
+        "hype": 3,
+        "title": "W radiu BBC od lat grają w grę, której zasad nikt nie zna. Wygrywa, kto pierwszy powie „Mornington Crescent”",
+        "summary": "Mornington Crescent to gra z satyrycznej audycji BBC Radio 4. Uczestnicy wymieniają stacje londyńskiego metra i udają, że stoi za tym skomplikowana strategia.",
+        "body": [
+          "Gra pochodzi z audycji „I'm Sorry I Haven't a Clue” w BBC Radio 4, która parodiuje teleturnieje. Paneliści po kolei podają nazwy miejsc, najczęściej stacji metra w Londynie.",
+          "Celem jest jako pierwszy powiedzieć „Mornington Crescent”, czyli nazwę stacji na linii Northern. Słuchaczom nigdy nie wyjaśniono zasad, a gracze komentują ruchy tak, jakby chodziło o szachy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mornington_Crescent_(game)"
+          },
+          {
+            "name": "University of Leeds (archiwum)",
+            "url": "https://web.archive.org/web/20160304054226/http://www1.maths.leeds.ac.uk/~pmt6jrp/personal/quintics.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/MorningtonCrescent_roundel.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:MorningtonCrescent_roundel.jpg",
+          "credit": "Miriam Behpour / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Charakterystyczny okrągły znak stacji metra Mornington Crescent w Londynie",
+          "caption": "Znak stacji Mornington Crescent"
+        },
+        "caption": {
+          "credit": "Miriam Behpour / Wikimedia Commons",
+          "text": "Znak stacji Mornington Crescent w londyńskim metrze. To jej nazwę trzeba powiedzieć pierwszym, żeby wygrać grę z BBC."
+        },
+        "insta": {
+          "tytul": "BBC ma grę, w której zasad nikt nie zna",
+          "opis": "Gracze wymieniają stacje metra w Londynie. Wygrywa, kto pierwszy powie „Mornington Crescent”."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-20": {
     "date": "2026-11-20",
     "ryby": [],

@@ -1,5 +1,23 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-21": {
+  "luz": [
+   "artykuly/2026-11-21/take-two-podalo-oficjalne-liczby-32-5-mln-kopii-gta-6-przed-premiera.html",
+   "artykuly/2026-11-21/ishowspeed-ukonczyl-gta-6-dzien-po-premierze-zapis-finalowego-streamu.html",
+   "artykuly/2026-11-21/mrbeast-co-ukradniesz-w-gta-6-zatrzymujesz-naprawde-film-ma-9-mln.html",
+   "artykuly/2026-11-21/palion-nagral-piosenke-o-gta-6-animowany-teledysk-wyszedl-dzien.html",
+   "artykuly/2026-11-21/young-multi-zaczal-serie-z-gta-6-na-te-gre-czekalem-13-lat.html",
+   "artykuly/2026-11-21/konopskyy-pyta-czy-premiera-gta-6-to-rozczarowanie-widzowie.html",
+   "artykuly/2026-11-21/mrbeast-zagral-w-szachy-z-magnusem-carlsenem-short-ma-5-6-mln.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-21/hiszpania-ma-skale-przy-wybrzezu-maroka-polaczona-z-ladem-pasem.html",
+   "artykuly/2026-11-21/w-australii-byl-okreg-wyborczy-batman-nazwa-nie-ma-nic-wspolnego.html",
+   "artykuly/2026-11-21/rekord-nfl-od-1966-roku-w-jednym-meczu-padlo-113-punktow-washington.html",
+   "artykuly/2026-11-21/rybacy-z-indonezji-przez-dziesieciolecia-plywali-do-australii.html",
+   "artykuly/2026-11-21/w-radiu-bbc-od-lat-graja-w-gre-ktorej-zasad-nikt-nie-zna-wygrywa-kto.html"
+  ]
+ },
  "2026-11-20": {
   "luz": [
    "artykuly/2026-11-20/wedlug-sensor-tower-gta-6-w-pierwszej-dobie-kupilo-ok-24-5-mln-osob.html",
