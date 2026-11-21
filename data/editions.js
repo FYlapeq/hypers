@@ -6,6 +6,223 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "world",
+        "published": "2026-11-21",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Kai Cenat ukończył GTA 6. Zapis finałowego streamu ma 2,6 mln wyświetleń",
+        "summary": "Kai Cenat skończył fabułę GTA 6 i wrzucił na YouTube zapis ponad 7,5-godzinnego finału. Widzowie w komentarzach od razu porównują jego zakończenie z tym, które dzień wcześniej zobaczył IShowSpeed.",
+        "body": [
+          "Na kanale Kai Cenat Live pojawił się w sobotę rano polskiego czasu zapis streamu „BEATING GTA 6 *FINALE*”. To ostatnia część jego maratonu z GTA 6, który śledziliśmy od dnia premiery. Nagranie trwa ponad 7,5 godziny.",
+          "Do soboty, godz. 14:16, zapis miał ok. 2,6 mln wyświetleń i ponad 21 tys. polubień.",
+          "Najczęściej komentowany wątek to zakończenie gry: widzowie zauważają, że Kai trafił na to samo zakończenie co IShowSpeed, i dyskutują, czy da się zdobyć inne. Część dziękuje za trzy dni wspólnego oglądania, inni piszą, że teraz czekają już tylko na dodatki fabularne i tryb online."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=dSDUAAr-w_g",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=dSDUAAr-w_g",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dSDUAAr-w_g/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dSDUAAr-w_g/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=dSDUAAr-w_g",
+          "alt": "Miniatura zapisu streamu Kaia Cenata z finałem GTA 6",
+          "caption": "Kai Cenat kończy GTA 6"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura zapisu ostatniego streamu z maratonu GTA 6 Kaia Cenata. Film nie ma napisów, więc opisujemy tylko tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Kai Cenat przeszedł GTA 6, a finał obejrzało już 2,6 mln osób",
+          "opis": "Widzowie piszą, że dostał to samo zakończenie co Speed. Teraz wszyscy kłócą się, czy da się zdobyć inne."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-21",
+        "who": "To Znowu Oni",
+        "initials": "TZ",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "To Znowu Oni o GTA 6 jako „najbardziej realistycznym symulatorze życia”. Szymon Liebert szuka drugiego dna",
+        "summary": "Nowy odcinek To Znowu Oni nie jest o pościgach i napadach, tylko o codzienności w GTA 6. Twórcy pokazują, jak gra odwzorowuje życie w 2026 roku, a całość analizuje Szymon „Hed” Liebert.",
+        "body": [
+          "W sobotę o 14:00 na kanale To Znowu Oni pojawił się 23-minutowy odcinek „JAK GTA 6 STAŁO SIĘ NAJBARDZIEJ REALISTYCZNYM SYMULATOREM ŻYCIA”.",
+          "Jak piszą twórcy w opisie, tym razem zapominają o pościgach, strzelaninach i napadach na banki, a skupiają się na tym, jak Rockstar pokazał codzienność 2026 roku. Opis zapowiada, że sprawa ma „drugie dno”, a analizuje ją Szymon „Hed” Liebert.",
+          "Kwadrans po premierze film miał ok. 2,1 tys. wyświetleń. Widzowie żartują w komentarzach o „The Sims VI” i dopytują o powrót serii „Liczę na glicze” z GTA 6. Część narzeka na 30 klatek na sekundę na konsolach i cenę gry."
+        ],
+        "sources": [
+          {
+            "name": "To Znowu Oni / YouTube",
+            "url": "https://www.youtube.com/watch?v=nIhogsaeqWU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=nIhogsaeqWU",
+        "ig": [
+          "toznowuoni"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/nIhogsaeqWU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/nIhogsaeqWU/hqdefault.jpg",
+          "credit": "To Znowu Oni / YouTube",
+          "href": "https://www.youtube.com/watch?v=nIhogsaeqWU",
+          "alt": "Miniatura odcinka To Znowu Oni o GTA 6 jako symulatorze życia",
+          "caption": "To Znowu Oni o codzienności w GTA 6"
+        },
+        "caption": {
+          "credit": "To Znowu Oni / YouTube",
+          "text": "Miniatura odcinka, w którym To Znowu Oni pokazują GTA 6 od strony codziennego życia. Treść filmu opisujemy na podstawie opisu twórców."
+        },
+        "insta": {
+          "tytul": "To Znowu Oni zrobili z GTA 6 symulator zwykłego życia",
+          "opis": "Zero napadów i pościgów, sama codzienność w Vice City. A Hed tłumaczy, co się za tym kryje."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Ludwig ma drugi dzień maratonu GTA 6. Co godzinę rozdaje widzom kody do gry",
+        "summary": "Ludwig Ahgren kontynuuje maraton GTA 6 i w trakcie streamu co godzinę rozdaje kody do gry. Zapis drugiego dnia trwa prawie 12 godzin i ma ponad pół miliona wyświetleń.",
+        "body": [
+          "Na kanale Ludwiga pojawił się zapis streamu „DAY 2 GTA VI MARATHON”. Jak zapowiada tytuł, podczas transmisji twórca co godzinę rozdawał widzom kody do GTA 6. W tytule wymienia też sponsorów: Red Bulla, AT&T i Alienware.",
+          "Nagranie trwa prawie 12 godzin. Do soboty, godz. 14:16, miało ok. 526 tys. wyświetleń.",
+          "Widzowie w komentarzach podsyłają sobie znacznik czasu z momentem, w którym Ludwig chwilę po słowach o tym, jak dobrze jeździ, przejeżdża w grze psa, i żartują, że ciągle odchodzi od klawiatury w trakcie dialogów."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/watch?v=C6ONk76TNYo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=C6ONk76TNYo",
+        "ig": [
+          "ludwigahgren"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/C6ONk76TNYo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/C6ONk76TNYo/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/watch?v=C6ONk76TNYo",
+          "alt": "Miniatura zapisu drugiego dnia maratonu GTA 6 Ludwiga",
+          "caption": "Drugi dzień maratonu GTA 6 Ludwiga"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura zapisu drugiego dnia maratonu, podczas którego Ludwig rozdawał kody do GTA 6. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Ludwig gra w GTA 6 drugi dzień z rzędu i co godzinę rozdaje kody do gry",
+          "opis": "Stream trwał prawie 12 godzin. Widzowie najbardziej zapamiętali moment, gdy chwalił się jazdą i od razu przejechał psa."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Dziś w Miami „GTA VI: The Festival”. Zagrają m.in. Travis Scott, Cardi B i Justice",
+        "summary": "Rockstar Games i PlayStation świętują premierę GTA 6 jednodniowym festiwalem muzycznym w Miami. Na scenie wystąpią artyści z gry i jej ścieżki dźwiękowej.",
+        "body": [
+          "W sobotę 21 listopada w Mana Wynwood w Miami odbywa się „Grand Theft Auto VI: The Festival”. Wydarzenie ogłosił Rockstar Games 9 listopada, a organizuje je razem z PlayStation. Według ComicBook.com za produkcję odpowiadają twórcy miamskiego festiwalu III Points.",
+          "Główną gwiazdą jest występ „Cactus Jack presents Travis Scott, Don Toliver, Kodak Black i SoFaygo”. W programie są też m.in. Cardi B, Metro Boomin, Ca7riel i Paco Amoroso, Justice (DJ set), Tainy oraz Rauw & Friends.",
+          "Bilety nie trafiły do zwykłej sprzedaży: fani zapisywali się do internetowej loterii, a zwycięzcy mogli kupić najwyżej dwa imienne bilety. Wstęp tylko od 17 lat. W zapowiedziach nie było mowy o transmisji na żywo."
+        ],
+        "sources": [
+          {
+            "name": "Rockstar Games / X",
+            "url": "https://x.com/RockstarGames/status/2119792290600239401",
+            "origin": true
+          },
+          {
+            "name": "ComicBook.com",
+            "url": "https://comicbook.com/gaming/news/grand-theft-auto-vi-the-festival-announced-for-november-21/"
+          },
+          {
+            "name": "Screen Rant",
+            "url": "https://screenrant.com/gta-6-the-festival-november-21-event/"
+          },
+          {
+            "name": "Consequence",
+            "url": "https://consequence.net/live-coverage/grand-theft-auto-vi/"
+          }
+        ],
+        "embed": "https://x.com/RockstarGames/status/2119792290600239401",
+        "noImage": "brak filmu Rockstar o festiwalu (kadr) i newsroomu ze zdjęciami prasowymi",
+        "caption": {
+          "credit": "Rockstar Games / X",
+          "text": "Post Rockstar Games z 9 listopada, w którym studio ogłosiło festiwal i jego skład. To oficjalne potwierdzenie daty i miejsca wydarzenia."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "Lifestyle",
+        "hype": 3,
+        "title": "Ludwig dał widzom 10 tys. dolarów na urządzenie mieszkania swojego kumpla",
+        "summary": "W nowym filmie Ludwig Ahgren oddał czatowi budżet 10 tys. dolarów, żeby zmienił mieszkanie jego przyjaciela. Widzowie piszą, że tym razem czat naprawdę nie miał jak pogorszyć sprawy.",
+        "body": [
+          "Na kanale Ludwiga pojawił się 46-minutowy film „Giving Chat $10,000 To Decorate My Friend's Apartment”. Jak mówi tytuł, o tym, co trafi do mieszkania kolegi, decydował czat, a do wydania było 10 tys. dolarów.",
+          "Do soboty, godz. 14:16, film miał ok. 120 tys. wyświetleń i 3,4 tys. polubień.",
+          "Najpopularniejszy komentarz przekonuje, że to pierwszy taki odcinek, w którym czat nie mógł niczego zepsuć. Inni żartują, że zamiast przemeblowania przydałaby się sprzątaczka, i przyznają, że podczas oprowadzania po mieszkaniu poczuli się „osobiście zaatakowani”."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/watch?v=vPPUoLmDCC4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vPPUoLmDCC4",
+        "ig": [
+          "ludwigahgren"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vPPUoLmDCC4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vPPUoLmDCC4/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/watch?v=vPPUoLmDCC4",
+          "alt": "Miniatura filmu Ludwiga o urządzaniu mieszkania przyjaciela",
+          "caption": "Ludwig i metamorfoza mieszkania kumpla"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura filmu, w którym czat Ludwiga wydaje 10 tys. dolarów na mieszkanie jego przyjaciela. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Ludwig dał czatowi 10 tys. dolarów na urządzenie mieszkania kumpla",
+          "opis": "Widzowie zgodnie piszą, że gorzej już być nie mogło. Kilku przyznało, że w swoim mieszkaniu mają podobnie 😅"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
         "published": "2026-11-20",
         "who": "GTA 6",
         "initials": "G6",
@@ -307,6 +524,211 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Korea Południowa",
+        "initials": "KP",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Koreańskie miasto Pusan mianowało rekina swoim honorowym ambasadorem",
+        "summary": "We wrześniu 2026 r. w kanale portowego parku w Pusanie pojawił się żarłacz. Rekin o imieniu Bukangi stał się tak popularny, że miasto zrobiło go ambasadorem.",
+        "body": [
+          "Bukangi to żarłacz ciemnoskóry, którego 18 września 2026 r. zauważono w kanale parku nad wodą w dzielnicy portowej Pusanu. Trzy próby wyprowadzenia go na morze się nie udały, a 22 października odpłynął sam.",
+          "Przez ten czas zyskał popularność w całym kraju i miasto nadało mu tytuł honorowego ambasadora Pusanu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bukangi"
+          },
+          {
+            "name": "The Korea Times",
+            "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20260929/busan-shark-becomes-tourist-sensation-but-stirs-concerns-over-warming-seas"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bukangi_2026_2.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Bukangi_2026_2.png",
+          "credit": "hikangs 4K / Wikimedia Commons, CC BY 4.0",
+          "alt": "Rekin Bukangi pływający w kanale w Pusanie",
+          "caption": "Rekin Bukangi w kanale w Pusanie"
+        },
+        "caption": {
+          "credit": "hikangs 4K / Wikimedia Commons",
+          "text": "Kadr z nagrania rekina Bukangi w kanale portowego parku w Pusanie. To ten żarłacz został honorowym ambasadorem miasta."
+        },
+        "insta": {
+          "tytul": "W Korei rekin dostał posadę ambasadora miasta",
+          "opis": "Wpłynął do kanału w Pusanie, nie dał się wyprowadzić i zrobił się sławny na cały kraj. Po miesiącu odpłynął sam."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Niger",
+        "initials": "NG",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Najbardziej samotne drzewo na Ziemi stało na Saharze ok. 300 lat. Przewróciła je ciężarówka",
+        "summary": "Akacja z Ténéré była uznawana za najbardziej odosobnione drzewo świata. W 1973 r. przewrócił ją libijski kierowca ciężarówki, według relacji pijany.",
+        "body": [
+          "Drzewo z Ténéré rosło samotnie na pustyni w północno-wschodnim Nigrze i było punktem orientacyjnym dla karawan. Było tak znane, że trafiło na mapy w skali 1:4 000 000, na których zwykle nie zaznacza się pojedynczych drzew.",
+          "Szacuje się, że akacja przetrwała ok. 300 lat, aż w 1973 r. wjechał w nią libijski kierowca ciężarówki."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tree_of_T%C3%A9n%C3%A9r%C3%A9"
+          },
+          {
+            "name": "Smithsonian Magazine",
+            "url": "https://www.smithsonianmag.com/smart-news/the-most-isolated-tree-in-the-world-was-killed-by-a-probably-drunk-driver-5369329/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Arbre-du-tenere-1961.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Arbre-du-tenere-1961.jpg",
+          "credit": "Michel Mazeau / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Samotna akacja na piaszczystej pustyni Ténéré w 1961 roku",
+          "caption": "Drzewo z Ténéré w 1961 roku"
+        },
+        "caption": {
+          "credit": "Michel Mazeau / Wikimedia Commons",
+          "text": "Zdjęcie samotnej akacji z Ténéré z 1961 roku. Wokół niej nie ma nic poza piaskiem."
+        },
+        "insta": {
+          "tytul": "Najbardziej samotne drzewo świata stało 300 lat na Saharze, aż wjechała w nie ciężarówka",
+          "opis": "Jedyne drzewo na setki kilometrów, karawany używały go jako drogowskazu. W 1973 r. wjechał w nie kierowca ciężarówki."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "USA",
+        "initials": "US",
+        "category": "Telewizja",
+        "hype": 3,
+        "title": "23 grudnia część ludzi obchodzi Festivus, święto wymyślone na potrzeby serialu „Seinfeld”",
+        "summary": "Festivus to święto „dla reszty z nas”: bez prezentów i ozdób, za to z gołym aluminiowym słupem i wygarnianiem bliskim pretensji. Spopularyzował je odcinek „Seinfelda” z 1997 roku.",
+        "body": [
+          "Festivus wymyślił pisarz Daniel O'Keefe jako odpowiedź na komercję świąt Bożego Narodzenia. W 1997 r. jego syn Dan O'Keefe, scenarzysta „Seinfelda”, zrobił z niego temat odcinka „The Strike”.",
+          "Rytuały z serialu to kolacja, nieozdobiony aluminiowy słup, „wygarnianie żali” bliskim i „próby siły”. Święto przeszło z ekranu do prawdziwego życia i wiele osób obchodzi je co roku 23 grudnia."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Festivus"
+          },
+          {
+            "name": "Lawrence Journal-World",
+            "url": "http://www2.ljworld.com/news/2005/dec/18/festivus_rest_us/?christmas_holidays="
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Festivus_Pole.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Festivus_Pole.jpg",
+          "credit": "Matthew Keefe / Wikimedia Commons, CC BY 2.0",
+          "alt": "Goły aluminiowy słup festivusowy w mieszkaniu",
+          "caption": "Słup festivusowy"
+        },
+        "caption": {
+          "credit": "Matthew Keefe / Wikimedia Commons",
+          "text": "Aluminiowy słup festivusowy, czyli główny „symbol” tego święta zamiast choinki."
+        },
+        "insta": {
+          "tytul": "Ludzie naprawdę obchodzą święto z „Seinfelda”, a zamiast choinki stawiają goły słup",
+          "opis": "Festivus z „Seinfelda”, 23 grudnia. W programie kolacja i wygarnianie rodzinie, co cię przez cały rok wkurzało."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Baseball",
+        "initials": "BB",
+        "category": "Sport",
+        "hype": 3,
+        "title": "W baseballu „linia Mendozy” to granica słabości. Nazwano ją od zawodnika, który kiepsko odbijał",
+        "summary": "Średnia odbić poniżej 0,200 to w MLB „poniżej linii Mendozy”. Nazwa pochodzi od Mario Mendozy, który w pięciu z dziewięciu sezonów nie dobił do tej granicy.",
+        "body": [
+          "Mario Mendoza był shortstopem znanym z dobrej obrony i słabego odbijania. W pięciu z dziewięciu sezonów w Major League Baseball jego średnia była niższa niż 0,200.",
+          "Jego nazwisko stało się żargonem: o zawodniku ze średnią poniżej 0,200 mówi się, że jest „poniżej linii Mendozy”. Dla miotacza taki wynik rywali to z kolei powód do dumy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mendoza_Line"
+          },
+          {
+            "name": "Baseball-Reference",
+            "url": "https://www.baseball-reference.com/players/m/mendoma01.shtml"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mario_Mendoza_Pirates.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mario_Mendoza_Pirates.jpg",
+          "credit": "Pittsburgh Pirates / Wikimedia Commons, domena publiczna",
+          "alt": "Mario Mendoza w stroju Pittsburgh Pirates",
+          "caption": "Mario Mendoza w barwach Pittsburgh Pirates"
+        },
+        "caption": {
+          "credit": "Pittsburgh Pirates / Wikimedia Commons",
+          "text": "Mario Mendoza w stroju Pittsburgh Pirates. To od jego nazwiska wzięła się nazwa baseballowej „granicy słabości”."
+        },
+        "insta": {
+          "tytul": "Ten baseballista tak słabo odbijał, że jego nazwisko stało się miarą słabości",
+          "opis": "Średnia poniżej 0,200 to w MLB „poniżej linii Mendozy”. Mario Mendoza nie dobił do niej w 5 z 9 sezonów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Hobby Lobby",
+        "initials": "HL",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Sieć sklepów dla hobbystów kupowała starożytne gliniane tabliczki, prawdopodobnie zrabowane w Iraku",
+        "summary": "Sieć Hobby Lobby sprowadzała starożytne gliniane tabliczki do Muzeum Biblii. Celnicy przechwycili przesyłki, a sprawa skończyła się w sądzie.",
+        "body": [
+          "Od 2009 r. przedstawiciele sieci sklepów Hobby Lobby kupowali gliniane tabliczki z pismem klinowym i pieczęcie ze starożytnego Bliskiego Wschodu. Miały trafić do Muzeum Biblii, finansowanego przez rodzinę Greenów, właścicieli sieci. Pracownicy ostrzegali, że pochodzenie przedmiotów jest wątpliwe i mogą pochodzić z rabunku w Iraku.",
+          "W 2011 r. amerykańscy celnicy przechwycili kilka przesyłek. W 2017 r. sprawa trafiła do sądu jako cywilne postępowanie o przepadek artefaktów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hobby_Lobby_smuggling_scandal"
+          },
+          {
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com/what-to-know-about-hobby-lobby-president-backed-museum-of-the-bible-2017-7"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:United_States_versus_Approximately_450_Ancient_Cuneiform_Tablets_-_smuggled_artifact_1.jpg",
+          "credit": "United States District Court for the Eastern District of New York / Wikimedia Commons, domena publiczna",
+          "alt": "Gliniana tabliczka z pismem klinowym z akt sprawy sądowej",
+          "caption": "Jedna z przemyconych tabliczek z akt sprawy"
+        },
+        "caption": {
+          "credit": "Sąd Okręgowy USA dla Wschodniego Dystryktu Nowego Jorku / Wikimedia Commons",
+          "text": "Zdjęcie jednej z glinianych tabliczek z akt sprawy przeciwko ok. 450 starożytnym tabliczkom. To przedmioty z przesyłek przechwyconych przez celników."
+        },
+        "insta": {
+          "tytul": "Sieć sklepów z artykułami do rękodzieła kupowała starożytne tabliczki z Iraku",
+          "opis": "Miały trafić do Muzeum Biblii, ale przechwycili je celnicy. Pracownicy wcześniej ostrzegali, że mogą pochodzić z rabunku."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-21",

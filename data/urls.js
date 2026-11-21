@@ -2,6 +2,11 @@
 window.HYPERS_URLS = {
  "2026-11-21": {
   "luz": [
+   "artykuly/2026-11-21/kai-cenat-ukonczyl-gta-6-zapis-finalowego-streamu-ma-2-6-mln.html",
+   "artykuly/2026-11-21/to-znowu-oni-o-gta-6-jako-najbardziej-realistycznym-symulatorze-zycia.html",
+   "artykuly/2026-11-21/ludwig-ma-drugi-dzien-maratonu-gta-6-co-godzine-rozdaje-widzom-kody.html",
+   "artykuly/2026-11-21/dzis-w-miami-gta-vi-the-festival-zagraja-m-in-travis-scott-cardi.html",
+   "artykuly/2026-11-21/ludwig-dal-widzom-10-tys-dolarow-na-urzadzenie-mieszkania-swojego.html",
    "artykuly/2026-11-21/take-two-podalo-oficjalne-liczby-32-5-mln-kopii-gta-6-przed-premiera.html",
    "artykuly/2026-11-21/ishowspeed-ukonczyl-gta-6-dzien-po-premierze-zapis-finalowego-streamu.html",
    "artykuly/2026-11-21/mrbeast-co-ukradniesz-w-gta-6-zatrzymujesz-naprawde-film-ma-9-mln.html",
@@ -11,6 +16,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-21/mrbeast-zagral-w-szachy-z-magnusem-carlsenem-short-ma-5-6-mln.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-21/koreanskie-miasto-pusan-mianowalo-rekina-swoim-honorowym-ambasadorem.html",
+   "artykuly/2026-11-21/najbardziej-samotne-drzewo-na-ziemi-stalo-na-saharze-ok-300-lat.html",
+   "artykuly/2026-11-21/23-grudnia-czesc-ludzi-obchodzi-festivus-swieto-wymyslone-na-potrzeby.html",
+   "artykuly/2026-11-21/w-baseballu-linia-mendozy-to-granica-slabosci-nazwano-ja-od-zawodnika.html",
+   "artykuly/2026-11-21/siec-sklepow-dla-hobbystow-kupowala-starozytne-gliniane-tabliczki.html",
    "artykuly/2026-11-21/hiszpania-ma-skale-przy-wybrzezu-maroka-polaczona-z-ladem-pasem.html",
    "artykuly/2026-11-21/w-australii-byl-okreg-wyborczy-batman-nazwa-nie-ma-nic-wspolnego.html",
    "artykuly/2026-11-21/rekord-nfl-od-1966-roku-w-jednym-meczu-padlo-113-punktow-washington.html",
