@@ -406,10 +406,10 @@
    "razy": 1
   },
   "twitch:HonorableFriendlyDolphinWutFace-BYrgqZ2J3N9MfDxh": {
-   "media_id": "18139359805572903",
-   "kiedy": "2026-11-21T10:20:19.012Z",
+   "media_id": "18116946935155993",
+   "kiedy": "2026-11-21T11:19:48.958Z",
    "url": "https://www.twitch.tv/chiblee/clip/HonorableFriendlyDolphinWutFace-BYrgqZ2J3N9MfDxh",
-   "razy": 3
+   "razy": 4
   },
   "twitch:ArtisticResilientBeaverPupper-i-qYjnvkpICZRF3y": {
    "media_id": "18121676549054034",
@@ -433,6 +433,12 @@
    "media_id": "18121676549054034",
    "kiedy": "2026-11-21T10:50:27.603Z",
    "url": "https://www.twitch.tv/baupenner/clip/BrainyEnthusiasticHorseRuleFive-lNLkPkg5qdX_nISA",
+   "razy": 1
+  },
+  "twitch:FunAdorableTitanRaccAttack-l1bsjG2h1DD3qr0K": {
+   "media_id": "18116946935155993",
+   "kiedy": "2026-11-21T11:19:48.958Z",
+   "url": "https://www.twitch.tv/baupenner/clip/FunAdorableTitanRaccAttack-l1bsjG2h1DD3qr0K",
    "razy": 1
   }
  },
@@ -1259,6 +1265,18 @@
    "klucze": [
     "twitch:BrainyEnthusiasticHorseRuleFive-lNLkPkg5qdX_nISA",
     "twitch:ArtisticResilientBeaverPupper-i-qYjnvkpICZRF3y"
+   ]
+  },
+  {
+   "media_id": "18116946935155993",
+   "kiedy": "2026-11-21T11:19:48.958Z",
+   "kanaly": [
+    "baupenner",
+    "chiblee"
+   ],
+   "klucze": [
+    "twitch:FunAdorableTitanRaccAttack-l1bsjG2h1DD3qr0K",
+    "twitch:HonorableFriendlyDolphinWutFace-BYrgqZ2J3N9MfDxh"
    ]
   }
  ],
