@@ -1,0 +1,2027 @@
+{
+ "run": {
+  "date": "2026-11-22",
+  "slot": "rano",
+  "generated_at": "2026-11-22T05:16:46.975Z",
+  "candidates": 98,
+  "with_free_image": 36,
+  "ready": 17
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 288",
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "rss:Mental Floss": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4259",
+  "drugie-zrodlo": "ok 17/33"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego organizator szkolnictwa artystycznego w Kiszyniowie (na znaczku pocztowym) nie ukończył studiów?",
+   "article": {
+    "title": "Włodzimierz Okuszko",
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Okuszko",
+    "extract": "Włodzimierz Okuszko (rum. Vladimir Ocușco; ur. 7 lutego 1862 w Oszmianie, zm. 1 lutego 1919 w Kiszyniowie) – polski malarz, rysownik, pedagog i działacz społeczny, związany z Besarabią."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Stamp_of_Moldova._Vladimir_Okushko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_Moldova._Vladimir_Okushko.jpg",
+    "file": "File:Stamp of Moldova. Vladimir Okushko.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 237,
+    "height": 350,
+    "ok": true
+   }
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…ile procesji w trakcie Wielkiego Tygodnia przemierza ulice miasta Popayán?",
+   "article": {
+    "title": "Procesje w Wielkim Tygodniu w Popayán",
+    "url": "https://pl.wikipedia.org/wiki/Procesje_w_Wielkim_Tygodniu_w_Popay%C3%A1n",
+    "extract": "Procesje w Wielkim Tygodniu w Popayán (hiszp. Las procesiones de Semana Santa de Popayán) – coroczne procesje odbywające się w Wielkim Tygodniu w mieście Popayán, w departamencie Cauca, w południowo-zachodniej Kolumbii.\nW 2009 roku, podczas odbywającej się w Abu Zabi 4. sesji Międzyrządowego Komitetu ds."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Semana Santa en Popayán (13903419261).jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że 13. rozdział serialu The Mandalorian wcale nie był pechowy pod względem nagród?",
+   "article": {
+    "title": "Rozdział 13: Jedi",
+    "url": "https://pl.wikipedia.org/wiki/Rozdzia%C5%82_13:_Jedi",
+    "extract": "Rozdział 13: Jedi (ang. Chapter 13: The Jedi) – piąty odcinek drugiego sezonu amerykańskiego serialu telewizyjnego The Mandalorian. Reżyserem i scenarzystą odcinka był Dave Filoni. W głównej roli Mandalorianina wystąpił Pedro Pascal."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto od 1998 roku próbuje wrócić do domu?",
+   "article": {
+    "title": "Karl Bushby",
+    "url": "https://pl.wikipedia.org/wiki/Karl_Bushby",
+    "extract": "Karl Bushby (ur. 30 marca 1969 w Hull) – brytyjski podróżnik, były żołnierz wojsk powietrznodesantowych i autor książek, znany z realizacji Goliath Expedition – próby pokonania pieszo trasy dookoła świata z Punta Arenas w Chile do rodzinnego Hull w Anglii. Wyprawę rozpoczął w 1998 roku.\nW listopadzie 2026 roku Bushby dotarł do rodzinnego miasta Hull."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Karl Bushby, Kingston upon Hull Nov26 (cropped).jpg)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co tworzy zieloną brodę u hełmika zielonobrodego?",
+   "article": {
+    "title": "Hełmik zielonobrody",
+    "url": "https://pl.wikipedia.org/wiki/He%C5%82mik_zielonobrody",
+    "extract": "Hełmik zielonobrody, hełmik (Oxypogon guerinii) – gatunek małego ptaka z rodziny kolibrowatych (Trochilidae), należącej do rzędu krótkonogich (Apodiformes). Jest endemitem Kolumbii, występującym w Kordylierze Wschodniej. Zasiedla przede wszystkim wysokogórskie páramo, gdzie jest silnie związany z roślinnością z rodzaju Espeletia. Samiec ma charakterystyczną lśniącą zieloną „brodę” oraz jasny czub."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Oxypogon guerinii 236915214.jpg)"
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który eurosceptyczny zbiór opowiadań reklamowano hasłem: „Książka nie tylko dla faszystów”?",
+   "article": {
+    "title": "Bunt (zbiór opowiadań)",
+    "url": "https://pl.wikipedia.org/wiki/Bunt_(zbi%C3%B3r_opowiada%C5%84)",
+    "extract": "Bunt – zbiór opowiadań fantastyczno-socjologicznych autorstwa Tomasza Szczepańskiego, publikującego pod pseudonimem Barnim Regalica, wydany w 1999 roku przez wydawnictwo Rekonkwista. Zbiór składa się z siedmiu powiązanych ze sobą opowiadań.\nZbiór przedstawia satyryczną, skrajnie eurosceptyczną wizję integracji europejskiej, konfliktów narodowościowych i polityki wielokulturowości, prowadzących do wybuchu nacjonalistycznego powstania. Akcja rozgrywa się w alternatywnej wizji niedalekiej przyszłości, w której Polska utraciła niepodległość i została podzielona na euroregiony podporządkowane obcym ośrodkom władzy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…które państwa zgłaszają współcześnie roszczenia do ławicy Bajo Nuevo na Morzu Karaibskim, a które zgłaszały je w przeszłości?",
+   "article": {
+    "title": "Ławica Bajo Nuevo",
+    "url": "https://pl.wikipedia.org/wiki/%C5%81awica_Bajo_Nuevo",
+    "extract": "Ławica Bajo Nuevo (hiszp. Bajo Nuevo, ang. Bajo Nuevo Bank, także Petrel Islands) – niezamieszkana ławica koralowa z niewielkimi wynurzonymi wysepkami na Morzu Karaibskim, około 288 km na południowy zachód od Jamajki. Ma około 26 km długości i 9 km szerokości."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Bajo Nuevo ISS004-E-7525.jpg)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak Paratropis maskuje się na dnie lasu?",
+   "article": {
+    "title": "Paratropis",
+    "url": "https://pl.wikipedia.org/wiki/Paratropis",
+    "extract": "Paratropis – rodzaj pająków z infrarzędu ptaszników i rodziny Paratropididae. Obejmuje 30 opisanych gatunków."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Paratropis_tuxtlensis_adult_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paratropis_tuxtlensis_adult_male.jpg",
+    "file": "File:Paratropis tuxtlensis adult male.jpg",
+    "artist": "Alejandro Valdez-Mondragón, Jorge I. Mendoza, Oscar F. Francke",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 927,
+    "height": 795,
+    "ok": true
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy Rhamphus robi miny, a kiedy dziurki?",
+   "article": {
+    "title": "Rhamphus",
+    "url": "https://pl.wikipedia.org/wiki/Rhamphus",
+    "extract": "Rhamphus – rodzaj chrząszczy z rodziny ryjkowcowatych i podrodziny Curculioninae. Obejmuje 53 opisane gatunki. Zamieszkują wszystkie kontynenty oprócz Ameryk i Antarktydy. Żerują na liściach."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rhamphus_pulicarius%2C_Lake_Elsi%2C_North_Wales%2C_July_2014_%2818127033438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rhamphus_pulicarius,_Lake_Elsi,_North_Wales,_July_2014_(18127033438).jpg",
+    "file": "File:Rhamphus pulicarius, Lake Elsi, North Wales, July 2014 (18127033438).jpg",
+    "artist": "Janet Graham",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1071,
+    "height": 1500,
+    "ok": true
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Recreational drug use in animals: Alcohol in particular, but also substances extracted from other animals.",
+   "article": {
+    "title": "Recreational drug use in animals",
+    "url": "https://en.wikipedia.org/wiki/Recreational_drug_use_in_animals",
+    "extract": "Several non-human animal species are said to engage in apparent recreational drug use, that is, the intentional ingestion of psychoactive substances in their environment for pleasure, though claims of such behavior in the wild are often controversial. This is distinct from zoopharmacognosy, in which animals ingest or topically apply non-food substances for their health benefits, as a form of self-medication."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "M. K. Stalin: What if old Joe was Tamil?",
+   "article": {
+    "title": "M. K. Stalin",
+    "url": "https://en.wikipedia.org/wiki/M._K._Stalin",
+    "extract": "Muthuvel Karunanidhi Stalin (born 1 March 1953) is an Indian politician and statesman who served as the eighth chief minister of Tamil Nadu from 2021 to 2026. He became president of the Dravida Munnetra Kazhagam (DMK) on 28 August 2018, after serving as the party's working president from January 2017 to August 2018.\nStalin is the third son of former Tamil Nadu chief minister M. Karunanidhi. He completed his education at Presidency College, Madras, in 1973."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "GODL-India (File:The Chief Minister of Tamil Nadu, Thiru MK Stalin.jpg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ithaa: The world's first underwater restaurant.",
+   "article": {
+    "title": "Ithaa",
+    "url": "https://en.wikipedia.org/wiki/Ithaa",
+    "extract": "Ithaa (Dhivehi: އިތާ, meaning \"mother of pearl\") is an undersea restaurant located 5 metres (16 ft) below sea level at the Conrad Maldives Rangali Island in Alif Dhaal Atoll in the Republic of Maldives."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.5 (File:Ithaa inside.JPG)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that John of Noyon was secretly enlisted by a queen to bypass the king's handpicked lawyers and ambush him at his own divorce hearing?",
+   "article": {
+    "title": "John of Noyon",
+    "url": "https://en.wikipedia.org/wiki/John_of_Noyon",
+    "extract": "John of Noyon (French: Jean; c. 1160–1204), sometimes called John Faicete, was a French theologian and statesman. After joining the Fourth Crusade, he became bishop-elect of Acre and chancellor of Emperor Baldwin I of Constantinople."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cornfield Bomber: An F-106 jet fighter made a perfect gear-up landing in a farmer's field – after the pilot had ejected at 15,000 feet (4,600 m).",
+   "article": {
+    "title": "Cornfield Bomber",
+    "url": "https://en.wikipedia.org/wiki/Cornfield_Bomber",
+    "extract": "The \"Cornfield Bomber\" is the nickname given to a Convair F-106 Delta Dart of the United States Air Force's 71st Fighter-Interceptor Squadron which made an unpiloted landing in a farmer's field in Montana in 1970. Suffering only minor damage after the pilot had ejected from the aircraft during a training mission gone awry, the aircraft was recovered, repaired, and returned to service. It is currently on display at the National Museum of the United States Air Force at Wright-Patterson Air Force Base near Dayton, Ohio."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:F-106 unmanned landing.jpg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jesús Malverde: A popular saint among drug dealers in Mexico.",
+   "article": {
+    "title": "Jesús Malverde",
+    "url": "https://en.wikipedia.org/wiki/Jes%C3%BAs_Malverde",
+    "extract": "Jesús Malverde (pronounced [xeˈsus malˈbeɾde]) born Jesús Juárez Matzo Campos, 24 December 1870 – 3 May 1909), commonly referred to as the \"generous bandit\", \"angel of the poor\", or the \"narco-saint\", was a Mexican bandit and folklore hero in the Mexican state of Sinaloa.\nHe was of Yoreme and Spanish heritage. He is a \"Robin Hood\" figure who was supposed to have stolen from the rich to give to the poor. He would steal gold coins from the wealthy residents of Culiacán, throwing his earnings into the doorways belonging to impoverished citizens which eventually earned him his name."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Effigy of Jesus Malverde.jpg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that North Korean dancer Jo Myong Ae gained a fanbase of more than 17,000 people in South Korea?",
+   "article": {
+    "title": "Jo Myong Ae",
+    "url": "https://en.wikipedia.org/wiki/Jo_Myong_Ae",
+    "extract": "Jo Myong Ae (Korean: 조명애), alternatively romanized as Cho Myung Ae, is a North Korean dancer and actress. She became widely known in South Korea for appearances in the 2000s during the Sunshine Policy, including appearances in the first television show collaboration between North and South Korea and the first South Korean ad featuring a North Korean. She gained a large fanbase in South Korea with more than 17,000 members. She has not been seen by the public since her appearances in the television show in 2007."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Xavleg­bmaoff­fassss­itimiw­oamndu­troabc­wapwae­iippoh­fffx: A South African grindcore band known for their strange name and even stranger logo.",
+   "article": {
+    "title": "Xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx",
+    "url": "https://en.wikipedia.org/wiki/Xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx",
+    "extract": "Xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx, often abbreviated as Xavleg (, ZAV-lehg) and sometimes styled with capitalization of the final \"x\" in the name, is a South African death metal band known for their brutal style and comedic themes involving Internet memes and graphic violence."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aldibo­rontip­hosky­phornio­stikos: Published in 1825 as a Victorian children's book and described as \"a round game for merry parties\", the object of the game was to quickly recite alphabetical tongue-twisting mock-Latin gibberish.",
+   "article": {
+    "title": "Aldiborontiphoskyphorniostikos",
+    "url": "https://en.wikipedia.org/wiki/Aldiborontiphoskyphorniostikos",
+    "extract": "Aldiborontiphoskyphorniostikos was a book that contained a game in which players had to read the snippet for each letter of the alphabet as fast as they could without making a mistake. Alternatively, several players could read the snippets in a staggered manner. The snippets for each letter contain tongue-twisting mock-Latin names whose content is cumulatively appended at the end of each new letter snippet.\nThe book is based on Chrononhotonthologos, which in turn was based on Henry Fielding's Tom Thumb."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Odds_nipperkins.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Odds_nipperkins.png",
+    "file": "File:Odds nipperkins.png",
+    "artist": "R Stennet",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 457,
+    "height": 397,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20110721214454/http://www.cts.dmu.ac.uk/AnaServer?hockliffe+120054+hoccview.anv"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Chanel suit of Jacqueline Kennedy: Made iconic by being worn during her husband's assassination.",
+   "article": {
+    "title": "Pink Chanel suit of Jacqueline Kennedy",
+    "url": "https://en.wikipedia.org/wiki/Pink_Chanel_suit_of_Jacqueline_Kennedy",
+    "extract": "Jacqueline Bouvier Kennedy was wearing a pink suit that was styled in the fashion of Chanel when her husband, U.S. president John F. Kennedy, was assassinated in Dallas, Texas, on November 22, 1963. She insisted on wearing the suit, stained with his blood, during the swearing-in of Lyndon B. Johnson that afternoon and for the flight back to Washington, D.C. Jacqueline Kennedy was a fashion icon, and the suit is the most referenced and revisited among her clothing items.\nMade of wool bouclé, the double-breasted raspberry pink and navy trim collared suit was matched with a trademark pink pillbox hat and white gloves. A long-time question among fashion historians and experts was whether the suit was made by Chanel in France or a quality copy purchased from New York's Chez Ninon."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_and_Mrs_Kennedy_deplane_from_Air_Force_One_%283083217259%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:President_and_Mrs_Kennedy_deplane_from_Air_Force_One_(3083217259)_(cropped).jpg",
+    "file": "File:President and Mrs Kennedy deplane from Air Force One (3083217259) (cropped).jpg",
+    "artist": "Cecil W. Stoughton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 356,
+    "height": 548,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150629220544/http://fashion.telegraph.co.uk/columns/belinda-white/TMG8422114/Giorgio-Armani-made-a-Chanel-suit-for-Katie-Holmes.html",
+    "title": "Giorgio Armani made a Chanel suit for Katie Holmes - Telegraph",
+    "matched": [
+     "chanel",
+     "jacqueline",
+     "kennedy",
+     "iconic",
+     "assassination"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mellified man: A legendary medicinal substance from Arabia involving honey.",
+   "article": {
+    "title": "Mellified man",
+    "url": "https://en.wikipedia.org/wiki/Mellified_man",
+    "extract": "A mellified man, also known as a human mummy confection, was a legendary medicinal substance created by steeping a human cadaver in honey. The concoction is detailed in Chinese medical sources, including the Bencao Gangmu of the 16th century. Relying on a second-hand account, the text reports a story that some elderly men in Arabia, nearing the end of their lives, would submit themselves to a process of mummification in honey to create a healing confection.\nThis process differed from a simple body donation because of the aspect of self-sacrifice; the mellification process would ideally start before death."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mellified_man.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mellified_man.JPG",
+    "file": "File:Mellified man.JPG",
+    "artist": "Sachem31",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 512,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150723101625/http://outofedenwalk.nationalgeographic.com/2015/05/13/honey-im-dead/",
+    "title": "In Ancient Burial, Embalming With Honey | Out Of Eden Walk",
+    "matched": [
+     "mellified",
+     "medicinal",
+     "arabia",
+     "honey"
+    ]
+   }
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Saparmurat Niyazov: Eccentric Turkmen dictator who ruled the nation for 15 years. The highlights of his resume include closing down all libraries outside the national capital, because he believed all his people needed to read is Quran and his autobiography. Some of his legacy are items listed on this page as well.",
+   "article": {
+    "title": "Saparmurat Niyazov",
+    "url": "https://en.wikipedia.org/wiki/Saparmurat_Niyazov",
+    "extract": "Saparmurat Atayevich Niyazov (19 February 1940 – 21 December 2006) was a Turkmen politician and dictator who led Turkmenistan from 1985 until his death in 2006. He was the first secretary of the Communist Party of Turkmenistan from 1985 until 1991 and supported the 1991 Soviet coup attempt. He continued to rule Turkmenistan as the first president for 15 years after independence from the Soviet Union in 1991.\nTurkmen media referred to Niyazov using the title His Excellency Saparmyrat Türkmenbaşy, President of Turkmenistan and Chairman of the Cabinet of Ministers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nyyazov_in_February_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nyyazov_in_February_1998.jpg",
+    "file": "File:Nyyazov in February 1998.jpg",
+    "artist": "Danny Gys",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 934,
+    "height": 1174,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.telegraph.co.uk/news/worldnews/asia/turkmenistan/1404016/A-date-with-destiny-for-Turkmen-leader.html"
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Parasitic twin: A medical condition where one of two conjoined twins lacks essential organs and must rely on the other for survival, often leeching its blood. An especially rare variant of this, fetus in fetu, involves one partially formed fetus developing within the body of the other.",
+   "article": {
+    "title": "Parasitic twin",
+    "url": "https://en.wikipedia.org/wiki/Parasitic_twin",
+    "extract": "A parasitic twin, also known as an asymmetrical twin or unequal conjoined twin, occurs when a twin embryo begins developing in utero, but the pair does not fully separate, and one embryo maintains dominant development at the expense of the other. It results from the same processes that also produces vanishing twins and conjoined twins, and may represent a continuum between the two. In parasitic twins, one ceases development during gestation and is vestigial to a mostly fully formed, otherwise healthy individual twin. The undeveloped twin is termed as parasitic, because it is incompletely formed or wholly dependent on the body functions of the complete fetus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/JohannSchenk-Twins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JohannSchenk-Twins.jpg",
+    "file": "File:JohannSchenk-Twins.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 510,
+    "ok": true
+   },
+   "second_source": {
+    "name": "embryo.asu.edu",
+    "url": "https://embryo.asu.edu/pages/parasitic-twins",
+    "title": "Parasitic Twins | Embryo Project Encyclopedia",
+    "matched": [
+     "parasitic",
+     "medical",
+     "condition",
+     "conjoined",
+     "twins",
+     "organs",
+     "often",
+     "blood"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dinner in the Sky: Enjoy a delicious meal – suspended 150 feet (46 m) in the air.",
+   "article": {
+    "title": "Dinner in the Sky",
+    "url": "https://en.wikipedia.org/wiki/Dinner_in_the_Sky",
+    "extract": "Dinner in the Sky is a Belgian-based novelty restaurant service which uses a crane to hoist its diners, table, and waiting staff 150 feet (46 m) into the air. Forbes magazine called it one of the world's ten most unusual restaurants.\nDinner in the Sky has mobile services available in 60 nations; the company has operations in various cities, including Paris and Las Vegas."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Dinner_in_the_Sky_2012_Vilnius%2C_Lithuania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dinner_in_the_Sky_2012_Vilnius,_Lithuania.jpg",
+    "file": "File:Dinner in the Sky 2012 Vilnius, Lithuania.jpg",
+    "artist": "Nebo.Oly",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 960,
+    "height": 640,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.forbes.com/2006/12/18/most-unusual-restaurants-forbeslife-cx_ls_1219mostunsusualrestaurants_slide.html"
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bull of Heaven (band): A group that is known for their extremely long albums. Most known for 210: Like a Wall in Which An Insect Lives and Gnaws at a runtime of 5.7 years; their longest album is 310: ΩΣPx0(2^18×5^18)p*k*k*k at 3.343 quindecillion years long.",
+   "article": {
+    "title": "Bull of Heaven (band)",
+    "url": "https://en.wikipedia.org/wiki/Bull_of_Heaven_(band)",
+    "extract": "Bull of Heaven is an American experimental music project formed in Denver, Colorado in 2008. The project originally consisted of Neil Keener and Clayton Counts with help from various contributors. Since Counts' death in 2016, Keener has been the only member.\nBull of Heaven is mainly known for their extremely and exaggeratedly long pieces of music, mainly produced by Counts, with several pieces in their discography ranging from milliseconds to many millions of years long."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Photograph_of_Bull_of_Heaven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Bull_of_Heaven.jpg",
+    "file": "File:Photograph of Bull of Heaven.jpg",
+    "artist": "Clayton Counts",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 640,
+    "height": 423,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20140223204622/http://mamacolive.com/thefly/blog/6717/Long-Players/"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Concetta Brincat is the first known female Maltese-language novelist?",
+   "article": {
+    "title": "Concetta Brincat",
+    "url": "https://en.wikipedia.org/wiki/Concetta_Brincat",
+    "extract": "Concetta Brincat (born Concetta Sciberras; 1870 – 1940) was a Maltese author who is the first known female novelist to write in the Maltese language. Her first novel, Il-Familja de Valereux jew Louis Mitluf Ġewwa l-Bosk (transl. The de Valereux Family, or, Louis Lost in the Woods), was published in 2025 despite being written in 1919."
+   },
+   "related": [
+    "Maltese language"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Concetta_Brincat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Concetta_Brincat.jpg",
+    "file": "File:Concetta Brincat.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 945,
+    "height": 1225,
+    "ok": true
+   },
+   "second_source": {
+    "name": "um.edu.mt",
+    "url": "https://www.um.edu.mt/newspoint/upcomingevents/2025/conferenceonconcettabrincatthefirstfemalenovelist.html",
+    "title": "Conference on Concetta Brincat, the First Female Novelist - Newspoint",
+    "matched": [
+     "concetta",
+     "brincat",
+     "known",
+     "female",
+     "maltese",
+     "novelist"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jandek: A prolific and pseudonymous singer/songwriter active since 1978 who only grants the occasional interview and has never provided any biographical information.",
+   "article": {
+    "title": "Jandek",
+    "url": "https://en.wikipedia.org/wiki/Jandek",
+    "extract": "Jandek is the musical project of Sterling Smith (born October 26, 1945), a Houston, Texas-based American lo-fi folk singer. Since 1978, Jandek has independently released over 120 albums while granting an interview extremely rarely and providing no biographical information, releasing on a self-made label, \"Corwood Industries\". Jandek often plays an idiosyncratic and frequently atonal form of folk and blues music, frequently using an open and unconventional chord structure."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jandek_June2007_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jandek_June2007_(cropped).jpg",
+    "file": "File:Jandek June2007 (cropped).jpg",
+    "artist": "John Pham",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 447,
+    "height": 440,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tisue.net",
+    "url": "https://tisue.net/jandek/discussion.html",
+    "title": "Jandek: About Jandek",
+    "matched": [
+     "1978",
+     "jandek",
+     "prolific",
+     "singer",
+     "active",
+     "since",
+     "occasional",
+     "interview",
+     "never",
+     "provided"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Butt Fumble: Be careful where you run with that ball, Mark.",
+   "article": {
+    "title": "Butt Fumble",
+    "url": "https://en.wikipedia.org/wiki/Butt_Fumble",
+    "extract": "The Butt Fumble was a notorious American football play from a National Football League (NFL) game played on Thanksgiving Day, November 22, 2012, between the New York Jets and New England Patriots.\nIn front of the home crowd of over 79,000 fans at MetLife Stadium and a primetime television audience of over 20 million, Jets quarterback Mark Sanchez collided with the buttocks of his teammate, offensive lineman Brandon Moore, causing a fumble, which was then recovered by the Patriots' safety Steve Gregory and returned for a touchdown. The play was the centerpiece of a disastrous sequence in the second quarter, wherein the Jets lost three fumbles and the Patriots scored three touchdowns in the span of 52 seconds of game time. In that second quarter, the Jets held the ball for over 12 minutes (out of a possible 15), but managed to be outscored 35–3."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/New_Meadowlands_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:New_Meadowlands_Stadium.jpg",
+    "file": "File:New Meadowlands Stadium.jpg",
+    "artist": "RYANonWIKIPEDIA at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 512,
+    "height": 384,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.theringer.com/nfl/2022/11/22/23471718/new-york-jets-butt-fumble-10-year-anniversary-mark-sanchez"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1916 VFL season: Finishing the regular season with the worst record…and as champions?",
+   "article": {
+    "title": "1916 VFL season",
+    "url": "https://en.wikipedia.org/wiki/1916_VFL_season",
+    "extract": "The 1916 VFL season was the 20th season of the Victorian Football League (VFL), the highest-level senior Australian rules football competition in Victoria. Played during the peak of World War I, the season was the shortest in the league's history and featured the fewest clubs, with only four clubs – Carlton, Collingwood, Fitzroy and Richmond – featuring in 1916. The season ran from 6 May to 2 September, comprising a twelve-match home-and-away season followed by a four-week finals series featuring all four clubs.\nFitzroy won the premiership, its sixth VFL premiership; despite finishing in last place during the home-and-away season with a 2–9–1 win–loss–draw record, Fitzroy won all three of its finals, culminating in defeating Carlton by 29 points in the 1916 VFL grand final."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fitzroy_fc_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fitzroy_fc_1916.jpg",
+    "file": "File:Fitzroy fc 1916.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1259,
+    "height": 883,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://afltables.com/afl/seas/1916.html#lad"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Badlands Guardian: A natural topographic feature in Alberta, Canada, which, when viewed from above, looks remarkably like a human wearing a First Nations headdress and earbuds.",
+   "article": {
+    "title": "Badlands Guardian",
+    "url": "https://en.wikipedia.org/wiki/Badlands_Guardian",
+    "extract": "The Badlands Guardian  is a geomorphological feature located near Medicine Hat in the southeast corner of Alberta, Canada. The feature was discovered in 2005 by Lynn Hickox through use of Google Earth."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Area_around_Badlands_Guardian.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Area_around_Badlands_Guardian.png",
+    "file": "File:Area around Badlands Guardian.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 115,
+    "height": 170,
+    "ok": true
+   },
+   "second_source": {
+    "name": "smh.com.au",
+    "url": "https://www.smh.com.au/technology/grans-canyon-is-a-net-sensation-20061113-gdotdh.html",
+    "title": "Gran&#x27;s canyon is a net sensation",
+    "matched": [
+     "badlands",
+     "guardian",
+     "natural",
+     "feature",
+     "alberta",
+     "canada",
+     "looks",
+     "remarkably"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Final Experiment (expedition): An expedition that took Flat Earthers to Antarctica to see the absolute proof that they're wrong. Naturally, some Flat Earthers continued to ignore it.",
+   "article": {
+    "title": "The Final Experiment (expedition)",
+    "url": "https://en.wikipedia.org/wiki/The_Final_Experiment_(expedition)",
+    "extract": "The Final Experiment was a 2024 expedition to Antarctica to test the validity of modern flat Earth beliefs. It took three years of preparation and was organized by Will Duffy, an American Christian pastor who invited forty-eight online content creators to witness the midnight sun, a natural phenomenon that contradicts most flat Earth beliefs. The expedition included both flat Earthers and \"globe Earthers\" (people who accept the spherical Earth), selected to represent both sides of the flat Earth debate.\nThe expedition members traveled from Chile to Union Glacier Camp in West Antarctica and livestreamed the midnight sun for several days."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Antarctica_%2811254517513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Antarctica_(11254517513).jpg",
+    "file": "File:Antarctica (11254517513).jpg",
+    "artist": "Christopher Michel",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1280,
+    "height": 760,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20241226141644/https://www.news.com.au/technology/science/space/sometimes-you-are-wrong-flat-earthers-admit-defeat-after-seeing-24hour-antarctica-sun/news-story/0bc1d6b85396c04e163ba1a1b5b7bb21",
+    "title": "‘Sometimes you are wrong’: Flat earthers admit defeat after seeing 24-hour Antarctica sun | news.com.au — Australia’s leading news site",
+    "matched": [
+     "final",
+     "experiment",
+     "expedition",
+     "earthers",
+     "antarctica",
+     "wrong",
+     "naturally",
+     "continued"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Drapetomania: \"Those slaves want to be free? They must be mentally ill!\"",
+   "article": {
+    "title": "Drapetomania",
+    "url": "https://en.wikipedia.org/wiki/Drapetomania",
+    "extract": "Drapetomania is a pseudoscientific mental disorder proposed in 1851 by American physician Samuel A. Cartwright as the cause of enslaved Americans choosing to escape enslavement. Deriving its name from the Greek δραπέτης (drapetēs, 'a runaway [slave]') and μανία (mania, 'madness, frenzy'), Cartwright's hypothesis was based on the belief that slavery was such an improvement upon the lives of slaves that only those suffering from some form of mental illness would wish to escape.\nCartwright specifically cited the tendency of slaves to flee their enslavers. Since slaves happy with their condition would not want to leave, he inferred that such people had to be sick, impervious to the natural order of things."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Samuelcartwright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Samuelcartwright.jpg",
+    "file": "File:Samuelcartwright.jpg",
+    "artist": "The original uploader was Cyborg Ninja at English Wikipedia.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 120,
+    "height": 157,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://pubmed.ncbi.nlm.nih.gov/11075805"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Deportivo Wanka: An unfortunately named Peruvian football team whose strips are remarkably popular in Britain.",
+   "article": {
+    "title": "Deportivo Wanka",
+    "url": "https://en.wikipedia.org/wiki/Deportivo_Wanka",
+    "extract": "Deportivo Wanka is a Peruvian football club, based in the city of Huancayo in the Peruvian Andes. It was founded in 1969 and is named after the Wankas people who formerly inhabited the area and after whom the city of Huancayo is named. The current Deportivo Wanka is merged with Deportivo Pesquero of Chimbote but its home city is still Huancayo. They play their home games at Estadio Huancayo."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cd_wanka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cd_wanka.png",
+    "file": "File:Cd wanka.png",
+    "artist": "Deportivo Wanka",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 400,
+    "height": 500,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20120204091430/http://www.cnnsi.com/2004/soccer/11/04/s.america/",
+    "title": "SI.com - Soccer - South America: World's highest venue criticized again - Thursday November 4, 2004 12:03PM",
+    "matched": [
+     "deportivo",
+     "wanka",
+     "named",
+     "peruvian",
+     "football"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jerome of Sandy Cove: A man, unable to speak any language known to locals, was discovered on the beaches of Nova Scotia in 1861 with his legs cut off. He lived for fifty more years, but remains unidentified to this day.",
+   "article": {
+    "title": "Jerome of Sandy Cove",
+    "url": "https://en.wikipedia.org/wiki/Jerome_of_Sandy_Cove",
+    "extract": "Jerome (also spelled Jérôme; c. 1830s – April 15, 1912) was an unidentified man discovered on the beach of Sandy Cove, Digby, Nova Scotia, Canada, on September 8, 1863. He was found with both legs cut off to stumps, and when questioned by locals he said very little, suggesting he did not speak English or French. When asked for his name he mumbled something that resembled \"Jerome\", and so that was how he became known."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jerome_of_Sandy_Cove.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jerome_of_Sandy_Cove.png",
+    "file": "File:Jerome of Sandy Cove.png",
+    "artist": "Daily Echo",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 301,
+    "height": 447,
+    "ok": true
+   },
+   "second_source": {
+    "name": "saltwire.com",
+    "url": "https://www.saltwire.com/atlantic-canada/the-story-of-jerome-the-southwestern-ns-mystery-that-never-ends-even-110-years-after-his-death-100717898",
+    "title": "The story of Jerome: The southwestern N.S. mystery that never ends, even 110 years after his death",
+    "matched": [
+     "1861",
+     "jerome",
+     "sandy",
+     "speak",
+     "language",
+     "known",
+     "discovered",
+     "scotia",
+     "lived"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Trial of the Pyx: Whence the British Pound lands in court every year.",
+   "article": {
+    "title": "Trial of the Pyx",
+    "url": "https://en.wikipedia.org/wiki/Trial_of_the_Pyx",
+    "extract": "The Trial of the Pyx () is a judicial ceremony in the United Kingdom to ensure that newly minted coins from the Royal Mint conform to their required dimensional and fineness specifications. Although modern coin quality is tested throughout the year under laboratory conditions, the event has become an annual historic tradition. Each year, thousands of coins are put on trial, consisting of both those struck for circulation and non-circulating commemorative coins.\nFirst held in the 12th century, the event formerly took place in the Court of Exchequer; since 1870 it has been held in the hall of the Worshipful Company of Goldsmiths in London, where the Deputy Master of the Mint (Chief Executive of the Royal Mint) is in effect put on trial before a High Court judge as metallurgical assayers and selected leaders from the financial world sample coins from the mint's output."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_Livery_Hall_at_Goldsmiths%27_Hall-3269860504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Livery_Hall_at_Goldsmiths%27_Hall-3269860504.jpg",
+    "file": "File:The Livery Hall at Goldsmiths' Hall-3269860504.jpg",
+    "artist": "Matt Brown",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.ianvisits.co.uk/articles/pyx-and-ceremony-london-hosts-one-of-englands-oldest-legal-rituals-87497/"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elmer McCurdy: A dead criminal whose mummified body was bought by carnies and used as a prop for decades, its later owners not even knowing the corpse was real.",
+   "article": {
+    "title": "Elmer McCurdy",
+    "url": "https://en.wikipedia.org/wiki/Elmer_McCurdy",
+    "extract": "Elmer J. McCurdy (January 1, 1880 – October 7, 1911) was an American outlaw who was killed in a shoot-out with police after robbing a train in Oklahoma in October 1911. Dubbed \"The Bandit Who Wouldn't Give Up\", his mummified body was first put on display at an Oklahoma funeral home and then became a fixture on the traveling carnival and sideshow circuit during the 1920s through the 1960s. After changing hands several times (it is not possible under U.S. law to own a human cadaver), McCurdy's remains eventually wound up at The Pike amusement zone in Long Beach, California, where they were discovered by crew members for the television series The Six Million Dollar Man and positively identified in December 1976.\nIn April 1977, McCurdy's body was buried at the Summit View Cemetery in Guthrie, Oklahoma."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Elmer_McCurdy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Elmer_McCurdy.jpg",
+    "file": "File:Elmer McCurdy.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 180,
+    "height": 200,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150111113315/http://www.npr.org/2015/01/09/376097471/the-long-strange-60-year-trip-of-elmer-mccurdy",
+    "title": "The Long, Strange, 60-Year Trip of Elmer McCurdy : NPR",
+    "matched": [
+     "elmer",
+     "mccurdy",
+     "mummified",
+     "later",
+     "owners",
+     "corpse"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Flannan Isles Lighthouse: Located on Eilean Mór, this lighthouse to the west of Scotland is the subject of an enduring mystery over the disappearance of its keepers in 1900.",
+   "article": {
+    "title": "Flannan Isles Lighthouse",
+    "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse",
+    "extract": "Flannan Isles Lighthouse is a lighthouse near the highest point on Eilean Mòr, one of the Flannan Isles in the Outer Hebrides off the west coast of Scotland. In 1900, its three keepers disappeared under mysterious circumstances."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:St._Flannan%27s_Cell_and_Flannan_Isles_Lighthouse_-_geograph.org.uk_-_623920.jpg",
+    "file": "File:St. Flannan's Cell and Flannan Isles Lighthouse - geograph.org.uk - 623920.jpg",
+    "artist": "JJM",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 634,
+    "height": 429,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ibiblio.org",
+    "url": "https://www.ibiblio.org/lighthouse/heb.htm",
+    "title": "Lighthouses of the United Kingdom: Scotland's Western Isles",
+    "matched": [
+     "1900",
+     "flannan",
+     "isles",
+     "lighthouse",
+     "located",
+     "eilean",
+     "scotland",
+     "mystery",
+     "disappearance",
+     "keepers"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rockism and poptimism: What happens when pop music fans take themselves way too seriously? Actually, nothing fun.",
+   "article": {
+    "title": "Rockism and poptimism",
+    "url": "https://en.wikipedia.org/wiki/Rockism_and_poptimism",
+    "extract": "Rockism and poptimism are ideological arguments about popular music prevalent in mainstream music journalism. Rockism is the belief that rock music depends on values such as authenticity and artfulness, which elevate it over other forms of popular music.\nThe term \"rockism\" was coined in 1981 by English rock musician Pete Wylie. It soon became a pejorative used humorously by self-described \"anti-rockist\" music journalists."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pete_Wylie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pete_Wylie.jpg",
+    "file": "File:Pete Wylie.jpg",
+    "artist": "Paul Thompson",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 288,
+    "height": 432,
+    "ok": true
+   },
+   "second_source": {
+    "name": "popmatters.com",
+    "url": "https://www.popmatters.com/rockism-vs-poptimism-2495499446.html/",
+    "title": "No Apologies: A Critique of the Rockist v. Poptimist Paradigm &raquo; PopMatters",
+    "matched": [
+     "rockism",
+     "poptimism",
+     "happens",
+     "music",
+     "themselves",
+     "seriously",
+     "actually",
+     "nothing"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Stinky tofu: Fermented soybean curd is apparently a delicacy for some people. One external link describes its scent as \"a used tampon baking in the desert.\"",
+   "article": {
+    "title": "Stinky tofu",
+    "url": "https://en.wikipedia.org/wiki/Stinky_tofu",
+    "extract": "Stinky tofu (Chinese: 臭豆腐; pinyin: chòu dòufu) is a traditional Chinese delicacy made from fermented tofu, renowned for its distinctive and pungent aroma. Despite its strong odor, it typically has a surprisingly mild and savoury flavour. \nIt is commonly sold as a snack at night markets or roadside stalls, or served as a side dish in casual eateries rather than in formal restaurants. Traditionally, stinky tofu is fermented for several months in a brine containing vegetables and meat."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Stinkender_Tofu_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stinkender_Tofu_1.JPG",
+    "file": "File:Stinkender Tofu 1.JPG",
+    "artist": "Pilzland",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 1280,
+    "height": 957,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20130828190544/http://paper.sznews.com/szdaily/20060602/ca2324508.htm"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Peter Sotos: A writer and musician who explores serial killer and pedophile lore, while simultaneously praising them in his work. For one of his magazine covers, he used an image taken from real child pornography, which he plead guilty to possessing.",
+   "article": {
+    "title": "Peter Sotos",
+    "url": "https://en.wikipedia.org/wiki/Peter_Sotos",
+    "extract": "Peter Gus Sotos (born April 17, 1960) is an American author and musician. As an author, Sotos has 31 published books with several translated into foreign languages. In his books, Sotos writes about sadistic sexual criminals and sexually violent pornography in great detail, particularly involving children. His books tend to be first-person narratives, taking on the point of view of the sexual predator in order to portray sadistic and pedophilic sexual impulses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Peter_Sotos_at_Tesco_Fest_Day_2%2C_2011%2C_1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Peter_Sotos_at_Tesco_Fest_Day_2,_2011,_1_(cropped).jpg",
+    "file": "File:Peter Sotos at Tesco Fest Day 2, 2011, 1 (cropped).jpg",
+    "artist": "Beverly Hames/Beverly Battle",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://baltimorepostexaminer.com/understanding-peter-sotos-beyond-the-controversies/2024/06/12"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jumbo: An elephant with gigantism and legendary circus attraction, who gave his name to large things everywhere.",
+   "article": {
+    "title": "Jumbo",
+    "url": "https://en.wikipedia.org/wiki/Jumbo",
+    "extract": "Jumbo (December 25, 1860 – September 15, 1885), also known as Jumbo the Elephant and Jumbo the Circus Elephant, was a 19th-century male African bush elephant born in Sudan. Jumbo was exported to Jardin des Plantes, a zoo in Paris, and then transferred in 1865 to London Zoo in England. Despite public protest, Jumbo was sold to P. T. Barnum, who took him to the United States for exhibition in March 1882.\nThe elephant's name spawned the common word \"jumbo\", meaning large in size."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jumbo_poster_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jumbo_poster_1.jpg",
+    "file": "File:Jumbo poster 1.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 768,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20170909052747/http://www.etymonline.com/index.php?term=jumbo"
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "KRDK-TV mast: Would you expect the seventh-tallest structure in the world to be a TV station transmitter? Standing at 2,060 ft (627.8 m), alas it is.",
+   "article": {
+    "title": "KRDK-TV mast",
+    "url": "https://en.wikipedia.org/wiki/KRDK-TV_mast",
+    "extract": "The KRDK-TV mast is a television transmitting tower 3.5 miles (5.6 km) northeast of Galesburg in Traill County, North Dakota, United States.  It was completed in 1966 and is used by KRDK-TV (formerly KXJB-TV), which is licensed to Valley City, serving the Fargo and Grand Forks TV markets.\nAt 627.8 metres (2,060 ft), it is currently the tallest structure in the Western Hemisphere and the sixth-tallest structure in the world.  It stands 72.8 ft (22.2 m) taller than the nearby KVLY-TV mast in Blanchard, North Dakota, which was previously 1 metre (3.3 ft) taller until the removal of a VHF antenna reduced its height in 2019."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/KXJBfrombase.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:KXJBfrombase.jpeg",
+    "file": "File:KXJBfrombase.jpeg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 700,
+    "height": 927,
+    "ok": true
+   },
+   "second_source": {
+    "name": "structurae.net",
+    "url": "https://structurae.net/structures/data/index.cfm?ID=20014122",
+    "title": "KXJB Tower (Galesburg, 1966) | Structurae",
+    "matched": [
+     "2060",
+     "6278",
+     "tallest",
+     "structure",
+     "world",
+     "station",
+     "transmitter"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "PewDiePie vs T-Series: A competition between two YouTube channels to be the most subscribed channel.",
+   "article": {
+    "title": "PewDiePie vs T-Series",
+    "url": "https://en.wikipedia.org/wiki/PewDiePie_vs_T-Series",
+    "extract": "PewDiePie vs T-Series was an online rivalry between two YouTube channels, PewDiePie (run by Felix Kjellberg) and T-Series (run by the Indian record company of the same name), for the title of the most-subscribed YouTube channel. The rivalry began when T-Series's subscriber count began to near PewDiePie's in late 2018, who had held the title of most-subscribed YouTube channel since August 2013. The rivalry lasted for 8 months until PewDiePie was officially surpassed by T-Series in April 2019, a title T-Series would hold until being surpassed themselves by MrBeast in June 2024.\nMany YouTubers voiced their support for PewDiePie, including Markiplier, Jacksepticeye, MrBeast, DanTDM, KSI, H3h3Productions and Logan Paul."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pewdiepie_head_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pewdiepie_head_shot.jpg",
+    "file": "File:Pewdiepie head shot.jpg",
+    "artist": "Cold Ones Clips",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 700,
+    "height": 750,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20231207064711/https://www.youtube.com/watch?v=KtzBsKbPkHA",
+    "title": "THIS CHANNEL WILL OVERTAKE PEWDIEPIE! LWIAY #0046 - YouTube",
+    "matched": [
+     "pewdiepie",
+     "youtube",
+     "channels",
+     "channel"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Taiping Rebellion: One of the most lethal wars in history centers around a Chinese man claiming to be the brother of Jesus Christ.",
+   "article": {
+    "title": "Taiping Rebellion",
+    "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+    "extract": "The Taiping Rebellion (1850–1864) was a civil war in late imperial China fought between the ruling Qing dynasty and the rebelling Taiping Heavenly Kingdom. It was the deadliest civil war in history and the second-deadliest conflict in history overall. Estimates of the war's death toll range from 20 to 30 million, around 5–10% of the total Chinese population at the time, to 73–100 million, around 25% of the population. The Rebellion is widely considered to be the most important event in 19th-century Chinese history, and although the kingdom was defeated, the victory came at a great cost to the Qing dynasty's economy and political stability."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Regaining_the_Provincial_City_Anqing2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Regaining_the_Provincial_City_Anqing2.jpg",
+    "file": "File:Regaining the Provincial City Anqing2.jpg",
+    "artist": "Wu Youru",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 595,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://researchonline.lse.ac.uk/id/eprint/124690/"
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Frog battery: A curious experiment to determine the existence of animal electricity.",
+   "article": {
+    "title": "Frog battery",
+    "url": "https://en.wikipedia.org/wiki/Frog_battery",
+    "extract": "A frog battery is an electrochemical battery consisting of a number of dead frogs (or sometimes live ones), which form the cells of the battery connected in a series arrangement.  It is a kind of biobattery.  It was used in early scientific investigations of electricity and academic demonstrations.\nThe principle behind the battery is the injury potential created in a muscle when it is damaged, although this was not fully understood in the 18th and 19th centuries; the potential being caused incidentally due to the dissection of the frog's muscles."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Matteucci%27s_frog_battery_trimmed2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Matteucci%27s_frog_battery_trimmed2.jpg",
+    "file": "File:Matteucci's frog battery trimmed2.jpg",
+    "artist": "Carlo Matteucci. Spinningspark at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 717,
+    "height": 554,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jim Bakker: Televangelist founds a Christian theme park so successful that it competes with Disneyland, gets arrested for fraud and loses his park, then promptly returns to televangelism upon release. Also admitted to never fully reading the Bible until his imprisonment, and to getting information on it from Lyndon LaRouche.",
+   "article": {
+    "title": "Jim Bakker",
+    "url": "https://en.wikipedia.org/wiki/Jim_Bakker",
+    "extract": "James Orsen Bakker (; January 2, 1940 – October 5, 2026) was an American televangelist and convicted felon. Between 1974 and 1987, Bakker hosted the television program The PTL Club and its cable television platform, the PTL Satellite Network, with his then-wife, Tammy Faye. He also developed Heritage USA, a now-defunct Christian theme park in Fort Mill, South Carolina. After serving a prison sentence related to defrauding his parishioners, Bakker returned to televangelism in 2003, hosting The Jim Bakker Show until his 2026 death."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rev._Jim_Bakker_of_Charlotte_%281975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rev._Jim_Bakker_of_Charlotte_(1975).jpg",
+    "file": "File:Rev. Jim Bakker of Charlotte (1975).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1008,
+    "height": 1387,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20090308110631/http://www.time.com/time/magazine/article/0,9171,1101860217-143137,00.html",
+    "title": "Power, Glory --and Politics - TIME",
+    "matched": [
+     "bakker",
+     "televangelist",
+     "christian",
+     "theme",
+     "successful",
+     "competes",
+     "disneyland"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lesbian rule: Not the replacement for the Patriarchy, but an archaic term meaning legal flexibility (and originally a building tool from Lesbos).",
+   "article": {
+    "title": "Lesbian rule",
+    "url": "https://en.wikipedia.org/wiki/Lesbian_rule",
+    "extract": "A Lesbian rule was historically a flexible mason's rule made of lead that could be bent to the curves of a molding, and used to measure or reproduce irregular curves.  Lesbian rules were originally constructed of a pliable kind of lead found on the island of Lesbos. It is from the island that the ruler gets its name."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Krzywik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Krzywik.jpg",
+    "file": "File:Krzywik.jpg",
+    "artist": "Zielu20",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 311,
+    "height": 237,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://www.oed.com/search/dictionary/?q=lesbian+rule"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Covered smut (barley): You may snicker now, but if you had any of these, I guarantee you wouldn't be laughing much.",
+   "article": {
+    "title": "Covered smut (barley)",
+    "url": "https://en.wikipedia.org/wiki/Covered_smut_(barley)",
+    "extract": "Covered smut of barley is caused by the fungus Ustilago hordei. The disease is found worldwide and it is more extensively distributed than either loose smut or false loose smut."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nsr-slika-330.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nsr-slika-330.png",
+    "file": "File:Nsr-slika-330.png",
+    "artist": "Martin Cilenšek",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 980,
+    "height": 1887,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20070321172343/http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/prm2431"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Urantia Book: Over two thousand pages of anonymous, religious, subconscious ramblings on religion and \"God\" (whatever that means in the billion planets out there).",
+   "article": {
+    "title": "The Urantia Book",
+    "url": "https://en.wikipedia.org/wiki/The_Urantia_Book",
+    "extract": "The Urantia Book (sometimes called The Urantia Papers or The Fifth Epochal Revelation) is a spiritual, philosophical, and religious book that originated in Chicago, Illinois, United States, sometime between 1924 and 1955.\nThe text, which claims to have been composed by celestial beings, introduces the word \"Urantia\" as the name of the planet Earth and states that its intent is to \"present enlarged concepts and advanced truth\". The book aims to unite religion, science, and philosophy. Its large amount of content on topics of interest to science is unique among documents said to have been received from celestial beings."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Urantia_Book.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_Urantia_Book.png",
+    "file": "File:The Urantia Book.png",
+    "artist": "Urantia Foundation",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1013,
+    "height": 1532,
+    "ok": true
+   },
+   "second_source": {
+    "name": "urantia.org",
+    "url": "https://www.urantia.org/urantia-book-standardized/foreword?term=%22thousand%20human%20concepts%22#U0_12_12",
+    "title": "Foreword | Urantia Book | Urantia Foundation",
+    "matched": [
+     "urantia",
+     "thousand",
+     "religious",
+     "religion"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Republic of Molossia: A 36-person micronation in Nevada which takes the meaning of the phrase \"a man's home is his castle\" to new extremes.",
+   "article": {
+    "title": "Republic of Molossia",
+    "url": "https://en.wikipedia.org/wiki/Republic_of_Molossia",
+    "extract": "Molossia (), officially the Republic of Molossia, is a micronation claiming de facto sovereignty over 11.3 acres (4.6 ha; 46,000 m2) of land near Dayton, Nevada, United States. The micronation has not received recognition from any of the 193 member states of the United Nations. It was first conceived by Kevin Baugh in 1977, before its official creation in 1998. He continues to pay property taxes on the land to Storey County, the recognized local government, although he calls it \"foreign aid\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Molossia_-_Government_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Molossia_-_Government_House.jpg",
+    "file": "File:Molossia - Government House.jpg",
+    "artist": "Kevin Baugh or someone acting as an agent of Kevin Baugh",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 600,
+    "height": 450,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://travelnevada.com/weird-nevada/republic-of-molossia/"
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Alfonso de Borbón y Borbón: A Spanish nobleman with a whopping 88 forenames.",
+   "article": {
+    "title": "Alfonso de Borbón y Borbón",
+    "url": "https://en.wikipedia.org/wiki/Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n",
+    "extract": "Alfonso de Borbón y Borbón (15 November 1866 – 28 April 1934) was a Spanish nobleman and a great-great-grandson of King Charles III of Spain. He is known for having had 88 forenames, recognised as a record for a historical royal person by Guinness World Records.\nAlfonso was a son of Infante Sebastian of Portugal and Spain and his second wife, Infanta Maria Christina. In 1929, he morganatically married Julia Méndez y Morales, losing all claims to the Spanish throne; the marriage remained childless and ended in divorce."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Retrato_de_Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n_(cropped).jpg",
+    "file": "File:Retrato de Alfonso de Borbón y Borbón (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 885,
+    "height": 1237,
+    "ok": true
+   },
+   "second_source": {
+    "name": "guinnessworldrecords.com",
+    "url": "https://www.guinnessworldrecords.com/world-records/649513-most-names-for-a-historical-royal",
+    "title": "Most names for a historical royal | Guinness World Records",
+    "matched": [
+     "88",
+     "alfonso",
+     "borbon",
+     "spanish",
+     "nobleman"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Alta Rock Carvings in Alta, Norway",
+   "article": {
+    "title": "Alta Rock Carvings in Alta, Norway",
+    "url": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "extract": "One of the most extraordinary attractions in northern Norway is Alta Museum's outdoor area, where thousands of prehistoric carvings can be found. These are not paintings or replicas displayed behind glass – they are original artworks carved directly into the bedrock by people thousands of years ago. Some of the carvings date back more than 7,000 years, making them among the oldest and most signifi"
+   },
+   "published": "Fri, 20 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+   "article": {
+    "title": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+    "url": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
+    "extract": "Extraordinary architecture designed to resemble a 13th-century Italian Franciscan church, particularly the Basilica of Saint Francis of Assisi. Marble floors, gold ornamentation, stained glass, and soaring ceilings. The Spanish religious-art workshop Talleres de Arte Granda, founded in Madrid in 1891, designed and furnished the church's interior. It was founded by Mother Angelica, the founder of E"
+   },
+   "published": "Fri, 20 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Visulahti Wax Museum in Mikkeli, Finland",
+   "article": {
+    "title": "Visulahti Wax Museum in Mikkeli, Finland",
+    "url": "https://www.atlasobscura.com/places/visulahti-wax-museum",
+    "extract": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures. The museum has something of a cult reputation in Finland. Its wax figures are famously questionable in quality: many look surprisingly inaccurate, while some remind you more of a horror movie setting. In 1983, the Wax Museum wa"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "City Island Nautical Museum in The Bronx, New York",
+   "article": {
+    "title": "City Island Nautical Museum in The Bronx, New York",
+    "url": "https://www.atlasobscura.com/places/city-island-nautical-museum",
+    "extract": "It was perhaps inevitable that market-driven land use change would come to City Island; the beauty of the place is immediately apparent. Only a quarter-mile causeway separates the small island from the rest of the Bronx, one of the five boroughs of New York City, and yet City Island can seem a world away. The former United Boat Service Yard at the foot of Carroll Street was the first major maritim"
+   },
+   "published": "Fri, 20 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Promotions Gallery in Paris, France",
+   "article": {
+    "title": "Promotions Gallery in Paris, France",
+    "url": "https://www.atlasobscura.com/places/promotions-gallery",
+    "extract": "Historically, a secret entrance at the School of Mines, known as the “Mines staircase,” provided students access to the Paris Catacombs. Although this private access is no longer available for use due to safety reasons, the General Inspector of Quarries still grants students permission to uphold this artistic tradition. Each year, on the occasion of Sainte-Barbe, celebrated on December 4th in hono"
+   },
+   "published": "Thu, 19 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Čigoč Stork Village in Kratečko, Croatia",
+   "article": {
+    "title": "Čigoč Stork Village in Kratečko, Croatia",
+    "url": "https://www.atlasobscura.com/places/cigoc-stork-village",
+    "extract": "In the Croatian village of Čigoč, some of the most conspicuous residents live above the rooftops. White storks build bulky nests on traditional wooden houses, sharing the settlement with the people below. Situated in Lonjsko Polje Nature Park beside the Tišina oxbow of the Sava River, the village is surrounded by wet meadows, pastures, and pools. These habitats provide feeding grounds close to the"
+   },
+   "published": "Thu, 19 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thunder Hole in Bar Harbor, Maine",
+   "article": {
+    "title": "Thunder Hole in Bar Harbor, Maine",
+    "url": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "extract": "Located in Maine's Acadia National Park, along the rocky shoreline of Mount Desert Island, Thunder Hole is a natural geological formation known for producing a booming, thunder-like sound phenomenon that gives it its name, as well as for explosive water sprays reaching up to 40 feet. Resulting from glacial activity over thousands of years ago, what began as a small, natural fissure in the solid gr"
+   },
+   "published": "Thu, 19 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+   "article": {
+    "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+    "url": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
+    "extract": "Most memorial museums stay put in the house of the person they remember. This one moved out. It was founded in 1968 in the Tashkent house where Abdulla Avloni (1878–1934) had lived with his family from 1910 until his death. Avloni was one of the Jadids, the Muslim reformers who believed Central Asia could be renewed through new-method schools, newspapers and the theatre. He opened schools, wrote t"
+   },
+   "published": "Thu, 19 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring Alberta’s Rich History in Fiction",
+   "article": {
+    "title": "Podcast: Exploring Alberta’s Rich History in Fiction",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-alberta-s-rich-history-in-fiction",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. In this episode of The Atlas Obscura Podcast, we’re exploring the surprising side of Alberta with the Canadian novelist Esi Edugyan. Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinatin"
+   },
+   "published": "Thu, 19 Nov 2026 07:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Old-Fashioned Words That Describe Beauty",
+   "article": {
+    "title": "7 Old-Fashioned Words That Describe Beauty",
+    "url": "https://www.mentalfloss.com/language/words/old-fashioned-words-describe-beauty?utm_source=RSS",
+    "extract": "These words aren't used as often as they once were, but their beautiful meanings are timeless!"
+   },
+   "published": "Sun, 22 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 European Villages That Look Even More Magical in the Snow",
+   "article": {
+    "title": "7 European Villages That Look Even More Magical in the Snow",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/european-villages-look-more-magical-in-snow?utm_source=RSS",
+    "extract": "These picturesque European villages become even more enchanting when snow blankets their streets and rooftops."
+   },
+   "published": "Sat, 21 Nov 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's Biggest Senior Populations, Mapped By State",
+   "article": {
+    "title": "America's Biggest Senior Populations, Mapped By State",
+    "url": "https://www.mentalfloss.com/geography/states/biggest-senior-populations-by-state?utm_source=RSS",
+    "extract": "Roughly 19% of the U.S. population is 65 or older, but aging trends vary drastically by state. See where your state ranks according to Census data."
+   },
+   "published": "Sat, 21 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Famous Books That Were Written in Prison",
+   "article": {
+    "title": "10 Famous Books That Were Written in Prison",
+    "url": "https://www.mentalfloss.com/literature/books/famous-books-written-prison?utm_source=RSS",
+    "extract": "From Marco Polo to Oscar Wilde, many great writers have penned classic texts behind bars."
+   },
+   "published": "Sat, 21 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Thanksgiving Accident That Created TV Dinners",
+   "article": {
+    "title": "The Thanksgiving Accident That Created TV Dinners",
+    "url": "https://www.mentalfloss.com/food/thanksgiving-accident-created-tv-dinners?utm_source=RSS",
+    "extract": "How 260 tons of frozen birds inspired decades of easy meals in front of the TV."
+   },
+   "published": "Sat, 21 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Name Traditions in the 'Hunger Games' Franchise, Explained",
+   "article": {
+    "title": "5 Name Traditions in the 'Hunger Games' Franchise, Explained",
+    "url": "https://www.mentalfloss.com/entertainment/movies/hunger-games-name-traditions-explained?utm_source=RSS",
+    "extract": "Suzanne Collins chose the character names very deliberately in the 'Hunger Games' franchise to showcase Panem's systems of oppression and covert rebellion."
+   },
+   "published": "Sat, 21 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Famous Books That Were Written Under the Influence of Drugs",
+   "article": {
+    "title": "5 Famous Books That Were Written Under the Influence of Drugs",
+    "url": "https://www.mentalfloss.com/literature/books/books-written-under-influence-drugs?utm_source=RSS",
+    "extract": "From Stephen King to Jack Kerouac, these authors used altered states to complete their literary masterpieces."
+   },
+   "published": "Sat, 21 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Things You Probably Didn't Know About Artemis, the Greek Goddess of the Hunt",
+   "article": {
+    "title": "5 Things You Probably Didn't Know About Artemis, the Greek Goddess of the Hunt",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/things-you-didnt-know-about-artemis?utm_source=RSS",
+    "extract": "There's a whole lot more to Artemis than her bow and arrow. The Greek goddess, now a major character on Hulu's 'Percy Jackson and the Olympians,' is associated with childbirth and dance—and could also be shockingly vengeful."
+   },
+   "published": "Sat, 21 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Real Portland Locations From 'Wildwood'",
+   "article": {
+    "title": "7 Real Portland Locations From 'Wildwood'",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/real-wildwood-portland-locations?utm_source=RSS",
+    "extract": "'Wildwood' is a love letter to the city of Portland. I visited some locations that appear in the book and movie, including Forest Park, Voodoo Doughnuts, and more."
+   },
+   "published": "Fri, 20 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Common European Ancestry in Every State, Mapped",
+   "article": {
+    "title": "The Most Common European Ancestry in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/states/most-common-european-ancestry-by-state-map?utm_source=RSS",
+    "extract": "Which European country left the biggest demographic mark on your state? We break down the U.S. Census Bureau’s latest ancestry data, state by state."
+   },
+   "published": "Fri, 20 Nov 2026 21:20:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "8 Things Every ‘90s Kid Remembers About Thanksgiving",
+   "article": {
+    "title": "8 Things Every ‘90s Kid Remembers About Thanksgiving",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/things-every-90s-kid-remembers-thanksgiving?utm_source=RSS",
+    "extract": "From arts and crafts to games, these activities will be nostalgic for any ‘90s kid."
+   },
+   "published": "Fri, 20 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Does “Reaping” Mean? The Dark History Behind the ‘Hunger Games’ Tradition",
+   "article": {
+    "title": "What Does “Reaping” Mean? The Dark History Behind the ‘Hunger Games’ Tradition",
+    "url": "https://www.mentalfloss.com/entertainment/movies/what-reaping-mean-dark-history-behind-hunger-games?utm_source=RSS",
+    "extract": "The word’s origins and the historical inspiration behind the Suzanne Collins’ novels."
+   },
+   "published": "Fri, 20 Nov 2026 15:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+   "article": {
+    "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+    "url": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/",
+    "extract": "After \"Ser III No. 5,\" painted in 1920, sold for nearly 16 times its pre-sale estimate, critics charged that af Klint wanted to keep her \"holy body of work\" together in a temple, not spread across private collections"
+   },
+   "published": "Fri, 20 Nov 2026 21:23:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+   "article": {
+    "title": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+    "url": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/",
+    "extract": "The Xiongnu people dominated Central Asia for some 300 years. Now, a grave discovered in Mongolia has revealed the pastoral culture’s links to the Roman Empire, Han China and the Lelang Commandery"
+   },
+   "published": "Fri, 20 Nov 2026 20:22:42 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+   "article": {
+    "title": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+    "url": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/",
+    "extract": "Samples swabbed from the 17th-century painting reveal myriad microorganisms, including one perplexing bacterium that was first discovered at a Japanese sugar refinery in 2013"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:53 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+   "article": {
+    "title": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+    "url": "https://www.smithsonianmag.com/smart-news/for-the-first-time-astronomers-witnessed-a-giant-star-gobble-up-its-smaller-stellar-companion-180989905/",
+    "extract": "The merger caused an eruption in late 2025, which researchers rushed to document using several ground- and space-based telescopes. With older data and the help of computer simulations, the team reconstructed the entire astrophysical process"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+   "article": {
+    "title": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+    "url": "https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/",
+    "extract": "Around 20 members of the Indigenous Awá tribe emerged from the rainforest and received food from neighboring villagers. The group has not made contact with the outside world in decades, so experts say deforestation may have left these individuals with no other option"
+   },
+   "published": "Fri, 20 Nov 2026 17:08:26 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+   "article": {
+    "title": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+    "url": "https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/",
+    "extract": "In northeastern Chad, researchers found evidence of Verreaux's eagles attacking full-grown olive baboons weighing as much as a small human. The findings suggest early hominins had to watch out for ambushes from the sky, which may have shaped their evolution"
+   },
+   "published": "Fri, 20 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+   "article": {
+    "title": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+    "url": "https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/",
+    "extract": "One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory \"on its head,\" according to one researcher"
+   },
+   "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+   "article": {
+    "title": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+    "url": "https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/",
+    "extract": "Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+   "article": {
+    "title": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+   "article": {
+    "title": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+    "url": "https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/",
+    "extract": "The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt"
+   },
+   "published": "Thu, 19 Nov 2026 21:22:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+   "article": {
+    "title": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/",
+    "extract": "The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public"
+   },
+   "published": "Thu, 19 Nov 2026 21:18:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+   "article": {
+    "title": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+    "url": "https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/",
+    "extract": "The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue"
+   },
+   "published": "Thu, 19 Nov 2026 20:35:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+   "article": {
+    "title": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/21/tragedia-pod-otloczynem-najwieksza-katastrofa-kolejowa-w-historii-prl/",
+    "extract": "19 sierpnia 1980 roku, wczesnym rankiem, pod Otłoczynem doszło do największej katastrofy kolejowej w powojennej historii Polski. W czołowym zderzeniu dwóch pociągów zginęło 67 osób, a 64 zostały ranne. Siła uderzenia była tak ogromna, że jeden z wagonów praktycznie przestał istnieć. The post Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL first appeared on CiekawostkiHistory"
+   },
+   "published": "Sat, 21 Nov 2026 09:59:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  }
+ ]
+}
