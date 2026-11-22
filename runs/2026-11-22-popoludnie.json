@@ -1,0 +1,1969 @@
+{
+ "run": {
+  "date": "2026-11-22",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-22T13:16:30.460Z",
+  "candidates": 95,
+  "with_free_image": 33,
+  "ready": 23
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 4",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
+  "wiki-en:Wikipedia:Recent additions": "ok 288",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4259",
+  "drugie-zrodlo": "ok 23/29"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…ile procesji w trakcie Wielkiego Tygodnia przemierza ulice miasta Popayán?",
+   "article": {
+    "title": "Procesje w Wielkim Tygodniu w Popayán",
+    "url": "https://pl.wikipedia.org/wiki/Procesje_w_Wielkim_Tygodniu_w_Popay%C3%A1n",
+    "extract": "Procesje w Wielkim Tygodniu w Popayán (hiszp. Las procesiones de Semana Santa de Popayán) – coroczne procesje odbywające się w Wielkim Tygodniu w mieście Popayán, w departamencie Cauca, w południowo-zachodniej Kolumbii.\nW 2009 roku, podczas odbywającej się w Abu Zabi 4. sesji Międzyrządowego Komitetu ds."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Semana Santa en Popayán (13903419261).jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co tworzy zieloną brodę u hełmika zielonobrodego?",
+   "article": {
+    "title": "Hełmik zielonobrody",
+    "url": "https://pl.wikipedia.org/wiki/He%C5%82mik_zielonobrody",
+    "extract": "Hełmik zielonobrody, hełmik (Oxypogon guerinii) – gatunek małego ptaka z rodziny kolibrowatych (Trochilidae), należącej do rzędu krótkonogich (Apodiformes). Jest endemitem Kolumbii, występującym w Kordylierze Wschodniej. Zasiedla przede wszystkim wysokogórskie páramo, gdzie jest silnie związany z roślinnością z rodzaju Espeletia. Samiec ma charakterystyczną lśniącą zieloną „brodę” oraz jasny czub."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:Oxypogon guerinii 236915214.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…które państwa zgłaszają współcześnie roszczenia do ławicy Bajo Nuevo na Morzu Karaibskim, a które zgłaszały je w przeszłości?",
+   "article": {
+    "title": "Ławica Bajo Nuevo",
+    "url": "https://pl.wikipedia.org/wiki/%C5%81awica_Bajo_Nuevo",
+    "extract": "Ławica Bajo Nuevo (hiszp. Bajo Nuevo, ang. Bajo Nuevo Bank, także Petrel Islands) – niezamieszkana ławica koralowa z niewielkimi wynurzonymi wysepkami na Morzu Karaibskim, około 288 km na południowy zachód od Jamajki. Ma około 26 km długości i 9 km szerokości."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Bajo Nuevo ISS004-E-7525.jpg)"
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak Paratropis maskuje się na dnie lasu?",
+   "article": {
+    "title": "Paratropis",
+    "url": "https://pl.wikipedia.org/wiki/Paratropis",
+    "extract": "Paratropis – rodzaj pająków z infrarzędu ptaszników i rodziny Paratropididae. Obejmuje 30 opisanych gatunków."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Paratropis_tuxtlensis_adult_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paratropis_tuxtlensis_adult_male.jpg",
+    "file": "File:Paratropis tuxtlensis adult male.jpg",
+    "artist": "Alejandro Valdez-Mondragón, Jorge I. Mendoza, Oscar F. Francke",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 927,
+    "height": 795,
+    "ok": true
+   }
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który eurosceptyczny zbiór opowiadań reklamowano hasłem: „Książka nie tylko dla faszystów”?",
+   "article": {
+    "title": "Bunt (zbiór opowiadań)",
+    "url": "https://pl.wikipedia.org/wiki/Bunt_(zbi%C3%B3r_opowiada%C5%84)",
+    "extract": "Bunt – zbiór opowiadań fantastyczno-socjologicznych autorstwa Tomasza Szczepańskiego, publikującego pod pseudonimem Barnim Regalica, wydany w 1999 roku przez wydawnictwo Rekonkwista. Zbiór składa się z siedmiu powiązanych ze sobą opowiadań.\nZbiór przedstawia satyryczną, skrajnie eurosceptyczną wizję integracji europejskiej, konfliktów narodowościowych i polityki wielokulturowości, prowadzących do wybuchu nacjonalistycznego powstania. Akcja rozgrywa się w alternatywnej wizji niedalekiej przyszłości, w której Polska utraciła niepodległość i została podzielona na euroregiony podporządkowane obcym ośrodkom władzy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że 13. rozdział serialu The Mandalorian wcale nie był pechowy pod względem nagród?",
+   "article": {
+    "title": "Rozdział 13: Jedi",
+    "url": "https://pl.wikipedia.org/wiki/Rozdzia%C5%82_13:_Jedi",
+    "extract": "Rozdział 13: Jedi (ang. Chapter 13: The Jedi) – piąty odcinek drugiego sezonu amerykańskiego serialu telewizyjnego The Mandalorian. Reżyserem i scenarzystą odcinka był Dave Filoni. W głównej roli Mandalorianina wystąpił Pedro Pascal."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy Rhamphus robi miny, a kiedy dziurki?",
+   "article": {
+    "title": "Rhamphus",
+    "url": "https://pl.wikipedia.org/wiki/Rhamphus",
+    "extract": "Rhamphus – rodzaj chrząszczy z rodziny ryjkowcowatych i podrodziny Curculioninae. Obejmuje 53 opisane gatunki. Zamieszkują wszystkie kontynenty oprócz Ameryk i Antarktydy. Żerują na liściach."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rhamphus_pulicarius%2C_Lake_Elsi%2C_North_Wales%2C_July_2014_%2818127033438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rhamphus_pulicarius,_Lake_Elsi,_North_Wales,_July_2014_(18127033438).jpg",
+    "file": "File:Rhamphus pulicarius, Lake Elsi, North Wales, July 2014 (18127033438).jpg",
+    "artist": "Janet Graham",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1071,
+    "height": 1500,
+    "ok": true
+   }
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego organizator szkolnictwa artystycznego w Kiszyniowie (na znaczku pocztowym) nie ukończył studiów?",
+   "article": {
+    "title": "Włodzimierz Okuszko",
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Okuszko",
+    "extract": "Włodzimierz Okuszko (rum. Vladimir Ocușco; ur. 7 lutego 1862 w Oszmianie, zm. 1 lutego 1919 w Kiszyniowie) – polski malarz, rysownik, pedagog i działacz społeczny, związany z Besarabią."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Stamp_of_Moldova._Vladimir_Okushko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_Moldova._Vladimir_Okushko.jpg",
+    "file": "File:Stamp of Moldova. Vladimir Okushko.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 237,
+    "height": 350,
+    "ok": true
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto od 1998 roku próbuje wrócić do domu?",
+   "article": {
+    "title": "Karl Bushby",
+    "url": "https://pl.wikipedia.org/wiki/Karl_Bushby",
+    "extract": "Karl Bushby (ur. 30 marca 1969 w Hull) – brytyjski podróżnik, były żołnierz wojsk powietrznodesantowych i autor książek, znany z realizacji Goliath Expedition – próby pokonania pieszo trasy dookoła świata z Punta Arenas w Chile do rodzinnego Hull w Anglii. Wyprawę rozpoczął w 1998 roku.\nW listopadzie 2026 roku Bushby dotarł do rodzinnego miasta Hull."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Karl Bushby, Kingston upon Hull Nov26 (cropped).jpg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Operation Red Dog: A group of American and Canadian white supremacists plot to independently filibuster a small Caribbean nation. A plan straight from the mid-1800s: foiled in 1981.",
+   "article": {
+    "title": "Operation Red Dog",
+    "url": "https://en.wikipedia.org/wiki/Operation_Red_Dog",
+    "extract": "Operation Red Dog was a failed 1981 plot to overthrow the government of Dominica and restore former prime minister Patrick John to power. Its participants included long-time Ku Klux Klan member Mike Perdue, German-Canadian Nazi Wolfgang Droege, American white nationalist Don Black, Canadian James Alexander McQuirter, and plot leader Sydney Burnett-Alleyne.\nThe conspirators planned to travel by boat to Dominica and rendezvous with John and an armed group on the island. The plot was exposed after boat captain Michael S. Howell, whom Perdue approached to provide a vessel, contacted the Bureau of Alcohol, Tobacco and Firearms (ATF)."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nix v. Hedden: The US Supreme Court decides that the tomato is a vegetable, not a fruit.",
+   "article": {
+    "title": "Nix v. Hedden",
+    "url": "https://en.wikipedia.org/wiki/Nix_v._Hedden",
+    "extract": "Nix v. Hedden, 149 U.S. 304 (1893), is a decision by the Supreme Court of the United States in which the Court unanimously held that tomatoes should be classified as vegetables rather than fruits for purposes of tariffs, imports and customs. Justice Horace Gray delivered the opinion of the Court in holding that the Tariff Act of 1883 used the ordinary meaning of the words \"fruit\" and \"vegetable\", instead of the technical botanical meaning."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "TISM: Not the slang word meaning autism, but an (extremely) Australian rock band whose members are anonymous, perform wearing balaclavas and use pseudonyms like \"Eugene de la Hot Croix Bun\" and \"Ron Hitler-Barassi\". Known for their confrontational dark comedy, their song titles include \"Defecate on My Face\", \"I Might Be a Cunt, But I'm Not a Fucking Cunt\", \"Martin Scorsese Is Really Quite a Jovial Fellow\", \"What Nationality Is Les Murray?\", \"Whatareya? (You're a Yob or You're a Wanker)\" and \"Everyone Else Has Had More Sex Than Me\".",
+   "article": {
+    "title": "TISM",
+    "url": "https://en.wikipedia.org/wiki/TISM",
+    "extract": "TISM ( TIZ-əm; an acronym of This Is Serious Mum) are a seven-piece anonymous alternative rock band, formed in Melbourne, Australia, on 30 December 1982 by vocalist/drummer Humphrey B. Flaubert, bassist/vocalist Jock Cheese, vocalist Ron Hitler-Barassi and keyboardist/vocalist Eugene de la Hot Croix Bun. These four members have formed the core of the band since their inception, with the line-up being rounded out by guitarists Leak Van Vlalen (1982–1991), Tokin' Blackman (1991–2004; died 2008) and Vladimir Lenin-McCartney (2022–present), as well as backing vocalists/dancers Les Miserables and Jon St. Peenis.\nNoted for their dark humour, sarcastic delivery and melodic songwriting, the seven members of TISM appear in public as a pseudonymous, semi-paramilitary collective masked in a variety of balaclavas (usually as part of a more elaborate costume), and are known for their \"chaotic\" appear"
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:TISM-band.jpg)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Topsy (elephant): An elephant that was electrocuted, as the event was filmed by the Edison Manufacturing Company.",
+   "article": {
+    "title": "Topsy (elephant)",
+    "url": "https://en.wikipedia.org/wiki/Topsy_(elephant)",
+    "extract": "Topsy (c. 1875 – January 4, 1903) was a female Asian elephant who was electrocuted to death at Coney Island, New York, in January 1903. Born in Southeast Asia around 1875, Topsy was secretly brought into the United States soon thereafter and added to the herd of performing elephants at the Forepaugh Circus, who fraudulently advertised her as the first elephant born in the United States. During her 25 years at Forepaugh, Topsy gained a reputation as a \"bad\" elephant and, after killing a spectator in 1902, was sold to Coney Island's Sea Lion Park. Sea Lion was leased out at the end of the 1902 season and during the construction of the park that took its place, Luna Park, Topsy was used in publicity stunts and also involved in several well-publicized incidents, attributed to the actions of either her drunken handler or the park's new publicity-hungry owners, Frederic Thompson and Elmer \"Ski"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Topsy_the_elephant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Topsy_the_elephant.png",
+    "file": "File:Topsy the elephant.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 836,
+    "ok": true
+   },
+   "second_source": {
+    "name": "edison.rutgers.edu",
+    "url": "https://edison.rutgers.edu/life-of-edison/essaying-edison/essay/myth-buster-topsy-the-elephant",
+    "title": "Myth Buster-Topsy the Elephant",
+    "matched": [
+     "topsy",
+     "elephant",
+     "electrocuted",
+     "event",
+     "edison",
+     "manufacturing",
+     "company"
+    ]
+   }
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gingerdead Man vs. Evil Bong: Forget King Kong vs. Godzilla, Evil Bong and the Gingerdead Man is THE definitive crossover film!",
+   "article": {
+    "title": "Gingerdead Man vs. Evil Bong",
+    "url": "https://en.wikipedia.org/wiki/Gingerdead_Man_vs._Evil_Bong",
+    "extract": "Gingerdead Man vs. Evil Bong is a 2013 American crossover horror comedy film produced by Full Moon Features, about a battle between the namesake characters from two film series, The Gingerdead Man and Evil Bong.  The film was released October 29, 2013, on the Full Moon Features website as streaming video, with wider release November 12, 2013."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jamaica national bobsleigh team: The real life inspiration for the film Cool Runnings.",
+   "article": {
+    "title": "Jamaica national bobsleigh team",
+    "url": "https://en.wikipedia.org/wiki/Jamaica_national_bobsleigh_team",
+    "extract": "The Jamaica national bobsleigh team represents Jamaica in international bobsleighing competitions. The men's team debut in the 1988 Winter Olympic Games four-man bobsleigh in Calgary was received as underdogs in a cold weather sport represented by a nation with a tropical environment. Jamaica returned to the Winter Olympics in the two-man bobsleigh in 1992, 1994, 1998, 2002, 2014, 2022, and 2026; a women's team debuted in 2018."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Two-man bobsleigh, 2014 winter Olympics, Jamaica.jpg)"
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Feetloaf: Meatloaf moulded into the shape of a human foot – also known as \"Bloody Stump\" if \"feetloaf\" put you off.",
+   "article": {
+    "title": "Feetloaf",
+    "url": "https://en.wikipedia.org/wiki/Feetloaf",
+    "extract": "Feetloaf is a novelty dish intended to be served on Halloween.  The earliest known reference is a 2009 cooking blog which was based on a recipe found in a seasonal cookbook sold at a grocery store checkout counter.  The original recipe described a meatloaf molded into the shape of a human foot, using brazil nuts as toenails and ketchup or barbecue sauce to mimic blood.\nThe dish was originally called \"Bloody Stump\" or \"Feet of Meat\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Feetloaf%21_it%27s_what%27s_for_dinner%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Feetloaf!_it%27s_what%27s_for_dinner!.jpg",
+    "file": "File:Feetloaf! it's what's for dinner!.jpg",
+    "artist": "Christopher Chapman",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 671,
+    "ok": true
+   },
+   "second_source": {
+    "name": "triedandtruefavoriterecipes.blogspot.com",
+    "url": "http://triedandtruefavoriterecipes.blogspot.com/2009/10/halloween-dinner-bloody-stump-or-feet.html",
+    "title": "Tried and True Favorite Recipes: Halloween Dinner - Bloody Stump or Feet of Meat",
+    "matched": [
+     "meatloaf",
+     "shape",
+     "bloody",
+     "stump"
+    ]
+   }
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Deez Nuts (satirist): A satirical candidate who ran for president during the 2016 U.S. presidential election and polled 10% at his best. In the polls, he had defeated other notable candidates such as Harambe, Beast Mode, Darrell Castle (this one is real), and nearly Jill Stein.",
+   "article": {
+    "title": "Deez Nuts (satirist)",
+    "url": "https://en.wikipedia.org/wiki/Deez_Nuts_(satirist)",
+    "extract": "Deez Nuts was a satirical presidential candidate portrayed by Brady C. Olson who ran for president of the United States in 2016. \nOn July 26, 2015, Olson—then 15 years of age, and a resident of Wallingford, Iowa—filed a statement of Deez Nuts's presidential candidacy with the Federal Election Commission. In polls conducted by Public Policy Polling in Iowa, Minnesota, and North Carolina in mid-August 2015, Deez Nuts polled at eight, eight, and nine percent, respectively, garnering media attention. \nOn August 19, 2015, The Daily Beast revealed that Deez Nuts was actually Olson."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hospitaller colonization of the Americas: That time Malta under the Knights Hospitaller bought a few islands in the Caribbean, and set up some colonies.",
+   "article": {
+    "title": "Hospitaller colonization of the Americas",
+    "url": "https://en.wikipedia.org/wiki/Hospitaller_colonization_of_the_Americas",
+    "extract": "The Hospitaller colonization of the Americas occurred during a 14-year period in the 17th century in which the Knights Hospitaller of Malta, at the time a vassal state of the Kingdom of Sicily, commanded by the Italian Grand Master Giovanni Paolo Lascaris, possessed four Caribbean islands: Saint Christopher, Saint Martin, Saint Barthélemy, and Saint Croix. \nThe Knights' presence in the Caribbean Sea region grew out of their order's close relationship with the French nobility and the presence of many members in the Americas as French administrators. The main person involved with their brief foray into colonization was Phillippe de Longvilliers de Poincy, who was both a Knight of Malta and governor of the French colonies in the Caribbean. Poincy convinced the Knights to purchase the islands from the bankrupt Company of the American Islands in 1651 and stayed to govern them until his death "
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "A Musical Joke: A composition that Mozart allegedly made to mock bad composers.",
+   "article": {
+    "title": "A Musical Joke",
+    "url": "https://en.wikipedia.org/wiki/A_Musical_Joke",
+    "extract": "A Musical Joke (German: Ein musikalischer Spaß, lit. 'A Musical Fun') K. 522, (divertimento for two horns in F, and string quartet) is a composition by Wolfgang Amadeus Mozart; he entered it in his Verzeichnis aller meiner Werke (Catalogue of All My Works) on 14 June 1787.\nMany commentators have expressed the opinion that the piece's purpose is satirical – that \"[its] harmonic and rhythmic gaffes serve to parody the work of incompetent composers\".\nMozart himself, however, is not known to have revealed his actual intentions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mozart_drawing_Doris_Stock_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mozart_drawing_Doris_Stock_1789.jpg",
+    "file": "File:Mozart drawing Doris Stock 1789.jpg",
+    "artist": "Dora Stock",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 864,
+    "height": 1047,
+    "ok": true
+   },
+   "second_source": {
+    "name": "robertgreenbergmusic.com",
+    "url": "https://robertgreenbergmusic.com/dr-bob-prescribes-wolfgang-mozart-ein-musikalischer-spas-k-522/",
+    "title": "Dr. Bob Prescribes – Wolfgang Mozart, Ein musikalischer Spaß, K. 522 | Robert Greenberg | Speaker, Composer, Author, Professor, Historian",
+    "matched": [
+     "musical",
+     "composition",
+     "mozart",
+     "composers"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Five Per Cent for Nothing\": A very short instrumental by a band noted for very long songs that was retitled as a parting shot at their former manager, who sued them afterwards.",
+   "article": {
+    "title": "Five Per Cent for Nothing",
+    "url": "https://en.wikipedia.org/wiki/Five_Per_Cent_for_Nothing",
+    "extract": "\"Five Per Cent for Nothing\" is an instrumental by the English progressive rock group Yes from their 1971 album Fragile. One of five tracks on the album that were meant to showcase individual members’ talents, it was composed by the band's drummer, Bill Bruford. At 35 seconds in length, it is the shortest song Yes has ever recorded and their only song credited solely to Bruford. \nThe band did not play it live until 2014, when they played Fragile in full."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Knights of the Golden Circle: A secret society of American slave masters that planned to invade lands in Latin America to spread their pro-slavery views.",
+   "article": {
+    "title": "Knights of the Golden Circle",
+    "url": "https://en.wikipedia.org/wiki/Knights_of_the_Golden_Circle",
+    "extract": "The Knights of the Golden Circle (KGC) was a secret society founded in 1854 by American George W. L. Bickley. Its objective was initially to expand the United States into Latin America, adding slave states and ensuring the permanent continuance of slavery. This later became a plan for the southern states to secede and then add Latin American territory. The \"golden circle\" referred to a circle of 16 degrees radius (about 2400 miles) centered on Havana, and covering territories whose climate was suitable for large-scale plantation agriculture."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/KGC_FLAG.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:KGC_FLAG.png",
+    "file": "File:KGC FLAG.png",
+    "artist": "Okayama / Russia (Naval Ensign)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1200,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tshaonline.org",
+    "url": "https://www.tshaonline.org/handbook/entries/knights-of-the-golden-circle",
+    "title": "Knights of the Golden Circle",
+    "matched": [
+     "knights",
+     "golden",
+     "circle",
+     "secret",
+     "society",
+     "american",
+     "slave",
+     "latin"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Drunkard's cloak: Attire for the village drunk.",
+   "article": {
+    "title": "Drunkard's cloak",
+    "url": "https://en.wikipedia.org/wiki/Drunkard%27s_cloak",
+    "extract": "A drunkard's cloak was a type of pillory used in various jurisdictions to punish miscreants."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Brank_and_Drunkard%27s_cloak_at_newcastle-on-tyne.png",
+    "file": "File:Brank and Drunkard's cloak at newcastle-on-tyne.png",
+    "artist": "William Andrews",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 918,
+    "height": 550,
+    "ok": true
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Albert Camus and Jean-Louis Barrault settled on the title of The State of Siege by taking turns completing the phrase \"Get dressed, darling, we're going to see [...]\"?",
+   "article": {
+    "title": "The State of Siege",
+    "url": "https://en.wikipedia.org/wiki/The_State_of_Siege",
+    "extract": "The State of Siege (French: L'État de Siège), sometimes translated as State of Emergency, is a 1948 drama by the French philosopher Albert Camus. The play centers around the Spanish city of Cádiz during an outbreak of the bubonic plague. The plague itself is personified as a dictatorial non-commissioned officer who, along with his secretary and several collaborationists, implements martial law and enforces a confusing but rigid bureaucracy on the city.\nThe play began as an informal collaboration between Camus and Jean-Louis Barrault."
+   },
+   "related": [
+    "Albert Camus",
+    "Jean-Louis Barrault"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Albert_Camus%2C_Obsedno_stanje%2C_SNG_v_Mariboru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Albert_Camus,_Obsedno_stanje,_SNG_v_Mariboru.jpg",
+    "file": "File:Albert Camus, Obsedno stanje, SNG v Mariboru.jpg",
+    "artist": "Mirko Japelj",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 843,
+    "ok": true
+   },
+   "second_source": {
+    "name": "link.springer.com",
+    "url": "http://link.springer.com/10.1057/9781137525833",
+    "title": "Camus and the Challenge of Political Thought: Between Despair and Hope | Springer Nature Link",
+    "matched": [
+     "albert",
+     "camus",
+     "settled",
+     "title",
+     "state",
+     "completing"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lead masks case: Two electricians tried to contact aliens with psychedelic drugs and masks made out of lead. They died shortly after.",
+   "article": {
+    "title": "Lead masks case",
+    "url": "https://en.wikipedia.org/wiki/Lead_masks_case",
+    "extract": "The lead masks case (Portuguese: mistério das máscaras de chumbo, lit. 'mystery of the lead masks') involves a series of events which led to the death of two Brazilian electronics technicians, Manoel Pereira da Cruz and Miguel José Viana, who had last been seen by their families on August 17, 1966. Their bodies were discovered on August 20, 1966, and the cause of their deaths has never been determined."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Manoel_Pereira_da_Cruz_e_Miguel_Jos%C3%A9_Viana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Manoel_Pereira_da_Cruz_e_Miguel_Jos%C3%A9_Viana.jpg",
+    "file": "File:Manoel Pereira da Cruz e Miguel José Viana.jpg",
+    "artist": "Brazilian government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 606,
+    "height": 441,
+    "ok": true
+   },
+   "second_source": {
+    "name": "todayifoundout.com",
+    "url": "http://www.todayifoundout.com/index.php/2017/08/curious-case-lead-mask-deaths/",
+    "title": "The Curious Case of the Lead Mask Deaths",
+    "matched": [
+     "masks",
+     "electricians",
+     "contact",
+     "aliens",
+     "drugs"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "National Fisheries Development Board building: Mimetic architecture in Hyderabad: a building shaped like a humongous fish.",
+   "article": {
+    "title": "National Fisheries Development Board building",
+    "url": "https://en.wikipedia.org/wiki/National_Fisheries_Development_Board_building",
+    "extract": "The National Fisheries Development Board building, located in Hyderabad, India, is the headquarters of the eponymous National Fisheries Development Board. The building is notable as a unique example of mimetic or novelty architecture, being designed in the shape of a gigantic fish.\nThe Building was designed and conceptualized by Central Public Works Department (CPWD).\nThe four-storey building was officially opened in April 2012, and was reportedly inspired by Frank Gehry's monumental 'Fish' sculpture in Olympic Village, Barcelona which was completed in 1992."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Fish_shaped_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fish_shaped_building.jpg",
+    "file": "File:Fish shaped building.jpg",
+    "artist": "Nagaraju raveender",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1024,
+    "height": 399,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cnn.com",
+    "url": "https://www.cnn.com/style/article/mimetic-architecture-osm/index.html",
+    "title": "Mimetic architecture: Why does this building look like a fish? | CNN",
+    "matched": [
+     "national",
+     "board",
+     "building",
+     "mimetic",
+     "architecture"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Extraterrestrial real estate: Want to buy a housing plot on the Moon?",
+   "article": {
+    "title": "Extraterrestrial real estate",
+    "url": "https://en.wikipedia.org/wiki/Extraterrestrial_real_estate",
+    "extract": "Extraterrestrial real estate refers to claims of land ownership on other planets, natural satellites, or parts of space by certain organizations or individuals. Most claims on extraterrestrial real estate have not been recognized by any authority, and have no legal standing. Nevertheless, some private individuals and organizations have claimed ownership of celestial bodies, such as the Moon, and have been involved in \"selling\" parts of them through certificates of ownership termed \"Lunar deeds\", \"Martian deeds\" or similar.\nWhile personal claims have had little weight, whole states could potentially lay claim to colonizing celestial bodies."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Moon_merged_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Moon_merged_small.jpg",
+    "file": "File:Moon merged small.jpg",
+    "artist": "nieznany autor",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 950,
+    "height": 950,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://edition.cnn.com/2008/TECH/space/05/19/moon.land/index.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Far Lands or Bust: One man's 14-year journey to reach Minecraft's infamous \"Far Lands\".",
+   "article": {
+    "title": "Far Lands or Bust",
+    "url": "https://en.wikipedia.org/wiki/Far_Lands_or_Bust",
+    "extract": "Far Lands or Bust! (abbreviated FLoB) is an online video series created by Kurt J. Mac in which he plays the video game Minecraft. The series depicts his journey to the \"Far Lands\", a distant area of Minecraft worlds where, in certain old versions of the game, the terrain generation does not function correctly due to an integer overflow, creating a warped landscape. Kurt began traveling in March 2011, and completed his journey to the Far Lands on October 4, 2025."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Far_lands_or_bust_logo_2022.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Far_lands_or_bust_logo_2022.png",
+    "file": "File:Far lands or bust logo 2022.png",
+    "artist": "Kurt J. Mac",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 275,
+    "height": 150,
+    "ok": true
+   },
+   "second_source": {
+    "name": "guinnessworldrecords.com",
+    "url": "http://www.guinnessworldrecords.com/news/2014/11/minecraft-ten-of-the-best-block-busting-world-records-61744/",
+    "title": "Minecraft: Ten of the best block-busting world records | Guinness World Records",
+    "matched": [
+     "14",
+     "lands",
+     "journey",
+     "minecraft"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Why I Want to Fuck Ronald Reagan: A spoof scientific study by J.G. Ballard which compares the face of Ronald Reagan to an erect penis. Was circulated at the 1980 RNC as a prank.",
+   "article": {
+    "title": "Why I Want to Fuck Ronald Reagan",
+    "url": "https://en.wikipedia.org/wiki/Why_I_Want_to_Fuck_Ronald_Reagan",
+    "extract": "\"Why I Want to Fuck Ronald Reagan\" is a 1968 short story by English writer J. G. Ballard. Written in the style of a scientific report, it ostensibly documents a series of experiments intended to measure the psychosexual appeal of Ronald Reagan, then Governor of California and a candidate in the 1968 Republican Party presidential primaries.\nFirst published as a pamphlet in 1968 by the Unicorn Bookshop in Brighton, England, \"Why I Want to Fuck Ronald Reagan\" was later republished in some editions of Ballard's The Atrocity Exhibition (1970), a collection of linked works of short fiction. It was used as part of a prank at the 1980 Republican National Convention, at which Reagan received the party's nomination for the 1980 United States presidential election."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ronald-Reagan-governor-California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ronald-Reagan-governor-California.jpg",
+    "file": "File:Ronald-Reagan-governor-California.jpg",
+    "artist": "Ronald Reagan Library",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1246,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 2,
+    "closest": "http://www.timesonline.co.uk/tol/comment/obituaries/article6129021.ece"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Monkey brains: A supposed delicacy that has been made famous through films.",
+   "article": {
+    "title": "Monkey brains",
+    "url": "https://en.wikipedia.org/wiki/Monkey_brains",
+    "extract": "Monkey brains is a supposed dish consisting of, at least, partially, the brain of some species of monkey or ape.\nWhile animal brains have been consumed in various cuisines (e.g. eggs and brains or fried brain sandwiches), there is debate about whether monkey brains have actually been consumed. In Western popular culture its consumption is repeatedly portrayed and debated, often in the context of portraying exotic cultures as exceptionally cruel, callous, or strange."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Monkey_brains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Monkey_brains.jpg",
+    "file": "File:Monkey brains.jpg",
+    "artist": "Cara Chow (Charlotte1125)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 926,
+    "height": 526,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20180710135859/https://www.japantimes.co.jp/community/2002/08/08/issues/debunking-strange-asian-myths-part-ii/",
+    "title": "Debunking strange Asian myths: Part II | The Japan Times",
+    "matched": [
+     "monkey",
+     "brains",
+     "supposed",
+     "delicacy",
+     "famous",
+     "films"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Donald Mastick: A man who accidentally ate plutonium, leading to one of the worst cases of bad breath.",
+   "article": {
+    "title": "Donald Mastick",
+    "url": "https://en.wikipedia.org/wiki/Donald_Mastick",
+    "extract": "Donald Francis Mastick (September 1, 1920 – September 8, 2007) was an American chemist who worked at the Manhattan Project's Los Alamos Laboratory. As part of Project Alberta, he was part of the planning and preparation for the atomic bombing of Hiroshima and Nagasaki, for which he was awarded the Bronze Star Medal. Mastick is known for a lab incident in 1944 when he accidentally ingested a small amount of plutonium, traces of which remained detectable in his body decades later. After the incident, he worked for the Naval Radiological Defense Laboratory and the Atomic Energy Commission."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Donald_F._Mastick_Los_Alamos_ID.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Donald_F._Mastick_Los_Alamos_ID.png",
+    "file": "File:Donald F. Mastick Los Alamos ID.png",
+    "artist": "Federal Government of the United States",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 130,
+    "height": 180,
+    "ok": true
+   },
+   "second_source": {
+    "name": "atomicheritage.org",
+    "url": "https://www.atomicheritage.org/profile/donald-f-mastick",
+    "title": "Donald F. Mastick - Nuclear Museum",
+    "matched": [
+     "donald",
+     "mastick",
+     "accidentally",
+     "plutonium"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Blanche Monnier: A French woman who was locked in an attic for 25 years because her parents disapproved of her choice of suitor.",
+   "article": {
+    "title": "Blanche Monnier",
+    "url": "https://en.wikipedia.org/wiki/Blanche_Monnier",
+    "extract": "Blanche Monnier (French pronunciation: [blɑ̃ʃ mɔnje]; 1 March 1849 – 13 October 1913), often known in France as la Séquestrée de Poitiers (roughly, \"The Confined Woman of Poitiers\"), was a woman from Poitiers, France, who was secretly kept locked in a small room by her aristocratic mother and brother for 25 years. She was eventually found by police, then middle-aged and in emaciated and filthy condition; according to officials, Monnier had not seen any sunlight for her entire captivity."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Blanche_Monnier%2C_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Blanche_Monnier,_1901.jpg",
+    "file": "File:Blanche Monnier, 1901.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 861,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thevintagenews.com",
+    "url": "https://www.thevintagenews.com/2018/01/05/blanche-monnier/",
+    "title": "The Dreadful Tale of Blanche Monnier - Locked in a Room for 25 Years by her Mother | The Vintage News",
+    "matched": [
+     "25",
+     "blanche",
+     "monnier",
+     "french",
+     "woman",
+     "locked",
+     "disapproved",
+     "choice"
+    ]
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "History of perpetual motion machines: The concept has eluded and baffled the greatest minds for thousands of years – and will continue to elude anyone who tries to build one.",
+   "article": {
+    "title": "History of perpetual motion machines",
+    "url": "https://en.wikipedia.org/wiki/History_of_perpetual_motion_machines",
+    "extract": "The history of perpetual motion machines dates at least back to the Middle Ages. For millennia, it was not clear whether perpetual motion devices were possible or not, but modern theories of thermodynamics have shown that they are impossible. Despite this, many attempts have been made to construct such machines, continuing into modern times. Modern designers and proponents sometimes use other terms, such as \"overunity\", to describe their inventions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/WaterScrewPerpetualMotion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:WaterScrewPerpetualMotion.png",
+    "file": "File:WaterScrewPerpetualMotion.png",
+    "artist": "George A. Bockler",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 535,
+    "height": 692,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20220202094814/https://lockhaven.edu/~dsimanek/museum/people/people.htm",
+    "title": "",
+    "matched": [
+     "history",
+     "perpetual",
+     "motion",
+     "machines",
+     "concept",
+     "greatest",
+     "thousands",
+     "continue"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Brazen bull: Encased in bronze and boiled to death, with wind instruments attached so your screams would turn into moos. Notable victims: its inventor and the guy it was invented for.",
+   "article": {
+    "title": "Brazen bull",
+    "url": "https://en.wikipedia.org/wiki/Brazen_bull",
+    "extract": "The brazen bull, also known as the bronze bull, Sicilian bull, bellowing bull or bull of Phalaris, was a torture and execution device designed in ancient Greece. According to Diodorus Siculus, recounting the story in Bibliotheca historica, Perilaus (Περίλαος) (or Perillus (Πέριλλος)) of Athens invented and proposed it to Phalaris, the tyrant of Akragas, Sicily, as a new means of execution. The bull was said to have been hollow, and made entirely of bronze, with a door in one side. According to legend, the condemned were locked inside the device (with their head aligned within the bull's head), and a fire was set beneath it, heating the metal to the extent that the person within slowly roasted to death."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pierre_Woeiriot_Phalaris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pierre_Woeiriot_Phalaris.jpg",
+    "file": "File:Pierre Woeiriot Phalaris.jpg",
+    "artist": "Pierre Woeiriot",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 702,
+    "height": 916,
+    "ok": true
+   },
+   "second_source": {
+    "name": "allthatsinteresting.com",
+    "url": "https://allthatsinteresting.com/brazen-bull",
+    "title": "The Brazen Bull May Have Been History's Worst Torture Device",
+    "matched": [
+     "brazen",
+     "bronze",
+     "death",
+     "screams",
+     "victims",
+     "inventor",
+     "invented"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Evel Knievel: A biker known for his numerous stunts, and accidents during said stunts.",
+   "article": {
+    "title": "Evel Knievel",
+    "url": "https://en.wikipedia.org/wiki/Evel_Knievel",
+    "extract": "Robert Craig Knievel (October 17, 1938 – November 30, 2007), known professionally as Evel Knievel ( EE-vəl kə-NEE-vəl), was an American stunt performer and entertainer. Throughout his career, he attempted more than 75 ramp-to-ramp motorcycle jumps. Knievel was inducted into the Motorcycle Hall of Fame in 1999.\nEvel Knievel was born in Butte, Montana."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Evel_Knievel_c1974cr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Evel_Knievel_c1974cr.jpg",
+    "file": "File:Evel Knievel c1974cr.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 529,
+    "height": 699,
+    "ok": true
+   },
+   "second_source": {
+    "name": "smithsonianmag.com",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/woeful-wipeout-made-evel-knievel-instant-legend-180967601/",
+    "title": "This Woeful Wipeout Made Evel Knievel an Instant Legend",
+    "matched": [
+     "knievel",
+     "biker",
+     "known"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shavarsh Karapetyan: Saved twenty people in a trolleybus crash, sustained career-ending injuries because of it, but still managed to set a new world record in finswimming afterward.",
+   "article": {
+    "title": "Shavarsh Karapetyan",
+    "url": "https://en.wikipedia.org/wiki/Shavarsh_Karapetyan",
+    "extract": "Shavarsh Vladimiri (Vladimirovich) Karapetyan (Armenian: Շավարշ Կարապետյան; born 19 May 1953) is a Soviet-Armenian former finswimmer. He was best known for saving the lives of 20 people in a 1976 incident in Yerevan."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Shavarsh_Karapetyan_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Shavarsh_Karapetyan_2014.jpg",
+    "file": "File:Shavarsh Karapetyan 2014.jpg",
+    "artist": "Канал Люди",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 586,
+    "height": 749,
+    "ok": true
+   },
+   "second_source": {
+    "name": "auroraprize.com",
+    "url": "https://auroraprize.com/en/twenty-five-seconds-life",
+    "title": "Twenty-Five Seconds Per Life",
+    "matched": [
+     "shavarsh",
+     "karapetyan",
+     "saved",
+     "twenty",
+     "people",
+     "trolleybus",
+     "crash",
+     "career"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cultural depictions of Napoleon: Fictional characters believing they are Napoleon are often used to suggest ill mental health.",
+   "article": {
+    "title": "Cultural depictions of Napoleon",
+    "url": "https://en.wikipedia.org/wiki/Cultural_depictions_of_Napoleon",
+    "extract": "Napoleon I, Emperor of the French, has become a worldwide cultural icon generally associated with tactical brilliance, ambition, and political power. His distinctive features and costume have made him a very recognisable figure in popular culture. A major figure in history of France and Europe, Napoleon is known for the scope of his military conquests as well as his ultimate defeats. His two exiles provide further historical intrigue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Napoleon_in_1806.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Napoleon_in_1806.PNG",
+    "file": "File:Napoleon in 1806.PNG",
+    "artist": "Édouard Detaille",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1200,
+    "height": 1740,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.davidserero.com/single-post/2018/08/15/david-serero-to-star-as-napoleon-s-title-role-in-napoleon-by-stanley-kubrick-the-greatest"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "The Final Experiment (expedition): An expedition that took Flat Earthers to Antarctica to see the absolute proof that they're wrong. Naturally, some Flat Earthers continued to ignore it.",
+   "article": {
+    "title": "The Final Experiment (expedition)",
+    "url": "https://en.wikipedia.org/wiki/The_Final_Experiment_(expedition)",
+    "extract": "The Final Experiment was a 2024 expedition to Antarctica to test the validity of modern flat Earth beliefs. It took three years of preparation and was organized by Will Duffy, an American Christian pastor who invited forty-eight online content creators to witness the midnight sun, a natural phenomenon that contradicts most flat Earth beliefs. The expedition included both flat Earthers and \"globe Earthers\" (people who accept the spherical Earth), selected to represent both sides of the flat Earth debate.\nThe expedition members traveled from Chile to Union Glacier Camp in West Antarctica and livestreamed the midnight sun for several days."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Antarctica_%2811254517513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Antarctica_(11254517513).jpg",
+    "file": "File:Antarctica (11254517513).jpg",
+    "artist": "Christopher Michel",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1280,
+    "height": 760,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20241226141644/https://www.news.com.au/technology/science/space/sometimes-you-are-wrong-flat-earthers-admit-defeat-after-seeing-24hour-antarctica-sun/news-story/0bc1d6b85396c04e163ba1a1b5b7bb21",
+    "title": "‘Sometimes you are wrong’: Flat earthers admit defeat after seeing 24-hour Antarctica sun | news.com.au — Australia’s leading news site",
+    "matched": [
+     "final",
+     "experiment",
+     "expedition",
+     "earthers",
+     "antarctica",
+     "wrong",
+     "naturally",
+     "continued"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nasra Ali Abukar: Possibly the record holder for the slowest ever competitive 100-meter dash, after she got into the University Games by being related to the chair of the Somali Athletics Committee.",
+   "article": {
+    "title": "Nasra Ali Abukar",
+    "url": "https://en.wikipedia.org/wiki/Nasra_Ali_Abukar",
+    "extract": "Nasra Ali Abukar (Somali: Nasra Abuukar Cali; born September 15, 2004) is a Somali university student known for her participation in the 100-meter race at the XXXI FISU World University Games in Chengdu, China, in 2023, where she came last. Her remarkably poor result and perceived lack of athleticism caused international outrage and accusations of nepotism when she was found out to have family ties with the chair of the Somali Athletics Committee."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nasra_Ali_Abukar_2023_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nasra_Ali_Abukar_2023_(cropped).jpg",
+    "file": "File:Nasra Ali Abukar 2023 (cropped).jpg",
+    "artist": "SONNA",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 510,
+    "height": 741,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20230802234110/https://www.ndtv.com/feature/i-saw-the-potbelly-outrage-over-somali-athletes-100-metre-sprint-4261599",
+    "title": "\"I Saw The Potbelly...\": Outrage Over Somali Athlete's 100-Metre \"Sprint\"",
+    "matched": [
+     "100",
+     "nasra",
+     "abukar",
+     "record",
+     "slowest",
+     "competitive",
+     "university",
+     "games"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Buttered toast phenomenon: But only if you're eating at a table.",
+   "article": {
+    "title": "Buttered toast phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Buttered_toast_phenomenon",
+    "extract": "The buttered toast phenomenon is an observation that buttered toast tends to land butter-side down after it falls. It is used as an idiom representing pessimistic outlooks. Various people have attempted to determine whether there is an actual tendency for bread to fall in this fashion, with varying results."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dropped_buttered_toast_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dropped_buttered_toast_(cropped).jpg",
+    "file": "File:Dropped buttered toast (cropped).jpg",
+    "artist": "EgoVolo",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 1050,
+    "height": 706,
+    "ok": true
+   },
+   "second_source": {
+    "name": "phrases.org.uk",
+    "url": "http://www.phrases.org.uk/meanings/butter-side-down.html",
+    "title": "Why Does Bread Always Fall Butter Side Down? - Meaning & Origin Of The Phrase",
+    "matched": [
+     "buttered",
+     "toast",
+     "phenomenon"
+    ]
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Saatse Boot: A piece of Russian territory through which a 900-metre (3,000 ft) stretch of Estonian road passes. Although people are allowed to drive on the road without a permit or visa, it is prohibited to travel on foot, or to stop the vehicle for any reason.",
+   "article": {
+    "title": "Saatse Boot",
+    "url": "https://en.wikipedia.org/wiki/Saatse_Boot",
+    "extract": "The Saatse Boot (Estonian: Saatse saabas; Russian: Саатсеский сапог) is a boot-shaped area of Russian territory of 115 hectares (1.15 km2; 280 acres; 0.44 sq mi) that extends through the road number 178 between the Estonian villages of Lutepää and Sesniki (themselves between the larger settlement Värska and village of Saatse) in Setomaa Parish. For many years, the boot was freely accessible to cross from and to Estonia, until the road was permanently closed by the Estonian Police and Border Guard in 2025."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Map_Estonia_-_V%C3%A4rska_vald_-_Saatse_Boot.png",
+    "file": "File:Map Estonia - Värska vald - Saatse Boot.png",
+    "artist": "Map data (c) OpenStreetMap contributors, CC-BY-SA &Municipality boundaries Estonian Land Board, 1.06.2012 • Shape files ",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1008,
+    "height": 756,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://bnonews.com/index.php/2025/10/estonia-permanently-closes-road-through-russian-territory"
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Takotsubo cardiomyopathy: Yes, you can die from a broken heart.",
+   "article": {
+    "title": "Takotsubo cardiomyopathy",
+    "url": "https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy",
+    "extract": "Takotsubo cardiomyopathy or takotsubo syndrome (TTS), also known as stress cardiomyopathy, is a type of non-ischemic cardiomyopathy in which there is a sudden temporary weakening of the muscular portion of the heart. It usually appears after a significant stressor, either physical or emotional; when caused by the latter, the condition is sometimes called broken heart syndrome.\nExamples of physical stressors that can cause TTS are sepsis, shock, subarachnoid hemorrhage, and pheochromocytoma. Emotional stressors include bereavement, divorce, or the loss of a job."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TakoTsubo_scheme.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:TakoTsubo_scheme.png",
+    "file": "File:TakoTsubo scheme.png",
+    "artist": "J. Heuser JHeuser",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 539,
+    "height": 224,
+    "ok": true
+   },
+   "second_source": {
+    "name": "openstax.org",
+    "url": "https://openstax.org/books/anatomy-and-physiology/pages/19-4-cardiac-physiology",
+    "title": "19.4 Cardiac Physiology - Anatomy and Physiology | OpenStax",
+    "matched": [
+     "takotsubo",
+     "cardiomyopathy",
+     "broken",
+     "heart"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tiger Mask donation phenomenon: The other time manga's most famous pro wrestler entered the real world.",
+   "article": {
+    "title": "Tiger Mask donation phenomenon",
+    "url": "https://en.wikipedia.org/wiki/Tiger_Mask_donation_phenomenon",
+    "extract": "The Tiger Mask donation phenomenon is a series of donations of randoseru (school backpacks) and other items to orphanages around Japan. The first donation happened when someone left ten 30,000-yen backpacks at a child guidance center in Gunma Prefecture on Christmas Day in 2010. A note attached to the bags was signed \"Naoto Date\", the real name of the titular character of Tiger Mask, a popular 1960s and 1970s manga about a wrestler who fought for orphans, being raised in an orphanage himself. Since the initial donation, copycat donations have appeared around Japan at various facilities for children, ranging from more backpacks to toys, food, and monetary gifts."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/JapaneseBackpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JapaneseBackpack.jpg",
+    "file": "File:JapaneseBackpack.jpg",
+    "artist": "Kanko* from Nagasaki, JAPAN",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "animenewsnetwork.com",
+    "url": "http://www.animenewsnetwork.com/interest/2010-12-27/manga/anime-hero-leaves-gifts-on-christmas-morning",
+    "title": "Manga/Anime Hero Leaves Gifts on Christmas Morning - Interest - Anime News Network",
+    "matched": [
+     "tiger",
+     "manga",
+     "wrestler",
+     "world"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Millennial whoop: Put on a \"best of the 2010s\" playlist, and hear the same repeated two notes everywhere.",
+   "article": {
+    "title": "Millennial whoop",
+    "url": "https://en.wikipedia.org/wiki/Millennial_whoop",
+    "extract": "The millennial whoop is a vocal melodic pattern alternating between the fifth note (the dominant) and the third note (the mediant) in a major scale, typically starting on the fifth, in the rhythm of straight 8th-notes, and often using the \"wa\" and \"oh\" syllables. It was used extensively in 2010s pop music."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Millenial_whoop.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Millenial_whoop.png",
+    "file": "File:Millenial whoop.png",
+    "artist": "Jean-no",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1210,
+    "height": 744,
+    "ok": true
+   },
+   "second_source": {
+    "name": "thepatterning.com",
+    "url": "https://thepatterning.com/2016/08/20/the-millennial-whoop-a-glorious-obsession-with-the-melodic-alternation-between-the-fifth-and-the-third/",
+    "title": "The Millennial Whoop: A glorious obsession with the melodic alternation between the fifth and the third - The Patterning",
+    "matched": [
+     "2010",
+     "millennial",
+     "whoop",
+     "repeated",
+     "notes"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eskimo words for snow: The claim that Eskimo languages have an unusually large number of words for \"snow\".",
+   "article": {
+    "title": "Eskimo words for snow",
+    "url": "https://en.wikipedia.org/wiki/Eskimo_words_for_snow",
+    "extract": "The claim that Eskimo words for snow are unusually numerous, particularly in contrast to English, is a cliché commonly used to support the controversial linguistic relativity hypothesis. In linguistic terminology, the relevant languages are the Eskaleut languages, specifically the Yupik and Inuit varieties.\nThe strongest interpretation of the linguistic relativity hypothesis posits that a language's vocabulary (among other features) shapes or limits its speakers' view of the world. This interpretation is widely criticized by linguists, though a 2010 study supports the core notion that the Yupik and Inuit languages have many more root words for frozen variants of water than the English language."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaskan_Inuit_winter_home_1900.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Alaskan_Inuit_winter_home_1900.jpg",
+    "file": "File:Alaskan Inuit winter home 1900.jpg",
+    "artist": "not indicated",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 600,
+    "height": 449,
+    "ok": true
+   },
+   "second_source": {
+    "name": "languagelog.ldc.upenn.edu",
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=4419",
+    "title": "Language Log &raquo; Bad science reporting again: the Eskimos are back",
+    "matched": [
+     "eskimo",
+     "words",
+     "claim",
+     "languages",
+     "unusually",
+     "number"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Poe Toaster: Not a kitchen appliance, but a mysterious figure who paid an annual tribute to American author Edgar Allan Poe.",
+   "article": {
+    "title": "Poe Toaster",
+    "url": "https://en.wikipedia.org/wiki/Poe_Toaster",
+    "extract": "Poe Toaster is the media sobriquet used to refer to an unidentified person (or probably more than one person in succession) who, for several decades, paid an annual tribute to the American author Edgar Allan Poe by visiting the cenotaph marking his original grave in Baltimore, Maryland, in the early hours of January 19, Poe's birthday. The shadowy figure, dressed in black with a wide-brimmed hat and white scarf, would pour himself a glass of cognac (or cherry brandy, amontillado, or Scotch whisky) and raise a toast to Poe's memory, then vanish into the night, leaving three roses in a distinctive arrangement and the unfinished bottle of liquor. Onlookers gathered annually in hopes of glimpsing the elusive Toaster, who did not seek publicity and was rarely seen or photographed.\nAccording to eyewitness reports and notes accompanying offerings in later years, the original Toaster made the an"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Edgar_allan_poes_grave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Edgar_allan_poes_grave.jpg",
+    "file": "File:Edgar allan poes grave.jpg",
+    "artist": "KRichter",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 960,
+    "height": 1280,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20151218181340/http://apnews.myway.com/article/20120119/D9SC19EG0.html",
+    "title": "My Way News - Poe fans call an end to 'Toaster' tradition",
+    "matched": [
+     "toaster",
+     "mysterious",
+     "figure",
+     "annual",
+     "tribute",
+     "edgar",
+     "allan"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Black Volga: The car that makes people disappear in the Eastern Bloc. Its equivalent on the other side of the Iron Curtain is the black helicopter.",
+   "article": {
+    "title": "Black Volga",
+    "url": "https://en.wikipedia.org/wiki/Black_Volga",
+    "extract": "Black Volga (Polish: czarna wołga) refers to an urban legend widespread in Italy, Poland, Romania, Hungary, Russia, Belarus, Ukraine, Greece and Mongolia, mainly in the 1960s and 1970s. The legend refers to a black (or in some versions red) GAZ-21 or GAZ-24 vehicle that was allegedly used to abduct and murder people. According to different versions, it was driven by communist secret police, Russian mafia, Satanists or Satan himself. The car is described as having white wheel rims, white curtains or other white elements."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/GAZ-21_%22Volga%22_%28front_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:GAZ-21_%22Volga%22_(front_view).jpg",
+    "file": "File:GAZ-21 \"Volga\" (front view).jpg",
+    "artist": "Oliver Tank",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 1136,
+    "height": 752,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20090219201220/http://serwisy.gazeta.pl/kultura/1,34169,1853428.html"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Testicle festival: \"Would you like to supersize those?\"",
+   "article": {
+    "title": "Testicle festival",
+    "url": "https://en.wikipedia.org/wiki/Testicle_festival",
+    "extract": "A testicle festival is an event where the featured activity is the consumption of animal testicles, usually battered and fried.\nThe oldest of such festivals takes place in Byron, Illinois, and features turkey testicles. Similar festivals in the US are held in Deerfield, Michigan; Olean, Missouri; Tiro, Ohio; Oakdale, California; Ashland, Nebraska; Huntley, Illinois; Stillwater, Oklahoma; Salmon, Idaho; Clinton, Montana; Suring, Wisconsin, Dundas, Wisconsin, LaValle, Wisconsin, Severance, Colorado, and Bentonville, Arkansas, some of which feature Rocky mountain oysters (cattle testicles). \nThe Montana State Society has held an annual Rocky Mountain Oyster Festival in Clinton, Montana, since 2005."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Tiro_Testicle_Festival_-veal_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tiro_Testicle_Festival_-veal_2.jpg",
+    "file": "File:Tiro Testicle Festival -veal 2.jpg",
+    "artist": "(WT-en) 2old at English Wikivoyage",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 478,
+    "height": 443,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20120322164813/http://www.2camels.com/turkey-testicle-festival.php"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Alta Rock Carvings in Alta, Norway",
+   "article": {
+    "title": "Alta Rock Carvings in Alta, Norway",
+    "url": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "extract": "One of the most extraordinary attractions in northern Norway is Alta Museum's outdoor area, where thousands of prehistoric carvings can be found. These are not paintings or replicas displayed behind glass – they are original artworks carved directly into the bedrock by people thousands of years ago. Some of the carvings date back more than 7,000 years, making them among the oldest and most signifi"
+   },
+   "published": "Fri, 20 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+   "article": {
+    "title": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+    "url": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
+    "extract": "Extraordinary architecture designed to resemble a 13th-century Italian Franciscan church, particularly the Basilica of Saint Francis of Assisi. Marble floors, gold ornamentation, stained glass, and soaring ceilings. The Spanish religious-art workshop Talleres de Arte Granda, founded in Madrid in 1891, designed and furnished the church's interior. It was founded by Mother Angelica, the founder of E"
+   },
+   "published": "Fri, 20 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Visulahti Wax Museum in Mikkeli, Finland",
+   "article": {
+    "title": "Visulahti Wax Museum in Mikkeli, Finland",
+    "url": "https://www.atlasobscura.com/places/visulahti-wax-museum",
+    "extract": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures. The museum has something of a cult reputation in Finland. Its wax figures are famously questionable in quality: many look surprisingly inaccurate, while some remind you more of a horror movie setting. In 1983, the Wax Museum wa"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "City Island Nautical Museum in The Bronx, New York",
+   "article": {
+    "title": "City Island Nautical Museum in The Bronx, New York",
+    "url": "https://www.atlasobscura.com/places/city-island-nautical-museum",
+    "extract": "It was perhaps inevitable that market-driven land use change would come to City Island; the beauty of the place is immediately apparent. Only a quarter-mile causeway separates the small island from the rest of the Bronx, one of the five boroughs of New York City, and yet City Island can seem a world away. The former United Boat Service Yard at the foot of Carroll Street was the first major maritim"
+   },
+   "published": "Fri, 20 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Promotions Gallery in Paris, France",
+   "article": {
+    "title": "Promotions Gallery in Paris, France",
+    "url": "https://www.atlasobscura.com/places/promotions-gallery",
+    "extract": "Historically, a secret entrance at the School of Mines, known as the “Mines staircase,” provided students access to the Paris Catacombs. Although this private access is no longer available for use due to safety reasons, the General Inspector of Quarries still grants students permission to uphold this artistic tradition. Each year, on the occasion of Sainte-Barbe, celebrated on December 4th in hono"
+   },
+   "published": "Thu, 19 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Čigoč Stork Village in Kratečko, Croatia",
+   "article": {
+    "title": "Čigoč Stork Village in Kratečko, Croatia",
+    "url": "https://www.atlasobscura.com/places/cigoc-stork-village",
+    "extract": "In the Croatian village of Čigoč, some of the most conspicuous residents live above the rooftops. White storks build bulky nests on traditional wooden houses, sharing the settlement with the people below. Situated in Lonjsko Polje Nature Park beside the Tišina oxbow of the Sava River, the village is surrounded by wet meadows, pastures, and pools. These habitats provide feeding grounds close to the"
+   },
+   "published": "Thu, 19 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thunder Hole in Bar Harbor, Maine",
+   "article": {
+    "title": "Thunder Hole in Bar Harbor, Maine",
+    "url": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "extract": "Located in Maine's Acadia National Park, along the rocky shoreline of Mount Desert Island, Thunder Hole is a natural geological formation known for producing a booming, thunder-like sound phenomenon that gives it its name, as well as for explosive water sprays reaching up to 40 feet. Resulting from glacial activity over thousands of years ago, what began as a small, natural fissure in the solid gr"
+   },
+   "published": "Thu, 19 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+   "article": {
+    "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+    "url": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
+    "extract": "Most memorial museums stay put in the house of the person they remember. This one moved out. It was founded in 1968 in the Tashkent house where Abdulla Avloni (1878–1934) had lived with his family from 1910 until his death. Avloni was one of the Jadids, the Muslim reformers who believed Central Asia could be renewed through new-method schools, newspapers and the theatre. He opened schools, wrote t"
+   },
+   "published": "Thu, 19 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring Alberta’s Rich History in Fiction",
+   "article": {
+    "title": "Podcast: Exploring Alberta’s Rich History in Fiction",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-alberta-s-rich-history-in-fiction",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. In this episode of The Atlas Obscura Podcast, we’re exploring the surprising side of Alberta with the Canadian novelist Esi Edugyan. Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinatin"
+   },
+   "published": "Thu, 19 Nov 2026 07:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Quiz: How Fast Can You Name Europe's 10 Largest Countries?",
+   "article": {
+    "title": "Quiz: How Fast Can You Name Europe's 10 Largest Countries?",
+    "url": "https://www.mentalfloss.com/quizzes/geography/how-fast-name-europe-10-largest-countries?utm_source=RSS",
+    "extract": "Most people miss at least one!"
+   },
+   "published": "Sun, 22 Nov 2026 13:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Old-Fashioned Words That Describe Beauty",
+   "article": {
+    "title": "7 Old-Fashioned Words That Describe Beauty",
+    "url": "https://www.mentalfloss.com/language/words/old-fashioned-words-describe-beauty?utm_source=RSS",
+    "extract": "These words aren't used as often as they once were, but their beautiful meanings are timeless!"
+   },
+   "published": "Sun, 22 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 European Villages That Look Even More Magical in the Snow",
+   "article": {
+    "title": "7 European Villages That Look Even More Magical in the Snow",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/european-villages-look-more-magical-in-snow?utm_source=RSS",
+    "extract": "These picturesque European villages become even more enchanting when snow blankets their streets and rooftops."
+   },
+   "published": "Sat, 21 Nov 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's Biggest Senior Populations, Mapped By State",
+   "article": {
+    "title": "America's Biggest Senior Populations, Mapped By State",
+    "url": "https://www.mentalfloss.com/geography/states/biggest-senior-populations-by-state?utm_source=RSS",
+    "extract": "Roughly 19% of the U.S. population is 65 or older, but aging trends vary drastically by state. See where your state ranks according to Census data."
+   },
+   "published": "Sat, 21 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Famous Books That Were Written in Prison",
+   "article": {
+    "title": "10 Famous Books That Were Written in Prison",
+    "url": "https://www.mentalfloss.com/literature/books/famous-books-written-prison?utm_source=RSS",
+    "extract": "From Marco Polo to Oscar Wilde, many great writers have penned classic texts behind bars."
+   },
+   "published": "Sat, 21 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Thanksgiving Accident That Created TV Dinners",
+   "article": {
+    "title": "The Thanksgiving Accident That Created TV Dinners",
+    "url": "https://www.mentalfloss.com/food/thanksgiving-accident-created-tv-dinners?utm_source=RSS",
+    "extract": "How 260 tons of frozen birds inspired decades of easy meals in front of the TV."
+   },
+   "published": "Sat, 21 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Name Traditions in the 'Hunger Games' Franchise, Explained",
+   "article": {
+    "title": "5 Name Traditions in the 'Hunger Games' Franchise, Explained",
+    "url": "https://www.mentalfloss.com/entertainment/movies/hunger-games-name-traditions-explained?utm_source=RSS",
+    "extract": "Suzanne Collins chose the character names very deliberately in the 'Hunger Games' franchise to showcase Panem's systems of oppression and covert rebellion."
+   },
+   "published": "Sat, 21 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Famous Books That Were Written Under the Influence of Drugs",
+   "article": {
+    "title": "5 Famous Books That Were Written Under the Influence of Drugs",
+    "url": "https://www.mentalfloss.com/literature/books/books-written-under-influence-drugs?utm_source=RSS",
+    "extract": "From Stephen King to Jack Kerouac, these authors used altered states to complete their literary masterpieces."
+   },
+   "published": "Sat, 21 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Things You Probably Didn't Know About Artemis, the Greek Goddess of the Hunt",
+   "article": {
+    "title": "5 Things You Probably Didn't Know About Artemis, the Greek Goddess of the Hunt",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/things-you-didnt-know-about-artemis?utm_source=RSS",
+    "extract": "There's a whole lot more to Artemis than her bow and arrow. The Greek goddess, now a major character on Hulu's 'Percy Jackson and the Olympians,' is associated with childbirth and dance—and could also be shockingly vengeful."
+   },
+   "published": "Sat, 21 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Real Portland Locations From 'Wildwood'",
+   "article": {
+    "title": "7 Real Portland Locations From 'Wildwood'",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/real-wildwood-portland-locations?utm_source=RSS",
+    "extract": "'Wildwood' is a love letter to the city of Portland. I visited some locations that appear in the book and movie, including Forest Park, Voodoo Doughnuts, and more."
+   },
+   "published": "Fri, 20 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Common European Ancestry in Every State, Mapped",
+   "article": {
+    "title": "The Most Common European Ancestry in Every State, Mapped",
+    "url": "https://www.mentalfloss.com/geography/states/most-common-european-ancestry-by-state-map?utm_source=RSS",
+    "extract": "Which European country left the biggest demographic mark on your state? We break down the U.S. Census Bureau’s latest ancestry data, state by state."
+   },
+   "published": "Fri, 20 Nov 2026 21:20:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "8 Things Every ‘90s Kid Remembers About Thanksgiving",
+   "article": {
+    "title": "8 Things Every ‘90s Kid Remembers About Thanksgiving",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/things-every-90s-kid-remembers-thanksgiving?utm_source=RSS",
+    "extract": "From arts and crafts to games, these activities will be nostalgic for any ‘90s kid."
+   },
+   "published": "Fri, 20 Nov 2026 19:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+   "article": {
+    "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+    "url": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/",
+    "extract": "After \"Ser III No. 5,\" painted in 1920, sold for nearly 16 times its pre-sale estimate, critics charged that af Klint wanted to keep her \"holy body of work\" together in a temple, not spread across private collections"
+   },
+   "published": "Fri, 20 Nov 2026 21:23:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+   "article": {
+    "title": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+    "url": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/",
+    "extract": "The Xiongnu people dominated Central Asia for some 300 years. Now, a grave discovered in Mongolia has revealed the pastoral culture’s links to the Roman Empire, Han China and the Lelang Commandery"
+   },
+   "published": "Fri, 20 Nov 2026 20:22:42 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+   "article": {
+    "title": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+    "url": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/",
+    "extract": "Samples swabbed from the 17th-century painting reveal myriad microorganisms, including one perplexing bacterium that was first discovered at a Japanese sugar refinery in 2013"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:53 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+   "article": {
+    "title": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+    "url": "https://www.smithsonianmag.com/smart-news/for-the-first-time-astronomers-witnessed-a-giant-star-gobble-up-its-smaller-stellar-companion-180989905/",
+    "extract": "The merger caused an eruption in late 2025, which researchers rushed to document using several ground- and space-based telescopes. With older data and the help of computer simulations, the team reconstructed the entire astrophysical process"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+   "article": {
+    "title": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+    "url": "https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/",
+    "extract": "Around 20 members of the Indigenous Awá tribe emerged from the rainforest and received food from neighboring villagers. The group has not made contact with the outside world in decades, so experts say deforestation may have left these individuals with no other option"
+   },
+   "published": "Fri, 20 Nov 2026 17:08:26 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+   "article": {
+    "title": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+    "url": "https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/",
+    "extract": "In northeastern Chad, researchers found evidence of Verreaux's eagles attacking full-grown olive baboons weighing as much as a small human. The findings suggest early hominins had to watch out for ambushes from the sky, which may have shaped their evolution"
+   },
+   "published": "Fri, 20 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+   "article": {
+    "title": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+    "url": "https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/",
+    "extract": "One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory \"on its head,\" according to one researcher"
+   },
+   "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+   "article": {
+    "title": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+    "url": "https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/",
+    "extract": "Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+   "article": {
+    "title": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+   "article": {
+    "title": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+    "url": "https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/",
+    "extract": "The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt"
+   },
+   "published": "Thu, 19 Nov 2026 21:22:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+   "article": {
+    "title": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/",
+    "extract": "The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public"
+   },
+   "published": "Thu, 19 Nov 2026 21:18:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+   "article": {
+    "title": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+    "url": "https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/",
+    "extract": "The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue"
+   },
+   "published": "Thu, 19 Nov 2026 20:35:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+   "article": {
+    "title": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/21/tragedia-pod-otloczynem-najwieksza-katastrofa-kolejowa-w-historii-prl/",
+    "extract": "19 sierpnia 1980 roku, wczesnym rankiem, pod Otłoczynem doszło do największej katastrofy kolejowej w powojennej historii Polski. W czołowym zderzeniu dwóch pociągów zginęło 67 osób, a 64 zostały ranne. Siła uderzenia była tak ogromna, że jeden z wagonów praktycznie przestał istnieć. The post Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL first appeared on CiekawostkiHistory"
+   },
+   "published": "Sat, 21 Nov 2026 09:59:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+   "article": {
+    "title": "Jak CIA odnalazła kryjówkę Osamy bin Ladena? Wszystko zaczęło się od jednego człowieka",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/09/jak-cia-odnalazla-kryjowke-osamy-bin-ladena-wszystko-zaczelo-sie-od-jednego-czlowieka/",
+    "extract": "Przez osiem lat amerykański wywiad bezskutecznie poszukiwał Osamy bin Ladena. W 2010 roku pojawił się jednak trop, który zaprowadził agentów CIA do niepozornego miasta w Pakistanie. Uwagę analityków zwróciła tajemnicza posiadłość otoczona wysokimi murami, pozbawiona telefonu i dostępu do internetu. Czy właśnie tam ukrywał się najbardziej poszukiwany terrorysta świata? Barack Obama zażądał odpowied"
+   },
+   "published": "Mon, 09 Nov 2026 19:12:02 +0000",
+   "image": null
+  }
+ ]
+}
