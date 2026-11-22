@@ -2,6 +2,10 @@
 window.HYPERS_URLS = {
  "2026-11-22": {
   "luz": [
+   "artykuly/2026-11-22/tivolt-wrzucil-trzy-odcinki-gta-6-jednego-dnia-widzowie-wypatrzyli.html",
+   "artykuly/2026-11-22/ludwig-gra-w-gta-6-bez-zabijania-kolejny-dzien-maratonu-trwal-prawie.html",
+   "artykuly/2026-11-22/kai-cenat-po-przejsciu-fabuly-zwiedzal-mape-gta-6-i-nagral-gta-6.html",
+   "artykuly/2026-11-22/jynxzi-wraca-do-szachow-gothamchess-wrzucil-film-o-jego-nowych.html",
    "artykuly/2026-11-22/krytycy-dali-gta-6-99-100-gracze-na-metacriticu-duzo-mniej-lootbox.html",
    "artykuly/2026-11-22/kaluch-wrocil-z-pogromcami-mitow-tym-razem-w-gta-6-pierwszy-odcinek.html",
    "artykuly/2026-11-22/auto-ktore-ukradnie-w-gta-6-dostanie-naprawde-jego-tata-nowy-film.html",
@@ -10,6 +14,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-22/ospanno-gral-w-gta-6-bez-lamania-prawa-zero-kradziezy-czerwone.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-22/w-indyjskim-hajdarabadzie-stoi-czteropietrowy-urzad-w-ksztalcie.html",
+   "artykuly/2026-11-22/pop-z-lat-2010-ma-swoj-charakterystyczny-dzwiek-milenijne-luu-oo-luu.html",
+   "artykuly/2026-11-22/mozart-napisal-utwor-muzyczny-zart-pelen-celowych-bledow-ktore-moga.html",
+   "artykuly/2026-11-22/przez-dekady-nieznany-mezczyzna-w-czerni-co-roku-w-urodziny-poego.html",
+   "artykuly/2026-11-22/w-japonii-ktos-podpisany-jako-bohater-mangi-tiger-mask-podrzucil.html",
+   "artykuly/2026-11-22/prawo-spadajacego-tosta-ma-swoja-nazwe-i-ludzie-naprawde-badali-czy.html",
    "artykuly/2026-11-22/pierwsza-znana-powiesc-kobiety-po-maltansku-powstala-w-1919.html",
    "artykuly/2026-11-22/hiszpanski-arystokrata-alfonso-de-borbon-y-borbon-mial-88-imion.html",
    "artykuly/2026-11-22/najwyzsza-budowla-na-zachodniej-polkuli-to-nie-wiezowiec-tylko-maszt.html",

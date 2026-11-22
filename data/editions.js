@@ -6,6 +6,192 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "pl",
+        "published": "2026-11-22",
+        "who": "Tivolt",
+        "initials": "TV",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Tivolt wrzucił trzy odcinki GTA 6 jednego dnia. Widzowie wypatrzyli u niego łódź, która może należeć do Michaela z GTA 5",
+        "summary": "W niedzielę na kanale Tivolta pojawiły się odcinki 13, 14 i 15 jego serii z GTA 6, w tym „Testujemy 60FPS!”. W komentarzach widzowie podpowiadają mu, żeby zajrzał na ekran GPS w łodzi przy domu Jasona.",
+        "body": [
+          "Tivolt, który razem z Yoji720 zaczął polskie serie z GTA 6 w dniu premiery, w niedzielę przyspieszył: przed południem wrzucił 13. odcinek „Testujemy 60FPS!”, a po nim 14. „Poważna robota” i 15. „Rozdział drugi”.",
+          "Do godz. 14:16 najnowszy z tej trójki, 13. odcinek, miał ok. 15,6 tys. wyświetleń i ponad 1,1 tys. polubień.",
+          "Najwięcej polubień zebrały komentarze o łodzi zacumowanej obok kryjówki Jasona. Widzowie piszą, że jej GPS pokazuje okolice Los Santos z GTA 5. O tym szczególe pisał wcześniej gram.pl: to łódź tego samego modelu, który w GTA 5 miał Michael De Santa, a jej ekran GPS pokazuje mapę Los Santos zamiast Leonidy. Fani podejrzewają, że to skradziona w GTA 5 łódź Michaela, ale Rockstar tego nie potwierdził.",
+          "Inni widzowie żartują z czarnych włosów Jasona i podpowiadają, że w bagażniku auta jednej z postaci leżała broń, którą Tivolt przegapił."
+        ],
+        "sources": [
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=Cn7yU9qMHTM",
+            "origin": true
+          },
+          {
+            "name": "Tivolt / YouTube (odc. 15)",
+            "url": "https://www.youtube.com/watch?v=o4jc7vzKnWw"
+          },
+          {
+            "name": "gram.pl",
+            "url": "https://www.gram.pl/news/gta-6-skrywa-duze-nawiazanie-do-gta-5-gracze-odkryli-zaskakujacy-szczegol-na-ekranie-gps"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Cn7yU9qMHTM",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Cn7yU9qMHTM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Cn7yU9qMHTM/hqdefault.jpg",
+          "credit": "Tivolt / YouTube",
+          "href": "https://www.youtube.com/watch?v=Cn7yU9qMHTM",
+          "alt": "Miniatura 13. odcinka serii GTA 6 Tivolta „Testujemy 60FPS!”",
+          "caption": "13. odcinek serii GTA 6 Tivolta"
+        },
+        "caption": {
+          "credit": "Tivolt / YouTube",
+          "text": "Miniatura 13. odcinka, pod którym widzowie dyskutują o łodzi z GPS-em pokazującym Los Santos. To pierwszy z trzech odcinków, które Tivolt wrzucił w niedzielę."
+        },
+        "insta": {
+          "tytul": "Tivolt wrzucił trzy odcinki GTA 6 jednego dnia",
+          "opis": "A widzowie wypatrzyli u niego łódź, której GPS pokazuje Los Santos. Fani myślą, że to łódź Michaela z GTA 5, Rockstar milczy 👀"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Ludwig",
+        "initials": "LA",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Ludwig gra w GTA 6 bez zabijania. Kolejny dzień maratonu trwał prawie 12 godzin",
+        "summary": "Ludwig Ahgren zmienił zasady swojego maratonu GTA 6: tym razem przechodzi grę w wersji „non-lethal”, czyli bez zabijania. Zapis prawie 12-godzinnego streamu ma blisko pół miliona wyświetleń.",
+        "body": [
+          "Amerykański streamer Ludwig Ahgren od premiery GTA 6 prowadzi maraton z grą i co godzinę rozdaje widzom kody. Najnowszy zapis transmisji, opublikowany w niedzielę rano, nosi tytuł „Non-lethal GTA VI marathon”, czyli maraton, w którym Ludwig stara się nikogo nie zabić.",
+          "Stream trwał prawie 12 godzin. Do godz. 14:16 zapis miał ok. 499 tys. wyświetleń i ok. 1,8 tys. polubień.",
+          "Widzowie w komentarzach wskazują momenty, przy których najbardziej się śmiali, i żartują z tego, jak Ludwig radzi sobie z prowadzeniem auta."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/watch?v=7aet0w1rrQE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=7aet0w1rrQE",
+        "ig": [
+          "ludwigahgren"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/7aet0w1rrQE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/7aet0w1rrQE/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/watch?v=7aet0w1rrQE",
+          "alt": "Miniatura zapisu streamu Ludwiga z maratonu GTA 6 bez zabijania",
+          "caption": "Maraton GTA 6 Ludwiga w wersji bez zabijania"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura zapisu niedzielnego streamu Ludwiga. W tym dniu maratonu przechodzi GTA 6 z zasadą, że nikogo nie zabija."
+        },
+        "insta": {
+          "tytul": "Ludwig gra w GTA 6 bez zabijania",
+          "opis": "Kolejny dzień jego maratonu trwał prawie 12 godzin. W GTA, gdzie wszystko zachęca do rozwałki, to spore wyzwanie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Kai Cenat po przejściu fabuły zwiedzał mapę GTA 6 i nagrał „GTA 6 w prawdziwym życiu”",
+        "summary": "Po ukończeniu historii Kai Cenat wrócił do GTA 6, żeby przez prawie 7 godzin zwiedzać Vice City. Z tego samego streamu wyszedł osobny 10-minutowy materiał „Kai Cenat Plays GTA 6 In Real Life!”.",
+        "body": [
+          "Kai Cenat skończył fabułę GTA 6 dzień wcześniej, ale nie odłożył gry. W niedzielę rano na jego kanale ze streamami pojawił się zapis prawie 7-godzinnej transmisji „Exploring GTA 6”, w której zwiedzał mapę. Do godz. 14:16 miał ok. 1,38 mln wyświetleń.",
+          "Osobno trafił tam 10-minutowy materiał „Kai Cenat Plays GTA 6 In Real Life!”. Do tej samej godziny miał ok. 108 tys. wyświetleń i ok. 2,2 tys. polubień.",
+          "Widzowie w komentarzach chwalą pomysł na misję w prawdziwym świecie i produkcję, która według nich wygląda jak film. Część pisze, że Kai rozegrał w ostatnim miesiącu wszystkie części serii przed szóstką."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=ETWvry6twFA",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube (stream)",
+            "url": "https://www.youtube.com/watch?v=S3NEzaumEnQ"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=ETWvry6twFA",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/ETWvry6twFA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/ETWvry6twFA/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=ETWvry6twFA",
+          "alt": "Miniatura filmu „Kai Cenat Plays GTA 6 In Real Life!”",
+          "caption": "Kai Cenat i „GTA 6 w prawdziwym życiu”"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura 10-minutowego materiału, w którym Kai Cenat przenosi GTA 6 do prawdziwego świata. Powstał przy streamie, na którym zwiedzał mapę gry po przejściu fabuły."
+        },
+        "insta": {
+          "tytul": "Kai Cenat przeszedł GTA 6, a potem zagrał w nie… w prawdziwym życiu",
+          "opis": "Po fabule przez prawie 7 godzin zwiedzał Vice City, a z tego samego streamu wyszedł osobny film z misją IRL."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy",
+        "hype": 3,
+        "title": "Jynxzi wraca do szachów. GothamChess wrzucił film o jego nowych partiach",
+        "summary": "Levy Rozman, czyli GothamChess, opublikował 35-minutowy film „Jynxzi is back to chess (It's Chaos)”. Popularny streamer znów gra w szachy, a GothamChess omawia jego partie.",
+        "body": [
+          "W niedzielę po południu na kanale GothamChess pojawił się film „Jynxzi is back to chess (It's Chaos)”. Levy Rozman, jeden z najpopularniejszych szachowych twórców na świecie, wraca w nim do partii Jynxziego, streamera znanego głównie ze streamów z innych gier, który znów usiadł do szachów.",
+          "Film trwa ok. 35 minut. Tuż po publikacji, w kilkadziesiąt minut, zebrał ok. 280 polubień i ponad 130 komentarzy.",
+          "Widzowie piszą, że długo czekali na powrót tej serii, i zastanawiają się, czy Jynxzi faktycznie gra lepiej niż wcześniej, czy czekają ich kolejne jego wpadki na szachownicy."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=sxNnQ1lZaco",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=sxNnQ1lZaco",
+        "ig": [
+          "gothamchess"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/sxNnQ1lZaco/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/sxNnQ1lZaco/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=sxNnQ1lZaco",
+          "alt": "Miniatura filmu GothamChess o powrocie Jynxziego do szachów",
+          "caption": "GothamChess o powrocie Jynxziego do szachów"
+        },
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura filmu, w którym GothamChess omawia nowe partie Jynxziego. To powrót serii, na którą widzowie czekali od dawna."
+        },
+        "insta": {
+          "tytul": "Jynxzi wrócił do szachów, a GothamChess już to omawia",
+          "opis": "Levy wrzucił 35-minutowy film o jego nowych partiach. W tytule ostrzega: będzie chaos ♟️"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
         "published": "2026-11-21",
         "who": "LootBox",
         "initials": "LB",
@@ -283,6 +469,252 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Indie",
+        "initials": "IN",
+        "category": "Architektura",
+        "hype": 4,
+        "title": "W indyjskim Hajdarabadzie stoi czteropiętrowy urząd w kształcie gigantycznej ryby",
+        "summary": "Siedziba indyjskiej Narodowej Rady Rozwoju Rybołówstwa wygląda jak ogromna ryba. Budynek otwarto w 2012 roku.",
+        "body": [
+          "National Fisheries Development Board, czyli indyjska rada zajmująca się rozwojem rybołówstwa, ma siedzibę w Hajdarabadzie w budynku zaprojektowanym w kształcie ryby. Czteropiętrowy gmach zaprojektował państwowy Central Public Works Department, a oficjalnie otwarto go w kwietniu 2012 roku.",
+          "To przykład architektury mimetycznej, czyli budynków udających przedmioty związane z ich funkcją. Inspiracją miała być wielka rzeźba „Ryba” Franka Gehry'ego w Barcelonie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/National_Fisheries_Development_Board_building"
+          },
+          {
+            "name": "CNN",
+            "url": "https://www.cnn.com/style/article/mimetic-architecture-osm/index.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Fish_shaped_building.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Fish_shaped_building.jpg",
+          "credit": "Nagaraju raveender / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Budynek w kształcie wielkiej niebieskiej ryby w Hajdarabadzie",
+          "caption": "Siedziba indyjskiej rady rybołówstwa w Hajdarabadzie"
+        },
+        "caption": {
+          "credit": "Nagaraju raveender / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje budynek rady rybołówstwa w Hajdarabadzie. Widać, że cała bryła ma kształt ryby."
+        },
+        "insta": {
+          "tytul": "W Indiach jest urząd w kształcie gigantycznej ryby",
+          "opis": "To siedziba rady od rybołówstwa w Hajdarabadzie. Cztery piętra, otwarta w 2012 roku. Przynajmniej nikt nie pomyli adresu."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Muzyka pop",
+        "initials": "MP",
+        "category": "Muzyka",
+        "hype": 4,
+        "title": "Pop z lat 2010. ma swój charakterystyczny dźwięk: „milenijne łuu-oo-łuu-oo”",
+        "summary": "Muzycy nazwali to „millennial whoop”. To prosty motyw dwóch dźwięków śpiewany na „ła” i „oł”, który w latach 2010. pojawiał się w ogromnej liczbie przebojów.",
+        "body": [
+          "„Millennial whoop” to wokalny motyw, w którym melodia przeskakuje w kółko między piątym a trzecim stopniem gamy durowej, równymi ósemkami i zwykle na sylabach „wa” i „oh”.",
+          "Motyw był tak często używany w popie lat 2010., że doczekał się własnej nazwy, a posłuchanie składanki przebojów z tamtych lat wystarczy, żeby go wyłapać."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Millennial_whoop"
+          },
+          {
+            "name": "The Patterning",
+            "url": "https://thepatterning.com/2016/08/20/the-millennial-whoop-a-glorious-obsession-with-the-melodic-alternation-between-the-fifth-and-the-third/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/Millenial_whoop.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Millenial_whoop.png",
+          "credit": "Jean-no / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Zapis nutowy motywu millennial whoop",
+          "caption": "Zapis nutowy „millennial whoop”"
+        },
+        "caption": {
+          "credit": "Jean-no / Wikimedia Commons",
+          "text": "Grafika pokazuje w nutach motyw „millennial whoop”. Widać naprzemienne dwa dźwięki, z których składa się cały zabieg."
+        },
+        "insta": {
+          "tytul": "Te „łuu-oo-łuu-oo” z popu lat 2010. ma swoją nazwę",
+          "opis": "To „millennial whoop”: dwa dźwięki śpiewane na zmianę. Puść sobie przeboje z tamtych lat i usłyszysz je wszędzie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Mozart",
+        "initials": "WM",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Mozart napisał utwór „Muzyczny żart”, pełen celowych błędów, które mogą parodiować kiepskich kompozytorów",
+        "summary": "W 1787 roku Mozart wpisał do katalogu swoich dzieł divertimento „Ein musikalischer Spaß”. Wielu znawców uważa, że jego wpadki harmoniczne są zamierzoną satyrą.",
+        "body": [
+          "„Muzyczny żart” (KV 522) to divertimento na dwa rogi i kwartet smyczkowy. Mozart wpisał je do swojego „Katalogu wszystkich moich dzieł” 14 czerwca 1787 roku.",
+          "Wielu komentatorów uważa, że błędy harmoniczne i rytmiczne w utworze mają parodiować nieudolnych kompozytorów. Sam Mozart nigdy jednak nie zdradził, co naprawdę miał na myśli."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/A_Musical_Joke"
+          },
+          {
+            "name": "Robert Greenberg",
+            "url": "https://robertgreenbergmusic.com/dr-bob-prescribes-wolfgang-mozart-ein-musikalischer-spas-k-522/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mozart_drawing_Doris_Stock_1789.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Mozart_drawing_Doris_Stock_1789.jpg",
+          "credit": "Dora Stock / Wikimedia Commons, domena publiczna",
+          "alt": "Rysunek portretowy Mozarta z 1789 roku",
+          "caption": "Mozart na rysunku Dory Stock z 1789 roku"
+        },
+        "caption": {
+          "credit": "Dora Stock / Wikimedia Commons",
+          "text": "Portret Mozarta narysowany w 1789 roku, dwa lata po powstaniu „Muzycznego żartu”. To autor utworu, o którym jest ciekawostka."
+        },
+        "insta": {
+          "tytul": "Mozart napisał utwór specjalnie pełen błędów",
+          "opis": "„Muzyczny żart” z 1787 r. ma podobno wyśmiewać słabych kompozytorów. Sam Mozart nigdy nie powiedział, o co mu chodziło."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Edgar Allan Poe",
+        "initials": "EP",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Przez dekady nieznany mężczyzna w czerni co roku w urodziny Poego wznosił toast przy jego grobie",
+        "summary": "Media nazwały go Poe Toaster. Co roku 19 stycznia nad ranem zostawiał przy grobie pisarza w Baltimore trzy róże i napoczętą butelkę koniaku.",
+        "body": [
+          "Przez kilkadziesiąt lat w nocy z 18 na 19 stycznia, w urodziny Edgara Allana Poego, do jego pierwotnego grobu w Baltimore przychodziła postać w czarnym stroju, kapeluszu z szerokim rondem i białym szalu. Wznosiła toast koniakiem, zostawiała trzy róże i resztę butelki, po czym znikała.",
+          "Tożsamości „Toastera” nigdy nie ujawniono, a według relacji to mogła być więcej niż jedna osoba. Fani Poego co roku czekali, żeby go zobaczyć, aż w 2012 roku uznali, że tradycja się skończyła."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Poe_Toaster"
+          },
+          {
+            "name": "AP (archiwum)",
+            "url": "https://web.archive.org/web/20151218181340/http://apnews.myway.com/article/20120119/D9SC19EG0.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Edgar_allan_poes_grave.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Edgar_allan_poes_grave.jpg",
+          "credit": "KRichter / Wikimedia Commons, domena publiczna",
+          "alt": "Pomnik nagrobny Edgara Allana Poego w Baltimore",
+          "caption": "Grób Edgara Allana Poego w Baltimore"
+        },
+        "caption": {
+          "credit": "KRichter / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje miejsce pamięci Poego w Baltimore. To tu co roku przychodził tajemniczy „Toaster”."
+        },
+        "insta": {
+          "tytul": "Przez lata ktoś w czerni pił toast przy grobie Poego w jego urodziny",
+          "opis": "Zostawiał trzy róże i butelkę koniaku, potem znikał. Do dziś nie wiadomo, kto to był 🥃"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Społeczeństwo",
+        "hype": 3,
+        "title": "W Japonii ktoś podpisany jako bohater mangi „Tiger Mask” podrzucił do domu dziecka 10 tornistrów",
+        "summary": "W Boże Narodzenie 2010 roku ktoś zostawił w ośrodku dla dzieci w prefekturze Gunma tornistry z podpisem „Naoto Date”. Tak nazywał się bohater mangi, a po nim przyszła fala podobnych darów.",
+        "body": [
+          "25 grudnia 2010 roku w ośrodku opieki nad dziećmi w prefekturze Gunma ktoś zostawił dziesięć tornistrów randoseru, każdy za ok. 30 tys. jenów. Na kartce podpisał się „Naoto Date”, czyli prawdziwym nazwiskiem Tiger Maska, zapaśnika z mangi z lat 60. i 70., który sam wychował się w sierocińcu i walczył dla sierot.",
+          "Po tym pierwszym prezencie w całej Japonii pojawili się naśladowcy. Do placówek dla dzieci trafiały kolejne tornistry, zabawki, jedzenie i pieniądze."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Tiger_Mask_donation_phenomenon"
+          },
+          {
+            "name": "Anime News Network",
+            "url": "http://www.animenewsnetwork.com/interest/2010-12-27/manga/anime-hero-leaves-gifts-on-christmas-morning"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/JapaneseBackpack.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:JapaneseBackpack.jpg",
+          "credit": "Kanko* from Nagasaki, JAPAN / Wikimedia Commons, CC BY 2.0",
+          "alt": "Japoński skórzany tornister szkolny randoseru",
+          "caption": "Japoński tornister randoseru"
+        },
+        "caption": {
+          "credit": "Kanko* / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje randoseru, tradycyjny japoński tornister szkolny. Właśnie takie tornistry podrzucił darczyńca podpisany jako Tiger Mask."
+        },
+        "insta": {
+          "tytul": "Ktoś w Japonii podrzucił do domu dziecka tornistry jako… bohater mangi",
+          "opis": "Podpisał się jak Tiger Mask, zapaśnik-sierota z komiksu. Potem w całym kraju ruszyła fala takich prezentów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Tost z masłem",
+        "initials": "TM",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "„Prawo” spadającego tosta ma swoją nazwę i ludzie naprawdę badali, czy spada masłem w dół",
+        "summary": "Obserwacja, że tost z masłem zawsze ląduje masłem w dół, to „buttered toast phenomenon”. Różne osoby próbowały to sprawdzić, z różnym skutkiem.",
+        "body": [
+          "Po angielsku zjawisko nazywa się „buttered toast phenomenon”: przekonanie, że posmarowany tost spada na podłogę zawsze stroną z masłem. Stało się też powiedzeniem opisującym pesymistyczne podejście do życia.",
+          "Różni ludzie próbowali sprawdzić, czy chleb rzeczywiście ma taką tendencję, i dochodzili do różnych wyników."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Buttered_toast_phenomenon"
+          },
+          {
+            "name": "Phrases.org.uk",
+            "url": "http://www.phrases.org.uk/meanings/butter-side-down.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dropped_buttered_toast_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Dropped_buttered_toast_(cropped).jpg",
+          "credit": "EgoVolo / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Tost z masłem leżący na podłodze",
+          "caption": "Upuszczony tost z masłem"
+        },
+        "caption": {
+          "credit": "EgoVolo / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje upuszczony tost z masłem na podłodze. Właśnie tę sytuację opisuje „buttered toast phenomenon”."
+        },
+        "insta": {
+          "tytul": "To, że tost spada masłem w dół, ma swoją nazwę",
+          "opis": "„Buttered toast phenomenon”. I tak, ludzie serio to badali, tylko wyniki wyszły różne 🍞"
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-22",
