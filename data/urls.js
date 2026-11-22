@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-22": {
+  "luz": [
+   "artykuly/2026-11-22/krytycy-dali-gta-6-99-100-gracze-na-metacriticu-duzo-mniej-lootbox.html",
+   "artykuly/2026-11-22/kaluch-wrocil-z-pogromcami-mitow-tym-razem-w-gta-6-pierwszy-odcinek.html",
+   "artykuly/2026-11-22/auto-ktore-ukradnie-w-gta-6-dostanie-naprawde-jego-tata-nowy-film.html",
+   "artykuly/2026-11-22/kai-cenat-przeszedl-gta-6-skrot-finalu-trafil-na-jego-kanal.html",
+   "artykuly/2026-11-22/graystillplays-porownal-zniszczenia-aut-w-gta-6-i-gta-5-to-jego.html",
+   "artykuly/2026-11-22/ospanno-gral-w-gta-6-bez-lamania-prawa-zero-kradziezy-czerwone.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-22/pierwsza-znana-powiesc-kobiety-po-maltansku-powstala-w-1919.html",
+   "artykuly/2026-11-22/hiszpanski-arystokrata-alfonso-de-borbon-y-borbon-mial-88-imion.html",
+   "artykuly/2026-11-22/najwyzsza-budowla-na-zachodniej-polkuli-to-nie-wiezowiec-tylko-maszt.html",
+   "artykuly/2026-11-22/muzyk-jandek-od-1978-r-wydal-ponad-120-albumow-i-prawie-nic-o-sobie.html"
+  ]
+ },
  "2026-11-21": {
   "luz": [
    "artykuly/2026-11-21/kai-cenat-ukonczyl-gta-6-zapis-finalowego-streamu-ma-2-6-mln.html",

@@ -1,5 +1,454 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-22": {
+    "date": "2026-11-22",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-21",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Krytycy dali GTA 6 99/100, gracze na Metacriticu dużo mniej. LootBox omawia falę niskich ocen",
+        "summary": "Ocena krytyków GTA 6 na Metacriticu to 99/100, a średnia od graczy spadła w okolice 5/10. Kanał LootBox poświęcił temu pierwszą część swojego sobotniego odcinka.",
+        "body": [
+          "W sobotę na kanale LootBox pojawił się odcinek „GTA 6 zmasakrowane w recenzjach graczy!”. Według rozpiski w opisie pierwsze minuty dotyczą ocen od graczy, a dalej twórcy mówią o sposobie na 60 FPS, porównaniu Xboxa z PS5 Pro, sprzedaży gry i trybie pierwszoosobowym.",
+          "Liczby z Metacritica potwierdzają serwisy o grach. Według GTA Base 21 listopada wersja na PS5 miała ocenę krytyków 99/100 (152 recenzje) i średnią od graczy 5,6/10 przy ok. 67,7 tys. ocen, z czego 44 proc. było negatywnych. KeenGamer dzień wcześniej podawał 5,1/10 przy prawie 10 tys. ocen.",
+          "W negatywnych opiniach gracze najczęściej narzekają na 30 klatek na sekundę na konsolach, powolne tempo początku gry, błędy i to, że gra jest zbyt „życiowa”, np. przez zakupy czy ćwiczenia. Część ocen dotyczy też sporów obyczajowych wokół gry. Serwisy opisują to jako tzw. review bombing.",
+          "Jak pisze PPE.pl, powołując się na VGC, Metacritic usunął już fałszywe oceny wystawione przed premierą i na kilka dni wstrzymał ocenianie gry. Rockstar nie skomentował ocen użytkowników."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=vZm74wwo0nE",
+            "origin": true
+          },
+          {
+            "name": "GTA Base",
+            "url": "https://www.gtabase.com/gta-6/articles/gta-6-review-bombed-on-metacritic"
+          },
+          {
+            "name": "KeenGamer",
+            "url": "https://www.keengamer.com/articles/news/gta-6-metacritic-user-score-drops-to-mixed-amid-review-bombing/"
+          },
+          {
+            "name": "PPE.pl",
+            "url": "https://www.ppe.pl/news/433603/metacritic-usuwa-oceny-sfrustrowanych-graczy-ocenili-gta-6-na-6-5-10.html"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vZm74wwo0nE",
+        "ig": [
+          "lootbox_news"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vZm74wwo0nE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vZm74wwo0nE/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=vZm74wwo0nE",
+          "alt": "Miniatura odcinka LootBox o ocenach GTA 6 od graczy",
+          "caption": "LootBox o ocenach GTA 6 od graczy"
+        },
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura odcinka LootBox, który zaczyna się od niskich ocen GTA 6 od graczy. Liczby z Metacritica potwierdzają GTA Base i KeenGamer."
+        },
+        "insta": {
+          "tytul": "Krytycy dali GTA 6 99/100, a gracze na Metacriticu ok. 5/10",
+          "opis": "Gracze narzekają m.in. na 30 FPS i wolny początek. Metacritic już wcześniej kasował fałszywe oceny sprzed premiery."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-21",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Kaluch wrócił z „Pogromcami mitów”, tym razem w GTA 6. Pierwszy odcinek ma ponad 300 tys. wyświetleń",
+        "summary": "Kaluch zaczął w GTA 6 swoją znaną serię, w której sprawdza mity i legendy z gier. Widzowie już w komentarzach podsyłają mu kolejne tropy.",
+        "body": [
+          "W sobotę po południu na kanale Kalucha pojawił się 51-minutowy odcinek „Zaczynamy zabawę! GTA 6 Pogromcy mitów #1”. To powrót serii, w której twórca sprawdza w grze krążące wśród graczy mity i legendy.",
+          "Do niedzieli, godz. 6:16, film miał ok. 320 tys. wyświetleń, 14,5 tys. polubień i ponad 870 komentarzy.",
+          "Widzowie piszą, że czekali na tę serię w GTA 6 od lat, chwalą intro i zgłaszają mity do kolejnych odcinków, np. o ukrytym domu nawiązującym do znanego serialu. Kaluch prowadzi też osobną serię z przejściem GTA 6."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=TMpg6_ipJ1s",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=TMpg6_ipJ1s",
+        "ig": [
+          "kaluch_"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/TMpg6_ipJ1s/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/TMpg6_ipJ1s/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=TMpg6_ipJ1s",
+          "alt": "Miniatura pierwszego odcinka GTA 6 Pogromcy mitów Kalucha",
+          "caption": "Kaluch: GTA 6 Pogromcy mitów #1"
+        },
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura pierwszego odcinka „Pogromców mitów” w GTA 6. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Kaluch wrócił z Pogromcami mitów, tym razem w GTA 6",
+          "opis": "Pierwszy odcinek ma już ponad 300 tys. wyświetleń, a widzowie zasypują go mitami do sprawdzenia 👻"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Auto, które ukradnie w GTA 6, dostanie naprawdę jego tata. Nowy film na MrBeast Gaming ma 7 mln wyświetleń",
+        "summary": "Na kanale MrBeast Gaming wyszedł kolejny film z GTA 6. Tym razem kolega MrBeasta, Nolan, kradnie w grze samochody, a ich prawdziwe odpowiedniki ma dostać jego tata.",
+        "body": [
+          "W sobotę wieczorem na kanale MrBeast Gaming pojawił się 21-minutowy film „If You Steal a Car in GTA 6, I’ll Pay For It!”. Jak czytamy w opisie, samochód, który Nolan ukradnie w grze, jego tata wygra w prawdziwym życiu.",
+          "Do niedzieli, godz. 6:16, film miał ok. 7,1 mln wyświetleń, 108 tys. polubień i ponad 4,5 tys. komentarzy.",
+          "To kolejny materiał o GTA 6 na kanałach MrBeasta w ostatnich dniach. Widzowie w komentarzach żartują, że to już trzeci film z GTA 6 z rzędu, a MrBeast odpisuje, że nagrywanie ich sprawia mu dużo frajdy."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast Gaming / YouTube",
+            "url": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
+        "ig": [
+          "mrbeast"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Ra6sNe8s2Hc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Ra6sNe8s2Hc/hqdefault.jpg",
+          "credit": "MrBeast Gaming / YouTube",
+          "href": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
+          "alt": "Miniatura filmu MrBeast Gaming o kradzieży aut w GTA 6",
+          "caption": "MrBeast Gaming: kradzież aut w GTA 6"
+        },
+        "caption": {
+          "credit": "MrBeast Gaming / YouTube",
+          "text": "Miniatura filmu, w którym kradzione w GTA 6 auta mają trafić naprawdę do taty Nolana. Zasady wyzwania opisujemy na podstawie opisu filmu."
+        },
+        "insta": {
+          "tytul": "Auto ukradzione przez kolegę MrBeasta w GTA 6 dostanie naprawdę jego tata",
+          "opis": "Taki pomysł na kolejny film z GTA 6 na MrBeast Gaming. W kilka godzin wpadło ok. 7 mln wyświetleń."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Kai Cenat przeszedł GTA 6. Skrót finału trafił na jego kanał ze streamami",
+        "summary": "Po IShowSpeedzie fabułę GTA 6 skończył także Kai Cenat. Na kanale Kai Cenat Live wyszedł ponad 80-minutowy materiał z końcówki gry.",
+        "body": [
+          "W sobotę na kanale Kai Cenat Live pojawił się film „Kai Cenat Beats GTA 6!”, trwający ok. 80 minut. To fragment streamu, w którym amerykański twórca kończy główną fabułę gry, którą ogrywał od premiery.",
+          "Do niedzieli, godz. 6:16, film miał ok. 125 tys. wyświetleń i ponad 1,7 tys. polubień.",
+          "W komentarzach widzowie żartują, że po tylu godzinach grania Kai trafił na najgorsze ich zdaniem zakończenie, i porównują to z finałem IShowSpeeda. Inni gratulują wszystkim, którzy przeszli całą fabułę w kilka dni od premiery."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=LZXLSifc3PI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=LZXLSifc3PI",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/LZXLSifc3PI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/LZXLSifc3PI/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=LZXLSifc3PI",
+          "alt": "Miniatura filmu Kai Cenat Beats GTA 6",
+          "caption": "Kai Cenat kończy GTA 6"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura materiału z końcówki fabuły GTA 6 na streamie Kaia Cenata. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Kai Cenat też już przeszedł GTA 6",
+          "opis": "Finał wrzucił na kanał ze streamami. Widzowie piszą, że trafił na najgorsze zakończenie, tak jak Speed."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-21",
+        "who": "GrayStillPlays",
+        "initials": "GS",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "GrayStillPlays porównał zniszczenia aut w GTA 6 i GTA 5. To jego pierwszy film z GTA od 11 miesięcy",
+        "summary": "GrayStillPlays, znany z eksperymentów w grach, sprawdził, jak w GTA 6 rozbijają się samochody w porównaniu z GTA 5. Fani cieszą się, że wrócił do serii.",
+        "body": [
+          "W sobotę późnym wieczorem na kanale GrayStillPlays pojawił się 14-minutowy film „GTA 6 vs GTA 5 Car Damage”. Twórca, znany z testowania fizyki i dziwnych scenariuszy w grach, zestawia w nim modele zniszczeń samochodów z obu części.",
+          "Do niedzieli, godz. 6:16, film miał ok. 76 tys. wyświetleń i 2,8 tys. polubień.",
+          "Widzowie zauważają w komentarzach, że to pierwszy film z GTA na tym kanale od 11 miesięcy, i dopytują o powrót jego dawnych wyzwań. Inni piszą, że GTA 5 już robi się nostalgiczne."
+        ],
+        "sources": [
+          {
+            "name": "GrayStillPlays / YouTube",
+            "url": "https://www.youtube.com/watch?v=dgPkaKdAyuE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=dgPkaKdAyuE",
+        "ig": [
+          "graystillplaysofficial"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dgPkaKdAyuE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dgPkaKdAyuE/hqdefault.jpg",
+          "credit": "GrayStillPlays / YouTube",
+          "href": "https://www.youtube.com/watch?v=dgPkaKdAyuE",
+          "alt": "Miniatura filmu GrayStillPlays porównującego zniszczenia aut w GTA 6 i GTA 5",
+          "caption": "GTA 6 kontra GTA 5: zniszczenia aut"
+        },
+        "caption": {
+          "credit": "GrayStillPlays / YouTube",
+          "text": "Miniatura filmu z porównaniem zniszczeń samochodów w GTA 6 i GTA 5. Opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Jak w GTA 6 rozbijają się auta w porównaniu z GTA 5? GrayStillPlays sprawdził",
+          "opis": "To jego pierwszy film z GTA od 11 miesięcy, fani od razu proszą o powrót starych wyzwań."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-21",
+        "who": "Ospanno",
+        "initials": "OS",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Ospanno grał w GTA 6 bez łamania prawa: zero kradzieży, czerwone światło i żadnych gwiazdek",
+        "summary": "Ospanno sprawdził, jak długo da się wytrzymać w GTA 6 jako wzorowy obywatel. Zasady wyzwania opisał w filmie wprost.",
+        "body": [
+          "W sobotę na kanale Ospanno pojawił się 40-minutowy film „Gram w GTA 6 bez łamania prawa!”. Jak pisze w opisie, zasady były proste: zero kradzieży, zatrzymywanie się na czerwonym świetle i ani jednej gwiazdki policji.",
+          "Celem było sprawdzenie, jak długo da się przetrwać w Vice City jako wzorowy obywatel. Do niedzieli, godz. 6:16, film miał ok. 13 tys. wyświetleń i ponad 500 polubień.",
+          "Widzowie w komentarzach chwalą odcinek i podsuwają twórcy miejsca na mapie do sprawdzenia w kolejnych filmach."
+        ],
+        "sources": [
+          {
+            "name": "Ospanno / YouTube",
+            "url": "https://www.youtube.com/watch?v=Lnku07R6q9Q",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Lnku07R6q9Q",
+        "ig": [
+          "ospanno"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Lnku07R6q9Q/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Lnku07R6q9Q/hqdefault.jpg",
+          "credit": "Ospanno / YouTube",
+          "href": "https://www.youtube.com/watch?v=Lnku07R6q9Q",
+          "alt": "Miniatura filmu Ospanno o graniu w GTA 6 bez łamania prawa",
+          "caption": "Ospanno: GTA 6 bez łamania prawa"
+        },
+        "caption": {
+          "credit": "Ospanno / YouTube",
+          "text": "Miniatura filmu, w którym Ospanno próbuje grać w GTA 6 zgodnie z przepisami. Zasady wyzwania podajemy za opisem filmu."
+        },
+        "insta": {
+          "tytul": "Ospanno próbował grać w GTA 6 zgodnie z przepisami",
+          "opis": "Zero kradzieży, stop na czerwonym i ani jednej gwiazdki. W GTA to prawdziwe wyzwanie."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Malta",
+        "initials": "MT",
+        "category": "Literatura",
+        "hype": 4,
+        "title": "Pierwsza znana powieść kobiety po maltańsku powstała w 1919 r., a wydano ją dopiero w 2025 r.",
+        "summary": "Concetta Brincat uchodzi za pierwszą znaną powieściopisarkę piszącą po maltańsku. Na wydanie jej debiutu trzeba było czekać ponad sto lat.",
+        "body": [
+          "Concetta Brincat (1870–1940) napisała powieść „Il-Familja de Valereux jew Louis Mitluf Ġewwa l-Bosk” w 1919 roku. Książka ukazała się drukiem dopiero w 2025 roku.",
+          "Dziś uznaje się ją za pierwszą znaną kobietę, która napisała powieść w języku maltańskim. Uniwersytet Maltański poświęcił jej osobną konferencję."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Concetta_Brincat"
+          },
+          {
+            "name": "University of Malta",
+            "url": "https://www.um.edu.mt/newspoint/upcomingevents/2025/conferenceonconcettabrincatthefirstfemalenovelist.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Concetta_Brincat.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Concetta_Brincat.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalny portret Concetty Brincat",
+          "caption": "Concetta Brincat, maltańska pisarka"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Archiwalny portret Concetty Brincat. To jej powieść z 1919 roku czekała na wydanie ponad sto lat."
+        },
+        "insta": {
+          "tytul": "Napisała powieść w 1919 r., a wydali ją dopiero w 2025 r.",
+          "opis": "Concetta Brincat to pierwsza znana kobieta, która napisała powieść po maltańsku. Na druk czekała ponad 100 lat."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Hiszpania",
+        "initials": "HI",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Hiszpański arystokrata Alfonso de Borbón y Borbón miał 88 imion. To rekord Guinnessa",
+        "summary": "Prawnuk w czwartym pokoleniu króla Karola III jest rekordzistą Księgi Guinnessa w kategorii najwięcej imion u historycznej postaci z rodu królewskiego.",
+        "body": [
+          "Alfonso de Borbón y Borbón żył w latach 1866–1934 i był praprawnukiem króla Hiszpanii Karola III. Na chrzcie dostał 88 imion.",
+          "Księga rekordów Guinnessa uznaje to za rekord w kategorii najwięcej imion u historycznej postaci z rodziny królewskiej."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n"
+          },
+          {
+            "name": "Guinness World Records",
+            "url": "https://www.guinnessworldrecords.com/world-records/649513-most-names-for-a-historical-royal"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Retrato_de_Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Retrato_de_Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n_(cropped).jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Portret Alfonsa de Borbón y Borbón",
+          "caption": "Alfonso de Borbón y Borbón"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Portret Alfonsa de Borbón y Borbón. To on według Guinnessa miał najwięcej imion wśród historycznych członków rodów królewskich."
+        },
+        "insta": {
+          "tytul": "Ten hiszpański arystokrata miał 88 imion",
+          "opis": "Alfonso de Borbón y Borbón ma za to rekord Guinnessa. Ciekawe, jak wyglądały jego dokumenty."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "USA",
+        "initials": "US",
+        "category": "Technika",
+        "hype": 3,
+        "title": "Najwyższa budowla na zachodniej półkuli to nie wieżowiec, tylko maszt telewizyjny w Dakocie Północnej",
+        "summary": "Maszt stacji KRDK-TV ma 627,8 m wysokości. Stoi na polach niedaleko Galesburga w Dakocie Północnej.",
+        "body": [
+          "Maszt KRDK-TV zbudowano w 1966 roku w hrabstwie Traill w Dakocie Północnej. Ma 627,8 m, czyli 2060 stóp.",
+          "To najwyższa konstrukcja na zachodniej półkuli i jedna z najwyższych na świecie. Wyprzedził pobliski maszt KVLY-TV, który w 2019 roku stracił część wysokości po zdjęciu jednej z anten."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/KRDK-TV_mast"
+          },
+          {
+            "name": "Structurae",
+            "url": "https://structurae.net/structures/data/index.cfm?ID=20014122"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/KXJBfrombase.jpeg",
+          "href": "https://commons.wikimedia.org/wiki/File:KXJBfrombase.jpeg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Maszt telewizyjny KRDK-TV sfotografowany od podstawy",
+          "caption": "Maszt KRDK-TV widziany od podstawy"
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Maszt KRDK-TV sfotografowany od dołu. Ta stalowa konstrukcja ma 627,8 m wysokości."
+        },
+        "insta": {
+          "tytul": "Najwyższa budowla Ameryk to… maszt telewizyjny na polu w Dakocie",
+          "opis": "Ma 627,8 m i stoi tam od 1966 roku. Wyższy niż większość wieżowców świata."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Jandek",
+        "initials": "JA",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Muzyk Jandek od 1978 r. wydał ponad 120 albumów i prawie nic o sobie nie zdradził",
+        "summary": "Jandek to projekt muzyka z Houston, który wydaje płyty we własnej wytwórni, niemal nie udziela wywiadów i nie podaje informacji o sobie.",
+        "body": [
+          "Od 1978 roku Jandek wydał niezależnie ponad 120 albumów, wszystkie we własnej wytwórni Corwood Industries. Gra nietypowy, często atonalny folk i blues.",
+          "Przez lata nie udzielał niemal żadnych wywiadów i nie podawał informacji biograficznych, przez co stał się jedną z najbardziej tajemniczych postaci amerykańskiej muzyki niezależnej."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Jandek"
+          },
+          {
+            "name": "tisue.net",
+            "url": "https://tisue.net/jandek/discussion.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jandek_June2007_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Jandek_June2007_(cropped).jpg",
+          "credit": "John Pham / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Jandek podczas koncertu w 2007 roku",
+          "caption": "Jandek w czerwcu 2007 roku"
+        },
+        "caption": {
+          "credit": "John Pham / Wikimedia Commons",
+          "text": "Jandek na zdjęciu z 2007 roku. To jedno z niewielu publicznych ujęć muzyka, który od dekad unika rozgłosu."
+        },
+        "insta": {
+          "tytul": "Ten muzyk wydał ponad 120 płyt i prawie nic o sobie nie powiedział",
+          "opis": "Jandek nagrywa od 1978 roku, we własnej wytwórni i niemal bez wywiadów."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-21": {
     "date": "2026-11-21",
     "ryby": [],
