@@ -2,6 +2,12 @@
 window.HYPERS_URLS = {
  "2026-11-23": {
   "luz": [
+   "artykuly/2026-11-23/gta-6-dostalo-pierwsza-latke-po-premierze-rockstar-nie-podal.html",
+   "artykuly/2026-11-23/ishowspeed-szukal-easter-eggow-w-vice-city-zapis-streamu-gta-6.html",
+   "artykuly/2026-11-23/ludwig-wyrazy-wspolczucia-dla-singli-grajacych-w-gta-6-short-ma-ponad.html",
+   "artykuly/2026-11-23/kai-cenat-obrabowal-wszystkie-banki-w-gta-6-po-fabule-przyszla-pora.html",
+   "artykuly/2026-11-23/palion-spedzil-w-gta-6-dobe-na-okradaniu-sklepow.html",
+   "artykuly/2026-11-23/kto-bedzie-najblizej-50-funtow-wygrywa-auto-nowy-short-mrbeasta.html",
    "artykuly/2026-11-23/gameranx-gta-6-obnazylo-duzy-problem-gier-aaa-chodzi-o-to-czy-gra.html",
    "artykuly/2026-11-23/hubson-bar-ufo-z-gta-san-andreas-prowadzi-do-domu-w-gta-6-drugi.html",
    "artykuly/2026-11-23/slogo-przeszedl-gta-6-w-trybie-pierwszoosobowym-film-gta-6-but.html",
@@ -12,6 +18,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-23/lootbox-pyta-czy-gta-6-na-pc-to-kwestia-tygodni-omawia-historie.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-23/nowozelandzka-wioska-oglosila-sie-republika-jednym-z-jej-prezydentow.html",
+   "artykuly/2026-11-23/w-anglii-co-roku-odbywaja-sie-mistrzostwa-swiata-w-rzucaniu-kaszanka.html",
+   "artykuly/2026-11-23/japonczycy-maja-nazwe-na-schody-donikad-i-inne-bezuzyteczne-rzeczy.html",
+   "artykuly/2026-11-23/sa-towary-ktore-ludzie-kupuja-chetniej-gdy-drozeja-ekonomisci.html",
+   "artykuly/2026-11-23/psychologowie-badaja-rozpoznawanie-twarzy-na-wymyslonych-stworkach.html",
    "artykuly/2026-11-23/w-szkocji-jest-most-ktory-ludzie-nazywaja-mostem-nad-atlantykiem.html",
    "artykuly/2026-11-23/pawian-jackie-sluzyl-w-armii-rpa-w-i-wojnie-swiatowej-i-skonczyl.html",
    "artykuly/2026-11-23/na-granicy-chorwacji-i-bosni-jest-opuszczona-baza-lotnicza-ukryta-pod.html",

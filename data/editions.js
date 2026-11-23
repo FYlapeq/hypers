@@ -6,6 +6,268 @@ window.HYPERS_EDITIONS = {
     "luz": [
       {
         "region": "world",
+        "published": "2026-11-23",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "GTA 6 dostało pierwszą łatkę po premierze. Rockstar nie podał, co zmienia",
+        "summary": "Od poniedziałkowego poranka na konsolach pobiera się aktualizacja 1.002.002 do GTA 6. Na PS5 waży ok. 600 MB, na Xboksie Series X/S ok. 1,6 GB, a listy zmian wciąż nie ma.",
+        "body": [
+          "W poniedziałek 23 listopada do GTA 6 trafiła aktualizacja 1.002.002, pierwsza od premiery gry 19 listopada. Piszą o niej m.in. PlayStation LifeStyle, MP1st i Screen Rant.",
+          "Na PS5 łatka ma ok. 600 MB (Screen Rant podaje 603,8 MB), na Xboksie Series X/S ok. 1,6 GB. Według dataminera, na którego powołuje się Screen Rant, aktualizacja trafia najpierw do ok. 33% graczy, a pozostali mają ją dostać w ciągu dnia.",
+          "Rockstar do czasu publikacji tych tekstów nie opublikował listy zmian, więc nie wiadomo, co dokładnie poprawia łatka. MP1st wymienia problemy zgłaszane przez graczy po premierze (m.in. wyłączanie się gry, błędy w misjach i problemy z zapisami), ale zaznacza, że nie są to potwierdzone poprawki.",
+          "To nie pierwsza łatka gry: jeszcze przed premierą GTA 6 dostało dwie aktualizacje, o których pisaliśmy 16 listopada."
+        ],
+        "sources": [
+          {
+            "name": "PlayStation LifeStyle",
+            "url": "https://www.playstationlifestyle.net/2026/11/23/gta-6-update-1002002-november-23-2026-patch-notes"
+          },
+          {
+            "name": "MP1st",
+            "url": "https://mp1st.com/title-updates-and-patches/gta-6-first-update-1-002-002-released-on-november-23"
+          },
+          {
+            "name": "Screen Rant",
+            "url": "https://screenrant.com/gta-6-first-major-update-november-2026/"
+          }
+        ],
+        "embed": "https://x.com/TexFunz2/status/2124808147848020308",
+        "noImage": "brak oficjalnego filmu ani zdjęcia prasowego do łatki; osadzamy post dataminera cytowany przez Screen Rant",
+        "caption": {
+          "credit": "Tex2 / X",
+          "text": "Post dataminera, na którego powołuje się Screen Rant, pisząc o stopniowym udostępnianiu łatki. To informacja o wdrożeniu, nie oficjalna lista zmian od Rockstara."
+        },
+        "insta": {
+          "tytul": "GTA 6 ma pierwszą łatkę po premierze, ale Rockstar nie mówi, co w niej jest",
+          "opis": "Na PS5 to ok. 600 MB, na Xboksie ok. 1,6 GB. Listy zmian na razie brak."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Streaming",
+        "hype": 4,
+        "title": "IShowSpeed szukał easter eggów w Vice City. Zapis streamu GTA 6 ma ponad 9 mln wyświetleń",
+        "summary": "Po przejściu fabuły IShowSpeed wrócił do GTA 6, tym razem żeby zwiedzać Vice City i szukać ukrytych smaczków. Zapis prawie 6-godzinnego streamu w kilka godzin obejrzało ponad 9 mln osób.",
+        "body": [
+          "W niedzielę wieczorem na kanale IShowSpeeda pojawił się zapis streamu „EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)”. Transmisja trwała prawie 5 godzin i 45 minut.",
+          "Speed ukończył fabułę GTA 6 dzień po premierze, a teraz, jak zapowiada tytuł, zwiedzał miasto i szukał easter eggów.",
+          "Do poniedziałku, godz. 6:16, zapis miał ok. 9,46 mln wyświetleń i 119 tys. polubień.",
+          "Widzowie w komentarzach podkreślają, że to kolejny wielogodzinny stream w tym tygodniu, i chwalą go za wytrwałość. Część podsuwa mu kolejne easter eggi do znalezienia i prosi, żeby częściej czytał czat."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=izXcd-bU72k",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=izXcd-bU72k",
+        "ig": [
+          "ishowspeed"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/izXcd-bU72k/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/izXcd-bU72k/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=izXcd-bU72k",
+          "alt": "Miniatura streamu IShowSpeeda z GTA 6 o zwiedzaniu Vice City",
+          "caption": "IShowSpeed zwiedza Vice City w GTA 6"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura zapisu streamu, na którym IShowSpeed szuka easter eggów w Vice City. To jego pierwszy duży stream z GTA 6 po przejściu fabuły."
+        },
+        "insta": {
+          "tytul": "Speed skończył fabułę GTA 6, więc wrócił szukać easter eggów",
+          "opis": "Prawie 6 godzin łażenia po Vice City. Zapis ma już ponad 9 mln wyświetleń."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Ludwig",
+        "initials": "LU",
+        "category": "Streaming",
+        "hype": 3,
+        "title": "Ludwig: „Wyrazy współczucia dla singli grających w GTA 6”. Short ma ponad 400 tys. wyświetleń",
+        "summary": "Ludwig wrzucił 11-sekundowy short o samotnych graczach GTA 6. Pod filmem widzowie żartują z relacji z Lucią w grze.",
+        "body": [
+          "W poniedziałek rano na kanale Ludwiga pojawił się 11-sekundowy short „Thoughts and prayers for the single people playing gta 6....”, czyli wyrazy współczucia dla singli grających w GTA 6. Ludwig od kilku dni prowadzi maraton GTA 6 na streamach.",
+          "Do poniedziałku, godz. 14:23, short miał ok. 428 tys. wyświetleń i 13 tys. polubień.",
+          "Najpopularniejsze komentarze to żarty o samotności przy grze. Część widzów pisze, że dbanie w grze o relację z Lucią to dla nich miła odmiana, a ktoś przyznaje, że gra zmotywowała go do zaproszenia dziewczyny na randkę."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/shorts/7VF65rqTRpE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/7VF65rqTRpE",
+        "ig": [
+          "ludwigahgren"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/7VF65rqTRpE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/7VF65rqTRpE/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/shorts/7VF65rqTRpE",
+          "alt": "Miniatura shorta Ludwiga o singlach grających w GTA 6",
+          "caption": "Short Ludwiga o singlach w GTA 6"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Miniatura krótkiego filmu Ludwiga o samotnych graczach GTA 6. Short nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Ludwig składa wyrazy współczucia singlom grającym w GTA 6",
+          "opis": "Short ma 11 sekund, a w komentarzach ludzie piszą, że relacja z Lucią w grze to ich jedyna 😅"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Streaming",
+        "hype": 3,
+        "title": "Kai Cenat obrabował wszystkie banki w GTA 6. Po fabule przyszła pora na free roam",
+        "summary": "Na kanale ze streamami Kaia Cenata pojawił się ponad godzinny materiał, w którym w trybie swobodnej gry napada na każdy bank w GTA 6.",
+        "body": [
+          "W niedzielę wieczorem na kanale Kai Cenat Live pojawił się film „Robbing Every Bank In GTA 6 Free Roam!”. Materiał trwa ok. 64 minut.",
+          "Kai Cenat skończył fabułę GTA 6 w weekend, a teraz, jak wynika z tytułu, w trybie swobodnej gry obrabia po kolei wszystkie banki.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 205 tys. wyświetleń. Widzowie w komentarzach śmieją się z tego, jak na początku nie umiał wyłączyć alarmu w sklepie, i proszą o drugą część."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=q1jR850CE_o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=q1jR850CE_o",
+        "ig": [
+          "kaicenat"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/q1jR850CE_o/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/q1jR850CE_o/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=q1jR850CE_o",
+          "alt": "Miniatura filmu Kaia Cenata o napadach na banki w GTA 6",
+          "caption": "Kai Cenat napada na banki w GTA 6"
+        },
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura filmu z napadami na banki w trybie swobodnej gry. To pierwszy materiał Kaia Cenata z GTA 6 po zakończeniu fabuły."
+        },
+        "insta": {
+          "tytul": "Kai Cenat skończył fabułę GTA 6 i poszedł obrabiać wszystkie banki",
+          "opis": "Ponad godzina napadów w free roamie. Widzowie już proszą o część drugą."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-22",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Palion spędził w GTA 6 dobę na okradaniu sklepów",
+        "summary": "Palion wrzucił nowy film z GTA 6, w którym przez 24 godziny w grze okrada sklepy. Materiał ma prawie 50 tys. wyświetleń.",
+        "body": [
+          "W niedzielę wieczorem na kanale Paliona pojawił się 34-minutowy film „SPĘDZIŁEM 24 GODZINY NA OKRADANIU SKLEPÓW w GTA 6!”. To kolejny jego materiał z GTA 6 po premierze gry.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 47,5 tys. wyświetleń i 1,3 tys. polubień.",
+          "Widzowie w komentarzach piszą, że jego odcinki z GTA 6 lubią najbardziej, a część dopytuje już o tryb online, którego Rockstar jeszcze nie uruchomił."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=CYUQNhwGqbI",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=CYUQNhwGqbI",
+        "ig": [
+          "pawel_palion"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/CYUQNhwGqbI/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/CYUQNhwGqbI/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=CYUQNhwGqbI",
+          "alt": "Miniatura filmu Paliona o okradaniu sklepów w GTA 6",
+          "caption": "Palion przez dobę okrada sklepy w GTA 6"
+        },
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Miniatura filmu, w którym Palion przez dobę w grze napada na sklepy. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Palion przez całą dobę w GTA 6 okradał sklepy",
+          "opis": "Nowy odcinek ma 34 minuty, a fani w komentarzach już pytają o GTA Online."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "MrBeast",
+        "initials": "MB",
+        "category": "Rozdania",
+        "hype": 3,
+        "title": "Kto będzie najbliżej 50 funtów, wygrywa auto. Nowy short MrBeasta ma prawie 9 mln wyświetleń",
+        "summary": "MrBeast rozdał samochód w minutowym shorcie: wygrywał ten, kto przyniesie rzeczy ważące najbliżej 50 funtów. Partnerem akcji był Autotrader.",
+        "body": [
+          "W niedzielę na kanale MrBeasta pojawił się minutowy short „Closest To 50 Pounds Wins A Car”. Zasada jest w tytule: auto dostaje osoba, która najdokładniej trafi w wagę 50 funtów, czyli ok. 22,7 kg.",
+          "W opisie MrBeast dziękuje serwisowi Autotrader za pomoc przy rozdaniu i zaprasza do aplikacji Whatnot „w niedzielę”. W najpopularniejszym komentarzu pod filmem pada zapowiedź rozdania 100 aut na Whatnot 29 listopada.",
+          "Do poniedziałku, godz. 6:16, short miał ok. 8,8 mln wyświetleń i 239 tys. polubień. Widzowie żartują w komentarzach z wagi hulajnogi elektrycznej i z pluszaka Charizarda, którego nikt nie wybrał."
+        ],
+        "sources": [
+          {
+            "name": "MrBeast / YouTube",
+            "url": "https://www.youtube.com/shorts/dnbLdUyozKM",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/dnbLdUyozKM",
+        "ig": [
+          "mrbeast"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dnbLdUyozKM/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dnbLdUyozKM/hqdefault.jpg",
+          "credit": "MrBeast / YouTube",
+          "href": "https://www.youtube.com/shorts/dnbLdUyozKM",
+          "alt": "Miniatura shorta MrBeasta, w którym do wygrania jest samochód",
+          "caption": "Short MrBeasta z rozdaniem auta"
+        },
+        "caption": {
+          "credit": "MrBeast / YouTube",
+          "text": "Miniatura shorta, w którym o samochodzie decyduje waga przyniesionych rzeczy. Opis filmu potwierdza, że akcję zrobiono razem z Autotraderem."
+        },
+        "insta": {
+          "tytul": "MrBeast dał auto temu, kto najdokładniej trafił w 50 funtów",
+          "opis": "Short trwa minutę i ma już prawie 9 mln wyświetleń."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
         "published": "2026-11-22",
         "who": "gameranx",
         "initials": "GR",
@@ -354,6 +616,215 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Nowa Zelandia",
+        "initials": "NZ",
+        "category": "Kraje",
+        "hype": 4,
+        "title": "Nowozelandzka wioska ogłosiła się republiką. Jednym z jej prezydentów był kozioł",
+        "summary": "Whangamōmona w 1989 r. ogłosiła niepodległą republikę w proteście przeciw zmianie granic regionu. Prezydentem wybrano m.in. kozła Billy’ego, a po nim pudla.",
+        "body": [
+          "Mieszkańcy Whangamōmony nie chcieli, żeby ich okolicę przeniesiono z regionu Taranaki do Manawatū–Whanganui. W odpowiedzi 1 listopada 1989 r. ogłosili Republikę Whangamōmony i od tamtej pory co dwa lata świętują Dzień Republiki z wyborami prezydenta.",
+          "W 1999 r. wybory wygrał kozioł Billy, który rządził do śmierci w 2001 r. Jego następcą był pudel Tai. Później o urząd walczyli m.in. kot, owca i kakadu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Whangam%C5%8Dmona"
+          },
+          {
+            "name": "New Zealand Geographic",
+            "url": "https://www.nzgeo.com/stories/whangamomona/"
+          },
+          {
+            "name": "RNZ",
+            "url": "https://www.rnz.co.nz/news/national/380525/man-vs-beast-in-the-whangamomona-presidential-race"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Whangamomona_Hotel.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Whangamomona_Hotel.jpg",
+          "credit": "Robyn Gallagher / Wikimedia Commons, CC BY 2.0",
+          "alt": "Drewniany budynek hotelu Whangamomona przy pustej drodze",
+          "caption": "Hotel w Whangamōmonie, centrum życia „republiki”"
+        },
+        "caption": {
+          "credit": "Robyn Gallagher / Wikimedia Commons",
+          "text": "Hotel w Whangamōmonie, wokół którego toczy się życie wioski. To tu przyjeżdżają goście na Dzień Republiki."
+        },
+        "insta": {
+          "tytul": "W Nowej Zelandii jest wioska-„republika”, której prezydentem był kozioł",
+          "opis": "Ogłosili niepodległość w 1989 r. na złość urzędnikom. Kozioł Billy wygrał wybory w 1999 r., a po nim rządził pudel."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "W Anglii co roku odbywają się mistrzostwa świata w rzucaniu kaszanką w puddingi",
+        "summary": "W Ramsbottom pod Manchesterem zawodnicy rzucają kaszanką w stos puddingów yorkshire ustawiony na wysokim podeście. Wygrywa ten, kto strąci najwięcej.",
+        "body": [
+          "World Black Pudding Throwing Championships odbywają się co roku w drugą niedzielę września przed pubem w Ramsbottom w hrabstwie Greater Manchester.",
+          "Na podeście wysokim na ok. 6 metrów ustawia się stos puddingów yorkshire, a każdy zawodnik ma trzy kaszanki, żeby strącić ich jak najwięcej. Organizatorzy podkreślają, że rzuca się od dołu, więc wolą nazwę „hurling”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/World_Black_Pudding_Throwing_Championships"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/manchester/content/articles/2004/09/13/black_pudding_throwing_feature.shtml"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/World_Black_Pudding_Throwing_Championship_Ramsbottom_2007_-_geograph.org.uk_-_551380.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:World_Black_Pudding_Throwing_Championship_Ramsbottom_2007_-_geograph.org.uk_-_551380.jpg",
+          "credit": "Paul Anderson / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Uczestnicy i widzowie mistrzostw w rzucaniu kaszanką w Ramsbottom w 2007 roku",
+          "caption": "Mistrzostwa w rzucaniu kaszanką, Ramsbottom 2007"
+        },
+        "caption": {
+          "credit": "Paul Anderson / Wikimedia Commons",
+          "text": "Zdjęcie z mistrzostw w Ramsbottom z 2007 roku. Tak wyglądają zawody, w których kaszanką strąca się puddingi."
+        },
+        "insta": {
+          "tytul": "W Anglii są mistrzostwa świata w rzucaniu kaszanką",
+          "opis": "Celuje się w puddingi ustawione na 6-metrowym podeście. Trzy rzuty, wygrywa ten, kto strąci najwięcej."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Sztuka",
+        "hype": 3,
+        "title": "Japończycy mają nazwę na schody donikąd i inne bezużyteczne rzeczy, o które ktoś wciąż dba",
+        "summary": "„Tomason” to określenie japońskiego artysty Akasegawy Genpei na zbędne elementy budynków, które ktoś nadal utrzymuje. Uznał je za „hipersztukę”.",
+        "body": [
+          "W latach 80. Akasegawa Genpei zaczął opisywać zbędne pozostałości w miastach: schody prowadzące w ścianę, zamurowane drzwi na piętrze czy daszki nad nieistniejącym wejściem. Nikt nie stworzył ich jako sztuki, a jednak ktoś je konserwuje.",
+          "Artysta uznał, że są bardziej „artystyczne” niż sama sztuka, i nazwał je hipersztuką Thomassona. Nazwa pochodzi od amerykańskiego baseballisty Gary’ego Thomassona, który w Japonii dostawał wysoką pensję, choć prawie nie grał."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Hyperart_Thomasson"
+          },
+          {
+            "name": "Kaya Press",
+            "url": "http://kaya.com/books/hyperart-thomasson/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E9%9A%8E%E6%AE%B5_%285104257679%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E9%9A%8E%E6%AE%B5_(5104257679).jpg",
+          "credit": "yosukesan / Wikimedia Commons, CC BY 2.0",
+          "alt": "Schody przy budynku, które prowadzą donikąd",
+          "caption": "„Schody Thomassona” prowadzące donikąd"
+        },
+        "caption": {
+          "credit": "yosukesan / Wikimedia Commons",
+          "text": "Schody, które nigdzie nie prowadzą, a mimo to stoją zadbane. To klasyczny przykład tomasona."
+        },
+        "insta": {
+          "tytul": "Schody donikąd to w Japonii osobny rodzaj sztuki",
+          "opis": "Artysta Akasegawa Genpei nazwał takie bezużyteczne, ale zadbane rzeczy „hipersztuką Thomassona”. Nazwa wzięła się od baseballisty, który zarabiał krocie i prawie nie grał."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Ekonomia",
+        "initials": "EK",
+        "category": "Ekonomia",
+        "hype": 3,
+        "title": "Są towary, które ludzie kupują chętniej, gdy drożeją. Ekonomiści nazywają je dobrami Veblena",
+        "summary": "Zwykle wyższa cena oznacza mniejszy popyt. W przypadku luksusu bywa odwrotnie, bo wysoka cena sama w sobie jest atrakcją.",
+        "body": [
+          "Dobro Veblena to towar luksusowy, na który popyt rośnie razem z ceną, wbrew podstawowemu prawu popytu. Nazwa pochodzi od amerykańskiego ekonomisty Thorsteina Veblena, który opisał to zjawisko.",
+          "Wysoka cena czyni takie rzeczy symbolem statusu: kupuje się je po to, żeby pokazać, że stać nas na coś, czego niewielu może mieć."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Veblen_good"
+          },
+          {
+            "name": "World Bank Open Knowledge Repository",
+            "url": "https://hdl.handle.net/10986%2F34351"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SC06_2006_Rolls-Royce_Phantom.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:SC06_2006_Rolls-Royce_Phantom.jpg",
+          "credit": "Brett Weinstein / Wikimedia Commons, CC BY-SA 2.5",
+          "alt": "Rolls-Royce Phantom z 2006 roku",
+          "caption": "Rolls-Royce Phantom, przykład luksusowego dobra"
+        },
+        "caption": {
+          "credit": "Brett Weinstein / Wikimedia Commons",
+          "text": "Rolls-Royce Phantom to zdjęcie, którym artykuł o dobrach Veblena ilustruje towary kupowane dla prestiżu."
+        },
+        "insta": {
+          "tytul": "Są rzeczy, które kupujemy chętniej, im są droższe",
+          "opis": "To tzw. dobra Veblena: luksus, w którym wysoka cena jest częścią atrakcji."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Psychologia",
+        "initials": "PS",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Psychologowie badają rozpoznawanie twarzy na wymyślonych stworkach zwanych Greeblami",
+        "summary": "Greeble to sztuczne obiekty zaprojektowane w 1996 r. na Uniwersytecie Yale. Służą do badań, jak mózg uczy się rozpoznawać twarze i przedmioty.",
+        "body": [
+          "Greeble stworzył w 1996 r. Scott Yu na potrzeby doktoratu Isabel Gauthier na Uniwersytecie Yale. Nazwę wymyślił psycholog Robert Abelson.",
+          "Badani uczą się odróżniać te dziwne figurki od siebie, a naukowcy sprawdzają, czy mózg zaczyna je przetwarzać podobnie jak ludzkie twarze."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Greeble_(psychology)"
+          },
+          {
+            "name": "Behavior Research Methods (Springer)",
+            "url": "https://link.springer.com/article/10.3758/BF03192703"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Full_Greeble.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Full_Greeble.jpg",
+          "credit": "Academicmercenary / Wikimedia Commons, CC BY 4.0",
+          "alt": "Trójwymiarowa figurka Greeble z wypustkami",
+          "caption": "Greeble, obiekt używany w badaniach psychologicznych"
+        },
+        "caption": {
+          "credit": "Academicmercenary / Wikimedia Commons",
+          "text": "Tak wygląda Greeble, sztuczna figurka z badań nad rozpoznawaniem obiektów. Właśnie takie kształty badani uczą się odróżniać."
+        },
+        "insta": {
+          "tytul": "Naukowcy badają rozpoznawanie twarzy na dziwnych stworkach zwanych Greeblami",
+          "opis": "Wymyślono je w 1996 r. na Yale. Ludzie uczą się je odróżniać, a badacze patrzą, czy mózg traktuje je jak twarze."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-23",
