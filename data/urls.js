@@ -1,5 +1,24 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-23": {
+  "luz": [
+   "artykuly/2026-11-23/gameranx-gta-6-obnazylo-duzy-problem-gier-aaa-chodzi-o-to-czy-gra.html",
+   "artykuly/2026-11-23/hubson-bar-ufo-z-gta-san-andreas-prowadzi-do-domu-w-gta-6-drugi.html",
+   "artykuly/2026-11-23/slogo-przeszedl-gta-6-w-trybie-pierwszoosobowym-film-gta-6-but.html",
+   "artykuly/2026-11-23/ekipa-vanossa-miala-2-godziny-na-szukanie-glitchy-w-gta-6-nagral.html",
+   "artykuly/2026-11-23/ksiazulo-szuka-najgorszego-kebaba-w-polsce-nowy-odcinek-ma-ponad-pol.html",
+   "artykuly/2026-11-23/ishowspeed-scigal-sie-z-usainem-boltem-bolt-byl-tez-jego-trenerem.html",
+   "artykuly/2026-11-23/sidemen-zrobili-w2s-urodziny-niespodzianke-na-30-tke-harry-byl.html",
+   "artykuly/2026-11-23/lootbox-pyta-czy-gta-6-na-pc-to-kwestia-tygodni-omawia-historie.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-23/w-szkocji-jest-most-ktory-ludzie-nazywaja-mostem-nad-atlantykiem.html",
+   "artykuly/2026-11-23/pawian-jackie-sluzyl-w-armii-rpa-w-i-wojnie-swiatowej-i-skonczyl.html",
+   "artykuly/2026-11-23/na-granicy-chorwacji-i-bosni-jest-opuszczona-baza-lotnicza-ukryta-pod.html",
+   "artykuly/2026-11-23/aktywistka-mieszkala-738-dni-na-szczycie-tysiacletniej-sekwoi-zeby.html",
+   "artykuly/2026-11-23/jest-skamienialy-mieczak-ktorego-rodzaj-naukowcy-nazwali-po-prostu.html"
+  ]
+ },
  "2026-11-22": {
   "luz": [
    "artykuly/2026-11-22/tivolt-wrzucil-trzy-odcinki-gta-6-jednego-dnia-widzowie-wypatrzyli.html",

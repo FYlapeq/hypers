@@ -1,5 +1,566 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-23": {
+    "date": "2026-11-23",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "gameranx",
+        "initials": "GR",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "Gameranx: GTA 6 obnażyło duży problem gier AAA. Chodzi o to, czy gra w ogóle bawi",
+        "summary": "Gameranx wrzucił 17-minutowy materiał o tym, czego GTA 6 może nauczyć resztę branży. Według opisu filmu gra pokazuje, że liczy się zabawa, a nie sam budżet. W kilkanaście godzin film obejrzało ponad 760 tys. osób.",
+        "body": [
+          "W niedzielę wieczorem na kanale gameranx pojawił się film „GTA 6 Has Exposed a BIG Problem With AAA Games”. W opisie twórcy piszą, że GTA 6 „robi niemożliwe”, a sposób, w jaki stawia na zabawę, może być lekcją dla całej branży.",
+          "Do poniedziałku, godz. 6:16, materiał miał ok. 763 tys. wyświetleń, 15,8 tys. polubień i ponad 4,1 tys. komentarzy.",
+          "Widzowie w komentarzach porównują inne gry z otwartym światem do GTA 6 i RDR2, w których świat ma wydawać się dużo bardziej żywy. Część przypomina, że wydawcy mogą wyciągnąć z sukcesu GTA 6 inne wnioski, np. o droższych edycjach. Sporo osób opisuje też własne, nieplanowane przygody z gry, jak ucieczki przed policją."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=H3DQNv21hmk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=H3DQNv21hmk",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/H3DQNv21hmk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/H3DQNv21hmk/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=H3DQNv21hmk",
+          "alt": "Miniatura filmu gameranx o GTA 6 i grach AAA",
+          "caption": "Gameranx o tym, czego GTA 6 uczy branżę"
+        },
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Miniatura filmu gameranx o GTA 6 i problemie gier AAA. Film nie ma napisów, więc opisujemy tytuł, opis i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Gameranx: GTA 6 pokazało, co jest nie tak z wielkimi grami",
+          "opis": "Ich teza: budżet to nie wszystko, gra ma po prostu bawić. W komentarzach ludzie wymieniają się swoimi akcjami z Vice City."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-22",
+        "who": "HUBSON GAMES",
+        "initials": "HG",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Hubson: bar UFO z GTA San Andreas prowadzi do domu w GTA 6. Drugi odcinek tajemnic gry",
+        "summary": "Hubson wypuścił drugi odcinek serii „Tajemnice i ciekawostki GTA 6”. Tym razem łączy bar UFO z San Andreas z jednym z domów w Vice City. Film ma ponad 33 tys. wyświetleń.",
+        "body": [
+          "W niedzielę o 20:00 na kanale HUBSON GAMES pojawił się 14-minutowy film „Bar UFO z GTA San Andreas prowadzi do tego domu w GTA 6 – tajemnice i ciekawostki GTA 6 (02)”. To kontynuacja serii, którą Hubson zaczął w dniu premiery gry.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 33 tys. wyświetleń, 745 polubień i ponad 100 komentarzy.",
+          "Widzowie dorzucają w komentarzach własne znaleziska: gazetę z postacią z GTA 5 w domu Jasona, tablicę rejestracyjną nawiązującą do „Szybkich i wściekłych” i ukryte nawiązania do poprzednich części. Inni chwalą losowe zdarzenia na mapie i proponują odcinek pogromców mitów o fizyce gry."
+        ],
+        "sources": [
+          {
+            "name": "HUBSON GAMES / YouTube",
+            "url": "https://www.youtube.com/watch?v=67-dmhUowtU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=67-dmhUowtU",
+        "ig": [
+          "hubson_games"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/67-dmhUowtU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/67-dmhUowtU/hqdefault.jpg",
+          "credit": "HUBSON GAMES / YouTube",
+          "href": "https://www.youtube.com/watch?v=67-dmhUowtU",
+          "alt": "Miniatura filmu Hubsona o tajemnicach GTA 6",
+          "caption": "Drugi odcinek tajemnic GTA 6 u Hubsona"
+        },
+        "caption": {
+          "credit": "HUBSON GAMES / YouTube",
+          "text": "Miniatura drugiego odcinka serii Hubsona o sekretach GTA 6. Film nie ma napisów, opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Hubson znalazł w GTA 6 nawiązanie do baru UFO z San Andreas",
+          "opis": "Drugi odcinek jego serii o sekretach gry. Widzowie w komentarzach dorzucają swoje easter eggi."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Slogo",
+        "initials": "SL",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Slogo przeszedł GTA 6 w trybie pierwszoosobowym. Film „GTA 6, but everything is first person”",
+        "summary": "Slogo i jego ekipa zagrali w GTA 6 w widoku z pierwszej osoby, który w opisie nazywa „sekretnym trybem”. Film ma ponad 55 tys. wyświetleń.",
+        "body": [
+          "W niedzielę na kanale Slogo pojawił się 24-minutowy film „GTA 6, But EVERYTHING Is First Person...”. W opisie twórca pisze tylko, że zagrali w „sekretny tryb pierwszoosobowy” w GTA 6.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 55 tys. wyświetleń, 1,9 tys. polubień i 138 komentarzy. Tego samego dnia Slogo wrzucił też short o motocyklowym triku z GTA 5, który działa w GTA 6.",
+          "Widzowie chwalą grafikę w tym widoku, ale część żartuje, że kanał nie robi już nic poza GTA 6, i prosi o powrót do innych gier. Inni podsuwają kolejne pomysły, np. test, którym autem najszybciej zgubić policję."
+        ],
+        "sources": [
+          {
+            "name": "Slogo / YouTube",
+            "url": "https://www.youtube.com/watch?v=kDAtw01VnZs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=kDAtw01VnZs",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/kDAtw01VnZs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/kDAtw01VnZs/hqdefault.jpg",
+          "credit": "Slogo / YouTube",
+          "href": "https://www.youtube.com/watch?v=kDAtw01VnZs",
+          "alt": "Miniatura filmu Slogo o GTA 6 z widoku pierwszej osoby",
+          "caption": "GTA 6 z widoku pierwszej osoby u Slogo"
+        },
+        "caption": {
+          "credit": "Slogo / YouTube",
+          "text": "Miniatura filmu, w którym Slogo gra w GTA 6 z perspektywy pierwszej osoby. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Slogo zagrał w GTA 6 całkowicie z pierwszej osoby",
+          "opis": "Widzowie chwalą, jak to wygląda. Część i tak prosi, żeby wrócił też do innych gier 😅"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "WILDCAT",
+        "initials": "WC",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Ekipa Vanossa miała 2 godziny na szukanie glitchy w GTA 6. Nagrał to WILDCAT",
+        "summary": "WILDCAT, Terroriser, Nogla i reszta Vanoss Crew rywalizowali, kto znajdzie w GTA 6 więcej błędów w dwie godziny. Film ma ponad 110 tys. wyświetleń.",
+        "body": [
+          "W nocy z niedzieli na poniedziałek na kanale WILDCAT pojawił się 33-minutowy film „How Many GTA 6 Glitches Can the Vanoss Crew Find in 2 Hours?”. W opisie wymienieni są m.in. BasicallyIDoWrk, Terroriser, DaithiDeNogla, BigJigglyPanda i Pastaroni.",
+          "Do godz. 6:16 film miał ok. 113 tys. wyświetleń i 3,9 tys. polubień.",
+          "Widzowie śmieją się z ekipy, która włazi na każdy ogrodzony teren, i opisują własne glitche, np. łódź wystrzeloną w powietrze przy zmianie przynęty. Część zauważa, że w filmie zabrakło samego Vanossa."
+        ],
+        "sources": [
+          {
+            "name": "WILDCAT / YouTube",
+            "url": "https://www.youtube.com/watch?v=dSN8dh1I_hg",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=dSN8dh1I_hg",
+        "ig": [
+          "wildcat_official"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dSN8dh1I_hg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dSN8dh1I_hg/hqdefault.jpg",
+          "credit": "WILDCAT / YouTube",
+          "href": "https://www.youtube.com/watch?v=dSN8dh1I_hg",
+          "alt": "Miniatura filmu WILDCAT o szukaniu glitchy w GTA 6",
+          "caption": "Vanoss Crew szuka błędów w GTA 6"
+        },
+        "caption": {
+          "credit": "WILDCAT / YouTube",
+          "text": "Miniatura filmu, w którym ekipa Vanossa przez dwie godziny poluje na błędy w GTA 6. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Ekipa Vanossa przez 2 godziny polowała na glitche w GTA 6",
+          "opis": "Wyszedł z tego ponad półgodzinny film u WILDCATA. Widzowie w komentarzach chwalą się swoimi bugami."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-22",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo szuka najgorszego kebaba w Polsce. Nowy odcinek ma ponad pół miliona wyświetleń",
+        "summary": "Książulo wrzucił 35-minutowy odcinek „Najgorszy kebab w Polsce?”. W kilkanaście godzin obejrzało go ponad 518 tys. osób, a widzowie z Kołobrzegu dyskutują o odwiedzonym lokalu.",
+        "body": [
+          "W niedzielę wieczorem na kanale Książula pojawił się film „NAJGORSZY KEBAB W POLSCE?”. W opisie twórca odsyła też do nowego odcinka na drugim kanale.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 518 tys. wyświetleń, 10,2 tys. polubień i ponad 600 komentarzy.",
+          "Z komentarzy wynika, że ekipa była w Kołobrzegu. Widzowie cytują reakcje twórców przy jedzeniu, część dziwi się, że ktoś podaje takie jedzenie klientom, a jeden z mieszkańców tłumaczy, że w sezonie pod lokalem stoją długie kolejki. Najwyżej oceniany komentarz prosi, żeby Bartek czasem testował jako pierwszy."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=DZGZCJxRQYE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=DZGZCJxRQYE",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/DZGZCJxRQYE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/DZGZCJxRQYE/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=DZGZCJxRQYE",
+          "alt": "Miniatura filmu Książula o najgorszym kebabie w Polsce",
+          "caption": "Książulo i „najgorszy kebab w Polsce”"
+        },
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Miniatura nowego odcinka Książula. Film nie ma napisów, więc opisujemy tytuł, statystyki i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "Książulo szukał najgorszego kebaba w Polsce",
+          "opis": "Z komentarzy wynika, że trafił do Kołobrzegu. Pół miliona wyświetleń w jedną noc."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Sport",
+        "hype": 5,
+        "title": "IShowSpeed ścigał się z Usainem Boltem. Bolt był też jego trenerem w nowym odcinku",
+        "summary": "IShowSpeed wrzucił 25-minutowy film „I raced Usain Bolt!”. Według opisu najszybszy człowiek w historii trenował go i oceniał, czy Speed zasługuje na swój pseudonim. Film i short z wyścigu mają razem ponad 6 mln wyświetleń.",
+        "body": [
+          "W niedzielę na kanale IShowSpeeda pojawił się film „I RACED USAIN BOLT!”. W opisie czytamy, że to „najważniejszy odcinek” dla twórcy, bo jego tożsamość opiera się na szybkości, a Bolt miał go trenować i ocenić, czy ma zadatki na sprintera światowej klasy.",
+          "Materiał zrealizowało studio OBB z IShowSpeedem we współpracy z siecią Dick’s Sporting Goods. Nagrania powstały w kompleksie sportowym Ansin w Miramar na Florydzie.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 2,9 mln wyświetleń i 61 tys. polubień, a short z wyścigiem ok. 3,4 mln wyświetleń. Widzowie w komentarzach przeliczają czas, który Speed uzyskał na 100 m, porównują go z rekordem świata kobiet i chwalą Bolta za cierpliwość jako mentora."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=PHSsdHu2Er0",
+            "origin": true
+          },
+          {
+            "name": "IShowSpeed / YouTube (short)",
+            "url": "https://www.youtube.com/shorts/friwdO_FIb0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=PHSsdHu2Er0",
+        "ig": [
+          "ishowspeed"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/PHSsdHu2Er0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/PHSsdHu2Er0/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=PHSsdHu2Er0",
+          "alt": "Miniatura filmu IShowSpeeda o wyścigu z Usainem Boltem",
+          "caption": "IShowSpeed i Usain Bolt"
+        },
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Miniatura odcinka, w którym IShowSpeed trenuje z Usainem Boltem i staje z nim do wyścigu. Czasu nie podajemy, bo nie potwierdziło go żadne źródło poza komentarzami."
+        },
+        "insta": {
+          "tytul": "IShowSpeed stanął do wyścigu z Usainem Boltem",
+          "opis": "Bolt wcześniej go trenował. Widzowie w komentarzach porównują czas Speeda z rekordem świata kobiet."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-22",
+        "who": "Sidemen",
+        "initials": "SM",
+        "category": "Życie",
+        "hype": 4,
+        "title": "Sidemen zrobili W2S urodziny-niespodziankę na 30-tkę. Harry był ostatnim z ekipy przed trzydziestką",
+        "summary": "W nowym Sidemen Sunday reszta grupy przygotowała imprezę-niespodziankę dla Harry’ego (W2S). Jak piszą w opisie, był ostatnim z Sidemen, który kończy 30 lat. Film ma 1,5 mln wyświetleń.",
+        "body": [
+          "W niedzielę na kanale Sidemen pojawił się prawie 98-minutowy film „Sidemen Surprise W2S with Secret Birthday Party”. Opis zaczyna się od słów „Ostatni, który kończy 30 lat… wszystkiego najlepszego, Harry!”.",
+          "Do poniedziałku, godz. 6:16, film miał ok. 1,55 mln wyświetleń, 43 tys. polubień i blisko 2,4 tys. komentarzy.",
+          "Widzowie zwracają uwagę, że ekipa założyła bluzy z motywem W2S, a na imprezie pojawił się też jego przyjaciel Gib, którego salto stało się jednym z najczęściej komentowanych momentów. Wielu pisze, że teraz wszyscy Sidemen są już po trzydziestce."
+        ],
+        "sources": [
+          {
+            "name": "Sidemen / YouTube",
+            "url": "https://www.youtube.com/watch?v=xFrlRL3D-LQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=xFrlRL3D-LQ",
+        "ig": [
+          "sidemen"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/xFrlRL3D-LQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/xFrlRL3D-LQ/hqdefault.jpg",
+          "credit": "Sidemen / YouTube",
+          "href": "https://www.youtube.com/watch?v=xFrlRL3D-LQ",
+          "alt": "Miniatura filmu Sidemen o urodzinach-niespodziance dla W2S",
+          "caption": "Urodziny-niespodzianka W2S"
+        },
+        "caption": {
+          "credit": "Sidemen / YouTube",
+          "text": "Miniatura odcinka Sidemen Sunday z imprezą-niespodzianką na 30. urodziny W2S. Opisujemy tytuł, opis i reakcje widzów."
+        },
+        "insta": {
+          "tytul": "W2S skończył 30 lat i Sidemen zrobili mu imprezę-niespodziankę",
+          "opis": "Był ostatnim z ekipy przed trzydziestką. Teraz cała grupa jest już po 30 🎂"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-22",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "LootBox pyta, czy GTA 6 na PC to kwestia tygodni. Omawia historię wycieków gry",
+        "summary": "LootBox wrzucił 13-minutowy materiał o historii przecieków związanych z GTA 6 i o tym, kiedy gra może trafić na PC. Rockstar nie podał daty wersji na komputery.",
+        "body": [
+          "W niedzielę o 16:20 na kanale LootBox pojawił się film „GTA 6 na PC to kwestia tygodni? (Historia wycieków Grand Theft Auto 6)”. Tytuł jest pytaniem, a w opisie kanał podaje filmy, na których się opierał.",
+          "Do poniedziałku, godz. 6:16, materiał miał ok. 42 tys. wyświetleń i 692 polubienia.",
+          "W komentarzach dominują gracze PC, którzy czekają na swoją wersję. Część zapowiada, że kupi grę dopiero na przecenie, inni żartują, że „kwestia tygodni” może oznaczać 200 tygodni. Daty wersji PC Rockstar dotąd nie ogłosił."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=LuXNT2priq8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=LuXNT2priq8",
+        "ig": [
+          "lootbox_news"
+        ],
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/LuXNT2priq8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/LuXNT2priq8/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=LuXNT2priq8",
+          "alt": "Miniatura filmu LootBox o GTA 6 na PC",
+          "caption": "LootBox o GTA 6 na PC"
+        },
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura filmu LootBox o wyciekach GTA 6 i możliwej wersji PC. Opisujemy tytuł, opis i reakcje widzów, nie treść filmu."
+        },
+        "insta": {
+          "tytul": "GTA 6 na PC „to kwestia tygodni”? LootBox przejrzał historię wycieków",
+          "opis": "Rockstar daty wersji PC wciąż nie podał. Pecetowcy w komentarzach czekają i narzekają."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Szkocja",
+        "initials": "SZ",
+        "category": "Geografia",
+        "hype": 4,
+        "title": "W Szkocji jest most, który ludzie nazywają „mostem nad Atlantykiem”",
+        "summary": "Kamienny Clachan Bridge łączy szkocki ląd z wyspą Seil nad wąską cieśniną. Stąd żartobliwa, choć nieścisła nazwa „Bridge over the Atlantic”.",
+        "body": [
+          "Clachan Bridge to prosty, jednołukowy most z kamienia, zbudowany w latach 1792–1793 ok. 13 km na południowy zachód od Oban. Przerzucono go nad cieśniną Clachan Sound, która oddziela zachodnie wybrzeże Szkocji od wyspy Seil.",
+          "Ponieważ woda pod nim łączy się z oceanem, most zyskał przydomek „mostu nad Atlantykiem”. Przejście nim zajmuje kilkadziesiąt sekund."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Clachan_Bridge"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/uk-news/2026/may/05/anger-over-green-light-for-traffic-lights-on-argylls-bridge-over-the-atlantic"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Clachan_Bridge.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Clachan_Bridge.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Kamienny, wysoko wygięty most Clachan Bridge nad wąską cieśniną",
+          "caption": "Clachan Bridge, czyli „most nad Atlantykiem”"
+        },
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Zdjęcie pokazuje jednołukowy Clachan Bridge nad cieśniną Clachan Sound. To ten most nazywany mostem nad Atlantykiem."
+        },
+        "insta": {
+          "tytul": "W Szkocji możesz przejść przez Atlantyk w niecałą minutę",
+          "opis": "Kamienny most na wyspę Seil nazywają „mostem nad Atlantykiem”. Pod spodem jest wąska cieśnina, nie ocean, ale nazwa została."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Republika Południowej Afryki",
+        "initials": "RPA",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Pawian Jackie służył w armii RPA w I wojnie światowej i skończył ją jako kapral",
+        "summary": "Pawian był maskotką południowoafrykańskiego wojska. Nauczył się salutować oficerom, został ranny, a po wojnie dostał stopień kaprala i medal.",
+        "body": [
+          "Jackie, pawian czakma, trafił do armii, bo jego właściciel, powołany do wojska, nie chciał go zostawić w domu. Zwierzę zostało maskotką jednostki i nauczyło się salutować na widok przełożonych.",
+          "W czasie wojny Jackie miał odłamki w ręce i nodze, a jedną nogę stracił. Po wojnie dostał stopień kaprala i medal Pretoria Citizens Service Medal. Zginął rok później w pożarze domu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Corporal_Jackie"
+          },
+          {
+            "name": "Express.co.uk",
+            "url": "https://www.express.co.uk/entertainment/books/468358/Radio-4-s-The-Unbelievable-Truth-book-proves-fact-is-stranger-than-fiction"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Corporal_Jackie_the_baboon_injured_as_a_soldier_in_the_South_African_army.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Corporal_Jackie_the_baboon_injured_as_a_soldier_in_the_South_African_army.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie pawiana Jackie w wojskowym mundurze",
+          "caption": "Kapral Jackie, pawian z armii RPA"
+        },
+        "caption": {
+          "credit": "Wikimedia Commons",
+          "text": "Archiwalna fotografia kaprala Jackie z czasów I wojny światowej. To ten pawian, który służył w wojsku RPA."
+        },
+        "insta": {
+          "tytul": "W I wojnie światowej w armii RPA służył pawian. Skończył wojnę jako kapral",
+          "opis": "Nazywał się Jackie i salutował oficerom. Po wojnie dostał stopień i medal."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Chorwacja i Bośnia",
+        "initials": "ŽE",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Na granicy Chorwacji i Bośni jest opuszczona baza lotnicza ukryta pod górą",
+        "summary": "Baza Željava pod górą Plješevica była największym lotniskiem wojskowym i podziemnym hangarem dawnej Jugosławii. Dziś stoi pusta.",
+        "body": [
+          "Željava leży pod masywem Gola Plješevica, niedaleko Bihacia, dokładnie na granicy Chorwacji i Bośni i Hercegowiny. Była największą bazą lotniczą i podziemnym hangarem w Socjalistycznej Federacyjnej Republice Jugosławii i jedną z największych w Europie.",
+          "Teren dzielą dziś samorządy Bihacia w Bośni i żupanii licko-seńskiej w Chorwacji."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/%C5%BDeljava_Air_Base"
+          },
+          {
+            "name": "zeljava-lybi.com",
+            "url": "http://www.zeljava-lybi.com/opis_eng.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%C5%BDeljava%2C_Runway_1.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:%C5%BDeljava,_Runway_1.jpg",
+          "credit": "Ballota / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Opuszczony pas startowy bazy Željava u stóp zalesionej góry",
+          "caption": "Pas startowy bazy Željava"
+        },
+        "caption": {
+          "credit": "Ballota / Wikimedia Commons",
+          "text": "Zdjęcie pasa startowego opuszczonej bazy Željava. Hangary schowano we wnętrzu góry widocznej w tle."
+        },
+        "insta": {
+          "tytul": "Jugosławia schowała całe lotnisko wojskowe w środku góry",
+          "opis": "Baza Željava leży na granicy Chorwacji i Bośni. Dziś jest opuszczona."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Kalifornia",
+        "initials": "JH",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Aktywistka mieszkała 738 dni na szczycie tysiącletniej sekwoi, żeby jej nie wycięto",
+        "summary": "Julia Butterfly Hill spędziła ponad dwa lata w namiocie na 61-metrowym drzewie w Kalifornii. W końcu dogadała się z firmą drzewną i sekwoja ocalała.",
+        "body": [
+          "Od 10 grudnia 1997 do 18 grudnia 1999 Julia Butterfly Hill mieszkała w namiocie niedaleko czubka sekwoi o wysokości ok. 61 m i wieku ok. 1000 lat. Drzewo nazywano Luna.",
+          "Chciała w ten sposób powstrzymać drwali firmy Pacific Lumber Company przed jego ścięciem. Ostatecznie zawarła z firmą porozumienie, które uratowało drzewo."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Julia_Butterfly_Hill"
+          },
+          {
+            "name": "Circle of Life (archiwum)",
+            "url": "https://web.archive.org/web/20080408032609/http://www.circleoflife.org/tale.php"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Julia_Butterfly_Hill%2C_2006.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Julia_Butterfly_Hill,_2006.png",
+          "credit": "Carl-John Veraja / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Portret Julii Butterfly Hill z 2006 roku",
+          "caption": "Julia Butterfly Hill w 2006 roku"
+        },
+        "caption": {
+          "credit": "Carl-John Veraja / Wikimedia Commons",
+          "text": "Zdjęcie Julii Butterfly Hill z 2006 roku. To ona przez 738 dni mieszkała na sekwoi Luna."
+        },
+        "insta": {
+          "tytul": "Mieszkała ponad 2 lata na drzewie, żeby nikt go nie wyciął",
+          "opis": "Julia Butterfly Hill spędziła 738 dni na tysiącletniej sekwoi. Firma w końcu odpuściła i drzewo stoi."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Paleontologia",
+        "initials": "PF",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Jest skamieniały mięczak, którego rodzaj naukowcy nazwali po prostu „Punk”",
+        "summary": "Punk ferox to wymarły mięczak z sylurskich skał Anglii. To jedyny gatunek w rodzaju o nazwie Punk.",
+        "body": [
+          "Punk ferox należał do bezskorupowych mięczaków z grupy Aplacophora. Jego skamieniałości znaleziono w formacji Coalbrookdale w Anglii, w skałach z sylurskiego piętra homer.",
+          "Opisano go w pracy o nowych sylurskich skamieniałościach mięczaków i jest jedynym znanym gatunkiem rodzaju Punk."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Punk_ferox"
+          },
+          {
+            "name": "PMC / NCBI",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11735398"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Punk_ferox_holotype.webp",
+          "href": "https://commons.wikimedia.org/wiki/File:Punk_ferox_holotype.webp",
+          "credit": "Mark D. Sutton, Julia D. Sigwart, Derek E. G. Briggs, Pierre Gueriau, Andrew King, David J. Siveter i Derek J. Siveter / Wikimedia Commons, CC BY 4.0",
+          "alt": "Rekonstrukcja i skamieniałość holotypu Punk ferox",
+          "caption": "Holotyp Punk ferox"
+        },
+        "caption": {
+          "credit": "Sutton i in. / Wikimedia Commons",
+          "text": "Holotyp, czyli okaz wzorcowy gatunku Punk ferox. To na jego podstawie opisano mięczaka z rodzaju Punk."
+        },
+        "insta": {
+          "tytul": "Naukowcy nazwali prastarego mięczaka… Punk",
+          "opis": "Punk ferox żył w sylurze na terenie dzisiejszej Anglii. To jedyny gatunek w rodzaju Punk."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-22": {
     "date": "2026-11-22",
     "ryby": [],
