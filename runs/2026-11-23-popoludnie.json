@@ -1,0 +1,1933 @@
+{
+ "run": {
+  "date": "2026-11-23",
+  "slot": "popoludnie",
+  "generated_at": "2026-11-23T13:24:16.297Z",
+  "candidates": 95,
+  "with_free_image": 33,
+  "ready": 18
+ },
+ "status": {
+  "wiki-pl:Szablon:Czy wiesz": "ok 5",
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "rss:Mental Floss": "ok 12",
+  "wiki-en:Wikipedia:Recent additions": "ok 297",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4259",
+  "drugie-zrodlo": "ok 18/30"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto robi lusterka na jesionach i szkodzi sycylijskim oliwkom?",
+   "article": {
+    "title": "Oskrobek jesionowy",
+    "url": "https://pl.wikipedia.org/wiki/Oskrobek_jesionowy",
+    "extract": "Oskrobek jesionowy (Stereonychus fraxini) – gatunek chrząszcza z rodziny ryjkowcowatych i podrodziny Curculioninae. Zamieszkuje Europę, Afrykę Północną i Azję Zachodnią. Żeruje na oliwkowatych."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Stereonychus-fraxini-09-fws.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stereonychus-fraxini-09-fws.jpg",
+    "file": "File:Stereonychus-fraxini-09-fws.jpg",
+    "artist": "Francisco Welter-Schultes",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 677,
+    "height": 543,
+    "ok": true
+   }
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który eurosceptyczny zbiór opowiadań reklamowano hasłem: „Książka nie tylko dla faszystów”?",
+   "article": {
+    "title": "Bunt (zbiór opowiadań)",
+    "url": "https://pl.wikipedia.org/wiki/Bunt_(zbi%C3%B3r_opowiada%C5%84)",
+    "extract": "Bunt – zbiór opowiadań fantastyczno-socjologicznych autorstwa Tomasza Szczepańskiego, publikującego pod pseudonimem Barnim Regalica, wydany w 1999 roku przez wydawnictwo Rekonkwista. Zbiór składa się z siedmiu powiązanych ze sobą opowiadań.\nZbiór przedstawia satyryczną, skrajnie eurosceptyczną wizję integracji europejskiej, konfliktów narodowościowych i polityki wielokulturowości, prowadzących do wybuchu nacjonalistycznego powstania. Akcja rozgrywa się w alternatywnej wizji niedalekiej przyszłości, w której Polska utraciła niepodległość i została podzielona na euroregiony podporządkowane obcym ośrodkom władzy."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który włoski piłkarz wystąpił w dwóch różnych edycjach mistrzostw świata U-20?",
+   "article": {
+    "title": "Alessandro Plizzari",
+    "url": "https://pl.wikipedia.org/wiki/Alessandro_Plizzari",
+    "extract": "Alessandro Plizzari (ur. 12 marca 2000 w Cremie) – włoski piłkarz występujący na pozycji bramkarza w klubie Venezia."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy Rhamphus robi miny, a kiedy dziurki?",
+   "article": {
+    "title": "Rhamphus",
+    "url": "https://pl.wikipedia.org/wiki/Rhamphus",
+    "extract": "Rhamphus – rodzaj chrząszczy z rodziny ryjkowcowatych i podrodziny Curculioninae. Obejmuje 53 opisane gatunki. Zamieszkują wszystkie kontynenty oprócz Ameryk i Antarktydy. Żerują na liściach."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Rhamphus_pulicarius%2C_Lake_Elsi%2C_North_Wales%2C_July_2014_%2818127033438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rhamphus_pulicarius,_Lake_Elsi,_North_Wales,_July_2014_(18127033438).jpg",
+    "file": "File:Rhamphus pulicarius, Lake Elsi, North Wales, July 2014 (18127033438).jpg",
+    "artist": "Janet Graham",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1071,
+    "height": 1500,
+    "ok": true
+   }
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak działa encyklopedyczność w anglojęzycznej Wikipedii?",
+   "article": {
+    "title": "Encyklopedyczność w anglojęzycznej Wikipedii",
+    "url": "https://pl.wikipedia.org/wiki/Encyklopedyczno%C5%9B%C4%87_w_angloj%C4%99zycznej_Wikipedii",
+    "extract": "Encyklopedyczność w anglojęzycznej Wikipedii – zbiór zasad i praktyk stosowanych w anglojęzycznej Wikipedii do określania, czy dane zagadnienie nadaje się do opisania w postaci odrębnego artykułu. Pojęcie to jest związane przede wszystkim z istnieniem znaczącego omówienia tematu w wiarygodnych źródłach niezależnych od jego przedmiotu.\nZasady te rozwijały się wraz z rozwojem Wikipedii i formalizowaniem reguł jej funkcjonowania. Oprócz ogólnego kryterium istnieją szczegółowe wytyczne dotyczące określonych grup tematów, a ocena encyklopedyczności jest powiązana z weryfikowalnością, neutralnym punktem widzenia i zakazem przedstawiania twórczości własnej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że goleń podwozia może jednocześnie pełnić funkcję zbiornika sprężonego gazu?",
+   "article": {
+    "title": "Goleń podwozia",
+    "url": "https://pl.wikipedia.org/wiki/Gole%C5%84_podwozia",
+    "extract": "Goleń podwozia – element konstrukcyjny podwozia statku powietrznego, służący do przenoszenia obciążeń występujących podczas postoju, kołowania, startu i lądowania. Stanowi podporę łączącą elementy układu jezdnego, takie jak koła, płozy lub pływaki, z konstrukcją płatowca.\nPodczas lądowania golenie podwozia przenoszą na konstrukcję płatowca obciążenia powstające w wyniku zetknięcia kół z podłożem. Ich wielkość zależy m.in."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Golen He 177 1.jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto przez 28 lat podróżował po świecie, by w tym miesiącu powrócić do domu?",
+   "article": {
+    "title": "Karl Bushby",
+    "url": "https://pl.wikipedia.org/wiki/Karl_Bushby",
+    "extract": "Karl Bushby (ur. 30 marca 1969 w Hull) – brytyjski podróżnik, były żołnierz wojsk powietrznodesantowych i autor książek, znany z realizacji Goliath Expedition – próby pokonania pieszo trasy dookoła świata z Punta Arenas w Chile do rodzinnego Hull w Anglii. Wyprawę rozpoczął w 1998 roku.\nW listopadzie 2026 roku Bushby dotarł do rodzinnego miasta Hull."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Karl Bushby, Kingston upon Hull Nov26 (cropped).jpg)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…dlaczego organizator szkolnictwa artystycznego w Kiszyniowie (na znaczku pocztowym) nie ukończył studiów?",
+   "article": {
+    "title": "Włodzimierz Okuszko",
+    "url": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Okuszko",
+    "extract": "Włodzimierz Okuszko (rum. Vladimir Ocușco; ur. 26 stycznia?/7 lutego 1862 w Oszmianie, zm. 1 lutego 1919 w Kiszyniowie) – polski malarz, rysownik, pedagog i działacz społeczny, związany z Besarabią."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Stamp_of_Moldova._Vladimir_Okushko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_Moldova._Vladimir_Okushko.jpg",
+    "file": "File:Stamp of Moldova. Vladimir Okushko.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 237,
+    "height": 350,
+    "ok": true
+   }
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że 13. rozdział serialu The Mandalorian wcale nie był pechowy pod względem nagród?",
+   "article": {
+    "title": "Rozdział 13: Jedi",
+    "url": "https://pl.wikipedia.org/wiki/Rozdzia%C5%82_13:_Jedi",
+    "extract": "Rozdział 13: Jedi (ang. Chapter 13: The Jedi) – piąty odcinek drugiego sezonu amerykańskiego serialu telewizyjnego The Mandalorian. Reżyserem i scenarzystą odcinka był Dave Filoni. W głównej roli Mandalorianina wystąpił Pedro Pascal."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"'We're being pressured into sex by some trans women'\": Officially-platformed transphobia by the BBC, including a quote from a porn star who wanted to lynch all trans women. Still not fully retracted.",
+   "article": {
+    "title": "\"We're being pressured into sex by some trans women\"",
+    "url": "https://en.wikipedia.org/wiki/%22We%27re_being_pressured_into_sex_by_some_trans_women%22",
+    "extract": "\"'We're being pressured into sex by some trans women'\" is the original title of a BBC News article written by Caroline Lowbridge and published on 26 October 2021. Produced by the BBC's regional service in Nottingham, the article says that lesbians are being pressured into sex by a number of transgender women and cisgender activists. The article received widespread criticism among media watchdogs and the LGBTQ community for being transphobic. It drew particular attention for the inclusion of comments from Lily Cade, an American pornographic actress, who has been the subject of sexual misconduct allegations."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Whangamōmona: A township in New Zealand that also happens to be a self-declared republic, whose past presidents include a goat and a poodle.",
+   "article": {
+    "title": "Whangamōmona",
+    "url": "https://en.wikipedia.org/wiki/Whangam%C5%8Dmona",
+    "extract": "Whangamōmona is a township in the Stratford District and Manawatū–Whanganui Region of New Zealand. It lies on State Highway 43, the \"Forgotten World Highway\", 65 kilometres (40 mi) north-east of Stratford and 55 kilometres (34 mi) south-west of Ōhura. By rail it is 61 kilometres (38 mi) from Stratford on the Stratford-Okahukura railway line."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Whangamomona_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Whangamomona_Hotel.jpg",
+    "file": "File:Whangamomona Hotel.jpg",
+    "artist": "Robyn Gallagher from Auckland, New Zealand",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://datafinder.stats.govt.nz/data/"
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Scrotal inflation: For real now, boys: DO NOT try this at home. You can put your life at risk while doing it.",
+   "article": {
+    "title": "Scrotal inflation",
+    "url": "https://en.wikipedia.org/wiki/Scrotal_inflation",
+    "extract": "Scrotal inflation or scrotal infusion is a sexual practice in which fluid (typically saline solution, but sometimes air or another gas) is injected into the scrotum in order to make it balloon in size. It carries a number of risks of serious complications, including scrotal cellulitis and subcutaneous emphysema, and possibly fatal complications such as Fournier's gangrene or air embolism."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Scrotal saline infusion (inflation) - 035.JPG)"
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Risa Nakamura wore a bra made from Pikachu plushies in promotional media for a collaboration between Pokémon and a lingerie brand?",
+   "article": {
+    "title": "Risa Nakamura",
+    "url": "https://en.wikipedia.org/wiki/Risa_Nakamura",
+    "extract": "Risa Nakamura (Japanese: 中村 里砂, Hepburn: Nakamura Risa; born July 12, 1989) is a Japanese model, actress, television personality, and businessperson. Nakamura debuted as a model in 2010 and modeled for the fashion magazines Larme, Gothic & Lolita Bible, Bis, and Peche, in addition to making regular runway appearances at the Kansai Collection and Tokyo Girls Collection fashion events since 2015. She is also the brand model for the lolita fashion brand Angelic Pretty.\nNakamura made her first acting appearance in the film Shōjo Tsubaki (2016) and continued to appear in the live-action drama for Kakafukaka (2019) and the film Diner (2019)."
+   },
+   "related": [
+    "Pikachu",
+    "Pokémon"
+   ],
+   "image": null,
+   "image_rejected": "CC BY 2.0 (File:Super! C CHANNEL 2017- Nakamura Risa (38042612411).jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ratfucking: What the Watergate conspirators did. (Not bestiality, if that's what you're thinking.)",
+   "article": {
+    "title": "Ratfucking",
+    "url": "https://en.wikipedia.org/wiki/Ratfucking",
+    "extract": "Ratfucking is an American slang term for behind the scenes (covert) political sabotage or dirty tricks, particularly pertaining to elections. It was brought to public attention by Bob Woodward and Carl Bernstein in All the President's Men (1974), the book that chronicled their investigative reporting of the Watergate scandal."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Holy Prepuce: One of several relics purported to be associated with Jesus. Also known as The Holy Foreskin. (See also Circumcision of Jesus.)",
+   "article": {
+    "title": "Holy Prepuce",
+    "url": "https://en.wikipedia.org/wiki/Holy_Prepuce",
+    "extract": "The Holy Prepuce, or Holy Foreskin (Latin præputium or prepucium), is one of several relics attributed to Jesus, consisting of the foreskin removed during the circumcision of Jesus. At various points in history, as many as 31 churches in Europe have claimed to possess the Prepuce, sometimes at the same time. Various miraculous powers have been ascribed to it, such as claims the relic has the power of duplication."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/St._Jakob_%28Rothenburg_ob_der_Tauber%29%2C_Circoncision.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:St._Jakob_(Rothenburg_ob_der_Tauber),_Circoncision.jpg",
+    "file": "File:St. Jakob (Rothenburg ob der Tauber), Circoncision.jpg",
+    "artist": "Friedrich Herlin",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source": {
+    "name": "medievalists.net",
+    "url": "https://www.medievalists.net/2024/04/holy-foreskin-medieval-relic/",
+    "title": "The Holy Foreskin: The Story of Christianity's Strangest Relic - Medievalists.net",
+    "matched": [
+     "several",
+     "relics",
+     "associated",
+     "jesus",
+     "known",
+     "foreskin"
+    ]
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dariacore: An entire microgenre made to imitate the style of a Daria-themed alias of the musician Jane Remover.",
+   "article": {
+    "title": "Dariacore",
+    "url": "https://en.wikipedia.org/wiki/Dariacore",
+    "extract": "Dariacore (also known as hyperflip) is an Internet microgenre of electronic dance music originally coined and pioneered by American musician Jane Remover (under the alias \"Leroy\") in the early 2020s. It is characterized by a humorous tone, frantic tempo, and recognizable sampling. It is sometimes conflated as a subgenre of hyperpop.\nDariacore is a primarily sample-based genre, drawing from pop music and internet memes for its sample material, and implements aspects of various genres of EDM, such as Jersey club, dubstep, and complextro."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Elections in the Soviet Union: Over 100 million votes. Only one party to vote for.",
+   "article": {
+    "title": "Elections in the Soviet Union",
+    "url": "https://en.wikipedia.org/wiki/Elections_in_the_Soviet_Union",
+    "extract": "The electoral system of the Union of Soviet Socialist Republics was varying over time, being based upon Chapter XIII of the provisional Fundamental Law of 1922, articles 9 and 10 of the 1924 Constitution and Chapter XI of the 1936 Constitution, with the electoral laws enacted in conformity with those. The Constitution and laws applied to elections in all Soviets, from the Supreme Soviet of the Soviet Union, the Union republics and  autonomous republics, through to regions, districts and towns. Voting was claimed to be secret and direct with universal suffrage. However, in practice, between 1936 and 1989, voters could vote against candidates preselected by the Communist Party only by spoiling their ballots, or by voting against the only candidate, whereas votes for the party candidates could be cast simply by submitting a blank ballot."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Stamp_of_USSR_1499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stamp_of_USSR_1499.jpg",
+    "file": "File:Stamp of USSR 1499.jpg",
+    "artist": "Post of USSR",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 321,
+    "height": 439,
+    "ok": true
+   },
+   "second_source": {
+    "name": "marxists.org",
+    "url": "https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm",
+    "title": "Constitution (Fundamental law) of the Union of Soviet Socialist Republics",
+    "matched": [
+     "100",
+     "elections",
+     "soviet",
+     "union",
+     "votes",
+     "party"
+    ]
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Vatican Taekwondo: A sporting team with no athletes.",
+   "article": {
+    "title": "Vatican Taekwondo",
+    "url": "https://en.wikipedia.org/wiki/Vatican_Taekwondo",
+    "extract": "Vatican Taekwondo  is the official governing body for the sport of taekwondo in the Vatican City. The body is a part of Vatican Athletics, and is the second Vatican sports governing body to gain membership of a world governing body after becoming a member of World Taekwondo in November 2021; it is also a member of the European Taekwondo Union. The president of the organisation is Giampaolo Mattei."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Diella (AI system): The world's first AI-generated cabinet minister.",
+   "article": {
+    "title": "Diella (AI system)",
+    "url": "https://en.wikipedia.org/wiki/Diella_(AI_system)",
+    "extract": "Diella (Albanian pronunciation: [djɛɫa], from diell 'sun') is an artificial intelligence system developed by the National Agency for Information Society of Albania (AKSHI). Introduced in January 2025 as a virtual assistant integrated into the eAlbania platform, it assists citizens with online public services and issuing digital documents. In September 2025, following a presidential decree authorizing Prime Minister Edi Rama to oversee the creation of a virtual AI minister, Diella was formally appointed as \"Minister of State for Artificial Intelligence\" of Albania in the fourth Rama government, making it the first AI system in the world to be named in a cabinet-level government role."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "LSD: Dream Emulator: The trippiest game in existence.",
+   "article": {
+    "title": "LSD: Dream Emulator",
+    "url": "https://en.wikipedia.org/wiki/LSD:_Dream_Emulator",
+    "extract": "LSD: Dream Emulator is a 1998 exploration-adventure game by Asmik Ace Entertainment, released for the PlayStation. In LSD, the player explores surreal environments without any objective. If they touch anything in the environment, such as walls, creatures or objects, they will be warped to another setting. The game was conceived by Japanese artist Osamu Sato, who rejected the idea of games, and wanted to use the PlayStation as a medium for creating contemporary art."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bubbles (chimpanzee): Michael Jackson's chimpanzee, who used human toilet facilities, moonwalked, and (allegedly) attempted suicide.",
+   "article": {
+    "title": "Bubbles (chimpanzee)",
+    "url": "https://en.wikipedia.org/wiki/Bubbles_(chimpanzee)",
+    "extract": "Bubbles (born 1983) is a chimpanzee once kept as a pet by the American singer Michael Jackson, who bought him from a Texas research facility in the 1980s. Bubbles frequently traveled with Jackson, drawing attention in the media. In 1987, during the Bad world tour in Osaka, Bubbles and Jackson drank tea with the Osaka mayor, Yasushi Oshima.\nBubbles was initially kept at the Jackson family home in Encino, Los Angeles, but was moved to Jackson's home, Neverland Ranch, in 1988."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Michael_Jackson_with_Donna_Ashlock_1986_by_UPI_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Michael_Jackson_with_Donna_Ashlock_1986_by_UPI_(cropped).jpg",
+    "file": "File:Michael Jackson with Donna Ashlock 1986 by UPI (cropped).jpg",
+    "artist": "United Press International",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1174,
+    "height": 1684,
+    "ok": true
+   },
+   "second_source": {
+    "name": "centerforgreatapes.org",
+    "url": "https://centerforgreatapes.org/chimpanzee/bubbles/",
+    "title": "Bubbles - Center for Great Apes",
+    "matched": [
+     "bubbles",
+     "michael",
+     "jackson",
+     "chimpanzee",
+     "human"
+    ]
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cotard's syndrome: Suffered by people, very much alive, who believe they're dead.",
+   "article": {
+    "title": "Cotard's syndrome",
+    "url": "https://en.wikipedia.org/wiki/Cotard%27s_syndrome",
+    "extract": "Cotard's syndrome, also known as Cotard's delusion or walking corpse syndrome, is a mental disorder in which the affected person holds the delusional belief that they are deceased, do not exist, are putrefying, or have lost their blood or internal organs. Statistical analysis of a hundred-patient cohort indicated that denial of self-existence is present in 45% of the cases of Cotard's syndrome; the other 55% of the patients presented with delusions of immortality.\nIn 1880, the neurologist and psychiatrist Jules Cotard described the condition as le délire des négations (\"the delusion of negation\"), a psychiatric syndrome of varied severity. A mild case is characterized by despair and self-loathing, while a severe case is characterized by intense delusions of negation, and chronic psychiatric depression."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Jules_Cotard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jules_Cotard.jpg",
+    "file": "File:Jules Cotard.jpg",
+    "artist": "unknown",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 214,
+    "height": 236,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20020622060909/http://www.whonamedit.com/synd.cfm/2552.html",
+    "title": "Cotard's syndrome (www.whonamedit.com)",
+    "matched": [
+     "cotard",
+     "syndrome",
+     "suffered",
+     "people",
+     "believe"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Law of holes: If you find yourself in a hole, stop digging!",
+   "article": {
+    "title": "Law of holes",
+    "url": "https://en.wikipedia.org/wiki/Law_of_holes",
+    "extract": "The law of holes, or the first law of holes, is an adage that states: \"If you find yourself in a hole, stop digging.\" It is used as a metaphor, warning that when in an untenable position, it is best to stop making the situation worse."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Stop_Digging_%5E_-_geograph.org.uk_-_195319.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stop_Digging_%5E_-_geograph.org.uk_-_195319.jpg",
+    "file": "File:Stop Digging ^ - geograph.org.uk - 195319.jpg",
+    "artist": "Chris Wimbush",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 561,
+    "height": 429,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20210913004123/https://www.newspapers.com/clip/85226045/letting-bryan-down-easy/"
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Whipping boy: A boy who received corporal punishment for misdemeanors of a prince; as well as some of his privileges.",
+   "article": {
+    "title": "Whipping boy",
+    "url": "https://en.wikipedia.org/wiki/Whipping_boy",
+    "extract": "A whipping boy was a boy educated alongside a prince (or boy monarch) in early modern Europe who supposedly received corporal punishment for the prince's transgressions in his presence.  The prince was not punished himself because his royal status exceeded that of his tutor; seeing a friend punished would provide an equivalent motivation not to repeat the offence. An archaic proverb which captures a similar idea is \"to beat a dog before a lion\". Whipping was a common punishment administered by tutors at that time."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Whipping-boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Whipping-boy.jpg",
+    "file": "File:Whipping-boy.jpg",
+    "artist": "Walter S. Stacey",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 442,
+    "height": 600,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://archive.org/stream/magazineofart06londuoft#page/n153/mode/1up"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Why did the chicken cross the road?: People have asked this for over 150 years.",
+   "article": {
+    "title": "Why did the chicken cross the road?",
+    "url": "https://en.wikipedia.org/wiki/Why_did_the_chicken_cross_the_road%3F",
+    "extract": "\"Why did the chicken cross the road?\" is a common riddle joke with the answer being \"To get to the other side.\" It is an example of anti-humor, in that the curious setup of the joke leads the listener to expect a traditional punchline, but they are instead given a simple statement of fact. The joke has become iconic as an exemplary generic joke to which most people know the answer, and has been repeated and changed numerous times over the course of history."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Fear_of_crossing_streets_1_by_Greg_Nussbaum_for_the_Wikimedia_Foundation.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fear_of_crossing_streets_1_by_Greg_Nussbaum_for_the_Wikimedia_Foundation.png",
+    "file": "File:Fear of crossing streets 1 by Greg Nussbaum for the Wikimedia Foundation.png",
+    "artist": "Greg Nussbaum for the Wikimedia Foundation",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1025,
+    "height": 897,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20120919023958/http://www.youtube.com/watch?v=_6nSOgsI_vo&gl=US&hl=en",
+    "title": "Why Did The Chicken Cross The Road? - YouTube",
+    "matched": [
+     "150",
+     "chicken",
+     "cross",
+     "people"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tlazōlteōtl: Aztec god of vice, purification, steam baths, lust, filth, and a patroness of adulterers.",
+   "article": {
+    "title": "Tlazōlteōtl",
+    "url": "https://en.wikipedia.org/wiki/Tlaz%C5%8Dlte%C5%8Dtl",
+    "extract": "In Aztec mythology, Tlahzolteōtl (or Classical Nahuatl: Tlâçolteotl, pronounced [t͡ɬaʔs̻oɬˈteoːt͡ɬ]) is a deity of sex, sexuality, lust, carnality, sin, vice, impurity, temptation, fertility, purification, absolution, steam baths, and a patroness of adulterers. She is known by three names, Tlahēlcuāni (\"she who eats tlahēlli or filthy excrescence [sin]\") and Tlazolmiquiztli (\"the death caused by lust\"), and Ixcuina or Ixcuinan (Huastec: Ix Cuinim, Deity of Cotton), the latter of which refers to a quadripartite association of four sister deities.\nTlazolteōtl is the deity for the 13th trecena of the sacred 260-day calendar Tōnalpōhualli, the one beginning with the day Ce Ōllin, or First Movement. She is associated with the day sign of the jaguar."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tlazoteotl_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tlazoteotl_7.jpg",
+    "file": "File:Tlazoteotl 7.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 476,
+    "height": 428,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.theguardian.com/arts/pictures/image/0,8543,-10404540027,00.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Shakespeare apocrypha: Anti-Stratfordians (see \"Shakespeare authorship question\" below) can take heart that there really are works attributed to Shakespeare that weren't written by him!",
+   "article": {
+    "title": "Shakespeare apocrypha",
+    "url": "https://en.wikipedia.org/wiki/Shakespeare_apocrypha",
+    "extract": "The Shakespeare apocrypha refers to a group of plays and poems that have sometimes been attributed to William Shakespeare, either individually or collaboratively, but whose authorship is disputed for various reasons. The issue is distinct from the Shakespearean authorship question, which concerns the authorship of the works traditionally attributed to Shakespeare."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Third_folio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Third_folio.JPG",
+    "file": "File:Third folio.JPG",
+    "artist": "Philip Chetwinde",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 491,
+    "height": 767,
+    "ok": true
+   },
+   "second_source": {
+    "name": "rsc.org.uk",
+    "url": "https://www.rsc.org.uk/news/thomas-cromwell-in-shakespeare",
+    "title": "Thomas Cromwell in Shakespeare | Royal Shakespeare Company",
+    "matched": [
+     "shakespeare",
+     "stratfordians",
+     "there",
+     "really",
+     "works",
+     "attributed",
+     "written"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Greeble (psychology): Stimuli used in studies of object and face recognition with hilarious names.",
+   "article": {
+    "title": "Greeble (psychology)",
+    "url": "https://en.wikipedia.org/wiki/Greeble_(psychology)",
+    "extract": "The Greebles are artificial objects designed to be used as stimuli in psychological studies of object and face recognition. They were named by the American psychologist Robert Abelson. The greebles were created in 1996 by Scott Yu using AliasSketch! software (Macintosh version) for Isabel Gauthier's dissertation work at Yale University working with her PhD advisor, Michael Tarr."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Full_Greeble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Full_Greeble.jpg",
+    "file": "File:Full Greeble.jpg",
+    "artist": "Academicmercenary",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 1028,
+    "height": 1028,
+    "ok": true
+   },
+   "second_source": {
+    "name": "link.springer.com",
+    "url": "https://link.springer.com/article/10.3758/BF03192703",
+    "title": "Generating complex three-dimensional stimuli (Greebles) for haptic expertise training | Behavior Research Methods | Springer Nature Link",
+    "matched": [
+     "greeble",
+     "stimuli",
+     "object",
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Ugly stick: An instrument in Newfoundland, an insult everywhere else.",
+   "article": {
+    "title": "Ugly stick",
+    "url": "https://en.wikipedia.org/wiki/Ugly_stick",
+    "extract": "The ugly stick is a Newfoundland musical instrument fashioned out of household and tool shed items, typically a mop handle with bottle caps, tin cans, small bells and other noise makers. The instrument is played with a drum stick or notched stick and has a distinctive sound."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Anchor_Aweigh_Band_-_Ugly_Stick_Demo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Anchor_Aweigh_Band_-_Ugly_Stick_Demo_(cropped).jpg",
+    "file": "File:Anchor Aweigh Band - Ugly Stick Demo (cropped).jpg",
+    "artist": "Todd Wight",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 312,
+    "height": 507,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://research.library.mun.ca/6154/"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "White-nose syndrome: Bats with white noses: sounds cute, is horrifying.",
+   "article": {
+    "title": "White-nose syndrome",
+    "url": "https://en.wikipedia.org/wiki/White-nose_syndrome",
+    "extract": "White-nose syndrome (WNS) is a fungal disease in North American bats which has resulted in the dramatic decrease of the bat population in the United States and Canada, reportedly killing millions as of 2018. The condition is named for a distinctive fungal growth around the muzzles and on the wings of hibernating bats. It was first identified from a February 2006 photo taken in a cave located in Schoharie County, New York. The syndrome has rapidly spread since then."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Little_Brown_Bat_with_White_Nose_Syndrome_%28Greeley_Mine%2C_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Little_Brown_Bat_with_White_Nose_Syndrome_(Greeley_Mine,_cropped).jpg",
+    "file": "File:Little Brown Bat with White Nose Syndrome (Greeley Mine, cropped).jpg",
+    "artist": "Marvin Moriarty/USFWS",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1216,
+    "height": 1432,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20210719164559/https://www.whitenosesyndrome.org/static-page/where-is-wns-now",
+    "title": "White-Nose Syndrome",
+    "matched": [
+     "white",
+     "syndrome",
+     "noses"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gävle goat: A giant straw Yuletide goat that is the target of frequent arson attacks and vandalism.",
+   "article": {
+    "title": "Gävle goat",
+    "url": "https://en.wikipedia.org/wiki/G%C3%A4vle_goat",
+    "extract": "The Gävle Goat (Swedish: Gävlebocken, pronounced [ˈjɛ̌ːvlɛbɔkːɛn]) is a traditional Christmas display erected annually at Slottstorget (Castle Square) in central Gävle, Sweden. The display is a giant version of a traditional Swedish Yule goat figure made of straw. It is erected each year by local community groups at the beginning of Advent over a period of two days.\nThe Gävle Goat has been the subject of repeated arson attacks; despite security measures and a nearby fire station, the goat has been burned to the ground most years since its first appearance in 1966."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yule_goat_Gefle_Sweden_2009_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Yule_goat_Gefle_Sweden_2009_crop.jpg",
+    "file": "File:Yule goat Gefle Sweden 2009 crop.jpg",
+    "artist": "Tony Nordin; cropped by Beyond My Ken (talk) 17:34, 9 December 2016 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 728,
+    "height": 682,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20130528014110/https://www.merjuligavle.se/English/VISIT-GAVLE/THE-CHRISTMAS-GOAT/Goat-film/"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dick Butkus: A Pro Football Hall of Famer who played 9 years for the Chicago Bears.",
+   "article": {
+    "title": "Dick Butkus",
+    "url": "https://en.wikipedia.org/wiki/Dick_Butkus",
+    "extract": "Richard Marvin Butkus (December 9, 1942 – October 5, 2023) was an American professional football player, sports commentator, and actor. He was a linebacker for the Chicago Bears of the National Football League (NFL) from 1965 to 1973. He was invited to eight Pro Bowls in nine seasons, named a first-team All-Pro five times, and was twice recognized by his peers as the NFL's Defensive Player of the Year. Butkus was renowned as a fierce tackler and for the relentless effort with which he played."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Dickbutkus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dickbutkus.jpg",
+    "file": "File:Dickbutkus.jpg",
+    "artist": "Alan Light",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 806,
+    "height": 1172,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://content.usatoday.com/communities/thehuddle/post/2010/11/who-is-nfls-greatest-player-nfl-network-reveals-no-1-thursday-night/1"
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Hyperart Thomasson: Finding the art in things that are still maintained despite being useless.",
+   "article": {
+    "title": "Hyperart Thomasson",
+    "url": "https://en.wikipedia.org/wiki/Hyperart_Thomasson",
+    "extract": "Thomasson or Hyperart Thomasson (Japanese: Tomason トマソン or Chōgeijutsu Tomason 超芸術トマソン) is a type of conceptual art named by the Japanese artist Akasegawa Genpei in the 1980s. It refers to a useless relic or structure that has been preserved as part of a building or the built environment, which has become a piece of art in itself. These objects, although having the appearance of pieces of conceptual art, were not created to be viewed as such. Akasegawa deemed them even more art-like than art itself, and named them \"hyperart\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E9%9A%8E%E6%AE%B5_%285104257679%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%E3%83%88%E3%83%9E%E3%82%BD%E3%83%B3%E9%9A%8E%E6%AE%B5_(5104257679).jpg",
+    "file": "File:トマソン階段 (5104257679).jpg",
+    "artist": "yosukesan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 850,
+    "height": 565,
+    "ok": true
+   },
+   "second_source": {
+    "name": "kaya.com",
+    "url": "http://kaya.com/books/hyperart-thomasson/",
+    "title": "Hyperart: Thomasson |",
+    "matched": [
+     "hyperart",
+     "thomasson",
+     "maintained",
+     "useless"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moebius syndrome: A disease, most envied by poker players, that makes facial expressions impossible.",
+   "article": {
+    "title": "Moebius syndrome",
+    "url": "https://en.wikipedia.org/wiki/Moebius_syndrome",
+    "extract": "Möbius syndrome or Moebius syndrome is a rare congenital neurological disorder which is characterized by facial paralysis and the inability to move the eyes from side to side. Most people with Möbius syndrome are born with complete facial paralysis and cannot close their eyes or form facial expressions. Limb and chest wall abnormalities sometimes occur with the syndrome. People with Möbius syndrome have normal intelligence, although their lack of facial expression is sometimes incorrectly taken to be due to dullness or unfriendliness."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Infant_with_M%C3%B6bius_syndrome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Infant_with_M%C3%B6bius_syndrome.jpg",
+    "file": "File:Infant with Möbius syndrome.jpg",
+    "artist": "see above",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1200,
+    "height": 900,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://moebiussyndrome.org/who-we-are/mission-and-history/"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jenny Everywhere: An open-source webcomic character.",
+   "article": {
+    "title": "Jenny Everywhere",
+    "url": "https://en.wikipedia.org/wiki/Jenny_Everywhere",
+    "extract": "Jenny Everywhere, also known as \"The Shifter\", is an open-source, freely licensed character, created by Canadian comic book artist Steven Wintle. The character was co-developed by members of the Barbelith online community.\nJenny Everywhere was created when her creators could not find any other truly open-source or public domain characters. She is described both as existing in every reality and being able to shift between realities."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jenny_PublicDomain1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jenny_PublicDomain1.jpg",
+    "file": "File:Jenny PublicDomain1.jpg",
+    "artist": "Steven Wintle (\"Moriarty\")",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 573,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20080523211531/http://webcomicbeacon.com/2008/04/17/episode-20-jenny-everywhere/",
+    "title": "The Webcomic Beacon | Episode 20 - Jenny Everywhere",
+    "matched": [
+     "jenny",
+     "everywhere",
+     "source",
+     "webcomic",
+     "character"
+    ]
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Moe anthropomorphism: Even a washing machine can be the girl of your dreams. (See Wikipedia:Wikipe-tan below)",
+   "article": {
+    "title": "Moe anthropomorphism",
+    "url": "https://en.wikipedia.org/wiki/Moe_anthropomorphism",
+    "extract": "Moe anthropomorphism (Japanese: 萌え擬人化, Hepburn: moe gijinka) is a form of anthropomorphism in anime, manga and games where moe qualities are given to non-human beings (such as animals, plants, supernatural entities and fantastical creatures), objects, concepts, or phenomena. In addition to moe features, moe anthropomorphs are also characterized by their accessories, which serve to emphasize their original forms before anthropomorphosis. The characters here, usually in a kind of cosplay, are drawn to represent an inanimate object or popular consumer product. Part of the humor of this personification comes from the personality ascribed to the character (often satirical) and the sheer arbitrariness of characterizing a variety of machines, objects, and locations as cute."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Wikipe-tan_conducting.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wikipe-tan_conducting.png",
+    "file": "File:Wikipe-tan conducting.png",
+    "artist": "User:Kasuga~commonswiki",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 318,
+    "height": 656,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://jmpc-utokyo.com/keyword/moe/"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Libya–Switzerland relations: Between 2008-2011, Gaddafi openly called for Switzerland to be wiped off the map.",
+   "article": {
+    "title": "Libya–Switzerland relations",
+    "url": "https://en.wikipedia.org/wiki/Libya%E2%80%93Switzerland_relations",
+    "extract": "Switzerland has considered formal relations with Libya's National Transitional Council (NTC) since 12 June 2011, dispatching an official envoy to Benghazi to \"intensify its political relations with the Libyan National Transitional Council\" and \"signal its intent to strengthen its presence there\".\nSwitzerland did not explicitly recognise the NTC, however it did state that \"until the establishment of a legally elected government, the Transitional Council in Benghazi is the only legitimate partner of Switzerland in Libya\". Previously, relations with Gaddafi had already been cut long before, and there had been humanitarian aid coordinated with the NTC for four months. \nOn 22 August, while addressing a conference in Lucerne, Swiss Federal President Micheline Calmy-Rey confirmed that Switzerland has not recognised the NTC because the Swiss government's policy is to recognise states and not gov"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Libya_Switzerland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Libya_Switzerland_Locator.png",
+    "file": "File:Libya Switzerland Locator.png",
+    "artist": "Namiba",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1160,
+    "height": 1056,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20121004162044/http://www.swissinfo.ch/eng/politics/Switzerland_calls_for_restraint_in_Libya.html?cid=30962140",
+    "title": "Libyan government tanks shelled parts of central Tripoli on Monday after rebels swept into the heart of the city, meeting little resistance.",
+    "matched": [
+     "2008",
+     "2011",
+     "libya",
+     "switzerland",
+     "relations",
+     "between",
+     "gaddafi",
+     "called"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cummingtonite: A mineral named after the city of Cummington, Massachusetts... What? What? We know what you're thinking, so just say it. Say it!",
+   "article": {
+    "title": "Cummingtonite",
+    "url": "https://en.wikipedia.org/wiki/Cummingtonite",
+    "extract": "Cummingtonite ( KUM-ing-tə-nyte) is a metamorphic amphibole with the chemical composition (Mg,Fe2+)2(Mg,Fe2+)5Si8O22(OH)2, magnesium iron silicate hydroxide.\nMonoclinic cummingtonite is compositionally similar and polymorphic with orthorhombic anthophyllite, which is a much more common form of magnesium-rich amphibole, the latter being metastable.\nCummingtonite shares few compositional similarities with alkali amphiboles such as arfvedsonite, glaucophane-riebeckite. There is little solubility between these minerals due to different crystal habit and inability of substitution between alkali elements and ferro-magnesian elements within the amphibole structure."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Amphibole_-_Cummingtonite_w-_chlorite_in_schist_Magnesium_iron_silicate_3800_foot_level_Homestake_Mine_Lawrence_COunty_South_Dakota_2071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Amphibole_-_Cummingtonite_w-_chlorite_in_schist_Magnesium_iron_silicate_3800_foot_level_Homestake_Mine_Lawrence_COunty_South_Dakota_2071.jpg",
+    "file": "File:Amphibole - Cummingtonite w- chlorite in schist Magnesium iron silicate 3800 foot level Homestake Mine Lawrence COunty South Dakota 2071.jpg",
+    "artist": "Dave Dyet http://www.shutterstone.com http://www.dyet.com",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 568,
+    "height": 470,
+    "ok": true
+   },
+   "second_source": {
+    "name": "webmineral.com",
+    "url": "http://webmineral.com/data/Cummingtonite.shtml",
+    "title": "Cummingtonite Mineral Data",
+    "matched": [
+     "cummingtonite",
+     "mineral",
+     "named",
+     "cummington",
+     "massachusetts"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the single-celled salmon parasite Paramoeba perurans contains another single-celled eukaryote living inside it?",
+   "article": {
+    "title": "Paramoeba perurans",
+    "url": "https://en.wikipedia.org/wiki/Paramoeba_perurans",
+    "extract": "Paramoeba perurans is a species of marine amoeba in the family Paramoebidae. It is the causative agent of amoebic gill disease (AGD), an infectious disease that afflicts marine fish, particularly farmed salmon. The organism was originally described as Neoparamoeba perurans in 2007, before being transferred to the genus Paramoeba in 2013."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Paramoeba_perurans_attached_trophozoite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paramoeba_perurans_attached_trophozoite.jpg",
+    "file": "File:Paramoeba perurans attached trophozoite.jpg",
+    "artist": "Blindheim et al. (2023)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 789,
+    "height": 783,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://figshare.com/articles/journal_contribution/22890929"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Public Universal Friend: An 18th century Quaker who died, and was then revived, becoming an evangelist, gaining this unusual name, and becoming one of the earliest instances in recorded history of a person identifying as genderless.",
+   "article": {
+    "title": "Public Universal Friend",
+    "url": "https://en.wikipedia.org/wiki/Public_Universal_Friend",
+    "extract": "The Public Universal Friend (born Jemima Wilkinson; November 29, 1752 – July 1, 1819; also known by the Haudenosaunee name Shinnewawna gis tau ge) was an American preacher born in Cumberland, Rhode Island, to Quaker parents. After suffering a severe illness in 1776, the Friend claimed to have died and been reanimated as a genderless evangelist named the Public Universal Friend, and afterward shunned both birth name and all pronouns. In androgynous clothes, the Friend preached throughout the northeastern United States, attracting many followers who became the Society of Universal Friends.\nThe Friend's theology was broadly similar to that of most Quakers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_the_Public_Universal_Friend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_the_Public_Universal_Friend.jpg",
+    "file": "File:Portrait of the Public Universal Friend.jpg",
+    "artist": "John Lee Douglas “J.L.D.” Mathies",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 916,
+    "height": 1221,
+    "ok": true
+   },
+   "second_source": {
+    "name": "elfrethsalley.org",
+    "url": "https://www.elfrethsalley.org/podcast/2020/7/7/episode-3-the-public-universal-friend-in-philadelphia",
+    "title": "Episode 3: The Public Universal Friend in Philadelphia &mdash; Elfreth's Alley Museum",
+    "matched": [
+     "18",
+     "public",
+     "universal",
+     "friend",
+     "century",
+     "quaker",
+     "evangelist",
+     "gaining",
+     "unusual",
+     "earliest"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Jumbo: An elephant with gigantism and legendary circus attraction, who gave his name to large things everywhere.",
+   "article": {
+    "title": "Jumbo",
+    "url": "https://en.wikipedia.org/wiki/Jumbo",
+    "extract": "Jumbo (December 25, 1860 – September 15, 1885), also known as Jumbo the Elephant and Jumbo the Circus Elephant, was a 19th-century male African bush elephant born in Sudan. Jumbo was exported to Jardin des Plantes, a zoo in Paris, and then transferred in 1865 to London Zoo in England. Despite public protest, Jumbo was sold to P. T. Barnum, who took him to the United States for exhibition in March 1882.\nThe elephant's name spawned the common word \"jumbo\", meaning large in size."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Jumbo_poster_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Jumbo_poster_1.jpg",
+    "file": "File:Jumbo poster 1.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 768,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20170909052747/http://www.etymonline.com/index.php?term=jumbo"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "World Black Pudding Throwing Championships: A super championship for a super food.",
+   "article": {
+    "title": "World Black Pudding Throwing Championships",
+    "url": "https://en.wikipedia.org/wiki/World_Black_Pudding_Throwing_Championships",
+    "extract": "The World Black Pudding Throwing Championships are held annually in Ramsbottom, Greater Manchester, England, outside The Oaks (formerly the Royal Oak) pub on Bridge Street on the second Sunday of September.\nIn the event, a stack of Yorkshire puddings are placed on a 20-foot (6.1 m) plinth, and competitors must knock down as many as they can by hurling three black puddings at them.\nAlthough the popular title for this competition uses the word throwing, the local organizers are attempting to correct this title by using the correct term, hurling, thus calling it the World Black Pudding Hurling Championships, since according to the rules of the competition the black puddings are hurled underhand rather than thrown overhand."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/World_Black_Pudding_Throwing_Championship_Ramsbottom_2007_-_geograph.org.uk_-_551380.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:World_Black_Pudding_Throwing_Championship_Ramsbottom_2007_-_geograph.org.uk_-_551380.jpg",
+    "file": "File:World Black Pudding Throwing Championship Ramsbottom 2007 - geograph.org.uk - 551380.jpg",
+    "artist": "Paul Anderson",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 640,
+    "height": 480,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/manchester/content/articles/2004/09/13/black_pudding_throwing_feature.shtml",
+    "title": "BBC - Manchester - Entertainment - The Prince of Puddings",
+    "matched": [
+     "world",
+     "black",
+     "pudding",
+     "throwing",
+     "championships",
+     "championship"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Veblen good: Goods whose demand increases as price increases, violating the law of demand.",
+   "article": {
+    "title": "Veblen good",
+    "url": "https://en.wikipedia.org/wiki/Veblen_good",
+    "extract": "A Veblen good is a type of luxury good for which the demand increases as the price increases, in apparent contradiction of the law of demand, resulting in an upward-sloping demand curve. They are named after American economist Thorstein Veblen who described the contradiction.\nThe higher prices of Veblen goods may make them desirable as a status symbol in the practices of conspicuous consumption and conspicuous leisure. A product may be a Veblen good because it is a positional good, something few others can own."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SC06_2006_Rolls-Royce_Phantom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:SC06_2006_Rolls-Royce_Phantom.jpg",
+    "file": "File:SC06 2006 Rolls-Royce Phantom.jpg",
+    "artist": "Brett Weinstein (Wikipedia User: Nrbelex)",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "width": 1024,
+    "height": 768,
+    "ok": true
+   },
+   "second_source": {
+    "name": "hdl.handle.net",
+    "url": "https://hdl.handle.net/10986%2F34351",
+    "title": "Open Knowledge Repository",
+    "matched": [
+     "goods",
+     "demand",
+     "increases",
+     "price"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that over 10% of all black holes and neutron stars in the universe were once part of high-mass X-ray binaries, stealing gas from a massive star and converting it into high-energy radiation?",
+   "article": {
+    "title": "High-mass X-ray binary",
+    "url": "https://en.wikipedia.org/wiki/High-mass_X-ray_binary",
+    "extract": "A high-mass X-ray binary (HMXB or HMXRB) is a binary star system containing a compact object (typically a black hole or neutron star) and a normal star more massive than approximately 8–10 solar masses (M☉). They form when the more massive star in a binary undergoes a supernova explosion to become a neutron star or black hole, and then begins to accrete from the other star, which can be a supergiant, a Be star, or, rarely, a Wolf–Rayet star. The compact object, which is almost always a neutron star, usually accretes from the companion's strong stellar winds, releasing bright X-ray emission that can be observed by astronomers. This period ends when the companion begins to evolve and the binary either spirals in, forming a Thorne–Żytkow object, or becomes a double compact object binary system after the companion star explodes in a supernova."
+   },
+   "related": [
+    "Black hole",
+    "Neutron star",
+    "Ionizing radiation"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/High_Mass_X-ray_binary_System_with_Jets_%282002-0214-more-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:High_Mass_X-ray_binary_System_with_Jets_(2002-0214-more-1).jpg",
+    "file": "File:High Mass X-ray binary System with Jets (2002-0214-more-1).jpg",
+    "artist": "Illustration: NASA/CXC/M.Weiss",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 556,
+    "height": 720,
+    "ok": true
+   },
+   "second_source": {
+    "name": "arxiv.org",
+    "url": "https://arxiv.org/abs/2304.14080",
+    "title": "[2304.14080] X-ray Binaries in External Galaxies",
+    "matched": [
+     "10",
+     "black",
+     "neutron",
+     "universe",
+     "binaries",
+     "massive",
+     "energy"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Silentó: The creator of the \"Watch me whip, watch me nae nae\" song who later fatally shot his older cousin",
+   "article": {
+    "title": "Silentó",
+    "url": "https://en.wikipedia.org/wiki/Silent%C3%B3",
+    "extract": "Richard Lamar Hawk (born January 23, 1998), known professionally as Silentó, is an American former rapper and convicted felon. Raised in Atlanta, Georgia, Hawk is best known for his 2015 debut single \"Watch Me (Whip/Nae Nae)\", which peaked at number three on the US Billboard Hot 100 when he was 19 years old.\nIn 2021, he was arrested in DeKalb County, Georgia, after a string of arrests for various crimes and charged with the murder of his cousin, Frederick Rooks III. In 2025, he was sentenced to 30 years in prison after pleading guilty to the lesser charge of voluntary manslaughter."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sinento_%282018%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sinento_(2018).png",
+    "file": "File:Sinento (2018).png",
+    "artist": "News Of The World",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 446,
+    "height": 639,
+    "ok": true
+   },
+   "second_source": {
+    "name": "fox5atlanta.com",
+    "url": "https://www.fox5atlanta.com/news/rapper-silento-sentenced-30-years-2021-death-cousin-metro-atlanta",
+    "title": "Rapper Silento sentenced to 30 years for 2021 death of cousin in metro Atlanta | FOX 5 Atlanta",
+    "matched": [
+     "silento",
+     "watch",
+     "later",
+     "cousin"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that a video game modder put an entire video game console inside a video game cartridge?",
+   "article": {
+    "title": "James Channel",
+    "url": "https://en.wikipedia.org/wiki/James_Channel",
+    "extract": "James Channel is a YouTube channel and an online alias. The channel, which is run by video game hardware modder James, who is known for making unconventional modifications to retro video game consoles and hardware. He first gained attention in 2024, after making his own Nintendo PlayStation, and the channel's content has received media attention from many video game outlets including Kotaku, PC Gamer, and GameSpot."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/James_Channel_Pfp.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:James_Channel_Pfp.webp",
+    "file": "File:James Channel Pfp.webp",
+    "artist": "James Channel",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 176,
+    "height": 176,
+    "ok": true
+   },
+   "second_source": {
+    "name": "retrododo.com",
+    "url": "https://retrododo.com/creative-modder-builds-the-fabled-nintendo-playstation-by-sony/",
+    "title": "Creative Modder Builds the Fabled Nintendo Playstation by Sony",
+    "matched": [
+     "video",
+     "modder",
+     "console",
+     "inside",
+     "james",
+     "channel"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gef: A poltergeist-like creature which claimed to have been an 80-year-old Indian mongoose, alleged to have haunted a Manx cottage during the 1930s.",
+   "article": {
+    "title": "Gef",
+    "url": "https://en.wikipedia.org/wiki/Gef",
+    "extract": "Gef ( JEF), also referred to as the Talking Mongoose or the Dalby Spook, was an allegedly talking mongoose which inhabited a farmhouse owned by the Irving family, located at Cashen's Gap near the hamlet of Dalby on the Isle of Man. The story was given extensive coverage by the tabloid press in Britain in the early 1930s. The Irvings' claims gained the attention of parapsychologists and ghost hunters, such as Harry Price, Hereward Carrington, and Nandor Fodor. Some investigators of the era as well as contemporary critics have concluded that the phenomenon was a hoax that the Irving family perpetuated by using ventriloquism."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Gef_the_talking_mongoose.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gef_the_talking_mongoose.png",
+    "file": "File:Gef the talking mongoose.png",
+    "artist": "Harry Price and Richard Lambert",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 604,
+    "height": 396,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20131017080810/http://www.fatemag.com/fortean/gef-the-talking-mongoose-30-years-later/"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Alta Rock Carvings in Alta, Norway",
+   "article": {
+    "title": "Alta Rock Carvings in Alta, Norway",
+    "url": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "extract": "One of the most extraordinary attractions in northern Norway is Alta Museum's outdoor area, where thousands of prehistoric carvings can be found. These are not paintings or replicas displayed behind glass – they are original artworks carved directly into the bedrock by people thousands of years ago. Some of the carvings date back more than 7,000 years, making them among the oldest and most signifi"
+   },
+   "published": "Fri, 20 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c49",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+   "article": {
+    "title": "Shrine of the Most Blessed Sacrement in Hanceville, Alabama",
+    "url": "https://www.atlasobscura.com/places/shrine-of-the-most-blessed-sacrement",
+    "extract": "Extraordinary architecture designed to resemble a 13th-century Italian Franciscan church, particularly the Basilica of Saint Francis of Assisi. Marble floors, gold ornamentation, stained glass, and soaring ceilings. The Spanish religious-art workshop Talleres de Arte Granda, founded in Madrid in 1891, designed and furnished the church's interior. It was founded by Mother Angelica, the founder of E"
+   },
+   "published": "Fri, 20 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c50",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Visulahti Wax Museum in Mikkeli, Finland",
+   "article": {
+    "title": "Visulahti Wax Museum in Mikkeli, Finland",
+    "url": "https://www.atlasobscura.com/places/visulahti-wax-museum",
+    "extract": "Rather than being an impressive, polished wax museum, the Visulahti Wax Museum has become famous for its awkward, outdated, and sometimes unintentionally hilarious figures. The museum has something of a cult reputation in Finland. Its wax figures are famously questionable in quality: many look surprisingly inaccurate, while some remind you more of a horror movie setting. In 1983, the Wax Museum wa"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "City Island Nautical Museum in The Bronx, New York",
+   "article": {
+    "title": "City Island Nautical Museum in The Bronx, New York",
+    "url": "https://www.atlasobscura.com/places/city-island-nautical-museum",
+    "extract": "It was perhaps inevitable that market-driven land use change would come to City Island; the beauty of the place is immediately apparent. Only a quarter-mile causeway separates the small island from the rest of the Bronx, one of the five boroughs of New York City, and yet City Island can seem a world away. The former United Boat Service Yard at the foot of Carroll Street was the first major maritim"
+   },
+   "published": "Fri, 20 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Promotions Gallery in Paris, France",
+   "article": {
+    "title": "Promotions Gallery in Paris, France",
+    "url": "https://www.atlasobscura.com/places/promotions-gallery",
+    "extract": "Historically, a secret entrance at the School of Mines, known as the “Mines staircase,” provided students access to the Paris Catacombs. Although this private access is no longer available for use due to safety reasons, the General Inspector of Quarries still grants students permission to uphold this artistic tradition. Each year, on the occasion of Sainte-Barbe, celebrated on December 4th in hono"
+   },
+   "published": "Thu, 19 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Čigoč Stork Village in Kratečko, Croatia",
+   "article": {
+    "title": "Čigoč Stork Village in Kratečko, Croatia",
+    "url": "https://www.atlasobscura.com/places/cigoc-stork-village",
+    "extract": "In the Croatian village of Čigoč, some of the most conspicuous residents live above the rooftops. White storks build bulky nests on traditional wooden houses, sharing the settlement with the people below. Situated in Lonjsko Polje Nature Park beside the Tišina oxbow of the Sava River, the village is surrounded by wet meadows, pastures, and pools. These habitats provide feeding grounds close to the"
+   },
+   "published": "Thu, 19 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Thunder Hole in Bar Harbor, Maine",
+   "article": {
+    "title": "Thunder Hole in Bar Harbor, Maine",
+    "url": "https://www.atlasobscura.com/places/thunder-hole-in-acadia-national-park",
+    "extract": "Located in Maine's Acadia National Park, along the rocky shoreline of Mount Desert Island, Thunder Hole is a natural geological formation known for producing a booming, thunder-like sound phenomenon that gives it its name, as well as for explosive water sprays reaching up to 40 feet. Resulting from glacial activity over thousands of years ago, what began as a small, natural fissure in the solid gr"
+   },
+   "published": "Thu, 19 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+   "article": {
+    "title": "Abdulla Avloni Memorial Museum in Tashkent, Uzbekistan",
+    "url": "https://www.atlasobscura.com/places/abdulla-avloni-memorial-museum",
+    "extract": "Most memorial museums stay put in the house of the person they remember. This one moved out. It was founded in 1968 in the Tashkent house where Abdulla Avloni (1878–1934) had lived with his family from 1910 until his death. Avloni was one of the Jadids, the Muslim reformers who believed Central Asia could be renewed through new-method schools, newspapers and the theatre. He opened schools, wrote t"
+   },
+   "published": "Thu, 19 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Podcast: Exploring Alberta’s Rich History in Fiction",
+   "article": {
+    "title": "Podcast: Exploring Alberta’s Rich History in Fiction",
+    "url": "https://www.atlasobscura.com/articles/podcast-exploring-alberta-s-rich-history-in-fiction",
+    "extract": "Listen and subscribe on Apple Podcasts, Spotify, and all major podcast apps. In this episode of The Atlas Obscura Podcast, we’re exploring the surprising side of Alberta with the Canadian novelist Esi Edugyan. Our podcast is an audio guide to the world’s wondrous, awe-inspiring, strange places. In under 15 minutes, we’ll take you to an incredible site, and along the way you’ll meet some fascinatin"
+   },
+   "published": "Thu, 19 Nov 2026 07:15:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+   "article": {
+    "title": "Binh Lam Champa Tower in Tuy Phước Đông, Vietnam",
+    "url": "https://www.atlasobscura.com/places/binh-lam-champa-tower",
+    "extract": "Unlike most surviving Cham towers that crown dramatic hilltops, Binh Lam Tower rises almost unexpectedly from the flat, verdant plains of a quiet lowland village. Constructed around the late tenth to early eleventh century, this 20-meter brick sanctuary serves as a vital architectural bridge, catching the art form mid-evolution between the delicate, lyrical features of the My Son A1 style and the "
+   },
+   "published": "Wed, 18 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+   "article": {
+    "title": "National Underground Railroad Freedom Center in Cincinnati, Ohio",
+    "url": "https://www.atlasobscura.com/places/national-underground-railroad-freedom-center",
+    "extract": "The National Underground Railroad Freedom Center, located in Cincinnati along the banks of the Ohio River makes a solemn statement about the lives that were lived enslaved in the early history of the United States, and the many heroic men and women who played important roles in the Underground Railroad movement, which helped to bring an end to African slavery in the United States. Referred to as a"
+   },
+   "published": "Wed, 18 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Veliki Kalnik Castle in Koprivnica, Croatia",
+   "article": {
+    "title": "Veliki Kalnik Castle in Koprivnica, Croatia",
+    "url": "https://www.atlasobscura.com/places/veliki-kalnik-castle",
+    "extract": "Above the village of Kalnik in northern Croatia, the walls of Veliki Kalnik Castle rise from a jagged rocky ridge. Built across several levels, the medieval stronghold follows the natural contours of the rock, making its surviving towers and walls appear to grow out of the mountain. First documented in 1243, the castle is best known for a story involving King Béla IV of Hungary and Croatia. Accord"
+   },
+   "published": "Wed, 18 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Ways the Macy’s Thanksgiving Day Parade Has Changed in the Last Century",
+   "article": {
+    "title": "5 Ways the Macy’s Thanksgiving Day Parade Has Changed in the Last Century",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/ways-macys-thanksgiving-day-parade-changed-last-century?utm_source=RSS",
+    "extract": "From live zoo animals to runaway balloons, here’s how America’s biggest Thanksgiving tradition has evolved since 1924."
+   },
+   "published": "Mon, 23 Nov 2026 13:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Chatty Words for People Who Talk Too Much",
+   "article": {
+    "title": "20 Chatty Words for People Who Talk Too Much",
+    "url": "https://www.mentalfloss.com/language/words/chatty-words-people-who-talk-too-much?utm_source=RSS",
+    "extract": "If you've ever been called one of these words, you probably have the gift of gab!"
+   },
+   "published": "Mon, 23 Nov 2026 02:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What Americans Ate on Thanksgiving During the Great Depression",
+   "article": {
+    "title": "What Americans Ate on Thanksgiving During the Great Depression",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/what-americans-ate-thanksgiving-great-depression?utm_source=RSS",
+    "extract": "Americans had to get creative with their recipes in order to celebrate Thanksgiving during the Great Depression."
+   },
+   "published": "Mon, 23 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "100 Funny Birthday Jokes That Are Almost as Good as the Cake",
+   "article": {
+    "title": "100 Funny Birthday Jokes That Are Almost as Good as the Cake",
+    "url": "https://www.mentalfloss.com/entertainment/funny-birthday-jokes-almost-good-as-cake?utm_source=RSS",
+    "extract": "Blow out the candles, grab a slice of cake, and unwrap these hilarious jokes!"
+   },
+   "published": "Sun, 22 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 European Countries So Small You Can Visit Multiple in One Trip",
+   "article": {
+    "title": "6 European Countries So Small You Can Visit Multiple in One Trip",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/european-countries-so-small-visit-multiple-one-trip?utm_source=RSS",
+    "extract": "Who says you need weeks to experience a new country? These tiny European destinations are small enough to explore between lunch and dinner!"
+   },
+   "published": "Sun, 22 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Meaning Behind Panem's Name in 'The Hunger Games'",
+   "article": {
+    "title": "The Meaning Behind Panem's Name in 'The Hunger Games'",
+    "url": "https://www.mentalfloss.com/meaning-behind-panem-name-the-hunger-games?utm_source=RSS",
+    "extract": "It sounds like a made-up name, but it’s actually a Latin word with a 2,000-year-old insult hiding in it."
+   },
+   "published": "Sun, 22 Nov 2026 18:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Classic Children's Books That Feel Magical During Winter",
+   "article": {
+    "title": "7 Classic Children's Books That Feel Magical During Winter",
+    "url": "https://www.mentalfloss.com/literature/books/classic-magical-winter-childrens-books?utm_source=RSS",
+    "extract": "From 'The Chronicles of Narnia' to 'The Polar Express,' these cozy and comforting books make for fond wintry memories for people of all ages."
+   },
+   "published": "Sun, 22 Nov 2026 16:30:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "What's Open on Thanksgiving? Banks, Stores, and Businesses That Are Closed",
+   "article": {
+    "title": "What's Open on Thanksgiving? Banks, Stores, and Businesses That Are Closed",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/what-open-thanksgiving-banks-stores-businesses-closed?utm_source=RSS",
+    "extract": "Many businesses across the U.S. close their doors on Thanksgiving, but others remain open with limited hours."
+   },
+   "published": "Sun, 22 Nov 2026 15:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Quiz: How Fast Can You Name Europe's 10 Largest Countries?",
+   "article": {
+    "title": "Quiz: How Fast Can You Name Europe's 10 Largest Countries?",
+    "url": "https://www.mentalfloss.com/quizzes/geography/how-fast-name-europe-10-largest-countries?utm_source=RSS",
+    "extract": "Most people miss at least one!"
+   },
+   "published": "Sun, 22 Nov 2026 13:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Old-Fashioned Words That Describe Beauty",
+   "article": {
+    "title": "7 Old-Fashioned Words That Describe Beauty",
+    "url": "https://www.mentalfloss.com/language/words/old-fashioned-words-describe-beauty?utm_source=RSS",
+    "extract": "These words aren't used as often as they once were, but their beautiful meanings are timeless!"
+   },
+   "published": "Sun, 22 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 European Villages That Look Even More Magical in the Snow",
+   "article": {
+    "title": "7 European Villages That Look Even More Magical in the Snow",
+    "url": "https://www.mentalfloss.com/geography/wanderlust/european-villages-look-more-magical-in-snow?utm_source=RSS",
+    "extract": "These picturesque European villages become even more enchanting when snow blankets their streets and rooftops."
+   },
+   "published": "Sat, 21 Nov 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "America's Biggest Senior Populations, Mapped By State",
+   "article": {
+    "title": "America's Biggest Senior Populations, Mapped By State",
+    "url": "https://www.mentalfloss.com/geography/states/biggest-senior-populations-by-state?utm_source=RSS",
+    "extract": "Roughly 19% of the U.S. population is 65 or older, but aging trends vary drastically by state. See where your state ranks according to Census data."
+   },
+   "published": "Sat, 21 Nov 2026 20:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+   "article": {
+    "title": "One of Hilma af Klint's Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+    "url": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/",
+    "extract": "After \"Ser III No. 5,\" painted in 1920, sold for nearly 16 times its pre-sale estimate, critics charged that af Klint wanted to keep her \"holy body of work\" together in a temple, not spread across private collections"
+   },
+   "published": "Fri, 20 Nov 2026 21:23:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+   "article": {
+    "title": "A Roman Cup and Hundreds of Other Treasures Unearthed in This 2,000-Year-Old Tomb Reveal the Rich Exchange Network of an Ancient Asian Empire",
+    "url": "https://www.smithsonianmag.com/smart-news/a-roman-cup-and-hundreds-other-treasures-unearthed-in-this-2000-year-old-tomb-reveal-the-rich-exchange-network-of-an-ancient-asian-empire-180989920/",
+    "extract": "The Xiongnu people dominated Central Asia for some 300 years. Now, a grave discovered in Mongolia has revealed the pastoral culture’s links to the Roman Empire, Han China and the Lelang Commandery"
+   },
+   "published": "Fri, 20 Nov 2026 20:22:42 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+   "article": {
+    "title": "Rembrandt's 'Night Watch' Is Teeming With Life. Researchers Reveal a Hidden World of Microbes All Over the Masterpiece",
+    "url": "https://www.smithsonianmag.com/smart-news/rembrandt-night-watch-is-teeming-with-life-researchers-reveal-a-hidden-world-of-microbes-all-over-the-masterpiece-180989917/",
+    "extract": "Samples swabbed from the 17th-century painting reveal myriad microorganisms, including one perplexing bacterium that was first discovered at a Japanese sugar refinery in 2013"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:53 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+   "article": {
+    "title": "For the First Time, Astronomers Witnessed a Giant Star Gobble Up Its Smaller Stellar Companion",
+    "url": "https://www.smithsonianmag.com/smart-news/for-the-first-time-astronomers-witnessed-a-giant-star-gobble-up-its-smaller-stellar-companion-180989905/",
+    "extract": "The merger caused an eruption in late 2025, which researchers rushed to document using several ground- and space-based telescopes. With older data and the help of computer simulations, the team reconstructed the entire astrophysical process"
+   },
+   "published": "Fri, 20 Nov 2026 19:21:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+   "article": {
+    "title": "An Isolated Group of Amazonian Hunter-Gatherers Made a Rare Request for Help From Outsiders, Raising Concerns About Forest Degradation",
+    "url": "https://www.smithsonianmag.com/smart-news/an-isolated-group-of-amazonian-hunter-gatherers-made-a-rare-request-for-help-from-outsiders-raising-concerns-about-forest-degradation-180989909/",
+    "extract": "Around 20 members of the Indigenous Awá tribe emerged from the rainforest and received food from neighboring villagers. The group has not made contact with the outside world in decades, so experts say deforestation may have left these individuals with no other option"
+   },
+   "published": "Fri, 20 Nov 2026 17:08:26 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+   "article": {
+    "title": "Nine-Pound Eagles Seem to Be Hunting 60-Pound Baboons in Africa—Hinting the Predators May Have Gone After Our Ancestors, Too",
+    "url": "https://www.smithsonianmag.com/smart-news/nine-pound-eagles-seem-to-be-hunting-60-pound-baboons-in-africa-hinting-the-predators-may-have-gone-after-our-ancestors-too-180989906/",
+    "extract": "In northeastern Chad, researchers found evidence of Verreaux's eagles attacking full-grown olive baboons weighing as much as a small human. The findings suggest early hominins had to watch out for ambushes from the sky, which may have shaped their evolution"
+   },
+   "published": "Fri, 20 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+   "article": {
+    "title": "Teeth Discovered in Two Chinese Caves Are Rewriting the Story of Homo Erectus, an Ancient Human Ancestor That May Have Been More Capable Than We Thought",
+    "url": "https://www.smithsonianmag.com/smart-news/teeth-discovered-in-two-chinese-caves-are-rewriting-the-story-of-homo-erectus-an-ancient-human-ancestor-that-may-have-been-more-capable-than-we-thought-180989913/",
+    "extract": "One new study suggests that the species persisted in mainland Asia for 216,000 years longer than previously thought. Another says Homo erectus was capable of living in a tropical rainforest, a discovery that turns a common extinction theory \"on its head,\" according to one researcher"
+   },
+   "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+   "article": {
+    "title": "Georgia O'Keeffe Is Famous for Painting Flowers and Deserts. Why Have We Forgotten Her Obsession With American Architecture?",
+    "url": "https://www.smithsonianmag.com/smart-news/georgia-okeeffe-is-famous-for-painting-flowers-and-deserts-why-have-we-forgotten-her-obsession-with-american-architecture-180989911/",
+    "extract": "Featuring nearly 40 artworks, a new exhibition at the Detroit Institute of Arts spotlights the artist's mesmerizing portrayals of the built environment, from rural farmhouses to city skyscrapers"
+   },
+   "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+   "article": {
+    "title": "Beloved Hippo Fiona Dies After Swallowing a Child's Hat Accidentally Tossed Into Her Zoo Enclosure",
+    "url": "https://www.smithsonianmag.com/smart-news/a-child-tossed-a-hat-and-a-ceiling-fan-sent-it-flying-into-a-hippos-zoo-enclosure-where-the-animal-ate-it-heres-how-the-care-team-is-responding-180989894/",
+    "extract": "Animal care teams were initially optimistic that the Cincinnati Zoo’s Internet-famous hippo could pass the object naturally and recover, but the situation ultimately turned into a “medical emergency”"
+   },
+   "published": "Wed, 18 Nov 2026 18:21:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+   "article": {
+    "title": "Harvard Returns Two Skulls Likely Belonging to Enslaved Individuals, More Than 150 Years After They Were Taken From Brazil for Eugenics Studies",
+    "url": "https://www.smithsonianmag.com/smart-news/harvard-returns-two-skulls-likely-belonging-to-enslaved-individuals-more-than-150-years-after-they-were-taken-from-brazil-for-eugenics-studies-180989910/",
+    "extract": "The remains were welcomed back in solemn ceremonies in Rio de Janeiro and Salvador after years of pressure from researchers, community groups and the Brazilian government. One skull likely belonged to an individual who fought and died in an 1835 slave revolt"
+   },
+   "published": "Thu, 19 Nov 2026 21:22:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+   "article": {
+    "title": "See the Rare Baby Rhinoceros Born at England's Chester Zoo, an Adorable Boost for Its Vulnerable Species",
+    "url": "https://www.smithsonianmag.com/smart-news/see-the-rare-baby-rhinoceros-born-in-englands-chester-zoo-an-adorable-addition-to-its-species-numbers-180989902/",
+    "extract": "The calf, born October 11, is in good health and exploring a secluded paddock with its mother, out of view of the public"
+   },
+   "published": "Thu, 19 Nov 2026 21:18:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+   "article": {
+    "title": "The NIH Has Decided to Move Its Last Group of Retired Research Chimpanzees to an Animal Sanctuary Next Year",
+    "url": "https://www.smithsonianmag.com/smart-news/the-nih-has-decided-to-move-its-last-group-of-retired-research-chimpanzees-to-an-animal-sanctuary-next-year-180989907/",
+    "extract": "The agency had previously determined that the animals were too old or ill for the journey. But a recent transfer involving another federally supported research facility pushed the National Institutes of Health to revisit the issue"
+   },
+   "published": "Thu, 19 Nov 2026 20:35:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+   "article": {
+    "title": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/22/konferencja-prasowa-xxxiv-targow-ksiazki-historycznej/",
+    "extract": "Fundacja Historia i Kultura oraz Porozumienie Wydawców Książki Historycznej zapraszają na konferencję prasową XXXIV Targów Książki Historycznej, która odbędzie się 24 listopada (wtorek) 2026 r. o godz. 12.00 w Sali Kinowej Zamku Królewskiego w Warszawie – Muzeum The post Konferencja prasowa XXXIV Targów Książki Historycznej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 22 Nov 2026 17:07:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+   "article": {
+    "title": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/21/tragedia-pod-otloczynem-najwieksza-katastrofa-kolejowa-w-historii-prl/",
+    "extract": "19 sierpnia 1980 roku, wczesnym rankiem, pod Otłoczynem doszło do największej katastrofy kolejowej w powojennej historii Polski. W czołowym zderzeniu dwóch pociągów zginęło 67 osób, a 64 zostały ranne. Siła uderzenia była tak ogromna, że jeden z wagonów praktycznie przestał istnieć. The post Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL first appeared on CiekawostkiHistory"
+   },
+   "published": "Sat, 21 Nov 2026 09:59:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+   "article": {
+    "title": "Czary, zdrada i wielki spisek. Jak Judyta Bawarska stała się wrogiem możnowładców?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/czary-zdrada-i-wielki-spisek-jak-judyta-bawarska-stala-sie-wrogiem-moznowladcow/",
+    "extract": "W 830 roku na dworze Karolingów wybuchł wielki skandal. Cesarzową Judytę Bawarską oskarżono o cudzołóstwo, uprawianie czarnej magii i manipulowanie własnym mężem, Ludwikiem Pobożnym. Przeciwko cesarskiej parze wystąpili wpływowi możnowładcy, wspierani przez jednego z synów władcy. Za sensacyjnymi oskarżeniami kryła się jednak bezwzględna walka o wpływy, która miała doprowadzić imperium na skraj wo"
+   },
+   "published": "Thu, 12 Nov 2026 19:00:25 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+   "article": {
+    "title": "XXXIV Targi Książki Historycznej w Warszawie 2026",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/12/xxxiv-targi-ksiazki-historycznej-w-warszawie-2026/",
+    "extract": "Fundacja Historia i Kultura zaprasza na XXXIV edycję Targów Książki Historycznej, które odbędą się w dniach 26–29 listopada 2026 r. w wyjątkowej przestrzeni Arkad Kubickiego Zamku Królewskiego w Warszawie. Organizatorem Targów jest Fundacja Historia i Kultura. Partnerem Targów jest Polska Wytwórnia Papierów Wartościowych. The post XXXIV Targi Książki Historycznej w Warszawie 2026 first appeared on"
+   },
+   "published": "Thu, 12 Nov 2026 16:46:48 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+   "article": {
+    "title": "Tragiczny pożar kina w Wielopolu Skrzyńskim",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/11/tragiczny-pozar-kina-w-wielopolu-skrzynskim/",
+    "extract": "11 maja 1955 roku mieszkańcy Wielopola Skrzyńskiego wybrali się na seans kina objazdowego. Nikt nie przypuszczał, że zwykły wieczór zakończy się jedną z najtragiczniejszych katastrof pożarowych w powojennej Polsce. W ciągu kilku minut sala kinowa zamieniła się w śmiertelną pułapkę. Co doprowadziło do tragedii i dlaczego przez lata tak niewiele o niej mówiono? The post Tragiczny pożar kina w Wielop"
+   },
+   "published": "Wed, 11 Nov 2026 07:58:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Złamana przysięga",
+   "article": {
+    "title": "Złamana przysięga",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/10/zlamana-przysiega/",
+    "extract": "Bratobójcza wojna, która zniszczyła imperium Karolingów i na zawsze zmieniła Europę The post Złamana przysięga first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 10 Nov 2026 21:25:04 +0000",
+   "image": null
+  }
+ ]
+}
