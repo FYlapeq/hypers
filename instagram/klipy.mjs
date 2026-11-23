@@ -1,5 +1,5 @@
 // Posty z klipami GTA 6 na Instagram (prośba Filipa 18.11.2026): karuzela = 2 klipy wideo (Twitch, Kick) + slajd „Daj follow”.
-// Uruchamiane przez .github/workflows/instagram-klipy.yml co 30 min (zaplanowane zadanie Claude, workflow_dispatch).
+// Uruchamiane przez .github/workflows/instagram-klipy.yml co godzinę (zaplanowane zadanie Claude, workflow_dispatch).
 //
 // Skąd klipy, w tej kolejności:
 //   1. instagram/klipy-reczne.json: linki do klipów, które Filip zrobił sam (Twitch albo Kick), najstarsze pierwsze.
@@ -118,8 +118,12 @@ async function zTwitcha() {
 }
 
 const PRIORYTET_JEZYKA = (j) => (j === 'pl' ? 0 : j === 'en' ? 1 : 2);
-// Ile razy klip już poszedł na IG (Filip 18.11.2026: każdy klip najwyżej MAKS_RAZY razy, potem następny najpopularniejszy).
-export const MAKS_RAZY = 4;
+// Ile razy klip już poszedł na IG. Było 4 (18.11.2026); od 23.11.2026 każdy klip najwyżej raz: ten sam film wrzucany
+// kilka razy to dla Instagrama spam i treść nieoryginalna, a 20.11 konto dostało dobę bez zasięgu.
+export const MAKS_RAZY = 1;
+// Od 23.11.2026 domyślnie same rolki, bez karuzel z klipami (karuzele miały 0 reakcji, rolki ~180 wyświetleń).
+// Powrót do karuzel: zmienna repo KLIPY_KARUZELA = 1.
+const BEZ_KARUZELI = env.KLIPY_BEZ_KARUZELI === '1';
 export const razy = (st) => st?.razy ?? (st?.media_id ? 1 : 0);
 export function wybierz(kandydaci, stan, ile = NA_POST) {
   const ostatniPost = (stan.posty ?? []).at(-1);
@@ -128,6 +132,7 @@ export function wybierz(kandydaci, stan, ile = NA_POST) {
   const wolne = kandydaci.filter((k) => {
     const st = stan.opublikowane[k.klucz];
     if (st?.pominiete || razy(st) >= MAKS_RAZY || zOstatniego.has(k.klucz)) return false;
+    if (BEZ_KARUZELI && stan.rolki?.[k.klucz]) return false;
     return k.reczny || (bezpieczny(k) && (k.wyswietlenia ?? 0) >= MIN_WYSW);
   });
   const posort = [...wolne.filter((k) => k.reczny), ...wolne.filter((k) => !k.reczny)
@@ -216,7 +221,7 @@ html,body{margin:0;width:1080px;height:1920px;background:transparent;color:#fff;
 .e{position:absolute;left:70px;top:420px;background:#0a84ff;font:600 34px WS;padding:12px 26px;border-radius:999px;letter-spacing:.04em;text-transform:uppercase}
 .t{position:absolute;left:70px;right:70px;top:1250px;font:400 92px/1.05 Anton;text-transform:uppercase;text-shadow:0 6px 30px rgba(0,0,0,.7)}
 .f{position:absolute;left:70px;top:1640px;font:600 36px WS;opacity:.9}</style></head><body>
-<span class="e">GTA 6 · ${esc(k.platforma)} · ${esc(k.kanal ?? k.login)}</span><div class="t">${esc(tekst)}</div><div class="f">@hypers.tech · klipy co 30 min</div></body></html>`;
+<span class="e">GTA 6 · ${esc(k.platforma)} · ${esc(k.kanal ?? k.login)}</span><div class="t">${esc(tekst)}</div><div class="f">@hypers.tech · codziennie nowe klipy</div></body></html>`;
 }
 async function nakladkaRolki(k, tekst, plik) {
   const { chromium } = await import('playwright');
@@ -276,7 +281,7 @@ function zmontujRolke(wej, nakladka, wyj) {
     '-c:a', 'aac', '-b:a', '128k', '-ar', '48000', '-ac', '2', '-movflags', '+faststart', wyj], { stdio: 'inherit', timeout: 300_000 });
 }
 export function opisRolki(k, tekst) {
-  return [tekst, `Klip: ${k.kanal ?? k.login} (${k.platforma}) ${k.url}`, 'Klipy z GTA 6 co 30 minut. Daj follow @hypers.tech 🎮',
+  return [tekst, `Klip: ${k.kanal ?? k.login} (${k.platforma}) ${k.url}`, 'Codziennie najlepsze klipy z GTA 6. Daj follow @hypers.tech 🎮',
     '#gta6 #gtavi #grandtheftauto6 #twitch #streamer #reels #hypers'].join('\n\n');
 }
 function zmontuj(wej, nakladka, wyj) {
@@ -303,7 +308,7 @@ export function opisPosta(lista, konta = kontaIG()) {
     'GTA 6 na streamach: najgorętsze klipy 🎮 Przewiń ➡️',
     pozycje.join('\n'),
     `Klipy: ${lista.map((k) => k.url).join(' , ')}`,
-    'Klipy co 30 minut, newsy co godzinę. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
+    'Codziennie klipy i newsy. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
     '#gta6 #gtavi #grandtheftauto6 #twitch #kick #streamer #hypers',
   ].join('\n\n');
 }
@@ -432,10 +437,12 @@ async function main() {
   mkdirSync(TMP, { recursive: true });
 
   // Pobieramy po kolei; klip, którego nie da się pobrać albo jest za długi, odpada i bierzemy następny.
+  stan.rolki ??= {};
+  const ILE = BEZ_KARUZELI ? 1 : NA_POST;
   const gotowe = [];
   let lista = wybierz(kandydaci, stan, kandydaci.length);
   for (const k of lista) {
-    if (gotowe.length === NA_POST) break;
+    if (gotowe.length === ILE) break;
     if (gotowe.some((x) => !k.reczny && (x.login ?? x.kanal) === (k.login ?? k.kanal))) continue;
     const surowy = join(TMP, `surowy-${k.klucz.replace(/[^a-z0-9_-]/gi, '_')}.mp4`);
     rmSync(surowy, { force: true });
@@ -450,7 +457,8 @@ async function main() {
       log(`✓ ${k.kanal ?? k.login} (${k.platforma}) ${k.url} [${k.wyswietlenia ?? 'ręczny'} wyśw.] „${k.tytul}”`);
     } catch (e) { log(`– nie udało się pobrać ${k.url}: ${e.message.slice(0, 200)}`); stan.opublikowane[k.klucz] = { pominiete: 'pobieranie' }; }
   }
-  if (gotowe.length < NA_POST) { log(`Za mało klipów (${gotowe.length}/${NA_POST}), post czeka na kolejne uruchomienie.`); commitStanu(stan, 'Klipy: brak posta'); return; }
+  if (gotowe.length < ILE) { log(`Za mało klipów (${gotowe.length}/${ILE}), post czeka na kolejne uruchomienie.`); commitStanu(stan, 'Klipy: brak posta'); return; }
+  if (BEZ_KARUZELI) return samaRolka(gotowe[0], stan, dir, start);
 
   await nakladki(gotowe, TMP, stan);
   gotowe.forEach((k, i) => {
@@ -459,7 +467,7 @@ async function main() {
   });
   const { renderuj } = await import('./karta.mjs');
   const { harmonogram } = await import('./slot.mjs');
-  await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Klipy co 30 minut, newsy co godzinę', plik: join(TMP, 'follow.jpg') }]);
+  await renderuj([{ follow: true, godziny: harmonogram().godziny, tekst: 'Codziennie klipy i newsy', plik: join(TMP, 'follow.jpg') }]);
   slajdObrazu(join(TMP, 'follow.jpg'), join(dir, 'zz-follow.mp4'));
   // Rolka (KLIPY_ROLKA=1, co drugi przebieg): pierwszy klip tego posta, który nie był jeszcze rolką.
   stan.rolki ??= {};
@@ -532,6 +540,41 @@ async function main() {
       else { log(`– rolka nie wyszła: ${e.message.slice(0, 200)}`); process.exitCode = 1; }
     }
   }
+}
+
+// Tryb domyślny od 23.11.2026: jedna rolka z najpopularniejszym klipem, który nie był jeszcze na IG, bez karuzeli.
+async function samaRolka(k, stan, dir, start) {
+  await nakladkaRolki(k, k._naglowek, join(TMP, 'rolka.png'));
+  zmontujRolke(k.surowy, join(TMP, 'rolka.png'), join(dir, 'rolka.mp4'));
+  writeFileSync(join(dir, 'opis-rolki.txt'), opisRolki(k, k._naglowek) + '\n');
+  log(`\n${opisRolki(k, k._naglowek)}\n`);
+  if (DRY) { log('DRY_RUN: bez publikacji.'); commitStanu(stan, 'Klipy: podgląd rolki'); return; }
+  const sha = commitStanu(stan, `Klipy: rolka ${k.kanal ?? k.login}`);
+  const raw = (p) => `https://raw.githubusercontent.com/${REPO}/${sha}/klipy/${p}`;
+  if (!env.IG_TOKEN) throw new Error('Brak sekretu IG_TOKEN w repo.');
+  if (!env.IG_USER_ID) env.IG_USER_ID = (await ig('me', { params: { fields: 'user_id' } })).user_id;
+  const jest = await rolkaJuzJest(k.url, start);
+  if (jest === undefined) throw new Error('Nie udało się sprawdzić profilu IG, nie publikuję (żeby nie zdublować).');
+  let rid = jest?.id;
+  if (!rid) {
+    try {
+      const { id: kont } = await ig(`${env.IG_USER_ID}/media`, { method: 'POST', params: { media_type: 'REELS', video_url: raw('rolka.mp4'), caption: opisRolki(k, k._naglowek), share_to_feed: 'true' } });
+      await czekaj(kont, 400);
+      ({ id: rid } = await ig(`${env.IG_USER_ID}/media_publish`, { method: 'POST', params: { creation_id: kont } }));
+    } catch (e) {
+      await sleep(20_000);
+      const p = await rolkaJuzJest(k.url, start).catch(() => null);
+      if (!p) { commitStanu(stan, 'Klipy: błąd rolki'); throw e; }
+      rid = p.id; log(`Błąd API (${e.message.slice(0, 150)}), ale rolka jest na profilu.`);
+    }
+  }
+  const kiedy = new Date().toISOString();
+  stan.rolki[k.klucz] = { media_id: rid, kiedy };
+  stan.opublikowane[k.klucz] = { media_id: rid, kiedy, url: k.url, razy: razy(stan.opublikowane[k.klucz]) + 1 };
+  stan.posty = [...stan.posty, { media_id: rid, kiedy, kanaly: [k.login ?? k.kanal], klucze: [k.klucz], rolka: true }].slice(-200);
+  commitStanu(stan, `Klipy: rolka ${rid}`);
+  log(`Opublikowano rolkę ${rid}: ${k._naglowek}`);
+  await rolkaDoFolderu(k, k._naglowek, join(dir, 'rolka.mp4')).catch((e) => log(`– rolka nie trafiła do Releases: ${e.message.slice(0, 200)}`));
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) await main();

@@ -1,4 +1,5 @@
-# Posty z klipami GTA 6 na Instagram, co 30 minut: napis, klip, napis, klip, „Daj follow” (wszystko wideo). Klip max 4 razy.
+# Klipy GTA 6 na Instagram, co godzinę. Od 23.11.2026 domyślnie jedna rolka na przebieg, bez karuzeli, każdy klip raz
+# (karuzela napis-klip-napis-klip-follow wraca po ustawieniu zmiennej repo KLIPY_KARUZELA = 1).
 # Wywoływany z zewnątrz przez zaplanowane zadanie Claude „Hypers – klipy na Instagram” (workflow_dispatch).
 # ZAKAZ (po blokadzie konta 10.2026): żadnych czekających jobów, żadnego uruchamiania workflowów z workflowów.
 # Szczegóły: instagram/klipy.mjs. Wyłącznik: zmienna repo IG_WLACZONY (ta sama co dla newsów) albo KLIPY_WLACZONE=0.
@@ -43,6 +44,7 @@ jobs:
       KLIPY_NAGLOWKI: ${{ inputs.naglowki }}
       KLIPY_ROLKA: ${{ inputs.rolka }}
       KLIPY_TYLKO_ROLKI: ${{ inputs.tylko_rolki }}
+      KLIPY_BEZ_KARUZELI: ${{ vars.KLIPY_KARUZELA == '1' && '0' || '1' }}
       GH_TOKEN: ${{ github.token }}
       STAN_DIR: ${{ github.workspace }}/klipy-stan
     steps:

@@ -128,7 +128,7 @@ export function opisKaruzeli(lista) {
       ? `Trochę newsów, trochę ciekawostek. Przewiń ➡️`
       : `Co tam u twórców? ${ile(lista.length, ['news', 'newsy', 'newsów'])} na szybko ➡️`;
   const stopka = [
-    'Wrzucamy co godzinę, od 8 do 23. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
+    'Codziennie nowe newsy i klipy. Daj follow @hypers.tech, żeby nic Ci nie uciekło.',
     '',
     zrodla && `Źródła: ${zrodla}`,
     kadry && `Kadry i zdjęcia: ${kadry}`,
