@@ -5,6 +5,175 @@ window.HYPERS_EDITIONS = {
     "ryby": [],
     "luz": [
       {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gaming",
+        "hype": 5,
+        "title": "Sony: GTA 6 to największa premiera w historii PlayStation. Na PS5 zagrało już ponad 39 mln osób",
+        "summary": "Sony Interactive Entertainment podało pierwsze liczby z PS5 po premierze GTA 6. W pierwsze dni na konsoli zagrało ponad 39 mln unikalnych graczy, którzy spędzili w grze łącznie 683 mln godzin.",
+        "body": [
+          "Sony opublikowało na PlayStation Blog wpis, w którym nazywa GTA 6 największą premierą w historii PlayStation. Dane obejmują pierwsze dni po premierze, od 19 do 22 listopada.",
+          "Według Sony na PS5 zagrało w tym czasie ponad 39 mln unikalnych graczy. Łącznie spędzili w grze 683 mln godzin, czyli średnio 17,4 godziny na osobę.",
+          "Firma podaje też, że GTA 6 było pierwszą grą uruchomioną na ok. 70% nowych konsol PS5, a liczba połączeń z PS5 była najwyższa w ciągu jednego dnia poza świątecznym okresem na koniec roku. Sony mówi również o rekordzie jednoczesnych graczy, ale nie podało konkretnej liczby.",
+          "Sony nie zdradziło, ilu z tych graczy grało na PS5 Pro. Wcześniej Take-Two informowało o 3,79 mld dolarów przychodu z GTA 6 w pierwszej dobie."
+        ],
+        "sources": [
+          {
+            "name": "PlayStation Blog",
+            "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+            "origin": true
+          },
+          {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/"
+          },
+          {
+            "name": "GamesRadar+",
+            "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/"
+          },
+          {
+            "name": "Inven Global",
+            "url": "https://www.invenglobal.com/articles/29001/gta-6-marks-biggest-launch-in-playstation-history"
+          }
+        ],
+        "noImage": "brak legalnego kadru: Sony podało dane we wpisie na blogu, bez filmu",
+        "insta": {
+          "tytul": "GTA 6 to największa premiera w historii PlayStation. Sony podało liczby",
+          "opis": "Na PS5 zagrało już ponad 39 mln osób, średnio po 17,4 godziny. Ponad 2/3 nowych konsol zaczęło właśnie od GTA 6."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "GTA 6 dostało pierwszą łatkę. Według serwisów naprawia m.in. pogodę, autozapis i telefony w misjach",
+        "summary": "Aktualizacja 1.002.002 trafia do graczy stopniowo od 23 listopada. Na PS5 waży ok. 600 MB, na Xboksie 1,6 GB. Lista poprawek krąży w serwisach o grach, Rockstar w dniu wydania nie opublikował jeszcze oficjalnych notatek.",
+        "body": [
+          "Pierwsza aktualizacja GTA 6 po premierze ma numer 1.002.002. Według Push Square, MP1st i Beebom na PS5 zajmuje ok. 600 MB, a na Xbox Series X|S ok. 1,6 GB.",
+          "Łatka jest wydawana stopniowo. Według dataminera Tex2, na którego powołują się serwisy, najpierw dostała ją jedna trzecia posiadaczy PS5, po trzech godzinach dwie trzecie, a po sześciu wszyscy.",
+          "MP1st i Beebom podają listę poprawek: kilka napraw błędów powodujących wyłączanie się gry, pogodę, która długo się nie zmieniała, autozapis, telefony, które nie przychodziły (także te odblokowujące misje), brak możliwości zgubienia listu gończego, sztangę w siłowni i partnerów, którzy nie oddawali toreb paserom.",
+          "Push Square zaznaczał, że Rockstar nie udostępnił jeszcze oficjalnych notatek do aktualizacji, więc listę poprawek trzeba traktować jako ustalenia serwisów. Aktualizacja nie dodaje nowej zawartości."
+        ],
+        "sources": [
+          {
+            "name": "Push Square",
+            "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here"
+          },
+          {
+            "name": "MP1st",
+            "url": "https://mp1st.com/title-updates-and-patches/grand-theft-auto-6-update-1-0-2-2-released-as-first-patch"
+          },
+          {
+            "name": "Beebom",
+            "url": "https://beebom.com/gta-6-update-version-01-002-002-patch-notes/"
+          }
+        ],
+        "noImage": "brak legalnego kadru: aktualizacja bez filmu ani materiałów prasowych",
+        "insta": {
+          "tytul": "GTA 6 ma pierwszą łatkę. Ma naprawiać m.in. pogodę i autozapis",
+          "opis": "Na PS5 to ok. 600 MB, na Xboksie 1,6 GB. Rockstar nie dał jeszcze oficjalnej listy zmian, poprawki podają serwisy o grach."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Ludwig",
+        "initials": "LA",
+        "category": "Gaming",
+        "hype": 3,
+        "ig": [
+          "ludwigahgren"
+        ],
+        "title": "Ludwig po prawie tygodniu z GTA 6: „Ta gra mnie zmieniła”. Widzowie piszą, że znają to uczucie",
+        "summary": "Ludwig, który od premiery prowadzi maraton GTA 6 bez zabijania, wrzucił 26-sekundowy short „This game changed me...”. Do 14:21 miał ok. 146 tys. wyświetleń i ponad 5 tys. polubień.",
+        "body": [
+          "Ludwig od premiery GTA 6 prowadzi na swoim kanale wielogodzinny maraton, w którym przechodzi grę bez zabijania. Główny zapis streamu z ostatnich godzin ma już ponad 440 tys. wyświetleń.",
+          "We wtorek rano na jego kanale pojawił się 26-sekundowy short „This game changed me...” (ang. „Ta gra mnie zmieniła”) z hasztagiem #gta6. Do 14:21 miał ok. 146 tys. wyświetleń, ponad 5,1 tys. polubień i ok. 150 komentarzy.",
+          "W komentarzach widzowie opisują podobne doświadczenia: po wielu godzinach w GTA patrzą na prawdziwe auta i ulice jak na grę. Część przypomina, że to znane zjawisko, nazywane efektem Tetrisa, które samo mija po jakimś czasie."
+        ],
+        "sources": [
+          {
+            "name": "Ludwig / YouTube",
+            "url": "https://www.youtube.com/shorts/bSRWEBSiDQ8",
+            "origin": true
+          },
+          {
+            "name": "Ludwig / YouTube (stream)",
+            "url": "https://www.youtube.com/watch?v=hyvHHuDogKA"
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/bSRWEBSiDQ8",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bSRWEBSiDQ8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bSRWEBSiDQ8/hqdefault.jpg",
+          "credit": "Ludwig / YouTube",
+          "href": "https://www.youtube.com/shorts/bSRWEBSiDQ8",
+          "alt": "Miniatura shorta Ludwiga o GTA 6",
+          "caption": "Miniatura shorta „This game changed me...”"
+        },
+        "caption": {
+          "credit": "Ludwig / YouTube",
+          "text": "Short ma 26 sekund i powstał w trakcie maratonu GTA 6 bez zabijania. Widzowie w komentarzach porównują go do własnych wrażeń po długim graniu."
+        },
+        "insta": {
+          "tytul": "Ludwig po tygodniu GTA 6: „ta gra mnie zmieniła”",
+          "opis": "Widzowie w komentarzach piszą, że też po kilku godzinach patrzą na prawdziwe auta jak w grze. Efekt Tetrisa w pełnej krasie 😅"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-24",
+        "who": "Zalewskyy",
+        "initials": "ZA",
+        "category": "Gaming",
+        "hype": 2,
+        "ig": [
+          "_zalewskyy"
+        ],
+        "title": "Zalewskyy zagrał w finałach turnieju o 50 tys. dolarów w FC 27",
+        "summary": "Zalewskyy wrzucił film z wielkich finałów listopadowego laddera w FC 27, turnieju z pulą 50 tys. dolarów. To półgodzinny materiał z jego meczów w Ultimate Team.",
+        "body": [
+          "Zalewskyy, polski twórca grający w EA Sports FC, opublikował we wtorek film „Zagrałem turniej o 50.000$ w FC 27”. Jak pisze w opisie, to wielkie finały listopadowego laddera.",
+          "Materiał trwa niecałe 29 minut. Do 14:21 miał ok. 2,4 tys. wyświetleń i 120 polubień.",
+          "W komentarzach widzowie doceniają, że twórca bierze udział w wymagającym trybie rywalizacji, zamiast tylko nagrywać lżejsze formaty."
+        ],
+        "sources": [
+          {
+            "name": "Zalewskyy / YouTube",
+            "url": "https://www.youtube.com/watch?v=Nb054LfaH6E",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Nb054LfaH6E",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Nb054LfaH6E/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Nb054LfaH6E/hqdefault.jpg",
+          "credit": "Zalewskyy / YouTube",
+          "href": "https://www.youtube.com/watch?v=Nb054LfaH6E",
+          "alt": "Miniatura filmu Zalewskyy'ego z turnieju FC 27",
+          "caption": "Miniatura filmu z finałów laddera w FC 27"
+        },
+        "caption": {
+          "credit": "Zalewskyy / YouTube",
+          "text": "Film pokazuje mecze Zalewskyy'ego w finałach listopadowego laddera FC 27. Pula turnieju według tytułu to 50 tys. dolarów."
+        },
+        "insta": {
+          "tytul": "Zalewskyy zagrał w finałach turnieju FC 27 o 50 tys. dolarów",
+          "opis": "Listopadowy ladder, finały i pół godziny spoconych meczów w Ultimate Team."
+        },
+        "slot": "15:00"
+      },
+      {
         "region": "pl",
         "published": "2026-11-23",
         "who": "Ospanno",
@@ -223,6 +392,293 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Hiszpania",
+        "initials": "HI",
+        "category": "Sztuka",
+        "hype": 4,
+        "title": "W Hiszpanii 81-latka „odnowiła” fresk z Jezusem tak, że ludzie zaczęli mówić na niego „Małpa”",
+        "summary": "W 2012 r. amatorka z miasteczka Borja próbowała odnowić stary fresk w kościele. Efekt obiegł cały świat i dał obrazowi przezwisko „Ecce Mono”.",
+        "body": [
+          "Fresk „Ecce Homo” w sanktuarium w hiszpańskim Borja namalował ok. 1930 r. Elías García Martínez. Przedstawiał Jezusa w koronie cierniowej i nie był szczególnie znany.",
+          "W 2012 r. 81-letnia mieszkanka miasta i malarka amatorka Cecilia Giménez zaczęła go odnawiać. Media z całego świata wyśmiały efekt, porównując twarz do małpy, stąd przezwisko „Ecce Mono” (hiszp. mono = małpa)."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ecce_Homo_(Garc%C3%ADa_Mart%C3%ADnez_and_Gim%C3%A9nez)"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/commentisfree/2012/aug/23/great-art-restoration-disasters"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Elias_Garcia_Martinez_-_Ecce_Homo.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Elias_Garcia_Martinez_-_Ecce_Homo.jpg",
+          "credit": "Elías García Martínez / Wikimedia Commons, Public domain",
+          "alt": "Fresk Ecce Homo z Borja w oryginalnej wersji",
+          "caption": "Tak fresk Eliasa Garcíi Martíneza wyglądał przed nieudaną renowacją."
+        },
+        "caption": {
+          "credit": "Elías García Martínez / Wikimedia Commons",
+          "text": "To oryginalny wygląd fresku z Borja. Właśnie ten obraz amatorka próbowała odnowić w 2012 roku."
+        },
+        "insta": {
+          "tytul": "Ktoś „odnowił” fresk z Jezusem i wyszła z tego… małpa",
+          "opis": "Borja, Hiszpania, 2012. 81-letnia amatorka poprawiła stary fresk, a internet ochrzcił go „Ecce Mono”. Tu wersja sprzed renowacji."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Finlandia",
+        "initials": "FI",
+        "category": "Sport",
+        "hype": 4,
+        "title": "W Finlandii odbywają się zawody w noszeniu żony. Partner nie musi być twoją żoną",
+        "summary": "Noszenie żony to wyścig, w którym zawodnik biegnie z partnerką na plecach. Sport wymyślono w 1992 r. w fińskim Sonkajärvi.",
+        "body": [
+          "Zawodnicy pokonują trasę z przeszkodami, niosąc drugą osobę. Wygrywa najszybsza para. Zwykle mężczyzna niesie kobietę, ale zasady zazwyczaj nie wymagają ani konkretnej płci, ani małżeństwa.",
+          "Konkurencję po raz pierwszy zorganizowano w 1992 r. w Sonkajärvi w Finlandii. Po fińsku nazywa się eukonkanto."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Wife-carrying"
+          },
+          {
+            "name": "bettor.com (archiwum)",
+            "url": "https://web.archive.org/web/20110219161852/http://blogs.bettor.com/The-Strange-Sport-of-Wife-Carrying-a15233"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/WCwiki1.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:WCwiki1.jpg",
+          "credit": "Msvctv / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Zawodnik biegnie z partnerką na plecach podczas zawodów w noszeniu żony",
+          "caption": "Para podczas zawodów w noszeniu żony."
+        },
+        "caption": {
+          "credit": "Msvctv / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje parę na trasie zawodów. Tak wygląda wyścig, w którym jedna osoba niesie drugą."
+        },
+        "insta": {
+          "tytul": "W Finlandii są zawody w noszeniu żony. I to prawdziwy sport",
+          "opis": "Biegniesz z partnerką na plecach przez przeszkody, wygrywa najszybsza para. Żoną wcale nie musi być."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "DVD",
+        "initials": "DV",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Odbijające się logo DVD to wygaszacz ekranu, przy którym ludzie godzinami czekali, aż trafi w róg",
+        "summary": "Odtwarzacze DVD pokazywały w spoczynku logo odbijające się od krawędzi ekranu. Czekanie, aż trafi idealnie w róg, stało się popularnym wyzwaniem.",
+        "body": [
+          "Wygaszacz ekranu DVD to logo DVD-Video, które powoli przesuwa się po czarnym tle i odbija od krawędzi ekranu. Pojawiał się na odtwarzaczach DVD, gdy nic nie było odtwarzane.",
+          "Popularnym wyzwaniem stało się czekanie, aż logo trafi dokładnie w jeden z rogów ekranu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/DVD_screensaver"
+          },
+          {
+            "name": "KSL.com",
+            "url": "https://www.ksl.com/article/50768106/have-you-seen-this-all-hail-the-bouncing-dvd-logo-screensaver"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/DVD_screensaver_on_real_hardware.png",
+          "href": "https://commons.wikimedia.org/wiki/File:DVD_screensaver_on_real_hardware.png",
+          "credit": "Mattia Scal / Wikimedia Commons, CC BY 3.0",
+          "alt": "Logo DVD na czarnym ekranie telewizora",
+          "caption": "Wygaszacz ekranu DVD na prawdziwym sprzęcie."
+        },
+        "caption": {
+          "credit": "Mattia Scal / Wikimedia Commons",
+          "text": "Na zdjęciu wygaszacz z odbijającym się logo DVD. To ten sam ekran, przy którym czekało się na trafienie w róg."
+        },
+        "insta": {
+          "tytul": "Logo DVD w rogu ekranu to było osobne wyzwanie",
+          "opis": "Odtwarzacz w spoczynku puszczał odbijające się logo, a ludzie czekali, aż trafi idealnie w róg. Ktoś jeszcze to pamięta?"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W 2003 r. w stołówkach Kongresu USA frytki przemianowano na „frytki wolności”",
+        "summary": "Frytki po angielsku to „french fries”. Gdy Francja sprzeciwiła się inwazji na Irak, w kongresowych stołówkach zmieniono im nazwę na „freedom fries”.",
+        "body": [
+          "Nazwa „freedom fries” powstała w lutym 2003 r. w restauracji w Karolinie Północnej. Miesiąc później republikanin Bob Ney, szef komisji ds. administracji Izby Reprezentantów, zmienił ją w menu trzech stołówek Kongresu.",
+          "Chodziło o sprzeciw Francji wobec planowanej inwazji na Irak. Nazwa szybko straciła popularność, a według BBC „french fries” wróciły do menu Izby w 2006 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Freedom_fries"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://news.bbc.co.uk/2/hi/americas/5240572.stm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Freedom-Fries-Menu.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Freedom-Fries-Menu.jpg",
+          "credit": "User Ieverhart on en.wikipedia / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Menu z pozycją Freedom Fries",
+          "caption": "Menu z „freedom fries” zamiast „french fries”."
+        },
+        "caption": {
+          "credit": "Ieverhart / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje menu z nazwą „freedom fries”. Tak wyglądała zmiana, o której mowa w ciekawostce."
+        },
+        "insta": {
+          "tytul": "Kongres USA przemianował frytki na „frytki wolności”",
+          "opis": "2003 rok, Francja jest przeciw wojnie w Iraku, więc „french fries” w stołówkach Kongresu zostają „freedom fries”. Serio."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Niemcy",
+        "initials": "NI",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "Na początku XX w. Niemcy zachwycali się koniem, który rzekomo umiał liczyć",
+        "summary": "Mądry Hans „rozwiązywał” zadania z arytmetyki na pokazach w Niemczech. W 1907 r. psycholog wykazał, że koń odczytywał nieświadome sygnały z ciała trenera.",
+        "body": [
+          "Koń Mądry Hans (niem. der Kluge Hans) występował na pokazach w Niemczech na początku XX wieku i wyglądało na to, że wykonuje działania matematyczne i inne zadania umysłowe.",
+          "W 1907 r. psycholog Oskar Pfungst pokazał, że koń reaguje na mimowolne ruchy i mowę ciała trenera, który nie wiedział, że daje mu podpowiedzi. Od tego czasu taki błąd w badaniach nazywa się efektem Mądrego Hansa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Clever_Hans"
+          },
+          {
+            "name": "The Skeptic's Dictionary",
+            "url": "https://skepdic.com/cleverhans.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CleverHans.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:CleverHans.jpg",
+          "credit": "Karl Krall / Wikimedia Commons, Public domain",
+          "alt": "Archiwalne zdjęcie konia Mądrego Hansa podczas pokazu",
+          "caption": "Mądry Hans na archiwalnym zdjęciu."
+        },
+        "caption": {
+          "credit": "Karl Krall / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie pokazuje Mądrego Hansa. To ten koń, który rzekomo liczył, a w rzeczywistości czytał z mowy ciała trenera."
+        },
+        "insta": {
+          "tytul": "Był koń, który „umiał liczyć”. Prawie wszyscy w to wierzyli",
+          "opis": "Mądry Hans stukał kopytem poprawne wyniki. W 1907 r. wyszło, że po prostu czytał mowę ciała trenera."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Szwecja",
+        "initials": "SZ",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Szwed Eilert Pilarm zasłynął jako sobowtór Elvisa, który nie wyglądał ani nie brzmiał jak Elvis",
+        "summary": "Eilert Pilarm występował jako naśladowca Elvisa Presleya. Sławę przyniósł mu występ w szwedzkim radiu w 1992 r., a w 2003 r. zakończył karierę.",
+        "body": [
+          "Eilert Pilarm to pseudonim sceniczny Eilerta Dahlberga, urodzonego w 1953 r. w Szwecji. Występował jako naśladowca Elvisa, choć ani wygląd, ani głos nie przypominały oryginału.",
+          "Rozgłos zdobył po występie w audycji Morgonpasset w Sveriges Radio w 1992 r. Z muzyką skończył w 2003 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Eilert_Pilarm"
+          },
+          {
+            "name": "pergunnareriksson.se (archiwum)",
+            "url": "https://web.archive.org/web/20121024074435/http://www.pergunnareriksson.se/eilert.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/EilertBonnarock.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:EilertBonnarock.jpg",
+          "credit": "ChrisPsi / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Eilert Pilarm na scenie",
+          "caption": "Eilert Pilarm podczas występu."
+        },
+        "caption": {
+          "credit": "ChrisPsi / Wikimedia Commons",
+          "text": "Na zdjęciu Eilert Pilarm na scenie. To on zasłynął jako sobowtór Elvisa niepodobny do Elvisa."
+        },
+        "insta": {
+          "tytul": "Najsłynniejszy szwedzki Elvis w ogóle nie przypominał Elvisa",
+          "opis": "Eilert Pilarm nie wyglądał jak Presley ani tak nie śpiewał. A i tak po występie w radiu w 1992 r. zrobiło się o nim głośno."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Lamy",
+        "initials": "LA",
+        "category": "Zwierzęta",
+        "hype": 3,
+        "title": "Lama wychowana przez ludzi może stać się agresywna. To zjawisko ma nazwę: syndrom szalonej lamy",
+        "summary": "Lamy i alpaki karmione i rozpieszczane przez ludzi od małego mogą potem traktować ich jak rywali. Opiekunowie nazywają to „berserk llama syndrome”.",
+        "body": [
+          "Syndrom szalonej lamy (ang. berserk llama syndrome, BLS) to zachowanie spotykane u lam i alpak wychowanych przez ludzi. Takie zwierzęta mogą być wobec ludzi niebezpiecznie agresywne. Częściej dotyczy samców.",
+          "Termin bywa nadużywany: czasem tak nazywa się po prostu lamy z trudnym charakterem, które wcale nie mają tego zaburzenia."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Berserk_llama_syndrome"
+          },
+          {
+            "name": "Llamapaedia (archiwum)",
+            "url": "https://web.archive.org/web/20070629072447/http://www.llamapaedia.com/problems/bms.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Llama_at_Shernal_Green_-_geograph.org.uk_-_466830.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Llama_at_Shernal_Green_-_geograph.org.uk_-_466830.jpg",
+          "credit": "Trevor Rickard / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Lama stojąca na pastwisku w Anglii",
+          "caption": "Lama na farmie w Shernal Green w Anglii."
+        },
+        "caption": {
+          "credit": "Trevor Rickard / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje lamę na farmie. Właśnie u takich zwierząt, wychowanych blisko ludzi, opisuje się ten syndrom."
+        },
+        "insta": {
+          "tytul": "Lama rozpieszczana przez ludzi może się na nich… rzucić",
+          "opis": "Lamy i alpaki wychowane od małego przez ludzi potrafią potem traktować ich jak rywali. Nazywa się to syndromem szalonej lamy."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-24",

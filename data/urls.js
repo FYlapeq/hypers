@@ -2,6 +2,10 @@
 window.HYPERS_URLS = {
  "2026-11-24": {
   "luz": [
+   "artykuly/2026-11-24/sony-gta-6-to-najwieksza-premiera-w-historii-playstation-na-ps5.html",
+   "artykuly/2026-11-24/gta-6-dostalo-pierwsza-latke-wedlug-serwisow-naprawia-m-in-pogode.html",
+   "artykuly/2026-11-24/ludwig-po-prawie-tygodniu-z-gta-6-ta-gra-mnie-zmienila-widzowie-pisza.html",
+   "artykuly/2026-11-24/zalewskyy-zagral-w-finalach-turnieju-o-50-tys-dolarow-w-fc-27.html",
    "artykuly/2026-11-24/ospanno-przeszedl-cala-mape-gta-6-pieszo-bez-auta-i-bez-skrotow.html",
    "artykuly/2026-11-24/kaluch-ma-juz-szesc-odcinkow-gta-6-najnowszy-zebral-ponad-200-tys.html",
    "artykuly/2026-11-24/lootbox-przy-gta-6-pracowalo-sporo-polakow-kanal-porownal-tez.html",
@@ -9,6 +13,13 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-24/rezigiusz-wraca-z-seria-100h-tym-razem-spedzi-100-godzin-na-pustyni.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-24/w-hiszpanii-81-latka-odnowila-fresk-z-jezusem-tak-ze-ludzie-zaczeli.html",
+   "artykuly/2026-11-24/w-finlandii-odbywaja-sie-zawody-w-noszeniu-zony-partner-nie-musi-byc.html",
+   "artykuly/2026-11-24/odbijajace-sie-logo-dvd-to-wygaszacz-ekranu-przy-ktorym-ludzie.html",
+   "artykuly/2026-11-24/w-2003-r-w-stolowkach-kongresu-usa-frytki-przemianowano-na-frytki.html",
+   "artykuly/2026-11-24/na-poczatku-xx-w-niemcy-zachwycali-sie-koniem-ktory-rzekomo-umial.html",
+   "artykuly/2026-11-24/szwed-eilert-pilarm-zaslynal-jako-sobowtor-elvisa-ktory-nie-wygladal.html",
+   "artykuly/2026-11-24/lama-wychowana-przez-ludzi-moze-stac-sie-agresywna-to-zjawisko.html",
    "artykuly/2026-11-24/w-nowej-zelandii-jest-rzeka-ktora-w-swietle-prawa-jest-osoba.html",
    "artykuly/2026-11-24/w-1961-r-nad-usa-rozpadl-sie-bombowiec-z-dwiema-bombami-atomowymi.html",
    "artykuly/2026-11-24/prawie-niepismienny-amerykanin-dorobil-sie-fortuny-i-napisal-ksiazke.html",
