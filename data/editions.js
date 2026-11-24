@@ -1,5 +1,435 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-24": {
+    "date": "2026-11-24",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-23",
+        "who": "Ospanno",
+        "initials": "OS",
+        "category": "Gaming",
+        "hype": 3,
+        "ig": [
+          "ospanno"
+        ],
+        "title": "Ospanno przeszedł całą mapę GTA 6 pieszo. Bez auta i bez skrótów",
+        "summary": "Ospanno sprawdził, czy da się obejść całą mapę GTA 6 na własnych nogach. Prawie półgodzinny film wyszedł w poniedziałek wieczorem.",
+        "body": [
+          "Ospanno wrzucił na YouTube film „Przeszedłem całą mapę GTA 6 pieszo”. W opisie zapowiada wyzwanie wprost: bez samochodu, bez skrótów, tylko marsz przed siebie przez całą Leonidę.",
+          "Materiał trwa niecałe 29 minut i pojawił się 23 listopada o 18:00. We wtorek rano (ok. 6:20) miał ponad 12 tys. wyświetleń i ok. 500 polubień.",
+          "To kolejny film Ospanno z GTA 6 z gatunku wyzwań. Kilka dni temu grał w nowe GTA bez łamania prawa. Widzowie w komentarzach już podsuwają następne pomysły, m.in. opłynięcie całej mapy wpław i wspólne bingo z Kaluchem."
+        ],
+        "sources": [
+          {
+            "name": "Ospanno / YouTube",
+            "url": "https://www.youtube.com/watch?v=-CYDJ-TpkzE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=-CYDJ-TpkzE",
+        "caption": {
+          "credit": "Ospanno / YouTube",
+          "text": "Miniatura filmu, w którym Ospanno idzie przez mapę GTA 6 wyłącznie pieszo. To cały pomysł odcinka: żadnych pojazdów, tylko marsz od jednego końca Leonidy do drugiego."
+        },
+        "insta": {
+          "tytul": "Ospanno przeszedł całą mapę GTA 6 na piechotę",
+          "opis": "Zero aut, zero skrótów, po prostu marsz przez całą Leonidę. Widzowie już chcą, żeby teraz opłynął ją wpław 🚶"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/-CYDJ-TpkzE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/-CYDJ-TpkzE/hqdefault.jpg",
+          "credit": "Ospanno / YouTube",
+          "href": "https://www.youtube.com/watch?v=-CYDJ-TpkzE",
+          "alt": "Miniatura filmu Ospanno o przejściu mapy GTA 6 pieszo",
+          "caption": "Kadr z filmu Ospanno „Przeszedłem całą mapę GTA 6 pieszo”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-23",
+        "who": "Kaluch",
+        "initials": "KA",
+        "category": "Gaming",
+        "hype": 3,
+        "ig": [
+          "kaluch_"
+        ],
+        "title": "Kaluch ma już sześć odcinków GTA 6. Najnowszy zebrał ponad 200 tys. wyświetleń w kilkanaście godzin",
+        "summary": "Kaluch wrzucił szósty odcinek swojego przejścia GTA 6, trwający prawie dwie godziny. Widzowie liczą, że w pięć dni seria dała im blisko 10 godzin materiału.",
+        "body": [
+          "Kaluch opublikował 23 listopada szósty odcinek serii z GTA 6 pod tytułem „Tylko nie to…”. Film trwa prawie 1 godz. 53 min.",
+          "We wtorek rano (ok. 6:20) odcinek miał ok. 216 tys. wyświetleń, 9 tys. polubień i ponad tysiąc komentarzy.",
+          "Widzowie chwalą montażystę za podmienianie muzyki z gry tak, że trudno odróżnić ją od oryginału, i proszą, żeby nie wycinać losowych akcji pobocznych. Jeden z najpopularniejszych komentarzy podlicza, że w ostatnie pięć dni seria dała prawie 10 godzin materiału."
+        ],
+        "sources": [
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=mnn4b7BiOFo",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=mnn4b7BiOFo",
+        "caption": {
+          "credit": "Kaluch / YouTube",
+          "text": "Miniatura szóstego odcinka przejścia GTA 6 na kanale Kalucha. Seria wychodzi niemal codziennie od premiery gry."
+        },
+        "insta": {
+          "tytul": "Kaluch leci z GTA 6: już szósty odcinek, prawie 2 godziny",
+          "opis": "Widzowie policzyli, że w pięć dni dostali od niego prawie 10 godzin GTA 6. Najnowszy odcinek ma ponad 200 tys. wyświetleń."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/mnn4b7BiOFo/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/mnn4b7BiOFo/hqdefault.jpg",
+          "credit": "Kaluch / YouTube",
+          "href": "https://www.youtube.com/watch?v=mnn4b7BiOFo",
+          "alt": "Miniatura szóstego odcinka GTA 6 Kalucha",
+          "caption": "Kadr z odcinka „Tylko nie to… GTA 6 #6” Kalucha."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-23",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "Gaming",
+        "hype": 3,
+        "ig": [
+          "lootbox_news"
+        ],
+        "title": "LootBox: przy GTA 6 pracowało sporo Polaków. Kanał porównał też szczegóły z GTA 5",
+        "summary": "W nowym odcinku LootBox zestawia detale GTA 6 i GTA 5 i omawia udział Polaków w tworzeniu gry. Mówi też o kolejnych ograniczeniach, które Rockstar nakłada wokół GTA 6.",
+        "body": [
+          "LootBox wrzucił 23 listopada 20-minutowy odcinek „Koszmar Rockstar Games może się wydarzyć — Znamy kolejną dużą grę po GTA 6?”.",
+          "Z rozdziałów w opisie wynika, że odcinek otwiera porównanie GTA 6 z GTA 5 w szczegółach, potem jest część o tym, że przy grze pracowało sporo Polaków, a dalej o tym, jak Rockstar coraz mocniej ogranicza GTA 6, i o plotce dotyczącej L.A. Noire 2 na podstawie przecieku z 2023 r. Rockstar nie potwierdził nowej odsłony L.A. Noire.",
+          "W opisie kanał podaje źródła, m.in. Red Bulla, Interię i PC Gamera. We wtorek rano (ok. 6:20) film miał ok. 65 tys. wyświetleń. Część widzów w komentarzach pyta, czy porównania kanał nagrał sam, a inni piszą, że porównywanie gier wydanych 13 lat od siebie nie ma sensu."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=039StKrQIYU",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=039StKrQIYU",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura odcinka LootBoxa o GTA 6. Najwięcej miejsca zajmuje w nim porównanie detali z GTA 5 i wątek polskich twórców gry."
+        },
+        "insta": {
+          "tytul": "Przy GTA 6 pracowało sporo Polaków. LootBox to rozłożył",
+          "opis": "W tym samym odcinku porównanie detali z GTA 5 i plotka o L.A. Noire 2, której Rockstar nie potwierdził."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/039StKrQIYU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/039StKrQIYU/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=039StKrQIYU",
+          "alt": "Miniatura odcinka LootBox o GTA 6",
+          "caption": "Kadr z odcinka LootBox o GTA 6 i polskich twórcach gry."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-23",
+        "who": "Slogo",
+        "initials": "SL",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Slogo zagrał z kumplami w minigolfa w GTA 6. Na „najbardziej szalonym torze”",
+        "summary": "Slogo wrzucił film, w którym rozgrywa z ekipą minigolfa w GTA 6. Nagrywanie widzowie mogli oglądać na żywo na streamie jednego z uczestników.",
+        "body": [
+          "Slogo opublikował 23 listopada film „MINI GOLF vs My Friends in GTA 6…”. W opisie pisze, że rzucił znajomym wyzwanie na „najbardziej szalonym torze do minigolfa” w nowym GTA.",
+          "Materiał trwa ok. 24 minut. We wtorek rano (ok. 6:20) miał ponad 60 tys. wyświetleń.",
+          "Widzowie w komentarzach piszą, że nagranie oglądali na żywo na streamie Finnogina, który pojawia się w filmie, i że całość trzeba było nagrywać dwa razy, bo pierwszy plik się uszkodził. To już kolejny film Slogo z GTA 6 po przejściu gry w trybie pierwszoosobowym."
+        ],
+        "sources": [
+          {
+            "name": "Slogo / YouTube",
+            "url": "https://www.youtube.com/watch?v=oFgBMPHt04w",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=oFgBMPHt04w",
+        "caption": {
+          "credit": "Slogo / YouTube",
+          "text": "Miniatura filmu Slogo z minigolfem w GTA 6. Cały odcinek to rywalizacja jego ekipy na torze w grze."
+        },
+        "insta": {
+          "tytul": "Slogo i jego ekipa grają w GTA 6 w minigolfa",
+          "opis": "Ciekawostka zza kulis: pierwsze nagranie się uszkodziło, więc wszystko kręcili od nowa ⛳"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/oFgBMPHt04w/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/oFgBMPHt04w/hqdefault.jpg",
+          "credit": "Slogo / YouTube",
+          "href": "https://www.youtube.com/watch?v=oFgBMPHt04w",
+          "alt": "Miniatura filmu Slogo o minigolfie w GTA 6",
+          "caption": "Kadr z filmu Slogo „MINI GOLF vs My Friends in GTA 6”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-23",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Zapowiedź",
+        "hype": 3,
+        "ig": [
+          "rezigiusz"
+        ],
+        "title": "ReZigiusz wraca z serią 100h. Tym razem spędzi 100 godzin na pustyni",
+        "summary": "ReZigiusz zapowiedział w shorcie nowe wyzwanie: 100 godzin na pustyni. Film ma wyjść 28 listopada o 16:00.",
+        "body": [
+          "ReZigiusz wrzucił 23 listopada krótki film „podjąłem się wyzwania spędzenia 100h na pustyni…”. W opisie podał termin premiery pełnego materiału: 28 listopada, godz. 16:00.",
+          "To powrót formatu 100h, na który widzowie czekali. Najwyżej oceniane komentarze to właśnie radość, że seria wraca, a jeden z widzów żartuje, że ReZi w końcu posłuchał wyników ankiet na YouTube.",
+          "We wtorek rano (ok. 6:20) zapowiedź miała ponad 6 tys. wyświetleń i ok. 460 polubień."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/watch?v=PBj0XCsLgN4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/PBj0XCsLgN4",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Kadr z zapowiedzi nowego odcinka serii 100h. Pełny film o 100 godzinach na pustyni ma wyjść w sobotę o 16:00."
+        },
+        "insta": {
+          "tytul": "ReZigiusz spędzi 100 godzin na pustyni. Film w sobotę o 16:00",
+          "opis": "Seria 100h wraca. Widzowie w komentarzach piszą głównie jedno: no w końcu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/PBj0XCsLgN4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/PBj0XCsLgN4/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=PBj0XCsLgN4",
+          "alt": "Kadr z zapowiedzi ReZigiusza o 100 godzinach na pustyni",
+          "caption": "Kadr z shorta ReZigiusza zapowiadającego wyzwanie 100h na pustyni."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Nowa Zelandia",
+        "initials": "NO",
+        "category": "Prawo",
+        "hype": 3,
+        "title": "W Nowej Zelandii jest rzeka, która w świetle prawa jest osobą",
+        "summary": "Rzeka Whanganui od 2017 r. ma osobowość prawną: prawa, obowiązki i odpowiedzialność jak osoba prawna.",
+        "body": [
+          "Whanganui to trzecia najdłuższa rzeka Nowej Zelandii, ważna dla miejscowych Maorysów. W marcu 2017 r. dostała własną osobowość prawną, jako drugi zasób przyrody na świecie po obszarze Te Urewera.",
+          "Ugoda w tej sprawie zakończyła najdłuższy spór sądowy w historii Nowej Zelandii."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Whanganui_River"
+          },
+          {
+            "name": "NZ Herald",
+            "url": "https://www.nzherald.co.nz/kahu/whanganui-river-given-legal-status-of-a-person-under-unique-treaty-of-waitangi-settlement/JL3QKSWVZPA7XW6EN33GKU4JJ4/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Whanganui_River.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Whanganui_River.jpg",
+          "credit": "nieznany autor / Wikimedia Commons, CC BY 2.5",
+          "alt": "Rzeka Whanganui płynąca przez zalesioną dolinę",
+          "caption": "Rzeka Whanganui, która od 2017 r. ma w Nowej Zelandii status osoby prawnej."
+        },
+        "caption": {
+          "credit": "nieznany autor / Wikimedia Commons, CC BY 2.5",
+          "text": "Rzeka Whanganui, która od 2017 r. ma w Nowej Zelandii status osoby prawnej."
+        },
+        "insta": {
+          "tytul": "W Nowej Zelandii rzeka ma prawa jak człowiek. Serio",
+          "opis": "Od 2017 r. Whanganui jest osobą prawną. Ugoda w tej sprawie zakończyła najdłuższy proces w historii kraju."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W 1961 r. nad USA rozpadł się bombowiec z dwiema bombami atomowymi. Wybuch zatrzymał jeden przełącznik",
+        "summary": "Pod Goldsboro w Karolinie Północnej B-52 zgubił w powietrzu dwie bomby termojądrowe. W jednej z nich przed wybuchem uchronił tylko jeden przełącznik.",
+        "body": [
+          "24 stycznia 1961 r. bombowiec B-52 z dwiema bombami Mark 39 o mocy 3,8 megatony każda rozpadł się w powietrzu niedaleko Goldsboro. Bomby spadły na ziemię.",
+          "Odtajnione później dokumenty pokazały, że w jednej z bomb tylko jeden przełącznik zabezpieczający nie dopuścił do eksplozji. To jeden z najsłynniejszych wypadków z bronią jądrową z czasów zimnej wojny."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash"
+          },
+          {
+            "name": "National Security Archive",
+            "url": "https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2022-11-18/new-declassifications-nuclear-weapons-safety-and-security"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Goldsboro_bomb_Weapon_No_1_color.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Goldsboro_bomb_Weapon_No_1_color.jpg",
+          "credit": "United States Air Force / Wikimedia Commons, domena publiczna",
+          "alt": "Bomba atomowa leżąca na polu po katastrofie pod Goldsboro",
+          "caption": "Jedna z bomb, które spadły pod Goldsboro w 1961 r., zdjęcie amerykańskich sił powietrznych."
+        },
+        "caption": {
+          "credit": "United States Air Force / Wikimedia Commons, domena publiczna",
+          "text": "Jedna z bomb, które spadły pod Goldsboro w 1961 r., zdjęcie amerykańskich sił powietrznych."
+        },
+        "insta": {
+          "tytul": "W 1961 r. przed atomowym wybuchem w USA uratował jeden przełącznik",
+          "opis": "Bombowiec B-52 zgubił nad Karoliną Północną dwie bomby. W jednej zadziałało już prawie wszystko poza ostatnim zabezpieczeniem."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Timothy Dexter",
+        "initials": "TI",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Prawie niepiśmienny Amerykanin dorobił się fortuny i napisał książkę niemal bez znaków interpunkcyjnych",
+        "summary": "Timothy Dexter żył w XVIII w., zbił majątek na nieprawdopodobnie udanych interesach i uważał się za największego filozofa świata.",
+        "body": [
+          "Timothy Dexter (1747–1806) wzbogacił się dzięki małżeństwu i serii inwestycji, które miały się nie udać, a jednak się udały. Sam nazywał siebie „lordem”.",
+          "Choć ledwo umiał pisać, wydał książkę „A Pickle for the Knowing Ones”, słynną z dziwacznej pisowni i błędów. Jego dom w Newburyport w stanie Massachusetts stoi do dziś."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Timothy_Dexter"
+          },
+          {
+            "name": "History of Massachusetts Blog",
+            "url": "https://historyofmassachusetts.org/timothy-dexter-house/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Timothy_Dexter.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Timothy_Dexter.jpg",
+          "credit": "James Akin / Wikimedia Commons, domena publiczna",
+          "alt": "Rycina przedstawiająca Timothy'ego Dextera z psem",
+          "caption": "Timothy Dexter na rycinie Jamesa Akina z przełomu XVIII i XIX w."
+        },
+        "caption": {
+          "credit": "James Akin / Wikimedia Commons, domena publiczna",
+          "text": "Timothy Dexter na rycinie Jamesa Akina z przełomu XVIII i XIX w."
+        },
+        "insta": {
+          "tytul": "Ledwo umiał pisać, a nazywał siebie największym filozofem świata",
+          "opis": "Timothy Dexter zbił fortunę na interesach, które nie miały prawa wypalić, i wydał książkę pełną błędów."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Ciekawe miejsca",
+        "hype": 3,
+        "title": "Jedyne muzeum komika Phila Silversa jest w Coventry, choć nie miał z tym miastem nic wspólnego",
+        "summary": "Muzeum amerykańskiego komika, znanego jako sierżant Bilko, otworzył w 2015 r. jego fan. Seriale z Silversem lecą tam przez całą dobę.",
+        "body": [
+          "Phil Silvers Archival Museum działa w Coventry od 2015 r. Pokazuje m.in. listy i ubrania Phila Silversa, gwiazdy amerykańskiego serialu „The Phil Silvers Show”.",
+          "Komik nie był związany z Coventry. Muzeum założył jego fan, a w środku przez całą dobę puszczany jest serial z sierżantem Bilko."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Phil_Silvers_Archival_Museum"
+          },
+          {
+            "name": "Express.co.uk",
+            "url": "https://www.express.co.uk/news/uk/587365/phil-silvers-fan-coventry-museum-opening-stars-sgt-bilko"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Phil_silvers_as_bilko.JPG",
+          "href": "https://commons.wikimedia.org/wiki/File:Phil_silvers_as_bilko.JPG",
+          "credit": "Milburn McCarty Associates / Wikimedia Commons, domena publiczna",
+          "alt": "Phil Silvers w mundurze jako sierżant Bilko",
+          "caption": "Phil Silvers jako sierżant Bilko na zdjęciu promocyjnym serialu."
+        },
+        "caption": {
+          "credit": "Milburn McCarty Associates / Wikimedia Commons, domena publiczna",
+          "text": "Phil Silvers jako sierżant Bilko na zdjęciu promocyjnym serialu."
+        },
+        "insta": {
+          "tytul": "Fan otworzył muzeum komika w mieście, w którym ten nigdy nic nie robił",
+          "opis": "Phil Silvers nie miał nic wspólnego z Coventry, a jedyne jego muzeum jest właśnie tam. Serial leci w nim 24/7."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "USA",
+        "initials": "US",
+        "category": "Legendy",
+        "hype": 3,
+        "title": "Krąży legenda, że w 1943 r. marynarka USA próbowała zrobić niewidzialny okręt",
+        "summary": "Tzw. eksperyment filadelfijski miał uczynić niszczyciel USS Eldridge niewidzialnym. Całą historię zna się z relacji jednego marynarza.",
+        "body": [
+          "Według opowieści Carla M. Allena w październiku 1943 r. w stoczni w Filadelfii marynarka wojenna USA próbowała sprawić, by okręt USS Eldridge zniknął.",
+          "Historia wypłynęła w 1955 r., gdy Allen zaczął wysyłać listy i notatki o rzekomym eksperymencie. Nie ma dowodów, że coś takiego się wydarzyło, a sceptycy uważają ją za mistyfikację."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Philadelphia_Experiment"
+          },
+          {
+            "name": "The Skeptic's Dictionary",
+            "url": "http://skepdic.com/philadel.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/USS_Eldridge_%28DE-173%29_underway%2C_circa_in_1944.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:USS_Eldridge_(DE-173)_underway,_circa_in_1944.jpg",
+          "credit": "U.S. Navy / Wikimedia Commons, domena publiczna",
+          "alt": "Okręt USS Eldridge na morzu",
+          "caption": "USS Eldridge, okręt z legendy o eksperymencie filadelfijskim, ok. 1944 r."
+        },
+        "caption": {
+          "credit": "U.S. Navy / Wikimedia Commons, domena publiczna",
+          "text": "USS Eldridge, okręt z legendy o eksperymencie filadelfijskim, ok. 1944 r."
+        },
+        "insta": {
+          "tytul": "Ten okręt miał podobno zniknąć w 1943 r. Tak brzmi legenda",
+          "opis": "Eksperyment filadelfijski zna się z relacji jednego marynarza. Dowodów brak, ale historia żyje od 70 lat."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-23": {
     "date": "2026-11-23",
     "ryby": [],

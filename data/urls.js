@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-24": {
+  "luz": [
+   "artykuly/2026-11-24/ospanno-przeszedl-cala-mape-gta-6-pieszo-bez-auta-i-bez-skrotow.html",
+   "artykuly/2026-11-24/kaluch-ma-juz-szesc-odcinkow-gta-6-najnowszy-zebral-ponad-200-tys.html",
+   "artykuly/2026-11-24/lootbox-przy-gta-6-pracowalo-sporo-polakow-kanal-porownal-tez.html",
+   "artykuly/2026-11-24/slogo-zagral-z-kumplami-w-minigolfa-w-gta-6-na-najbardziej-szalonym.html",
+   "artykuly/2026-11-24/rezigiusz-wraca-z-seria-100h-tym-razem-spedzi-100-godzin-na-pustyni.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-24/w-nowej-zelandii-jest-rzeka-ktora-w-swietle-prawa-jest-osoba.html",
+   "artykuly/2026-11-24/w-1961-r-nad-usa-rozpadl-sie-bombowiec-z-dwiema-bombami-atomowymi.html",
+   "artykuly/2026-11-24/prawie-niepismienny-amerykanin-dorobil-sie-fortuny-i-napisal-ksiazke.html",
+   "artykuly/2026-11-24/jedyne-muzeum-komika-phila-silversa-jest-w-coventry-choc-nie-mial.html",
+   "artykuly/2026-11-24/krazy-legenda-ze-w-1943-r-marynarka-usa-probowala-zrobic-niewidzialny.html"
+  ]
+ },
  "2026-11-23": {
   "luz": [
    "artykuly/2026-11-23/gta-6-dostalo-pierwsza-latke-po-premierze-rockstar-nie-podal.html",
