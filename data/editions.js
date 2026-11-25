@@ -7,6 +7,243 @@ window.HYPERS_EDITIONS = {
       {
         "region": "world",
         "published": "2026-11-25",
+        "who": "GTA 6",
+        "initials": "G6",
+        "category": "Gry",
+        "hype": 4,
+        "title": "Sensor Tower: GTA 6 mogło sprzedać się w ok. 47 mln kopii w cztery dni. Take-Two tego nie potwierdziło",
+        "summary": "Firma analityczna Sensor Tower szacuje, że do końca premierowego weekendu GTA 6 kupiło ok. 47 mln osób. Według tych samych danych w tym czasie mocno spadła aktywność graczy w Call of Duty i Fortnite.",
+        "body": [
+          "Sensor Tower, firma zajmująca się analizą rynku gier i aplikacji, oszacowała, że do końca niedzieli 22 listopada, czyli w cztery dni od premiery, sprzedało się ok. 47 mln egzemplarzy GTA 6. Dane opisał 24 listopada „Forbes”, a serwisy o grach podają dokładniejszą liczbę: ok. 47,8 mln.",
+          "To szacunki zewnętrznej firmy, nie oficjalne dane. Rockstar i Take-Two nie podały liczby sprzedanych kopii po premierze. Wcześniej Take-Two informowało oficjalnie o 3,79 mld dolarów sprzedaży detalicznej w pierwszym dniu.",
+          "Według Sensor Tower w tym samym czasie dzienna liczba aktywnych graczy Call of Duty spadła o 46%, a Fortnite o 25% w porównaniu z poprzednimi 30 dniami.",
+          "Inne szacunki są nieco niższe: firma Alinea Analytics podawała 23 listopada ok. 44,9 mln sprzedanych kopii."
+        ],
+        "sources": [
+          {
+            "name": "Forbes",
+            "url": "https://www.forbes.com/sites/conormurray/2026/11/24/gta-vi-sold-47-million-copies-over-launch-weekend-and-siphoned-players-from-call-of-duty-fortnite/"
+          },
+          {
+            "name": "Forbes / X",
+            "url": "https://x.com/Forbes/status/2125379025325736084"
+          },
+          {
+            "name": "GTA 6 Track",
+            "url": "https://www.gta6track.com/news/gta-6-sales-47-8-million-sensor-tower"
+          },
+          {
+            "name": "Happy Gamer",
+            "url": "https://happygamer.com/gta-6-launch-weekend-sales-47-million-sensor-tower-182338/"
+          }
+        ],
+        "embed": "https://x.com/Forbes/status/2125379025325736084",
+        "caption": {
+          "credit": "Forbes / X",
+          "text": "Post „Forbesa” z danymi Sensor Tower o sprzedaży GTA 6 w premierowy weekend i spadku aktywności w Call of Duty i Fortnite. To szacunki firmy analitycznej, nie dane Take-Two."
+        },
+        "noImage": "Brak legalnego zdjęcia: dane firmy analitycznej, bez filmu ani newsroomu",
+        "insta": {
+          "tytul": "GTA 6 mogło sprzedać się w 47 mln kopii w cztery dni",
+          "opis": "Tak szacuje Sensor Tower. Take-Two oficjalnie tego nie potwierdziło, ale Call of Duty miało w tym czasie stracić prawie połowę graczy."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-24",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Young Multi wrzucił dwa odcinki GTA 6 jednego dnia. W drugim „porwała go Wielka Stopa”",
+        "summary": "Na kanale YOUNG MULTI LIVE we wtorek pojawiły się trzeci i czwarty odcinek serii z GTA 6. Czwarty nosi tytuł „Porwała mnie Wielka Stopa!”.",
+        "body": [
+          "Young Multi kontynuuje serię z GTA 6 na kanale YOUNG MULTI LIVE. We wtorek 24 listopada wrzucił dwa odcinki: o 16:00 trzeci, „Przez to będę poszukiwany..”, a o 20:00 czwarty, „Porwała mnie Wielka Stopa!”. Każdy trwa ok. półtorej godziny.",
+          "W środę rano (odczyt ok. 6:15) trzeci odcinek miał ok. 50 tys. wyświetleń, a czwarty ok. 17 tys.",
+          "Widzowie w komentarzach cieszą się głównie z tego, że dostali dwa odcinki jednego dnia. Pod filmami jest też rozpiska streamów: na Twitchu Multi gra w poniedziałki, wtorki i czwartki od 18:00."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=GW89oCtWEhg",
+            "origin": true
+          },
+          {
+            "name": "YOUNG MULTI LIVE / YouTube (odc. 3)",
+            "url": "https://www.youtube.com/watch?v=kEk1kHqRB5o",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=GW89oCtWEhg",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/GW89oCtWEhg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/GW89oCtWEhg/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/watch?v=GW89oCtWEhg",
+          "alt": "Miniatura czwartego odcinka serii Young Multiego z GTA 6",
+          "caption": "Miniatura odcinka „Porwała mnie Wielka Stopa!” z serii GTA VI na kanale YOUNG MULTI LIVE."
+        },
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Czwarty odcinek serii Young Multiego z GTA 6, wrzucony kilka godzin po trzecim. Tytuł zapowiada spotkanie z Wielką Stopą."
+        },
+        "ig": [
+          "youngmulti"
+        ],
+        "insta": {
+          "tytul": "Young Multi w GTA 6 trafił na Wielką Stopę",
+          "opis": "Tak przynajmniej twierdzi tytuł czwartego odcinka. Wrzucił go tego samego dnia co trzeci, więc widzowie mieli dwa naraz."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Jynxzi",
+        "initials": "JY",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Jynxzi ma za sobą piąty dzień z GTA 6. Zapis streamu trwa ponad sześć godzin",
+        "summary": "Jynxzi wrzucił na YouTube zapis piątego dnia swojej pierwszej przygody z GTA 6. Nagranie ma ponad 6 godzin i w kilka godzin zebrało ponad 440 tys. wyświetleń.",
+        "body": [
+          "Jynxzi opublikował w nocy z wtorku na środę zapis streamu „FIRST TIME PLAYING GTA 6 *DAY 5*”, czyli piąty dzień grania w GTA 6 od zera.",
+          "Nagranie trwa ok. 6 godzin i 24 minut. W środę rano (odczyt ok. 6:15) miało ok. 444 tys. wyświetleń.",
+          "To kolejny duży streamer, który po premierze 19 listopada gra w GTA 6 codziennie i wrzuca całe streamy na YouTube."
+        ],
+        "sources": [
+          {
+            "name": "Jynxzi / YouTube",
+            "url": "https://www.youtube.com/watch?v=aOOi7njlTEc",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=aOOi7njlTEc",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/aOOi7njlTEc/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/aOOi7njlTEc/hqdefault.jpg",
+          "credit": "Jynxzi / YouTube",
+          "href": "https://www.youtube.com/watch?v=aOOi7njlTEc",
+          "alt": "Miniatura zapisu streamu Jynxziego z GTA 6, dzień piąty",
+          "caption": "Miniatura nagrania „FIRST TIME PLAYING GTA 6 *DAY 5*” na kanale Jynxziego."
+        },
+        "caption": {
+          "credit": "Jynxzi / YouTube",
+          "text": "Zapis piątego dnia streamu, na którym Jynxzi po raz pierwszy przechodzi GTA 6. Nagranie ma ponad sześć godzin."
+        },
+        "insta": {
+          "tytul": "Jynxzi gra w GTA 6 już piąty dzień z rzędu",
+          "opis": "Wrzucił na YouTube cały stream, ponad sześć godzin. W kilka godzin wpadło ponad 440 tys. wyświetleń."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "s1mple",
+        "initials": "S1",
+        "category": "E-sport",
+        "hype": 3,
+        "title": "s1mple z BC.Game przegrał dwa pierwsze mecze na Majorze w Singapurze. Hyper: „totalna kompromitacja”",
+        "summary": "Drużyna BC.Game z s1mple’em przegrała w Stage 1 PGL Major Singapore 2026 z Liquid 1:13 i z FaZe 3:13. Mecz z FaZe omówił w nowym filmie Officialhyper.",
+        "body": [
+          "Na PGL Major Singapore 2026 w Counter-Strike 2 słabo zaczęła drużyna BC.Game, w której gra s1mple. W pierwszej fazie turnieju przegrała z Team Liquid 1:13 na Nuke, a potem z FaZe 3:13 na Mirage.",
+          "Według podsumowania meczu s1mple zakończył starcie z FaZe z 11 zabójstwami i 14 zgonami, a z Liquid z 4 zabójstwami i 12 zgonami.",
+          "Przy bilansie 0–2 BC.Game zostało jeden mecz od odpadnięcia. W środę o 11:30 miało zagrać w formacie do dwóch wygranych map z Chinggis Warriors, które również przegrały oba pierwsze mecze.",
+          "Polski streamer Officialhyper, który komentuje cały Major na Twitchu, wrzucił na YouTube omówienie meczu FaZe z BC.Game pod tytułem „Totalna kompromitacja s1mpla!”."
+        ],
+        "sources": [
+          {
+            "name": "Officialhyper / YouTube",
+            "url": "https://www.youtube.com/watch?v=wpp6NIEfpz8"
+          },
+          {
+            "name": "Skin.Club",
+            "url": "https://community.skin.club/en/news/s1mple-one-loss-from-elimination-with-bc-game-at-pgl-singapore-major-2026"
+          },
+          {
+            "name": "HLTV",
+            "url": "https://www.hltv.org/major"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=wpp6NIEfpz8",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/wpp6NIEfpz8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/wpp6NIEfpz8/hqdefault.jpg",
+          "credit": "Officialhyper / YouTube",
+          "href": "https://www.youtube.com/watch?v=wpp6NIEfpz8",
+          "alt": "Miniatura filmu Officialhypera o meczu FaZe z BC.Game",
+          "caption": "Miniatura filmu „Totalna kompromitacja s1mpla! – FaZe vs BC.Game” na kanale Officialhyper."
+        },
+        "caption": {
+          "credit": "Officialhyper / YouTube",
+          "text": "Omówienie meczu FaZe z BC.Game na Majorze w Singapurze. To w nim drużyna s1mple’a ugrała tylko trzy rundy."
+        },
+        "insta": {
+          "tytul": "s1mple wrócił na Majora i przegrał dwa mecze, ugrywając 4 rundy",
+          "opis": "BC.Game dostało 1:13 od Liquid i 3:13 od FaZe. Jeszcze jedna porażka i koniec turnieju."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-24",
+        "who": "KSI",
+        "initials": "KS",
+        "category": "Biznes",
+        "hype": 3,
+        "title": "KSI pokazał na YouTube mecz swojego klubu Dagenham & Redbridge. Kolejny stream 8 grudnia",
+        "summary": "KSI, udziałowiec piłkarskiego klubu Dagenham & Redbridge, streamował na YouTube oglądanie meczu z Tonbridge połączone z Q&A. Zapowiedział kolejną transmisję z trybun na 8 grudnia.",
+        "body": [
+          "KSI ma udziały w angielskim klubie Dagenham & Redbridge, grającym w szóstej lidze. Od tego czasu pokazuje mecze klubu swoim widzom na YouTube.",
+          "We wtorek 24 listopada na jego kanale pojawił się ponad dwugodzinny stream „Honest Q&A and Football Watchalong” z meczu Dagenham & Redbridge z Tonbridge. W środę rano (odczyt ok. 6:15) miał ok. 127 tys. wyświetleń.",
+          "W opisie KSI zaprasza na kolejną transmisję 8 grudnia, gdy „Daggers” zagrają z Dorking Wanderers. Stream ma być prowadzony z trybuny SD Samuels Stand.",
+          "Pod filmem przypomina też o swoim nowym kanale KSIplus."
+        ],
+        "sources": [
+          {
+            "name": "KSI / YouTube",
+            "url": "https://www.youtube.com/watch?v=J6SvVQu75w0",
+            "origin": true
+          },
+          {
+            "name": "AOL (BBC)",
+            "url": "https://www.aol.com/articles/ksi-buys-minority-stake-dagenham-173713713.html"
+          },
+          {
+            "name": "City A.M.",
+            "url": "https://www.cityam.com/?p=2450722"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=J6SvVQu75w0",
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/J6SvVQu75w0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/J6SvVQu75w0/hqdefault.jpg",
+          "credit": "KSI / YouTube",
+          "href": "https://www.youtube.com/watch?v=J6SvVQu75w0",
+          "alt": "Miniatura streamu KSI z oglądania meczu Dagenham & Redbridge",
+          "caption": "Miniatura streamu „KSI IRL | Honest Q&A and Football Watchalong” na kanale KSI."
+        },
+        "caption": {
+          "credit": "KSI / YouTube",
+          "text": "Zapis streamu, na którym KSI oglądał mecz Dagenham & Redbridge z Tonbridge i odpowiadał na pytania widzów. To część jego planu pokazywania meczów klubu na YouTube."
+        },
+        "ig": [
+          "ksi"
+        ],
+        "insta": {
+          "tytul": "KSI streamuje mecze swojego klubu piłkarskiego na YouTube",
+          "opis": "Ma udziały w Dagenham & Redbridge z szóstej ligi angielskiej. Kolejny stream z trybun zapowiedział na 8 grudnia ⚽"
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
         "who": "IShowSpeed",
         "initials": "IS",
         "category": "Gaming",
@@ -374,6 +611,252 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Japonia",
+        "initials": "JP",
+        "category": "Sport",
+        "hype": 4,
+        "title": "Japoński maratończyk ukończył olimpijski maraton po 54 latach. To rekord Guinnessa",
+        "summary": "Shizo Kanakuri zszedł z trasy maratonu na igrzyskach w Sztokholmie w 1912 r., nikomu o tym nie mówiąc. W 1967 r. szwedzka telewizja pozwoliła mu dobiec do mety.",
+        "body": [
+          "Shizo Kanakuri startował w maratonie na igrzyskach olimpijskich w Sztokholmie w 1912 r. W trakcie biegu wycofał się z rywalizacji, nie informując o tym organizatorów, i wrócił do Japonii.",
+          "W 1967 r. szwedzka telewizja SVT dała mu okazję, by dokończyć bieg. Jego czas, 54 lata, 8 miesięcy, 6 dni, 5 godzin, 32 minuty i 20,3 sekundy, to według Księgi Guinnessa najdłuższy maraton w historii. W Japonii Kanakuri jest nazywany ojcem maratonu."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Shizo_Kanakuri"
+          },
+          {
+            "name": "Olympedia",
+            "url": "https://www.olympedia.org/athletes/72486"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Shiso_Kanaguri_1924.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Shiso_Kanaguri_1924.jpg",
+          "credit": "Asahi Shinbun / Wikimedia Commons, domena publiczna",
+          "alt": "Czarno-białe zdjęcie Shizo Kanakuriego w stroju biegacza z 1924 r.",
+          "caption": "Shizo Kanakuri na zdjęciu z 1924 r."
+        },
+        "caption": {
+          "credit": "Asahi Shinbun / Wikimedia Commons",
+          "text": "Kanakuri na zdjęciu z 1924 r., dwanaście lat po tym, jak zszedł z trasy w Sztokholmie. Bieg dokończył dopiero 43 lata później."
+        },
+        "insta": {
+          "tytul": "Ten Japończyk biegł olimpijski maraton przez 54 lata",
+          "opis": "W 1912 r. zszedł z trasy i nikomu nie powiedział. W 1967 r. szwedzka telewizja pozwoliła mu dobiec do mety. Rekord Guinnessa."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Komiks",
+        "initials": "KO",
+        "category": "Kultura",
+        "hype": 3,
+        "title": "Dwa komiksy o Dennisie Rozrabiace wystartowały tego samego dnia, w USA i w Wielkiej Brytanii",
+        "summary": "Amerykański „Dennis the Menace” Hanka Ketchama zadebiutował 12 marca 1951 r. Tego samego dnia w Wielkiej Brytanii ruszył zupełnie inny komiks o tej samej nazwie.",
+        "body": [
+          "Komiks „Dennis the Menace” Hanka Ketchama zadebiutował w amerykańskich gazetach 12 marca 1951 r., na początku w 16 tytułach. Dziś ukazuje się w co najmniej tysiącu gazet w 48 krajach.",
+          "Tego samego dnia w Wielkiej Brytanii wystartował niezależny komiks o tej samej nazwie. Oba powstały bez związku ze sobą."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Dennis_the_Menace_(U.S._comics)"
+          },
+          {
+            "name": "dennisthemenace.com",
+            "url": "http://dennisthemenace.com/history/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Cover_of_Dennis_the_Menace_no.27_-_Wither_Weather%3F.jpg",
+          "credit": "Al Wiseman/Hank Ketcham / Wikimedia Commons, domena publiczna",
+          "alt": "Okładka amerykańskiego zeszytu komiksu Dennis the Menace nr 27",
+          "caption": "Okładka amerykańskiego zeszytu „Dennis the Menace” nr 27."
+        },
+        "caption": {
+          "credit": "Al Wiseman/Hank Ketcham / Wikimedia Commons",
+          "text": "Okładka amerykańskiej wersji komiksu. Brytyjski Dennis to zupełnie inna postać, choć wystartował tego samego dnia."
+        },
+        "insta": {
+          "tytul": "Dwa komiksy o Dennisie Rozrabiace wystartowały tego samego dnia",
+          "opis": "Jeden w USA, drugi w Wielkiej Brytanii, 12 marca 1951 r. Autorzy nie mieli ze sobą nic wspólnego."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Polybius",
+        "initials": "PO",
+        "category": "Gry",
+        "hype": 3,
+        "title": "Krąży legenda o automacie z 1981 r., po którym gracze mieli tracić pamięć i miewać koszmary",
+        "summary": "Polybius to miejska legenda o tajemniczej grze na automatach, która miała pojawić się w salonach w okolicach Portland w 1981 r. Nie ma dowodów, że istniała.",
+        "body": [
+          "Według legendy gra Polybius pojawiła się w salonach gier w okolicach Portland w Oregonie w 1981 r. Miała być abstrakcyjna i niebezpieczna: gracze mieli potem cierpieć na utratę pamięci, nocne koszmary i halucynacje.",
+          "Wikipedia opisuje Polybiusa jako miejską legendę, a serwisy kolekcjonerów automatów jako grę, która rzekomo doprowadzała graczy do szaleństwa."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Polybius_(urban_legend)"
+          },
+          {
+            "name": "coinop.org",
+            "url": "http://www.coinop.org/Game/103223/Polybius"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Polybius%2C_coinop.org.jpeg",
+          "href": "https://commons.wikimedia.org/wiki/File:Polybius,_coinop.org.jpeg",
+          "credit": "Minimalist / Wikimedia Commons, domena publiczna",
+          "alt": "Grafika automatu do gier z napisem Polybius",
+          "caption": "Grafika automatu Polybius z serwisu coinop.org."
+        },
+        "caption": {
+          "credit": "Minimalist / Wikimedia Commons",
+          "text": "Tak wygląda automat Polybius na grafice krążącej w sieci. Istnienia samej gry nigdy nie udowodniono."
+        },
+        "insta": {
+          "tytul": "Polybius: automat, po którym gracze mieli tracić pamięć",
+          "opis": "Miejska legenda z Portland z 1981 r. Nikt nigdy nie udowodnił, że ta gra w ogóle istniała."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Wielka Stopa",
+        "initials": "WS",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Najsłynniejsze nagranie Wielkiej Stopy powstało w 1967 r. i do dziś nikt go nie wyjaśnił",
+        "summary": "Roger Patterson i Robert Gimlin nakręcili w północnej Kalifornii krótki film z postacią, którą uznali za Wielką Stopę. Od prawie 60 lat ludzie próbują go potwierdzić albo obalić.",
+        "body": [
+          "Film Pattersona i Gimlina nakręcono w 1967 r. nad dopływem rzeki Klamath w północnej Kalifornii, na terenie lasu państwowego Six Rivers. Widać na nim owłosioną postać idącą na dwóch nogach.",
+          "Autorzy twierdzili, że to Wielka Stopa. Nagranie było wielokrotnie analizowane i do dziś są zarówno próby jego potwierdzenia, jak i obalenia."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film"
+          },
+          {
+            "name": "The Australian (archiwum)",
+            "url": "https://web.archive.org/web/20120527102922/http://www.theaustralian.com.au/news/world/dna-to-test-bigfoot-mystery/story-e6frg6so-1226365397311"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Patterson_Gimlin_Bigfoot.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Patterson_Gimlin_Bigfoot.jpg",
+          "credit": "Roger Patterson and Robert Gimlin / Wikimedia Commons, domena publiczna",
+          "alt": "Kadr z filmu Pattersona i Gimlina z idącą owłosioną postacią",
+          "caption": "Kadr z filmu Pattersona i Gimlina z 1967 r."
+        },
+        "caption": {
+          "credit": "Roger Patterson and Robert Gimlin / Wikimedia Commons",
+          "text": "Najbardziej znany kadr z filmu z 1967 r. Postać odwraca się w stronę kamery w trakcie marszu."
+        },
+        "insta": {
+          "tytul": "To najsłynniejsze nagranie Wielkiej Stopy. Ma prawie 60 lat",
+          "opis": "Nakręcili je w 1967 r. w Kalifornii Patterson i Gimlin. Do dziś jedni próbują je potwierdzić, a drudzy obalić."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Andora",
+        "initials": "AN",
+        "category": "Historia",
+        "hype": 3,
+        "title": "W latach 30. awanturnik ogłosił się królem Andory jako Borys I",
+        "summary": "Borys Skossyrew, urodzony na Litwie w rodzinie z Białorusi, próbował przejąć władzę w Andorze. Tytułował się królem Borysem I.",
+        "body": [
+          "Borys Skossyrew (1896–1989) urodził się na Litwie w rodzinie drobnej szlachty z Białorusi. Po rewolucji 1917 r. trafił do Anglii, służył w brytyjskiej armii, a potem prowadził życie awanturnika i oszusta.",
+          "Na początku lat 30. próbował przejąć władzę w Księstwie Andory i tytułował się królem Borysem I."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Boris_Skossyreff"
+          },
+          {
+            "name": "History Files",
+            "url": "https://www.historyfiles.co.uk/FeaturesEurope/EasternRussia_Skossyreff01.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Boris_I_Andorra_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Boris_I_Andorra_(cropped).jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Czarno-białe zdjęcie portretowe Borysa Skossyrewa",
+          "caption": "Borys Skossyrew, samozwańczy Borys I, król Andory."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Portret Skossyrewa, który w latach 30. chciał zostać królem Andory i podpisywał się jako Borys I."
+        },
+        "insta": {
+          "tytul": "Ten facet ogłosił się królem Andory",
+          "opis": "Borys Skossyrew w latach 30. próbował przejąć władzę w księstwie i nazywał się Borysem I. Wcześniej był m.in. oszustem i awanturnikiem."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "USA",
+        "initials": "US",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "Kaczka była sierżantem piechoty morskiej USA i dostała pochwałę za odwagę",
+        "summary": "Sierżant Siwash, domowa kaczka, służyła w Korpusie Piechoty Morskiej USA podczas II wojny światowej. Za postawę w bitwie o Tarawę dostała pochwałę za odwagę.",
+        "body": [
+          "Siwash była kaczką należącą do marine Francisa Fagana. Trafiła z oddziałem na Pacyfik i dostała stopień sierżanta.",
+          "Za zachowanie w bitwie o Tarawę w 1943 r. otrzymała pochwałę za odwagę. Według relacji lubiła piwo i zaatakowała japońskiego koguta. Zmarła w 1954 r."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Sergeant_Siwash"
+          },
+          {
+            "name": "Marine Corps Times",
+            "url": "https://www.marinecorpstimes.com/news/2022/11/23/the-marine-who-was-a-duck-yes-an-actual-duck/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sergeant_Siwash.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Sergeant_Siwash.png",
+          "credit": "United States Marine Corps / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalne zdjęcie kaczki sierżant Siwash",
+          "caption": "Sierżant Siwash na archiwalnym zdjęciu Korpusu Piechoty Morskiej USA."
+        },
+        "caption": {
+          "credit": "United States Marine Corps / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie kaczki Siwash z piechoty morskiej. Zrobił je sam Korpus."
+        },
+        "insta": {
+          "tytul": "Ta kaczka była sierżantem w amerykańskiej piechocie morskiej",
+          "opis": "Siwash dostała pochwałę za odwagę w bitwie o Tarawę. Podobno lubiła piwo 🦆"
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-25",

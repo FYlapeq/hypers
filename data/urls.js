@@ -2,6 +2,11 @@
 window.HYPERS_URLS = {
  "2026-11-25": {
   "luz": [
+   "artykuly/2026-11-25/sensor-tower-gta-6-moglo-sprzedac-sie-w-ok-47-mln-kopii-w-cztery-dni.html",
+   "artykuly/2026-11-25/young-multi-wrzucil-dwa-odcinki-gta-6-jednego-dnia-w-drugim-porwala.html",
+   "artykuly/2026-11-25/jynxzi-ma-za-soba-piaty-dzien-z-gta-6-zapis-streamu-trwa-ponad-szesc.html",
+   "artykuly/2026-11-25/s1mple-z-bc-game-przegral-dwa-pierwsze-mecze-na-majorze-w-singapurze.html",
+   "artykuly/2026-11-25/ksi-pokazal-na-youtube-mecz-swojego-klubu-dagenham-redbridge-kolejny.html",
    "artykuly/2026-11-25/ishowspeed-i-kai-cenat-scigali-sie-kto-pierwszy-zarobi-milion-dolarow.html",
    "artykuly/2026-11-25/gameranx-pokazal-10-ukrytych-miejsc-w-gta-6-ktore-latwo-przegapic.html",
    "artykuly/2026-11-25/hubson-rusza-z-pogromcami-mitow-w-gta-6-sprawdza-teorie-wysylane.html",
@@ -12,6 +17,12 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-25/ruszyl-cs2-major-w-singapurze-polscy-streamerzy-komentuja-go-na-zywo.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-25/japonski-maratonczyk-ukonczyl-olimpijski-maraton-po-54-latach.html",
+   "artykuly/2026-11-25/dwa-komiksy-o-dennisie-rozrabiace-wystartowaly-tego-samego-dnia-w-usa.html",
+   "artykuly/2026-11-25/krazy-legenda-o-automacie-z-1981-r-po-ktorym-gracze-mieli-tracic.html",
+   "artykuly/2026-11-25/najslynniejsze-nagranie-wielkiej-stopy-powstalo-w-1967-r-i-do-dzis.html",
+   "artykuly/2026-11-25/w-latach-30-awanturnik-oglosil-sie-krolem-andory-jako-borys-i.html",
+   "artykuly/2026-11-25/kaczka-byla-sierzantem-piechoty-morskiej-usa-i-dostala-pochwale.html",
    "artykuly/2026-11-25/w-nowym-meksyku-senat-przyjal-poprawke-by-biegli-psychiatrzy.html",
    "artykuly/2026-11-25/w-anglii-ludzie-co-roku-rzucaja-sie-w-dol-stromego-wzgorza-w-pogoni.html",
    "artykuly/2026-11-25/iranczyk-mieszkal-na-lotnisku-pod-paryzem-przez-prawie-18-lat.html",
