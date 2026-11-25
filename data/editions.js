@@ -1,5 +1,627 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-25": {
+    "date": "2026-11-25",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "IShowSpeed",
+        "initials": "IS",
+        "category": "Gaming",
+        "hype": 5,
+        "title": "IShowSpeed i Kai Cenat ścigali się, kto pierwszy zarobi milion dolarów w GTA 6",
+        "summary": "IShowSpeed i Kai Cenat zrobili w GTA 6 wyścig do pierwszego miliona dolarów. Zapis streamu Speeda trwa prawie pięć godzin i w kilka godzin przekroczył 5 mln wyświetleń (odczyt 25.11, ok. 6:20).",
+        "body": [
+          "IShowSpeed wrzucił na YouTube zapis streamu „First to make $1 million in GTA 6 wins! ft. Kai Cenat”. Zasada była prosta: wygrywa ten, kto pierwszy uzbiera w grze milion dolarów.",
+          "Kai Cenat nagrywał to samo wyzwanie po swojej stronie, a jego zapis na kanale Kai Cenat Live ma blisko 1,5 mln wyświetleń. Swoją wersję wrzucił też drugi kanał Speeda, Live Speedy.",
+          "Stream Speeda trwa ok. 4 godzin 50 minut i do rana 25.11 zebrał ponad 5,2 mln wyświetleń i ok. 61 tys. polubień. W komentarzach widzowie najczęściej piszą o wielkim powrocie Speeda w końcówce wyścigu."
+        ],
+        "sources": [
+          {
+            "name": "IShowSpeed / YouTube",
+            "url": "https://www.youtube.com/watch?v=91c96JtcIFg",
+            "origin": true
+          },
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/watch?v=kEgS7FQqfRM"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=91c96JtcIFg",
+        "caption": {
+          "credit": "IShowSpeed / YouTube",
+          "text": "Kadr z zapisu streamu IShowSpeeda z GTA 6. To ten materiał, w którym Speed i Kai Cenat ścigają się do pierwszego miliona w grze."
+        },
+        "insta": {
+          "tytul": "Speed i Kai Cenat ścigali się, kto pierwszy zarobi milion w GTA 6",
+          "opis": "Prawie 5 godzin streamu i ponad 5 mln wyświetleń w kilka godzin. Widzowie piszą, że Speed odrobił straty w końcówce 💰"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/91c96JtcIFg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/91c96JtcIFg/hqdefault.jpg",
+          "credit": "IShowSpeed / YouTube",
+          "href": "https://www.youtube.com/watch?v=91c96JtcIFg",
+          "alt": "Kadr z miniatury streamu IShowSpeeda z GTA 6",
+          "caption": "Kadr z zapisu streamu IShowSpeeda z GTA 6."
+        },
+        "ig": [
+          "ishowspeed",
+          "kaicenat"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "gameranx",
+        "initials": "GA",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "Gameranx pokazał 10 ukrytych miejsc w GTA 6, które łatwo przegapić",
+        "summary": "Gameranx wrzucił listę dziesięciu sekretnych lokacji w GTA 6. Film ma ponad 320 tys. wyświetleń (odczyt 25.11, ok. 6:20).",
+        "body": [
+          "Kanał gameranx opublikował film „GTA 6: 10 Secret Locations You NEED TO VISIT”. W opisie twórcy piszą, że w grze jest mnóstwo sekretów w miejscach, które łatwo minąć.",
+          "Materiał trwa niecałe 24 minuty i jest podzielony na ranking od miejsca 10 do 1.",
+          "Do rana 25.11 film zebrał ponad 320 tys. wyświetleń. Widzowie w komentarzach dorzucają własne znaleziska i radzą, żeby zwiedzać mapę wolniej, np. rowerem, bo wtedy widać więcej szczegółów."
+        ],
+        "sources": [
+          {
+            "name": "gameranx / YouTube",
+            "url": "https://www.youtube.com/watch?v=as4GFUWe9cs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=as4GFUWe9cs",
+        "caption": {
+          "credit": "gameranx / YouTube",
+          "text": "Miniatura filmu gameranx o sekretnych miejscach w GTA 6. Film to ranking dziesięciu lokacji, które łatwo pominąć."
+        },
+        "insta": {
+          "tytul": "10 ukrytych miejsc w GTA 6, które łatwo przegapić",
+          "opis": "Gameranx zrobił z tego cały ranking. Widzowie w komentarzach dorzucają swoje znaleziska."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/as4GFUWe9cs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/as4GFUWe9cs/hqdefault.jpg",
+          "credit": "gameranx / YouTube",
+          "href": "https://www.youtube.com/watch?v=as4GFUWe9cs",
+          "alt": "Miniatura filmu gameranx o ukrytych miejscach w GTA 6",
+          "caption": "Miniatura filmu gameranx o sekretnych miejscach w GTA 6."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "HUBSON GAMES",
+        "initials": "HG",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Hubson rusza z „Pogromcami mitów” w GTA 6. Sprawdza teorie wysyłane przez widzów",
+        "summary": "Hubson zaczął nową serię, w której testuje w GTA 6 mity podsyłane przez widzów. Pierwszy odcinek ma ponad 50 tys. wyświetleń (odczyt 25.11, ok. 6:20).",
+        "body": [
+          "HUBSON GAMES wrzucił pierwszy odcinek serii „Pogromcy mitów GTA 6” pod tytułem „Możliwości tej gry są nieograniczone”.",
+          "Format polega na sprawdzaniu w grze teorii, które widzowie piszą w komentarzach. Pod filmem już pojawiają się kolejne propozycje do następnych odcinków.",
+          "Odcinek trwa ok. 26 minut i do rana 25.11 zebrał ponad 54 tys. wyświetleń. Podobną serię z GTA 6 prowadzi też Kaluch, który dzień wcześniej wrzucił jej drugi odcinek."
+        ],
+        "sources": [
+          {
+            "name": "HUBSON GAMES / YouTube",
+            "url": "https://www.youtube.com/watch?v=8y9Vf6onkws",
+            "origin": true
+          },
+          {
+            "name": "Kaluch / YouTube",
+            "url": "https://www.youtube.com/watch?v=jKU4jj3sRWo"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=8y9Vf6onkws",
+        "caption": {
+          "credit": "HUBSON GAMES / YouTube",
+          "text": "Miniatura pierwszego odcinka „Pogromców mitów GTA 6” u Hubsona. W tym filmie sprawdza mity podesłane przez widzów."
+        },
+        "insta": {
+          "tytul": "Hubson sprawdza w GTA 6 mity wysłane przez widzów",
+          "opis": "Nowa seria wystartowała i w komentarzach już leci lista teorii do kolejnych odcinków."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/8y9Vf6onkws/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/8y9Vf6onkws/hqdefault.jpg",
+          "credit": "HUBSON GAMES / YouTube",
+          "href": "https://www.youtube.com/watch?v=8y9Vf6onkws",
+          "alt": "Miniatura odcinka Pogromcy mitów GTA 6 Hubsona",
+          "caption": "Miniatura pierwszego odcinka „Pogromców mitów GTA 6” u Hubsona."
+        },
+        "ig": [
+          "hubson_games"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "steak",
+        "initials": "ST",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "YouTube zaprosił steaka do „Vice City w prawdziwym życiu”",
+        "summary": "Steak wrzucił short z wydarzenia, na które zaprosił go YouTube. Mógł zobaczyć na żywo rzeczy związane z GTA, m.in. auta.",
+        "body": [
+          "Twórca steak opublikował short „YouTube invited me to VICE CITY!!” oznaczony jako #YoutubePartner, czyli materiał we współpracy z YouTube.",
+          "W opisie pisze, że YouTube zaprosił go, żeby zwiedził Vice City i zobaczył w prawdziwym życiu rzeczy związane z GTA. W komentarzach widzowie zwracają uwagę głównie na samochody i radiowóz.",
+          "Short trwa 32 sekundy i rano 25.11 miał ok. 39 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "steak / YouTube",
+            "url": "https://www.youtube.com/shorts/6KdhC_bN580",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/6KdhC_bN580",
+        "caption": {
+          "credit": "steak / YouTube",
+          "text": "Miniatura shorta steaka z wydarzenia YouTube w klimacie Vice City. Film powstał we współpracy z YouTube, co twórca zaznaczył w tytule."
+        },
+        "insta": {
+          "tytul": "YouTube zabrał steaka do „Vice City w prawdziwym życiu”",
+          "opis": "Krótki film z wydarzenia w klimacie GTA, widzowie najbardziej jarają się autami."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/6KdhC_bN580/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/6KdhC_bN580/hqdefault.jpg",
+          "credit": "steak / YouTube",
+          "href": "https://www.youtube.com/watch?v=6KdhC_bN580",
+          "alt": "Miniatura shorta steaka o wydarzeniu w klimacie Vice City",
+          "caption": "Miniatura shorta steaka z wydarzenia YouTube w klimacie Vice City."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Kai Cenat oniemiał przy jednym z zakończeń GTA 6",
+        "summary": "Na kanale Kai Cenat Live pojawił się krótki fragment jego reakcji na finał GTA 6. Ma ponad 270 tys. wyświetleń (odczyt 25.11, ok. 6:20).",
+        "body": [
+          "Short „Kai Cenat Was Left Speechless After Watching This GTA VI Ending” to wycinek ze streamu, na którym Kai Cenat oglądał zakończenie gry.",
+          "Według tytułu zakończenie odebrało mu mowę. Widzowie w komentarzach zwracają uwagę, że zasłonił usta obiema rękami, i dyskutują o tym, że gra ma kilka wersji finału.",
+          "Kai Cenat przeszedł fabułę GTA 6 kilka dni po premierze i od tego czasu gra głównie w trybie swobodnym. Uwaga dla nieznających fabuły: film zawiera spoilery."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/shorts/eI3Ti2oXN7s",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/eI3Ti2oXN7s",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Miniatura shorta z reakcją Kaia Cenata na zakończenie GTA 6. To fragment jego streamu z finałem gry, więc zawiera spoilery."
+        },
+        "insta": {
+          "tytul": "Kai Cenat zaniemówił przy zakończeniu GTA 6",
+          "opis": "Krótki wycinek ze streamu, ponad 270 tys. wyświetleń. Uwaga, spoilery."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/eI3Ti2oXN7s/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/eI3Ti2oXN7s/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/watch?v=eI3Ti2oXN7s",
+          "alt": "Miniatura shorta z reakcją Kaia Cenata",
+          "caption": "Miniatura shorta z reakcją Kaia Cenata na zakończenie GTA 6."
+        },
+        "ig": [
+          "kaicenat"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "ReZigiusz",
+        "initials": "RE",
+        "category": "Twórcy",
+        "hype": 4,
+        "title": "ReZigiusz wrzucił ostatni vlog na głównym kanale. Vlogi przenosi na osobny kanał",
+        "summary": "ReZigiusz ogłosił koniec vlogów na swoim głównym kanale. Ostatni ma ponad 270 tys. wyświetleń, a kolejne będą na kanale reZigiuszVlog.",
+        "body": [
+          "W opisie nowego filmu ReZigiusz napisał, że to ostatni vlog na tym kanale i „koniec pewnej ery”. Dodał, że od teraz vlogów tam nie będzie.",
+          "Vlogi nie znikają całkiem: twórca pisze, że ta era będzie miała kontynuację na kanale @reZigiuszVlog, i zachęca do subskrypcji w przypiętym komentarzu. Ma też osobne kanały z grami i z reakcjami.",
+          "W pożegnalnym odcinku są według tytułu enduro, nowe auto RS7, mrówki i babcia, czyli motywy znane widzom z jego dawnych vlogów. Film do rana 25.11 zebrał ponad 275 tys. wyświetleń.",
+          "Widzowie w komentarzach cieszą się z powrotu starych motywów, choć część żałuje, że vlogi zejdą z głównego kanału."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/watch?v=KXGmcxo8L2U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=KXGmcxo8L2U",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Miniatura ostatniego vloga na głównym kanale ReZigiusza. W opisie tego filmu twórca ogłosił przeniesienie vlogów na osobny kanał."
+        },
+        "insta": {
+          "tytul": "ReZigiusz kończy vlogi na głównym kanale",
+          "opis": "Wrzucił ostatni, z enduro, mrówkami i babcią. Kolejne będą już na osobnym kanale reZigiuszVlog."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/KXGmcxo8L2U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/KXGmcxo8L2U/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/watch?v=KXGmcxo8L2U",
+          "alt": "Miniatura ostatniego vloga ReZigiusza",
+          "caption": "Miniatura ostatniego vloga na głównym kanale ReZigiusza."
+        },
+        "ig": [
+          "rezigiusz"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "GothamChess",
+        "initials": "GO",
+        "category": "Szachy",
+        "hype": 3,
+        "title": "GothamChess omówił pierwszą partię meczu o mistrzostwo świata w szachach Gukesh – Sindarow",
+        "summary": "GothamChess wrzucił omówienie pierwszej partii meczu o mistrzostwo świata 2026. Film ma blisko 700 tys. wyświetleń (odczyt 25.11, ok. 6:20).",
+        "body": [
+          "Levy Rozman, czyli GothamChess, opublikował film „World Chess Championship 2026 Game 1 Recap”. Omawia w nim pierwszą partię meczu o tytuł mistrza świata.",
+          "W meczu broniący tytułu Gukesh Dommaraju gra z pretendentem Jawochirem Sindarowem z Uzbekistanu.",
+          "Film trwa ok. 22 minut i do rana 25.11 zebrał prawie 700 tys. wyświetleń. Widzowie w komentarzach najczęściej chwalą obronę Gukesha w tej partii."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=s3P7MPFDwnU",
+            "origin": true
+          },
+          {
+            "name": "UzDaily",
+            "url": "https://www.uzdaily.uz/en/special-projects/sindarov-gukesh-2026/"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=s3P7MPFDwnU",
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura omówienia pierwszej partii meczu o mistrzostwo świata u GothamChess. W filmie Levy Rozman analizuje partię Gukesha z Sindarowem."
+        },
+        "insta": {
+          "tytul": "GothamChess rozebrał pierwszą partię meczu o mistrzostwo świata w szachach",
+          "opis": "Gukesh broni tytułu przeciw Sindarowowi. Widzowie w komentarzach zachwycają się jego obroną."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/s3P7MPFDwnU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/s3P7MPFDwnU/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=s3P7MPFDwnU",
+          "alt": "Miniatura filmu GothamChess o meczu o mistrzostwo świata",
+          "caption": "Miniatura omówienia pierwszej partii meczu o mistrzostwo świata u GothamChess."
+        },
+        "ig": [
+          "gothamchess"
+        ],
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "Officialhyper",
+        "initials": "OF",
+        "category": "Esport",
+        "hype": 3,
+        "title": "Ruszył CS2 Major w Singapurze. Polscy streamerzy komentują go na żywo",
+        "summary": "Wystartował PGL Major Singapore 2026 w CS2. Officialhyper chwali formę xKacpersky’ego w meczu NiP z M80, a izak prowadzi polskie transmisje turnieju.",
+        "body": [
+          "W Singapurze trwa PGL CS2 Major 2026, najważniejszy typ turnieju w Counter-Strike’u.",
+          "Officialhyper, który streamuje cały major na Twitchu, wrzucił na YouTube omówienie meczu Ninjas in Pyjamas z M80. W tytule wyróżnił Polaka xKacpersky’ego ze składu NiP za świetną formę.",
+          "Na kanale izak LIVE trafiły z kolei pełne polskie transmisje pierwszego dnia, prowadzone równolegle na dwóch strumieniach. Najpopularniejsza ma ponad 160 tys. wyświetleń (odczyt 25.11, ok. 6:20)."
+        ],
+        "sources": [
+          {
+            "name": "Officialhyper / YouTube",
+            "url": "https://www.youtube.com/watch?v=bo_LnZuVUKY",
+            "origin": true
+          },
+          {
+            "name": "izak LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=MGhm4EzvVUM"
+          },
+          {
+            "name": "BLAST.tv",
+            "url": "https://blast.tv/cs/tournaments/pgl-singapore-major-2026/match/a307b935/nip-m80/matchups"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=bo_LnZuVUKY",
+        "caption": {
+          "credit": "Officialhyper / YouTube",
+          "text": "Miniatura filmu Officialhypera o meczu NiP z M80 na majorze w Singapurze. Streamer omawia w nim grę xKacpersky’ego."
+        },
+        "insta": {
+          "tytul": "Ruszył Major CS2 w Singapurze, xKacpersky w formie",
+          "opis": "Hyper chwali Polaka z NiP po meczu z M80, a izak leci z polskimi transmisjami całego turnieju."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bo_LnZuVUKY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bo_LnZuVUKY/hqdefault.jpg",
+          "credit": "Officialhyper / YouTube",
+          "href": "https://www.youtube.com/watch?v=bo_LnZuVUKY",
+          "alt": "Miniatura filmu Officialhypera o meczu NiP – M80",
+          "caption": "Miniatura filmu Officialhypera o meczu NiP z M80 na majorze w Singapurze."
+        },
+        "ig": [
+          "hyperros"
+        ],
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Nowy Meksyk",
+        "initials": "NO",
+        "category": "Prawo",
+        "hype": 3,
+        "title": "W Nowym Meksyku senat przyjął poprawkę, by biegli psychiatrzy zeznawali w sądzie w czapce czarodzieja",
+        "summary": "W 1995 r. senator Duncan Scott zaproponował, żeby psychologowie i psychiatrzy występujący jako biegli nosili w sądzie strój czarodzieja. Senat przyjął to jednogłośnie.",
+        "body": [
+          "Poprawka dotyczyła biegłych oceniających poczytalność oskarżonych. Według pomysłu mieli zeznawać przebrani za czarodziejów, w szacie i spiczastej czapce.",
+          "Senat stanowy przegłosował ją jednogłośnie, ale przed głosowaniem w izbie niższej Scott przyznał, że to satyra wymierzona w nadmiar biegłych w sądach. Poprawkę usunięto i nigdy nie weszła w życie."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Expert_wizard_amendment"
+          },
+          {
+            "name": "uclawreview.org",
+            "url": "https://uclawreview.org/2018/05/25/odd-law-alert-new-mexico-expert-wizard-amendment/"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magic_Wizard%27s_Hat_%28icon%29.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Magic_Wizard%27s_Hat_(icon).png",
+          "credit": "Dustimagic / Wikimedia Commons, domena publiczna",
+          "alt": "Rysunek spiczastej czapki czarodzieja",
+          "caption": "Czapka czarodzieja, czyli element stroju, który poprawka miała nakazać biegłym."
+        },
+        "caption": {
+          "credit": "Dustimagic / Wikimedia Commons",
+          "text": "Czapka czarodzieja, czyli element stroju, który poprawka miała nakazać biegłym."
+        },
+        "insta": {
+          "tytul": "Senat w USA przegłosował, że biegli psychiatrzy mają chodzić do sądu w czapce czarodzieja",
+          "opis": "Nowy Meksyk, 1995. Autor poprawki przyznał potem, że to satyra, więc jej nie uchwalono 🧙"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Tradycje",
+        "hype": 3,
+        "title": "W Anglii ludzie co roku rzucają się w dół stromego wzgórza w pogoni za kręgiem sera",
+        "summary": "Na Cooper’s Hill w hrabstwie Gloucestershire co roku odbywa się wyścig za toczącym się serem. Pierwsza pisemna wzmianka o nim pochodzi z 1836 r.",
+        "body": [
+          "Zawodnicy zbiegają, a częściej spadają, z ok. 180-metrowego zbocza za krążkiem sera Double Gloucester. Zawody odbywają się w wiosenny dzień wolny od pracy.",
+          "Tradycja jest co najmniej z 1836 r., a dziś startują w niej ludzie z wielu krajów. W 2013 r. wyścig wygrał Amerykanin, który przyleciał specjalnie na zawody."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+          },
+          {
+            "name": "theguardian.com",
+            "url": "https://www.TheGuardian.com/uk/2013/may/27/gloucestershire-cheese-rolling-race"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg",
+          "credit": "michael warren from Bristol, UK / Wikimedia Commons, CC BY 2.0",
+          "alt": "Zawodniczki zbiegające po stromym trawiastym zboczu podczas wyścigu za serem",
+          "caption": "Bieg kobiet na Cooper’s Hill w 2006 r., zawodniczki pędzą w dół zbocza za serem."
+        },
+        "caption": {
+          "credit": "michael warren from Bristol, UK / Wikimedia Commons",
+          "text": "Bieg kobiet na Cooper’s Hill w 2006 r., zawodniczki pędzą w dół zbocza za serem."
+        },
+        "insta": {
+          "tytul": "W Anglii co roku ludzie lecą na łeb na szyję ze stromej góry w pogoni za serem",
+          "opis": "Wyścig na Cooper’s Hill ma co najmniej 190 lat. Kto pierwszy na dole, ten wygrywa ser 🧀"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Francja",
+        "initials": "FR",
+        "category": "Ludzie",
+        "hype": 3,
+        "title": "Irańczyk mieszkał na lotnisku pod Paryżem przez prawie 18 lat",
+        "summary": "Mehran Karimi Nasseri żył w hali odlotów Terminalu 1 lotniska Charles’a de Gaulle’a od 1988 do 2006 r. Został, choć w końcu dostał prawo pobytu.",
+        "body": [
+          "Nasseri utknął na lotnisku w 1988 r., bo nie miał ważnych dokumentów podróży. Później dostał prawo pobytu w Belgii i we Francji, ale i tak zdecydował się zostać w terminalu.",
+          "Wyprowadził się w 2006 r., gdy trafił do szpitala. We wrześniu 2022 r. wrócił na lotnisko i zmarł tam dwa miesiące później."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mehran_Karimi_Nasseri"
+          },
+          {
+            "name": "snopes.com",
+            "url": "http://www.snopes.com/travel/airline/airport.asp"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/MKNasseri.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:MKNasseri.jpg",
+          "credit": "Saint Martin / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mężczyzna siedzący przy swoich rzeczach w hali lotniska",
+          "caption": "Mehran Karimi Nasseri w Terminalu 1 lotniska Charles’a de Gaulle’a, gdzie mieszkał przez lata."
+        },
+        "caption": {
+          "credit": "Saint Martin / Wikimedia Commons",
+          "text": "Mehran Karimi Nasseri w Terminalu 1 lotniska Charles’a de Gaulle’a, gdzie mieszkał przez lata."
+        },
+        "insta": {
+          "tytul": "Ten facet mieszkał na paryskim lotnisku prawie 18 lat",
+          "opis": "Utknął tam w 1988 r. bez dokumentów. Potem mógł wyjść, ale wolał zostać w terminalu."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "USA",
+        "initials": "US",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Po misiu Teddy miał przyjść oposik Billy. Pluszak prezydenta Tafta przepadł w kilka miesięcy",
+        "summary": "Gdy w 1909 r. Theodore Roosevelt oddał urząd, producenci zabawek próbowali zastąpić misia Teddy pluszowym oposem nazwanym na cześć nowego prezydenta Williama Tafta.",
+        "body": [
+          "Pluszowy miś wziął nazwę od Roosevelta, więc po zmianie prezydenta wymyślono zabawkę dla jego następcy: oposa Billy’ego, od zdrobnienia imienia Williama Tafta.",
+          "Moda nie wypaliła. Popularność oposa spadała tak szybko, że do świąt Bożego Narodzenia 1909 r. nikt już o nim nie pamiętał."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Billy_Possum"
+          },
+          {
+            "name": "ploddingthroughthepresidents.com",
+            "url": "https://www.ploddingthroughthepresidents.com/2023/05/the-possum-and-taters-feast-that-launched-billy-possum.html"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Billy_Possum_advertisement.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Billy_Possum_advertisement.jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Stara reklama prasowa pluszowego oposa Billy Possum",
+          "caption": "Reklama z 1909 r. zachwalająca pluszowego oposa Billy’ego jako następcę misia Teddy."
+        },
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Reklama z 1909 r. zachwalająca pluszowego oposa Billy’ego jako następcę misia Teddy."
+        },
+        "insta": {
+          "tytul": "Miś Teddy miał dostać następcę: pluszowego oposa prezydenta Tafta",
+          "opis": "Nazywał się Billy Possum i zniknął ze sklepów, zanim minął rok."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Kambodża",
+        "initials": "KA",
+        "category": "Jedzenie",
+        "hype": 3,
+        "title": "W Kambodży smażone pająki to lokalna przekąska, a całe miasteczko słynie z ich sprzedaży",
+        "summary": "W miasteczku Skuon, ok. 75 km od Phnom Penh, smażone pająki sprzedaje się jako specjał, który przyciąga turystów.",
+        "body": [
+          "Pająki hoduje się w norach w wioskach na północ od Skuon albo łowi w pobliskich lasach, a potem smaży w oleju.",
+          "Można je kupić także w innych miejscach Kambodży, np. w stolicy, ale to Skuon jest centrum tej przekąski."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Fried_spider"
+          },
+          {
+            "name": "rhymer.net",
+            "url": "http://www.rhymer.net/cutsE.htm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Skun_spiders_closeup.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Skun_spiders_closeup.jpg",
+          "credit": "A. www.viajar24h.com / Wikimedia Commons, CC BY 2.0",
+          "alt": "Stos smażonych pająków na tacy na straganie",
+          "caption": "Smażone pająki na straganie w Skuon, tak jak sprzedaje się je turystom."
+        },
+        "caption": {
+          "credit": "A. www.viajar24h.com / Wikimedia Commons",
+          "text": "Smażone pająki na straganie w Skuon, tak jak sprzedaje się je turystom."
+        },
+        "insta": {
+          "tytul": "W Kambodży na przekąskę jest smażony pająk",
+          "opis": "Miasteczko Skuon zrobiło z tego swoją specjalność, turyści przyjeżdżają specjalnie, żeby spróbować 🕷️"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Francja",
+        "initials": "FR",
+        "category": "Historia",
+        "hype": 3,
+        "title": "Armia USA wydała dla żołnierzy poradnik, jak dogadać się z Francuzami. Odpowiadał na 112 skarg",
+        "summary": "W 1945 r. amerykańskie wojsko dało żołnierzom we Francji broszurę „112 Gripes About the French”, czyli „112 narzekań na Francuzów”.",
+        "body": [
+          "Po wyzwoleniu Francji między amerykańskimi żołnierzami a miejscowymi rosło napięcie. Poradnik miał je rozładować.",
+          "Broszura zbierała typowe narzekania żołnierzy na Francuzów i na każde odpowiadała wyjaśnieniem."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/112_Gripes_About_the_French"
+          },
+          {
+            "name": "news.bbc.co.uk",
+            "url": "http://news.bbc.co.uk/1/hi/world/europe/3087785.stm"
+          }
+        ],
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/112gripes.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:112gripes.jpg",
+          "credit": "Information & Education Division, US Occupation Forces / Wikimedia Commons, domena publiczna",
+          "alt": "Okładka broszury 112 Gripes About the French",
+          "caption": "Okładka poradnika z 1945 r. wydanego żołnierzom USA we Francji."
+        },
+        "caption": {
+          "credit": "Information & Education Division, US Occupation Forces / Wikimedia Commons",
+          "text": "Okładka poradnika z 1945 r. wydanego żołnierzom USA we Francji."
+        },
+        "insta": {
+          "tytul": "Armia USA wydała żołnierzom poradnik ze 112 narzekaniami na Francuzów",
+          "opis": "I odpowiedziami na każde. Rok 1945, chodziło o to, żeby przestali się kłócić z miejscowymi."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-24": {
     "date": "2026-11-24",
     "ryby": [],

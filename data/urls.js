@@ -1,5 +1,25 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-25": {
+  "luz": [
+   "artykuly/2026-11-25/ishowspeed-i-kai-cenat-scigali-sie-kto-pierwszy-zarobi-milion-dolarow.html",
+   "artykuly/2026-11-25/gameranx-pokazal-10-ukrytych-miejsc-w-gta-6-ktore-latwo-przegapic.html",
+   "artykuly/2026-11-25/hubson-rusza-z-pogromcami-mitow-w-gta-6-sprawdza-teorie-wysylane.html",
+   "artykuly/2026-11-25/youtube-zaprosil-steaka-do-vice-city-w-prawdziwym-zyciu.html",
+   "artykuly/2026-11-25/kai-cenat-oniemial-przy-jednym-z-zakonczen-gta-6.html",
+   "artykuly/2026-11-25/rezigiusz-wrzucil-ostatni-vlog-na-glownym-kanale-vlogi-przenosi.html",
+   "artykuly/2026-11-25/gothamchess-omowil-pierwsza-partie-meczu-o-mistrzostwo-swiata.html",
+   "artykuly/2026-11-25/ruszyl-cs2-major-w-singapurze-polscy-streamerzy-komentuja-go-na-zywo.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-25/w-nowym-meksyku-senat-przyjal-poprawke-by-biegli-psychiatrzy.html",
+   "artykuly/2026-11-25/w-anglii-ludzie-co-roku-rzucaja-sie-w-dol-stromego-wzgorza-w-pogoni.html",
+   "artykuly/2026-11-25/iranczyk-mieszkal-na-lotnisku-pod-paryzem-przez-prawie-18-lat.html",
+   "artykuly/2026-11-25/po-misiu-teddy-mial-przyjsc-oposik-billy-pluszak-prezydenta-tafta.html",
+   "artykuly/2026-11-25/w-kambodzy-smazone-pajaki-to-lokalna-przekaska-a-cale-miasteczko.html",
+   "artykuly/2026-11-25/armia-usa-wydala-dla-zolnierzy-poradnik-jak-dogadac-sie-z-francuzami.html"
+  ]
+ },
  "2026-11-24": {
   "luz": [
    "artykuly/2026-11-24/sony-gta-6-to-najwieksza-premiera-w-historii-playstation-na-ps5.html",
