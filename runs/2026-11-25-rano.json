@@ -1,0 +1,2049 @@
+{
+ "run": {
+  "date": "2026-11-25",
+  "slot": "rano",
+  "generated_at": "2026-11-25T05:16:22.604Z",
+  "candidates": 98,
+  "with_free_image": 35,
+  "ready": 21
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Szablon:Czy wiesz": "ok 5",
+  "wiki-en:Wikipedia:Recent additions": "ok 315",
+  "rss:Mental Floss": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 8",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4260",
+  "drugie-zrodlo": "ok 21/33"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto wymyślił prawo do prywatności?",
+   "article": {
+    "title": "Louis Brandeis",
+    "url": "https://pl.wikipedia.org/wiki/Louis_Brandeis",
+    "extract": "Louis David Brandeis, Louis Dembitz Brandeis (ur. 13 listopada 1856 w Louisville, zm. 5 października 1941 w Waszyngtonie) – amerykański prawnik, działacz społeczny i syjonistyczny, w latach 1916–1939 sędzia Sądu Najwyższego Stanów Zjednoczonych. \nBył aktywnym uczestnikiem ruchu progresywistycznego i doradcą kilku prezydentów."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Brandeisl.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kto był ostatnim przewodniczącym łódzkiego Judenratu?",
+   "article": {
+    "title": "Michał Eliasberg",
+    "url": "https://pl.wikipedia.org/wiki/Micha%C5%82_Eliasberg",
+    "extract": "Michał Eliasberg (ur. 1 kwietnia 1891 w Jakobstad lub w Jēkabpils, zm. 12 października 1973 w Łodzi) – polski lekarz pochodzenia żydowskiego, ostatni Przełożony Starszeństwa Żydów w Łodzi podczas II wojny światowej."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Łódź ghetto operation.jpg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że w 2026 roku opublikowano nowy system klasyfikacyjny roślin okrytonasiennych?",
+   "article": {
+    "title": "System APG V",
+    "url": "https://pl.wikipedia.org/wiki/System_APG_V",
+    "extract": "System APG V – system klasyfikacyjny roślin okrytonasiennych opublikowany w roku 2026, stanowiący aktualizację wcześniejszych (APG I z 1998, APG II z 2003, APG III z 2009 i APG IV z 2016). Nazwa systemu to skrót Angiosperm Phylogeny Group – grupy taksonomów współpracujących w celu ustalenia klasyfikacji okrytonasiennych w drodze konsensusu naukowego. U podstaw systemu leży dążenie do klasyfikowania taksonów z zasady monofiletycznych oraz minimalizowane zmian dla zachowania stabilności klasyfikacji. Wcześniejsze wersje systemu bazowały na molekularnych badaniach filogenetycznych obejmujących DNA plastydowe, natomiast tym razem uwzględniono także analizy genomu jądrowego."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który znany wiersz Juliana Tuwima dla dzieci jest oparty na rosyjskiej bajce ludowej?",
+   "article": {
+    "title": "Rzepka (bajka)",
+    "url": "https://pl.wikipedia.org/wiki/Rzepka_(bajka)",
+    "extract": "Rzepka – rosyjska bajka ludowa o próbie wyrwania z ziemi ogromnej rzepy przez kolejno dołączające do siebie postacie. Opowieść ma strukturę bajki łańcuszkowej.\nW Polsce jest znana przede wszystkim dzięki wierszowanej adaptacji Juliana Tuwima, opublikowanej w 1938 roku."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:1920. Советская репка.jpg)"
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak wyleczyć chorobę hanahaki?",
+   "article": {
+    "title": "Choroba hanahaki",
+    "url": "https://pl.wikipedia.org/wiki/Choroba_hanahaki",
+    "extract": "Choroba hanahaki (jap. 花吐き病, transkrypcja Hepburna: Hanahaki-byō; tłum. choroba kwiecistych wymiotów) – fikcyjna choroba charakteryzująca się rośnięciem kwiatów w ciele w wyniku nieodwzajemnionej miłości. Motyw ten wywodzi się z mangi shōjo i stał się powracającym schematem w twórczości, takiej jak fan fiction, sztuce wizualnej, poezji i cosplayu."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Hanahaki_Disease_by_G-_Raccoon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanahaki_Disease_by_G-_Raccoon.png",
+    "file": "File:Hanahaki Disease by G- Raccoon.png",
+    "artist": "G- Raccoon",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 809,
+    "height": 973,
+    "ok": true
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że U-227 został zatopiony w dziewiczym rejsie na północ od Wysp Owczych przez australijski bombowiec?",
+   "article": {
+    "title": "U-227",
+    "url": "https://pl.wikipedia.org/wiki/U-227",
+    "extract": "U-227 – niemiecki okręt podwodny typu VIIC z okresu II wojny światowej.\nWyporność U-Boota wynosiła 769 ton w położeniu nawodnym i 871 ton pod wodą, a jego główną bronią było 14 torped o kalibrze 533 mm, wystrzeliwanych z pięciu wewnętrznych wyrzutni. Jednostka rozwijała na powierzchni prędkość maksymalną 17,7 węzła, jej zasięg przy prędkości 10 węzłów wynosił 8500 Mm.\nOkręt został zwodowany 9 lipca 1942 roku w stoczni Friedrich Krupp Germaniawerft w Kilonii, a 22 sierpnia 1942 roku wszedł do służby w Kriegsmarine."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Niemiecki okręt podwodny U-203 (U-Boot typu VII) na Atlantyku (2-2546).jpg)"
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy premierę miała historia mojego wujka?",
+   "article": {
+    "title": "A Story About My Uncle",
+    "url": "https://pl.wikipedia.org/wiki/A_Story_About_My_Uncle",
+    "extract": "A Story About My Uncle – komputerowa gra platformowa wyprodukowana przez szwedzkie studio Gone North Games i wydana przez Coffee Stain Studios. Gracz steruje postacią chłopca, który porusza się za pomocą rękawicy z linką chwytającą. Wersja na system Windows ukazała się w 2014 roku, a wersja na systemy macOS i Linux trzy lata później."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak nazywa się czeska antropomorficzna mrówka?",
+   "article": {
+    "title": "Mrówka Ferda",
+    "url": "https://pl.wikipedia.org/wiki/Mr%C3%B3wka_Ferda",
+    "extract": "Mrówka Ferda, także Mrówka Ferdek oraz Mrówka Ferdynand (cz. Ferda Mravenec) – fikcyjna postać literacka i komiksowa, antropomorficzna mrówka stworzona przez czeskiego pisarza, ilustratora i rysownika Ondřeja Sekorę. Postać po raz pierwszy pojawiła się w 1933 roku na łamach „Lidových novin”, w cyklu obrazkowym przeznaczonym początkowo dla dorosłych czytelników. Ferda nosi charakterystyczną czerwoną chustkę w czarne kropki i jest przedstawiany jako niezwykle zaradny bohater wykonujący „prace wszelkiego rodzaju”."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 3.0 (File:Libovice, část dětského hřiště.JPG)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Reagan Wilson: A Playboy model who had a topless centerfold of her taken onto Apollo 12.",
+   "article": {
+    "title": "Reagan Wilson",
+    "url": "https://en.wikipedia.org/wiki/Reagan_Wilson",
+    "extract": "Reagan Diana Wilson (March 6, 1947 – March 20, 2026) was an American model, actress, and businesswoman. She was Playboy magazine's Playmate of the Month for its October 1967 issue, a centerfold of which was taken to the Moon as part of Apollo 12 in 1969. She also had numerous acting roles including in Blood Mania (1970) and Running with the Devil (1973). Her participation at a 1968 Men's Day event at the University of Washington was protested by Radical Women."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Reagan_Wilson_with_B._J._%22Red%22_Combs_and_Shelby_Cobra_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Reagan_Wilson_with_B._J._%22Red%22_Combs_and_Shelby_Cobra_(cropped).jpg",
+    "file": "File:Reagan Wilson with B. J. \"Red\" Combs and Shelby Cobra (cropped).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1033,
+    "height": 1776,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20260409153632/https://www.telegraph.co.uk/obituaries/2026/04/06/reagan-wilson-model-playboy-moon-apollo-12-space-race/",
+    "title": "Reagan Wilson, Playboy model whose centrefold went to the Moon as a prank with Apollo 12 – obituary",
+    "matched": [
+     "12",
+     "reagan",
+     "wilson",
+     "playboy",
+     "model",
+     "apollo"
+    ]
+   }
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of nicknames used by George W. Bush: Not the most famous for his nicknames but has plenty nonetheless.",
+   "article": {
+    "title": "List of nicknames used by George W. Bush",
+    "url": "https://en.wikipedia.org/wiki/List_of_nicknames_used_by_George_W._Bush",
+    "extract": "Former U.S. president George W. Bush is widely known to use nicknames to refer to journalists, fellow politicians, and members of his White House staff."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Name changes due to the Islamic State: Companies thought it would be a great idea to name their project \"Isis\" until…",
+   "article": {
+    "title": "Name changes due to the Islamic State",
+    "url": "https://en.wikipedia.org/wiki/Name_changes_due_to_the_Islamic_State",
+    "extract": "The Islamic State of Iraq and the Levant, often abbreviated as \"ISIL\", is a militant Islamist terrorist group. It is also known as the Islamic State of Iraq and Syria or the Islamic State of Iraq and ash-Sham, abbreviated as \"ISIS\" or sometimes simplified as Islamic State (IS) only — which has caused name changes to distinguish other entities from the group."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Isis.svg)"
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pole and Hungarian brothers be: A two-nation proverb often cited, usually while drinking, in both Poland and Hungary.",
+   "article": {
+    "title": "Pole and Hungarian brothers be",
+    "url": "https://en.wikipedia.org/wiki/Pole_and_Hungarian_brothers_be",
+    "extract": "\"Pole and Hungarian brothers be\" (the Polish version) and \"Pole and Hungarian, two good friends\" (the Hungarian version) are English translations of a proverbial saying about the traditional brotherhood and camaraderie between Poles and Hungarians."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wegrzy_polacy_XVIIw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wegrzy_polacy_XVIIw.jpg",
+    "file": "File:Wegrzy polacy XVIIw.jpg",
+    "artist": "Johann Wilhelm Baur",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1158,
+    "height": 545,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://discovery.ucl.ac.uk/id/eprint/13025/"
+   }
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Yokohama Chinatown: Despite having a small population of around 3,000 to 4,000, it remains the biggest and most notable Chinatown in Japan today.",
+   "article": {
+    "title": "Yokohama Chinatown",
+    "url": "https://en.wikipedia.org/wiki/Yokohama_Chinatown",
+    "extract": "Yokohama Chinatown (横浜中華街, Yokohama chūkagai; Chinese: 橫濱中華街) is located in Yokohama, Japan, which is located just south of Tokyo. It was established in the late 19th century, and has a population of about 3,000 to 4,000.\nYokohama Chinatown is the largest Chinatown in Japan, larger than both Kobe Chinatown and Nagasaki Chinatown. There are roughly 250 Chinese-owned or themed shops and restaurants scattered throughout the district, with the highest concentration centered on a 300 m2 (3,200 sq ft) area."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Yokohama Chinatown signage 2015.jpg)"
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sergeant Stubby: The only dog to be promoted to sergeant through combat.",
+   "article": {
+    "title": "Sergeant Stubby",
+    "url": "https://en.wikipedia.org/wiki/Sergeant_Stubby",
+    "extract": "Sergeant Stubby (1915 – March 16, 1926) was a dog who was the unofficial mascot of the 102nd Infantry Regiment and was assigned to the 26th (Yankee) Division in World War I and travelled with his division to France to fight alongside the French. He served for 18 months and participated in 17 battles and four offensives on the Western Front. He saved his regiment from surprise mustard gas attacks, found and comforted the wounded, and allegedly once attacked and held a German soldier by the seat of his pants, keeping him there until American soldiers found him. His actions were well-documented in contemporary American newspapers."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Sergeant Stubby.jpg)"
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Texas soprano Mary Carson sued Thomas Edison for his refusal to pay her for recordings she made for his company?",
+   "article": {
+    "title": "Mary Carson",
+    "url": "https://en.wikipedia.org/wiki/Mary_Carson",
+    "extract": "Mary Carson, also known as Mary Carson Kidd, (February 5, 1876 – August 21, 1951) was an American soprano, opera director, and voice teacher. She had an active performance career from 1899 into the 1920s. A native of Texas, she grew up in Houston. Trained at the New England Conservatory and with private teachers in Italy, she first worked as a concert soprano in the United States, England, and Italy until making her opera debut at the Teatro Sociale in Pallanza in 1908."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mary_Carson%2C_soprano%2C_Musical_America.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mary_Carson,_soprano,_Musical_America.png",
+    "file": "File:Mary Carson, soprano, Musical America.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 806,
+    "height": 1288,
+    "ok": true
+   },
+   "second_source": {
+    "name": "tshaonline.org",
+    "url": "https://www.tshaonline.org/handbook/entries/kidd-mary-carson-mary-carson",
+    "title": "Kidd, Mary Carson [Mary Carson]",
+    "matched": [
+     "texas",
+     "soprano",
+     "carson",
+     "thomas",
+     "edison",
+     "refusal",
+     "recordings",
+     "company"
+    ]
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Open-source religion: And we're not talking about the Church of Emacs either.",
+   "article": {
+    "title": "Open-source religion",
+    "url": "https://en.wikipedia.org/wiki/Open-source_religion",
+    "extract": "Open-source religions employ open-source methods for the sharing, construction, and adaptation of religious belief systems, content, and practice. In comparison to religions utilizing proprietary, authoritarian, hierarchical, and change-resistant structures, open-source religions emphasize sharing in a cultural Commons, participation, self-determination, decentralization, and evolution. They apply principles used in organizing communities developing open-source software for organizing group efforts innovating with human culture. New open-source religions may develop their rituals, praxes, or systems of beliefs through a continuous process of refinement and dialogue among participating practitioners."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Jotham's fable has been read as a warning against societies that settle for unworthy leaders instead of persuading the best to serve?",
+   "article": {
+    "title": "Jotham's fable",
+    "url": "https://en.wikipedia.org/wiki/Jotham%27s_fable",
+    "extract": "Jotham's fable (also Jotham's parable or the parable of the bramble; Hebrew: משל יותם, Mashal Yotam) is a fable in the Book of Judges (Judges 9:7–21), spoken by Jotham, the youngest son of Gideon. After Gideon's death, Jotham's half-brother Abimelech killed Gideon's other sons and was made king by the people of Shechem. Jotham, the only survivor, told the fable from Mount Gerizim as a protest against the new king.\nIn the fable the trees seek a king and offer the crown in turn to the olive, the fig and the vine, each of which declines; only the bramble (atad) accepts, inviting the trees into its shade and threatening fire if they refuse."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 2.5 (File:PikiWiki Israel 13842 Rina Smilansky Garden in Rehovot.JPG)"
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Brainfuck: An intentionally difficult-to-use programming language containing only eight commands, all of them punctuation. See also JSFuck, which takes the same approach to make JavaScript somehow worse.",
+   "article": {
+    "title": "Brainfuck",
+    "url": "https://en.wikipedia.org/wiki/Brainfuck",
+    "extract": "Brainfuck is an esoteric programming language created in 1993 by Swiss student Urban Müller. Designed to be extremely minimalistic, the language consists of only eight simple commands, a data pointer, and an instruction pointer.\nBrainfuck is an example of a so-called Turing tarpit: it can be used to write any program, but it is not practical to do so because it provides so little abstraction that the programs get very long or complicated. While Brainfuck is fully Turing-complete, it is not intended for practical use but to challenge and amuse programmers."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BrainfuckHelloWorld.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:BrainfuckHelloWorld.png",
+    "file": "File:BrainfuckHelloWorld.png",
+    "artist": "Wattcle",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 1000,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://iwriteiam.nl/Ha_bf_Turing.html"
+   }
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Garden-path sentence: A sentence that doesn't seem grammatically correct, but that's because it tricks you into thinking the verb isn't where it is. It's very easy to catch yourself doing double takes when reading this article.",
+   "article": {
+    "title": "Garden-path sentence",
+    "url": "https://en.wikipedia.org/wiki/Garden-path_sentence",
+    "extract": "A garden-path sentence is a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning. Garden path refers to the saying \"to be led down [or up] the garden path\", meaning to be deceived, tricked, or seduced. In A Dictionary of Modern English Usage (1926), Fowler describes such sentences as unwittingly laying a \"false scent\".\nIt is a special type of sentence that creates a momentarily ambiguous interpretation because it contains a word or phrase that can be interpreted in multiple ways."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 2.0 (File:Garden Path, Threave Gardens - geograph.org.uk - 6852635.jpg)"
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MacGuffin: An object whose value lies in its ability to kick-start a plot.",
+   "article": {
+    "title": "MacGuffin",
+    "url": "https://en.wikipedia.org/wiki/MacGuffin",
+    "extract": "In fiction, a MacGuffin (sometimes McGuffin) is an object, device, or event that is necessary to the plot and the motivation of the characters, but insignificant, unimportant, or irrelevant in itself. Thus, the use of a MacGuffin in a narrative is a plot device. The term was originated by Angus MacPhail for film, adopted by Alfred Hitchcock, and later extended to a similar device in other fiction.\nThe MacGuffin technique is common in films, especially thrillers."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bouncing ball (music): That thing in music videos that helps you sing along to the lyrics. It dates back to 1924.",
+   "article": {
+    "title": "Bouncing ball (music)",
+    "url": "https://en.wikipedia.org/wiki/Bouncing_ball_(music)",
+    "extract": "The bouncing ball is a virtual device used in motion picture films and video recordings to visually indicate the rhythm of a song, helping audiences to sing along with live or prerecorded music. As the song's lyrics are displayed on the screen in a lower third of projected or character-generated text, an animated ball bounces across the top of the words, landing on each syllable when it is to be sung.\nThe bouncing ball is mainly used for English language songs in video recordings, however, in Japan, a similar device is used where the text changes color as it is sung, just like in karaoke."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Screen_Songs_bouncing_ball.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Screen_Songs_bouncing_ball.gif",
+    "file": "File:Screen Songs bouncing ball.gif",
+    "artist": "Republic Pictures Inc.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 338,
+    "height": 254,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pink Chanel suit of Jacqueline Kennedy: Made iconic by being worn during her husband's assassination.",
+   "article": {
+    "title": "Pink Chanel suit of Jacqueline Kennedy",
+    "url": "https://en.wikipedia.org/wiki/Pink_Chanel_suit_of_Jacqueline_Kennedy",
+    "extract": "Jacqueline Bouvier Kennedy was wearing a pink suit that was styled in the fashion of Chanel when her husband, U.S. president John F. Kennedy, was assassinated in Dallas, Texas, on November 22, 1963. She insisted on wearing the suit, stained with his blood, during the swearing-in of Lyndon B. Johnson that afternoon and for the flight back to Washington, D.C. Jacqueline Kennedy was a fashion icon, and the suit is the most referenced and revisited among her clothing items.\nMade of wool bouclé, the double-breasted raspberry pink and navy trim collared suit was matched with a trademark pink pillbox hat and white gloves. A long-time question among fashion historians and experts was whether the suit was made by Chanel in France or a quality copy purchased from New York's Chez Ninon."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/President_and_Mrs_Kennedy_deplane_from_Air_Force_One_%283083217259%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:President_and_Mrs_Kennedy_deplane_from_Air_Force_One_(3083217259)_(cropped).jpg",
+    "file": "File:President and Mrs Kennedy deplane from Air Force One (3083217259) (cropped).jpg",
+    "artist": "Cecil W. Stoughton",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 356,
+    "height": 548,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150629220544/http://fashion.telegraph.co.uk/columns/belinda-white/TMG8422114/Giorgio-Armani-made-a-Chanel-suit-for-Katie-Holmes.html",
+    "title": "Giorgio Armani made a Chanel suit for Katie Holmes - Telegraph",
+    "matched": [
+     "chanel",
+     "jacqueline",
+     "kennedy",
+     "iconic",
+     "assassination"
+    ]
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tillie (murals): An odd painting of a grinning face that used to be on the Palace Amusements building in Asbury Park, New Jersey before it was demolished.",
+   "article": {
+    "title": "Tillie (murals)",
+    "url": "https://en.wikipedia.org/wiki/Tillie_(murals)",
+    "extract": "Tillie is the nickname of two murals of a grinning figure that were painted on the side of the Palace Amusements building in Asbury Park, New Jersey, United States. Tillie is an amusement park \"fun face\", painted during the winter of 1955–1956. The name Tillie is likely a nod to George C. Tilyou, owner of Steeplechase Park in Coney Island, New York, which featured the Steeplechase Face, similar grinning face signage."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tillywb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tillywb.jpg",
+    "file": "File:Tillywb.jpg",
+    "artist": "Wikijazz at English Wikipedia; probably authored by George C. Tilyou (1862 - 30 November 1914[1])",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 842,
+    "height": 583,
+    "ok": true
+   },
+   "second_source": {
+    "name": "savetillie.homestead.com",
+    "url": "https://savetillie.homestead.com/home.html",
+    "title": "home",
+    "matched": [
+     "tillie",
+     "painting",
+     "palace",
+     "amusements",
+     "building",
+     "asbury",
+     "jersey",
+     "demolished"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Campanology: For the good of society, we must study how to properly ring bells.",
+   "article": {
+    "title": "Campanology",
+    "url": "https://en.wikipedia.org/wiki/Campanology",
+    "extract": "Campanology () is the scientific and musical study of bells. It encompasses the technology of bells—how they are founded, tuned and rung—as well as the history, methods, and traditions of bellringing as an art.\nIt is common to collect together a set of tuned bells and treat the whole as one musical instrument. Such collections—such as a Flemish carillon, a Russian zvon, or an English \"ring of bells\" used for change ringing—have their own practices and challenges; and campanology is likewise the study of perfecting such instruments and composing and performing music for them."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Poppenreuth-glocke-1695.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Poppenreuth-glocke-1695.jpg",
+    "file": "File:Poppenreuth-glocke-1695.jpg",
+    "artist": "The original uploader was Keichwa at German Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 500,
+    "height": 667,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20161205040106/http://jaharrison.me.uk/Ringing/Glossary/C.html#top",
+    "title": "Change ringing glossary &ndash; C",
+    "matched": [
+     "campanology",
+     "society",
+     "study",
+     "bells"
+    ]
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "112 Gripes About the French: A handbook produced to help American soldiers understand the French.",
+   "article": {
+    "title": "112 Gripes About the French",
+    "url": "https://en.wikipedia.org/wiki/112_Gripes_About_the_French",
+    "extract": "112 Gripes About the French was a 1945 handbook issued by the United States military authorities to enlisted personnel arriving in France after the Liberation. It was meant to defuse the growing tension between the American military and the locals."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/112gripes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:112gripes.jpg",
+    "file": "File:112gripes.jpg",
+    "artist": "Published in Paris in 1945 by the 'Information & Education Division' of the US Occupation Forces.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 348,
+    "height": 395,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/1/hi/world/europe/3087785.stm",
+    "title": "BBC NEWS | Europe | Plus ca change in Franco-US ties",
+    "matched": [
+     "112",
+     "gripes",
+     "french",
+     "handbook",
+     "produced",
+     "american",
+     "soldiers",
+     "understand"
+    ]
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Italian brainrot: Proof that it's not your imagination; memes are getting worse.",
+   "article": {
+    "title": "Italian brainrot",
+    "url": "https://en.wikipedia.org/wiki/Italian_brainrot",
+    "extract": "Italian brainrot is a series of internet memes that emerged in early 2025 characterized by AI-generated absurd and surrealist images of creatures who are mostly given Italian-inspired names. The phenomenon quickly spread across social media platforms such as TikTok and Instagram, going viral owing to a combination of sloppy aesthetics, synthesized Italian voiceovers, grotesque or humorous visuals, abstract nature, and nonsensical narrative."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Italian_brainrot_characters.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Italian_brainrot_characters.png",
+    "file": "File:Italian brainrot characters.png",
+    "artist": "Various authors (using AI)",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source": {
+    "name": "vulture.com",
+    "url": "https://www.vulture.com/article/italian-brain-rot-ai-characters-explained.html",
+    "title": "What’s Italian Brainrot? Tung Tung Sahur and More, Explained",
+    "matched": [
+     "italian",
+     "brainrot",
+     "imagination",
+     "memes",
+     "getting"
+    ]
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Expert wizard amendment: New Mexico narrowly avoided requiring all psychiatrists testifying in court to put on a robe and wizard hat.",
+   "article": {
+    "title": "Expert wizard amendment",
+    "url": "https://en.wikipedia.org/wiki/Expert_wizard_amendment",
+    "extract": "The expert wizard amendment was a proposed amendment by New Mexico state senator Duncan Scott, which would require psychologists and psychiatrists to dress up as wizards when they were in court proceedings providing expert testimony regarding a defendant's competency. The amendment, proposed in 1995, passed New Mexico's Senate unanimously. Scott revealed the amendment was satirical prior to a vote in the New Mexico House of Representatives following which it was removed and thus never signed into law.\nScott said that he crafted the amendment because he felt that there were an excessive number of mental health practitioners acting as expert witnesses."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magic_Wizard%27s_Hat_%28icon%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Magic_Wizard%27s_Hat_(icon).png",
+    "file": "File:Magic Wizard's Hat (icon).png",
+    "artist": "user:Dustimagic",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 858,
+    "height": 1025,
+    "ok": true
+   },
+   "second_source": {
+    "name": "uclawreview.org",
+    "url": "https://uclawreview.org/2018/05/25/odd-law-alert-new-mexico-expert-wizard-amendment/",
+    "title": "Odd Law Alert: New Mexico Expert Wizard Amendment – University of Cincinnati Law Review Blog",
+    "matched": [
+     "expert",
+     "wizard",
+     "amendment",
+     "mexico",
+     "requiring",
+     "psychiatrists",
+     "testifying",
+     "court"
+    ]
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Lithopedion: The rare condition of an unborn fetus calcifying.",
+   "article": {
+    "title": "Lithopedion",
+    "url": "https://en.wikipedia.org/wiki/Lithopedion",
+    "extract": "A lithopedion (also spelled lithopaedion or lithopædion; from Ancient Greek: λίθος \"stone\" and Ancient Greek: παιδίον \"small child, infant\"), or stone baby, is a rare phenomenon which occurs most commonly when a fetus dies during an abdominal pregnancy, is too large to be reabsorbed by the body, and calcifies on the outside as part of a foreign body reaction, shielding the host's body from the dead tissue of the fetus and preventing septic infection.\nLithopedia may occur from 14 weeks gestation to full term. It is not unusual for a stone baby to remain undiagnosed for decades and to be found well after natural menopause; diagnosis often happens when the patient is examined for other conditions that require being subjected to an X-ray study. A review of 128 cases by T.S.P. Tien found that the mean age at diagnosis of women with lithopedia was 55 years, with the oldest being 100 years old."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lithopedion_1897_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lithopedion_1897_front.jpg",
+    "file": "File:Lithopedion 1897 front.jpg",
+    "artist": "JG Clark",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 542,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ncbi.nlm.nih.gov",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11175556",
+    "title": "Calcified abdominal pregnancy with eighteen years of evolution: case report - PMC",
+    "matched": [
+     "lithopedion",
+     "condition",
+     "fetus",
+     "calcifying"
+    ]
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Headless men: The most unknown, yet bizarre and intriguing, humanoid monsters in European mythology. Possibly more famous nowadays for having a cameo in Scooby-Doo! Mystery Incorporated.",
+   "article": {
+    "title": "Headless men",
+    "url": "https://en.wikipedia.org/wiki/Headless_men",
+    "extract": "Various species of mythical headless men were rumoured, in antiquity and later, to inhabit remote parts of the world. They are variously known as akephaloi (Greek ἀκέφαλοι 'headless ones') or Blemmyes (Latin: Blemmyae; Greek: βλέμμυες) and described as lacking a head, with their facial features on their chest. These were at first described as inhabitants of ancient Libya or the Nile system (Aethiopia). Later traditions confined their habitat to a particular island in the Brisone River, or shifted it to India."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Blemmyes-gallica-12148-btv1b8447838j-f64.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Blemmyes-gallica-12148-btv1b8447838j-f64.jpg",
+    "file": "File:Blemmyes-gallica-12148-btv1b8447838j-f64.jpg",
+    "artist": "Guillaume Le Testu, Le Havre.",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 916,
+    "height": 1005,
+    "ok": true
+   },
+   "second_source": {
+    "name": "perseus.tufts.edu",
+    "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=5:chapter=8",
+    "title": "Pliny the Elder, The Natural History, BOOK V. AN ACCOUNT OF COUNTRIES, NATIONS, SEAS, TOWNS, HAVENS, MOUNTAINS, RIVERS, DISTANCES, AND PEOPL",
+    "matched": [
+     "unknown",
+     "monsters",
+     "european",
+     "mythology",
+     "possibly",
+     "famous",
+     "having"
+    ]
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Billy Possum: When Taft tried to get his own Teddy Bear.",
+   "article": {
+    "title": "Billy Possum",
+    "url": "https://en.wikipedia.org/wiki/Billy_Possum",
+    "extract": "Billy Possum is a type of stuffed toy depicting an opossum. Designed to be the replacement for the Teddy bear after Theodore Roosevelt vacated the office of President of the United States in 1909, the toy's popularity waned quickly, with the trend having lost all momentum by Christmas of that year."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Billy_Possum_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Billy_Possum_advertisement.jpg",
+    "file": "File:Billy Possum advertisement.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 662,
+    "height": 1034,
+    "ok": true
+   },
+   "second_source": {
+    "name": "ploddingthroughthepresidents.com",
+    "url": "https://www.ploddingthroughthepresidents.com/2023/05/the-possum-and-taters-feast-that-launched-billy-possum.html",
+    "title": "The Possum and Taters Feast That Launched \"Billy Possum\"",
+    "matched": [
+     "billy",
+     "possum",
+     "teddy"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eyes (cheese): There are eyes in the cheese, but no cheese in the eyes.",
+   "article": {
+    "title": "Eyes (cheese)",
+    "url": "https://en.wikipedia.org/wiki/Eyes_(cheese)",
+    "extract": "Eyes are the round holes that are a characteristic feature of some Swiss-type cheeses (e.g. Emmentaler cheese) and some Dutch-type cheeses. The eyes are formed by bubbles of carbon dioxide gas during the cheesemaking process. The gas is produced by various species of bacteria in the cheese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emmentaler_aoc_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg",
+    "file": "File:Emmentaler aoc block.jpg",
+    "artist": "Dieter Seeger",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 672,
+    "height": 896,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20160826155845/http://www.genoscope.cns.fr/spip/Propionibacterium-freudenreichii,467.html"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "YOGTZE case: Unemployed German man scrawls \"YOGTZE\" on a piece of paper, disappears into the night, is found dead the next morning.",
+   "article": {
+    "title": "YOGTZE case",
+    "url": "https://en.wikipedia.org/wiki/YOGTZE_case",
+    "extract": "The YOGTZE case (German: YOGTZE-Fall, also BAB-Rätsel, \"Autobahn Riddle\") refers to the death of unemployed German food engineer Günther Stoll, which occurred on 26 October 1984. Stoll died under unusual and mysterious circumstances, which gave the case international attention. \nIn April 2025, the case was closed as accidental, after new investigation had revealed that it was most likely a single-car wreck."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/YOGTZE_case_location_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:YOGTZE_case_location_map.png",
+    "file": "File:YOGTZE case location map.png",
+    "artist": "Jazzman",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 857,
+    "height": 1013,
+    "ok": true
+   },
+   "second_source": {
+    "name": "historicmysteries.com",
+    "url": "https://www.historicmysteries.com/gunther-stoll/",
+    "title": "Günther Stoll's Mysterious Final Moments: The YOGTZE Case",
+    "matched": [
+     "yogtze",
+     "unemployed",
+     "german",
+     "piece",
+     "paper",
+     "disappears",
+     "night",
+     "found"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cooper's Hill Cheese-Rolling and Wake: Don't let it get away!",
+   "article": {
+    "title": "Cooper's Hill Cheese-Rolling and Wake",
+    "url": "https://en.wikipedia.org/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake",
+    "extract": "The Cooper's Hill Cheese-Rolling and Wake is an annual event held on the Spring Bank Holiday at Cooper's Hill in Brockworth, Gloucestershire, England. Participants race down the 200-yard (180 m) long hill chasing a wheel of Double Gloucester cheese. Its earliest known written attestation was in 1836, though it is possibly even older. Now people from a wide range of countries take part in the competition as well."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cheese_Rolling_2006_-_Dionne_Carter_leading_the_Ladies_downhill_race.jpg",
+    "file": "File:Cheese Rolling 2006 - Dionne Carter leading the Ladies downhill race.jpg",
+    "artist": "michael warren from Bristol, UK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 1275,
+    "height": 718,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.TheGuardian.com/uk/2013/may/27/gloucestershire-cheese-rolling-race",
+    "title": "American flies in to win Gloucestershire cheese rolling contest | UK news | The Guardian",
+    "matched": [
+     "cooper",
+     "cheese",
+     "rolling"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nicolás Zúñiga y Miranda: Mexican eccentric who repeatedly ran for president, lost, and claimed he'd won. Sound familiar?",
+   "article": {
+    "title": "Nicolás Zúñiga y Miranda",
+    "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Z%C3%BA%C3%B1iga_y_Miranda",
+    "extract": "Nicolás Zúñiga y Miranda (13 May 1865 – 29 March 1925) was a Mexican eccentric who was a perennial candidate in multiple presidential elections from 1896 to 1924. He considered himself the legitimate president of Mexico despite never winning any of the elections. Prior to his political career he made earthquake predictions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Zu%C3%B1iga_y_Miranda.jpg",
+    "file": "File:Nicolás Zuñiga y Miranda.jpg",
+    "artist": "Agustín Casasola",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 900,
+    "height": 1297,
+    "ok": true
+   },
+   "second_source": {
+    "name": "mexiconewsdaily.com",
+    "url": "https://mexiconewsdaily.com/culture/huckster-madman-candidate-the-unusual-life-of-nicolas-zuniga/",
+    "title": "Huckster, madman, candidate: the unusual life of Nicolás Zuñiga",
+    "matched": [
+     "nicolas",
+     "zuniga",
+     "miranda",
+     "mexican",
+     "president",
+     "claimed",
+     "sound"
+    ]
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Red rain in Kerala: Did blood rain from the sky?",
+   "article": {
+    "title": "Red rain in Kerala",
+    "url": "https://en.wikipedia.org/wiki/Red_rain_in_Kerala",
+    "extract": "The Kerala red rain phenomenon was a blood rain event that occurred in Wayanad district of the southern Indian state Kerala on Monday, 15 July 1957 , and also from 25 July to 23 September 2001, when heavy downpours of red-coloured rain fell sporadically in Kerala, staining clothes pink. Yellow, green and black rain was also reported. Coloured rain was also reported in Kerala in 1896 and several times since, most recently in June 2012, and from 15 November 2012 to 27 December 2012 in eastern and north-central provinces of Sri Lanka.\nFollowing a light-microscopy examination in 2001, it was initially thought that the rains were coloured by fallout from a hypothetical meteor burst, but a study commissioned by the Government of India concluded that the rains had been coloured by airborne spores from a locally prolific terrestrial green algae from the genus Trentepohlia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/WaterSample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:WaterSample.jpg",
+    "file": "File:WaterSample.jpg",
+    "artist": "The original uploader was Vsasi at English Wikipedia.",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "width": 310,
+    "height": 176,
+    "ok": true
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Burning Mountain: A straightforwardly named mountain that has been on fire for over 6000 years.",
+   "article": {
+    "title": "Burning Mountain",
+    "url": "https://en.wikipedia.org/wiki/Burning_Mountain",
+    "extract": "Burning Mountain, the common name for Mount Wingen, is a hill near Wingen, New South Wales, Australia, approximately 224 km (139 mi) north of Sydney just off the New England Highway. It takes its name from a smouldering coal seam running underground through the sandstone. Burning Mountain is contained within the Burning Mountain Nature Reserve, which is administered by the NSW National Parks and Wildlife Service.\nA trail with information panels runs from the parking lots to the site where smoke emanates from the ground."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Burning_Mountain_Summit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Burning_Mountain_Summit.jpg",
+    "file": "File:Burning Mountain Summit.jpg",
+    "artist": "Beruthiel at English Wikipedia",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 746,
+    "height": 1000,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.environment.nsw.gov.au/nationalparks/parkHome.aspx?id=N0503"
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Genie (feral child): A feral child who was neglected by her father and was locked in a room for the first 13 years of her life.",
+   "article": {
+    "title": "Genie (feral child)",
+    "url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+    "extract": "Genie (born 1957) is the pseudonym of an American feral child who was a victim of severe abuse, neglect, and social isolation. Her circumstances are prominently recorded in the annals of linguistics and abnormal child psychology. When she was approximately 20 months old, her father began keeping her in a locked room. During this period, he almost always strapped her to a child's toilet or bound her in a crib with her arms and legs immobilized, forbade anyone to interact with her, provided her with almost no stimulation of any kind, and left her severely malnourished."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Genie_immediately_after_rescue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Genie_immediately_after_rescue.jpg",
+    "file": "File:Genie immediately after rescue.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 620,
+    "height": 791,
+    "ok": true
+   },
+   "second_source": {
+    "name": "6abc.com",
+    "url": "http://6abc.com/archive/6130233/",
+    "title": "Wild child &#x27;genie&#x27;: A tortured life | 6abc Philadelphia | 6abc.com - 6abc Philadelphia",
+    "matched": [
+     "13",
+     "genie",
+     "child",
+     "father",
+     "locked"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Libya–Switzerland relations: Between 2008-2011, Gaddafi openly called for Switzerland to be wiped off the map.",
+   "article": {
+    "title": "Libya–Switzerland relations",
+    "url": "https://en.wikipedia.org/wiki/Libya%E2%80%93Switzerland_relations",
+    "extract": "Switzerland has considered formal relations with Libya's National Transitional Council (NTC) since 12 June 2011, dispatching an official envoy to Benghazi to \"intensify its political relations with the Libyan National Transitional Council\" and \"signal its intent to strengthen its presence there\".\nSwitzerland did not explicitly recognise the NTC, however it did state that \"until the establishment of a legally elected government, the Transitional Council in Benghazi is the only legitimate partner of Switzerland in Libya\". Previously, relations with Gaddafi had already been cut long before, and there had been humanitarian aid coordinated with the NTC for four months. \nOn 22 August, while addressing a conference in Lucerne, Swiss Federal President Micheline Calmy-Rey confirmed that Switzerland has not recognised the NTC because the Swiss government's policy is to recognise states and not gov"
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Libya_Switzerland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Libya_Switzerland_Locator.png",
+    "file": "File:Libya Switzerland Locator.png",
+    "artist": "Namiba",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1160,
+    "height": 1056,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20121004162044/http://www.swissinfo.ch/eng/politics/Switzerland_calls_for_restraint_in_Libya.html?cid=30962140",
+    "title": "Libyan government tanks shelled parts of central Tripoli on Monday after rebels swept into the heart of the city, meeting little resistance.",
+    "matched": [
+     "2008",
+     "2011",
+     "libya",
+     "switzerland",
+     "relations",
+     "between",
+     "gaddafi",
+     "called"
+    ]
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "229762 Gǃkúnǁʼhòmdímà: Have fun trying to type this out!",
+   "article": {
+    "title": "229762 Gǃkúnǁʼhòmdímà",
+    "url": "https://en.wikipedia.org/wiki/229762_G%C7%83k%C3%BAn%C7%81%CA%BCh%C3%B2md%C3%ADm%C3%A0",
+    "extract": "229762 Gǃkúnǁʼhòmdímà (provisional designation 2007 UK126) is a large binary trans-Neptunian object and dwarf planet candidate in the scattered disc, located in the outermost region of the Solar System. It was discovered on 19 October 2007 by American astronomers Megan Schwamb, Michael Brown, and David Rabinowitz at the Palomar Observatory in California.\nGǃkúnǁʼhòmdímà measures approximately 600 kilometers (400 miles) in diameter. This medium-sized TNO appears to be representative of a class of mid-sized objects under approximately 1000 km that have not collapsed into fully solid bodies."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/2007_UK126_Hubble_%28crop%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:2007_UK126_Hubble_(crop).png",
+    "file": "File:2007 UK126 Hubble (crop).png",
+    "artist": "User:Renerpho",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 190,
+    "height": 190,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.minorplanetcenter.net/db_search/show_object?object_id=229762"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Parasitic twin: A medical condition where one of two conjoined twins lacks essential organs and must rely on the other for survival, often leeching its blood. An especially rare variant of this, fetus in fetu, involves one partially formed fetus developing within the body of the other.",
+   "article": {
+    "title": "Parasitic twin",
+    "url": "https://en.wikipedia.org/wiki/Parasitic_twin",
+    "extract": "A parasitic twin, also known as an asymmetrical twin or unequal conjoined twin, occurs when a twin embryo begins developing in utero, but the pair does not fully separate, and one embryo maintains dominant development at the expense of the other. It results from the same processes that also produces vanishing twins and conjoined twins, and may represent a continuum between the two. In parasitic twins, one ceases development during gestation and is vestigial to a mostly fully formed, otherwise healthy individual twin. The undeveloped twin is termed as parasitic, because it is incompletely formed or wholly dependent on the body functions of the complete fetus."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/JohannSchenk-Twins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:JohannSchenk-Twins.jpg",
+    "file": "File:JohannSchenk-Twins.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 390,
+    "height": 510,
+    "ok": true
+   },
+   "second_source": {
+    "name": "embryo.asu.edu",
+    "url": "https://embryo.asu.edu/pages/parasitic-twins",
+    "title": "Parasitic Twins | Embryo Project Encyclopedia",
+    "matched": [
+     "parasitic",
+     "medical",
+     "condition",
+     "conjoined",
+     "twins",
+     "organs",
+     "often",
+     "blood"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of classical music concerts with an unruly audience response: Concerts which didn't work out quite as well as hoped.",
+   "article": {
+    "title": "List of classical music concerts with an unruly audience response",
+    "url": "https://en.wikipedia.org/wiki/List_of_classical_music_concerts_with_an_unruly_audience_response",
+    "extract": "There have been many notable instances of unruly behaviour at classical music concerts, often at the premiere of a new work or production. Audience members displayed unruly behavior for a variety of reasons."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Artaxerxes_riots.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Artaxerxes_riots.jpg",
+    "file": "File:Artaxerxes riots.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 955,
+    "height": 602,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.hberlioz.com/Special/cwasselin_1e.htm"
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tokyo Sexwale: Despite not being Japanese or a sperm whale, he has control over the global diamond industry.",
+   "article": {
+    "title": "Tokyo Sexwale",
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Sexwale",
+    "extract": "Mosima Gabriel \"Tokyo\" Sexwale (pronounced  seh-KHWAH-lay, Venda: [sexwále]; born 5 March 1953) is a South African businessman, politician, anti-apartheid activist, and former political prisoner. For many years, Sexwale was imprisoned on Robben Island for his anti-apartheid activities, alongside figures such as Nelson Mandela. After the 1994 general election—the first fully democratic election in South Africa—Sexwale became the Premier of Gauteng Province."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tokyo_Sexwale-wef-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tokyo_Sexwale-wef-crop.jpg",
+    "file": "File:Tokyo Sexwale-wef-crop.jpg",
+    "artist": "Tokyo_Sexwale_and_Li_Ruogu,_World_Economic_Forum_on_Africa_2007.jpg: Copyright by World Economic Forum (www.weforum.org)",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 456,
+    "height": 534,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20160315040341/http://www.cbsnews.com/news/comrade-capitalist/"
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Unknown French boy: The coxswain of the Dutch rowing team during the 1900 Olympics, and one of the biggest mysteries in Olympics history.",
+   "article": {
+    "title": "Unknown French boy",
+    "url": "https://en.wikipedia.org/wiki/Unknown_French_boy",
+    "extract": "An \"unknown French boy\" is recorded to have participated as the replacement coxswain for the gold-winning mixed team (which was the Dutch team prior to his joining) in the men's coxed pair rowing competition at the 1900 Summer Olympics. Believed to possibly be the youngest Olympic medalist in history, the identity of the boy remains unknown and has been the subject of investigation for many years. Despite being referred to as the \"unknown French boy\" in Olympic archives, his nationality is not known with certainty."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Brandt%2C_Roelof_Klein_and_unknown_French_Boy_%281900_Summer_Olympics%29_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Brandt,_Roelof_Klein_and_unknown_French_Boy_(1900_Summer_Olympics)_cropped.jpg",
+    "file": "File:François Brandt, Roelof Klein and unknown French Boy (1900 Summer Olympics) cropped.jpg",
+    "artist": "François_Brandt,_Roelof_Klein_and_unknown_French_Boy_(1900_Summer_Olympics).jpg: unknown derivative work: César",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 308,
+    "height": 339,
+    "ok": true
+   },
+   "second_source": {
+    "name": "si.com",
+    "url": "https://www.si.com/olympics/2021/08/05/youngest-medalists-olympics-1900-mystery-french-coxwain",
+    "title": "The Youngest Olympic Medalist in History Remains a Mystery",
+    "matched": [
+     "1900",
+     "unknown",
+     "french",
+     "coxswain",
+     "dutch",
+     "rowing",
+     "olympics",
+     "mysteries",
+     "history"
+    ]
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Polydactyl cat: Cats with extraordinary numbers of toes.",
+   "article": {
+    "title": "Polydactyl cat",
+    "url": "https://en.wikipedia.org/wiki/Polydactyl_cat",
+    "extract": "A polydactyl cat is a cat with a congenital physical anomaly called feline polydactyly (also known as polydactylism or hyperdactyly), which causes the cat to be born with more than the usual number of toes on one or more of its paws.\nA point mutation in the noncoding region of the ZRS regulatory sequence causes abnormal SHH expression during limb development, causing variable polydactyly through following developmental processes rather than the mutation alone, explaining why the phenotypic expression of polydactyly varies. Cats with this genetically inherited trait are most commonly found along the East Coast of North America (in the United States and Canada) and in South West England and Wales.\nThe breed, American polydactyl cats, are bred with normal-toed cats by breeders, since the trait is inherited dominantly and can be passed on to offspring reliably."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Polydactyl_cat_7toes_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Polydactyl_cat_7toes_(cropped).jpg",
+    "file": "File:Polydactyl cat 7toes (cropped).jpg",
+    "artist": "Onyxrain",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 597,
+    "height": 594,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.purina.co.uk/articles/cats/behaviour/common-questions/polydactyl-cats"
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fried spider: Exactly as it sounds – and a regional delicacy in Cambodia.",
+   "article": {
+    "title": "Fried spider",
+    "url": "https://en.wikipedia.org/wiki/Fried_spider",
+    "extract": "Fried spider (Khmer: រពីងបំពង) is a regional snack in Cambodia. In the Cambodian town of Skuon, Cheung Prey, Kampong Cham, the vending of fried spiders as a specialty snack is a popular attraction for tourists. Spiders are also available elsewhere in Cambodia – in Phnom Penh for instance – but Skuon, a market town on the highway 75 kilometres (47 mi) from the capital, is the centre of their popularity. The spiders are bred in holes in the ground in villages north of Skuon, or foraged for in nearby forestland, and fried in oil."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Skun_spiders_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Skun_spiders_closeup.jpg",
+    "file": "File:Skun spiders closeup.jpg",
+    "artist": "A. www.viajar24h.com",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "rhymer.net",
+    "url": "http://www.rhymer.net/cutsE.htm",
+    "title": "Eating spiders in Skuon, Cambodia - rhymer rigby, cuttings and work",
+    "matched": [
+     "fried",
+     "spider",
+     "delicacy",
+     "cambodia"
+    ]
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that an estimated 20,000 tablets and fragments were unearthed at Mari between 1934 and 1937?",
+   "article": {
+    "title": "Mari texts",
+    "url": "https://en.wikipedia.org/wiki/Mari_texts",
+    "extract": "The Mari texts consist of several thousand clay tablets and fragments written in cuneiform. They were unearthed at the ancient Syrian site of Tell Hariri, the ancient city of Mari, mostly dating from the beginning of the 18th century BC, before its destruction. The tablets were primarily unearthed by a French archaeological team in rooms of the Royal Palace of Mari during the 1930s. Their translation and analysis have since been conducted mainly by French teams based in Paris."
+   },
+   "related": [
+    "Mari, Syria"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Tablet_Zimri-Lim_Louvre_AO20161.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Tablet_Zimri-Lim_Louvre_AO20161.jpg",
+    "file": "File:Tablet Zimri-Lim Louvre AO20161.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 700,
+    "height": 585,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://archeologie.culture.gouv.fr/mari/en/studying-texts-mari"
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Puckle gun: A gun with square bullets, to \"convince the Turks of the benefits of Christian civilization\". Appear in Assassin's Creed Rogue.",
+   "article": {
+    "title": "Puckle gun",
+    "url": "https://en.wikipedia.org/wiki/Puckle_gun",
+    "extract": "The Puckle gun (also known as the defence gun) was a primitive crew-served, manually operated flintlock revolver patented in 1718 by James Puckle (1667–1724), a British inventor, lawyer and writer. It was one of the earliest weapons to be referred to as a \"machine gun\", being called such in a 1722 shipping manifest, though its operation does not match the modern use of the term. It was never used during any combat operation or war. Production was highly limited and may have been as few as two guns."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Puckle_gun_advertisement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Puckle_gun_advertisement.jpg",
+    "file": "File:Puckle gun advertisement.jpg",
+    "artist": "artist not identified",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1000,
+    "height": 767,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20140422075818/http://www.ipo.gov.uk/types/patent/p-about/p-whatis/p-history/p-history-18century.htm"
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Mehran Karimi Nasseri: An Iranian refugee who lived in Charles de Gaulle Airport from 1988 until 2006 and again from September 2022 until his death in November that year.",
+   "article": {
+    "title": "Mehran Karimi Nasseri",
+    "url": "https://en.wikipedia.org/wiki/Mehran_Karimi_Nasseri",
+    "extract": "Mehran Karimi Nasseri (Persian: مهران کریمی ناصری, pronounced [mehˈrɒn kæriˈmi nɒseˈri]; 1945 – 12 November 2022), also known as Sir, Alfred Mehran, was an Iranian refugee who lived in the departure lounge of Terminal 1 at Charles de Gaulle Airport from 26 August 1988 until July 2006. Initially stranded due to lack of valid travel documents, he chose to remain at the airport despite being granted residency in Belgium in 1995 and France in 1999.\nNasseri was hospitalized in 2006 due to declining health and lived in various shelters in Paris for the following sixteen years. He returned to live at the Charles de Gaulle Airport in September 2022 and died there of a heart attack two months later."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/MKNasseri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:MKNasseri.jpg",
+    "file": "File:MKNasseri.jpg",
+    "artist": "Saint Martin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 501,
+    "height": 360,
+    "ok": true
+   },
+   "second_source": {
+    "name": "snopes.com",
+    "url": "http://www.snopes.com/travel/airline/airport.asp",
+    "title": "Man Living at Paris Airport | Snopes.com",
+    "matched": [
+     "1988",
+     "2006",
+     "mehran",
+     "karimi",
+     "nasseri",
+     "iranian",
+     "refugee",
+     "lived",
+     "charles",
+     "gaulle",
+     "airport",
+     "until",
+     "again",
+     "september"
+    ]
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Neopalpa donaldtrumpi: A moth remarkable for its distinctly orange head and small genitalia.",
+   "article": {
+    "title": "Neopalpa donaldtrumpi",
+    "url": "https://en.wikipedia.org/wiki/Neopalpa_donaldtrumpi",
+    "extract": "Neopalpa donaldtrumpi is a moth species of the genus Neopalpa occurring in Southern California and Northern Mexico. It was described in 2017 by Iranian-Canadian scientist Vazrick Nazari."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Neopalpa_donaldtrumpi_adult_male%2C_Imperial_County%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Neopalpa_donaldtrumpi_adult_male,_Imperial_County,_California.jpg",
+    "file": "File:Neopalpa donaldtrumpi adult male, Imperial County, California.jpg",
+    "artist": "Vazrick Nazari",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 690,
+    "height": 380,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20190804143325/http://geographical.co.uk/nature/wildlife/item/2099-meet-the-trump-moth",
+    "title": "Meet the Trump moth - Geographical Magazine",
+    "matched": [
+     "neopalpa",
+     "donaldtrumpi",
+     "distinctly",
+     "small"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "MKUltra: The CIA's dabblings in brainwashing, sensory deprivation and LSD experiments that may have inadvertently started the entire hippie subculture.",
+   "article": {
+    "title": "MKUltra",
+    "url": "https://en.wikipedia.org/wiki/MKUltra",
+    "extract": "MKUltra was an illegal human experimentation program designed and undertaken by the United States Central Intelligence Agency (CIA) to develop procedures and identify drugs that could be used in altering human behavior. The program has been widely condemned as a violation of individual rights and an example of the CIA's abuse of power, with critics highlighting its disregard for consent and its corrosive impact on democratic principles.\nProject MKUltra began in 1953 and was terminated in 1972. MKUltra used numerous methods to manipulate its subjects' mental states and brain functions, such as the covert administration of high doses of psychoactive drugs (especially LSD) and other chemicals without the subjects' consent."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DeclassifiedMKULTRA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:DeclassifiedMKULTRA.jpg",
+    "file": "File:DeclassifiedMKULTRA.jpg",
+    "artist": "Central Intelligence Agency",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 553,
+    "height": 713,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.smithsonianmag.com/history/true-story-brainwashing-and-how-it-shaped-america-180963400/"
+   }
+  },
+  {
+   "id": "c51",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+   "article": {
+    "title": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+    "url": "https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram",
+    "extract": "In a Buddhist temple in the northeast of Thailand, not far from the border with Laos, one can find the World's Only Dinosaur Pulpit. Located in the city of Khon Kean, the fourth-largest city in Thailand and the heart of the Isan region, the pulpit can be found inside the Buddhist temple Wat That Phra Aram Luang. If you look closely, you'll notice there are dinosaur mural paintings on the walls ins"
+   },
+   "published": "Tue, 24 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c52",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bolsover Town Earthworks in Bolsover, England",
+   "article": {
+    "title": "Bolsover Town Earthworks in Bolsover, England",
+    "url": "https://www.atlasobscura.com/places/bolsover-town-earthworks",
+    "extract": "The current iteration of Bolsover Castle, in the NE of Derbyshire, is not, despite its appearance, a defensive structure. It does look very reminiscent of the Norman white tower at the tower of London, but it is essentially a Jacobean residence dressed up for effect. However it is clear that the western and northern approaches are up steep slopes and the \"keep\" looks dominant on the escarpment. Bo"
+   },
+   "published": "Tue, 24 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c53",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Walking East in Hong Kong",
+   "article": {
+    "title": "Walking East in Hong Kong",
+    "url": "https://www.atlasobscura.com/places/walking-east",
+    "extract": "Portraying a man walking away from a modern office tower block, as if to explore the surrounding community, 'Walking East' is an impressive painted metal sculpture placed directly onto the street without a plinth. Its creator, French Hong Kong-based sculptor Polo Bourieau, cited the inspiration for 'Walking East' as 'les adventuriers du quotidien' (the daily adventurers), the everyday working peop"
+   },
+   "published": "Tue, 24 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c54",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Macdonald Book Shop in Estes Park, Colorado",
+   "article": {
+    "title": "Macdonald Book Shop in Estes Park, Colorado",
+    "url": "https://www.atlasobscura.com/places/macdonald-book-shop-estes-park",
+    "extract": "At Macdonald Book Shop, a cozy and beloved store in the Colorado mountain town of Estes Park, selling books began as a side hustle. J. Edward Macdonald bought a small log cabin in Estes Park in 1908 and opened a hardware and general store next door — with one corner full of books for sale. When he retired, his wife Jessica turned the parlor of their home into a proper bookstore, also selling magaz"
+   },
+   "published": "Tue, 24 Nov 2026 10:30:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c55",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Historic Park Theatre in Estes Park, Colorado",
+   "article": {
+    "title": "Historic Park Theatre in Estes Park, Colorado",
+    "url": "https://www.atlasobscura.com/places/historic-park-theatre",
+    "extract": "The Historic Park Theatre’s most famous feature was born from heartbreak. Its tower, added by owner Ralph Gwynn in 1929, is known locally as the Tower of Love — not for the romance it celebrates but for the one that fell apart. Legend has it that Gwynn was left at the altar, and he built the tower as a tribute to the woman who broke his heart. Decades later, when a new Estes Park sign ordnance thr"
+   },
+   "published": "Tue, 24 Nov 2026 10:26:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
+   "article": {
+    "title": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
+    "url": "https://www.atlasobscura.com/places/wasserspeier-water-spitter",
+    "extract": "Since 1984, the dragon-like Wasserspeier (\"Water Spitter\") on Bern’s Münstergasse has been delighting and fooling locals and tourists alike. Every spring, artist Luciano Andreani (*1947) and homeowner Tinu Mühlethaler install the spout on the roof of the historic Old Town building. Anyone who lingers too long while bending down to pick up one of the five-franc coins scattered below is in for a sur"
+   },
+   "published": "Tue, 24 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘El Vagamundos’ in Madrid, Spain",
+   "article": {
+    "title": "‘El Vagamundos’ in Madrid, Spain",
+    "url": "https://www.atlasobscura.com/places/el-vagamundos",
+    "extract": "Airports are places of departures and arrivals, but what happens to those who never seem to leave? At Terminal 1 of Madrid-Barajas Airport, a bronze man sits quietly, apparently waiting for a flight that may never come. Known as El Vagamundos (The Wanderer), this 1996 sculpture by Spanish artist Casto Solano captures the peculiar feeling of being suspended between destinations. The seated figure h"
+   },
+   "published": "Mon, 23 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Indianola in Port Lavaca, Texas",
+   "article": {
+    "title": "Indianola in Port Lavaca, Texas",
+    "url": "https://www.atlasobscura.com/places/indianola",
+    "extract": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace horses and mules as the primary work animal for southwestern America. During the Civil War, it was occupied by the Union army, once in 1862, then again a year later. Part of that re"
+   },
+   "published": "Mon, 23 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Future of Techno Is Being Forged in Monterrey",
+   "article": {
+    "title": "The Future of Techno Is Being Forged in Monterrey",
+    "url": "https://www.atlasobscura.com/articles/mexico-foundry-electronic-music-festival",
+    "extract": "On a mild November evening in Monterrey, Mexico, the city’s largest urban park flashed from green to pink to blue, pulsating with the rhythmic beats resounding from a 360-degree sound system. Beneath a steel walkway, in a concrete depression once used for piling steel, thousands of people swayed, trancelike, to DJs’ ethereal mixes. As the sun set over a giant steel furnace, crowds continued to spi"
+   },
+   "published": "Mon, 23 Nov 2026 13:11:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Summit House/Prospect House in Hadley, Massachusetts",
+   "article": {
+    "title": "Summit House/Prospect House in Hadley, Massachusetts",
+    "url": "https://www.atlasobscura.com/places/summit-house-prospect-house",
+    "extract": "The 400-plus-acre Skinner State Park adjoins the 3,000-acre Mount Holyoke Range State Park, where visitors can enjoy scenic vistas, picnic areas, and more than 40 miles of trails open year-round. At the heart of Skinner State Park stands the Prospect House, better known as the Summit House, a hotel that opened in 1851 and quickly became a fashionable destination for wealthy travelers from eastern "
+   },
+   "published": "Mon, 23 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Sant Pere dels Avions in Sant Pere dels Arquells, Spain",
+   "article": {
+    "title": "Sant Pere dels Avions in Sant Pere dels Arquells, Spain",
+    "url": "https://www.atlasobscura.com/places/sant-pere-dels-avions",
+    "extract": "In a village of just sixty inhabitants in the heart of rural Catalonia, you’d expect to find stone buildings, farmland and perhaps a church. And sure enough, that’s exactly what you get. What you wouldn’t expect, though, is to stumble upon three Soviet fighter jets in someone’s garden. But there they are. And alongside them, an American fighter jet, completing what must be the strangest aviation m"
+   },
+   "published": "Mon, 23 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Alta Rock Carvings in Alta, Norway",
+   "article": {
+    "title": "Alta Rock Carvings in Alta, Norway",
+    "url": "https://www.atlasobscura.com/places/alta-rock-carvings",
+    "extract": "One of the most extraordinary attractions in northern Norway is Alta Museum's outdoor area, where thousands of prehistoric carvings can be found. These are not paintings or replicas displayed behind glass – they are original artworks carved directly into the bedrock by people thousands of years ago. Some of the carvings date back more than 7,000 years, making them among the oldest and most signifi"
+   },
+   "published": "Fri, 20 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The 10 Most Expensive Christmas Movie Homes, Ranked",
+   "article": {
+    "title": "The 10 Most Expensive Christmas Movie Homes, Ranked",
+    "url": "https://www.mentalfloss.com/entertainment/movies/most-expensive-christmas-movie-homes-ranked?utm_source=RSS",
+    "extract": "See the estimated real-life values of 10 famous Christmas movie homes—from \"The Holiday\" and \"Trading Places\" to \"Home Alone\"—ranked from highest to lowest."
+   },
+   "published": "Wed, 25 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "How J.R.R. Tolkien Chose the Names of 9 Major ‘Lord of the Rings’ Characters",
+   "article": {
+    "title": "How J.R.R. Tolkien Chose the Names of 9 Major ‘Lord of the Rings’ Characters",
+    "url": "https://www.mentalfloss.com/language/words/how-jrr-tolkien-chose-lord-of-the-rings-character-names?utm_source=RSS",
+    "extract": "Tolkien drew from Old Norse, Old English, mythology, and his own invented languages to craft his heroes' and villains’ names."
+   },
+   "published": "Tue, 24 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Every Balloon and Float at the 2026 Macy’s Thanksgiving Day Parade (Including a Touching Tribute)",
+   "article": {
+    "title": "Every Balloon and Float at the 2026 Macy’s Thanksgiving Day Parade (Including a Touching Tribute)",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/every-balloon-float-2026-macys-thanksgiving-day-parade?utm_source=RSS",
+    "extract": "From classic favorites to new additions for 2026, brush up on what to expect from this year’s must-watch Thanksgiving event."
+   },
+   "published": "Tue, 24 Nov 2026 22:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Quick and Easy Thanksgiving Recipes You Can Whip Up in Minutes",
+   "article": {
+    "title": "5 Quick and Easy Thanksgiving Recipes You Can Whip Up in Minutes",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/quick-easy-thanksgiving-recipes-whip-up-minutes?utm_source=RSS",
+    "extract": "Need a crowd-pleasing dish in a pinch? These easy Thanksgiving recipes will save the day!"
+   },
+   "published": "Tue, 24 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Old-Fashioned Words for Being Lazy",
+   "article": {
+    "title": "10 Old-Fashioned Words for Being Lazy",
+    "url": "https://www.mentalfloss.com/language/slang/old-fashioned-words-lazy?utm_source=RSS",
+    "extract": "Are you occasionally guilty of being clumpst?"
+   },
+   "published": "Tue, 24 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "4 of the Most Common Jobs in Ancient Rome",
+   "article": {
+    "title": "4 of the Most Common Jobs in Ancient Rome",
+    "url": "https://www.mentalfloss.com/history/most-common-jobs-ancient-rome?utm_source=RSS",
+    "extract": "In ancient Rome, one job was far more common than all the rest. Here's how most of the inhabitants of ancient Rome made their living."
+   },
+   "published": "Tue, 24 Nov 2026 17:00:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Best Places to Shop on Black Friday This Year, Ranked",
+   "article": {
+    "title": "The Best Places to Shop on Black Friday This Year, Ranked",
+    "url": "https://www.mentalfloss.com/holidays/best-places-shop-black-friday-2026?utm_source=RSS",
+    "extract": "One department store chain comes out on top when it comes to overall savings this Black Friday. Read more about the stores that offer the best deals in 2026."
+   },
+   "published": "Tue, 24 Nov 2026 15:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "Can You Solve This Thanksgiving-Themed Crossword Puzzle?",
+   "article": {
+    "title": "Can You Solve This Thanksgiving-Themed Crossword Puzzle?",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/solve-thanksgiving-themed-crossword-puzzle?utm_source=RSS",
+    "extract": "Before you go back for a second plate of turkey and stuffing, see if you can finish this festive crossword puzzle!"
+   },
+   "published": "Tue, 24 Nov 2026 00:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Most Expensive Eggs in Mexico Don't Come From Fish",
+   "article": {
+    "title": "The Most Expensive Eggs in Mexico Don't Come From Fish",
+    "url": "https://www.mentalfloss.com/food/what-are-escamoles-mexican-caviar?utm_source=RSS",
+    "extract": "Wondering what \"Mexican caviar\" is and how to try it? See how an all-inclusive resort and Apple Vacations brought deep pre-Hispanic food culture to life."
+   },
+   "published": "Mon, 23 Nov 2026 23:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Things You'd Find in a 1950s Grocery Store That Have Disappeared",
+   "article": {
+    "title": "7 Things You'd Find in a 1950s Grocery Store That Have Disappeared",
+    "url": "https://www.mentalfloss.com/food/grocery-stores/things-find-1950s-grocery-store-disappeared?utm_source=RSS",
+    "extract": "From once-popular products to lost store features, these things from 1950s grocery stores aren't around today."
+   },
+   "published": "Mon, 23 Nov 2026 21:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Spiritual Meaning of November's Beaver Moon",
+   "article": {
+    "title": "The Spiritual Meaning of November's Beaver Moon",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/spiritual-meaning-beaver-moon?utm_source=RSS",
+    "extract": "Beavers may build dams, but do you actually give one when it comes to the meaning of the Beaver Moon? Whether you're the type to break out the crystals whenever"
+   },
+   "published": "Fri, 20 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Songs You Might Not Know Were Written By Barry White",
+   "article": {
+    "title": "6 Songs You Might Not Know Were Written By Barry White",
+    "url": "https://www.mentalfloss.com/entertainment/music/songs-written-barry-white?utm_source=RSS",
+    "extract": "From his group Love Unlimited to a whacky ‘60s TV show, Barry White had a hand in bringing many fantastic songs to life—not just his own."
+   },
+   "published": "Mon, 23 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The First-Ever Children's Booker Prize Revealed Its Eight Shortlisted Finalists. Meet the Four Young Judges Deciding the Winner",
+   "article": {
+    "title": "The First-Ever Children's Booker Prize Revealed Its Eight Shortlisted Finalists. Meet the Four Young Judges Deciding the Winner",
+    "url": "https://www.smithsonianmag.com/smart-news/the-first-ever-childrens-booker-prize-revealed-its-eight-shortlisted-finalists-meet-the-four-young-judges-deciding-the-winner-180989940/",
+    "extract": "Launched amid a historic low in youth reading enjoyment, the award will be decided by a joint panel of three adults and four young readers, who were selected from more than 4,000 applicants"
+   },
+   "published": "Tue, 24 Nov 2026 20:44:37 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "In the Heart of Harlem, a New Museum Tells the Overlooked Story of the Civil Rights Movement in the North",
+   "article": {
+    "title": "In the Heart of Harlem, a New Museum Tells the Overlooked Story of the Civil Rights Movement in the North",
+    "url": "https://www.smithsonianmag.com/smart-news/in-the-heart-of-harlem-a-new-museum-tells-the-overlooked-story-of-civil-rights-movement-in-the-north-180989934/",
+    "extract": "The Urban Civil Rights Museum bills itself as the first museum to focus on the struggle for racial equality in the cities of the northern United States. It is also the first civil rights museum in New York City"
+   },
+   "published": "Tue, 24 Nov 2026 18:42:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Where Does Language Originate in the Brain? New Research Challenges Our 150-Year-Old Understanding",
+   "article": {
+    "title": "Where Does Language Originate in the Brain? New Research Challenges Our 150-Year-Old Understanding",
+    "url": "https://www.smithsonianmag.com/smart-news/where-does-language-originate-in-the-brain-new-research-challenges-our-150-year-old-understanding-180989929/",
+    "extract": "Researchers long thought that a region called Wernicke's area, located just above the left ear, solely played a role in comprehending language. Now, a study suggests that it's also important for producing speech—a finding that will change diagrams in biology textbooks"
+   },
+   "published": "Tue, 24 Nov 2026 16:57:58 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Biologists Discover a 'One-in-a-Million' Bright Yellow Burbot Fish in New York's Oswego Harbor",
+   "article": {
+    "title": "Biologists Discover a 'One-in-a-Million' Bright Yellow Burbot Fish in New York's Oswego Harbor",
+    "url": "https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/",
+    "extract": "The species normally has a mottled palette of olive green, earthy brown and golden yellow, but this one had a rare biological condition called xanthochromism, which allows yellow-orange pigment to dominate"
+   },
+   "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronauts Living at NASA's Planned Future Lunar Base Might One Day Snack on Moon-Grown Potatoes",
+   "article": {
+    "title": "Astronauts Living at NASA's Planned Future Lunar Base Might One Day Snack on Moon-Grown Potatoes",
+    "url": "https://www.smithsonianmag.com/smart-news/astronauts-living-at-nasas-planned-future-lunar-base-might-one-day-snack-on-moon-grown-potatoes-180989918/",
+    "extract": "Researchers successfully grew spuds in simulated moon dirt supplemented with vermicompost, a nutrient-rich organic additive with worm poop. The taters are safe and nutritious—but we don't know what they taste like yet"
+   },
+   "published": "Tue, 24 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+   "article": {
+    "title": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+    "url": "https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/",
+    "extract": "Researchers with the \"Time Team\" series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave"
+   },
+   "published": "Tue, 24 Nov 2026 12:15:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Peggy Guggenheim's First Art Gallery Lasted Just 18 Months. But Its 21 Exhibitions Showed a Multitude of Modern Art Masterpieces",
+   "article": {
+    "title": "Peggy Guggenheim's First Art Gallery Lasted Just 18 Months. But Its 21 Exhibitions Showed a Multitude of Modern Art Masterpieces",
+    "url": "https://www.smithsonianmag.com/smart-news/peggy-guggenheims-first-art-gallery-lasted-just-18-months-but-its-21-exhibitions-showed-a-multitude-of-modern-art-masterpieces-180989930/",
+    "extract": "A new exhibition at the Royal Academy of the Arts in London revisits Guggenheim Jeune, the short-lived art gallery where the American socialite introduced a skeptical British public to surrealism and abstraction"
+   },
+   "published": "Mon, 23 Nov 2026 21:39:51 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Look Up This Week to See November's Full Beaver Moon—the First of Four Back-to-Back Supermoons Over the Coming Months",
+   "article": {
+    "title": "Look Up This Week to See November's Full Beaver Moon—the First of Four Back-to-Back Supermoons Over the Coming Months",
+    "url": "https://www.smithsonianmag.com/smart-news/look-up-this-week-to-see-novembers-full-beaver-moon-the-first-of-four-back-to-back-supermoons-over-the-coming-months-180989927/",
+    "extract": "The next one will occur on Christmas Eve, which, according to a stricter supermoon definition, is a rare coincidence that hasn't happened since 1787"
+   },
+   "published": "Mon, 23 Nov 2026 20:43:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "What Can 300 Years of European Portraits Reveal About Evolving Beauty Standards?",
+   "article": {
+    "title": "What Can 300 Years of European Portraits Reveal About Evolving Beauty Standards?",
+    "url": "https://www.smithsonianmag.com/smart-news/what-can-300-years-of-european-portraits-reveal-about-evolving-beauty-standards-180989931/",
+    "extract": "A new analysis of 486 portraits suggests that the ideal waist-to-hip ratio increased between 1650 and 1950"
+   },
+   "published": "Mon, 23 Nov 2026 19:30:50 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Inside Bolivia's Newly Restored 'Sistine Chapel of the Andes,' Centuries-Old Murals Tell Biblical Stories With Andean Imagery",
+   "article": {
+    "title": "Inside Bolivia's Newly Restored 'Sistine Chapel of the Andes,' Centuries-Old Murals Tell Biblical Stories With Andean Imagery",
+    "url": "https://www.smithsonianmag.com/smart-news/inside-bolivia-newly-restored-sistine-chapel-of-the-andes-centuries-old-murals-tell-biblical-stories-with-andean-imagery-180989925/",
+    "extract": "Located nearly 13,000 feet above sea level on Bolivia’s high plateau, the Santiago de Curahuara de Carangas church depicts guinea pigs at the Last Supper and magi riding llamas"
+   },
+   "published": "Mon, 23 Nov 2026 18:59:43 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Could an Erectile Dysfunction Pill Slow Alzheimer's Disease? Clinical Trial Results Show Promise for Certain Patients",
+   "article": {
+    "title": "Could an Erectile Dysfunction Pill Slow Alzheimer's Disease? Clinical Trial Results Show Promise for Certain Patients",
+    "url": "https://www.smithsonianmag.com/smart-news/could-an-erectile-dysfunction-pill-slow-alzheimers-disease-clinical-trial-results-show-promise-for-certain-patients-180989919/",
+    "extract": "After a year on the Viagra-like drug, participants who weren't taking other dementia medications displayed less cognitive decline than those taking a placebo. But the effect disappeared when examining all individuals who took the experimental pill"
+   },
+   "published": "Mon, 23 Nov 2026 16:26:54 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "These Endangered Snakes Are Some of the Most Beautiful in North America. Here's How Conservationists Are Trying to Save Them",
+   "article": {
+    "title": "These Endangered Snakes Are Some of the Most Beautiful in North America. Here's How Conservationists Are Trying to Save Them",
+    "url": "https://www.smithsonianmag.com/smart-news/these-endangered-snakes-are-some-of-the-most-beautiful-in-north-america-heres-how-conservationists-are-trying-to-save-them-180989916/",
+    "extract": "Fewer than 2,000 San Francisco garter snakes are estimated to live in their native home of two California counties. So, experts are raising some babies at the San Francisco Zoo to give them a head start before releasing the creatures into the wild"
+   },
+   "published": "Mon, 23 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie potęgi Linii Maginota",
+   "article": {
+    "title": "Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie potęgi Linii Maginota",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/24/francuzi-wierzyli-ze-hitler-ich-nie-pokona-zludzenie-potegi-linii-maginota/",
+    "extract": "Latem 1939 roku mieszkańcy Metzu nie obawiali się niemieckiej inwazji. Wierzyli, że potężna Linia Maginota zapewni im bezpieczeństwo, a ich miasto już nigdy nie padnie łupem Niemiec. Jeszcze w kwietniu 1940 roku panowała tam powszechna pewność siebie. Zaledwie kilka tygodni później rzeczywistość brutalnie zweryfikowała te przekonania. The post Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie"
+   },
+   "published": "Tue, 24 Nov 2026 17:48:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Rowerem do Afryki 1939",
+   "article": {
+    "title": "Rowerem do Afryki 1939",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/24/rowerem-do-afryki-1939/",
+    "extract": "Podróż na drugi kontynent i do świata, który wkrótce przestanie istnieć The post Rowerem do Afryki 1939 first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 24 Nov 2026 16:57:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczono z pożądaniem?",
+   "article": {
+    "title": "Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczono z pożądaniem?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/23/pokrzywy-biczowanie-i-upuszczanie-krwi-jak-dawniej-walczono-z-pozadaniem/",
+    "extract": "Przez stulecia pożądanie uważano za niebezpieczną pokusę, którą należało za wszelką cenę poskromić. Święci rzucali się w pokrzywy, duchowni poddawali się bolesnym umartwieniom, a lekarze zalecali upuszczanie krwi, zimne kąpiele i specjalne diety. Niektóre sposoby walki z popędem seksualnym były równie pomysłowe, co przerażające. The post Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczon"
+   },
+   "published": "Mon, 23 Nov 2026 20:29:15 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Abstynencja seksualna. Historia kulturowa",
+   "article": {
+    "title": "Abstynencja seksualna. Historia kulturowa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/23/abstynencja-seksualna-historia-kulturowa/",
+    "extract": "(…) historia – czy tego chcemy, czy nie – kręci się wokół seksu lub… jego braku. The post Abstynencja seksualna. Historia kulturowa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Mon, 23 Nov 2026 19:22:51 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+   "article": {
+    "title": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/22/konferencja-prasowa-xxxiv-targow-ksiazki-historycznej/",
+    "extract": "Fundacja Historia i Kultura oraz Porozumienie Wydawców Książki Historycznej zapraszają na konferencję prasową XXXIV Targów Książki Historycznej, która odbędzie się 24 listopada (wtorek) 2026 r. o godz. 12.00 w Sali Kinowej Zamku Królewskiego w Warszawie – Muzeum The post Konferencja prasowa XXXIV Targów Książki Historycznej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 22 Nov 2026 17:07:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+   "article": {
+    "title": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/21/tragedia-pod-otloczynem-najwieksza-katastrofa-kolejowa-w-historii-prl/",
+    "extract": "19 sierpnia 1980 roku, wczesnym rankiem, pod Otłoczynem doszło do największej katastrofy kolejowej w powojennej historii Polski. W czołowym zderzeniu dwóch pociągów zginęło 67 osób, a 64 zostały ranne. Siła uderzenia była tak ogromna, że jeden z wagonów praktycznie przestał istnieć. The post Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL first appeared on CiekawostkiHistory"
+   },
+   "published": "Sat, 21 Nov 2026 09:59:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+   "article": {
+    "title": "Wacław Grzybowski. Dyplomata, który nie uległ Sowietom",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/waclaw-grzybowski-dyplomata-ktory-nie-ulegl-sowietom/",
+    "extract": "17 września 1939 roku, gdy Armia Czerwona przekraczała granice Polski, w Moskwie rozgrywała się niezwykła scena dyplomatyczna. Polski ambasador Wacław Grzybowski został wezwany na spotkanie z przedstawicielem sowieckich władz, który zamierzał wręczyć mu dokument uzasadniający agresję ZSRR. Reakcja polskiego dyplomaty była stanowcza i wywołała oburzenie na Kremlu. Wkrótce jednak sytuacja przybrała "
+   },
+   "published": "Fri, 13 Nov 2026 14:58:47 +0000",
+   "image": null
+  }
+ ]
+}
