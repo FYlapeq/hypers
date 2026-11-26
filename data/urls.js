@@ -1,5 +1,22 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-26": {
+  "luz": [
+   "artykuly/2026-11-26/zmaslo-sprawdzil-gta-6-na-xboksach-series-s-i-x-pelny-test-ma-sie.html",
+   "artykuly/2026-11-26/tivolt-wrzucil-odcinek-gta-6-bez-ciec-sam-pisze-ze-ryzykuje.html",
+   "artykuly/2026-11-26/graystillplays-obala-mity-w-gta-6-jego-seria-wrocila-po-premierze.html",
+   "artykuly/2026-11-26/palion-sprawdzil-czy-w-gta-6-da-sie-zatrzymac-pociag.html",
+   "artykuly/2026-11-26/ksiazulo-przetestowal-taco-bell-ktory-wlasnie-wrocil-do-polski.html",
+   "artykuly/2026-11-26/gothamchess-o-kolejnej-partii-meczu-gukesh-sindarow-why-why-why.html",
+   "artykuly/2026-11-26/nataliamagical-szykuje-teledysk-w-nowym-vlogu-kompletuje-stroje.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-26/w-brighton-jezdzil-tramwaj-po-dnie-morza-na-nogach-wysokich-na-7.html",
+   "artykuly/2026-11-26/w-lesie-w-oregonie-stoi-prawdopodobnie-jedyna-na-swiecie-pulapka.html",
+   "artykuly/2026-11-26/pierwszy-zegarek-kwarcowy-wywolal-kryzys-kwarcowy-i-prawie-zatopil.html",
+   "artykuly/2026-11-26/w-australii-grupa-artystow-przerabiala-reklamy-papierosow-graffiti.html"
+  ]
+ },
  "2026-11-25": {
   "luz": [
    "artykuly/2026-11-25/sensor-tower-gta-6-moglo-sprzedac-sie-w-ok-47-mln-kopii-w-cztery-dni.html",

@@ -1,5 +1,481 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-26": {
+    "date": "2026-11-26",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "ZMASLO",
+        "initials": "ZM",
+        "category": "GTA 6",
+        "hype": 4,
+        "title": "ZMASLO sprawdził GTA 6 na Xboksach Series S i X. Pełny test ma się ukazać w czwartek",
+        "summary": "Po testach na PS5 i PS5 Pro przyszła kolej na konsole Microsoftu. Zapowiedź testu GTA 6 na Xbox Series S i Series X pojawiła się na kanale moreleTV, a pełny film ZMASLO ma wyjść w czwartek.",
+        "body": [
+          "Kanał moreleTV opublikował 25 listopada krótki materiał „GTA VI na XBOX Series S i XBOX Series X!” nagrany z ZMASLO.",
+          "W opisie kanał przypomina, że wcześniej ZMASLO testował grę na PlayStation 5 i PlayStation 5 Pro, a teraz sprawdza obie konsole Xbox. Pełny film ma pojawić się na kanale ZMASLO w czwartek.",
+          "Pod shortem widzowie dyskutują głównie o płynności. Część osób grających na Series S pisze, że nie zauważa problemów, inni narzekają na niski klatkaż i rozmytą grafikę. Do środy wieczorem short zebrał ok. 19 tys. wyświetleń (odczyt 26.11, 6:15)."
+        ],
+        "sources": [
+          {
+            "name": "moreleTV / YouTube",
+            "url": "https://www.youtube.com/watch?v=xt2S-aWGxKk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/xt2S-aWGxKk",
+        "caption": {
+          "credit": "moreleTV / YouTube",
+          "text": "Krótka zapowiedź testu GTA 6 na Xbox Series S i X. Pełne porównanie ZMASLO obiecuje w osobnym filmie w czwartek."
+        },
+        "insta": {
+          "tytul": "ZMASLO wziął GTA 6 na Xboksy. Series S też dostał swoje",
+          "opis": "Po PS5 i PS5 Pro czas na konsole Microsoftu. Pełny test ma wyjść w czwartek."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/xt2S-aWGxKk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/xt2S-aWGxKk/hqdefault.jpg",
+          "credit": "moreleTV / YouTube",
+          "href": "https://www.youtube.com/watch?v=xt2S-aWGxKk",
+          "alt": "Miniatura shorta moreleTV o GTA 6 na Xbox Series S i X",
+          "caption": "Kadr z zapowiedzi testu GTA 6 na Xboksach."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "Tivolt",
+        "initials": "TV",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "Tivolt wrzucił odcinek GTA 6 bez cięć. Sam pisze, że ryzykuje demonetyzację",
+        "summary": "Tivolt opublikował w środę dwa kolejne odcinki serii GTA 6 PL. Pod 24. odcinkiem napisał, że tym razem nic nie wyciął, choć liczy się z mniejszymi zasięgami.",
+        "body": [
+          "Tivolt prowadzi na YouTube polską serię z przejściem GTA 6. W środę 25 listopada wrzucił odcinki 23 i 24.",
+          "W komentarzu pod 23. odcinkiem twórca napisał, że codziennie walczy z YouTube'em, żeby ustalić, co platformie nie pasuje w jego materiałach.",
+          "Pod 24. odcinkiem, zatytułowanym „Najgorętsza scena w grze”, dodał, że tym razem nie wyciął niczego poza jedną piosenką, bo scena jest jego zdaniem warta ryzyka demonetyzacji. Ma nadzieję, że YouTube nie ograniczy przez to zasięgów.",
+          "Oba odcinki miały razem ponad 54 tys. wyświetleń (odczyt 26.11, 6:15)."
+        ],
+        "sources": [
+          {
+            "name": "Tivolt / YouTube",
+            "url": "https://www.youtube.com/watch?v=nIfkZSm7TaU",
+            "origin": true
+          },
+          {
+            "name": "Tivolt / YouTube (odc. 23)",
+            "url": "https://www.youtube.com/watch?v=uQX6LKdNQs8",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "Tivolt / YouTube",
+          "text": "24. odcinek serii GTA 6 PL Tivolta. To ten, który według twórcy poszedł bez cięć."
+        },
+        "insta": {
+          "tytul": "Tivolt puścił scenę z GTA 6 bez cięć, choć YouTube może mu za to obciąć kasę",
+          "opis": "Sam napisał, że codziennie walczy z YouTube'em o to, co mu przejdzie. Tym razem odpuścił nożyczki."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/nIfkZSm7TaU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/nIfkZSm7TaU/hqdefault.jpg",
+          "credit": "Tivolt / YouTube",
+          "href": "https://www.youtube.com/watch?v=nIfkZSm7TaU",
+          "alt": "Miniatura 24. odcinka serii GTA 6 PL Tivolta",
+          "caption": "Miniatura odcinka „Najgorętsza scena w grze”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "GrayStillPlays",
+        "initials": "GS",
+        "category": "GTA 6",
+        "hype": 3,
+        "title": "GrayStillPlays obala mity w GTA 6. Jego seria wróciła po premierze nowej części",
+        "summary": "GrayStillPlays, znany z testowania absurdów w grach, wrzucił „Busting Myths in GTA 6”. Widzowie witają powrót jego serii o mitach z GTA.",
+        "body": [
+          "GrayStillPlays opublikował 25 listopada film „Busting Myths in GTA 6”, w którym sprawdza popularne mity o nowej grze Rockstara.",
+          "Najwyżej oceniany komentarz pod filmem to radość, że „seria GTA wróciła”. Widzowie piszą też, jak szybko po premierze zebrało się wystarczająco mitów do sprawdzenia, i wymieniają ulubione momenty, m.in. scenę z tygrysem.",
+          "Film miał ok. 83 tys. wyświetleń kilka godzin po publikacji (odczyt 26.11, 6:15)."
+        ],
+        "sources": [
+          {
+            "name": "GrayStillPlays / YouTube",
+            "url": "https://www.youtube.com/watch?v=OMc91k2HXLU",
+            "origin": true
+          }
+        ],
+        "ig": [
+          "graystillplaysofficial"
+        ],
+        "caption": {
+          "credit": "GrayStillPlays / YouTube",
+          "text": "Pierwszy po premierze odcinek z mitami GTA 6 na kanale GrayStillPlays."
+        },
+        "insta": {
+          "tytul": "GrayStillPlays znowu sprawdza mity w GTA. Tym razem w szóstce",
+          "opis": "Widzowie piszą wprost: seria wróciła. Najbardziej zapamiętali scenę z tygrysem 🐯"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/OMc91k2HXLU/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/OMc91k2HXLU/hqdefault.jpg",
+          "credit": "GrayStillPlays / YouTube",
+          "href": "https://www.youtube.com/watch?v=OMc91k2HXLU",
+          "alt": "Miniatura filmu Busting Myths in GTA 6",
+          "caption": "Miniatura filmu GrayStillPlays o mitach w GTA 6."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "Palion",
+        "initials": "PA",
+        "category": "GTA 6",
+        "hype": 2,
+        "title": "Palion sprawdził, czy w GTA 6 da się zatrzymać pociąg",
+        "summary": "Palion kontynuuje filmy z GTA 6. W nowym odcinku próbuje zatrzymać pociąg.",
+        "body": [
+          "Palion opublikował 25 listopada film „Czy możesz zatrzymać pociąg w GTA 6?”. To kolejny jego materiał z nowej gry Rockstara, po dobie spędzonej na okradaniu sklepów.",
+          "Do rana film zebrał ok. 30 tys. wyświetleń (odczyt 26.11, 6:15)."
+        ],
+        "sources": [
+          {
+            "name": "Palion / YouTube",
+            "url": "https://www.youtube.com/watch?v=bCzQ6HQRPS0",
+            "origin": true
+          }
+        ],
+        "ig": [
+          "pawel_palion"
+        ],
+        "caption": {
+          "credit": "Palion / YouTube",
+          "text": "Nowy test Paliona w GTA 6: czy pociąg da się zatrzymać."
+        },
+        "insta": {
+          "tytul": "Palion próbuje zatrzymać pociąg w GTA 6",
+          "opis": "Po dobie okradania sklepów przyszła pora na kolej."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/bCzQ6HQRPS0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/bCzQ6HQRPS0/hqdefault.jpg",
+          "credit": "Palion / YouTube",
+          "href": "https://www.youtube.com/watch?v=bCzQ6HQRPS0",
+          "alt": "Miniatura filmu Paliona o pociągu w GTA 6",
+          "caption": "Miniatura filmu „Czy możesz zatrzymać pociąg w GTA 6?”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "Książulo",
+        "initials": "KS",
+        "category": "Jedzenie",
+        "hype": 4,
+        "title": "Książulo przetestował Taco Bell, który właśnie wrócił do Polski",
+        "summary": "Taco Bell otworzył pierwszą restaurację w Polsce po ponad 30 latach przerwy, a Książulo od razu zrobił „wielki test”. Widzowie cieszą się, że w odcinku znów pojawił się Wojek.",
+        "body": [
+          "Sieć Taco Bell wróciła do Polski: według serwisów branżowych pierwsza restauracja ruszyła 24 listopada w warszawskiej Galerii Młociny, a operatorem marki jest AmRest.",
+          "Dzień później Książulo opublikował film „TACO BELL już w Polsce! WIELKI TEST”. Do rana zebrał ok. 600 tys. wyświetleń i ponad tysiąc komentarzy (odczyt 26.11, 6:15).",
+          "Najczęściej lajkowane komentarze dotyczą składu: widzowie cieszą się z powrotu Wojka, z którym Książulo nagrywał dawniej, i wspominają starsze odcinki kanału. Część osób żartuje też, że Taco Bell ma niewiele wspólnego z kuchnią meksykańską.",
+          "W opisie twórca odsyła do drugiego, nowego filmu na kanale Ksiapulo."
+        ],
+        "sources": [
+          {
+            "name": "Książulo / YouTube",
+            "url": "https://www.youtube.com/watch?v=rcK0_jX8ogE",
+            "origin": true
+          },
+          {
+            "name": "Food & Design",
+            "url": "https://foodanddesign.pl/taco-bell-wraca-do-polski-galeria-mlociny/"
+          },
+          {
+            "name": "PKB24",
+            "url": "https://pkb24.pl/taco-bell-otworzyl-restauracje-w-warszawie-amrest-zapowiada-dwucyfrowy-wzrost-liczby-lokali-co-roku/"
+          }
+        ],
+        "caption": {
+          "credit": "Książulo / YouTube",
+          "text": "Test pierwszego Taco Bell po powrocie sieci do Polski. Widzowie zwracają uwagę na powrót Wojka do odcinka."
+        },
+        "insta": {
+          "tytul": "Taco Bell wrócił do Polski, a Książulo już tam był. Z Wojkiem",
+          "opis": "Pierwszy lokal ruszył 24.11 w Galerii Młociny. Widzowie bardziej niż tacos cieszą się ze starego składu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/rcK0_jX8ogE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/rcK0_jX8ogE/hqdefault.jpg",
+          "credit": "Książulo / YouTube",
+          "href": "https://www.youtube.com/watch?v=rcK0_jX8ogE",
+          "alt": "Miniatura filmu Książula o teście Taco Bell",
+          "caption": "Miniatura filmu „TACO BELL już w Polsce! WIELKI TEST”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy",
+        "hype": 3,
+        "title": "GothamChess o kolejnej partii meczu Gukesh – Sindarow: „WHY WHY WHY…”",
+        "summary": "Levy Rozman omówił kolejną partię meczu o mistrzostwo świata w szachach. Tytuł filmu to kilkanaście razy powtórzone „why”, a widzowie piszą o zaskakującym końcu.",
+        "body": [
+          "GothamChess opublikował 25 listopada film „WHY WHY WHY…”, kolejne omówienie meczu o mistrzostwo świata między Gukeshem a Sindarowem. Dzień wcześniej omawiał pierwszą partię.",
+          "W komentarzach widzowie piszą o drugiej partii, sytuacji na zegarach i zakończeniu, którego się nie spodziewali. Część krytykuje organizację meczu i wspomina, że obiecano licznik ruchów na transmisji.",
+          "Film miał prawie milion wyświetleń w niecałą dobę (odczyt 26.11, 6:15)."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=aAmpewUTCjY",
+            "origin": true
+          }
+        ],
+        "ig": [
+          "gothamchess"
+        ],
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Omówienie kolejnej partii meczu o tytuł. Już tytuł filmu mówi, jak Levy ją ocenia."
+        },
+        "insta": {
+          "tytul": "GothamChess po kolejnej partii o mistrzostwo świata: „why why why…”",
+          "opis": "Widzowie piszą o końcówce, której nikt się nie spodziewał. Prawie milion wyświetleń w dobę."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/aAmpewUTCjY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/aAmpewUTCjY/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=aAmpewUTCjY",
+          "alt": "Miniatura filmu GothamChess WHY WHY WHY",
+          "caption": "Miniatura omówienia partii meczu o mistrzostwo świata."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "NataliaMagical",
+        "initials": "NM",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "NataliaMagical szykuje teledysk. W nowym vlogu kompletuje stroje i wraca na siłownię",
+        "summary": "NataliaMagical zabrała widzów na zakupy do nadchodzącego teledysku. W tym samym vlogu wróciła też na trening.",
+        "body": [
+          "NataliaMagical opublikowała 25 listopada vlog „Zakupy do teledysku i powrót na siłownię”.",
+          "W opisie pisze, że przygotowuje się do nagrania nadchodzącego teledysku, a do tego wraca na siłownię, by popracować nad formą. Tytułu piosenki ani daty premiery jeszcze nie podała.",
+          "W komentarzach widzowie doradzają jej przy wyborze stylizacji, część sugeruje skorzystanie ze stylisty."
+        ],
+        "sources": [
+          {
+            "name": "NataliaMagical / YouTube",
+            "url": "https://www.youtube.com/watch?v=1ZOzVZkeaxg",
+            "origin": true
+          }
+        ],
+        "caption": {
+          "credit": "NataliaMagical / YouTube",
+          "text": "Vlog z przygotowań do teledysku: zakupy strojów i trening."
+        },
+        "insta": {
+          "tytul": "NataliaMagical kręci teledysk. Na razie kompletuje stroje",
+          "opis": "W nowym vlogu zakupy pod klip i powrót na siłownię. Daty premiery jeszcze nie ma."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/1ZOzVZkeaxg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/1ZOzVZkeaxg/hqdefault.jpg",
+          "credit": "NataliaMagical / YouTube",
+          "href": "https://www.youtube.com/watch?v=1ZOzVZkeaxg",
+          "alt": "Miniatura vloga NataliiMagical o zakupach do teledysku",
+          "caption": "Miniatura vloga z przygotowań do teledysku."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Anglia",
+        "initials": "AN",
+        "category": "Historia",
+        "hype": 4,
+        "title": "W Brighton jeździł tramwaj po dnie morza, na nogach wysokich na 7 metrów",
+        "summary": "W latach 1896–1901 kolej Magnusa Volka jeździła po torach ułożonych na dnie płytkiego morza. Pasażerowie siedzieli na platformie wysoko nad wodą.",
+        "body": [
+          "Brighton and Rottingdean Seashore Electric Railway łączyła Brighton z wioską Rottingdean. Tory biegły w płytkich wodach kanału La Manche, a wagon stał na nogach o wysokości 23 stóp (ok. 7 m), więc wyglądał jak jadące molo. Ludzie nazwali go „Daddy Long Legs”.",
+          "Kolejka przewiozła dziesiątki tysięcy pasażerów, ale w 1901 r. trzeba ją było zlikwidować, bo w tym miejscu budowano nowe umocnienia brzegu. Volkowi nie udało się zebrać pieniędzy na następczynię."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Brighton_and_Rottingdean_Seashore_Electric_Railway"
+          },
+          {
+            "name": "Volks Electric Railway Association",
+            "url": "http://volkselectricrailway.co.uk/history/the-daddy-long-legs/"
+          }
+        ],
+        "caption": {
+          "credit": "Ellis Kelsey / Wikimedia Commons",
+          "text": "Wagon kolejki na wysokich nogach jedzie po torach zalanych morzem."
+        },
+        "insta": {
+          "tytul": "W Brighton był tramwaj, który jeździł po dnie morza",
+          "opis": "Wagon stał na 7-metrowych nogach i wyglądał jak jadące molo. Ludzie mówili na niego „Daddy Long Legs”."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ellis_Kelsey_Img_5.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Ellis_Kelsey_Img_5.jpg",
+          "credit": "Ellis Kelsey (1866–1939) / Wikimedia Commons, Public domain",
+          "alt": "Wagon kolejki Daddy Long Legs na wysokich nogach w morzu przy Brighton",
+          "caption": "Kolejka „Daddy Long Legs” w morzu przy Brighton."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Oregon",
+        "initials": "OR",
+        "category": "Ciekawe miejsca",
+        "hype": 4,
+        "title": "W lesie w Oregonie stoi prawdopodobnie jedyna na świecie pułapka na Wielką Stopę",
+        "summary": "Pułapkę zbudowano w 1974 r., żeby złapać Bigfoota. Nikogo nie złapała, ale leśnicy dbają o nią do dziś.",
+        "body": [
+          "Pułapka stoi w lesie narodowym Rogue River–Siskiyou w Oregonie, ok. 5 km od granicy z Kalifornią. Zbudowano ją w 1974 r. z myślą o złapaniu Wielkiej Stopy, małpopodobnej istoty, która według legend żyje w lasach północno-zachodnich USA.",
+          "Nic się w nią nie złapało i na początku lat 80. ją porzucono. Dziś Służba Leśna USA utrzymuje ją jako atrakcję przy szlaku Collings Mountain, a co roku odwiedzają ją setki turystów."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Bigfoot_trap"
+          },
+          {
+            "name": "Mail Tribune (archiwum)",
+            "url": "https://web.archive.org/web/20080704120505/http://archive.mailtribune.com/archive/2006/0903/local/stories/colmforsept3.htm"
+          }
+        ],
+        "caption": {
+          "credit": "Mdvaden / Wikimedia Commons",
+          "text": "Drewniana pułapka na Wielką Stopę w lesie w Oregonie."
+        },
+        "insta": {
+          "tytul": "W Oregonie stoi pułapka na Wielką Stopę. Od 1974 roku",
+          "opis": "Nic się w nią nie złapało, ale leśnicy wciąż o nią dbają. Teraz to atrakcja przy szlaku."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bigfoot_trap.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Bigfoot_trap.jpg",
+          "credit": "Mdvaden / Wikimedia Commons, Public domain",
+          "alt": "Drewniana skrzynia pułapki na Wielką Stopę w lesie",
+          "caption": "Pułapka na Wielką Stopę w lesie Rogue River–Siskiyou."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Zegarki",
+        "initials": "ZE",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Pierwszy zegarek kwarcowy wywołał „kryzys kwarcowy” i prawie zatopił szwajcarskie zegarmistrzostwo",
+        "summary": "Seiko Astron z 1969 r. zapoczątkował rewolucję. Szwajcarzy zostali przy mechanizmach, a produkcja zegarków przeniosła się do Japonii.",
+        "body": [
+          "W grudniu 1969 r. Seiko pokazało Astrona, pierwszy na świecie zegarek kwarcowy. W latach 70. i 80. zegarki kwarcowe w dużej mierze wyparły mechaniczne.",
+          "W Szwajcarii mówi się o tym „kryzys kwarcowy”: tamtejszy przemysł postawił na tradycyjne mechanizmy i mocno podupadł, a większość światowej produkcji przejęły japońskie firmy, jak Seiko, Citizen i Casio."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Quartz_crisis"
+          },
+          {
+            "name": "Hodinkee",
+            "url": "https://www.hodinkee.com/articles/four-revolutions-quartz-revolution"
+          }
+        ],
+        "caption": {
+          "credit": "Museumsfoto / Wikimedia Commons",
+          "text": "Mechanizm Seiko 35A z pierwszego zegarka kwarcowego Astron."
+        },
+        "insta": {
+          "tytul": "Jeden japoński zegarek prawie położył szwajcarskie zegarmistrzostwo",
+          "opis": "Seiko Astron z 1969 r. był pierwszym kwarcowym. Szwajcarzy nazywają to, co przyszło potem, kryzysem kwarcowym."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Seiko_35A.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Seiko_35A.jpg",
+          "credit": "Museumsfoto / Wikimedia Commons, CC BY 3.0 de",
+          "alt": "Kwarcowy mechanizm zegarka Seiko 35A",
+          "caption": "Mechanizm Seiko 35A, serce zegarka Astron."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Australia",
+        "initials": "AU",
+        "category": "Sztuka",
+        "hype": 3,
+        "title": "W Australii grupa artystów przerabiała reklamy papierosów graffiti, żeby mówiły prawdę",
+        "summary": "BUGA-UP to australijski ruch, który dopisywał i zmieniał hasła na billboardach z tytoniem i alkoholem. Nazwa to gra słów z „bugger up”, czyli „zepsuć”.",
+        "body": [
+          "Billboard Utilising Graffitists Against Unhealthy Promotions, w skrócie BUGA-UP, przerabiał graffiti billboardy reklamujące rzeczy uznane za niezdrowe, przede wszystkim papierosy i alkohol.",
+          "Ruch powstał w czasach, gdy palenie w Australii było powszechne i coraz popularniejsze, a reklama papierosów była w dużej mierze nieuregulowana."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Billboard_Utilising_Graffitists_Against_Unhealthy_Promotions"
+          },
+          {
+            "name": "BUGA-UP",
+            "url": "http://bugaup.org/"
+          }
+        ],
+        "caption": {
+          "credit": "Rozziew / Wikimedia Commons",
+          "text": "Billboard z reklamą papierosów przerobiony przez BUGA-UP."
+        },
+        "insta": {
+          "tytul": "W Australii ktoś poprawiał reklamy papierosów sprayem",
+          "opis": "Grupa BUGA-UP przerabiała billboardy z tytoniem i alkoholem tak, żeby mówiły co innego niż chciała firma."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Its_a_bore.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Its_a_bore.jpg",
+          "credit": "Rozziew at English Wikipedia / Wikimedia Commons, Public domain",
+          "alt": "Billboard reklamy papierosów przerobiony graffiti",
+          "caption": "Billboard przerobiony przez BUGA-UP."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-25": {
     "date": "2026-11-25",
     "ryby": [],
