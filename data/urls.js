@@ -2,6 +2,14 @@
 window.HYPERS_URLS = {
  "2026-11-26": {
   "luz": [
+   "artykuly/2026-11-26/lootbox-take-two-zablokowalo-nieoficjalny-port-gta-6-na-pc.html",
+   "artykuly/2026-11-26/izak-ma-codzienna-serie-z-gta-6-nowe-odcinki-wpadaja-o-16-00.html",
+   "artykuly/2026-11-26/theradbrad-dotarl-do-8-czesci-przejscia-gta-6-odcinek-ma-ponad-270.html",
+   "artykuly/2026-11-26/slogo-z-ekipa-testowali-w-gta-6-bomby-samoprzylepne.html",
+   "artykuly/2026-11-26/pewdiepie-kazal-prawdziwym-ludzkim-komorkom-mozgowym-grac-w-trombone.html",
+   "artykuly/2026-11-26/jacob-sprawdza-w-fortnite-setty-kami-i-matka-drugi-odcinek-nowej.html",
+   "artykuly/2026-11-26/vin-vinci-pokazal-klip-do-zacznijmy-od-poczatku-numer-z-czwartej.html",
+   "artykuly/2026-11-26/nullizmatyka-wydaje-pierwszy-autorski-album-zespolu-na-koniec.html",
    "artykuly/2026-11-26/zmaslo-sprawdzil-gta-6-na-xboksach-series-s-i-x-pelny-test-ma-sie.html",
    "artykuly/2026-11-26/tivolt-wrzucil-odcinek-gta-6-bez-ciec-sam-pisze-ze-ryzykuje.html",
    "artykuly/2026-11-26/graystillplays-obala-mity-w-gta-6-jego-seria-wrocila-po-premierze.html",
@@ -11,6 +19,11 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-26/nataliamagical-szykuje-teledysk-w-nowym-vlogu-kompletuje-stroje.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-26/zolw-timothy-przezyl-ostrzal-sewastopola-w-1854-r-i-dozyl-2004-r.html",
+   "artykuly/2026-11-26/zart-na-facebooku-o-szturmie-na-strefe-51-zebral-ponad-2-mln.html",
+   "artykuly/2026-11-26/istnieja-daty-takie-jak-0-stycznia-30-lutego-czy-35-maja-i-sa-uzywane.html",
+   "artykuly/2026-11-26/zespol-the-residents-od-ok-50-lat-wystepuje-w-helmach-galkach-ocznych.html",
+   "artykuly/2026-11-26/na-pacyfiku-plywa-wieloryb-ktory-spiewa-na-czestotliwosci-ktorej-nie.html",
    "artykuly/2026-11-26/w-brighton-jezdzil-tramwaj-po-dnie-morza-na-nogach-wysokich-na-7.html",
    "artykuly/2026-11-26/w-lesie-w-oregonie-stoi-prawdopodobnie-jedyna-na-swiecie-pulapka.html",
    "artykuly/2026-11-26/pierwszy-zegarek-kwarcowy-wywolal-kryzys-kwarcowy-i-prawie-zatopil.html",

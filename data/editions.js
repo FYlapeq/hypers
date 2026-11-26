@@ -7,6 +7,355 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-11-25",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "Gaming",
+        "hype": 4,
+        "title": "LootBox: Take-Two zablokowało nieoficjalny port GTA 6 na PC",
+        "summary": "LootBox otworzył nowy odcinek tematem fanowskiego portu GTA 6 na komputery. Według zagranicznych serwisów Take-Two zgłosiło do GitHuba usunięcie tysięcy repozytoriów projektu.",
+        "body": [
+          "Kanał LootBox wrzucił 25 listopada odcinek „Rockstar BANUJE PORT GTA 6 NA PC! Co dalej?”. Pierwsze sześć minut dotyczy nieoficjalnego portu GTA 6 na PC, a w dalszej części kanał porusza m.in. łatkę poprawiającą pogodę, możliwy film o Red Dead Redemption i umowę CD Projekt RED z Sony przy Wiedźminie 4.",
+          "Chodzi o fanowski projekt nazywany Project Leonida, który próbował przenieść konsolowe GTA 6 na komputery. Według The Verge i TweakTown Take-Two doprowadziło do jego usunięcia, a TweakTown pisze, że firma powołała się na zakaz inżynierii wstecznej w warunkach Rockstara.",
+          "HotHardware podaje, że zgłoszenia DMCA do GitHuba objęły 3007 repozytoriów związanych z portem. Oficjalnej wersji GTA 6 na PC Rockstar wciąż nie zapowiedział, gra jest dostępna na PS5 i Xboksach Series X/S.",
+          "Odcinek miał ok. 65 tys. wyświetleń (odczyt 26.11, 6:16)."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=4V4-vMLikGA",
+            "origin": true
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two"
+          },
+          {
+            "name": "TweakTown",
+            "url": "https://www.tweaktown.com/news/114877/gta-6-pc-port-takedown-confirmed-take-two-cites-rockstars-ban-on-reverse-engineering/index.html"
+          },
+          {
+            "name": "HotHardware",
+            "url": "https://hothardware.com/news/gta-6-pc-port-wiped-out-github"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=4V4-vMLikGA",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura odcinka LootBoxa, który zaczyna się od sprawy fanowskiego portu GTA 6 na PC. Dalej kanał omawia m.in. łatkę do pogody i umowę CD Projekt RED z Sony."
+        },
+        "ig": [
+          "lootbox_news"
+        ],
+        "insta": {
+          "tytul": "Fanowski port GTA 6 na PC poleciał. Take-Two wysłało DMCA",
+          "opis": "Według serwisów zgłoszenia objęły ponad 3 tys. repozytoriów na GitHubie. Oficjalnego GTA 6 na PC dalej nie ma."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/4V4-vMLikGA/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/4V4-vMLikGA/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=4V4-vMLikGA",
+          "alt": "Miniatura odcinka LootBox o porcie GTA 6 na PC",
+          "caption": "Kadr z odcinka LootBoxa o zablokowanym porcie GTA 6 na PC."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "izak",
+        "initials": "IZ",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "izak ma codzienną serię z GTA 6. Nowe odcinki wpadają o 16:00",
+        "summary": "izak, znany głównie z CS-a, nagrywa GTA 6 na kanale izak LIVE. W opisie zapowiada nowe odcinki codziennie o 16:00, ósmy nosi tytuł „Imprezy w GTA są zbyt szalone”.",
+        "body": [
+          "Na kanale izak LIVE 25 listopada pojawił się ósmy odcinek serii z GTA 6, „IMPREZY W GTA SĄ ZBYT SZALONE”. Trwa prawie 50 minut.",
+          "W opisie izak podaje, że seria z GTA ma wychodzić codziennie o 16:00. To odmiana dla kanału, na którym ostatnio królowały transmisje CS2 Majora w Singapurze.",
+          "Widzowie w komentarzach chwalą jego gameplaye, jeden porównuje serię do dawnych serii „do obiadku”. Odcinek miał ok. 14 tys. wyświetleń (odczyt 26.11, 6:16)."
+        ],
+        "sources": [
+          {
+            "name": "izak LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=zBPmbLemXkw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=zBPmbLemXkw",
+        "caption": {
+          "credit": "izak LIVE / YouTube",
+          "text": "Miniatura ósmego odcinka serii izaka z GTA 6. Nowe części mają wychodzić codziennie o 16:00."
+        },
+        "insta": {
+          "tytul": "izak wkręcił się w GTA 6. Nowy odcinek codziennie o 16:00",
+          "opis": "Na kanale izak LIVE jest już ósma część, tym razem o imprezach w Vice City."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/zBPmbLemXkw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/zBPmbLemXkw/hqdefault.jpg",
+          "credit": "izak LIVE / YouTube",
+          "href": "https://www.youtube.com/watch?v=zBPmbLemXkw",
+          "alt": "Miniatura odcinka GTA 6 #8 na kanale izak LIVE",
+          "caption": "Kadr z ósmego odcinka serii izaka z GTA 6."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "theRadBrad",
+        "initials": "RB",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "theRadBrad dotarł do 8. części przejścia GTA 6. Odcinek ma ponad 270 tys. wyświetleń",
+        "summary": "Jeden z najbardziej znanych twórców pełnych przejść gier wrzucił ósmą część GTA 6, zatytułowaną „Vicki”. Nagrywa w 4K na PS5 Pro i Xboksie Series X/S.",
+        "body": [
+          "theRadBrad opublikował 25 listopada „GTA 6 Walkthrough Gameplay Part 8 - VICKI”. Odcinek trwa ponad 67 minut.",
+          "W opisie twórca podaje, że seria obejmuje pełną recenzję i całą rozgrywkę nagrywaną w 4K i 60 kl./s na PS5 Pro oraz Xboksie Series X/S, a w planach ma wszystkie zakończenia gry.",
+          "Ósma część miała ponad 276 tys. wyświetleń (odczyt 26.11, 6:16)."
+        ],
+        "sources": [
+          {
+            "name": "theRadBrad / YouTube",
+            "url": "https://www.youtube.com/watch?v=vLBOsP_WLU8",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=vLBOsP_WLU8",
+        "caption": {
+          "credit": "theRadBrad / YouTube",
+          "text": "Miniatura ósmej części przejścia GTA 6 na kanale theRadBrad. Seria ma obejmować całą fabułę i wszystkie zakończenia."
+        },
+        "insta": {
+          "tytul": "theRadBrad leci z GTA 6 na całego. Jest już 8. część przejścia",
+          "opis": "Nagrywa w 4K na PS5 Pro i obiecuje wszystkie zakończenia. Odcinek „Vicki” ma ponad 270 tys. wyświetleń."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/vLBOsP_WLU8/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/vLBOsP_WLU8/hqdefault.jpg",
+          "credit": "theRadBrad / YouTube",
+          "href": "https://www.youtube.com/watch?v=vLBOsP_WLU8",
+          "alt": "Miniatura 8. części przejścia GTA 6 theRadBrad",
+          "caption": "Kadr z ósmej części przejścia GTA 6 u theRadBrad."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-25",
+        "who": "Slogo",
+        "initials": "SL",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Slogo z ekipą testowali w GTA 6 bomby samoprzylepne",
+        "summary": "Nowy film Slogo to test sticky bomb w GTA 6. Sam nazywa się w opisie „specjalistą od bomb samoprzylepnych”.",
+        "body": [
+          "Slogo wrzucił 25 listopada film „Testing STICKY BOMBS in GTA 6”, trwający ok. 40 minut. Z opisu wynika, że razem z ekipą sprawdzali, na co stać bomby samoprzylepne w nowej grze Rockstara.",
+          "Widzowie w komentarzach żartują z zamiłowania jednego z kolegów do tych ładunków, a część prosi, by w tym tygodniu na kanale pojawiło się też coś innego niż GTA. Film miał ok. 56 tys. wyświetleń (odczyt 26.11, 6:16)."
+        ],
+        "sources": [
+          {
+            "name": "Slogo / YouTube",
+            "url": "https://www.youtube.com/watch?v=YH_lXgwv9fk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=YH_lXgwv9fk",
+        "caption": {
+          "credit": "Slogo / YouTube",
+          "text": "Miniatura filmu Slogo, w którym ekipa testuje bomby samoprzylepne w GTA 6."
+        },
+        "insta": {
+          "tytul": "Slogo i ekipa sprawdzili, co w GTA 6 robią bomby samoprzylepne",
+          "opis": "Prawie 40 minut testów. W komentarzach część widzów prosi już o przerwę od GTA 😅"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/YH_lXgwv9fk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/YH_lXgwv9fk/hqdefault.jpg",
+          "credit": "Slogo / YouTube",
+          "href": "https://www.youtube.com/watch?v=YH_lXgwv9fk",
+          "alt": "Miniatura filmu Slogo o bombach w GTA 6",
+          "caption": "Kadr z filmu Slogo o testach bomb w GTA 6."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "PewDiePie",
+        "initials": "PD",
+        "category": "Technologia",
+        "hype": 4,
+        "title": "PewDiePie kazał prawdziwym ludzkim komórkom mózgowym grać w Trombone Champ",
+        "summary": "PewDiePie wrzucił film, w którym ludzkie neurony hodowane w laboratorium grają w muzyczną grę Trombone Champ. W opisie dziękuje firmie Cortical Labs.",
+        "body": [
+          "Felix Kjellberg opublikował 26 listopada film „Making Real Human Brain Cells play Trombone Champ”. Trwa prawie 19 minut.",
+          "W opisie PewDiePie dziękuje Cortical Labs i linkuje do jej komputera CL1. Australijska firma zajmuje się systemami, w których hodowane ludzkie neurony są połączone z elektroniką.",
+          "Widzowie w komentarzach zestawiają ten film z tym, że reszta internetu gra teraz w GTA 6. W ciągu półtorej godziny od publikacji film miał ok. 8,4 tys. wyświetleń (odczyt 26.11, 14:17)."
+        ],
+        "sources": [
+          {
+            "name": "PewDiePie / YouTube",
+            "url": "https://www.youtube.com/watch?v=1BWgpPdk75I",
+            "origin": true
+          },
+          {
+            "name": "Cortical Labs",
+            "url": "https://corticallabs.com/cl1"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=1BWgpPdk75I",
+        "caption": {
+          "credit": "PewDiePie / YouTube",
+          "text": "Miniatura nowego filmu PewDiePie o neuronach grających w Trombone Champ. Sprzęt pochodzi od Cortical Labs, której twórca dziękuje w opisie."
+        },
+        "insta": {
+          "tytul": "PewDiePie dał prawdziwym ludzkim neuronom zagrać w Trombone Champ",
+          "opis": "Wszyscy grają w GTA 6, a Felix podłączył komórki mózgowe z laboratorium Cortical Labs do gry na puzonie."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/1BWgpPdk75I/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/1BWgpPdk75I/hqdefault.jpg",
+          "credit": "PewDiePie / YouTube",
+          "href": "https://www.youtube.com/watch?v=1BWgpPdk75I",
+          "alt": "Miniatura filmu PewDiePie o komórkach mózgowych grających w Trombone Champ",
+          "caption": "Kadr z filmu PewDiePie z komórkami mózgowymi i Trombone Champ."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
+        "who": "Jacob",
+        "initials": "JA",
+        "category": "Gaming",
+        "hype": 3,
+        "title": "Jacob sprawdza w Fortnite Setty, Kami i Matka. Drugi odcinek nowej serii ma ponad 240 tys. wyświetleń",
+        "summary": "W serii „Sprawdzam Fortnite” youtuberzy i proplayerzy mierzą się z Jacobem w konkurencjach. W drugim odcinku wystąpili Setty, Kami i Matek.",
+        "body": [
+          "Jacob opublikował 25 listopada film „SPRAWDZAM z SETTY, KAMI i MATEK w Fortnite”. Według opisu to drugi odcinek jego nowej serii, w której youtuberzy i zawodowi gracze sprawdzają się w konkurencjach w Fortnite.",
+          "Pod filmem Jacob pyta widzów, z kim nagrać kolejną część, a w opisie zaprasza też na swój turniej Jacob Cup. Odcinek miał ponad 242 tys. wyświetleń (odczyt 26.11, 6:16)."
+        ],
+        "sources": [
+          {
+            "name": "Jacob / YouTube",
+            "url": "https://www.youtube.com/watch?v=WlXRY_X7Eqw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=WlXRY_X7Eqw",
+        "caption": {
+          "credit": "Jacob / YouTube",
+          "text": "Miniatura drugiego odcinka serii „Sprawdzam Fortnite”, w którym Jacob gra z Setty, Kami i Matkiem."
+        },
+        "insta": {
+          "tytul": "Jacob ma nową serię. Tym razem sprawdzał w Fortnite Setty, Kami i Matka",
+          "opis": "Youtuberzy i proplayerzy w konkurencjach. Jacob pyta, kogo zaprosić następnym razem."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/WlXRY_X7Eqw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/WlXRY_X7Eqw/hqdefault.jpg",
+          "credit": "Jacob / YouTube",
+          "href": "https://www.youtube.com/watch?v=WlXRY_X7Eqw",
+          "alt": "Miniatura odcinka Sprawdzam Fortnite u Jacoba",
+          "caption": "Kadr z drugiego odcinka serii Jacoba „Sprawdzam Fortnite”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-26",
+        "who": "Vin Vinci",
+        "initials": "VV",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Vin Vinci pokazał klip do „Zacznijmy od początku”. Numer z czwartej solówki „Veni Vidi Vinci”",
+        "summary": "Raper wrócił w nowym numerze pod dawne adresy, żeby opowiedzieć o tym, co go ukształtowało. Utwór pochodzi z jego czwartego solowego albumu.",
+        "body": [
+          "Vin Vinci opublikował 26 listopada teledysk do utworu „Zacznijmy od początku” (prod. Phono CoZaBit). Klip zrealizowało MAMYTOSTUDIO.",
+          "W opisie raper pisze, że numer ma szczególne miejsce na jego czwartej solowej płycie „Veni Vidi Vinci” i że wraca w nim pod dawne adresy, by pokazać doświadczenia, które ukształtowały go jako człowieka i artystę. Album można zamawiać w pakietach na jego stronie.",
+          "Widzowie chwalą w komentarzach „stary styl” numeru. Klip miał ok. 2 tys. wyświetleń (odczyt 26.11, 14:17)."
+        ],
+        "sources": [
+          {
+            "name": "Vin Vinci / YouTube",
+            "url": "https://www.youtube.com/watch?v=H2a7y9da57U",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=H2a7y9da57U",
+        "caption": {
+          "credit": "Vin Vinci / YouTube",
+          "text": "Kadr z teledysku „Zacznijmy od początku”, utworu z czwartego solowego albumu Vin Vinciego „Veni Vidi Vinci”."
+        },
+        "ig": [
+          "vin_vinci_official"
+        ],
+        "insta": {
+          "tytul": "Vin Vinci wraca pod stare adresy w klipie „Zacznijmy od początku”",
+          "opis": "Numer z jego czwartej solówki „Veni Vidi Vinci”. W opisie pisze, że to opowieść o tym, co go ukształtowało."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/H2a7y9da57U/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/H2a7y9da57U/hqdefault.jpg",
+          "credit": "Vin Vinci / YouTube",
+          "href": "https://www.youtube.com/watch?v=H2a7y9da57U",
+          "alt": "Miniatura teledysku Vin Vinci Zacznijmy od początku",
+          "caption": "Kadr z teledysku Vin Vinciego „Zacznijmy od początku”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-26",
+        "who": "NULLIZMATYKA",
+        "initials": "NU",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "NULLIZMATYKA wydaje pierwszy autorski album zespołu. Na koniec pokazała klip do „Tao”",
+        "summary": "Zespół Nullizmatyka opublikował teledysk do „Tao”, numeru zamykającego płytę. Preorder albumu trwa, wysyłka ma ruszyć 1 grudnia.",
+        "body": [
+          "NULLIZMATYKA wrzuciła 26 listopada oficjalny teledysk do utworu „Tao”. W opisie zespół zapowiada, że preorder albumu jest dostępny w sklepie Dystrykt, a wysyłka ruszy 1 grudnia.",
+          "„Tao” ma być opowieścią o relacjach, które kończą się, zanim zdążymy zrozumieć ich znaczenie, i podziękowaniem za wszystko, co nas ukształtowało. Według komentarza zespołu to pierwszy autorski album nagrany w składzie z perkusją, basem i dwoma DJ-ami przy gramofonach, a „Tao” mocno go zamyka.",
+          "Klip miał niespełna tysiąc wyświetleń (odczyt 26.11, 14:17)."
+        ],
+        "sources": [
+          {
+            "name": "NULLIZMATYKA / YouTube",
+            "url": "https://www.youtube.com/watch?v=dx7mqcg6qeQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=dx7mqcg6qeQ",
+        "caption": {
+          "credit": "NULLIZMATYKA / YouTube",
+          "text": "Kadr z teledysku „Tao”, który zamyka pierwszy autorski album zespołu Nullizmatyka."
+        },
+        "insta": {
+          "tytul": "Nullizmatyka wydaje pierwszy album jako zespół. Klip do „Tao” już jest",
+          "opis": "Perkusja, bas i dwóch DJ-ów przy gramofonach. Płyta rusza do ludzi 1 grudnia."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/dx7mqcg6qeQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/dx7mqcg6qeQ/hqdefault.jpg",
+          "credit": "NULLIZMATYKA / YouTube",
+          "href": "https://www.youtube.com/watch?v=dx7mqcg6qeQ",
+          "alt": "Miniatura teledysku Nullizmatyka Tao",
+          "caption": "Kadr z teledysku „Tao” zespołu Nullizmatyka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-25",
         "who": "ZMASLO",
         "initials": "ZM",
         "category": "GTA 6",
@@ -310,6 +659,211 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Wielka Brytania",
+        "initials": "TM",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Żółw Timothy przeżył ostrzał Sewastopola w 1854 r. i dożył 2004 r.",
+        "summary": "Żółwica Timothy była przy ostrzale Sewastopola w czasie wojny krymskiej, a zmarła w Anglii w wieku ok. 160 lat.",
+        "body": [
+          "Timothy był żółwiem greckim, który był świadkiem ostrzału Sewastopola w czasie wojny krymskiej w 1854 r. Zmarł w 2004 r. w zamku Powderham w hrabstwie Devon w wieku szacowanym na ok. 160 lat, jako najstarsze znane zwierzę mieszkające w Wielkiej Brytanii.",
+          "Mimo imienia Timothy był samicą. W XIX wieku nie umiano dobrze rozpoznawać płci żółwi, więc imię zostało, choć to była samica."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Timothy_(tortoise)"
+          },
+          {
+            "name": "BBC News",
+            "url": "http://news.bbc.co.uk/1/hi/england/devon/3607053.stm"
+          }
+        ],
+        "caption": {
+          "credit": "Jeannette / Wikimedia Commons, domena publiczna",
+          "text": "Na zdjęciu żółwica Timothy w zamku Powderham. Tam spędziła ostatnie dekady życia."
+        },
+        "insta": {
+          "tytul": "Ten żółw był na wojnie krymskiej w 1854 r. Zmarł… w 2004",
+          "opis": "Timothy dożył ok. 160 lat. I to była samica, mimo imienia."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/TimothythetortoisePowderhamCastle_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:TimothythetortoisePowderhamCastle_(cropped).jpg",
+          "credit": "Jeannette / Wikimedia Commons, Public domain",
+          "alt": "Żółw Timothy na trawie w zamku Powderham",
+          "caption": "Żółwica Timothy w zamku Powderham w Anglii."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "USA",
+        "initials": "51",
+        "category": "Internet",
+        "hype": 4,
+        "title": "Żart na Facebooku o „szturmie na Strefę 51” zebrał ponad 2 mln zapisanych",
+        "summary": "W 2019 r. ktoś dla żartu założył wydarzenie „Storm Area 51”. Skończyło się medialną burzą i festiwalami na pustyni w Nevadzie.",
+        "body": [
+          "Matty Roberts stworzył 27 czerwca 2019 r. prześmiewcze wydarzenie na Facebooku, wzywające do wspólnego wtargnięcia do tajnej bazy Strefa 51 w poszukiwaniu kosmitów. Na 20 września 2019 r. „idę” kliknęło ponad 2 mln osób, a kolejne 1,5 mln „zainteresowanych”.",
+          "Z żartu zrobiło się zjawisko: o wydarzeniu pisały media na całym świecie, a w okolicy bazy odbyły się imprezy, m.in. festiwal Alienstock."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Storm_Area_51"
+          },
+          {
+            "name": "Vox",
+            "url": "https://www.vox.com/the-highlight/2019/9/20/20864550/storm-area-51-matty-roberts-rachel-nevada-aliens-meme"
+          }
+        ],
+        "caption": {
+          "credit": "David James Henry / Wikimedia Commons, CC BY-SA 4.0",
+          "text": "Zdjęcie z festiwalu Alienstock w 2019 r., jednej z imprez, które wyrosły z facebookowego żartu o Strefie 51."
+        },
+        "insta": {
+          "tytul": "Ktoś dla beki założył event „szturmujemy Strefę 51”. Zapisało się 2 mln ludzi",
+          "opis": "Rok 2019. Skończyło się festiwalem Alienstock na pustyni w Nevadzie 👽"
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Alienstock_2019_Music_Festival.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Alienstock_2019_Music_Festival.jpg",
+          "credit": "David James Henry / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Ludzie na festiwalu Alienstock 2019 w Nevadzie",
+          "caption": "Festiwal Alienstock 2019 w Nevadzie."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Kalendarz",
+        "initials": "31",
+        "category": "Kalendarz",
+        "hype": 3,
+        "title": "Istnieją daty takie jak 0 stycznia, 30 lutego czy 35 maja. I są używane",
+        "summary": "Nieistniejące daty pojawiają się w kalendarzach, rachunkowości i żartach. Jedna trafiła nawet na nagrobek.",
+        "body": [
+          "Wikipedia prowadzi listę „niestandardowych dat”, takich jak 0 stycznia, 30 lutego czy 35 maja. Część jest wymyślona dla żartu albo sarkazmu, inne służą do obliczeń matematycznych, naukowych lub księgowych, gdy zwykły kalendarz się nie sprawdza.",
+          "Przykład z życia: na jednym z nagrobków jako dzień śmierci wyryto 31 lutego."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/List_of_non-standard_dates"
+          },
+          {
+            "name": "U.S. Naval Observatory (archiwum)",
+            "url": "https://web.archive.org/web/20120228195938/http://tycho.usno.navy.mil/leapsec.html"
+          }
+        ],
+        "caption": {
+          "credit": "Jason Corfman / Wikimedia Commons, CC BY-SA 3.0",
+          "text": "Nagrobek z datą 31 lutego, czyli dniem, którego w kalendarzu nie ma."
+        },
+        "insta": {
+          "tytul": "30 lutego, 0 stycznia, 35 maja. Takie daty naprawdę są w użyciu",
+          "opis": "Do żartów, ale i do obliczeń. Ktoś miał nawet 31 lutego na nagrobku."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Feb31OnTombstone.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Feb31OnTombstone.jpg",
+          "credit": "Corfy at English Wikipedia, Photo Credit: Jason Corfman / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Nagrobek z wyrytą datą 31 lutego",
+          "caption": "Nagrobek z datą 31 lutego."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "The Residents",
+        "initials": "TR",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Zespół The Residents od ok. 50 lat występuje w hełmach-gałkach ocznych i nikt nie wie, kto w nim gra",
+        "summary": "Amerykański kolektyw awangardowy wydał ponad 60 albumów, ale skład wciąż pozostaje tajemnicą. Krążyła nawet plotka, że to Beatlesi.",
+        "body": [
+          "The Residents to amerykański kolektyw muzyczny i artystyczny, który od debiutu „Santa Dog” w 1972 r. wydał ponad 60 albumów, odbył siedem dużych tras po świecie i robił muzykę do filmów.",
+          "Członkowie występują w przebraniach, najsłynniejsze z nich to wielkie hełmy w kształcie gałek ocznych z cylindrami. Swoją anonimowość utrzymują od ok. 50 lat, a jedna z wczesnych plotek głosiła, że za maskami stoją Beatlesi."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/The_Residents"
+          },
+          {
+            "name": "Nostalgia Central",
+            "url": "https://nostalgiacentral.com/music/artists-l-to-z/artists-r/residents/"
+          }
+        ],
+        "caption": {
+          "credit": "SarahStierch / Wikimedia Commons, CC BY 4.0",
+          "text": "Hełm-oko The Residents na wystawie. W takich przebraniach zespół występuje od dekad."
+        },
+        "insta": {
+          "tytul": "Ten zespół gra od 50 lat w maskach-oczach i nikt nie wie, kto to jest",
+          "opis": "The Residents wydali ponad 60 płyt. Była nawet plotka, że to przebrani Beatlesi."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Residents_Eye_-_EMP_-_Sarah_Stierch.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:The_Residents_Eye_-_EMP_-_Sarah_Stierch.jpg",
+          "credit": "SarahStierch / Wikimedia Commons, CC BY 4.0",
+          "alt": "Hełm w kształcie gałki ocznej z cylindrem zespołu The Residents na wystawie",
+          "caption": "Hełm-oko The Residents na wystawie w Seattle."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Ocean Spokojny",
+        "initials": "52",
+        "category": "Przyroda",
+        "hype": 4,
+        "title": "Na Pacyfiku pływa wieloryb, który śpiewa na częstotliwości, której nie używa żaden inny",
+        "summary": "„Najbardziej samotny wieloryb świata” nawołuje na 52 Hz. Nikt go nigdy nie widział, tylko słyszał.",
+        "body": [
+          "Od końca lat 80. hydrofony na północnym Pacyfiku rejestrują nawoływania wieloryba na częstotliwości 52 Hz. Płetwal błękitny i płetwal zwyczajny, których trasy migracji przypomina, odzywają się na 10–39 Hz i ok. 20 Hz.",
+          "Zwierzęcia nigdy nie zobaczono, a jego gatunek pozostaje nieznany. Ponieważ wydawało się jedynym osobnikiem nawołującym na tej częstotliwości, nazwano go „najbardziej samotnym wielorybem świata”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/52-hertz_whale"
+          },
+          {
+            "name": "Animal Planet / Discovery (archiwum)",
+            "url": "https://web.archive.org/web/20131224184330/http://blogs.discovery.com/animal_news/2012/05/52-hertz-the-loneliest-whale-in-the-world.html"
+          }
+        ],
+        "caption": {
+          "credit": "NOAA / Wikimedia Commons, domena publiczna",
+          "text": "Spektrogram nawoływania wieloryba 52 Hz nagranego przez NOAA. Widać na nim dźwięk, po którym rozpoznaje się tego osobnika."
+        },
+        "insta": {
+          "tytul": "Na Pacyfiku jest wieloryb, którego nie słyszy żaden inny",
+          "opis": "Nawołuje na 52 Hz, a inne wieloryby dużo niżej. Nikt go nigdy nie widział, tylko nagrywał."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Akblue52a_256_064c.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Akblue52a_256_064c.jpg",
+          "credit": "NOAA / Wikimedia Commons, Public domain",
+          "alt": "Spektrogram nawoływania wieloryba 52 Hz",
+          "caption": "Spektrogram nawoływania wieloryba 52 Hz (NOAA)."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-26",
