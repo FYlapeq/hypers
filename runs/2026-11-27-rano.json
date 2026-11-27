@@ -1,0 +1,2135 @@
+{
+ "run": {
+  "date": "2026-11-27",
+  "slot": "rano",
+  "generated_at": "2026-11-27T05:16:55.336Z",
+  "candidates": 103,
+  "with_free_image": 39,
+  "ready": 20
+ },
+ "status": {
+  "wiki-en:Template:Did you know": "ok 9",
+  "wiki-pl:Szablon:Czy wiesz": "ok 3",
+  "rss:Atlas Obscura": "ok 12",
+  "wiki-pl:Wikiprojekt:Czy wiesz/ekspozycje": "ok 9",
+  "wiki-en:Wikipedia:Recent additions": "ok 333",
+  "rss:Mental Floss": "ok 12",
+  "rss:Smithsonian Smart News": "ok 12",
+  "rss:Ciekawostki historyczne": "ok 12",
+  "wiki-en:Wikipedia:Unusual articles": "ok 4262",
+  "drugie-zrodlo": "ok 20/36"
+ },
+ "candidates": [
+  {
+   "id": "c1",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co aż do czasu zakończenia II wojny światowej blokowało swobodną komunikację pomiędzy krakowskimi ulicami Tarłowską a Zwierzyniecką?",
+   "article": {
+    "title": "Ulica Tarłowska w Krakowie",
+    "url": "https://pl.wikipedia.org/wiki/Ulica_Tar%C5%82owska_w_Krakowie",
+    "extract": "Ulica Tarłowska – ulica w Krakowie, w dzielnicy I Stare Miasto, na Nowym Świecie.\nŁączy plac na Groblach z ulicami Zwierzyniecką i Małą."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Tarłowska street, Kraków, Poland.jpg)"
+  },
+  {
+   "id": "c2",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że „Grzybek” może być wpisany do rejestru zabytków?",
+   "article": {
+    "title": "Nastawnia dysponująca WZD",
+    "url": "https://pl.wikipedia.org/wiki/Nastawnia_dysponuj%C4%85ca_WZD",
+    "extract": "Nastawnia dysponująca WZD, znana jako Nastawnia „Grzybek” – zabytkowy budynek nastawni znajdujący się na terenie stacji Warszawa Zachodnia, przy ulicy Tunelowej 8."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "FAL (File:Varsovio, okcidenta stacidomo, turo 33.jpeg)"
+  },
+  {
+   "id": "c3",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…czy w istniejących umowach kredytowych WIBOR musi być zastąpiony współczynnikiem POLSTR?",
+   "article": {
+    "title": "POLSTR",
+    "url": "https://pl.wikipedia.org/wiki/POLSTR",
+    "extract": "POLSTR (ang. Polish Short Term Rate) – referencyjna wysokość oprocentowania typu RFR (ang. Risk-Free Rate = stopa wolna od ryzyka), którego administratorem jest GPW Benchmark S.A., przedstawiająca średni poziom stopy procentowej ważonej wolumenem transakcji depozytowych w PLN zawartych na termin O/N na hurtowym rynku pieniężnym. Wartość wskaźnika POLSTR jest wyliczana i publikowana w następnym dniu roboczym po dacie wskaźnika."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c4",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…że w powieści Stanisław i Izabela. Epilog „Lalki” Stanisław Wokulski trafia do niewoli piratów?",
+   "article": {
+    "title": "Stanisław i Izabela. Epilog „Lalki”",
+    "url": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_i_Izabela._Epilog_%E2%80%9ELalki%E2%80%9D",
+    "extract": "Stanisław i Izabela. Epilog „Lalki” – powieść Piotra S. Wirskiego wydana w 1997 roku przez warszawską Oficynę Wydawniczą „Most”. Stanowi literacką kontynuację Lalki Bolesława Prusa, przedstawiając dalsze losy Stanisława Wokulskiego i Izabeli Łęckiej.\nPowieść łączy elementy romansu i literatury przygodowej."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c5",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…jak się kamuflują Paratropididae?",
+   "article": {
+    "title": "Paratropididae",
+    "url": "https://pl.wikipedia.org/wiki/Paratropididae",
+    "extract": "Paratropididae – rodzina pająków z infrarzędu ptaszników. Obejmuje 50 opisanych gatunków. Zamieszkują strefę neotropikalną obu Ameryk."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Paratropis_tuxtlensis_adult_male.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paratropis_tuxtlensis_adult_male.jpg",
+    "file": "File:Paratropis tuxtlensis adult male.jpg",
+    "artist": "Alejandro Valdez-Mondragón, Jorge I. Mendoza, Oscar F. Francke",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "width": 927,
+    "height": 795,
+    "ok": true
+   }
+  },
+  {
+   "id": "c6",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…co wspólnego z inkaskimi ruinami mają cywilizacje ze współczesnej Kambodży i Iranu?",
+   "article": {
+    "title": "Ze wschodu na zachód. Podróż dookoła świata",
+    "url": "https://pl.wikipedia.org/wiki/Ze_wschodu_na_zach%C3%B3d._Podr%C3%B3%C5%BC_dooko%C5%82a_%C5%9Bwiata",
+    "extract": "Ze wschodu na zachód. Podróż dookoła świata (ang. East to West: A Journey Round the World) – książka podróżnicza brytyjskiego historyka i historiozofa Arnolda J. Toynbee’ego, wydana w 1958 roku przez Oxford University Press. Powstała na podstawie artykułów publikowanych w dzienniku „The Observer” podczas podróży autora dookoła świata."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c7",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…który francuski projektant mody stworzył Bibliotekę Sztuki i Archeologii?",
+   "article": {
+    "title": "Jacques Doucet",
+    "url": "https://pl.wikipedia.org/wiki/Jacques_Doucet",
+    "extract": "Jacques Doucet (ur. 19 lutego 1853 w Paryżu, zm. 30 października 1929 w Neuilly-sur-Seine) – francuski projektant mody, bibliofil, mecenas i kolekcjoner sztuki."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Caricature of Jacques Doucet by Leonetto Cappiello, 1903.jpg)"
+  },
+  {
+   "id": "c8",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…kiedy powstała Brama Krakowska w Szydłowie?",
+   "article": {
+    "title": "Brama Krakowska w Szydłowie",
+    "url": "https://pl.wikipedia.org/wiki/Brama_Krakowska_w_Szyd%C5%82owie",
+    "extract": "Brama Krakowska w Szydłowie – brama miejska w Szydłowie, pochodząca z XIV wieku, będąca częścią założenia obronnego miasta. Składa się z zachowanej frontowej ściany wieży bramnej oraz przedbramia."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY 4.0 (File:2026-09 Szydłów (33).jpg)"
+  },
+  {
+   "id": "c9",
+   "source": "wiki-pl",
+   "lang": "pl",
+   "hook": "…ile jest generacji gier wideo z serii Pokémon?",
+   "article": {
+    "title": "Pokémon (seria gier komputerowych)",
+    "url": "https://pl.wikipedia.org/wiki/Pok%C3%A9mon_(seria_gier_komputerowych)",
+    "extract": "Pokémon – seria fabularnych gier komputerowych tworzonych przez japońskie studio Game Freak i wydawanych przez Nintendo na własne konsole, będąca trzonem franczyzy Pokémon."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:International Pokémon logo.svg)"
+  },
+  {
+   "id": "c10",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sex with Hitler: Want to get frisky with the Führer?",
+   "article": {
+    "title": "Sex with Hitler",
+    "url": "https://en.wikipedia.org/wiki/Sex_with_Hitler",
+    "extract": "Sex with Hitler is a 2022 pornographic isometric shooter visual novel video game developed by Romantic Room, wherein the player takes control of Adolf Hitler, dictator of Nazi Germany, and is tasked with dating four women of various ethnicities.\nThe game received generally negative reviews, with critics disputing the game's portrayal of Hitler as having two testicles, as well as deeming it poorly animated and un-erotic."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c11",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of shoe-throwing incidents: The recurring trend of high-ranking people being attacked with shoes.",
+   "article": {
+    "title": "List of shoe-throwing incidents",
+    "url": "https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents",
+    "extract": "Shoe-throwing showing the sole of one's shoe or using shoes to insult are forms of protest in many parts of the world. Shoe-throwing as an insult dates back to ancient times, being mentioned in verse 10 of Psalm 60 and the similar verse 10 of Psalm 108 in the Old Testament. Modern incidents where shoes were thrown at political figures have taken place in Australia, India, Ireland, Taiwan, Hong Kong, Pakistan, the United Kingdom, the United States, and most notably the Arab world.\nPosters of former U.S. president George W. Bush's face have long appeared through the Middle East with shoes attached to them, and some people have called former secretary of state Condoleezza Rice kundara, meaning \"shoe\"."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bush_shoeing_incident.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bush_shoeing_incident.jpg",
+    "file": "File:Bush shoeing incident.jpg",
+    "artist": "U.S. Federal Government",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 360,
+    "height": 216,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20081215055005/http://news.bbc.co.uk/2/hi/7782422.stm",
+    "title": "BBC NEWS | Middle East | Shoes thrown at Bush on Iraq trip",
+    "matched": [
+     "incidents",
+     "people",
+     "attacked",
+     "shoes"
+    ]
+   }
+  },
+  {
+   "id": "c12",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Press Your Luck scandal: Through countless VCR recordings and pattern memorization, this man became Press Your Luck's biggest winner ever.",
+   "article": {
+    "title": "Press Your Luck scandal",
+    "url": "https://en.wikipedia.org/wiki/Press_Your_Luck_scandal",
+    "extract": "The Press Your Luck scandal was contestant Michael Larson's 1984 record-breaking win of $110,237 (equivalent to $341,622 in 2025) on the American game show Press Your Luck.\nAn Ohio man with a penchant for get-rich-quick schemes, Larson studied the game show and discovered that its ostensibly randomized game board was actually only five different patterns of lights. After successfully auditioning in person at the Los Angeles studio, Larson performed on May 19, 1984, and played so successfully that CBS executives accused him of cheating.\nA recurring subject of interest and inspiration, the Press Your Luck scandal has been revisited in two documentaries by Game Show Network, a Spanish-language graphic novel, and the 2024 film The Luckiest Man in America, starring Paul Walter Hauser as Larson."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c13",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Syncro-Vox: A very unnerving solution to animating lip movements: slap real actors' lips on your cartoons.",
+   "article": {
+    "title": "Syncro-Vox",
+    "url": "https://en.wikipedia.org/wiki/Syncro-Vox",
+    "extract": "Syncro-Vox (sometimes spelled Synchro-Vox) is a filming method that combines static images with moving images, the most common use of which is to superimpose talking lips on a photograph of a celebrity or a cartoon drawing. It is one of the most extreme examples of the cost-cutting strategy of limited animation. The method was developed by cameraman Edwin \"Ted\" Gillette in the 1950s in order to simulate talking animals in television commercials. Gillette filed the technique on February 4, 1952, and obtained patent #2,739,505 on March 27, 1956."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c14",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fred Fuchs: Known for producing The Godfather Part III and Bram Stocker’s Dracula. He’s also the creator of a Life of Black Tiger under the pseudonym “Fred Fucks”",
+   "article": {
+    "title": "Fred Fuchs",
+    "url": "https://en.wikipedia.org/wiki/Fred_Fuchs",
+    "extract": "Frederic S. Fuchs () is a television and film producer active in the United States and Canada, where he holds dual citizenship. He became an executive in the Canadian Broadcasting Corporation (CBC) on April 3, 2006."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c15",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Seymour Cocks: British MP between 1929 and 1953.",
+   "article": {
+    "title": "Seymour Cocks",
+    "url": "https://en.wikipedia.org/wiki/Seymour_Cocks",
+    "extract": "Frederick Seymour Cocks  (25 October 1882 – 29 May 1953) was a British Labour MP.\nBorn in Darlington, Cocks was educated at Plymouth College and became a journalist. He joined the Independent Labour Party and wrote several tracts for the party and for the Union of Democratic Control. He stood unsuccessfully for Maidstone at the 1923 general election. He was elected to the safe seat of Broxtowe at the 1929 general election."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Seymour_Cocks_in_1942.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Seymour_Cocks_in_1942.jpg",
+    "file": "File:Seymour Cocks in 1942.jpg",
+    "artist": "Elliott & Fry",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 597,
+    "height": 800,
+    "ok": true
+   }
+  },
+  {
+   "id": "c16",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "274301 Wikipedia: An asteroid named after Wikipedia. We truly came to the stars.",
+   "article": {
+    "title": "274301 Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/274301_Wikipedia",
+    "extract": "274301 Wikipedia, provisional designation 2008 QH24, is a Vestian asteroid orbiting in the inner region of the asteroid belt, approximately 1 kilometer (0.6 mi) in diameter. It was discovered on 25 August 2008 by astronomers at the Andrushivka Astronomical Observatory in northern Ukraine. The asteroid was named after the online encyclopedia Wikipedia in January 2013."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "Public domain (File:Orbit of 274301 Wikipedia.svg)"
+  },
+  {
+   "id": "c17",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "DeepDream: An algorithmic program, that enhances your image with more pareidolia.",
+   "article": {
+    "title": "DeepDream",
+    "url": "https://en.wikipedia.org/wiki/DeepDream",
+    "extract": "DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev that uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like appearance reminiscent of a psychedelic experience in the deliberately overprocessed images.\nGoogle's program popularized the term (deep) \"dreaming\" to refer to the generation of images that produce desired activations in a trained deep network, and the term now refers to a collection of related approaches."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%22Mona_Lisa%22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:%22Mona_Lisa%22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg",
+    "file": "File:\"Mona Lisa\" with DeepDream effect using VGG16 network trained on ImageNet.jpg",
+    "artist": "Pjfinlay",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 687,
+    "height": 1024,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20150708233542/http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html",
+    "title": "Research Blog: DeepDream - a code example for visualizing Neural Networks",
+    "matched": [
+     "deepdream",
+     "algorithmic",
+     "program",
+     "enhances",
+     "image"
+    ]
+   }
+  },
+  {
+   "id": "c18",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "ISO 3103: The ISO standard cup of tea.",
+   "article": {
+    "title": "ISO 3103",
+    "url": "https://en.wikipedia.org/wiki/ISO_3103",
+    "extract": "ISO 3103 is a standard published by the International Organization for Standardization (commonly referred to as ISO), specifying a standardized method for brewing tea, possibly sampled by the standardized methods described in ISO 1839. It was originally laid down in 1980 as BS 6008:1980 by the British Standards Institution, and a revision was published in December, 2019 as ISO/NP 3103. It was produced by ISO Technical Committee 34 (Food products), Sub-Committee 8 (Tea).\nThe abstract states the following:\n\nThe method consists in extracting of soluble substances in dried tea leaf, contained in a porcelain or earthenware pot, by means of freshly boiling water, pouring of the liquor into a white porcelain or earthenware bowl, examination of the organoleptic properties of the infused leaf, and of the liquor with or without milk, or both."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c19",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Dissociative fugue: You black out and when you wake up years have passed, you're in a different city, you have a new name and have lived a different life while you were unconscious. Also known as fugue state or psychogenic fugue.",
+   "article": {
+    "title": "Dissociative fugue",
+    "url": "https://en.wikipedia.org/wiki/Dissociative_fugue",
+    "extract": "Dissociative fugue ( FYOOG), previously referred to as a fugue state or psychogenic fugue, is a rare psychiatric condition characterized by reversible amnesia regarding one's identity, often accompanied by unexpected travel or wandering. In some cases, individuals may assume a new identity and be unable to recall personal information from before the onset of symptoms. It is classified as a mental and behavioral disorder and is variously categorized as a dissociative disorder, a conversion disorder, or a somatic symptom disorder. According to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), dissociative fugue is a subset of dissociative amnesia."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Headscratcher.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Headscratcher.png",
+    "file": "File:Headscratcher.png",
+    "artist": "scanned by Open Clip Art Library user Johnny Automatic",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 710,
+    "height": 800,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20070928080517/http://www.psychiatryonline.com/content.aspx?aID=9744",
+    "title": "PsychiatryOnline",
+    "matched": [
+     "dissociative",
+     "fugue",
+     "passed",
+     "state",
+     "psychogenic"
+    ]
+   }
+  },
+  {
+   "id": "c20",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cupcakke: Composer of such notable hits as \"Vagina\", \"Deepthroat\", \"Best Dick Sucker\", \"Squidward Nose\", and, most recently, \"One of My Bed Bugs Ate My Pussy\".",
+   "article": {
+    "title": "Cupcakke",
+    "url": "https://en.wikipedia.org/wiki/Cupcakke",
+    "extract": "Elizabeth Eden Harris (born May 31, 1997), known professionally as Cupcakke (often stylized as cupcakKe or CupcakKe; pronounced \"cupcake\"), is an American rapper and singer-songwriter known for her hypersexualized, brazen, and often comical persona and music.\nBorn in Chicago, Illinois, Cupcakke began her career as a rapper in 2012 by releasing material online. She drew attention in 2015 when she released two music videos, \"Vagina\" and \"Deepthroat\", on YouTube that went viral; the songs were later included on her debut mixtape, Cum Cake (2016), which was included on Rolling Stone's list of the Best Rap Albums of 2016 at number 23. A second mixtape, S.T.D (Shelters to Deltas), released in 2016, preceded her studio albums: Audacious (2016), Queen Elizabitch (2017), Ephorize (2018), and Eden (2018)."
+   },
+   "related": [],
+   "image": null,
+   "image_rejected": "CC BY-SA 4.0 (File:Cupcakke in 2022.jpg)"
+  },
+  {
+   "id": "c21",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Sonic Dreams Collection: This surreal fangame, said to be unfinished Sonic the Hedgehog games on the Dreamcast, pulls no punches to the notorious Sonic fandom.",
+   "article": {
+    "title": "Sonic Dreams Collection",
+    "url": "https://en.wikipedia.org/wiki/Sonic_Dreams_Collection",
+    "extract": "Sonic Dreams Collection is a 2015 art game developed by Arcane Kids for OS X and Windows. It is an unofficial game based on Sega's Sonic the Hedgehog franchise that compiles four minigames presented as unfinished Sonic games, but the game as a whole later reveals itself to be a psychological horror game satirizing the then-modern Sonic fandom, known for its peculiarities. They include the character creator Make My Sonic, the massively multiplayer online role-playing game Eggman Origin, the adventure game Sonic Movie Maker, and the virtual reality (VR) game My Roommate Sonic. They are described in-game as having been developed by a nonexistent Sega studio for the Dreamcast in the late 1990s."
+   },
+   "related": [],
+   "image": null
+  },
+  {
+   "id": "c22",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that the Initial Deed was so named because the grantees were identified only by their initials?",
+   "article": {
+    "title": "Initial Deed (Providence)",
+    "url": "https://en.wikipedia.org/wiki/Initial_Deed_(Providence)",
+    "extract": "The Initial Deed was a 1638 land conveyance by Roger Williams that granted twelve associates equal rights with himself in the lands he had acquired from the Narragansett sachems Canonicus and Miantonomi. The grant encompassed the settlement of Providence and lands extending south to the Pawtuxet River. The deed's modern name derives from its identification of the grantees only by their initials.\nThe original document is lost, and its text survives in two later versions."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Prov-deed-1666-c-00232_4607fab275.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Prov-deed-1666-c-00232_4607fab275.jpg",
+    "file": "File:Prov-deed-1666-c-00232 4607fab275.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 545,
+    "height": 831,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6
+   }
+  },
+  {
+   "id": "c23",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Aloha Airlines Flight 243: Landed safely and with only one casualty, despite the plane's ceiling flying off mid-flight.",
+   "article": {
+    "title": "Aloha Airlines Flight 243",
+    "url": "https://en.wikipedia.org/wiki/Aloha_Airlines_Flight_243",
+    "extract": "Aloha Airlines Flight 243 was a scheduled domestic passenger flight flown by Aloha Airlines between Hilo and Honolulu in Hawaii. On April 28, 1988, the Boeing 737-200 airplane serving the flight suffered extensive damage after an explosive decompression in flight, caused by part of the fuselage breaking due to poor maintenance and metal fatigue. The plane was able to land safely at Kahului Airport on Maui. The one fatality, flight attendant Clarabelle \"C.B.\" Lansing, was ejected from the airplane."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_aftermath_of_N73711.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:The_aftermath_of_N73711.jpg",
+    "file": "File:The aftermath of N73711.jpg",
+    "artist": "Federal Aviation Administration",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 300,
+    "height": 186,
+    "ok": true
+   },
+   "second_source": {
+    "name": "staradvertiser.com",
+    "url": "https://www.staradvertiser.com/2018/04/27/photo-galleries/aloha-airlines-flight-243-april-28-1988/",
+    "title": "Aloha Airlines Flight 243, April 28, 1988 | Honolulu Star-Advertiser",
+    "matched": [
+     "243",
+     "aloha",
+     "airlines",
+     "flight",
+     "landed",
+     "plane",
+     "ceiling"
+    ]
+   }
+  },
+  {
+   "id": "c24",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Rednaxela Terrace: A street in Hong Kong, whose name was reportedly reversed due to a clerical error.",
+   "article": {
+    "title": "Rednaxela Terrace",
+    "url": "https://en.wikipedia.org/wiki/Rednaxela_Terrace",
+    "extract": "Rednaxela Terrace (Chinese: 列拿士地臺; Jyutping: lit6 naa4 si6 dei6 toi4) is a pedestrian-only street in Mid-Levels, Hong Kong.\nIt is 63 metres (207 ft) long and junctions Shelley Street to the west and Peel Street to the east."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Rednaxelaterrace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Rednaxelaterrace.jpg",
+    "file": "File:Rednaxelaterrace.jpg",
+    "artist": "Lancer1210",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 639,
+    "height": 479,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.edgedesign.com.hk/2011-acts-rednaxela-apartment"
+   }
+  },
+  {
+   "id": "c25",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Olympic oaks: Gifts from the Führer. Some are still alive.",
+   "article": {
+    "title": "Olympic oaks",
+    "url": "https://en.wikipedia.org/wiki/Olympic_oaks",
+    "extract": "The Olympic oaks, informally called Hitler oaks, are English oak trees that were given to gold medal winners of the 1936 Berlin Olympic Games. 130 gold medals and trees, which were year-old saplings, were awarded. Several have survived."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Berlin%2C_Olympiade%2C_Tilly_Fleischer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Berlin,_Olympiade,_Tilly_Fleischer.jpg",
+    "file": "File:Berlin, Olympiade, Tilly Fleischer.jpg",
+    "artist": "MachoCarioca",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "width": 280,
+    "height": 409,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20191008121321/https://www.stuff.co.nz/timaru-herald/news/102652159/timarus-jack-lovelock-oak-inspires-photo-exhibition-of-others-gifted-by-adolf-hitler"
+   }
+  },
+  {
+   "id": "c26",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Eyes (cheese): There are eyes in the cheese, but no cheese in the eyes.",
+   "article": {
+    "title": "Eyes (cheese)",
+    "url": "https://en.wikipedia.org/wiki/Eyes_(cheese)",
+    "extract": "Eyes are the round holes that are a characteristic feature of some Swiss-type cheeses (e.g. Emmentaler cheese) and some Dutch-type cheeses. The eyes are formed by bubbles of carbon dioxide gas during the cheesemaking process. The gas is produced by various species of bacteria in the cheese."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emmentaler_aoc_block.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emmentaler_aoc_block.jpg",
+    "file": "File:Emmentaler aoc block.jpg",
+    "artist": "Dieter Seeger",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 672,
+    "height": 896,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 4,
+    "closest": "https://web.archive.org/web/20160826155845/http://www.genoscope.cns.fr/spip/Propionibacterium-freudenreichii,467.html"
+   }
+  },
+  {
+   "id": "c27",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pier Paolo Pasolini: Director of both one of the most beautiful films about Jesus ever made (which is kinda ironic considering he was a gay Marxist atheist) and one of the most disturbing movies ever made. He was one of the very few communists during the protests of 1968 to side with the police over the students. He naturally made a lot of enemies, and he got murdered by getting run over by his own car in 1975, with his assassins being, depending on who you ask, either a sole teenage prostitute or a team of neo-fascist terrorists.",
+   "article": {
+    "title": "Pier Paolo Pasolini",
+    "url": "https://en.wikipedia.org/wiki/Pier_Paolo_Pasolini",
+    "extract": "Pier Paolo Pasolini (Italian: [ˌpjɛr ˈpaːolo pazoˈliːni]; 5 March 1922 – 2 November 1975) was an Italian revolutionary, poet, writer, filmmaker, actor, and playwright. He is considered one of the defining public intellectuals in 20th-century Italian history, influential both as an artist and a political figure. He is known for directing The Gospel According to St. Matthew, Teorema, the films from Trilogy of Life (The Decameron, The Canterbury Tales and Arabian Nights) and Salò, or the 120 Days of Sodom."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/PierPaoloPasolini_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:PierPaoloPasolini_(crop).jpg",
+    "file": "File:PierPaoloPasolini (crop).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 713,
+    "height": 1006,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.repubblica.it/cultura/2021/11/15/news/pier_paolo_pasolini_l_uomo_l_artista_l_intellettuale_un_volume_in_digitale_dell_espresso-325751209/"
+   }
+  },
+  {
+   "id": "c28",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bayswater Subway: Bridge in Perth that has been hit by trucks 50 times between 2014 and 2020.",
+   "article": {
+    "title": "Bayswater Subway",
+    "url": "https://en.wikipedia.org/wiki/Bayswater_Subway",
+    "extract": "The Bayswater Subway (or Bayswater Bridge) was a road under rail subway in Perth, Western Australia. It was located immediately west of Bayswater railway station, and carried King William Street / Coode Street beneath the Midland line. The subway was demolished in April 2023 as part of Metronet's rebuild of Bayswater station.\nIn the later decades of its existence the bridge gained notoriety for it being frequently struck by tall vehicles due to its low clearance."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bayswater_Bridge_August_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bayswater_Bridge_August_2020.jpg",
+    "file": "File:Bayswater Bridge August 2020.jpg",
+    "artist": "JarrahTree",
+    "license": "CC BY 2.5 au",
+    "license_url": "https://creativecommons.org/licenses/by/2.5/au/deed.en",
+    "width": 1280,
+    "height": 960,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.perthnow.com.au/news/offbeat/premier-mark-mcgowan-posts-tear-jerking-farewell-to-perths-beloved-bayswater-bridge-pre-demolition-c-10345598"
+   }
+  },
+  {
+   "id": "c29",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "1916 VFL season: Finishing the regular season with the worst record…and as champions?",
+   "article": {
+    "title": "1916 VFL season",
+    "url": "https://en.wikipedia.org/wiki/1916_VFL_season",
+    "extract": "The 1916 VFL season was the 20th season of the Victorian Football League (VFL), the highest-level senior Australian rules football competition in Victoria. Played during the peak of World War I, the season was the shortest in the league's history and featured the fewest clubs, with only four clubs – Carlton, Collingwood, Fitzroy and Richmond – featuring in 1916. The season ran from 6 May to 2 September, comprising a twelve-match home-and-away season followed by a four-week finals series featuring all four clubs.\nFitzroy won the premiership, its sixth VFL premiership; despite finishing in last place during the home-and-away season with a 2–9–1 win–loss–draw record, Fitzroy won all three of its finals, culminating in defeating Carlton by 29 points in the 1916 VFL grand final."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fitzroy_fc_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fitzroy_fc_1916.jpg",
+    "file": "File:Fitzroy fc 1916.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1259,
+    "height": 883,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 3,
+    "closest": "https://afltables.com/afl/seas/1916.html#lad"
+   }
+  },
+  {
+   "id": "c30",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Nils Olav: A high-ranking military officer of Norway who happens to live in the penguin exhibit at Edinburgh Zoo.",
+   "article": {
+    "title": "Nils Olav",
+    "url": "https://en.wikipedia.org/wiki/Nils_Olav",
+    "extract": "Major General Sir Nils Olav III (Norwegian: [ˌnɪls ˈûːlɑv]), Baron of Bouvet Island, is a king penguin who resides in Edinburgh Zoo, Scotland. He is the mascot and colonel-in-chief of the Norwegian King's Guard."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Nils_Olav_wide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nils_Olav_wide.jpg",
+    "file": "File:Nils Olav wide.jpg",
+    "artist": "Lee Carson on Flickr",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "width": 1071,
+    "height": 1600,
+    "ok": true
+   },
+   "second_source": {
+    "name": "bbc.co.uk",
+    "url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-37155792",
+    "title": "King penguin made a Brigadier in Edinburgh - BBC News",
+    "matched": [
+     "military",
+     "officer",
+     "norway",
+     "happens",
+     "penguin",
+     "edinburgh"
+    ]
+   }
+  },
+  {
+   "id": "c31",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Gadsby (novel): A 50,110-word long book famous for (mostly) not using the letter \"e\".",
+   "article": {
+    "title": "Gadsby (novel)",
+    "url": "https://en.wikipedia.org/wiki/Gadsby_(novel)",
+    "extract": "Gadsby is a 1939 novel by Ernest Vincent Wright, written without words that contain the letter E, the most common letter in English. A work that deliberately avoids certain letters is known as a lipogram. The plot revolves around the dying fictional city of Branton Hills, which is revitalized as a result of the efforts of protagonist John Gadsby and a youth organizer.\nThough vanity published and little noticed in its time, the book has since become a favorite of fans of constrained writing and is a sought-after rarity among some book collectors."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gadsby_%28book_cover%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gadsby_(book_cover).jpg",
+    "file": "File:Gadsby (book cover).jpg",
+    "artist": "Ernest Vincent Wright",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 250,
+    "height": 380,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20110805102332/http://www.villagevoice.com/2002-08-06/art/egadsby/"
+   }
+  },
+  {
+   "id": "c32",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Chantelle Houghton: A non-celebrity winner of season 4 of the UK's Celebrity Big Brother, while the producers had her pretend to be the lead singer of a non-existent band.",
+   "article": {
+    "title": "Chantelle Houghton",
+    "url": "https://en.wikipedia.org/wiki/Chantelle_Houghton",
+    "extract": "Chantelle Vivien Houghton (born 21 August 1983) is an English television personality and glamour model. In 2006, she won the fourth series of the Channel 4 reality series Celebrity Big Brother.\nHoughton was sent in as a non-celebrity with the task of persuading her celebrity housemates that she was famous. She emerged as the winner of the series, winning a prize of £25,000."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chantelle_Houghton_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Chantelle_Houghton_2011.jpg",
+    "file": "File:Chantelle Houghton 2011.jpg",
+    "artist": "See Li",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 974,
+    "height": 1461,
+    "ok": true
+   },
+   "second_source": {
+    "name": "theguardian.com",
+    "url": "https://www.theguardian.com/media/2006/jan/27/dailystar.pressandpublishing",
+    "title": "Chantelle banks exclusive interview | Daily Star | The Guardian",
+    "matched": [
+     "chantelle",
+     "houghton",
+     "celebrity",
+     "winner",
+     "brother",
+     "producers"
+    ]
+   }
+  },
+  {
+   "id": "c33",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Frank Hayes (jockey): A jockey who won by a head despite being dead.",
+   "article": {
+    "title": "Frank Hayes (jockey)",
+    "url": "https://en.wikipedia.org/wiki/Frank_Hayes_(jockey)",
+    "extract": "Frank Hayes (1901 – 4 June 1923) was an Irish horse trainer, stableman and jockey who, on 4 June 1923, at Belmont Park racetrack in Elmont, New York, won a steeplechase despite suffering a fatal heart attack in the latter part of the race."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Frank_Hayes_%28jockey%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Frank_Hayes_(jockey).jpg",
+    "file": "File:Frank Hayes (jockey).jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 424,
+    "height": 821,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cnn.com",
+    "url": "https://www.cnn.com/2018/12/10/sport/frank-hayes-sweet-kiss-belmont-park-intl-spt",
+    "title": "Frank Hayes: The jockey who won a horse race despite being dead | CNN",
+    "matched": [
+     "frank",
+     "hayes",
+     "jockey",
+     "despite"
+    ]
+   }
+  },
+  {
+   "id": "c34",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Poena cullei: Taking a fatal trip down the river with a dog, snake, monkey, and rooster (none of whom did anything wrong).",
+   "article": {
+    "title": "Poena cullei",
+    "url": "https://en.wikipedia.org/wiki/Poena_cullei",
+    "extract": "Poena cullei (Latin, 'penalty of the sack') under Roman law was a type of death penalty imposed on a subject who had been found guilty of parricide. The punishment consisted of being sewn up in a leather sack, with an assortment of live animals including a dog, snake, monkey, and a chicken or rooster, and then being thrown into water.\nThe punishment may have varied widely in its frequency and precise form during the Roman period. For example, the earliest fully documented case is from ca."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Ertr%C3%A4nken_im_Fass_oder_Sack_1560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ertr%C3%A4nken_im_Fass_oder_Sack_1560.jpg",
+    "file": "File:Ertränken im Fass oder Sack 1560.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1280,
+    "height": 1106,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Exsilium.html"
+   }
+  },
+  {
+   "id": "c35",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Harold Holt: He goes swimming, and then missing. In a strange turn of events, this also led to a swimming pool being named in his honor.",
+   "article": {
+    "title": "Harold Holt",
+    "url": "https://en.wikipedia.org/wiki/Harold_Holt",
+    "extract": "Harold Edward Holt (5 August 1908 – 17 December 1967) was the 17th prime minister of Australia, serving from 1966 until his disappearance and presumed death in 1967. He held office as leader of the Liberal Party of Australia and held various ministerial positions from 1949 to 1966 in the governments of Robert Menzies and Arthur Fadden.\nHolt was born in Sydney and moved to Melbourne in childhood, studying law at the University of Melbourne. Before entering politics, he practised law and was a lobbyist for cinema operators."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harold_Holt_SEATO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Harold_Holt_SEATO.jpg",
+    "file": "File:Harold Holt SEATO.jpg",
+    "artist": "Frank Wolfe, White House Photo Office",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 500,
+    "height": 700,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.nine.com.au/australia-news/harold-holt-an-extraordinary-life-in-australian-politics-20171216-p5w3ho.html"
+   }
+  },
+  {
+   "id": "c36",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that Frank Lloyd Wright decided to continue building a house on a fault line despite warnings from a geologist neighbor?",
+   "article": {
+    "title": "Hanna–Honeycomb House",
+    "url": "https://en.wikipedia.org/wiki/Hanna%E2%80%93Honeycomb_House",
+    "extract": "The Hanna–Honeycomb House (also known as the Paul R. Hanna House; shortened to Hanna House) is a residence at 737 Frenchmans Road on the Stanford University campus in Stanford, California, United States. Designed by Frank Lloyd Wright in the Usonian style, it was his first work in the San Francisco Bay Area. The house is built atop a hill and consists of two interconnected wings, which include a main building, guest wing, hobby shop, storage building, double carport, breezeway, and garden house. Its floor plan, built around a hexagonal grid, was the first non-rectangular plan Wright ever designed."
+   },
+   "related": [
+    "Frank Lloyd Wright"
+   ],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hanna_House_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hanna_House_10.JPG",
+    "file": "File:Hanna House 10.JPG",
+    "artist": "Fizbin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 539,
+    "height": 259,
+    "ok": true
+   },
+   "second_source": {
+    "name": "nps.gov",
+    "url": "https://www.nps.gov/subjects/nationalhistoriclandmarks/list-of-nhls-by-state.htm",
+    "title": "List of NHLs by State - National Historic Landmarks (U.S. National Park Service)",
+    "matched": [
+     "frank",
+     "lloyd",
+     "wright",
+     "continue",
+     "building",
+     "house",
+     "neighbor"
+    ]
+   }
+  },
+  {
+   "id": "c37",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kaspar Hauser: A German youth who claimed to have grown up in the total isolation of a darkened cell, and was once thought to be linked to the princely House of Baden.",
+   "article": {
+    "title": "Kaspar Hauser",
+    "url": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
+    "extract": "Kaspar Hauser (30 April 1812 – 17 December 1833) was a German youth who claimed to have grown up in the total isolation of a darkened cell. His claims, and his subsequent death from a stab wound, sparked much debate and controversy both in Nuremberg and abroad.\nHauser's true identity and origin remain unknown. Theories propounded at the time speculated that Hauser might be a member of the grand ducal House of Baden, hidden away because of dynastic intrigue."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hauser_Kreul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hauser_Kreul.jpg",
+    "file": "File:Hauser Kreul.jpg",
+    "artist": "Johann Lorenz Kreul",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 638,
+    "height": 837,
+    "ok": true
+   },
+   "second_source": {
+    "name": "sciencealert.com",
+    "url": "https://www.sciencealert.com/dna-from-lost-european-prince-solves-a-200-year-old-conspiracy",
+    "title": "DNA From 'Lost European Prince' Solves a 200-Year-Old Conspiracy : ScienceAlert",
+    "matched": [
+     "kaspar",
+     "hauser",
+     "german",
+     "claimed",
+     "grown",
+     "princely"
+    ]
+   }
+  },
+  {
+   "id": "c38",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Operation Wikinger: Poor communication leads to the German air force scoring a great victory … against the German navy.",
+   "article": {
+    "title": "Operation Wikinger",
+    "url": "https://en.wikipedia.org/wiki/Operation_Wikinger",
+    "extract": "Operation Viking (German: Unternehmen Wikinger) was a German naval sortie into the North Sea by six destroyers of the Kriegsmarine on 22 February 1940 during the Second World War. Poor inter-service communication and co-operation between the Kriegsmarine and the Luftwaffe resulted in the loss of two German warships through friendly fire bombing and German or British mines. Only sixty survivors were rescued and the operation was called off.\nFliegerkorps X had sent several signals to the naval Marinegruppe West with information about air operations over the North Sea but had not been informed about the naval operation."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Leberecht_Maass2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Leberecht_Maass2.jpg",
+    "file": "File:Leberecht Maass2.jpg",
+    "artist": "nieznany autor",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 345,
+    "height": 161,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "brak przypisów online"
+   }
+  },
+  {
+   "id": "c39",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Abode of Chaos: An artist buys an old scenic house in a rural town and transforms it into a replica warzone that serves as an open-air museum of radical avant-garde art, angering locals enough to sue him in France's supreme court.",
+   "article": {
+    "title": "Abode of Chaos",
+    "url": "https://en.wikipedia.org/wiki/Abode_of_Chaos",
+    "extract": "The Abode of Chaos (French: Demeure du Chaos) is a contemporary art museum located in Saint-Romain-au-Mont-d'Or, a small town in the vicinity of Lyon, France, with over 2,500 works from many different artists, including the owner Thierry Ehrmann. Ehrmann is the founder and CEO of Groupe Serveur and Artprice.com, both of which are headquartered at the Abode.\nThe artwork is based around the transformation of the 17th century post house into a replica (post-)war zone, which contrasts with the peaceful village a few kilometers up the Saône river from Lyon. The mayor of the town said of the house: \"It's humanly intolerable, ugly, dramatic, with its images of destruction."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Photo_panoramique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Photo_panoramique.jpg",
+    "file": "File:Photo panoramique.jpg",
+    "artist": "Abode of chaos",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 800,
+    "height": 524,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/20070927222134/http://www.e-flux.com/displayshow.php?file=message_1130435115.txt"
+   }
+  },
+  {
+   "id": "c40",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "... that American judge Archie Simonson was recalled and replaced by his county's first woman judge after he said that rape was \"a normal reaction\" to \"the way women dress\"?",
+   "article": {
+    "title": "Archie Simonson",
+    "url": "https://en.wikipedia.org/wiki/Archie_Simonson",
+    "extract": "Archie Evans Simonson (December 25, 1924 – June 15, 2018) was an American lawyer and jurist who served as a judge in the Dane County Circuit Court, Wisconsin from 1972 to 1977. Simonson was recalled in a judicial recall election following his ruling on a 1977 rape case where he sentenced a 15-year-old boy who had raped a 16-year-old female schoolmate to probation, stating that \"given the way women dress, rape is a normal reaction\", and that \"whether women like it or not, they are sex objects\". Following the recall election, Simonson was replaced by 33-year old lawyer Moria Krueger, who became the first female judge in Dane County."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Judge_Archie_Simonson_1977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Judge_Archie_Simonson_1977.jpg",
+    "file": "File:Judge Archie Simonson 1977.jpg",
+    "artist": "Not credited",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 584,
+    "height": 1056,
+    "ok": true
+   },
+   "second_source": {
+    "name": "content.time.com",
+    "url": "https://content.time.com/time/subscriber/article/0,33009,915470,00.html",
+    "title": "The Nation: There Goes the Judge - TIME",
+    "matched": [
+     "judge",
+     "archie",
+     "simonson",
+     "recalled",
+     "county",
+     "women",
+     "dress"
+    ]
+   }
+  },
+  {
+   "id": "c41",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Trillion-dollar coin: A concept that was proposed as a way to bypass US debt-ceiling crisis through the minting of high-value platinum coins.",
+   "article": {
+    "title": "Trillion-dollar coin",
+    "url": "https://en.wikipedia.org/wiki/Trillion-dollar_coin",
+    "extract": "The trillion-dollar coin is a concept that emerged during the 2011 United States debt-ceiling crisis as a proposed way to bypass any necessity for the United States Congress to raise the country's borrowing limit, through the minting of very high-value platinum coins. The concept gained more mainstream attention by late 2012 during the debates over the United States fiscal cliff negotiations and renewed debt-ceiling discussions, and reached the headlines during the week of January 7, 2013. The Federal Reserve and the Treasury ultimately rejected use of the trillion-dollar coin concept.\nCongresswoman Rashida Tlaib reintroduced the concept of the trillion-dollar coin in March 2020 in the form of a congressional proposal during the shutdown caused by the COVID-19 pandemic in the United States."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Trillion_Dollar_Coin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Trillion_Dollar_Coin.jpg",
+    "file": "File:Trillion Dollar Coin.jpg",
+    "artist": "DonkeyHotey",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "width": 840,
+    "height": 840,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20130112013052/http://www.cbsnews.com/8301-250_162-57563428/whats-up-with-the-$1-trillion-coin/",
+    "title": "What's up with the $1 trillion coin? - CBS News",
+    "matched": [
+     "trillion",
+     "dollar",
+     "proposed",
+     "bypass",
+     "ceiling",
+     "crisis",
+     "through",
+     "minting",
+     "value",
+     "platinum",
+     "coins"
+    ]
+   }
+  },
+  {
+   "id": "c42",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Death poem: The urge to have famous last words, taken to its logical, carefully rewritten extreme.",
+   "article": {
+    "title": "Death poem",
+    "url": "https://en.wikipedia.org/wiki/Death_poem",
+    "extract": "The death poem is a genre of poetry that developed in the literary traditions of the Sinosphere—most prominently in Japan as well as certain periods of Chinese history, Joseon Korea, and Vietnam. They tend to offer a reflection on death—both in general and concerning the imminent death of the author—that is often coupled with a meaningful observation on life. The practice of writing a death poem has its origins in Zen Buddhism. It is a concept or worldview derived from the Buddhist teaching of the three marks of existence (三法印, sanbōin), specifically that the material world is transient and impermanent (無常, mujō), that attachment to it causes suffering (苦, ku), and ultimately all reality is an emptiness or absence of self-nature (空, kū)."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Death_poem_by_Kuroki_Hiroshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Death_poem_by_Kuroki_Hiroshi.jpg",
+    "file": "File:Death poem by Kuroki Hiroshi.jpg",
+    "artist": "Kuroki Hiroshi",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 165,
+    "height": 250,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20201030073250/https://sensitivitytothings.com/poetry-of-death/",
+    "title": "The poetry of death – A Sensitivity to Things",
+    "matched": [
+     "death",
+     "famous",
+     "words",
+     "logical",
+     "rewritten"
+    ]
+   }
+  },
+  {
+   "id": "c43",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Cynocephaly: A kind of human-wolf hybrid where only the head is dog-like.",
+   "article": {
+    "title": "Cynocephaly",
+    "url": "https://en.wikipedia.org/wiki/Cynocephaly",
+    "extract": "The characteristic of cynocephaly, or cynocephalus (), having the head of a canid, typically that of a dog or jackal, is a widely attested mythical phenomenon existing in many different forms and contexts. The literal meaning of cynocephaly is \"dog-headedness\", though it is implied that this refers to a human body with a canine head. Such cynocephalics are known in mythology and legend from many parts of the world, including ancient Egypt, Libya, Greece, India and China. Further mentions come from the medieval East and Europe."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Schedel%27sche_Weltchronik-Dog_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Schedel%27sche_Weltchronik-Dog_head.jpg",
+    "file": "File:Schedel'sche Weltchronik-Dog head.jpg",
+    "artist": "Hartmann Schedel (1440-1514),",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 843,
+    "height": 756,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=6:chapter=35"
+   }
+  },
+  {
+   "id": "c44",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Bonnie Blue: One of them had sex with around 1000 men, the other with around 100 in one day. Needless to say, Guinness does not do these kinds of records.",
+   "article": {
+    "title": "Bonnie Blue",
+    "url": "https://en.wikipedia.org/wiki/Bonnie_Blue",
+    "extract": "Tia Billinger (born 1999), known professionally as Bonnie Blue, is an English pornographic film actress. After attending 2023's schoolies week, she had sex with large numbers of students at both spring break in Cancún, Mexico, and freshers' week in Derby and Nottingham, England, and went viral for discussing her sex life on GK Barry's podcast Saving Grace. She was criticised during this period for the age of her co-stars (as young as 18) and for comments that critics have described as promoting misogyny and the sexual objectification of women.\nBlue claimed to have had sex with 1,057 men in 12 hours on 11 January 2025, making her the subject of months of media attention and inspiring similar events by Lily Phillips, Annie Knight, and Drake Von."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bonnie_Blue%2C_July_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bonnie_Blue,_July_2025_(cropped).jpg",
+    "file": "File:Bonnie Blue, July 2025 (cropped).jpg",
+    "artist": "Anything Goes With James English",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "width": 736,
+    "height": 975,
+    "ok": true
+   },
+   "second_source": {
+    "name": "the-independent.com",
+    "url": "https://www.the-independent.com/life-style/bonnie-blue-onlyfans-documentary-b2796228.html",
+    "title": "Empowered or degraded? The truth about Bonnie Blue – and what happens behind the scenes | The Independent",
+    "matched": [
+     "1000",
+     "100",
+     "bonnie",
+     "around",
+     "records"
+    ]
+   }
+  },
+  {
+   "id": "c45",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "List of garlic festivals: Even one festival devoted entirely to garlic of all things is strange enough.",
+   "article": {
+    "title": "List of garlic festivals",
+    "url": "https://en.wikipedia.org/wiki/List_of_garlic_festivals",
+    "extract": "A garlic festival is a food festival focused on garlic."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Garlicicecream.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Garlicicecream.jpg",
+    "file": "File:Garlicicecream.jpg",
+    "artist": "Alison Cassidy",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 876,
+    "height": 1184,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://clevelandgarlicfestival.org/"
+   }
+  },
+  {
+   "id": "c46",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Charivari: A form of vigilantism, more loud than violent.",
+   "article": {
+    "title": "Charivari",
+    "url": "https://en.wikipedia.org/wiki/Charivari",
+    "extract": "Charivari (, UK also , US also , alternatively spelled shivaree or chivaree and also called a skimmington) was a European and North American folk custom designed to shame a member of the community, in which a mock parade was staged through the settlement accompanied by a discordant mock serenade. Since the crowd aimed to make as much noise as possible by beating on pots and pans or anything that came to hand, these parades were often referred to as rough music.\nParades were of three types. In the first and generally most violent form, an alleged wrongdoer (or wrongdoers) might be dragged from their home or place of work and paraded by force through a community."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/William_Hogarth._Hudibras_Encounters_the_Skimmington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:William_Hogarth._Hudibras_Encounters_the_Skimmington.jpg",
+    "file": "File:William Hogarth. Hudibras Encounters the Skimmington.jpg",
+    "artist": "William Hogarth",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 740,
+    "height": 401,
+    "ok": true
+   },
+   "second_source": {
+    "name": "gynocentrism.com",
+    "url": "https://gynocentrism.com/2015/12/02/stang-riding-as-punishment-for-male-victims-of-intimate-partner-violence/",
+    "title": "“Stang riding” as punishment for male victims of intimate partner violence | Gynocentrism and its Cultural Origins",
+    "matched": [
+     "charivari",
+     "vigilantism",
+     "violent"
+    ]
+   }
+  },
+  {
+   "id": "c47",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Northwest Airlines Flight 253: Bombing a plane with exploding underwear is never a good idea.",
+   "article": {
+    "title": "Northwest Airlines Flight 253",
+    "url": "https://en.wikipedia.org/wiki/Northwest_Airlines_Flight_253",
+    "extract": "The attempted bombing of Northwest Airlines Flight 253 occurred on December 25, 2009, aboard an Airbus A330 as it prepared to land at Detroit Metropolitan Airport following a transatlantic flight from Amsterdam.  Attributed to the terrorist organization al-Qaeda in the Arabian Peninsula (AQAP), the act was undertaken by 23-year-old Nigerian national Umar Farouk Abdulmutallab using chemical explosives sewn to his underwear.  These circumstances, including the date, led to Abdulmutallab being commonly nicknamed either the \"Underwear bomber\" or \"Christmas Day bomber\" by American media outlets. If successful, it could have been the deadliest plane crash in the history of Michigan, surpassing Northwest Airlines Flight 255."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Northwest_Airlines_Flight_253_bomb_component_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Northwest_Airlines_Flight_253_bomb_component_3.jpg",
+    "file": "File:Northwest Airlines Flight 253 bomb component 3.jpg",
+    "artist": "Federal Bureau of Investigation",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 975,
+    "height": 394,
+    "ok": true
+   },
+   "second_source": {
+    "name": "vanguardngr.com",
+    "url": "https://www.vanguardngr.com/2022/01/i-hope-to-see-him-in-my-lifetime-abdul-mutallab-billionaire-father-of-jailed-underwear-bomber-farouk/",
+    "title": "I hope to see him in my lifetime — Abdul Mutallab, billionaire father of jailed ‘Underwear Bomber’ Farouk",
+    "matched": [
+     "253",
+     "northwest",
+     "airlines",
+     "flight",
+     "bombing",
+     "underwear"
+    ]
+   }
+  },
+  {
+   "id": "c48",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Fnord: Deliberately misleading, irrelevant or false information meant to suggest conspiracy. A popular word among Discordians.",
+   "article": {
+    "title": "Fnord",
+    "url": "https://en.wikipedia.org/wiki/Fnord",
+    "extract": "Fnord () is a word coined in 1965 by Kerry Thornley and Greg Hill in the Discordian religious text Principia Discordia.  It entered into popular culture after appearing in The Illuminatus! Trilogy (1975) of novels written by Robert Shea and Robert Anton Wilson. Here, the interjection fnord is given hypnotic power over the unenlightened, and children in grade school are taught to be unable to see the word consciously."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Fnord_text.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fnord_text.png",
+    "file": "File:Fnord text.png",
+    "artist": "The Anome",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1110,
+    "height": 512,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://web.archive.org/web/19970703082257/http://www.rawilson.com/illuminatus.html#fnord"
+   }
+  },
+  {
+   "id": "c49",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Svalbard Global Seed Vault: If a global famine occurs, you better hope you live in Svalbard.",
+   "article": {
+    "title": "Svalbard Global Seed Vault",
+    "url": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault",
+    "extract": "The Svalbard Global Seed Vault (Norwegian: Svalbard globale frøhvelv) is a secure backup facility for the Earth's crop diversity on the Norwegian island of Spitsbergen in the remote Arctic Svalbard archipelago. The Seed Vault provides long-term storage for duplicates of seeds from around the world, conserved in gene banks. The Seed Vault is managed under terms spelled out in a tripartite agreement among the Norwegian government, the Crop Trust, and the Nordic Genetic Resource Center (NordGen).\nThe Norwegian government entirely funded the Seed Vault's approximately 45 million kr (US$8.8 million in 2008) construction cost."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_Svalbard_Global_Seed_Vault.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Logo_Svalbard_Global_Seed_Vault.png",
+    "file": "File:Logo Svalbard Global Seed Vault.png",
+    "artist": "Svalbard Global Seed Vault",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 800,
+    "height": 764,
+    "ok": true
+   },
+   "second_source": {
+    "name": "news.bbc.co.uk",
+    "url": "http://news.bbc.co.uk/1/hi/sci/tech/5094450.stm",
+    "title": "BBC NEWS | Science/Nature | Work begins on Arctic seed vault",
+    "matched": [
+     "svalbard",
+     "global",
+     "vault"
+    ]
+   }
+  },
+  {
+   "id": "c50",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Beezin': A fad in which people apply Burt's Bees lip balm to their eyelids.",
+   "article": {
+    "title": "Beezin'",
+    "url": "https://en.wikipedia.org/wiki/Beezin%27",
+    "extract": "Beezin' is the practice of applying Burt's Bees brand lip balm, often menthol or peppermint flavored, to one's eyelids. This practice, besides causing a stinging in the eyes, is purported to induce or heighten the sensation of being drunk or high, or create a state or perceived state of enhanced alertness. Some commentators have claimed that the practice is not widespread as claimed or is entirely made up, an example of a  moral panic."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Teenager_Partaking_in_Beezin%E2%80%99_Fad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Teenager_Partaking_in_Beezin%E2%80%99_Fad.jpg",
+    "file": "File:Teenager Partaking in Beezin’ Fad.jpg",
+    "artist": "lettuceloaf",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "width": 428,
+    "height": 558,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20141006074914/http://www.myfoxny.com/story/24159253/what-is-beezin-it-involves-lip-balm-and-eyelids",
+    "title": "What is beezin'? (It involves lip balm and eyelids) - New York News",
+    "matched": [
+     "beezin",
+     "people",
+     "eyelids"
+    ]
+   }
+  },
+  {
+   "id": "c51",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Kanchō: Popular among East Asian children, this \"game\" is played by going up to someone and sneakily poking them in the ass.",
+   "article": {
+    "title": "Kanchō",
+    "url": "https://en.wikipedia.org/wiki/Kanch%C5%8D",
+    "extract": "Kanchō (カンチョー; pronounced [kaɲtɕoː]) is a prank performed by clasping the hands together in the shape of a finger gun and poking the anus of an unsuspecting person, often while exclaiming \"Kan-cho!\" It is a common prank in East Asian countries such as Japan. In Korea, it is called ttongchim (똥침; 똥針, pronounced [t͈oŋ.tɕʰim]), and in China, qiānnián shā (千年殺, \"thousand-year kill\" or \"immortal kill\"). The word \"kanchō\" is a slang adoption of the Japanese word for enema (浣腸, kanchō). In accordance with widespread practice, the word is generally written in katakana when used in its slang sense and in kanji when used for enemas in the medical sense."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kancho_2021-08-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Kancho_2021-08-20.jpg",
+    "file": "File:Kancho 2021-08-20.jpg",
+    "artist": "Asanagi",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "width": 650,
+    "height": 366,
+    "ok": true
+   },
+   "second_source": {
+    "name": "web.archive.org",
+    "url": "https://web.archive.org/web/20110531012338/http://www.newsreview.com/reno/stranger-in-a-strange-land/content?oid=1361861",
+    "title": "Stranger in a strange land - Feature Story - Local Stories - January 28, 2010 - Reno News & Review",
+    "matched": [
+     "among",
+     "children",
+     "going",
+     "someone",
+     "sneakily"
+    ]
+   }
+  },
+  {
+   "id": "c52",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Horse theft: \"A person engaged in stealing horses is known as a horse thief.\"",
+   "article": {
+    "title": "Horse theft",
+    "url": "https://en.wikipedia.org/wiki/Horse_theft",
+    "extract": "Horse theft is the crime of stealing horses. A person engaged in stealing horses is known as a horse thief. Historically, punishments were often severe for horse theft, with several cultures pronouncing the sentence of death upon actual or presumed thieves. Several societies were formed in the United States to prevent horse theft and apprehend horse thieves."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Horse_thief_hanging.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Horse_thief_hanging.png",
+    "file": "File:Horse thief hanging.png",
+    "artist": "Native Sons of Oregon, Oregon Pioneer Association, Indian War Veterans and Historical Society",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 1182,
+    "height": 809,
+    "ok": true
+   },
+   "second_source": {
+    "name": "link.springer.com",
+    "url": "https://link.springer.com/chapter/10.1057/978-1-137-51361-8_4",
+    "title": "Changing Attitudes to Post-execution Punishment 1752–1834 | Springer Nature Link",
+    "matched": [
+     "horse",
+     "theft",
+     "person",
+     "stealing",
+     "known",
+     "thief"
+    ]
+   }
+  },
+  {
+   "id": "c53",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Tuanaki: The Cook Islands that never were.",
+   "article": {
+    "title": "Tuanaki",
+    "url": "https://en.wikipedia.org/wiki/Tuanaki",
+    "extract": "Tuanaki or Tuanahe is the name of an anecdotal vanished group of islets, once part of the Cook Islands. It was located south of Rarotonga and within two days sail of Mangaia.\nIn 1916, the Polynesian Society of Honolulu reprinted an account by a sailor who had visited there in 1842, spending six days among the natives.  However this account added that two years later in 1844, a schooner of English missionaries had found nothing."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Stielers_Handatlas_1891_76_Cook_detail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Stielers_Handatlas_1891_76_Cook_detail.png",
+    "file": "File:Stielers Handatlas 1891 76 Cook detail.png",
+    "artist": "Von A. Petermann, Revidirt von Dr. R. Lüddecke Petermann, August Heinrich, 1822-1878, GND 119408953 Lüddecke, Richard Ca",
+    "license": "Public domain",
+    "license_url": null,
+    "width": 309,
+    "height": 359,
+    "ok": true
+   }
+  },
+  {
+   "id": "c54",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "\"Whitey on the Moon\": Not everybody was happy to see the first man on the Moon.",
+   "article": {
+    "title": "Whitey on the Moon",
+    "url": "https://en.wikipedia.org/wiki/Whitey_on_the_Moon",
+    "extract": "\"Whitey on the Moon\" is a spoken word poem by Gil Scott-Heron, released as the ninth track on his debut album Small Talk at 125th and Lenox in 1970. Accompanied by conga drums, Scott-Heron's narrative tells of medical debt, high taxes and poverty experienced at the time of the Apollo Moon landings. The poem critiques the resources spent on the space program while Black Americans were experiencing social and economic disparities at home.\n\"Whitey on the Moon\" was prominently featured in the 2018 biographical film about Neil Armstrong, First Man, and \"Whitey's on the Moon\", the second episode of HBO's 2020 television series Lovecraft Country."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gil_Scott_Heron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gil_Scott_Heron.jpg",
+    "file": "File:Gil Scott Heron.jpg",
+    "artist": "Robman94",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "width": 330,
+    "height": 467,
+    "ok": true
+   },
+   "second_source_check": {
+    "status": "nie potwierdzono automatycznie",
+    "tried": 6,
+    "closest": "https://www.businessinsider.com/whitey-on-the-moon-poem-resurfaces-amid-bezos-branson-spaceflight-2021-7"
+   }
+  },
+  {
+   "id": "c55",
+   "source": "wiki-en",
+   "lang": "en",
+   "hook": "Pi Day: The day – March 14 – on which the constant π is celebrated. Though tauists may prefer June 28…",
+   "article": {
+    "title": "Pi Day",
+    "url": "https://en.wikipedia.org/wiki/Pi_Day",
+    "extract": "Pi Day is an annual celebration of the mathematical constant π (pi) with events mostly in the United States. Pi Day is observed on March 14 (the 3rd month) since 3, 1, and 4 are the first three significant figures of π and was founded in 1988 by Larry Shaw, an employee of the Exploratorium, a science museum in San Francisco.\nCelebrations often involve eating pie or holding pi recitation competitions. In 2009, the United States House of Representatives supported the designation of Pi Day."
+   },
+   "related": [],
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Larry_Shaw%2C_the_founder_of_Pi_Day%2C_at_the_Exploratorium_in_San_Francisco--2007_March_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Larry_Shaw,_the_founder_of_Pi_Day,_at_the_Exploratorium_in_San_Francisco--2007_March_21.jpg",
+    "file": "File:Larry Shaw, the founder of Pi Day, at the Exploratorium in San Francisco--2007 March 21.jpg",
+    "artist": "Ronhip (Ron Hipschman), uploaded to the Commons by Furfur on 22-Jul-08",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "width": 377,
+    "height": 459,
+    "ok": true
+   },
+   "second_source": {
+    "name": "cnn.com",
+    "url": "http://www.cnn.com/2010/TECH/03/12/pi.day.math/index.html",
+    "title": "On Pi Day, one number 'reeks of mystery' - CNN.com",
+    "matched": [
+     "14",
+     "march",
+     "constant",
+     "celebrated"
+    ]
+   }
+  },
+  {
+   "id": "c56",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Hockanum School House in Hadley, Massachusetts",
+   "article": {
+    "title": "Hockanum School House in Hadley, Massachusetts",
+    "url": "https://www.atlasobscura.com/places/hockanum-school-house",
+    "extract": "Built in 1840, this one-room School House served as the educational center for all of the first to eighth grade children in the Hockanum area, later serving only up to sixth grade. This was one of several school houses serving small neighborhood communities around Hadley. A 1647 Massachusetts law required all towns with 50 or more families to hire a teacher to instruct their children in reading an"
+   },
+   "published": "Wed, 25 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c57",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "The Hidden Spiegeltent in Chicago, Illinois",
+   "article": {
+    "title": "The Hidden Spiegeltent in Chicago, Illinois",
+    "url": "https://www.atlasobscura.com/places/the-hidden-spiegeltent",
+    "extract": "Spiegeltents were made to travel. These round wooden dance halls, lined with mirrors and stained glass, went from fair to fair. They went up fast and came down fast. The one on Randolph Street is not going anywhere. It was built indoors, on the 14th floor of a Loop building. The building opened in 1926. Rapp & Rapp designed it, with the Oriental Theatre movie palace on the lower floors. The theate"
+   },
+   "published": "Wed, 25 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c58",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Cimetière Marin de l'Herbaudière in Noirmoutier-en-l'Île, France",
+   "article": {
+    "title": "Cimetière Marin de l'Herbaudière in Noirmoutier-en-l'Île, France",
+    "url": "https://www.atlasobscura.com/places/cimetiere-marin-de-lherbaudiere",
+    "extract": "On the northwestern tip of France's Noirmoutier Island, behind the 19th-century Church of the Sacred Heart, a small cemetery overlooks the Atlantic Ocean. Beyond its stone walls stretch the waters of the Bay of Biscay, with the tiny island of Le Pilier visible on the horizon. Many of those buried here were sailors and fishermen whose lives were intimately connected to the sea. Among the traditiona"
+   },
+   "published": "Wed, 25 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c59",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Beguinage of Anderlecht in Anderlecht, Belgium",
+   "article": {
+    "title": "Beguinage of Anderlecht in Anderlecht, Belgium",
+    "url": "https://www.atlasobscura.com/places/beguinage-of-anderlecht",
+    "extract": "Tucked away in the historic centre of Anderlecht, just a stone's throw from the Collegiate Church of Saints Peter and Guido, lies one of Brussels' lesser-known historical treasures: the Beguinage of Anderlecht. Founded in 1252, it is considered the smallest beguinage in Belgium and once provided a home to a community of just eight women. Unlike traditional convents, beguinages offered women an opp"
+   },
+   "published": "Wed, 25 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c60",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+   "article": {
+    "title": "Dinosaur Pulpit at Wat That Phra Aram in Tambon Nai Mueang, Thailand",
+    "url": "https://www.atlasobscura.com/places/dinosaur-pulpit-at-wat-that-phra-aram",
+    "extract": "In a Buddhist temple in the northeast of Thailand, not far from the border with Laos, one can find the World's Only Dinosaur Pulpit. Located in the city of Khon Kean, the fourth-largest city in Thailand and the heart of the Isan region, the pulpit can be found inside the Buddhist temple Wat That Phra Aram Luang. If you look closely, you'll notice there are dinosaur mural paintings on the walls ins"
+   },
+   "published": "Tue, 24 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c61",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Bolsover Town Earthworks in Bolsover, England",
+   "article": {
+    "title": "Bolsover Town Earthworks in Bolsover, England",
+    "url": "https://www.atlasobscura.com/places/bolsover-town-earthworks",
+    "extract": "The current iteration of Bolsover Castle, in the NE of Derbyshire, is not, despite its appearance, a defensive structure. It does look very reminiscent of the Norman white tower at the tower of London, but it is essentially a Jacobean residence dressed up for effect. However it is clear that the western and northern approaches are up steep slopes and the \"keep\" looks dominant on the escarpment. Bo"
+   },
+   "published": "Tue, 24 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c62",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Walking East in Hong Kong",
+   "article": {
+    "title": "Walking East in Hong Kong",
+    "url": "https://www.atlasobscura.com/places/walking-east",
+    "extract": "Portraying a man walking away from a modern office tower block, as if to explore the surrounding community, 'Walking East' is an impressive painted metal sculpture placed directly onto the street without a plinth. Its creator, French Hong Kong-based sculptor Polo Bourieau, cited the inspiration for 'Walking East' as 'les adventuriers du quotidien' (the daily adventurers), the everyday working peop"
+   },
+   "published": "Tue, 24 Nov 2026 12:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c63",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Macdonald Book Shop in Estes Park, Colorado",
+   "article": {
+    "title": "Macdonald Book Shop in Estes Park, Colorado",
+    "url": "https://www.atlasobscura.com/places/macdonald-book-shop-estes-park",
+    "extract": "At Macdonald Book Shop, a cozy and beloved store in the Colorado mountain town of Estes Park, selling books began as a side hustle. J. Edward Macdonald bought a small log cabin in Estes Park in 1908 and opened a hardware and general store next door — with one corner full of books for sale. When he retired, his wife Jessica turned the parlor of their home into a proper bookstore, also selling magaz"
+   },
+   "published": "Tue, 24 Nov 2026 10:30:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c64",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Historic Park Theatre in Estes Park, Colorado",
+   "article": {
+    "title": "Historic Park Theatre in Estes Park, Colorado",
+    "url": "https://www.atlasobscura.com/places/historic-park-theatre",
+    "extract": "The Historic Park Theatre’s most famous feature was born from heartbreak. Its tower, added by owner Ralph Gwynn in 1929, is known locally as the Tower of Love — not for the romance it celebrates but for the one that fell apart. Legend has it that Gwynn was left at the altar, and he built the tower as a tribute to the woman who broke his heart. Decades later, when a new Estes Park sign ordnance thr"
+   },
+   "published": "Tue, 24 Nov 2026 10:26:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c65",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
+   "article": {
+    "title": "Wasserspeier (‘Water Spitter’) in Bern, Switzerland",
+    "url": "https://www.atlasobscura.com/places/wasserspeier-water-spitter",
+    "extract": "Since 1984, the dragon-like Wasserspeier (\"Water Spitter\") on Bern’s Münstergasse has been delighting and fooling locals and tourists alike. Every spring, artist Luciano Andreani (*1947) and homeowner Tinu Mühlethaler install the spout on the roof of the historic Old Town building. Anyone who lingers too long while bending down to pick up one of the five-franc coins scattered below is in for a sur"
+   },
+   "published": "Tue, 24 Nov 2026 10:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c66",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "‘El Vagamundos’ in Madrid, Spain",
+   "article": {
+    "title": "‘El Vagamundos’ in Madrid, Spain",
+    "url": "https://www.atlasobscura.com/places/el-vagamundos",
+    "extract": "Airports are places of departures and arrivals, but what happens to those who never seem to leave? At Terminal 1 of Madrid-Barajas Airport, a bronze man sits quietly, apparently waiting for a flight that may never come. Known as El Vagamundos (The Wanderer), this 1996 sculpture by Spanish artist Casto Solano captures the peculiar feeling of being suspended between destinations. The seated figure h"
+   },
+   "published": "Mon, 23 Nov 2026 16:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c67",
+   "source": "rss",
+   "feed": "Atlas Obscura",
+   "lang": "en",
+   "hook": "Indianola in Port Lavaca, Texas",
+   "article": {
+    "title": "Indianola in Port Lavaca, Texas",
+    "url": "https://www.atlasobscura.com/places/indianola",
+    "extract": "Indianola, Texas a coastal town that was once the second largest port in Texas next to at the time Galveston.In 1956 the port received a shipment of camels as part of the United States Camel Corps experiment to replace horses and mules as the primary work animal for southwestern America. During the Civil War, it was occupied by the Union army, once in 1862, then again a year later. Part of that re"
+   },
+   "published": "Mon, 23 Nov 2026 14:00:00 -0500",
+   "image": null
+  },
+  {
+   "id": "c68",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "7 Cryptids Supposedly Roaming the Pacific Northwest",
+   "article": {
+    "title": "7 Cryptids Supposedly Roaming the Pacific Northwest",
+    "url": "https://www.mentalfloss.com/culture/folklore-mythology/cryptids-pacific-northwest?utm_source=RSS",
+    "extract": "You've heard of Bigfoot, but the forests and lakes of Oregon and Washington are supposedly haunted by a whole host of mysterious mutants."
+   },
+   "published": "Fri, 27 Nov 2026 01:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c69",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Co-Stars Who Couldn't Stand Each Other in Real Life",
+   "article": {
+    "title": "20 Co-Stars Who Couldn't Stand Each Other in Real Life",
+    "url": "https://www.mentalfloss.com/entertainment/movies/costars-who-couldnt-stand-each-other?utm_source=RSS",
+    "extract": "From Marilyn Monroe and Ethel Merman to Chevy Chase and the entire 'Community' cast, sometimes personalities just don't mix on set. Here are 20 famous on-set feuds."
+   },
+   "published": "Fri, 27 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c70",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Original 'Meet the Parents' Wasn't the Movie You Remember",
+   "article": {
+    "title": "The Original 'Meet the Parents' Wasn't the Movie You Remember",
+    "url": "https://www.mentalfloss.com/entertainment/movies/original-meet-the-parents-not-what-you-remember?utm_source=RSS",
+    "extract": "Before Ben Stiller and Robert De Niro met the parents in 2000, Greg Glienna made a $30,000 dark comedy in 1992 with a much bleaker ending—and a tricky rights deal."
+   },
+   "published": "Thu, 26 Nov 2026 23:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c71",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "6 Things Every '90s Kid Remembers About Black Friday",
+   "article": {
+    "title": "6 Things Every '90s Kid Remembers About Black Friday",
+    "url": "https://www.mentalfloss.com/holidays/thanksgiving/things-every-90s-kid-remembers-black-friday?utm_source=RSS",
+    "extract": "Remember circling deals in the newspaper and fighting crowds at the toy store? Take a nostalgic trip back to what Black Friday was really like in the 1990s."
+   },
+   "published": "Thu, 26 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c72",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "70 Clever Anagrams That Will Test Your Vocabulary",
+   "article": {
+    "title": "70 Clever Anagrams That Will Test Your Vocabulary",
+    "url": "https://www.mentalfloss.com/languagew/words/clever-anagrams?utm_source=RSS",
+    "extract": "Did you know \"giant hornets\" is an anagram of \"another sting\"? Here are dozens of mind-blowing algorithms that range from hilarious to eerily prophetic."
+   },
+   "published": "Thu, 26 Nov 2026 15:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c73",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "10 Slang Words From the 1990s We Still Use Today",
+   "article": {
+    "title": "10 Slang Words From the 1990s We Still Use Today",
+    "url": "https://www.mentalfloss.com/language/slang/slang-words-1990s-still-use-today?utm_source=RSS",
+    "extract": "Some of these slang terms from the 1990s seem older than they actually are."
+   },
+   "published": "Thu, 26 Nov 2026 13:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c74",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The Real WWII Football Game That Inspired Netflix's 'The Mosquito Bowl'",
+   "article": {
+    "title": "The Real WWII Football Game That Inspired Netflix's 'The Mosquito Bowl'",
+    "url": "https://www.mentalfloss.com/entertainment/movies/real-wwii-football-game-inspired-netflix-mosquito-bowl?utm_source=RSS",
+    "extract": "It might have been the most talented pickup game of the war, but nobody scored and 15 of the players were dead within six months."
+   },
+   "published": "Thu, 26 Nov 2026 00:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c75",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "12 Books, Movies, and Songs Entering the Public Domain in 2027",
+   "article": {
+    "title": "12 Books, Movies, and Songs Entering the Public Domain in 2027",
+    "url": "https://www.mentalfloss.com/entertainment/books-movies-music-entering-public-domain-2027?utm_source=RSS",
+    "extract": "Boris Karloff’s 'Frankenstein' is in the class of 1931, but that doesn’t make every version of the monster fair game."
+   },
+   "published": "Wed, 25 Nov 2026 22:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c76",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "60 Goofy Disney Jokes for Fans of All Ages",
+   "article": {
+    "title": "60 Goofy Disney Jokes for Fans of All Ages",
+    "url": "https://www.mentalfloss.com/entertainment/disney/goofy-disney-jokes?utm_source=RSS",
+    "extract": "Need a laugh while waiting in line for Space Mountain? These 60 goofy Disney jokes, clean puns, and dad jokes are practically a-hyuck-approved."
+   },
+   "published": "Wed, 25 Nov 2026 21:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c77",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "5 Strange and Brutal Methods of Execution Throughout History",
+   "article": {
+    "title": "5 Strange and Brutal Methods of Execution Throughout History",
+    "url": "https://www.mentalfloss.com/history/strange-brutal-execution-methods?utm_source=RSS",
+    "extract": "Some of the most horrifying methods of execution ever recorded may have been fictional—but not all of them."
+   },
+   "published": "Wed, 25 Nov 2026 19:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c78",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "The First Black Friday Was Nothing Like the Shopping Frenzy We Know Today",
+   "article": {
+    "title": "The First Black Friday Was Nothing Like the Shopping Frenzy We Know Today",
+    "url": "https://www.mentalfloss.com/history/first-black-friday-nothing-like-shopping-frenzy-today?utm_source=RSS",
+    "extract": "Before it became all about holiday deals, Black Friday was a financial disaster."
+   },
+   "published": "Wed, 25 Nov 2026 17:00:01 +0000",
+   "image": null
+  },
+  {
+   "id": "c79",
+   "source": "rss",
+   "feed": "Mental Floss",
+   "lang": "en",
+   "hook": "20 Classic TV Shows That Were Surprisingly Controversial When They First Aired",
+   "article": {
+    "title": "20 Classic TV Shows That Were Surprisingly Controversial When They First Aired",
+    "url": "https://www.mentalfloss.com/entertainment/tv/classic-shows-controversial-first-aired?utm_source=RSS",
+    "extract": "From lighthearted sitcoms to gripping dramas, these TV staples were once heavily criticized for surprising reasons."
+   },
+   "published": "Wed, 25 Nov 2026 15:00:02 +0000",
+   "image": null
+  },
+  {
+   "id": "c80",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries",
+   "article": {
+    "title": "While Exploring a 500-Year-Old Shipwreck Off the Coast of Sweden, Underwater Archaeologists Discovered Medieval Chain Mail That May Have Belonged to German Mercenaries",
+    "url": "https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/",
+    "extract": "\"Gribshunden\" was the \"floating castle\" of King Hans of Denmark and Norway. It exploded and sank in 1495, but the Baltic Sea's low salinity has kept contents remarkably well preserved"
+   },
+   "published": "Wed, 25 Nov 2026 20:44:21 +0000",
+   "image": null
+  },
+  {
+   "id": "c81",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "America's Thanksgiving Parade in Detroit Is Celebrating 100 Years of Elaborate Floats, Papier-Mâché 'Big Heads' and a Distinguished Clown Corps",
+   "article": {
+    "title": "America's Thanksgiving Parade in Detroit Is Celebrating 100 Years of Elaborate Floats, Papier-Mâché 'Big Heads' and a Distinguished Clown Corps",
+    "url": "https://www.smithsonianmag.com/smart-news/america-thanksgiving-parade-in-detroit-is-celebrating-100-years-of-elaborate-floats-papier-Mache-big-heads-and-a-distinguished-clown-corps-180989943/",
+    "extract": "A new exhibition at the Detroit Historical Society looks back at 100 years of the city's Thanksgiving Day parade, which is tied with New York City for the country's second-oldest"
+   },
+   "published": "Wed, 25 Nov 2026 18:50:16 +0000",
+   "image": null
+  },
+  {
+   "id": "c82",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn't Exist. It's Located Just 28 Light-Years From Earth",
+   "article": {
+    "title": "Astronomers Accidentally Find a Rare Triple-Star System That They Say Shouldn't Exist. It's Located Just 28 Light-Years From Earth",
+    "url": "https://www.smithsonianmag.com/smart-news/astronomers-accidentally-find-a-rare-triple-star-system-that-they-say-shouldnt-exist-its-located-just-28-light-years-from-earth-180989936/",
+    "extract": "The system, called Welopō'ai, includes a red dwarf and two white dwarfs. One of the white dwarfs—a dense stellar leftover—is extremely close to the reddish-orange star, and scientists say the progenitor star that died should have engulfed the red dwarf"
+   },
+   "published": "Wed, 25 Nov 2026 16:37:34 +0000",
+   "image": null
+  },
+  {
+   "id": "c83",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Scientists Discover Signs of Explosive Volcanic Eruptions 20,000 Feet Underwater—the Deepest Ever Found—in the Mariana Trench",
+   "article": {
+    "title": "Scientists Discover Signs of Explosive Volcanic Eruptions 20,000 Feet Underwater—the Deepest Ever Found—in the Mariana Trench",
+    "url": "https://www.smithsonianmag.com/smart-news/scientists-discover-signs-of-explosive-volcanic-eruptions-20000-feet-underwater-the-deepest-ever-found-in-the-mariana-trench-180989937/",
+    "extract": "The discovery puzzles researchers because volcanic activity at that depth should produce a goopy, seeping flow due to the immense pressure. Nevertheless, they say they've found evidence of explosive volcanism, thanks to a remotely operated submersible"
+   },
+   "published": "Wed, 25 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c84",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Meet Earth's New 'Mini-Moon' 2026 QQ8, a Six-Foot-Wide Asteroid That's Temporarily Circling Our Planet",
+   "article": {
+    "title": "Meet Earth's New 'Mini-Moon' 2026 QQ8, a Six-Foot-Wide Asteroid That's Temporarily Circling Our Planet",
+    "url": "https://www.smithsonianmag.com/smart-news/meet-earths-new-mini-moon-2026-qq8-a-six-foot-wide-asteroid-thats-temporarily-circling-our-planet-180989938/",
+    "extract": "An astronomer first spotted the object in August, but scientists needed several weeks to determine whether it was natural or human-made. Earth's gravity captured 2026 QQ8 in April, and the space rock will leave us in December or January"
+   },
+   "published": "Wed, 25 Nov 2026 14:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c85",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Indigenous Hunters Drove Bison Off This Tall Cliff for 3,000 Years. It's Only the Second Buffalo Jump Ever Discovered in Texas",
+   "article": {
+    "title": "Indigenous Hunters Drove Bison Off This Tall Cliff for 3,000 Years. It's Only the Second Buffalo Jump Ever Discovered in Texas",
+    "url": "https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/",
+    "extract": "Two science teachers were hiking when they stumbled on hundreds of ancient buffalo bones in Caprock Canyons State Park, which is today home to the Texas State Bison Herd"
+   },
+   "published": "Wed, 25 Nov 2026 13:10:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c86",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "The First-Ever Children's Booker Prize Revealed Its Eight Shortlisted Finalists. Meet the Four Young Judges Deciding the Winner",
+   "article": {
+    "title": "The First-Ever Children's Booker Prize Revealed Its Eight Shortlisted Finalists. Meet the Four Young Judges Deciding the Winner",
+    "url": "https://www.smithsonianmag.com/smart-news/the-first-ever-childrens-booker-prize-revealed-its-eight-shortlisted-finalists-meet-the-four-young-judges-deciding-the-winner-180989940/",
+    "extract": "Launched amid a historic low in youth reading enjoyment, the award will be decided by a joint panel of three adults and four young readers, who were selected from more than 4,000 applicants"
+   },
+   "published": "Tue, 24 Nov 2026 20:44:37 +0000",
+   "image": null
+  },
+  {
+   "id": "c87",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "In the Heart of Harlem, a New Museum Tells the Overlooked Story of the Civil Rights Movement in the North",
+   "article": {
+    "title": "In the Heart of Harlem, a New Museum Tells the Overlooked Story of the Civil Rights Movement in the North",
+    "url": "https://www.smithsonianmag.com/smart-news/in-the-heart-of-harlem-a-new-museum-tells-the-overlooked-story-of-civil-rights-movement-in-the-north-180989934/",
+    "extract": "The Urban Civil Rights Museum bills itself as the first museum to focus on the struggle for racial equality in the cities of the northern United States. It is also the first civil rights museum in New York City"
+   },
+   "published": "Tue, 24 Nov 2026 18:42:38 +0000",
+   "image": null
+  },
+  {
+   "id": "c88",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Where Does Language Originate in the Brain? New Research Challenges Our 150-Year-Old Understanding",
+   "article": {
+    "title": "Where Does Language Originate in the Brain? New Research Challenges Our 150-Year-Old Understanding",
+    "url": "https://www.smithsonianmag.com/smart-news/where-does-language-originate-in-the-brain-new-research-challenges-our-150-year-old-understanding-180989929/",
+    "extract": "Researchers long thought that a region called Wernicke's area, located just above the left ear, solely played a role in comprehending language. Now, a study suggests that it's also important for producing speech—a finding that will change diagrams in biology textbooks"
+   },
+   "published": "Tue, 24 Nov 2026 16:57:58 +0000",
+   "image": null
+  },
+  {
+   "id": "c89",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Biologists Discover a 'One-in-a-Million' Bright Yellow Burbot Fish in New York's Oswego Harbor",
+   "article": {
+    "title": "Biologists Discover a 'One-in-a-Million' Bright Yellow Burbot Fish in New York's Oswego Harbor",
+    "url": "https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/",
+    "extract": "The species normally has a mottled palette of olive green, earthy brown and golden yellow, but this one had a rare biological condition called xanthochromism, which allows yellow-orange pigment to dominate"
+   },
+   "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c90",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Astronauts Living at NASA's Planned Future Lunar Base Might One Day Snack on Moon-Grown Potatoes",
+   "article": {
+    "title": "Astronauts Living at NASA's Planned Future Lunar Base Might One Day Snack on Moon-Grown Potatoes",
+    "url": "https://www.smithsonianmag.com/smart-news/astronauts-living-at-nasas-planned-future-lunar-base-might-one-day-snack-on-moon-grown-potatoes-180989918/",
+    "extract": "Researchers successfully grew spuds in simulated moon dirt supplemented with vermicompost, a nutrient-rich organic additive with worm poop. The taters are safe and nutritious—but we don't know what they taste like yet"
+   },
+   "published": "Tue, 24 Nov 2026 15:00:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c91",
+   "source": "rss",
+   "feed": "Smithsonian Smart News",
+   "lang": "en",
+   "hook": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+   "article": {
+    "title": "Almost 90 Years After Discovering a Ship Burial That Rewrote British History, Archaeologists Returned to Sutton Hoo. This Time, They Uncovered a Ghostly 'Sand Body'",
+    "url": "https://www.smithsonianmag.com/smart-news/almost-90-years-after-discovering-a-ship-burial-that-rewrote-british-history-archaeologists-returned-to-sutton-hoo-this-time-they-uncovered-a-ghostly-sand-body-180989932/",
+    "extract": "Researchers with the \"Time Team\" series also found grave goods, including beads, tweezers, a knife and a brooch as well as evidence that a second person might have been buried in the same grave"
+   },
+   "published": "Tue, 24 Nov 2026 12:15:00 +0000",
+   "image": null
+  },
+  {
+   "id": "c92",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Polowanie na ludzi. Najmroczniejszy sekret starożytnej Sparty",
+   "article": {
+    "title": "Polowanie na ludzi. Najmroczniejszy sekret starożytnej Sparty",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/25/polowanie-na-ludzi-najmroczniejszy-sekret-starozytnej-sparty/",
+    "extract": "Spartanie uchodzili za niezwyciężonych wojowników, dla których honor, odwaga i wolność stanowiły najwyższe wartości. Jednak ich potęga opierała się na bezwzględnym wyzysku dziesiątek tysięcy helotów. Poniżanie, bicie, a nawet mordowanie niewolników stanowiło element spartańskiego systemu. Dlaczego słynni wojownicy tak bardzo obawiali się ludzi, dzięki którym mogli wieść dostatnie życie? The post P"
+   },
+   "published": "Wed, 25 Nov 2026 12:06:07 +0000",
+   "image": null
+  },
+  {
+   "id": "c93",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie potęgi Linii Maginota",
+   "article": {
+    "title": "Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie potęgi Linii Maginota",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/24/francuzi-wierzyli-ze-hitler-ich-nie-pokona-zludzenie-potegi-linii-maginota/",
+    "extract": "Latem 1939 roku mieszkańcy Metzu nie obawiali się niemieckiej inwazji. Wierzyli, że potężna Linia Maginota zapewni im bezpieczeństwo, a ich miasto już nigdy nie padnie łupem Niemiec. Jeszcze w kwietniu 1940 roku panowała tam powszechna pewność siebie. Zaledwie kilka tygodni później rzeczywistość brutalnie zweryfikowała te przekonania. The post Francuzi wierzyli, że Hitler ich nie pokona. Złudzenie"
+   },
+   "published": "Tue, 24 Nov 2026 17:48:03 +0000",
+   "image": null
+  },
+  {
+   "id": "c94",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Rowerem do Afryki 1939",
+   "article": {
+    "title": "Rowerem do Afryki 1939",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/24/rowerem-do-afryki-1939/",
+    "extract": "Podróż na drugi kontynent i do świata, który wkrótce przestanie istnieć The post Rowerem do Afryki 1939 first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Tue, 24 Nov 2026 16:57:56 +0000",
+   "image": null
+  },
+  {
+   "id": "c95",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczono z pożądaniem?",
+   "article": {
+    "title": "Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczono z pożądaniem?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/23/pokrzywy-biczowanie-i-upuszczanie-krwi-jak-dawniej-walczono-z-pozadaniem/",
+    "extract": "Przez stulecia pożądanie uważano za niebezpieczną pokusę, którą należało za wszelką cenę poskromić. Święci rzucali się w pokrzywy, duchowni poddawali się bolesnym umartwieniom, a lekarze zalecali upuszczanie krwi, zimne kąpiele i specjalne diety. Niektóre sposoby walki z popędem seksualnym były równie pomysłowe, co przerażające. The post Pokrzywy, biczowanie i upuszczanie krwi. Jak dawniej walczon"
+   },
+   "published": "Mon, 23 Nov 2026 20:29:15 +0000",
+   "image": null
+  },
+  {
+   "id": "c96",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Abstynencja seksualna. Historia kulturowa",
+   "article": {
+    "title": "Abstynencja seksualna. Historia kulturowa",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/23/abstynencja-seksualna-historia-kulturowa/",
+    "extract": "(…) historia – czy tego chcemy, czy nie – kręci się wokół seksu lub… jego braku. The post Abstynencja seksualna. Historia kulturowa first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Mon, 23 Nov 2026 19:22:51 +0000",
+   "image": null
+  },
+  {
+   "id": "c97",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+   "article": {
+    "title": "Konferencja prasowa XXXIV Targów Książki Historycznej",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/22/konferencja-prasowa-xxxiv-targow-ksiazki-historycznej/",
+    "extract": "Fundacja Historia i Kultura oraz Porozumienie Wydawców Książki Historycznej zapraszają na konferencję prasową XXXIV Targów Książki Historycznej, która odbędzie się 24 listopada (wtorek) 2026 r. o godz. 12.00 w Sali Kinowej Zamku Królewskiego w Warszawie – Muzeum The post Konferencja prasowa XXXIV Targów Książki Historycznej first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Sun, 22 Nov 2026 17:07:23 +0000",
+   "image": null
+  },
+  {
+   "id": "c98",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+   "article": {
+    "title": "Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/21/tragedia-pod-otloczynem-najwieksza-katastrofa-kolejowa-w-historii-prl/",
+    "extract": "19 sierpnia 1980 roku, wczesnym rankiem, pod Otłoczynem doszło do największej katastrofy kolejowej w powojennej historii Polski. W czołowym zderzeniu dwóch pociągów zginęło 67 osób, a 64 zostały ranne. Siła uderzenia była tak ogromna, że jeden z wagonów praktycznie przestał istnieć. The post Tragedia pod Otłoczynem. Największa katastrofa kolejowa w historii PRL first appeared on CiekawostkiHistory"
+   },
+   "published": "Sat, 21 Nov 2026 09:59:11 +0000",
+   "image": null
+  },
+  {
+   "id": "c99",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+   "article": {
+    "title": "Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/jak-ludwik-pobozny-bratanka-oslepil-i-pokute-odbyc-musial/",
+    "extract": "Czy ktoś wprowadził Ludwika Pobożnego w błąd? A może jego bratanek rzeczywiście się zbuntował? Tak czy inaczej, cesarz potraktował go wyjątkowo brutalnie. Dopiero wymowny tekst wizyjny i seria nieszczęść, które dotknęły państwo, skłoniły władcę do odpokutowania za swój czyn. The post Jak Ludwik Pobożny bratanka oślepił i pokutę odbyć musiał? first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 07:38:49 +0000",
+   "image": null
+  },
+  {
+   "id": "c100",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Nil. Rzeka dziejów",
+   "article": {
+    "title": "Nil. Rzeka dziejów",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/19/nil-rzeka-dziejow/",
+    "extract": "Zapraszamy do niezwykłej podróży The post Nil. Rzeka dziejów first appeared on CiekawostkiHistoryczne.pl."
+   },
+   "published": "Thu, 19 Nov 2026 06:43:29 +0000",
+   "image": null
+  },
+  {
+   "id": "c101",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+   "article": {
+    "title": "Tajne więzienia CIA. Jak Amerykanie usprawiedliwiali stosowanie tortur?",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/17/tajne-wiezienia-cia-jak-amerykanie-usprawiedliwiali-stosowanie-tortur/",
+    "extract": "Po zamachach z 11 września 2001 roku CIA rozpoczęła bezwzględną walkę z terroryzmem. Amerykański wywiad sięgnął po brutalne metody przesłuchań, w tym podtapianie, pozbawianie snu i przetrzymywanie więźniów w skrajnych warunkach. Choć nawet prawnicy agencji obawiali się, że działania te mogą zostać uznane za tortury, jej kierownictwo szukało sposobów na ich zalegalizowanie. Jak przekonywano, że w i"
+   },
+   "published": "Tue, 17 Nov 2026 18:56:05 +0000",
+   "image": null
+  },
+  {
+   "id": "c102",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+   "article": {
+    "title": "„Prawdziwa historia »Zemsty« Fredry. Zamek Kamieniec i konflikt, który przeszedł do literatury”",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/15/prawdziwa-historia-zemsty-fredry-zamek-kamieniec-i-konflikt-ktory-przeszedl-do-literatury/",
+    "extract": "Kłótnie o mur, sąsiedzkie złośliwości, awantury i wieloletnie procesy sądowe. Historia, którą Aleksander Fredro przedstawił w „Zemście”, nie była wyłącznie wytworem jego wyobraźni. Jej pierwowzorem stał się autentyczny konflikt dwóch szlacheckich rodów, które w XVII wieku dzieliły między siebie zamek Kamieniec w Odrzykoniu. Kim byli prawdziwi Cześnik i Rejent i jak zakończyła się ich zaciekła rywa"
+   },
+   "published": "Sun, 15 Nov 2026 21:27:35 +0000",
+   "image": null
+  },
+  {
+   "id": "c103",
+   "source": "rss",
+   "feed": "Ciekawostki historyczne",
+   "lang": "pl",
+   "hook": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+   "article": {
+    "title": "Dramat więzienny „Bunt” z Borysem Szycem i Filipem Pławiakiem już 9 grudnia tylko w Netflixie",
+    "url": "https://ciekawostkihistoryczne.pl/2026/11/13/dramat-wiezienny-bunt-z-borysem-szycem-i-filipem-plawiakiem-juz-9-grudnia-tylko-w-netflixie/",
+    "extract": "Bunt to sześcioodcinkowy dramat więzienny inspirowany prawdziwymi wydarzeniami, osadzony w Polsce 1989 roku – w momencie, gdy cały kraj świętuje wolność, a za murami więzienia nadal rządzą przemoc, upokorzenie i bezwzględna siła systemu. Borys Szyc i Filip Pławiak wcielają się w byłych współwięźniów, którzy po latach stają po przeciwnych stronach konfliktu i próbują powstrzymać rozlew krwi. Serial"
+   },
+   "published": "Fri, 13 Nov 2026 19:28:11 +0000",
+   "image": null
+  }
+ ]
+}
