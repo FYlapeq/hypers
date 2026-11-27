@@ -1,5 +1,441 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-27": {
+    "date": "2026-11-27",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "Lukasyno",
+        "initials": "LU",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Lukasyno wydał album „Amor Fati”. Na płycie są m.in. Peja, Pih, Tau i Papier",
+        "summary": "Album „Amor Fati” Lukasyno ukazał się 27 listopada. Tuż po północy na kanale rapera pojawiły się utwory z płyty, w tym „Dyskomfort” z Peją i Pihem.",
+        "body": [
+          "Lukasyno opublikował na YouTube utwory z nowego albumu „Amor Fati”. W opisie „Dyskomfortu” podał datę premiery: 27 listopada 2026 r. Płyta wychodzi w labelu Persona non grata, a za produkcję odpowiada Kriso.",
+          "Na płycie pojawiają się goście: Peja i Pih w „Dyskomforcie”, Tau w „Zapachu tamtych dni”, Papier w „Wybieraj to co trudne” i Peres w „Nagiej ciszy”. W utworach „Amor Fati” i „Siano” śpiewają Monika Horodek-Jaworska i Jan Jaworski.",
+          "Tydzień wcześniej raper wypuścił czwarty singiel promujący album. Pod nowymi utworami słuchacze piszą, że odsłuchali płytę od razu po premierze, a w komentarzach do „Dyskomfortu” wracają wspomnienia wcześniejszych numerów Pei i Piha."
+        ],
+        "sources": [
+          {
+            "name": "Lukasyno Official / YouTube",
+            "url": "https://www.youtube.com/watch?v=07KjziJOHwg",
+            "origin": true
+          },
+          {
+            "name": "Lukasyno Official / YouTube (Zapach tamtych dni)",
+            "url": "https://www.youtube.com/watch?v=uOvsPWHF-_Y",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=07KjziJOHwg",
+        "caption": {
+          "credit": "Lukasyno / YouTube",
+          "text": "„Dyskomfort” to jeden z utworów, które Lukasyno opublikował w dniu premiery albumu. Gościnnie zwrotki dograli Peja i Pih."
+        },
+        "ig": [
+          "lukasynoofficial"
+        ],
+        "insta": {
+          "tytul": "Lukasyno wydał „Amor Fati”. Na płycie Peja, Pih, Tau i Papier",
+          "opis": "Płyta wyszła 27 listopada, a numery wpadły na YouTube tuż po północy. Stara gwardia w komplecie 🔥"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/07KjziJOHwg/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/07KjziJOHwg/hqdefault.jpg",
+          "credit": "Lukasyno / YouTube",
+          "href": "https://www.youtube.com/watch?v=07KjziJOHwg",
+          "alt": "Kadr z utworu Lukasyno „Dyskomfort”",
+          "caption": "Kadr z utworu „Dyskomfort” z albumu „Amor Fati”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "Szaran",
+        "initials": "SZ",
+        "category": "Muzyka",
+        "hype": 3,
+        "title": "Szaran pokazał klip do „SO$” i ruszył ze sprzedażą biletów na pierwszą solową trasę",
+        "summary": "SBM Label opublikował klip Szarana do „SO$”. W opisie są link do albumu „KLY” w serwisach streamingowych i bilety na pierwszą solową trasę rapera.",
+        "body": [
+          "Na kanale SBM Label pojawił się klip Szarana do utworu „SO$”. Według opisu album „KLY” jest już dostępny w serwisach streamingowych, a w sprzedaży są bilety na „KLY Tour”, pierwszą solową trasę Szarana.",
+          "Za reżyserię klipu odpowiada Kuba Szarański, zdjęcia zrobił Oliwier de Nisau. Bit przygotowali Kize i Urmi, a scratche Zielakjr.",
+          "Widzowie piszą w komentarzach, że czekali na ten materiał, i zapowiadają, że kolejny klip ma się pojawić jeszcze dziś."
+        ],
+        "sources": [
+          {
+            "name": "SBM Label / YouTube",
+            "url": "https://www.youtube.com/watch?v=m3CEWQxVkhQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=m3CEWQxVkhQ",
+        "caption": {
+          "credit": "SBM Label / YouTube",
+          "text": "Klip do „SO$” promuje album „KLY”. Pod filmem SBM podlinkował bilety na pierwszą solową trasę Szarana."
+        },
+        "ig": [
+          "kubusszaran"
+        ],
+        "insta": {
+          "tytul": "Szaran rusza w pierwszą solową trasę",
+          "opis": "Do tego nowy klip do „SO$”, a album „KLY” jest już w streamingach."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/m3CEWQxVkhQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/m3CEWQxVkhQ/hqdefault.jpg",
+          "credit": "SBM Label / YouTube",
+          "href": "https://www.youtube.com/watch?v=m3CEWQxVkhQ",
+          "alt": "Kadr z klipu Szarana „SO$”",
+          "caption": "Kadr z klipu „SO$” z albumu „KLY”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-26",
+        "who": "Graf",
+        "initials": "GR",
+        "category": "Program",
+        "hype": 3,
+        "title": "Graf znów poprowadził „Maturę to Bzdura”. Odcinek trafił na jego kanał",
+        "summary": "Graf po raz kolejny był prowadzącym programu „Matura to Bzdura”. Odcinek „Warszawiacy vs Globus” wyjątkowo wrzucił u siebie.",
+        "body": [
+          "Graf opublikował na swoim kanale odcinek „Matury to Bzdura” zatytułowany „Warszawiacy vs Globus”. W opisie napisał, że po raz kolejny miał okazję poprowadzić ten program i że to jeden z nielicznych odcinków, które trafiają na jego kanał.",
+          "Nazwał to odskocznią od swoich zwykłych materiałów. W komentarzu pod filmem dodał, że cieszy się, że mógł go wrzucić, i przeprosił, że miniatura pojawi się później.",
+          "Film trwa 12 minut. Widzowie żartują w komentarzach, że do reklamy myśleli, że oglądają kanał „Matury to Bzdura”, i że prowadzący zachował spokój przy niektórych odpowiedziach."
+        ],
+        "sources": [
+          {
+            "name": "Graf / YouTube",
+            "url": "https://www.youtube.com/watch?v=O73kf3t3NAw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=O73kf3t3NAw",
+        "caption": {
+          "credit": "Graf / YouTube",
+          "text": "To odcinek „Matury to Bzdura”, który Graf poprowadził i opublikował na własnym kanale. Uczestnicy odpowiadają w nim na pytania z geografii."
+        },
+        "ig": [
+          "graf_irl"
+        ],
+        "insta": {
+          "tytul": "Graf znowu prowadził „Maturę to Bzdura”",
+          "opis": "Tym razem odcinek wylądował na jego kanale. Sam mówi, że to fajna odskocznia od zwykłego kontentu."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/O73kf3t3NAw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/O73kf3t3NAw/hqdefault.jpg",
+          "credit": "Graf / YouTube",
+          "href": "https://www.youtube.com/watch?v=O73kf3t3NAw",
+          "alt": "Kadr z odcinka „Matura to Bzdura” prowadzonego przez Grafa",
+          "caption": "Kadr z odcinka „Warszawiacy vs Globus”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-26",
+        "who": "ZMASLO",
+        "initials": "ZM",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "ZMASLO porównał GTA 6 na czterech konsolach. Pokazał też glitch, który odblokowuje klatki na Xboksach",
+        "summary": "W materiale dla moreleTV ZMASLO zestawił GTA 6 na PS5, PS5 Pro, Xbox Series X i Series S. To pełny test, który zapowiadał w środę.",
+        "body": [
+          "Na kanale moreleTV ukazało się porównanie GTA 6 na czterech konsolach: PlayStation 5, PlayStation 5 Pro, Xbox Series X i Xbox Series S. Według opisu materiał sprawdza jakość grafiki, zastosowane techniki i to, jak poszczególne konsole utrzymują 30 klatek na sekundę.",
+          "W opisie zapowiedziano też bonus: glitch, który pozwala odblokować liczbę klatek na Xboksach Series X i S, oraz test GTA 6 w chmurze na Xbox One.",
+          "W środę ZMASLO pokazał zapowiedź testu na Xboksach. O 6:16 w piątek pełny film miał ok. 73 tys. wyświetleń. W komentarzach widzowie dyskutują o 30 kl./s na konsolach i czekają na wersję na PC."
+        ],
+        "sources": [
+          {
+            "name": "moreleTV / YouTube",
+            "url": "https://www.youtube.com/watch?v=Sew8XaPOEQw",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=Sew8XaPOEQw",
+        "caption": {
+          "credit": "moreleTV / YouTube",
+          "text": "Test ZMASLO dla moreleTV zestawia GTA 6 na konsolach Sony i Microsoftu. To kontynuacja jego wcześniejszego testu na PS5."
+        },
+        "insta": {
+          "tytul": "Na której konsoli GTA 6 chodzi najlepiej? ZMASLO sprawdził cztery",
+          "opis": "PS5, PS5 Pro, Series X i Series S. Do tego glitch, który odblokowuje klatki na Xboksach."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Sew8XaPOEQw/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Sew8XaPOEQw/hqdefault.jpg",
+          "credit": "moreleTV / YouTube",
+          "href": "https://www.youtube.com/watch?v=Sew8XaPOEQw",
+          "alt": "Miniatura porównania GTA 6 na konsolach Xbox i PlayStation",
+          "caption": "Miniatura testu GTA 6 na czterech konsolach."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-26",
+        "who": "Strojny",
+        "initials": "ST",
+        "category": "Gaming",
+        "hype": 2,
+        "title": "Tibia kończy 30 lat. Strojny omówił 38 darmowych nagród od CipSoftu",
+        "summary": "Strojny nagrał film o tym, czym CipSoft świętuje 30-lecie Tibii: według tytułu wszyscy gracze dostaną 38 darmowych nagród.",
+        "body": [
+          "Strojny, jeden z najpopularniejszych polskich twórców Tibii, opublikował film „38 darmowych nagród dla wszystkich! Na 30-lecie Tibii! CipSoft zaskakuje!”. Materiał dotyczy obchodów 30-lecia gry, którą od lat wydaje niemieckie studio CipSoft.",
+          "Film trwa ok. 11 minut. Widzowie piszą w komentarzach, że mimo 30 lat istnienia gra wciąż potrafi ich zaskoczyć, a część obawia się tłoku na serwerach w czasie wydarzenia."
+        ],
+        "sources": [
+          {
+            "name": "Strojny / YouTube",
+            "url": "https://www.youtube.com/watch?v=RzBe5C0zJdE",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=RzBe5C0zJdE",
+        "caption": {
+          "credit": "Strojny / YouTube",
+          "text": "W tym filmie Strojny omawia nagrody, które CipSoft przygotował na 30-lecie Tibii."
+        },
+        "ig": [
+          "_strojny"
+        ],
+        "insta": {
+          "tytul": "Tibia ma 30 lat i rozdaje graczom 38 nagród",
+          "opis": "Strojny rozłożył na części, co CipSoft szykuje na urodziny gry."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/RzBe5C0zJdE/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/RzBe5C0zJdE/hqdefault.jpg",
+          "credit": "Strojny / YouTube",
+          "href": "https://www.youtube.com/watch?v=RzBe5C0zJdE",
+          "alt": "Miniatura filmu Strojnego o 30-leciu Tibii",
+          "caption": "Miniatura filmu o nagrodach na 30-lecie Tibii."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-26",
+        "who": "Kai Cenat",
+        "initials": "KC",
+        "category": "Lifestyle",
+        "hype": 2,
+        "title": "Kai Cenat pokazał, że jego obiad na Święto Dziękczynienia „poszedł bardzo źle”",
+        "summary": "Kai Cenat wrzucił 13-sekundowy short ze świątecznego obiadu na Thanksgiving. Po kilku godzinach miał ponad milion wyświetleń.",
+        "body": [
+          "Na kanale Kai Cenat Live pojawił się short zatytułowany „Kai Cenat's Thanksgiving Meal Went Horribly Wrong”, czyli „Obiad Kaia Cenata na Święto Dziękczynienia poszedł bardzo źle”. Nagranie trwa 13 sekund.",
+          "O 6:16 polskiego czasu film miał ok. 1,05 mln wyświetleń i ponad 21 tys. polubień. W najpopularniejszym komentarzu widz tłumaczy, że różowy kolor indyka nie musi oznaczać, że jest niedopieczony, i że liczy się temperatura mięsa."
+        ],
+        "sources": [
+          {
+            "name": "Kai Cenat Live / YouTube",
+            "url": "https://www.youtube.com/shorts/Mx2mmPIxv-4",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/Mx2mmPIxv-4",
+        "caption": {
+          "credit": "Kai Cenat Live / YouTube",
+          "text": "Krótki film z obiadu na Thanksgiving, do którego odnosi się news. Widzowie dyskutują pod nim głównie o indyku."
+        },
+        "ig": [
+          "kaicenat"
+        ],
+        "insta": {
+          "tytul": "Kai Cenat i Thanksgiving, który poszedł nie tak",
+          "opis": "13 sekund i ponad milion wyświetleń. W komentarzach dyskusja, czy różowy indyk to jeszcze okej 🦃"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/Mx2mmPIxv-4/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/Mx2mmPIxv-4/hqdefault.jpg",
+          "credit": "Kai Cenat Live / YouTube",
+          "href": "https://www.youtube.com/shorts/Mx2mmPIxv-4",
+          "alt": "Kadr z shorta Kaia Cenata o obiedzie na Thanksgiving",
+          "caption": "Kadr z shorta o obiedzie na Święto Dziękczynienia."
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Norwegia",
+        "initials": "NO",
+        "category": "Zwierzęta",
+        "hype": 4,
+        "title": "Pingwin z zoo w Edynburgu jest generałem norweskiej Gwardii Królewskiej i ma tytuł szlachecki",
+        "summary": "Pingwin królewski Nils Olav mieszka w zoo w Edynburgu, a jednocześnie jest maskotką i honorowym dowódcą norweskiej Gwardii Królewskiej.",
+        "body": [
+          "Nils Olav to pingwin królewski z zoo w Edynburgu. Norweska Gwardia Królewska zrobiła z niego swoją maskotkę i pułkownika honorowego, a z czasem awansowała go dalej. W 2016 r. BBC pisało o awansie na brygadiera, dziś według Wikipedii nosi stopień generała majora.",
+          "Ma też tytuł „Sir” i barona Wyspy Bouveta. Imię przechodzi z ptaka na ptaka: obecny Nils Olav to już trzeci pingwin w tej roli."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Nils_Olav"
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-37155792"
+          }
+        ],
+        "insta": {
+          "tytul": "W zoo w Edynburgu mieszka pingwin, który jest generałem",
+          "opis": "Nils Olav jest honorowym dowódcą norweskiej Gwardii Królewskiej. Ma też tytuł szlachecki, serio."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Nils_Olav_wide.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Nils_Olav_wide.jpg",
+          "credit": "Lee Carson on Flickr / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Pingwin królewski Nils Olav w zoo w Edynburgu",
+          "caption": "Nils Olav, pingwin królewski i honorowy oficer norweskiej Gwardii Królewskiej."
+        },
+        "caption": {
+          "credit": "Lee Carson on Flickr / Wikimedia Commons, CC BY-SA 2.0",
+          "text": "Zdjęcie pokazuje Nilsa Olava w zoo w Edynburgu. To ten sam pingwin, któremu norweska gwardia nadaje kolejne stopnie."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "USA",
+        "initials": "US",
+        "category": "Ekonomia",
+        "hype": 3,
+        "title": "W USA na serio proponowano wybicie monety o nominale biliona dolarów, żeby obejść limit długu",
+        "summary": "Pomysł platynowej monety za bilion dolarów pojawił się w czasie kryzysu wokół limitu zadłużenia USA w 2011 r. W 2013 r. trafił na czołówki gazet.",
+        "body": [
+          "W 2011 r., gdy Kongres spierał się o podniesienie limitu zadłużenia, pojawił się pomysł, by Departament Skarbu wybił platynowe monety o ogromnym nominale, np. biliona dolarów. Miało to pozwolić rządowi obejść konieczność zgody Kongresu na zwiększenie limitu.",
+          "W styczniu 2013 r. o monecie pisały największe media, ale Rezerwa Federalna i Departament Skarbu odrzuciły ten pomysł. W 2020 r. kongresmenka Rashida Tlaib wróciła do niego w projekcie ustawy."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Trillion-dollar_coin"
+          },
+          {
+            "name": "CBS News (archiwum)",
+            "url": "https://web.archive.org/web/20130112013052/http://www.cbsnews.com/8301-250_162-57563428/whats-up-with-the-$1-trillion-coin/"
+          }
+        ],
+        "insta": {
+          "tytul": "USA miały kiedyś pomysł na monetę za bilion dolarów",
+          "opis": "Platynowa moneta miała obejść limit długu bez zgody Kongresu. Skończyło się na pomyśle."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Trillion_Dollar_Coin.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Trillion_Dollar_Coin.jpg",
+          "credit": "DonkeyHotey / Wikimedia Commons, CC BY 2.0",
+          "alt": "Ilustracja monety o nominale biliona dolarów",
+          "caption": "Ilustracja wyobrażonej monety o nominale biliona dolarów."
+        },
+        "caption": {
+          "credit": "DonkeyHotey / Wikimedia Commons, CC BY 2.0",
+          "text": "To ilustracja satyryczna, nie prawdziwa moneta: takiej nigdy nie wybito. Pokazuje, jak wyobrażano sobie pomysł z 2011 i 2013 r."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Google",
+        "initials": "GO",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Google stworzył program, który „śni” i wszędzie dorysowuje psie pyski i oczy",
+        "summary": "DeepDream to program inżyniera Google Alexandra Mordvintseva. Sieć neuronowa wzmacnia w obrazie wzory, które „widzi”, i zamienia zwykłe zdjęcia w psychodeliczne wizje.",
+        "body": [
+          "DeepDream stworzył inżynier Google Alexander Mordvintsev. Program używa sieci neuronowej do rozpoznawania obrazów, ale działa odwrotnie: zamiast tylko rozpoznawać wzory, wzmacnia je w zdjęciu. To komputerowa wersja pareidolii, czyli widzenia kształtów tam, gdzie ich nie ma.",
+          "Efekt to celowo przetworzone obrazy przypominające sen albo psychodeliczne wizje. W 2015 r. Google opisał i udostępnił kod programu na swoim blogu badawczym."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/DeepDream"
+          },
+          {
+            "name": "Google Research Blog (archiwum)",
+            "url": "https://web.archive.org/web/20150708233542/http://googleresearch.blogspot.co.uk/2015/07/deepdream-code-example-for-visualizing.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Google zrobił AI, które „śni” i widzi oczy dosłownie wszędzie",
+          "opis": "DeepDream wzmacnia w zdjęciu wzory, które mu się wydają. Tak wygląda po tym Mona Lisa."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%22Mona_Lisa%22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:%22Mona_Lisa%22_with_DeepDream_effect_using_VGG16_network_trained_on_ImageNet.jpg",
+          "credit": "Pjfinlay / Wikimedia Commons, CC0",
+          "alt": "Mona Lisa przetworzona przez DeepDream, pełna psychodelicznych wzorów",
+          "caption": "„Mona Lisa” po przetworzeniu przez DeepDream."
+        },
+        "caption": {
+          "credit": "Pjfinlay / Wikimedia Commons, CC0",
+          "text": "Tak wygląda obraz po przepuszczeniu przez DeepDream. Sieć dorysowuje w nim wzory, które „rozpoznaje”."
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Matematyka",
+        "initials": "PI",
+        "category": "Nauka",
+        "hype": 3,
+        "title": "Liczba π ma swoje święto 14 marca. Wymyślił je pracownik muzeum nauki w San Francisco",
+        "summary": "Dzień Pi obchodzi się 14 marca (3.14). Zapoczątkował go w 1988 r. Larry Shaw z muzeum Exploratorium.",
+        "body": [
+          "Dzień Pi przypada 14 marca, bo w zapisie amerykańskim to 3/14, czyli pierwsze cyfry liczby π. Święto wymyślił w 1988 r. Larry Shaw, pracownik muzeum nauki Exploratorium w San Francisco.",
+          "Obchody to często jedzenie ciasta (ang. pie brzmi jak pi) i konkursy w recytowaniu kolejnych cyfr π. W 2009 r. Izba Reprezentantów USA poparła ustanowienie Dnia Pi."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Pi_Day"
+          },
+          {
+            "name": "CNN",
+            "url": "http://www.cnn.com/2010/TECH/03/12/pi.day.math/index.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Liczba π ma swoje święto i obchodzi się je… jedząc ciasto",
+          "opis": "14 marca, czyli 3.14. Wymyślił to w 1988 r. pracownik muzeum w San Francisco, a pie po angielsku brzmi jak pi 🥧"
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Larry_Shaw%2C_the_founder_of_Pi_Day%2C_at_the_Exploratorium_in_San_Francisco--2007_March_21.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Larry_Shaw,_the_founder_of_Pi_Day,_at_the_Exploratorium_in_San_Francisco--2007_March_21.jpg",
+          "credit": "Ronhip (Ron Hipschman) / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Larry Shaw, twórca Dnia Pi, w muzeum Exploratorium",
+          "caption": "Larry Shaw, twórca Dnia Pi, w Exploratorium w San Francisco (2007)."
+        },
+        "caption": {
+          "credit": "Ronhip (Ron Hipschman) / Wikimedia Commons, CC BY-SA 3.0",
+          "text": "Na zdjęciu Larry Shaw, który wymyślił Dzień Pi. Zdjęcie zrobiono w Exploratorium, gdzie zaczęły się obchody."
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-26": {
     "date": "2026-11-26",
     "ryby": [],

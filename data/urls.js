@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-27": {
+  "luz": [
+   "artykuly/2026-11-27/lukasyno-wydal-album-amor-fati-na-plycie-sa-m-in-peja-pih-tau-i-papier.html",
+   "artykuly/2026-11-27/szaran-pokazal-klip-do-so-i-ruszyl-ze-sprzedaza-biletow-na-pierwsza.html",
+   "artykuly/2026-11-27/graf-znow-poprowadzil-mature-to-bzdura-odcinek-trafil-na-jego-kanal.html",
+   "artykuly/2026-11-27/zmaslo-porownal-gta-6-na-czterech-konsolach-pokazal-tez-glitch-ktory.html",
+   "artykuly/2026-11-27/tibia-konczy-30-lat-strojny-omowil-38-darmowych-nagrod-od-cipsoftu.html",
+   "artykuly/2026-11-27/kai-cenat-pokazal-ze-jego-obiad-na-swieto-dziekczynienia-poszedl.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-27/pingwin-z-zoo-w-edynburgu-jest-generalem-norweskiej-gwardii.html",
+   "artykuly/2026-11-27/w-usa-na-serio-proponowano-wybicie-monety-o-nominale-biliona-dolarow.html",
+   "artykuly/2026-11-27/google-stworzyl-program-ktory-sni-i-wszedzie-dorysowuje-psie-pyski.html",
+   "artykuly/2026-11-27/liczba-ma-swoje-swieto-14-marca-wymyslil-je-pracownik-muzeum-nauki.html"
+  ]
+ },
  "2026-11-26": {
   "luz": [
    "artykuly/2026-11-26/lootbox-take-two-zablokowalo-nieoficjalny-port-gta-6-na-pc.html",
