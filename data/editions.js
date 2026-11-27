@@ -7,6 +7,50 @@ window.HYPERS_EDITIONS = {
       {
         "region": "pl",
         "published": "2026-11-27",
+        "who": "Chimek",
+        "initials": "CH",
+        "category": "Muzyka",
+        "hype": 2,
+        "title": "Chimek z Eastern Block Klan wypuścił singiel „TOP OF THE TOP”",
+        "summary": "Na kanale Eastern Block Klan pojawił się klip do nowego numeru Chimka „TOP OF THE TOP”. Za muzykę odpowiada zasadnik, a za obraz og.jerzyk.",
+        "body": [
+          "Chimek wypuścił nowy singiel „TOP OF THE TOP”. Klip trafił 27 listopada w południe na kanał Eastern Block Klan na YouTube jako krótki, ok. dwuminutowy film, a numer jest już w serwisach streamingowych.",
+          "Według opisu pod filmem za muzykę i mix odpowiada zasadnik, a teledysk nakręcił og.jerzyk.",
+          "Ok. 14:20 klip miał ok. 1,2 tys. wyświetleń i ponad 240 polubień. W komentarzach przeważają krótkie reakcje fanów chwalące klimat numeru."
+        ],
+        "sources": [
+          {
+            "name": "Eastern Block Klan / YouTube",
+            "url": "https://www.youtube.com/watch?v=IPXp-yTfKHk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/IPXp-yTfKHk",
+        "caption": {
+          "credit": "Eastern Block Klan / YouTube",
+          "text": "Klip do „TOP OF THE TOP” to premierowy materiał z kanału ekipy Chimka. Pod filmem są linki do singla i dane twórców: muzyka zasadnik, wideo og.jerzyk."
+        },
+        "ig": [
+          "chimek_ebk"
+        ],
+        "insta": {
+          "tytul": "Chimek wrzucił nowy numer „TOP OF THE TOP”",
+          "opis": "Klip wyszedł dziś na kanale Eastern Block Klan, bit zrobił zasadnik. Singiel jest już na streamingach 🔥"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/IPXp-yTfKHk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/IPXp-yTfKHk/hqdefault.jpg",
+          "credit": "Eastern Block Klan / YouTube",
+          "href": "https://www.youtube.com/watch?v=IPXp-yTfKHk",
+          "alt": "Kadr z klipu Chimka „TOP OF THE TOP”",
+          "caption": "Miniatura klipu „TOP OF THE TOP” z kanału Eastern Block Klan."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
         "who": "Lukasyno",
         "initials": "LU",
         "category": "Muzyka",
@@ -270,6 +314,293 @@ window.HYPERS_EDITIONS = {
       }
     ],
     "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "PlayStation 3",
+        "initials": "PS",
+        "category": "Technologia",
+        "hype": 3,
+        "title": "Z konsol PlayStation 3 budowano superkomputery. Jeden powstał dla Departamentu Obrony USA",
+        "summary": "Mocny procesor Cell w PS3 sprawił, że naukowcy łączyli wiele konsol w sieć i robili z nich tanie maszyny obliczeniowe.",
+        "body": [
+          "PlayStation 3 miało procesor Cell od IBM, który jak na konsolę był bardzo wydajny. Jeszcze przed premierą i w czasie produkcji konsoli badacze zainteresowali się łączeniem wielu PS3 w sieć, żeby tanio uzyskać dużą moc obliczeniową.",
+          "Takie zestawy nazywa się klastrami PS3. Jeden z nich, widoczny na zdjęciu, zbudowano dla amerykańskiego Departamentu Obrony. Wcześniej podobne eksperymenty robiono nawet z PlayStation 2."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/PlayStation_3_cluster"
+          },
+          {
+            "name": "NCSA: Scientific Computing on the Sony PlayStation 2 (archiwum)",
+            "url": "https://web.archive.org/web/20041120084657/http://arrakis.ncsa.uiuc.edu/ps2/"
+          }
+        ],
+        "insta": {
+          "tytul": "Wojsko USA zrobiło superkomputer z… konsol PS3",
+          "opis": "Procesor w PS3 był tak mocny, że opłacało się łączyć wiele konsol w jedną maszynę do obliczeń."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/CondorCluster.png",
+          "href": "https://commons.wikimedia.org/wiki/File:CondorCluster.png",
+          "credit": "US Department of Defense / Wikimedia Commons, Public domain",
+          "alt": "Rzędy konsol PlayStation 3 ustawionych na regałach w serwerowni",
+          "caption": "Klaster Condor, zbudowany z konsol PlayStation 3 dla Departamentu Obrony USA."
+        },
+        "caption": {
+          "credit": "US Department of Defense / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje klaster Condor: rzędy połączonych konsol PS3 w serwerowni. To dokładnie taki zestaw, o jakim mówi ciekawostka."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "Polandball",
+        "initials": "PB",
+        "category": "Internet",
+        "hype": 3,
+        "title": "Mem Polandball powstał, żeby trollować polskiego użytkownika niemieckiego forum",
+        "summary": "Kulki w barwach flag, które odgrywają stosunki między państwami, wzięły nazwę od Polaka, który na forum Krautchan pisał łamanym angielskim.",
+        "body": [
+          "Polandball, zwany też Countryballs, to internetowy mem i cały gatunek satyry: państwa są kulkami w barwach swoich flag i odgrywają historię, stosunki międzynarodowe i stereotypy. Komiksy rysuje się zwykle w prostych programach jak Paint, a nawet te robione lepszym sprzętem specjalnie wyglądają na niezdarne.",
+          "Nazwa wzięła się stąd, że takie obrazki powstały, by trollować polskiego użytkownika niemieckiego forum obrazkowego Krautchan o nicku Wojak, który pisał łamanym angielskim."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Polandball"
+          },
+          {
+            "name": "The Shortlisted",
+            "url": "https://the-shortlisted.co.uk/bruno-bozzetto-interview-english/"
+          }
+        ],
+        "insta": {
+          "tytul": "Polandball zaczął się od trollowania jednego Polaka na niemieckim forum",
+          "opis": "Kulki-państwa w barwach flag wzięły nazwę od użytkownika, który pisał łamanym angielskim. Dziś to cały gatunek komiksów."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Poland_as_a_countryball.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Poland_as_a_countryball.png",
+          "credit": "ChickenScuttleMonkey / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Rysunek biało-czerwonej kulki z oczami, czyli Polski w stylu Polandball",
+          "caption": "Polska jako „countryball”, czyli bohater memów Polandball."
+        },
+        "caption": {
+          "credit": "ChickenScuttleMonkey / Wikimedia Commons",
+          "text": "Na rysunku Polska w stylu Polandball: biało-czerwona kulka z oczami. Tak wyglądają bohaterowie tych memów."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Ferdinand Habsburg",
+        "initials": "FH",
+        "category": "Sport",
+        "hype": 3,
+        "title": "Następca głowy rodu Habsburgów jest kierowcą wyścigowym i wygrał klasę LMP2 w Le Mans",
+        "summary": "Ferdinand Habsburg, urodzony w 1997 r., ściga się w długodystansowych mistrzostwach świata. W 2021 r. wygrał w swojej klasie 24h Le Mans.",
+        "body": [
+          "Ferdinand Habsburg-Lothringen to austriacki kierowca wyścigowy, a zarazem następca głowy rodu Habsburgów-Lotaryńskich, czyli dynastii, która przez wieki rządziła Austrią. Urodził się 21 czerwca 1997 r.",
+          "Ściga się w długodystansowych mistrzostwach świata FIA WEC. W 2021 r. razem z Charlesem Milesim i Robinem Frijnsem wygrał w klasie LMP2 wyścig 24h Le Mans i cały sezon WEC."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Ferdinand_Habsburg_(racing_driver)"
+          },
+          {
+            "name": "news.at",
+            "url": "https://www.news.at/menschen/ferdinand-habsburg"
+          }
+        ],
+        "insta": {
+          "tytul": "Przyszła głowa rodu Habsburgów zamiast tronu wybrała wyścigi",
+          "opis": "Ferdinand Habsburg jeździ w mistrzostwach świata WEC, a w 2021 r. wygrał swoją klasę w 24h Le Mans."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ferdinand_Habsburg_2024_WEC_Fuji.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Ferdinand_Habsburg_2024_WEC_Fuji.jpg",
+          "credit": "Morio / Wikimedia Commons, CC BY-SA 4.0",
+          "alt": "Ferdinand Habsburg w kombinezonie wyścigowym na torze Fuji",
+          "caption": "Ferdinand Habsburg podczas rundy WEC na torze Fuji w 2024 r."
+        },
+        "caption": {
+          "credit": "Morio / Wikimedia Commons",
+          "text": "Na zdjęciu Ferdinand Habsburg na torze Fuji w 2024 r. w czasie rundy mistrzostw WEC, w których startuje."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Akwesasne",
+        "initials": "AK",
+        "category": "Geografia",
+        "hype": 3,
+        "title": "Terytorium Mohawków Akwesasne leży naraz w dwóch państwach i trzech regionach",
+        "summary": "Akwesasne przecina granica USA i Kanady oraz granica Ontario i Quebecu. Mieszkańcy uważają się za jedną społeczność.",
+        "body": [
+          "Akwesasne to terytorium ludu Mohawków na obu brzegach Rzeki Świętego Wawrzyńca. Przebiega przez nie granica między USA a Kanadą, a po kanadyjskiej stronie także granica prowincji Ontario i Quebec. Część leży w stanie Nowy Jork.",
+          "Mieszkańcy mimo podziału uważają się za jedną społeczność. Przez różne jurysdykcje i prawo dwóch państw utrzymuje się tam jednak osobne służby policyjne."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Akwesasne"
+          },
+          {
+            "name": "The Wampum Chronicles (archiwum)",
+            "url": "https://web.archive.org/web/20120219101833/http://www.wampumchronicles.com/history.htmlDarren"
+          }
+        ],
+        "insta": {
+          "tytul": "Jest miejsce, które leży naraz w USA i Kanadzie, w trzech regionach",
+          "opis": "Terytorium Mohawków Akwesasne przecina granica państw i prowincji. Mieszkańcy i tak mówią, że to jedna społeczność."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Akwesasne.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Akwesasne.jpg",
+          "credit": "Doug Kerr / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Tablica przy drodze witająca w Akwesasne",
+          "caption": "Akwesasne, terytorium Mohawków na granicy USA i Kanady."
+        },
+        "caption": {
+          "credit": "Doug Kerr / Wikimedia Commons",
+          "text": "Zdjęcie pokazuje Akwesasne, terytorium Mohawków przeciętym granicami USA, Kanady oraz Ontario i Quebecu."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Iowa",
+        "initials": "IA",
+        "category": "Historia",
+        "hype": 2,
+        "title": "W 1931 r. w Iowa wybuchła „krowia wojna”: farmerzy nie chcieli badać krów na gruźlicę",
+        "summary": "Farmerzy nie ufali testom na gruźlicę bydła i zaczęli je blokować. Stan wysłał na miejsce Gwardię Narodową.",
+        "body": [
+          "W 1931 r. w amerykańskim stanie Iowa doszło do serii ostrych sporów o obowiązkowe badanie krów na gruźlicę. Farmerzy najpierw próbowali uchylić program, a gdy się nie udało, zbierali się, żeby fizycznie blokować badania.",
+          "Wierzyli, że test może zarazić krowy albo zaszkodzić cielnym krowom, i uważali go za niezgodny z konstytucją. Spór przeszedł do historii jako Iowa Cow War, a na miejsce skierowano Gwardię Narodową."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Iowa_Cow_War"
+          },
+          {
+            "name": "Iowa State University Library",
+            "url": "https://exhibits.lib.iastate.edu/activist-agriculture/cow-war"
+          }
+        ],
+        "insta": {
+          "tytul": "W USA była kiedyś „krowia wojna” o badanie krów",
+          "opis": "W 1931 r. farmerzy z Iowa blokowali testy bydła na gruźlicę, bo bali się, że zaszkodzą krowom. Skończyło się Gwardią Narodową."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Iowa_National_Guard_Members_on_Duty_during_the_%22Iowa_Cow_Wars%2C%22_September_25%2C_1931_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Iowa_National_Guard_Members_on_Duty_during_the_%22Iowa_Cow_Wars,%22_September_25,_1931_(cropped).jpg",
+          "credit": "Autor nieznany / Wikimedia Commons, Public domain",
+          "alt": "Czarno-białe zdjęcie żołnierzy Gwardii Narodowej Iowa na służbie w 1931 r.",
+          "caption": "Gwardziści z Iowa podczas „krowiej wojny”, 25 września 1931 r."
+        },
+        "caption": {
+          "credit": "Autor nieznany / Wikimedia Commons",
+          "text": "Archiwalne zdjęcie gwardzistów z Iowa z 25 września 1931 r., z czasu „krowiej wojny”."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Rowery",
+        "initials": "RO",
+        "category": "Technologia",
+        "hype": 2,
+        "title": "W latach 70. i 80. produkowano rowery z plastiku. Okazały się komercyjną klapą",
+        "summary": "Plastikowe rowery, jak model Itera, powstawały nawet w dużej liczbie, ale się nie przyjęły. Dziś tworzywa wróciły jako włókno węglowe.",
+        "body": [
+          "W latach 70. i na początku lat 80. konstruowano eksperymentalne rowery z plastiku zamiast metalu. Model Itera wyprodukowano w sporej liczbie, ale wszystkie te projekty przegrały na rynku.",
+          "Tworzywa wróciły do rowerów w XXI wieku w innej postaci: wzmacniane kompozyty, zwłaszcza włókno węglowe, są dziś standardem w najdroższych rowerach wyścigowych."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Plastic_bicycle"
+          },
+          {
+            "name": "MOMBAT: The Original Plastic Bike History (archiwum)",
+            "url": "https://web.archive.org/web/20150528055428/http://mombat.org/MOMBAT/Museum/Plastic_Bike_History.html"
+          }
+        ],
+        "insta": {
+          "tytul": "Kiedyś próbowano robić rowery z plastiku i to była klapa",
+          "opis": "Plastikowa Itera weszła do sprzedaży, ale się nie przyjęła. Dziś plastik wrócił do rowerów jako włókno węglowe."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Itera_plastic_bicycle.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Itera_plastic_bicycle.jpg",
+          "credit": "Racerbyce / Wikimedia Commons, Public domain",
+          "alt": "Rower Itera z ramą i kołami z tworzywa sztucznego",
+          "caption": "Plastikowy rower Itera z lat 80."
+        },
+        "caption": {
+          "credit": "Racerbyce / Wikimedia Commons",
+          "text": "Na zdjęciu plastikowy rower Itera, czyli model, który wszedł do produkcji, ale nie przyjął się na rynku."
+        },
+        "slot": "15:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "Perpetuum mobile",
+        "initials": "PM",
+        "category": "Nauka",
+        "hype": 2,
+        "title": "Ludzie od średniowiecza próbują zbudować perpetuum mobile, choć fizyka mówi, że to niemożliwe",
+        "summary": "Maszyny, które miały działać bez końca bez dostarczania energii, projektowano co najmniej od średniowiecza. Termodynamika pokazała, że to niewykonalne.",
+        "body": [
+          "Historia prób budowy perpetuum mobile, czyli maszyny działającej wiecznie bez zasilania, sięga co najmniej średniowiecza. Przez wieki nie było jasne, czy to w ogóle możliwe.",
+          "Współczesna termodynamika pokazała, że takie urządzenia nie mogą działać. Mimo to kolejne próby trwają do dziś, a ich autorzy często nazywają swoje wynalazki innymi słowami, np. „overunity”."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/History_of_perpetual_motion_machines"
+          },
+          {
+            "name": "Museum of Unworkable Devices (archiwum)",
+            "url": "https://web.archive.org/web/20220202094814/https://lockhaven.edu/~dsimanek/museum/people/people.htm"
+          }
+        ],
+        "insta": {
+          "tytul": "Od średniowiecza ludzie budują maszyny, które mają działać wiecznie",
+          "opis": "Fizyka dawno pokazała, że perpetuum mobile nie zadziała. Wynalazcy i tak próbują dalej, tylko zmieniają nazwy."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/WaterScrewPerpetualMotion.png",
+          "href": "https://commons.wikimedia.org/wiki/File:WaterScrewPerpetualMotion.png",
+          "credit": "George A. Bockler / Wikimedia Commons, Public domain",
+          "alt": "Dawny rysunek młyna wodnego ze śrubą, który miał sam pompować wodę",
+          "caption": "Projekt perpetuum mobile ze śrubą wodną, rycina Georga Böcklera."
+        },
+        "caption": {
+          "credit": "George A. Bockler / Wikimedia Commons",
+          "text": "Dawna rycina z projektem perpetuum mobile: młyn ze śrubą wodną, który miał sam napędzać pompę. To jeden z wielu takich pomysłów."
+        },
+        "slot": "15:00"
+      },
       {
         "region": "world",
         "published": "2026-11-27",

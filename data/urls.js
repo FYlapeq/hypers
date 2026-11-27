@@ -2,6 +2,7 @@
 window.HYPERS_URLS = {
  "2026-11-27": {
   "luz": [
+   "artykuly/2026-11-27/chimek-z-eastern-block-klan-wypuscil-singiel-top-of-the-top.html",
    "artykuly/2026-11-27/lukasyno-wydal-album-amor-fati-na-plycie-sa-m-in-peja-pih-tau-i-papier.html",
    "artykuly/2026-11-27/szaran-pokazal-klip-do-so-i-ruszyl-ze-sprzedaza-biletow-na-pierwsza.html",
    "artykuly/2026-11-27/graf-znow-poprowadzil-mature-to-bzdura-odcinek-trafil-na-jego-kanal.html",
@@ -10,6 +11,13 @@ window.HYPERS_URLS = {
    "artykuly/2026-11-27/kai-cenat-pokazal-ze-jego-obiad-na-swieto-dziekczynienia-poszedl.html"
   ],
   "ciekawostki": [
+   "artykuly/2026-11-27/z-konsol-playstation-3-budowano-superkomputery-jeden-powstal-dla.html",
+   "artykuly/2026-11-27/mem-polandball-powstal-zeby-trollowac-polskiego-uzytkownika.html",
+   "artykuly/2026-11-27/nastepca-glowy-rodu-habsburgow-jest-kierowca-wyscigowym-i-wygral.html",
+   "artykuly/2026-11-27/terytorium-mohawkow-akwesasne-lezy-naraz-w-dwoch-panstwach-i-trzech.html",
+   "artykuly/2026-11-27/w-1931-r-w-iowa-wybuchla-krowia-wojna-farmerzy-nie-chcieli-badac-krow.html",
+   "artykuly/2026-11-27/w-latach-70-i-80-produkowano-rowery-z-plastiku-okazaly-sie-komercyjna.html",
+   "artykuly/2026-11-27/ludzie-od-sredniowiecza-probuja-zbudowac-perpetuum-mobile-choc-fizyka.html",
    "artykuly/2026-11-27/pingwin-z-zoo-w-edynburgu-jest-generalem-norweskiej-gwardii.html",
    "artykuly/2026-11-27/w-usa-na-serio-proponowano-wybicie-monety-o-nominale-biliona-dolarow.html",
    "artykuly/2026-11-27/google-stworzyl-program-ktory-sni-i-wszedzie-dorysowuje-psie-pyski.html",
