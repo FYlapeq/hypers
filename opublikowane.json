@@ -2051,6 +2051,21 @@
    "media_id": "18113248640350863",
    "kiedy": "2026-11-28T08:03:20.797Z",
    "slot": "2026-11-28 09:00"
+  },
+  "artykuly/2026-11-28/na-fasadzie-bazyliki-grobu-swietego-od-ok-300-lat-stoi-drabina-ktorej.html": {
+   "media_id": "17926595040445757",
+   "kiedy": "2026-11-28T11:03:45.742Z",
+   "slot": "2026-11-28 12:00"
+  },
+  "artykuly/2026-11-28/brytyjczycy-w-czasie-ii-wojny-swiatowej-planowali-lotniskowiec-z-lodu.html": {
+   "media_id": "17926595040445757",
+   "kiedy": "2026-11-28T11:03:45.742Z",
+   "slot": "2026-11-28 12:00"
+  },
+  "artykuly/2026-11-28/w-argentynie-istnieje-kosciol-maradony-kibice-licza-lata-od-jego.html": {
+   "media_id": "17926595040445757",
+   "kiedy": "2026-11-28T11:03:45.742Z",
+   "slot": "2026-11-28 12:00"
   }
  },
  "sloty": {
@@ -3339,6 +3354,15 @@
    ],
    "media_id": "18113248640350863",
    "typ": "newsy"
+  },
+  "2026-11-28 12:00": {
+   "sciezki": [
+    "artykuly/2026-11-28/na-fasadzie-bazyliki-grobu-swietego-od-ok-300-lat-stoi-drabina-ktorej.html",
+    "artykuly/2026-11-28/brytyjczycy-w-czasie-ii-wojny-swiatowej-planowali-lotniskowiec-z-lodu.html",
+    "artykuly/2026-11-28/w-argentynie-istnieje-kosciol-maradony-kibice-licza-lata-od-jego.html"
+   ],
+   "media_id": "17926595040445757",
+   "typ": "ciekawostki"
   }
  },
  "bledy": {
