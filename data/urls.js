@@ -1,5 +1,21 @@
 // Wygenerowane przez scripts/build.mjs, nie edytuj ręcznie.
 window.HYPERS_URLS = {
+ "2026-11-28": {
+  "luz": [
+   "artykuly/2026-11-28/young-multi-obejrzal-film-o-tym-jak-trzy-razy-podbil-polski-internet.html",
+   "artykuly/2026-11-28/rezigiusz-wraca-do-formatu-100-godzin-tym-razem-spedza-je-na-pustyni.html",
+   "artykuly/2026-11-28/lootbox-co-wycieto-z-gta-6-i-jak-hideo-kojima-zachwycil-sie-zubrowka.html",
+   "artykuly/2026-11-28/kebcio-i-blejzsfn-wrocili-do-wspolnego-grania-i-wygrali-turniej.html",
+   "artykuly/2026-11-28/gothamchess-pokazal-najlepsza-partie-szachow-ktorej-nie-widzieliscie.html"
+  ],
+  "ciekawostki": [
+   "artykuly/2026-11-28/na-fasadzie-bazyliki-grobu-swietego-od-ok-300-lat-stoi-drabina-ktorej.html",
+   "artykuly/2026-11-28/brytyjczycy-w-czasie-ii-wojny-swiatowej-planowali-lotniskowiec-z-lodu.html",
+   "artykuly/2026-11-28/w-argentynie-istnieje-kosciol-maradony-kibice-licza-lata-od-jego.html",
+   "artykuly/2026-11-28/cala-siec-kolejowa-mauretanii-to-jedna-linia-ktora-wozi-rude-zelaza.html",
+   "artykuly/2026-11-28/rdzenni-mieszkancy-wielkich-rownin-mieli-wspolny-jezyk-migowy-choc.html"
+  ]
+ },
  "2026-11-27": {
   "luz": [
    "artykuly/2026-11-27/chimek-z-eastern-block-klan-wypuscil-singiel-top-of-the-top.html",

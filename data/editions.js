@@ -1,5 +1,442 @@
 // Wydania Hypers: klucz = data wydania (RRRR-MM-DD)
 window.HYPERS_EDITIONS = {
+  "2026-11-28": {
+    "date": "2026-11-28",
+    "ryby": [],
+    "luz": [
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "Young Multi",
+        "initials": "YM",
+        "category": "YouTube",
+        "hype": 3,
+        "title": "Young Multi obejrzał film o tym, jak „trzy razy podbił polski internet”",
+        "summary": "Na kanale YOUNG MULTI LIVE pojawiła się reakcja Multiego na materiał o jego własnej karierze. Twórca oryginału podziękował mu w komentarzach za „docenienie materiału”.",
+        "body": [
+          "Young Multi wrzucił na kanał YOUNG MULTI LIVE prawie 40-minutowy odcinek, w którym ogląda film „Jak Young Multi podbił polski internet 3 razy?”. Link do oryginału jest w opisie filmu.",
+          "Najwyżej oceniony komentarz napisał autor materiału. Dziękuje w nim Multiemu za docenienie filmu, a widzom swojego kanału za ciepłe przyjęcie. Wielu widzów wspomina w komentarzach własne lata oglądania Multiego, od pierwszych filmów po wspólne odcinki z Rezim.",
+          "W sobotę o 6:16 reakcja miała ok. 117 tys. wyświetleń i ponad 3,8 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "YOUNG MULTI LIVE / YouTube",
+            "url": "https://www.youtube.com/watch?v=3dLCq-6wNQs",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=3dLCq-6wNQs",
+        "caption": {
+          "credit": "Young Multi / YouTube",
+          "text": "Miniatura reakcji, w której Multi ogląda film o swojej karierze. To materiał, o którym jest ten news."
+        },
+        "ig": [
+          "youngmulti"
+        ],
+        "insta": {
+          "tytul": "Young Multi obejrzał film o tym, jak trzy razy podbił polski internet",
+          "opis": "Autor filmu sam mu podziękował w komentarzach. A widzowie odpalili nostalgię 😅"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/3dLCq-6wNQs/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/3dLCq-6wNQs/hqdefault.jpg",
+          "credit": "Young Multi / YouTube",
+          "href": "https://www.youtube.com/watch?v=3dLCq-6wNQs",
+          "alt": "Miniatura filmu Young Multi ogląda Jak Young Multi podbił polski internet 3 razy",
+          "caption": "Kadr z reakcji Young Multiego"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "ReZigiusz",
+        "initials": "RZ",
+        "category": "Podróże",
+        "hype": 3,
+        "title": "ReZigiusz wraca do formatu „100 godzin”. Tym razem spędza je na pustyni",
+        "summary": "ReZigiusz zapowiedział krótkim filmem nowe wyzwanie: 100 godzin na pustyni. Sam pisze, że na początku był uśmiech, a potem „było nieco inaczej”.",
+        "body": [
+          "ReZigiusz wrzucił na YouTube krótki film „Czas rozpocząć 100h na pustyni”. W opisie pisze, że na początku wyzwania był uśmiech, a później „było nieco inaczej”.",
+          "Format „100 godzin” to jedna z rozpoznawalnych serii Reziego. Widzowie w komentarzach cieszą się z powrotu wyzwań i już podsuwają kolejne miejsca, np. Alaskę.",
+          "Kilka dni temu Rezi przeniósł vlogi z głównego kanału na osobny. W sobotę o 6:16 zapowiedź miała ok. 51 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "ReZigiusz / YouTube",
+            "url": "https://www.youtube.com/shorts/oin03YG8JSQ",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/shorts/oin03YG8JSQ",
+        "caption": {
+          "credit": "ReZigiusz / YouTube",
+          "text": "Kadr z zapowiedzi wyzwania na pustyni. To ten film otwiera nowe „100 godzin”."
+        },
+        "ig": [
+          "rezigiusz"
+        ],
+        "insta": {
+          "tytul": "Rezi wraca z 100 godzinami. Tym razem na pustyni",
+          "opis": "Sam pisze, że na początku był uśmiech, a potem już nie bardzo 🏜️"
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/oin03YG8JSQ/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/oin03YG8JSQ/hqdefault.jpg",
+          "credit": "ReZigiusz / YouTube",
+          "href": "https://www.youtube.com/shorts/oin03YG8JSQ",
+          "alt": "Kadr z filmu ReZigiusza Czas rozpocząć 100h na pustyni",
+          "caption": "Kadr z zapowiedzi 100 godzin na pustyni"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "LootBox",
+        "initials": "LB",
+        "category": "Gry",
+        "hype": 3,
+        "title": "LootBox: co wycięto z GTA 6 i jak Hideo Kojima zachwycił się Żubrówką",
+        "summary": "W nowym odcinku LootBox zebrał newsy o GTA 6: sprzedaż wersji pudełkowych, pomysły, które nie weszły do gry, i nowe statystyki. Na deser wizyta Hideo Kojimy w Polsce.",
+        "body": [
+          "LootBox wrzucił odcinek „Co wycięto z Grand Theft Auto 6 — Kojima zachwycony Żubrówką — nowe statystyki GTA 6”. Według rozpiski w opisie porusza w nim sprzedaż fizycznych wydań GTA 6, zatrudnienie przez Rockstar eksperta od simracingu, wycięte z gry pomysły, ceny kart graficznych i statystyki GTA 6.",
+          "Osobny fragment dotyczy Hideo Kojimy. Jako źródło LootBox podaje tekst gry-online.pl o przyjeździe twórcy Metal Gear Solid i Death Stranding do Polski.",
+          "Część widzów chwali odcinek, inni piszą, że po premierze GTA 6 na kanałach z newsami brakuje innych gier. W sobotę o 6:16 film miał ok. 38 tys. wyświetleń."
+        ],
+        "sources": [
+          {
+            "name": "LootBox / YouTube",
+            "url": "https://www.youtube.com/watch?v=lYOe4_VmpNY",
+            "origin": true
+          },
+          {
+            "name": "gry-online.pl",
+            "url": "https://www.gry-online.pl/newsroom/hideo-kojima-przyjechal-do-polski-a-internauci-od-razu-zwrocili-u/z3324b8"
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=lYOe4_VmpNY",
+        "caption": {
+          "credit": "LootBox / YouTube",
+          "text": "Miniatura odcinka LootBoxa z newsami o GTA 6 i wizycie Kojimy. Opisujemy tematy według rozpiski z opisu filmu."
+        },
+        "ig": [
+          "lootbox_news"
+        ],
+        "insta": {
+          "tytul": "Co wycięto z GTA 6 i czemu Kojima zachwycił się Żubrówką",
+          "opis": "LootBox zebrał to w jednym odcinku. Są też nowe statystyki GTA 6."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/lYOe4_VmpNY/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/lYOe4_VmpNY/hqdefault.jpg",
+          "credit": "LootBox / YouTube",
+          "href": "https://www.youtube.com/watch?v=lYOe4_VmpNY",
+          "alt": "Miniatura odcinka LootBox o GTA 6 i Hideo Kojimie",
+          "caption": "Kadr z odcinka LootBoxa"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "pl",
+        "published": "2026-11-27",
+        "who": "kebcio",
+        "initials": "KB",
+        "category": "Esport",
+        "hype": 3,
+        "title": "kebcio i blejzsfn wrócili do wspólnego grania i wygrali turniej Fortnite",
+        "summary": "kebcio pokazał na YouTube, jak razem z blejzsfn wygrał turniej Fortnite. W tytule pisze o turnieju „wartym 5 500 000 $”.",
+        "body": [
+          "kebcio wrzucił film „Wygraliśmy turniej wart 5.500.000$”. W opisie pisze, że wrócili i wygrali turniej Fortnite, a grał w duecie z blejzsfn.",
+          "W filmie nie ma napisów, więc nie opisujemy przebiegu meczów. W komentarzach widzowie cieszą się z powrotu tego duetu i chwalą montaż.",
+          "W sobotę o 6:16 film miał ok. 76 tys. wyświetleń i ponad 1,6 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "kebcio / YouTube",
+            "url": "https://www.youtube.com/watch?v=VbiUP3SW7u0",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=VbiUP3SW7u0",
+        "caption": {
+          "credit": "kebcio / YouTube",
+          "text": "Miniatura filmu, w którym kebcio pokazuje wygrany turniej. Kwota w tytule pochodzi od twórcy."
+        },
+        "ig": [
+          "kebcioyt"
+        ],
+        "insta": {
+          "tytul": "kebcio i blejz wrócili do wspólnego grania i od razu wygrali turniej Fortnite",
+          "opis": "W tytule filmu kebcio pisze o turnieju wartym 5,5 mln dolarów."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/VbiUP3SW7u0/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/VbiUP3SW7u0/hqdefault.jpg",
+          "credit": "kebcio / YouTube",
+          "href": "https://www.youtube.com/watch?v=VbiUP3SW7u0",
+          "alt": "Miniatura filmu kebcio Wygraliśmy turniej wart 5.500.000$",
+          "caption": "Kadr z filmu kebcio"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-27",
+        "who": "GothamChess",
+        "initials": "GC",
+        "category": "Szachy",
+        "hype": 2,
+        "title": "GothamChess pokazał „najlepszą partię szachów, której nie widzieliście”",
+        "summary": "Levy Rozman omówił partię, którą nazwał najlepszą, jakiej widzowie nie znają. Film w pół doby zebrał ponad 600 tys. wyświetleń.",
+        "body": [
+          "GothamChess wrzucił 27-minutowy film „The Greatest Chess Game You Have Never Seen”. Z komentarzy widzów wynika, że jednym z graczy jest arcymistrz Daniił Dubow.",
+          "Widzowie piszą, że ta partia ciekawi ich bardziej niż trwający mecz o mistrzostwo świata Gukesh – Sindarow, który Levy też omawia na kanale. Część zauważa, że wrócił z nagraniami po kilku dniach choroby.",
+          "W sobotę o 6:16 film miał ok. 608 tys. wyświetleń i ponad 14 tys. polubień."
+        ],
+        "sources": [
+          {
+            "name": "GothamChess / YouTube",
+            "url": "https://www.youtube.com/watch?v=uqG4tlffbpk",
+            "origin": true
+          }
+        ],
+        "embed": "https://www.youtube.com/watch?v=uqG4tlffbpk",
+        "caption": {
+          "credit": "GothamChess / YouTube",
+          "text": "Miniatura filmu, w którym Levy Rozman omawia partię. To ten materiał opisuje news."
+        },
+        "ig": [
+          "gothamchess"
+        ],
+        "insta": {
+          "tytul": "GothamChess znalazł „najlepszą partię, której nie widzieliście”",
+          "opis": "Ponad 600 tys. wyświetleń w pół doby. Widzowie piszą, że to ciekawsze niż mecz o mistrzostwo świata."
+        },
+        "image": {
+          "kind": "kadr",
+          "src": "https://i.ytimg.com/vi/uqG4tlffbpk/maxresdefault.jpg",
+          "fallback": "https://i.ytimg.com/vi/uqG4tlffbpk/hqdefault.jpg",
+          "credit": "GothamChess / YouTube",
+          "href": "https://www.youtube.com/watch?v=uqG4tlffbpk",
+          "alt": "Miniatura filmu GothamChess The Greatest Chess Game You Have Never Seen",
+          "caption": "Kadr z filmu GothamChess"
+        },
+        "slot": "7:00"
+      }
+    ],
+    "ciekawostki": [
+      {
+        "region": "world",
+        "published": "2026-11-28",
+        "who": "Jerozolima",
+        "initials": "JE",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Na fasadzie Bazyliki Grobu Świętego od ok. 300 lat stoi drabina, której nikt nie może ruszyć",
+        "summary": "To tzw. nieruchoma drabina. Kościół należy wspólnie do sześciu wyznań, a bez zgody wszystkich nie wolno w nim niczego przestawić ani naprawić.",
+        "body": [
+          "Drewniana drabina opiera się o okno Bazyliki Grobu Świętego w Jerozolimie co najmniej od lat 20. XVIII wieku. Chroni ją tzw. status quo: sześć wyznań chrześcijańskich, które wspólnie posiadają świątynię, umówiło się, że nic się w niej nie zmienia bez zgody wszystkich.",
+          "Drabina stoi na gzymsie przy oknie należącym do Ormiańskiego Kościoła Apostolskiego i stała się symbolem sporów między wyznaniami."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Immovable_Ladder"
+          },
+          {
+            "name": "See The Holy Land",
+            "url": "http://www.seetheholyland.net/tag/greek-orthodox/"
+          }
+        ],
+        "caption": {
+          "credit": "Seetheholyland.net / Wikimedia Commons",
+          "text": "Drabina na gzymsie nad wejściem do bazyliki. Tak wygląda od stuleci."
+        },
+        "insta": {
+          "tytul": "Ta drabina stoi w tym samym miejscu od ok. 300 lat i nikt nie może jej ruszyć",
+          "opis": "Kościół ma sześciu właścicieli i każda zmiana wymaga zgody wszystkich. No i drabina została."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Immovable_ladder_on_ledge_over_entrance_to_Church_of_the_Holy_Sepulchre.jpg",
+          "credit": "Seetheholyland.net / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Drewniana drabina oparta o okno nad wejściem do Bazyliki Grobu Świętego",
+          "caption": "Nieruchoma drabina na fasadzie Bazyliki Grobu Świętego"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-28",
+        "who": "Wielka Brytania",
+        "initials": "WB",
+        "category": "Historia",
+        "hype": 4,
+        "title": "Brytyjczycy w czasie II wojny światowej planowali lotniskowiec z lodu",
+        "summary": "Projekt Habakuk zakładał statek z pykretu, czyli lodu zmieszanego z masą drzewną. Miał mieć 600 metrów długości.",
+        "body": [
+          "Pomysł wyszedł od Geoffreya Pyke'a. Lodowy lotniskowiec miał pomóc w walce z niemieckimi U-Bootami na środku Atlantyku, poza zasięgiem samolotów startujących z lądu. Przy 600 metrach byłby prawie dwa razy dłuższy niż największe dzisiejsze lotniskowce.",
+          "Po testach i budowie prototypu na jeziorze Patricia w Kanadzie projekt odłożono: rosły koszty, a samoloty dalekiego zasięgu i lotniskowce eskortowe rozwiązały problem."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Project_Habakkuk"
+          },
+          {
+            "name": "Cabinet Magazine",
+            "url": "http://www.cabinetmagazine.org/issues/7/floatingisland.php"
+          }
+        ],
+        "caption": {
+          "credit": "autor nieznany / Wikimedia Commons",
+          "text": "Archiwalna grafika związana z projektem Habakuk, czyli lodowym lotniskowcem, o którym jest ciekawostka."
+        },
+        "insta": {
+          "tytul": "Brytyjczycy chcieli zbudować lotniskowiec z lodu. Serio",
+          "opis": "Lód z masą drzewną, 600 metrów długości. Zbudowali nawet prototyp w Kanadzie, ale projekt odpuszczono."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Habakukk_aircraft_01_%28cropped%29.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Habakukk_aircraft_01_(cropped).jpg",
+          "credit": "autor nieznany / Wikimedia Commons, domena publiczna",
+          "alt": "Archiwalna ilustracja lodowego lotniskowca z projektu Habakuk",
+          "caption": "Projekt Habakuk"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-28",
+        "who": "Argentyna",
+        "initials": "AR",
+        "category": "Sport",
+        "hype": 4,
+        "title": "W Argentynie istnieje Kościół Maradony. Kibice liczą lata od jego urodzin",
+        "summary": "Iglesia Maradoniana założyli trzej fani w Rosario w 1998 roku, w 38. urodziny piłkarza.",
+        "body": [
+          "Kościół Maradony powstał 30 października 1998 roku w Rosario. Założyli go trzej kibice, dla których Diego Maradona jest najlepszym piłkarzem w historii.",
+          "Jego wyznawcy liczą lata od narodzin Maradony w 1960 roku. Jeden z założycieli mówił, że jego religią „rozumu” jest katolicyzm, a religią serca i pasji Maradona."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Iglesia_Maradoniana"
+          },
+          {
+            "name": "Olé (archiwum)",
+            "url": "https://web.archive.org/web/20161114004028/http://edant.ole.com.ar/diario/2002/10/31/n-467150.htm"
+          }
+        ],
+        "caption": {
+          "credit": "Antonio from Mijas, España / Wikimedia Commons",
+          "text": "Graffiti z Maradoną. W Argentynie piłkarz ma status niemal świętego, a dla części kibiców dosłownie."
+        },
+        "insta": {
+          "tytul": "W Argentynie jest Kościół Maradony. Kibice liczą lata od jego urodzin",
+          "opis": "Założyli go trzej fani w 1998 roku, w urodziny piłkarza ⚽"
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Maradona_-_grafiti.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Maradona_-_grafiti.jpg",
+          "credit": "Antonio from Mijas, España / Wikimedia Commons, CC BY-SA 2.0",
+          "alt": "Graffiti przedstawiające Diego Maradonę",
+          "caption": "Graffiti z Diego Maradoną"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-28",
+        "who": "Mauretania",
+        "initials": "MA",
+        "category": "Kraje",
+        "hype": 3,
+        "title": "Cała sieć kolejowa Mauretanii to jedna linia, która wozi rudę żelaza z kopalni do portu",
+        "summary": "Linia ma 704 km i łączy kopalnie w Zouérat z portem Nawazibu. Otwarto ją w 1963 roku.",
+        "body": [
+          "Mauretania ma tylko jedną linię kolejową. Ma 704 km i łączy centrum wydobycia rudy żelaza w Zouérat z portem Nawazibu nad Atlantykiem.",
+          "Budowa ruszyła w 1960 roku, a linię otwarto w 1963. Kontroluje ją państwowa spółka górnicza SNIM."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Mauritania_Railway"
+          },
+          {
+            "name": "Railway Gazette (archiwum)",
+            "url": "https://web.archive.org/web/20110615194015/http://www.railwaygazette.com/nc/news/single-view/view/high-temperature-locomotives-ordered-from-emd.html"
+          }
+        ],
+        "caption": {
+          "credit": "Vuxi / Wikimedia Commons",
+          "text": "Mapa jedynej linii kolejowej Mauretanii. Widać, że biegnie od kopalń w głębi kraju do wybrzeża."
+        },
+        "insta": {
+          "tytul": "Mauretania ma jedną linię kolejową. Służy głównie do wożenia rudy żelaza",
+          "opis": "704 km z kopalni prosto do portu. I to cała sieć kolejowa kraju."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Map_Mauritania_Railway.png",
+          "href": "https://commons.wikimedia.org/wiki/File:Map_Mauritania_Railway.png",
+          "credit": "Vuxi / Wikimedia Commons, CC BY-SA 3.0",
+          "alt": "Mapa Mauretanii z zaznaczoną linią kolejową od Zouérat do Nawazibu",
+          "caption": "Mapa kolei w Mauretanii"
+        },
+        "slot": "7:00"
+      },
+      {
+        "region": "world",
+        "published": "2026-11-28",
+        "who": "Ameryka Północna",
+        "initials": "AP",
+        "category": "Język",
+        "hype": 3,
+        "title": "Rdzenni mieszkańcy Wielkich Równin mieli wspólny język migowy, choć większość z nich słyszała",
+        "summary": "Język migowy Indian Równin służył do handlu i dyplomacji między plemionami mówiącymi różnymi językami.",
+        "body": [
+          "Plains Indian Sign Language, zwany też „mową rąk”, był wspólnym językiem wielu ludów Ameryki Północnej, od Kanady po północny Meksyk. Używano go w handlu, dyplomacji i przy opowiadaniu historii.",
+          "W 1885 roku szacowano, że posługiwało się nim ponad 110 tys. osób, m.in. Czarnych Stóp, Czejenów, Siuksów i Arapahów. Dziś jest językiem zagrożonym."
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia (EN)",
+            "url": "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language"
+          },
+          {
+            "name": "National Museum of Language",
+            "url": "https://languagemuseum.org/language-of-the-month-plains-indian-sign-language/"
+          }
+        ],
+        "caption": {
+          "credit": "Garrick Mallery / Wikimedia Commons",
+          "text": "XIX-wieczna ilustracja znaku „słońce” z opracowania Garricka Mallery'ego o języku migowym Indian Równin."
+        },
+        "insta": {
+          "tytul": "Indianie z Wielkich Równin dogadywali się wspólnym językiem migowym",
+          "opis": "Choć większość słyszała. Plemiona mówiły różnymi językami, więc migi służyły do handlu i dyplomacji."
+        },
+        "image": {
+          "kind": "wolne",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Sun_Sign.jpg",
+          "href": "https://commons.wikimedia.org/wiki/File:Sun_Sign.jpg",
+          "credit": "Garrick Mallery / Wikimedia Commons, domena publiczna",
+          "alt": "Rysunek dłoni pokazującej znak słońca w języku migowym Indian Równin",
+          "caption": "Znak „słońce” w języku migowym Indian Równin"
+        },
+        "slot": "7:00"
+      }
+    ]
+  },
   "2026-11-27": {
     "date": "2026-11-27",
     "ryby": [],
